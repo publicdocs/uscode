@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6934.md) | [Next](./../../../../..//us/usc/t7/ch98/schIII/m__us_usc_t7_s6941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch98%2FschIII)
+[Previous](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6935.md) | [Next](./../../../../..//us/usc/t7/ch98/schIII/m__us_usc_t7_s6941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch98%2FschIII)
 
 ### SUBCHAPTER III—RURAL ECONOMIC AND COMMUNITY DEVELOPMENT
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6934.md) | [Next](./../../../../..//us/usc/t7/ch98/schIII/m__us_usc_t7_s6941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch98%2FschIII)
+[Previous](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6935.md) | [Next](./../../../../..//us/usc/t7/ch98/schIII/m__us_usc_t7_s6941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch98%2FschIII)
 
 ----------
 ----------

@@ -57,15 +57,15 @@
 
         There is authorized to be appropriated—
 
-            (A) $1,500,000 for each of fiscal years 2008 through 2012 to carry out section 11010 of the Food, Conservation, and Energy Act of 2008; and
+            (A) $1,500,000 for each of fiscal years 2008 through 2018 to carry out section 11010 of the Food, Conservation, and Energy Act of 2008; and
 
-            (B) such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section.
+            (B) such sums as may be necessary for each of fiscal years 2008 through 2018 to carry out this section.
 
         (2) __Availability__ 
 
             Funds appropriated under paragraph (1) shall remain available until expended.
 
-([Pub. L. 107–171, title X, § 10405][/us/pl/107/171/s10405], May 13, 2002, [116 Stat. 497][/us/stat/116/497]; [Pub. L. 110–234, title XI, § 11010(c)][/us/pl/110/234/s11010/c], May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11010(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2121.)
+([Pub. L. 107–171, title X, § 10405][/us/pl/107/171/s10405], May 13, 2002, [116 Stat. 497][/us/stat/116/497]; [Pub. L. 110–234, title XI, § 11010(c)][/us/pl/110/234/s11010/c], May 22, 2008, [122 Stat. 1360][/us/stat/122/1360]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11010(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2121; [Pub. L. 113–79, title XII, § 12101(c)][/us/pl/113/79/s12101/c], Feb. 7, 2014, [128 Stat. 978][/us/stat/128/978].)
 
  __References in Text__ 
 
@@ -76,6 +76,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(1). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012” in subpars. (A) and (B).
 
     2008—Subsec. (d). [Pub. L. 110–246, § 11010(c)][/us/pl/110/246/s11010/c], added subsec. (d).
 
@@ -88,6 +90,16 @@
     For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
  __Trichinae Certification Program__ 
+
+[Pub. L. 113–79, title XII, § 12101(a)][/us/pl/113/79/s12101/a], (b), Feb. 7, 2014, [128 Stat. 978][/us/stat/128/978], provided that:
+
+>     “(a)  __Alternative Certification Process__  __.—__ 
+
+>     The Secretary of Agriculture shall amend the rule made under paragraph (2) of section 11010(a) of the Food, Conservation, and Energy Act of 2008 ([7 U.S.C. 8304(a)][/us/usc/t7/s8304/a] \[sic\]) \[[7 U.S.C. 8304][/us/usc/t7/s8304] note, set out below\] to implement the voluntary trichinae certification program established under paragraph (1) of such section, to include a requirement to establish an alternative trichinae certification process based on surveillance or other methods consistent with international standards for categorizing compartments as having negligible risk for trichinae.
+
+>     “(b)  __Final Regulations__  __.—__ 
+
+>     Not later than one year after the date on which the international standards referred to in subsection (a) are adopted, the Secretary shall finalize the rule amended under such subsection.”
 
 [Pub. L. 110–234, title XI, § 11010(a)][/us/pl/110/234/s11010/a], (b), May 22, 2008, [122 Stat. 1359][/us/stat/122/1359], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11010(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2121, provided that:
 
@@ -128,11 +140,14 @@
 [/us/stat/122/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1360
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s12101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12101%2Fc
+[/us/stat/128/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F978
 [/us/pl/110/246/s11010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11010
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s11010/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11010%2Fc
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -140,6 +155,10 @@
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/113/79/s12101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12101%2Fa
+[/us/stat/128/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F978
+[/us/usc/t7/s8304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8304%2Fa
+[/us/usc/t7/s8304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8304
 [/us/pl/110/234/s11010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs11010%2Fa
 [/us/stat/122/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1359
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa

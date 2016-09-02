@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036a.md) | [Next](./../../../..//us/usc/t7/ch53/m__us_usc_t7_ch53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch52)
+[Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036c.md) | [Next](./../../../..//us/usc/t7/ch53/m__us_usc_t7_ch53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch52)
 
 ## CHAPTER 52—FARM LABOR CONTRACTOR REGISTRATION
 
@@ -965,7 +965,7 @@ Section 2050a, [Pub. L. 88–582, § 12][/us/pl/88/582/s12], as added [Pub. L.
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036a.md) | [Next](./../../../..//us/usc/t7/ch53/m__us_usc_t7_ch53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch52)
+[Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036c.md) | [Next](./../../../..//us/usc/t7/ch53/m__us_usc_t7_ch53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch52)
 
 ----------
 ----------

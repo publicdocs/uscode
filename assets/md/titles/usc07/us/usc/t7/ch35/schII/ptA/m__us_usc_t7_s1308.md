@@ -43,71 +43,23 @@
 
             The term “Secretary” means the Secretary of Agriculture.
 
-    (b) __Limitation on direct payments, counter-cyclical payments, and ACRE payments for covered commodities (other than peanuts)__ 
+    (b) __Limitation on payments for covered commodities (other than peanuts)__ 
 
-        (1) __Direct payments__ 
+        The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 \[[7 U.S.C. 9016][/us/usc/t7/s9016], 9017\] and as marketing loan gains or loan deficiency payments under subtitle B of title I of the Agricultural Act of 2014 \[[7 U.S.C. 9031][/us/usc/t7/s9031] et seq.\] (other than for peanuts) may not exceed $125,000.
 
-        The total amount of direct payments received, directly or indirectly, by a person or legal entity (except a joint venture or a general partnership) for any crop year under subtitle A of title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8711][/us/usc/t7/s8711] et seq.\] for 1 or more covered commodities (except for peanuts) may not exceed—
+    (c) __Limitation on payments for peanuts__ 
 
-            (A) in the case of a person or legal entity that does not participate in the average crop revenue election program under section 1105 of that Act \[[7 U.S.C. 8715][/us/usc/t7/s8715]\], $40,000; or
-
-            (B)
-
-             in the case of a person or legal entity that participates in the average crop revenue election program under section 1105 of that Act, an amount equal to—
-
-                (i) the payment limit specified in subparagraph (A); less
-
-                (ii) the amount of the reduction in direct payments under section 1105(a)(1) of that Act.
-
-        (2) __Counter-cyclical payments__ 
-
-            In the case of a person or legal entity (except a joint venture or a general partnership) that does not participate in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year under subtitle A of title I of that Act \[[7 U.S.C. 8711][/us/usc/t7/s8711] et seq.\] for 1 or more covered commodities (except for peanuts) may not exceed $65,000.
-
-        (3) __ACRE and counter-cyclical payments__ 
-
-        In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments and counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year for 1 or more covered commodities (except for peanuts) may not exceed the sum of—
-
-            (A) $65,000; and
-
-            (B) the amount by which the direct payment limitation is reduced under paragraph (1)(B).
-
-    (c) __Limitation on direct payments, counter-cyclical payments, and ACRE payments for peanuts__ 
-
-        (1) __Direct payments__ 
-
-        The total amount of direct payments received, directly or indirectly, by a person or legal entity (except a joint venture or a general partnership) for any crop year under subtitle C of title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8751][/us/usc/t7/s8751] et seq.\] for peanuts may not exceed—
-
-            (A) in the case of a person or legal entity that does not participate in the average crop revenue election program under section 1105 of that Act \[[7 U.S.C. 8715][/us/usc/t7/s8715]\], $40,000; or
-
-            (B)
-
-             in the case of a person or legal entity that participates in the average crop revenue election program under section 1105 of that Act, an amount equal to—
-
-                (i) the payment limit specified in subparagraph (A); less
-
-                (ii) the amount of the reduction in direct payments under section 1105(a)(1) of that Act.
-
-        (2) __Counter-cyclical payments__ 
-
-            In the case of a person or legal entity (except a joint venture or a general partnership) that does not participate in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year under subtitle C of title I of that Act \[[7 U.S.C. 8751][/us/usc/t7/s8751] et seq.\] for peanuts may not exceed $65,000.
-
-        (3) __ACRE and counter-cyclical payments__ 
-
-        In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments received, directly or indirectly, by the person or legal entity for any crop year for peanuts may not exceed the sum of—
-
-            (A) $65,000; and
-
-            (B) the amount by which the direct payment limitation is reduced under paragraph (1)(B).
+        The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 \[[7 U.S.C. 9016][/us/usc/t7/s9016], 9017\] and as marketing loan gains or loan deficiency payments under subtitle B of title I of the Agricultural Act of 2014 \[[7 U.S.C. 9031][/us/usc/t7/s9031] et seq.\] for peanuts may not exceed $125,000.
 
     (d) __Limitation on applicability__ 
 
-        Nothing in this section authorizes any limitation on any benefit associated with the marketing assistance loan program or the loan deficiency payment program under title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8701][/us/usc/t7/s8701] et seq.\].
+        Nothing in this section authorizes any limitation on any benefit associated with the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014 \[[7 U.S.C. 9031][/us/usc/t7/s9031] et seq.\] or title I of the Agricultural Act of 2014 \[[7 U.S.C. 9001][/us/usc/t7/s9001] et seq.\].
 
     (e) __Attribution of payments__ 
 
         (1) __In general__ 
 
-            In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and (2)(B) of [section 1308–3a(b) of this title][/us/usc/t7/s1308–3a/b], the Secretary shall issue such regulations as are necessary to ensure that the total amount of payments are attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive the payments.
+            In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and (2)(B) of section 1308–3a(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the Secretary shall issue such regulations as are necessary to ensure that the total amount of payments are attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive the payments.
 
         (2) __Payments to a person__ 
 
@@ -227,7 +179,7 @@
 
             (A) __In general__ 
 
-                Notwithstanding subsection (d), a Federal agency shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8701][/us/usc/t7/s8701] et seq.\] or title XII of this Act \[[16 U.S.C. 3801][/us/usc/t16/s3801] et seq.\].
+                Notwithstanding subsection (d), a Federal agency shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8701][/us/usc/t7/s8701] et seq.\], title I of the Agricultural Act of 2014 \[[7 U.S.C. 9001][/us/usc/t7/s9001] et seq.\], or title XII of this Act \[[16 U.S.C. 3801][/us/usc/t16/s3801] et seq.\].
 
             (B) __Land rental__ 
 
@@ -237,7 +189,7 @@
 
             (A) __In general__ 
 
-                Notwithstanding subsection (d), except as provided in subsection (g), a State or local government, or political subdivision or agency of the government, shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8701][/us/usc/t7/s8701] et seq.\] or title XII of this Act \[[16 U.S.C. 3801][/us/usc/t16/s3801] et seq.\].
+                Notwithstanding subsection (d), except as provided in subsection (g), a State or local government, or political subdivision or agency of the government, shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8701][/us/usc/t7/s8701] et seq.\], title I of the Agricultural Act of 2014 \[[7 U.S.C. 9001][/us/usc/t7/s9001] et seq.\], or title XII of this Act \[[16 U.S.C. 3801][/us/usc/t16/s3801] et seq.\].
 
             (B) __Tenants__ 
 
@@ -283,11 +235,15 @@
 
         Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or [section 1308–1 of this title][/us/usc/t7/s1308–1], to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
-([Pub. L. 99–198, title X, § 1001][/us/pl/99/198/s1001], Dec. 23, 1985, [99 Stat. 1444][/us/stat/99/1444]; [Pub. L. 99–500, § 108(a)][/us/pl/99/500/s108/a], Oct. 18, 1986, [100 Stat. 1783–346][/us/stat/100/1783-346], and [Pub. L. 99–591, § 108(a)][/us/pl/99/591/s108/a], Oct. 30, 1986, [100 Stat. 3341–346][/us/stat/100/3341-346]; [Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 428][/us/stat/101/428]; [Pub. L. 100–203, title I][/us/pl/100/203], §§ 1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, [101 Stat. 1330–12][/us/stat/101/1330-12], 1330–16, 1330–18, 1330–19; [Pub. L. 101–217][/us/pl/101/217], §§ 1, 2, Dec. 11, 1989, [103 Stat. 1857][/us/stat/103/1857]; [Pub. L. 101–624, title XI, § 1111(a)][/us/pl/101/624/s1111/a], (c), (e), Nov. 28, 1990, [104 Stat. 3497–3499][/us/stat/104/3497-3499]; [Pub. L. 102–237, title I, § 118(b)][/us/pl/102/237/s118/b], Dec. 13, 1991, [105 Stat. 1841][/us/stat/105/1841]; [Pub. L. 103–66, title I, § 1101(b)(3)(A)][/us/pl/103/66/s1101/b/3/A], Aug. 10, 1993, [107 Stat. 314][/us/stat/107/314]; [Pub. L. 104–127, title I, § 115(b)][/us/pl/104/127/s115/b], Apr. 4, 1996, [110 Stat. 902][/us/stat/110/902]; [Pub. L. 107–171, title I, § 1603(a)][/us/pl/107/171/s1603/a], (b), May 13, 2002, [116 Stat. 213][/us/stat/116/213], 214; [Pub. L. 110–234, title I, § 1603(a)][/us/pl/110/234/s1603/a], (b), May 22, 2008, [122 Stat. 1002][/us/stat/122/1002]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1730.)
+([Pub. L. 99–198, title X, § 1001][/us/pl/99/198/s1001], Dec. 23, 1985, [99 Stat. 1444][/us/stat/99/1444]; [Pub. L. 99–500, § 108(a)][/us/pl/99/500/s108/a], Oct. 18, 1986, [100 Stat. 1783–346][/us/stat/100/1783-346], and [Pub. L. 99–591, § 108(a)][/us/pl/99/591/s108/a], Oct. 30, 1986, [100 Stat. 3341–346][/us/stat/100/3341-346]; [Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 428][/us/stat/101/428]; [Pub. L. 100–203, title I][/us/pl/100/203], §§ 1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, [101 Stat. 1330–12][/us/stat/101/1330-12], 1330–16, 1330–18, 1330–19; [Pub. L. 101–217][/us/pl/101/217], §§ 1, 2, Dec. 11, 1989, [103 Stat. 1857][/us/stat/103/1857]; [Pub. L. 101–624, title XI, § 1111(a)][/us/pl/101/624/s1111/a], (c), (e), Nov. 28, 1990, [104 Stat. 3497–3499][/us/stat/104/3497-3499]; [Pub. L. 102–237, title I, § 118(b)][/us/pl/102/237/s118/b], Dec. 13, 1991, [105 Stat. 1841][/us/stat/105/1841]; [Pub. L. 103–66, title I, § 1101(b)(3)(A)][/us/pl/103/66/s1101/b/3/A], Aug. 10, 1993, [107 Stat. 314][/us/stat/107/314]; [Pub. L. 104–127, title I, § 115(b)][/us/pl/104/127/s115/b], Apr. 4, 1996, [110 Stat. 902][/us/stat/110/902]; [Pub. L. 107–171, title I, § 1603(a)][/us/pl/107/171/s1603/a], (b), May 13, 2002, [116 Stat. 213][/us/stat/116/213], 214; [Pub. L. 110–234, title I, § 1603(a)][/us/pl/110/234/s1603/a], (b), May 22, 2008, [122 Stat. 1002][/us/stat/122/1002]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1730; [Pub. L. 113–79, title I][/us/pl/113/79], §§ 1603(a)–(b)(2), 1605(f), Feb. 7, 2014, [128 Stat. 705][/us/stat/128/705], 706, 708.)
 
  __References in Text__ 
 
-    The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(1), (2), (c)(1), (2), (d), and (f)(5)(A), (6)(A), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651]. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. Subtitles A and C of title I of the Act are classified generally to subchapters I (§ 8711 et seq.) and III (§ 8751 et seq.), respectively, of chapter 113 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t7/s8701] and Tables.
+    The Agricultural Act of 2014, referred to in subsecs. (b) to (d) and (f)(5)(A), (6)(A), is [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649]. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. Subtitle B of title I of the Act is classified generally to subchapter II (§ 9031 et seq.) of chapter 115 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title][/us/usc/t7/s9001] and Tables.
+
+    Pars. (1) and (2) of [section 1308–3a(b) of this title][/us/usc/t7/s1308–3a/b], referred to in subsec. (e)(1), were repealed, and new pars. (1) and (2) were enacted, by [Pub. L. 113–79, title I, § 1605(a)(2)][/us/pl/113/79/s1605/a/2], Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707].
+
+    The Food, Conservation, and Energy Act of 2008, referred to in subsec. (f)(5)(A), (6)(A), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651]. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t7/s8701] and Tables.
 
     Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1504][/us/stat/99/1504], popularly known as the Sodbuster Law, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation.
 
@@ -306,6 +262,16 @@
     Another prior section 1308, [Pub. L. 95–113, title I, § 101][/us/pl/95/113/s101], Sept. 29, 1977, [91 Stat. 917][/us/stat/91/917]; [Pub. L. 96–213, § 5][/us/pl/96/213/s5], Mar. 18, 1980, [94 Stat. 120][/us/stat/94/120], related to programs for 1978 through 1981 crops.
 
  __Amendments__ 
+
+    2014—Subsecs. (b), (c). [Pub. L. 113–79, § 1603(a)][/us/pl/113/79/s1603/a], added subsecs. (b) and (c) and struck out former subsecs. (b) and (c). Prior to amendment, subsec. (b) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for covered commodities other than peanuts, and subsec. (c) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for peanuts.
+
+    Subsec. (d). [Pub. L. 113–79, § 1605(f)][/us/pl/113/79/s1605/f], inserted before period at end “or title I of the Agricultural Act of 2014”.
+
+    [Pub. L. 113–79, § 1603(b)(1)][/us/pl/113/79/s1603/b/1], substituted “the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014” for “the marketing assistance loan program or the loan deficiency payment program under title I of the Food, Conservation, and Energy Act of 2008”.
+
+    Subsec. (f)(5)(A). [Pub. L. 113–79, § 1603(b)(2)(A)][/us/pl/113/79/s1603/b/2/A], substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
+
+    Subsec. (f)(6)(A). [Pub. L. 113–79, § 1603(b)(2)(B)][/us/pl/113/79/s1603/b/2/B], substituted “, title I of the Agricultural Act of 2014, or title XII” for “or title XII”.
 
     2008—Subsec. (a). [Pub. L. 110–246, § 1603(b)(1)(A)][/us/pl/110/246/s1603/b/1/A], inserted “through [section 1308–5 of this title][/us/usc/t7/s1308–5]” after “this section” in introductory provisions.
 
@@ -390,6 +356,12 @@
     Par. (5)(A). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 108(a)(2)][/us/pl/99/591/s108/a/2], temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
 
     Par. (6). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 108(a)(3)][/us/pl/99/591/s108/a/3], temporarily substituted “lands or animals owned” for “lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–79, title I, § 1603(c)][/us/pl/113/79/s1603/c], Feb. 7, 2014, [128 Stat. 706][/us/stat/128/706], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 1308–3 of this title][/us/usc/t7/s1308–3]\] shall apply beginning with the 2014 crop year.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -481,9 +453,9 @@
 
  __Conservation Reserve Application__ 
 
-[Section 1305(d) of Pub. L. 100–203][/us/pl/100/203/s1305/d] provided that: 
+[Pub. L. 100–203, title I, § 1305(d)][/us/pl/100/203/s1305/d], Dec. 22, 1987, [101 Stat. 1330–18][/us/stat/101/1330-18], provided that: 
 
-> “Notwithstanding section 1234(f)(2) of the Food Security Act of 1985 ([16 U.S.C. 3834(f)][/us/usc/t16/s3834/f]), paragraphs (5) through (7) of section 1001 \[section 1308(5)–(7) of this title\], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 \[sections 1308–1 to 1308–3 of this title\] shall apply to the conservation reserve program under subtitle D of title XII of such Act ([16 U.S.C. 3830][/us/usc/t16/s3830] et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act \[Dec. 22, 1987\], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.”
+> “Notwithstanding \[former\] section 1234(f)(2) of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3834(f)][/us/usc/t16/s3834/f]), paragraphs (5) through (7) of section 1001 \[section 1308(5)–(7) of this title\], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 \[sections 1308–1 to 1308–3 of this title\] shall apply to the conservation reserve program under subtitle D of title XII of such Act ([16 U.S.C. 3830][/us/usc/t16/s3830] et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act \[Dec. 22, 1987\], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.”
 
  __Revision of Regulations__ 
 
@@ -518,19 +490,19 @@
 
 [/us/usc/t7/s1308–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%935
 [/us/usc/t7/s8702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8702
-[/us/usc/t7/s8711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8711
-[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
-[/us/usc/t7/s8711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8711
-[/us/usc/t7/s8751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8751
-[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
-[/us/usc/t7/s8751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8751
-[/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/usc/t7/s1308–3a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a%2Fb
+[/us/usc/t7/s9016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9016
+[/us/usc/t7/s9031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9031
+[/us/usc/t7/s9016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9016
+[/us/usc/t7/s9031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9031
+[/us/usc/t7/s9031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9031
+[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 [/us/usc/t7/s1308–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%935
 [/us/usc/t7/s1308–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%935
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 [/us/usc/t16/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 [/us/usc/t16/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801
 [/us/usc/t7/s1308–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%935
 [/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
@@ -561,6 +533,14 @@
 [/us/stat/122/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1002
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F705
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
+[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
+[/us/usc/t7/s1308–3a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a%2Fb
+[/us/pl/113/79/s1605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fa%2F2
+[/us/stat/128/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F707
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
@@ -580,6 +560,11 @@
 [/us/stat/91/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F917
 [/us/pl/96/213/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F213%2Fs5
 [/us/stat/94/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F120
+[/us/pl/113/79/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fa
+[/us/pl/113/79/s1605/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Ff
+[/us/pl/113/79/s1603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fb%2F1
+[/us/pl/113/79/s1603/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fb%2F2%2FA
+[/us/pl/113/79/s1603/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fb%2F2%2FB
 [/us/pl/110/246/s1603/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fb%2F1%2FA
 [/us/usc/t7/s1308–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%935
 [/us/pl/110/246/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fa
@@ -628,6 +613,9 @@
 [/us/pl/99/591/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fa%2F2
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs108%2Fa%2F3
+[/us/pl/113/79/s1603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fc
+[/us/stat/128/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F706
+[/us/usc/t7/s1308–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -684,6 +672,7 @@
 [/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
 [/us/usc/t7/s1308/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2F5%2FE
 [/us/pl/100/203/s1305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1305%2Fd
+[/us/stat/101/1330-18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-18
 [/us/usc/t16/s3834/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Ff
 [/us/usc/t16/s3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3830
 [/us/pl/99/500/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs108%2Fc

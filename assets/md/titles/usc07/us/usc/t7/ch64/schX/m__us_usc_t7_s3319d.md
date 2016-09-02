@@ -17,7 +17,7 @@
 
     (a) __Research and pilot project program__ 
 
-        Notwithstanding any other provision of law, during the period beginning October 1, 1986, and ending September 30, 2012, the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
+        Notwithstanding any other provision of law, during the period beginning October 1, 1986, and ending September 30, 2018, the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
 
     (b) __Importance to producers__ 
 
@@ -25,7 +25,7 @@
 
     (c) __Research funding, special or competitive grants, etc.; program requirements; agreements, grants and other arrangements__ 
 
-        (1) The Secretary shall use such research funding, special or competitive grants, or other means, as the Secretary determines, to further the purposes of this section in the implementation of a comprehensive and integrated program.
+        (1) The Secretary shall make competitive grants to further the purposes of this section in the implementation of a comprehensive and integrated program.
 
         (2)
 
@@ -61,7 +61,13 @@
 
         The Secretary shall use the expertise and resources of the Agricultural Research Service, the National Institute of Food and Agriculture, and the land-grant colleges and universities for the purpose of carrying out this section.
 
-([Pub. L. 95–113, title XIV, § 1473D][/us/pl/95/113/s1473D], as added [Pub. L. 99–198, title XIV, § 1428][/us/pl/99/198/s1428], Dec. 23, 1985, [99 Stat. 1554][/us/stat/99/1554]; amended [Pub. L. 101–624, title XVI, § 1601(b)(5)][/us/pl/101/624/s1601/b/5], Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 104–127, title VIII, § 819][/us/pl/104/127/s819], Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167]; [Pub. L. 105–185, title III, § 301(a)(14)][/us/pl/105/185/s301/a/14], title VI, § 606(a), June 23, 1998, [112 Stat. 562][/us/stat/112/562], 603; [Pub. L. 107–171, title VII, § 7115][/us/pl/107/171/s7115], May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7136, 7511(c)(13), May 22, 2008, [122 Stat. 1228][/us/stat/122/1228], 1268; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7136, 7511(c)(13), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1990, 2030.)
+    (e) __There are authorized to be appropriated to carry out this section—__ 
+
+        (1) such sums as are necessary for fiscal year 2013; and
+
+        (2) $1,000,000 for each of fiscal years 2014 through 2018.
+
+([Pub. L. 95–113, title XIV, § 1473D][/us/pl/95/113/s1473D], as added [Pub. L. 99–198, title XIV, § 1428][/us/pl/99/198/s1428], Dec. 23, 1985, [99 Stat. 1554][/us/stat/99/1554]; amended [Pub. L. 101–624, title XVI, § 1601(b)(5)][/us/pl/101/624/s1601/b/5], Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 104–127, title VIII, § 819][/us/pl/104/127/s819], Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167]; [Pub. L. 105–185, title III, § 301(a)(14)][/us/pl/105/185/s301/a/14], title VI, § 606(a), June 23, 1998, [112 Stat. 562][/us/stat/112/562], 603; [Pub. L. 107–171, title VII, § 7115][/us/pl/107/171/s7115], May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7136, 7511(c)(13), May 22, 2008, [122 Stat. 1228][/us/stat/122/1228], 1268; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7136, 7511(c)(13), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1990, 2030; [Pub. L. 113–79, title VII, § 7122][/us/pl/113/79/s7122], Feb. 7, 2014, [128 Stat. 876][/us/stat/128/876].)
 
  __References in Text__ 
 
@@ -74,6 +80,12 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79, § 7122(a)(1)][/us/pl/113/79/s7122/a/1], substituted “2018” for “2012”.
+
+    Subsec. (c)(1). [Pub. L. 113–79, § 7122(b)][/us/pl/113/79/s7122/b], substituted “make competitive grants” for “use such research funding, special or competitive grants, or other means, as the Secretary determines,”.
+
+    Subsec. (e). [Pub. L. 113–79, § 7122(a)(2)][/us/pl/113/79/s7122/a/2], added subsec. (e).
 
     2008—Subsec. (a). [Pub. L. 110–246, § 7136][/us/pl/110/246/s7136], substituted “2012” for “2007”.
 
@@ -131,6 +143,8 @@
 [/us/stat/122/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1228
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7122
+[/us/stat/128/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F876
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -140,6 +154,9 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s7122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7122%2Fa%2F1
+[/us/pl/113/79/s7122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7122%2Fb
+[/us/pl/113/79/s7122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7122%2Fa%2F2
 [/us/pl/110/246/s7136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7136
 [/us/pl/110/246/s7511/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F13
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

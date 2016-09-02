@@ -61,9 +61,13 @@
 
         (2) __State contribution__ 
 
-            To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c) of this section.
+            To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c) of this section. The matching funds requirement under [section 3371 of this title][/us/usc/t7/s3371] shall not apply to grants awarded under this section.
 
-([Pub. L. 101–624, title XVI, § 1623][/us/pl/101/624/s1623], Nov. 28, 1990, [104 Stat. 3738][/us/stat/104/3738].)
+([Pub. L. 101–624, title XVI, § 1623][/us/pl/101/624/s1623], Nov. 28, 1990, [104 Stat. 3738][/us/stat/104/3738]; [Pub. L. 113–79, title VII, § 7128(b)(2)(A)][/us/pl/113/79/s7128/b/2/A], Feb. 7, 2014, [128 Stat. 878][/us/stat/128/878].)
+
+ __Amendments__ 
+
+    2014—Subsec. (d)(2). [Pub. L. 113–79][/us/pl/113/79] inserted at end “The matching funds requirement under [section 3371 of this title][/us/usc/t7/s3371] shall not apply to grants awarded under this section.”
 
 ----------
 
@@ -73,7 +77,12 @@
 ----------
 
 [/us/usc/t7/s5812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5812
+[/us/usc/t7/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3371
 [/us/pl/101/624/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1623
 [/us/stat/104/3738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3738
+[/us/pl/113/79/s7128/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FA
+[/us/stat/128/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F878
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t7/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3371
 
 

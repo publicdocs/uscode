@@ -69,7 +69,7 @@
 
         The rural business and cooperative development category consists of all amounts made available for—
 
-            (A) rural business opportunity grants under [section 1926(a)(11)(A) of this title][/us/usc/t7/s1926/a/11/A];
+            (A) rural business opportunity grants under section 1926(a)(11)(A)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title;
 
             (B) business and industry direct and guaranteed loans under [section 1932(a)(2)(A) of this title][/us/usc/t7/s1932/a/2/A]; or
 
@@ -94,6 +94,10 @@
         The Secretary shall make available to each State the total amount allocated for the State under subsection (f) of this section that remains after applying [section 2009f of this title][/us/usc/t7/s2009f].
 
 ([Pub. L. 87–128, title III, § 381E][/us/pl/87/128/s381E], as added [Pub. L. 104–127, title VII, § 761][/us/pl/104/127/s761], Apr. 4, 1996, [110 Stat. 1140][/us/stat/110/1140]; amended [Pub. L. 105–86, title III][/us/pl/105/86], Nov. 18, 1997, [111 Stat. 2094][/us/stat/111/2094]; [Pub. L. 106–472, title III][/us/pl/106/472], §§ 304(b), 305(b), Nov. 9, 2000, [114 Stat. 2071][/us/stat/114/2071]; [Pub. L. 107–171, title VI, § 6026(a)][/us/pl/107/171/s6026/a], May 13, 2002, [116 Stat. 372][/us/stat/116/372]; [Pub. L. 110–234, title VI, § 6012(b)(4)][/us/pl/110/234/s6012/b/4], May 22, 2008, [122 Stat. 1165][/us/stat/122/1165]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6012(b)(4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1927.)
+
+ __References in Text__ 
+
+    [Section 1926(a)(11) of this title][/us/usc/t7/s1926/a/11], referred to in subsec. (d)(3)(A), was repealed by [Pub. L. 113–79, title VI, § 6012(b)][/us/pl/113/79/s6012/b], Feb. 7, 2014, [128 Stat. 845][/us/stat/128/845].
 
  __Codification__ 
 
@@ -148,7 +152,6 @@
 [/us/usc/t7/s1926/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F14
 [/us/usc/t7/s1926a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926a
 [/us/usc/t7/s1932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fb
-[/us/usc/t7/s1926/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F11%2FA
 [/us/usc/t7/s1932/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fa%2F2%2FA
 [/us/usc/t7/s1932/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fc
 [/us/usc/t7/s2009f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009f
@@ -165,6 +168,9 @@
 [/us/stat/122/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1165
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/usc/t7/s1926/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F11
+[/us/pl/113/79/s6012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6012%2Fb
+[/us/stat/128/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F845
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

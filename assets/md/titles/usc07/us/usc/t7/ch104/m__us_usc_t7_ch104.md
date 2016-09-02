@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch103/schIII/ptC/m__us_usc_t7_s7672.md) | [Next](./../../../..//us/usc/t7/ch104/m__us_usc_t7_s7701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch104)
+[Previous](./../../../..//us/usc/t7/ch103/schIII/ptC/m__us_usc_t7_ch103_schIII_ptC.md) | [Next](./../../../..//us/usc/t7/ch104/m__us_usc_t7_s7701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch104)
 
 ## CHAPTER 104—PLANT PROTECTION
 
@@ -291,7 +291,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7761" data-uslm-ref="/us/usc/t7/s7761">7761.</a>  </td>
 
-    <td> National Clean Plant Network.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -379,7 +379,7 @@ SUBCHAPTER V—NOXIOUS WEED CONTROL AND ERADICATION  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch103/schIII/ptC/m__us_usc_t7_s7672.md) | [Next](./../../../..//us/usc/t7/ch104/m__us_usc_t7_s7701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch104)
+[Previous](./../../../..//us/usc/t7/ch103/schIII/ptC/m__us_usc_t7_ch103_schIII_ptC.md) | [Next](./../../../..//us/usc/t7/ch104/m__us_usc_t7_s7701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch104)
 
 ----------
 ----------

@@ -17,11 +17,11 @@
 
     (a) __Competitive specialized research and extension grants authorized__ 
 
-    In consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, the Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities regarding organically grown and processed agricultural commodities for the purposes of—
+    In consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, the Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research, education, and extension activities regarding organically grown and processed agricultural commodities for the purposes of—
 
-        (1) facilitating the development of organic agriculture production, breeding, and processing methods;
+        (1) facilitating the development and improvement of organic agriculture production, breeding, and processing methods;
 
-        (2) evaluating the potential economic benefits to producers and processors who use organic methods;
+        (2) evaluating the potential economic benefits of organic agricultural production and methods to producers, processors, and rural communities;
 
         (3) exploring international trade opportunities for organically grown and processed agricultural commodities;
 
@@ -29,7 +29,7 @@
 
         (5) identifying marketing and policy constraints on the expansion of organic agriculture;
 
-        (6) conducting advanced on-farm research and development that emphasizes observation of, experimentation with, and innovation for working organic farms, including research relating to production and marketing and to socioeconomic conditions;
+        (6) conducting advanced on-farm research and development that emphasizes observation of, experimentation with, and innovation for working organic farms, including research relating to production, marketing, food safety, socioeconomic conditions, and farm business management;
 
         (7) examining optimal conservation and environmental outcomes relating to organically produced agricultural products; and
 
@@ -39,53 +39,61 @@
 
         Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title][/us/usc/t7/s450i] shall apply with respect to the making of grants under this section.
 
-    (c) __Matching funds required__ 
-
-        (1) __In general__ 
-
-            The Secretary shall require the recipient of a grant under this section to provide funds or in-kind support from non-Federal sources in an amount at least equal to the amount provided by the Federal Government.
-
-        (2) __Waiver authority__ 
-
-        The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a research project if the Secretary determines that—
-
-            (A) the results of the project, while of particular benefit to a specified agricultural commodity, are likely to be applicable to agricultural commodities generally; or
-
-            (B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
-
-    (d) __Partnerships encouraged__ 
+    (c) __Partnerships encouraged__ 
 
         Following the completion of a peer review process for grant proposals received under this section, the Secretary may provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.
 
-    (e) __Funding__ 
+    (d) __Funding__ 
 
         On October 1, 2003, and each October 1 thereafter through October 1, 2007, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $3,000,000 to the Secretary of Agriculture for this section.
 
-    (f) __Funding__ 
+    (e) __Funding__ 
 
-        (1) __Mandatory funding for fiscal years 2009 through 2012__ 
+        (1) __Mandatory funding__ 
 
         Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
 
-            (A) $18,000,000 for fiscal year 2009; and
+            (A) $18,000,000 for fiscal year 2009;
 
-            (B) $20,000,000 for each of fiscal years 2010 through 2012.
+            (B) $20,000,000 for each of fiscal years 2010 through 2012; and
 
-        (2) __Discretionary funding for fiscal years 2009 through 2012__ 
+            (C) $20,000,000 for each of fiscal years 2014 through 2018.
 
-            In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2012.
+        (2) __Discretionary funding for fiscal years 2014 through 2018__ 
+
+            In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2014 through 2018.
 
         (3) __Fiscal year 2013__ 
 
             There is authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2013.
 
-([Pub. L. 101–624, title XVI, § 1672B][/us/pl/101/624/s1672B], as added [Pub. L. 105–185, title II, § 244][/us/pl/105/185/s244], June 23, 1998, [112 Stat. 555][/us/stat/112/555]; amended [Pub. L. 107–171, title VII, § 7218][/us/pl/107/171/s7218], May 13, 2002, [116 Stat. 449][/us/stat/116/449]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7206(a), 7406(d)(3), May 22, 2008, [122 Stat. 1238][/us/stat/122/1238], 1252; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7206(a), 7406(d)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1999, 2013; [Pub. L. 112–240, title VII, § 701(e)(1)][/us/pl/112/240/s701/e/1], Jan. 2, 2013, [126 Stat. 2364][/us/stat/126/2364].)
+([Pub. L. 101–624, title XVI, § 1672B][/us/pl/101/624/s1672B], as added [Pub. L. 105–185, title II, § 244][/us/pl/105/185/s244], June 23, 1998, [112 Stat. 555][/us/stat/112/555]; amended [Pub. L. 107–171, title VII, § 7218][/us/pl/107/171/s7218], May 13, 2002, [116 Stat. 449][/us/stat/116/449]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7206(a), 7406(d)(3), May 22, 2008, [122 Stat. 1238][/us/stat/122/1238], 1252; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7206(a), 7406(d)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1999, 2013; [Pub. L. 112–240, title VII, § 701(e)(1)][/us/pl/112/240/s701/e/1], Jan. 2, 2013, [126 Stat. 2364][/us/stat/126/2364]; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7128(b)(2)(D), 7211, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 885.)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79, § 7211(1)(A)][/us/pl/113/79/s7211/1/A], inserted “, education,” after “support research” in introductory provisions.
+
+    Subsec. (a)(1). [Pub. L. 113–79, § 7211(1)(B)][/us/pl/113/79/s7211/1/B], inserted “and improvement” after “development”.
+
+    Subsec. (a)(2). [Pub. L. 113–79, § 7211(1)(C)][/us/pl/113/79/s7211/1/C], substituted “of organic agricultural production and methods to producers, processors, and rural communities” for “to producers and processors who use organic methods”.
+
+    Subsec. (a)(6). [Pub. L. 113–79, § 7211(1)(D)][/us/pl/113/79/s7211/1/D], substituted “, marketing, food safety, socioeconomic conditions, and farm business management” for “and marketing and to socioeconomic conditions”.
+
+    Subsecs. (c), (d). [Pub. L. 113–79, § 7128(b)(2)(D)][/us/pl/113/79/s7128/b/2/D], redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to matching funds requirement.
+
+    Subsec. (e). [Pub. L. 113–79, § 7128(b)(2)(D)(ii)][/us/pl/113/79/s7128/b/2/D/ii], redesignated subsec. (f) as (e).
+
+    Subsec. (e)(1). [Pub. L. 113–79, § 7211(2)(A)(i)][/us/pl/113/79/s7211/2/A/i], struck out “for fiscal years 2009 through 2012” after “funding” in heading.
+
+    Subsec. (e)(1)(C). [Pub. L. 113–79, § 7211(2)(A)(ii)][/us/pl/113/79/s7211/2/A/ii]–(iv), added subpar. (C).
+
+    Subsec. (e)(2). [Pub. L. 113–79, § 7211(2)(B)][/us/pl/113/79/s7211/2/B], substituted “2014 through 2018” for “2009 through 2012” in heading and text.
+
+    Subsec. (f). [Pub. L. 113–79, § 7128(b)(2)(D)(ii)][/us/pl/113/79/s7128/b/2/D/ii], redesignated subsec. (f) as (e).
 
     2013—Subsec. (f)(1). [Pub. L. 112–240, § 701(e)(1)(A)][/us/pl/112/240/s701/e/1/A], substituted “Mandatory funding for fiscal years 2009 through 2012” for “In general” in heading.
 
@@ -125,23 +133,7 @@
 
  __Report on Producers and Handlers of Organic Agricultural Products__ 
 
-[Pub. L. 107–171, title VII, § 7409][/us/pl/107/171/s7409], May 13, 2002, [116 Stat. 461][/us/stat/116/461], provided that: 
-
-> “Not later than 1 year after funds are made available to carry out this section, the Secretary \[of Agriculture\] shall submit to Congress a report that—
-
->     “(1)
-
->      describes—
-
->         “(A) the extent to which producers and handlers of organic agricultural products are contributing to research and promotion programs of the Department \[of Agriculture\];
-
->         “(B) the extent to which producers and handlers of organic agricultural products are surveyed for ideas for research and promotion;
-
->         “(C) ways in which the programs reflect the contributions made by producers and handlers of organic agricultural products and directly benefit the producers and handlers; and
-
->         “(D) the implementation of initiatives that directly benefit organic producers and handlers; and
-
->     “(2) evaluates industry and other proposals for improving the treatment of certified organic agricultural products under Federal marketing orders, including proposals to target additional resources for research and promotion of organic products and to differentiate between certified organic and other products in new or existing volume limitations or other orderly marketing requirements.”
+    [Pub. L. 107–171, title VII, § 7409][/us/pl/107/171/s7409], May 13, 2002, [116 Stat. 461][/us/stat/116/461], related to report on producers and handlers of organic agricultural products, prior to repeal by [Pub. L. 113–79, title VII, § 7408(a)][/us/pl/113/79/s7408/a], Feb. 7, 2014, [128 Stat. 898][/us/stat/128/898].
 
 ----------
 
@@ -162,10 +154,22 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/240/s701/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fe%2F1
 [/us/stat/126/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2364
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F879
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s7211/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7211%2F1%2FA
+[/us/pl/113/79/s7211/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7211%2F1%2FB
+[/us/pl/113/79/s7211/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7211%2F1%2FC
+[/us/pl/113/79/s7211/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7211%2F1%2FD
+[/us/pl/113/79/s7128/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FD
+[/us/pl/113/79/s7128/b/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FD%2Fii
+[/us/pl/113/79/s7211/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7211%2F2%2FA%2Fi
+[/us/pl/113/79/s7211/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7211%2F2%2FA%2Fii
+[/us/pl/113/79/s7211/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7211%2F2%2FB
+[/us/pl/113/79/s7128/b/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FD%2Fii
 [/us/pl/112/240/s701/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fe%2F1%2FA
 [/us/pl/112/240/s701/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fe%2F1%2FB
 [/us/pl/112/240/s701/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fe%2F1%2FC
@@ -198,5 +202,7 @@
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/107/171/s7409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7409
 [/us/stat/116/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F461
+[/us/pl/113/79/s7408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7408%2Fa
+[/us/stat/128/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F898
 
 

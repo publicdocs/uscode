@@ -31,31 +31,43 @@
 
             The term “approved insurance provider” means a private insurance provider that has been approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this subchapter.
 
-        (3) __Board__ 
+        (3) __Beginning farmer or rancher__ 
+
+            The term “beginning farmer or rancher” means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 5 crop years, as determined by the Secretary.
+
+        (4) __Board__ 
 
             The term “Board” means the Board of Directors of the Corporation established under [section 1505(a) of this title][/us/usc/t7/s1505/a].
 
-        (4) __Corporation__ 
+        (5) __Corporation__ 
 
             The term “Corporation” means the Federal Crop Insurance Corporation established under [section 1503 of this title][/us/usc/t7/s1503].
 
-        (5) __Department__ 
+        (6) __Department__ 
 
             The term “Department” means the United States Department of Agriculture.
 
-        (6) __Loss ratio__ 
+        (7) __Farm financial benchmarking__ 
+
+        The term “farm financial benchmarking” means—
+
+            (A) the process of comparing the performance of an agricultural enterprise against the performance of other similar enterprises, through the use of comparable and reliable data, in order to identify business management strengths, weaknesses, and steps necessary to improve management performance and business profitability; and
+
+            (B) benchmarking of the type conducted by farm management and producer associations consistent with the activities described in or funded pursuant to [section 5925f of this title][/us/usc/t7/s5925f].
+
+        (8) __Loss ratio__ 
 
             The term “loss ratio” means the ratio of all sums paid by the Corporation as indemnities under any eligible crop insurance policy to that portion of the premium designated for anticipated losses and a reasonable reserve, other than that portion of the premium designated for operating and administrative expenses.
 
-        (7) __Organic crop__ 
+        (9) __Organic crop__ 
 
             The term “organic crop” means an agricultural commodity that is organically produced consistent with [section 6502 of this title][/us/usc/t7/s6502].
 
-        (8) __Secretary__ 
+        (10) __Secretary__ 
 
             The term “Secretary” means the Secretary of Agriculture.
 
-        (9) __Transitional yield__ 
+        (11) __Transitional yield__ 
 
         The term “transitional yield” means the maximum average production per acre or equivalent measure that is assigned to acreage for a crop year by the Corporation in accordance with the regulations of the Corporation whenever the producer fails—
 
@@ -83,6 +95,20 @@
 
             [Section 2276(c) of this title][/us/usc/t7/s2276/c] shall apply with respect to the release of information collected in any manner or for any purpose prohibited by this subsection.
 
+        (4) __Information__ 
+
+            (A) __Request__ 
+
+                Subject to subparagraph (B), the Farm Service Agency shall, in a timely manner, provide to an agent or an approved insurance provider authorized by the producer any information (including Farm Service Agency Form 578s (or any successor form)) or maps (or any corrections to those forms or maps) that may assist the agent or approved insurance provider in insuring the producer under a policy or plan of insurance under this subchapter.
+
+            (B) __Privacy__ 
+
+                Except as provided in subparagraph (C), an agent or approved insurance provider that receives the information of a producer pursuant to subparagraph (A) shall treat the information in accordance with paragraph (1).
+
+            (C) __Sharing__ 
+
+                Nothing in this section prohibits the sharing of the information of a producer pursuant to subparagraph (A) between the agent and the approved insurance provider of the producer.
+
     (d) __Relation to other laws__ 
 
         (1) __Terms and conditions of policies and plans__ 
@@ -97,7 +123,7 @@
 
             Nothing in this subchapter affects the jurisdiction of the Commodity Futures Trading Commission or the applicability of the Commodity Exchange Act ([7 U.S.C. 1][/us/usc/t7/s1] et seq.) to any transaction conducted on a contract market under that Act by an approved insurance provider to offset the approved insurance provider’s risk under a plan or policy of insurance under this subchapter.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 502, [52 Stat. 72][/us/stat/52/72]; [June 21, 1941, ch. 214, § 1][/us/act/1941-06-21/ch214/s1], [55 Stat. 255][/us/stat/55/255]; [Aug. 1, 1947, ch. 440, § 4][/us/act/1947-08-01/ch440/s4], [61 Stat. 719][/us/stat/61/719]; [Pub. L. 103–354, title I, § 102(a)][/us/pl/103/354/s102/a], Oct. 13, 1994, [108 Stat. 3180][/us/stat/108/3180]; [Pub. L. 106–224, title I][/us/pl/106/224], §§ 122, 141, June 20, 2000, [114 Stat. 377][/us/stat/114/377], 389; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12001, 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371][/us/stat/122/1371], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12001, 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133, 2167.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 502, [52 Stat. 72][/us/stat/52/72]; [June 21, 1941, ch. 214, § 1][/us/act/1941-06-21/ch214/s1], [55 Stat. 255][/us/stat/55/255]; [Aug. 1, 1947, ch. 440, § 4][/us/act/1947-08-01/ch440/s4], [61 Stat. 719][/us/stat/61/719]; [Pub. L. 103–354, title I, § 102(a)][/us/pl/103/354/s102/a], Oct. 13, 1994, [108 Stat. 3180][/us/stat/108/3180]; [Pub. L. 106–224, title I][/us/pl/106/224], §§ 122, 141, June 20, 2000, [114 Stat. 377][/us/stat/114/377], 389; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12001, 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371][/us/stat/122/1371], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12001, 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11001, 11016(a), 11027(a), Feb. 7, 2014, [128 Stat. 954][/us/stat/128/954], 963, 977.)
 
  __References in Text__ 
 
@@ -108,6 +134,16 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3) to (6). [Pub. L. 113–79, § 11016(a)][/us/pl/113/79/s11016/a], added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively. Former par. (6) redesignated (7).
+
+    Subsec. (b)(7) to (10). [Pub. L. 113–79, § 11027(a)][/us/pl/113/79/s11027/a], added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively. Former par. (10) redesignated (11).
+
+    [Pub. L. 113–79, § 11016(a)(1)][/us/pl/113/79/s11016/a/1], redesignated pars. (6) to (9) as (7) to (10), respectively.
+
+    Subsec. (b)(11). [Pub. L. 113–79, § 11027(a)(1)][/us/pl/113/79/s11027/a/1], redesignated par. (10) as (11).
+
+    Subsec. (c)(4). [Pub. L. 113–79, § 11001][/us/pl/113/79/s11001], added par. (4).
 
     2008—[Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
 
@@ -142,6 +178,7 @@
 
 [/us/usc/t7/s1505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1505%2Fa
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
+[/us/usc/t7/s5925f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5925f
 [/us/usc/t7/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6502
 [/us/usc/t7/s2276/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2276%2Fc
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
@@ -160,6 +197,8 @@
 [/us/stat/122/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1371
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F954
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
@@ -167,6 +206,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s11016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fa
+[/us/pl/113/79/s11027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11027%2Fa
+[/us/pl/113/79/s11016/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fa%2F1
+[/us/pl/113/79/s11027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11027%2Fa%2F1
+[/us/pl/113/79/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11001
 [/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
 [/us/pl/110/246/s12001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12001
 [/us/pl/106/224/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs122

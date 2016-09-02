@@ -67,9 +67,19 @@
 
                 (vi) improved nutritional performance of animals;
 
-                (vii) improved nutrient qualities of animal products and uses; and
+                (vii) improved nutrient qualities of animal products and uses;
 
-                (viii) the development of new and improved animal husbandry and production systems that take into account production efficiency, animal well-being, and animal systems applicable to aquaculture.
+                (viii) the development of new and improved animal husbandry and production systems that take into account production efficiency, animal well-being, and animal systems applicable to aquaculture;
+
+                (ix)
+
+                 the research and development of surveillance methods, vaccines, vaccination delivery systems, or diagnostic tests for pests and diseases, including—
+
+                    (I) epizootic diseases in domestic livestock (including deer, elk, bison, and other animals of the family Cervidae); and
+
+                    (II) zoonotic diseases (including bovine brucellosis and bovine tuberculosis) in domestic livestock or wildlife reservoirs that present a potential concern to public health; and
+
+                (x) the identification of animal drug needs and the generation and dissemination of data for safe and effective therapeutic applications of animal drugs for minor species and minor uses of such drugs in major species.
 
             (C) __Food safety, nutrition, and health__ 
 
@@ -85,7 +95,7 @@
 
                 (v) improved processing technologies.
 
-            (D) __Renewable energy, natural resources, and environment__ 
+            (D) __Bioenergy, natural resources, and environment__ 
 
             Natural resources and the environment, including—
 
@@ -95,11 +105,13 @@
 
                 (iii) minimizing soil and water losses and sustaining surface water and ground water quality;
 
-                (iv) global climate effects on agriculture;
+                (iv) the effectiveness of conservation practices and technologies designed to address nutrient losses and improve water quality;
 
-                (v) forestry; and
+                (v) global climate effects on agriculture;
 
-                (vi) biological diversity.
+                (vi) forestry; and
+
+                (vii) biological diversity.
 
             (E) __Agriculture systems and technology__ 
 
@@ -115,7 +127,7 @@
 
             (F) __Agriculture economics and rural communities__ 
 
-            Markets, trade, and policy, including—
+            Markets, trade, economics, and policy, including—
 
                 (i) strategies for entering into and being competitive in domestic and overseas markets;
 
@@ -125,9 +137,11 @@
 
                 (iv) choices and applications of technology;
 
-                (v) technology assessment; and
+                (v) the economic costs, benefits, and viability of producers adopting conservation practices and technologies designed to improve water quality;
 
-                (vi) new approaches to rural development, including rural entrepreneurship.
+                (vi) technology assessment; and
+
+                (vii) new approaches to rural development, including rural entrepreneurship.
 
         (3) __Term__ 
 
@@ -143,9 +157,11 @@
 
             (C) award grants on the basis of merit, quality, and relevance;
 
-            (D) solicit and consider input from persons who conduct or use agricultural research, extension, or education in accordance with [section 7612(b) of this title][/us/usc/t7/s7612/b]; and
+            (D) solicit and consider input from persons who conduct or use agricultural research, extension, or education in accordance with [section 7612(b) of this title][/us/usc/t7/s7612/b];
 
-            (E) in seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, seek the widest participation of qualified individuals in the Federal Government, colleges and universities, State agricultural experiment stations, and the private sector.
+            (E) in seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, seek the widest participation of qualified individuals in the Federal Government, colleges and universities, State agricultural experiment stations, and the private sector; and
+
+            (F) establish procedures, including timelines, under which an entity established under a commodity promotion law (as such term is defined under [section 7401(a) of this title][/us/usc/t7/s7401/a]) or a State commodity board (or other equivalent State entity) may directly submit to the Secretary for consideration proposals for requests for applications that specifically address particular issues related to the priority areas specified in paragraph (2).
 
         (5) __Allocation of funds__ 
 
@@ -169,9 +185,11 @@
 
             (B) to a single investigator or coinvestigators who are beginning research careers and do not have an extensive research publication record, except that, to be eligible for a grant under this subparagraph, an individual shall be within 5 years of the beginning of the initial career track position of the individual;
 
-            (C) to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants; and
+            (C) to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants;
 
-            (D) to improve research, extension, and education capabilities in States (as defined in [section 3103 of this title][/us/usc/t7/s3103]) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels.
+            (D) to improve research, extension, and education capabilities in States (as defined in [section 3103 of this title][/us/usc/t7/s3103]) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels; and
+
+            (E) to eligible entities to carry out the specific proposals submitted under procedures established under paragraph (4)(F) only if such specific proposals are consistent with a priority area specified in paragraph (2).
 
         (7) __Eligible entities__ 
 
@@ -189,7 +207,7 @@
 
             (F) national laboratories;
 
-            (G) private organizations or corporations;
+            (G) private organizations, foundations, or corporations;
 
             (H) individuals; or
 
@@ -211,13 +229,41 @@
 
                     The Secretary may waive all or part of the matching requirement under clause (i) in the case of a college, university, or research foundation maintained by a college or university that ranks in the lowest ⅓ of such colleges, universities, and research foundations on the basis of Federal research funds received, if the equipment to be acquired using funds from the grant costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.
 
-            (B) __Applied research__ 
+                (iii) __Exemption__ 
 
-            As a condition of making a grant under paragraph (5)(B), the Secretary shall require the funding of the grant to be matched with equal matching funds from a non-Federal source if the grant is for applied research that is—
+                    The matching funds requirement under [section 3371 of this title][/us/usc/t7/s3371] shall not apply in the case of a grant made under paragraph (6)(A).
 
-                (i) commodity-specific; and
+            (B) __Contribution requirement for commodity promotion grants__ 
 
-                (ii) not of national scope.
+                (i) __In general__ 
+
+                    Subject to clauses (ii) and (iii), as a condition of funding a grant under paragraph (6)(E), the Secretary shall require that the grant be matched with an equal contribution of funds from the entities described in paragraph (4)(F) submitting proposals under procedures established under such paragraph.
+
+                (ii) __Availability of funds__ 
+
+                    (I) __In general__ 
+
+                        Contributions required by clause (i) shall be available to the Secretary for obligation and remain available until expended for the purpose of making grants under paragraph (6)(E).
+
+                    (II) __Administration__ 
+
+                        Of amounts contributed to the Secretary under clause (i), not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary in carrying out this subsection.
+
+                    (III) __Restriction__ 
+
+                        Funds contributed to the Secretary by an entity under clause (i) in connection with a proposal submitted by that entity under procedures established under paragraph (4)(F) may only be used to fund grants in connection with that proposal.
+
+                    (IV) __Remaining funds__ 
+
+                        Funds contributed to the Secretary by an entity under clause (i) that remain unobligated at the time of grant closeout shall be returned to that entity.
+
+                    (V) __Indirect costs__ 
+
+                        The indirect cost rate applicable to appropriated funds for a grant funded under paragraph (6)(E) shall apply to amounts contributed by an entity under clause (i).
+
+                (iii) __Other matching funds requirements__ 
+
+                    The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by [section 3371 of this title][/us/usc/t7/s3371].
 
         (10) __Program administration__ 
 
@@ -227,7 +273,7 @@
 
             (A) __In general__ 
 
-            There is authorized to be appropriated to carry out this subsection $700,000,000 for each of fiscal years 2008 through 2012, of which—
+            There is authorized to be appropriated to carry out this subsection $700,000,000 for each of fiscal years 2008 through 2018, of which—
 
                 (i) not less than 30 percent shall be made available for integrated research pursuant to [section 7626 of this title][/us/usc/t7/s7626]; and
 
@@ -315,7 +361,7 @@
 
          The Secretary of Agriculture shall establish an Inter-Regional Research Project Number 4 (hereinafter referred to in this subsection as the “IR–4 Program”) to assist in the collection of residue and efficacy data in support of—
 
-            (A) the registration or reregistration of minor use pesticides under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136][/us/usc/t7/s136] et seq.); and
+            (A) the registration or reregistration of pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621][/us/usc/t7/s1621] note)), under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136][/us/usc/t7/s136] et seq.); and
 
             (B) tolerances for residues of minor use chemicals in or on raw agricultural commodities under sections 346a and 348 of title 21.
 
@@ -327,11 +373,19 @@
 
          As part of carrying out the IR–4 Program, the Secretary shall—
 
-            (A) participate in research activities aimed at reducing residues of pesticides registered for minor agricultural use;
+            (A) participate in research activities aimed at reducing residues of pesticides registered for minor agricultural use and for use on specialty crops;
 
-            (B) develop analytical techniques applicable to residues of pesticides registered for minor agricultural use, including automation techniques and validation of analytical methods; and
+            (B) develop analytical techniques applicable to residues of pesticides registered for minor agricultural use, including automation techniques and validation of analytical methods;
 
-            (C) coordinate with other programs within the Department of Agriculture and the Environmental Protection Agency designed to develop and promote biological and other alternative control measures.
+            (C) prioritize potential pest management technology for minor agricultural use and for use on specialty crops;
+
+            (D) conduct research to develop the data necessary to facilitate pesticide registrations, reregistrations, and associated tolerances;
+
+            (E) assist in removing trade barriers caused by residues of pesticides registered for minor agricultural use and for use on domestically grown specialty crops;
+
+            (F) assist in the registration and reregistration of pest management technologies for minor agricultural use and for use on specialty crops; and
+
+            (G) coordinate with other programs within the Department of Agriculture and the Environmental Protection Agency designed to develop and promote biological and other alternative control measures.
 
         (5)
 
@@ -379,11 +433,13 @@
 
         The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in [section 3103 of this title][/us/usc/t7/s3103].
 
-([Pub. L. 89–106, § 2][/us/pl/89/106/s2], Aug. 4, 1965, [79 Stat. 431][/us/stat/79/431]; [Pub. L. 95–113, title XIV, § 1414][/us/pl/95/113/s1414], Sept. 29, 1977, [91 Stat. 991][/us/stat/91/991]; [Pub. L. 97–98, title XIV, § 1415][/us/pl/97/98/s1415], Dec. 22, 1981, [95 Stat. 1303][/us/stat/95/1303]; [Pub. L. 99–198, title XIV, § 1409][/us/pl/99/198/s1409], Dec. 23, 1985, [99 Stat. 1546][/us/stat/99/1546]; [Pub. L. 101–624, title XIV, § 1497][/us/pl/101/624/s1497], title XVI, §§ 1615, 1616, Nov. 28, 1990, [104 Stat. 3630][/us/stat/104/3630], 3729, 3732; [Pub. L. 102–237, title IV, § 401][/us/pl/102/237/s401], Dec. 13, 1991, [105 Stat. 1862][/us/stat/105/1862]; [Pub. L. 104–66, title I, § 1011(v)][/us/pl/104/66/s1011/v], Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–127, title VIII, § 885][/us/pl/104/127/s885], Apr. 4, 1996, [110 Stat. 1179][/us/stat/110/1179]; [Pub. L. 105–185, title II][/us/pl/105/185], §§ 211, 212, title III, § 301(f), title VI, § 606(h), June 23, 1998, [112 Stat. 536][/us/stat/112/536], 563, 604; [Pub. L. 107–76, title VII, § 775][/us/pl/107/76/s775], Nov. 28, 2001, [115 Stat. 746][/us/stat/115/746]; [Pub. L. 107–171, title VI, § 6403(b)][/us/pl/107/171/s6403/b], title VII, §§ 7136, 7211, May 13, 2002, [116 Stat. 429][/us/stat/116/429], 436, 447; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7101(b)(2), 7406(a), (b)(2), May 22, 2008, [122 Stat. 1213][/us/stat/122/1213], 1247, 1251; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7101(b)(2), 7406(a), (b)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1974, 2009, 2013.)
+([Pub. L. 89–106, § 2][/us/pl/89/106/s2], Aug. 4, 1965, [79 Stat. 431][/us/stat/79/431]; [Pub. L. 95–113, title XIV, § 1414][/us/pl/95/113/s1414], Sept. 29, 1977, [91 Stat. 991][/us/stat/91/991]; [Pub. L. 97–98, title XIV, § 1415][/us/pl/97/98/s1415], Dec. 22, 1981, [95 Stat. 1303][/us/stat/95/1303]; [Pub. L. 99–198, title XIV, § 1409][/us/pl/99/198/s1409], Dec. 23, 1985, [99 Stat. 1546][/us/stat/99/1546]; [Pub. L. 101–624, title XIV, § 1497][/us/pl/101/624/s1497], title XVI, §§ 1615, 1616, Nov. 28, 1990, [104 Stat. 3630][/us/stat/104/3630], 3729, 3732; [Pub. L. 102–237, title IV, § 401][/us/pl/102/237/s401], Dec. 13, 1991, [105 Stat. 1862][/us/stat/105/1862]; [Pub. L. 104–66, title I, § 1011(v)][/us/pl/104/66/s1011/v], Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–127, title VIII, § 885][/us/pl/104/127/s885], Apr. 4, 1996, [110 Stat. 1179][/us/stat/110/1179]; [Pub. L. 105–185, title II][/us/pl/105/185], §§ 211, 212, title III, § 301(f), title VI, § 606(h), June 23, 1998, [112 Stat. 536][/us/stat/112/536], 563, 604; [Pub. L. 107–76, title VII, § 775][/us/pl/107/76/s775], Nov. 28, 2001, [115 Stat. 746][/us/stat/115/746]; [Pub. L. 107–171, title VI, § 6403(b)][/us/pl/107/171/s6403/b], title VII, §§ 7136, 7211, May 13, 2002, [116 Stat. 429][/us/stat/116/429], 436, 447; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7101(b)(2), 7406(a), (b)(2), May 22, 2008, [122 Stat. 1213][/us/stat/122/1213], 1247, 1251; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7101(b)(2), 7406(a), (b)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1974, 2009, 2013; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7128(b)(4), 7404, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 895.)
 
  __References in Text__ 
 
     Act of October 10, 1962, referred to in subsec. (c)(1)(B), is [Pub. L. 87–788][/us/pl/87/788], Oct. 10, 1962, [76 Stat. 806][/us/stat/76/806], popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 582a of Title 16][/us/usc/t16/s582a] and Tables.
+
+    Section 3 of the Specialty Crops Competitiveness Act of 2004, referred to in subsec. (e)(1)(A), is [section 3 of Pub. L. 108–465][/us/pl/108/465/s3], which is set out as a note under [section 1621 of this title][/us/usc/t7/s1621].
 
     The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is [act June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], as amended generally by [Pub. L. 92–516][/us/pl/92/516], Oct. 21, 1972, [86 Stat. 973][/us/stat/86/973], which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title][/us/usc/t7/s136] and Tables.
 
@@ -396,6 +452,36 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(B)(ix), (x). [Pub. L. 113–79, § 7404(b)(1)][/us/pl/113/79/s7404/b/1], added cls. (ix) and (x).
+
+    Subsec. (b)(2)(D). [Pub. L. 113–79, § 7404(b)(2)(A)][/us/pl/113/79/s7404/b/2/A], substituted “Bioenergy” for “Renewable energy” in heading.
+
+    Subsec. (b)(2)(D)(iv) to (vii). [Pub. L. 113–79, § 7404(b)(2)(B)][/us/pl/113/79/s7404/b/2/B], (C), added cl. (iv) and redesignated former cls. (iv) to (vi) as (v) to (vii), respectively.
+
+    Subsec. (b)(2)(F). [Pub. L. 113–79, § 7404(b)(3)(A)][/us/pl/113/79/s7404/b/3/A], inserted “economics,” after “trade,” in introductory provisions.
+
+    Subsec. (b)(2)(F)(v) to (vii). [Pub. L. 113–79, § 7404(b)(3)(B)][/us/pl/113/79/s7404/b/3/B], (C), added cl. (v) and redesignated former cls. (v) and (vi) as (vi) and (vii), respectively.
+
+    Subsec. (b)(4)(F). [Pub. L. 113–79, § 7404(c)][/us/pl/113/79/s7404/c], added subpar. (F).
+
+    Subsec. (b)(6)(E). [Pub. L. 113–79, § 7404(d)][/us/pl/113/79/s7404/d], added subpar. (E).
+
+    Subsec. (b)(7)(G). [Pub. L. 113–79, § 7404(e)][/us/pl/113/79/s7404/e], substituted “, foundations, or corporations” for “or corporations”.
+
+    Subsec. (b)(9)(A)(iii). [Pub. L. 113–79, § 7128(b)(4)(A)][/us/pl/113/79/s7128/b/4/A], added cl. (iii).
+
+    Subsec. (b)(9)(B). [Pub. L. 113–79, § 7404(f)][/us/pl/113/79/s7404/f], added subpar. (B).
+
+    [Pub. L. 113–79, § 7128(b)(4)(B)][/us/pl/113/79/s7128/b/4/B], struck out subpar. (B) which related to applied research.
+
+    Subsec. (b)(11)(A). [Pub. L. 113–79, § 7404(a)][/us/pl/113/79/s7404/a], substituted “2018” for “2012” in introductory provisions.
+
+    Subsec. (e)(1)(A). [Pub. L. 113–79, § 7404(g)(1)][/us/pl/113/79/s7404/g/1], substituted “pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621][/us/usc/t7/s1621] note)),” for “minor use pesticides”.
+
+    Subsec. (e)(4)(A). [Pub. L. 113–79, § 7404(g)(2)(A)][/us/pl/113/79/s7404/g/2/A], inserted “and for use on specialty crops” after “minor agricultural use”.
+
+    Subsec. (e)(4)(C) to (G). [Pub. L. 113–79, § 7404(g)(2)(B)][/us/pl/113/79/s7404/g/2/B]–(D), added subpars. (C) to (F) and redesignated former subpar. (C) as (G).
 
     2008—Subsec. (b). [Pub. L. 110–246, § 7406(a)][/us/pl/110/246/s7406/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Secretary to make competitive grants for research to further Department of Agriculture programs and to conduct a program to improve research capabilities in the agricultural, food, and environmental sciences and required an annual report to Congress describing the operations of the program during the preceding fiscal year.
 
@@ -557,9 +643,12 @@
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
 [/us/usc/t7/s7613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7613
 [/us/usc/t7/s7612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7612%2Fb
+[/us/usc/t7/s7401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7401%2Fa
 [/us/usc/t7/s6971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6971
 [/us/usc/t7/s6971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6971
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
+[/us/usc/t7/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3371
+[/us/usc/t7/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3371
 [/us/usc/t7/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3123
 [/us/usc/t7/s7626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7626
 [/us/usc/t16/s582a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a
@@ -567,6 +656,7 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/pl/110/246/s7406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7406%2Fb%2F2
 [/us/stat/122/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2013
+[/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/usc/t7/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2281
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
@@ -596,9 +686,13 @@
 [/us/stat/122/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1213
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F879
 [/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/stat/76/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F806
 [/us/usc/t16/s582a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a
+[/us/pl/108/465/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F465%2Fs3
+[/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F973
@@ -612,6 +706,22 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s7404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F1
+[/us/pl/113/79/s7404/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F2%2FA
+[/us/pl/113/79/s7404/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F2%2FB
+[/us/pl/113/79/s7404/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F3%2FA
+[/us/pl/113/79/s7404/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fb%2F3%2FB
+[/us/pl/113/79/s7404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fc
+[/us/pl/113/79/s7404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fd
+[/us/pl/113/79/s7404/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fe
+[/us/pl/113/79/s7128/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F4%2FA
+[/us/pl/113/79/s7404/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Ff
+[/us/pl/113/79/s7128/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F4%2FB
+[/us/pl/113/79/s7404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fa
+[/us/pl/113/79/s7404/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fg%2F1
+[/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
+[/us/pl/113/79/s7404/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fg%2F2%2FA
+[/us/pl/113/79/s7404/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7404%2Fg%2F2%2FB
 [/us/pl/110/246/s7406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7406%2Fa
 [/us/pl/110/246/s7406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7406%2Fb%2F2
 [/us/pl/110/246/s7101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7101%2Fb%2F2

@@ -33,7 +33,7 @@
 
                 Except as provided in clause (ii) and subparagraph (B), after the date specified in applicable guidelines prepared pursuant to paragraph (3), each procuring agency shall—
 
-                    (I) establish a procurement program, develop procurement specifications, and procure biobased products identified under the guidelines described in paragraph (3) in accordance with this section; and
+                    (I) establish a procurement program, develop procurement specifications, and procure biobased products identified under the guidelines described in paragraph (3) in accordance with this section;
 
                     (II)
 
@@ -41,7 +41,9 @@
 
                         (aa) are composed of the highest percentage of biobased products practicable; or
 
-                        (bb) comply with the regulations issued under [section 6914b–1 of title 42][/us/usc/t42/s6914b–1].
+                        (bb) comply with the regulations issued under [section 6914b–1 of title 42][/us/usc/t42/s6914b–1]; and
+
+                    (III) establish a targeted biobased-only procurement requirement under which the procuring agency shall issue a certain number of biobased-only contracts when the procuring agency is purchasing products, or purchasing services that include the use of products, that are included in a biobased product category designated by the Secretary.
 
                 (ii) __Exception__ 
 
@@ -113,13 +115,17 @@
 
                 (iv) set forth recommended practices with respect to the procurement of biobased products and items containing such materials;
 
-                (v) provide information as to the availability, relative price, performance, and environmental and public health benefits of such materials and items; and
+                (v) require reporting of quantities and types of biobased products purchased by procuring agencies;
 
-                (vi) take effect on the date established in the guidelines, which may not exceed 1 year after publication.
+                (vi) promote biobased products, including forest products, that apply an innovative approach to growing, harvesting, sourcing, procuring, processing, manufacturing, or application of biobased products regardless of the date of entry into the marketplace;
+
+                (vii) as determined to be necessary by the Secretary based on the availability of data, provide information as to the availability, relative price, performance, and environmental and public health benefits of such materials and items; and
+
+                (viii) take effect on the date established in the guidelines, which may not exceed 1 year after publication.
 
             (C) __Information provided__ 
 
-                Information provided pursuant to subparagraph (B)(v) with respect to a material or item shall be considered to be provided for another item made with the same material or item.
+                Information provided pursuant to subparagraph (B)(v)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  with respect to a material or item shall be considered to be provided for another item made with the same material or item.
 
             (D) __Prohibition__ 
 
@@ -132,6 +138,10 @@
                 (i) the purchase price of the item exceeds $10,000; or
 
                 (ii) the quantity of the items or of functionally-equivalent items purchased or acquired during the preceding fiscal year was at least $10,000.
+
+            (F) __Required designations__ 
+
+                Not later than 1 year after February 7, 2014, the Secretary shall begin to designate intermediate ingredients or feedstocks and assembled and finished biobased products in the guidelines issued under this paragraph.
 
         (4) __Administration__ 
 
@@ -207,7 +217,17 @@
 
         (3) __Use of label__ 
 
-            The Secretary shall ensure that the label referred to in paragraph (1) is used only on products that meet the criteria issued pursuant to paragraph (2).
+            (A) __In general__ 
+
+                The Secretary shall ensure that the label referred to in paragraph (1) is used only on products that meet the criteria issued pursuant to paragraph (2).
+
+            (B) __Auditing and compliance__ 
+
+                The Secretary may carry out such auditing and compliance activities as the Secretary determines to be necessary to ensure compliance with subparagraph (A).
+
+        (4) __Assembled and finished products__ 
+
+            Not later than 1 year after February 7, 2014, the Secretary shall begin issuing criteria for determining which assembled and finished products may qualify to receive the label under paragraph (1).
 
     (c) __Recognition__ 
 
@@ -229,7 +249,11 @@
 
         The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.
 
-    (g) __Reports__ 
+    (g) __Forest products laboratory coordination__ 
+
+        In determining whether products are eligible for the “USDA Certified Biobased Product” label, the Secretary (acting through the Forest Products Laboratory) shall provide appropriate technical and other assistance to the program and applicants for forest products.
+
+    (h) __Reports__ 
 
         (1) __In general__ 
 
@@ -237,9 +261,9 @@
 
         (2) __Contents__ 
 
-        The report shall include—
+        Each report under paragraph (1) shall include—
 
-            (A) a comprehensive management plan that establishes tasks, milestones, and timelines, organizational roles and responsibilities, and funding allocations for fully implementing this section; and
+            (A) a comprehensive management plan that establishes tasks, milestones, and timelines, organizational roles and responsibilities, and funding allocations for fully implementing this section;
 
             (B)
 
@@ -247,27 +271,53 @@
 
                 (i) item designations (including designation of intermediate ingredients and feedstocks); and
 
-                (ii) the voluntary labeling program established under subsection (b).
+                (ii) the voluntary labeling program established under subsection (b); and
 
-    (h) __Funding__ 
+            (C) the progress made by other Federal agencies in compliance with the biobased procurement requirements, including the quantity of purchases made.
+
+        (3) __Economic impact study and report__ 
+
+            (A) __In general__ 
+
+            The Secretary shall conduct a study to assess the economic impact of the biobased products industry, including—
+
+                (i) the quantity of biobased products sold;
+
+                (ii) the value of the biobased products;
+
+                (iii) the quantity of jobs created;
+
+                (iv) the quantity of petroleum displaced;
+
+                (v) other environmental benefits; and
+
+                (vi) areas in which the use or manufacturing of biobased products could be more effectively used, including identifying any technical and economic obstacles and recommending how those obstacles can be overcome.
+
+            (B) __Report__ 
+
+                Not later than 1 year after February 7, 2014, the Secretary shall submit to Congress a report describing the results of the study conducted under subparagraph (A).
+
+    (i) __Funding__ 
 
         (1) __Mandatory funding__ 
 
-        Of the funds of the Commodity Credit Corporation, the Secretary shall use to provide mandatory funding for biobased products testing and labeling as required to carry out this section—
-
-            (A) $1,000,000 for fiscal year 2008; and
-
-            (B) $2,000,000 for each of fiscal years 2009 through 2012.
+            Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2018.
 
         (2) __Discretionary funding__ 
 
-            In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2009 through 2013.
+            There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 107–171, title IX, § 9002][/us/pl/107/171/s9002], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1305][/us/stat/122/1305], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2067; amended [Pub. L. 112–240, title VII, § 701(f)(1)][/us/pl/112/240/s701/f/1], Jan. 2, 2013, [126 Stat. 2364][/us/stat/126/2364].)
+    (j) __Biobased product inclusion__ 
+
+        In this section, the term “biobased product” (as defined in [section 8101 of this title][/us/usc/t7/s8101]) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
+
+([Pub. L. 107–171, title IX, § 9002][/us/pl/107/171/s9002], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1305][/us/stat/122/1305], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2067; amended [Pub. L. 112–240, title VII, § 701(f)(1)][/us/pl/112/240/s701/f/1], Jan. 2, 2013, [126 Stat. 2364][/us/stat/126/2364]; [Pub. L. 113–79, title IX, § 9002(a)][/us/pl/113/79/s9002/a], Feb. 7, 2014, [128 Stat. 926][/us/stat/128/926].)
 
  __References in Text__ 
 
-    The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(2)(A), (e), and (g)(1), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
+    Subparagraph (B)(v) of subsection (a)(3) of this section, referred to in subsec. (a)(3)(C), was redesignated subparagraph (B)(vii) by [Pub. L. 113–79, title IX, § 9002(a)(1)(B)(i)(II)][/us/pl/113/79/s9002/a/1/B/i/II], Feb. 7, 2014, [128 Stat. 927][/us/stat/128/927].
+
+    The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(2)(A), (e), and (h)(1), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
  __Codification__ 
 
@@ -278,6 +328,36 @@
     A prior section 8102, [Pub. L. 107–171, title IX, § 9002][/us/pl/107/171/s9002], May 13, 2002, [116 Stat. 476][/us/stat/116/476]; [Pub. L. 109–58, title II, § 205][/us/pl/109/58/s205], title IX, § 943(a)(2), (b), Aug. 8, 2005, [119 Stat. 654][/us/stat/119/654], 880, 881, related to Federal procurement of biobased products, prior to the general amendment of this chapter by [Pub. L. 110–246][/us/pl/110/246].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(A)(i)(III). [Pub. L. 113–79, § 9002(a)(1)(A)][/us/pl/113/79/s9002/a/1/A], added subcl. (III).
+
+    Subsec. (a)(3)(B)(v). [Pub. L. 113–79, § 9002(a)(1)(B)(i)(III)][/us/pl/113/79/s9002/a/1/B/i/III], added cl. (v). Former cl. (v) redesignated (vii).
+
+    [Pub. L. 113–79, § 9002(a)(1)(B)(i)(I)][/us/pl/113/79/s9002/a/1/B/i/I], inserted “as determined to be necessary by the Secretary based on the availability of data,” before “provide information”.
+
+    Subsec. (a)(3)(B)(vi). [Pub. L. 113–79, § 9002(a)(1)(B)(i)(III)][/us/pl/113/79/s9002/a/1/B/i/III], added cl. (vi). Former cl. (vi) redesignated (viii).
+
+    Subsec. (a)(3)(B)(vii), (viii). [Pub. L. 113–79, § 9002(a)(1)(B)(i)(II)][/us/pl/113/79/s9002/a/1/B/i/II], redesignated cls. (v) and (vi) as (vii) and (viii), respectively.
+
+    Subsec. (a)(3)(F). [Pub. L. 113–79, § 9002(a)(1)(B)(ii)][/us/pl/113/79/s9002/a/1/B/ii], added subpar. (F).
+
+    Subsec. (b)(3). [Pub. L. 113–79, § 9002(a)(2)(A)][/us/pl/113/79/s9002/a/2/A], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+    Subsec. (b)(4). [Pub. L. 113–79, § 9002(a)(2)(B)][/us/pl/113/79/s9002/a/2/B], added par. (4).
+
+    Subsec. (g). [Pub. L. 113–79, § 9002(a)(5)][/us/pl/113/79/s9002/a/5], added subsec. (g). Former subsec. (g) redesignated (h).
+
+    Subsec. (g)(2). [Pub. L. 113–79, § 9002(a)(3)(A)(i)][/us/pl/113/79/s9002/a/3/A/i], substituted “Each report under paragraph (1)” for “The report” in introductory provisions.
+
+    Subsec. (g)(2)(C). [Pub. L. 113–79, § 9002(a)(3)(A)(ii)][/us/pl/113/79/s9002/a/3/A/ii]–(iv), added subpar. (C).
+
+    Subsec. (g)(3). [Pub. L. 113–79, § 9002(a)(3)(B)][/us/pl/113/79/s9002/a/3/B], added par. (3).
+
+    Subsecs. (h), (i). [Pub. L. 113–79, § 9002(a)(4)][/us/pl/113/79/s9002/a/4], redesignated subsecs. (g) and (h) as (h) and (i), respectively.
+
+    Subsec. (i)(1), (2). [Pub. L. 113–79, § 9002(a)(6)][/us/pl/113/79/s9002/a/6], added pars. (1) and (2) and struck out former pars. (1) and (2) which related to mandatory funding for fiscal years 2008 through 2012 and discretionary funding for fiscal years 2009 through 2013, respectively.
+
+    Subsec. (j). [Pub. L. 113–79, § 9002(a)(7)][/us/pl/113/79/s9002/a/7], added subsec. (j).
 
     2013—Subsec. (h)(2). [Pub. L. 112–240][/us/pl/112/240] substituted “2013” for “2012”.
 
@@ -382,6 +462,7 @@ Sec. 6. Jobs Creation Research. Biobased products are creating jobs across Ameri
 
 [/us/usc/t42/s6914b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6914b%E2%80%931
 [/us/usc/t42/s6962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6962
+[/us/usc/t7/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8101
 [/us/pl/107/171/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9002
 [/us/pl/110/234/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs9001%2Fa
 [/us/stat/122/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1305
@@ -389,6 +470,10 @@ Sec. 6. Jobs Creation Research. Biobased products are creating jobs across Ameri
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/240/s701/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Ff%2F1
 [/us/stat/126/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2364
+[/us/pl/113/79/s9002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa
+[/us/stat/128/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F926
+[/us/pl/113/79/s9002/a/1/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F1%2FB%2Fi%2FII
+[/us/stat/128/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F927
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -399,6 +484,21 @@ Sec. 6. Jobs Creation Research. Biobased products are creating jobs across Ameri
 [/us/pl/109/58/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs205
 [/us/stat/119/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F654
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79/s9002/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F1%2FA
+[/us/pl/113/79/s9002/a/1/B/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F1%2FB%2Fi%2FIII
+[/us/pl/113/79/s9002/a/1/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F1%2FB%2Fi%2FI
+[/us/pl/113/79/s9002/a/1/B/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F1%2FB%2Fi%2FIII
+[/us/pl/113/79/s9002/a/1/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F1%2FB%2Fi%2FII
+[/us/pl/113/79/s9002/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F1%2FB%2Fii
+[/us/pl/113/79/s9002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F2%2FA
+[/us/pl/113/79/s9002/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F2%2FB
+[/us/pl/113/79/s9002/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F5
+[/us/pl/113/79/s9002/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F3%2FA%2Fi
+[/us/pl/113/79/s9002/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F3%2FA%2Fii
+[/us/pl/113/79/s9002/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F3%2FB
+[/us/pl/113/79/s9002/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F4
+[/us/pl/113/79/s9002/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F6
+[/us/pl/113/79/s9002/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fa%2F7
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj

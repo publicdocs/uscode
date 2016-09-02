@@ -17,7 +17,7 @@
 
     (a) __Income and other financial resources as substantial limiting factors in obtaining more nutritious diet; recipients under Social Security Act__ 
 
-        Participation in the supplemental nutrition assistance program shall be limited to those households whose incomes and other financial resources, held singly or in joint ownership, are determined to be a substantial limiting factor in permitting them to obtain a more nutritious diet. Notwithstanding any other provisions of this chapter except sections 2015(b), 2015(d)(2), and 2015(g) of this title and [section 2012(n)(4) of this title][/us/usc/t7/s2012/n/4], households in which each member receives benefits under a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.), supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], or aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., or 1381 et seq.\], shall be eligible to participate in the supplemental nutrition assistance program. Except for sections 2015, 2025(e)(1), and [section 2012(n)(4) of this title][/us/usc/t7/s2012/n/4], households in which each member receives benefits under a State or local general assistance program that complies with standards established by the Secretary for ensuring that the program is based on income criteria comparable to or more restrictive than those under subsection (c)(2) of this section, and not limited to one-time emergency payments that cannot be provided for more than one consecutive month, shall be eligible to participate in the supplemental nutrition assistance program. Assistance under this program shall be furnished to all eligible households who make application for such participation.
+        Participation in the supplemental nutrition assistance program shall be limited to those households whose incomes and other financial resources, held singly or in joint ownership, are determined to be a substantial limiting factor in permitting them to obtain a more nutritious diet. Notwithstanding any other provisions of this chapter except subsections (b), (d)(2), (g), and (r) of [section 2015 of this title][/us/usc/t7/s2015] and section 2012(n)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, households in which each member receives benefits under a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.), supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], or aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 1201 et seq., 1351 et seq., or 1381 et seq.\], shall be eligible to participate in the supplemental nutrition assistance program. Except for sections 2015, 2025(e)(1), and section 2012(n)(4)  <sup>\[1\]</sup>  of this title, households in which each member receives benefits under a State or local general assistance program that complies with standards established by the Secretary for ensuring that the program is based on income criteria comparable to or more restrictive than those under subsection (c)(2) of this section, and not limited to one-time emergency payments that cannot be provided for more than one consecutive month, shall be eligible to participate in the supplemental nutrition assistance program. Assistance under this program shall be furnished to all eligible households who make application for such participation.
 
     (b) __Eligibility standards__ 
 
@@ -73,9 +73,9 @@
 
         (12) through September 30 of any fiscal year, any increase in income attributable to a cost-of-living adjustment made on or after July 1 of such fiscal year under title II or XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\], section 3(a)(1) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231b(a)(1)][/us/usc/t45/s231b/a/1]), or [section 5312 of title 38][/us/usc/t38/s5312], if the household was certified as eligible to participate in the supplemental nutrition assistance program or received an allotment in the month immediately preceding the first month in which the adjustment was effective;
 
-        (13) any payment made to the household under section 3507  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 26 (relating to advance payment of earned income credit);
+        (13) any payment made to the household under section 3507 1 of title 26 (relating to advance payment of earned income credit);
 
-        (14) any payment made to the household under [section 2015(d)(4)(I) of this title][/us/usc/t7/s2015/d/4/I] for work related expenses or for dependent care;
+        (14) any payment made to the household under [section 2015(d)(4)(I) of this title][/us/usc/t7/s2015/d/4/I] or a pilot project under [section 2025(h)(1)(F) of this title][/us/usc/t7/s2025/h/1/F] for work related expenses or for dependent care;
 
         (15) any amounts necessary for the fulfillment of a plan for achieving self-support of a household member as provided under subparagraph (A)(iii) or (B)(iv) of section 1612(b)(4) of the Social Security Act ([42 U.S.C. 1382a(b)(4)][/us/usc/t42/s1382a/b/4]);
 
@@ -169,7 +169,7 @@
 
                 (ii) amounts made available and excluded, for the expenses referred to in subparagraph (A), under subsection (d)(3) of this section; and
 
-                (iii) expenses that are paid under [section 2015(d)(4) of this title][/us/usc/t7/s2015/d/4].
+                (iii) expenses that are paid under [section 2015(d)(4) of this title][/us/usc/t7/s2015/d/4] or a pilot project under [section 2025(h)(1)(F) of this title][/us/usc/t7/s2025/h/1/F].
 
         (4) __Deduction for child support payments__ 
 
@@ -203,6 +203,10 @@
 
                     (III) not require further reporting or verification of a change in medical expenses if such a change has been anticipated for the certification period.
 
+            (C) __Exclusion of medical marijuana__ 
+
+                The Secretary shall promulgate rules to ensure that medical marijuana is not treated as a medical expense for purposes of this paragraph.
+
         (6) __Excess shelter expense deduction__ 
 
             (A) __In general__ 
@@ -229,7 +233,7 @@
 
                 (i) __In general__ 
 
-                    In computing the excess shelter expense deduction, a State agency may use a standard utility allowance in accordance with regulations promulgated by the Secretary, except that a State agency may use an allowance that does not fluctuate within a year to reflect seasonal variations.
+                    In computing the excess shelter expense deduction, a State agency may use a standard utility allowance in accordance with regulations promulgated by the Secretary, subject to clause (iv), except that a State agency may use an allowance that does not fluctuate within a year to reflect seasonal variations.
 
                 (ii) __Restrictions on heating and cooling expenses__ 
 
@@ -263,7 +267,7 @@
 
                     (I) __In general__ 
 
-                        Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating or cooling costs, the standard utility allowance shall be made available to households receiving a payment, or on behalf of which a payment is made, under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621][/us/usc/t42/s8621] et seq.) or other similar energy assistance program, if the household still incurs out-of-pocket heating or cooling expenses in excess of any assistance paid on behalf of the household to an energy provider.
+                        Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating and cooling costs, the standard utility allowance shall be made available to households that received a payment, or on behalf of which a payment was made, under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621][/us/usc/t42/s8621] et seq.) or other similar energy assistance program, if in the current month or in the immediately preceding 12 months, the household either received such a payment, or such a payment was made on behalf of the household, that was greater than $20 annually, as determined by the Secretary.
 
                     (II) __Separate allowance__ 
 
@@ -379,7 +383,7 @@
 
             If the vehicle allowance standards that a State agency uses to determine eligibility for assistance under the State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) would result in a lower attribution of resources to certain households than under subparagraph (B)(iv), in lieu of applying subparagraph (B)(iv), the State agency may elect to apply the State vehicle allowance standards to all households that would incur a lower attribution of resources under the State vehicle allowance standards.
 
-        (3) The Secretary shall exclude from financial resources the value of a burial plot for each member of a household and nonliquid resources necessary to allow the household to carry out a plan for self-sufficiency approved by the State agency that constitutes adequate participation in an employment and training program under [section 2015(d) of this title][/us/usc/t7/s2015/d]. The Secretary shall also exclude from financial resources any earned income tax credits received by any member of the household for a period of 12 months from receipt if such member was participating in the supplemental nutrition assistance program at the time the credits were received and participated in such program continuously during the 12-month period.
+        (3) The Secretary shall exclude from financial resources the value of a burial plot for each member of a household and nonliquid resources necessary to allow the household to carry out a plan for self-sufficiency approved by the State agency that constitutes adequate participation in an employment and training program under [section 2015(d) of this title][/us/usc/t7/s2015/d] or a pilot project under [section 2025(h)(1)(F) of this title][/us/usc/t7/s2025/h/1/F]. The Secretary shall also exclude from financial resources any earned income tax credits received by any member of the household for a period of 12 months from receipt if such member was participating in the supplemental nutrition assistance program at the time the credits were received and participated in such program continuously during the 12-month period.
 
         (4) In the case of farm property (including land, equipment, and supplies) that is essential to the self-employment of a household member in a farming operation, the Secretary shall exclude from financial resources the value of such property until the expiration of the 1-year period beginning on the date such member ceases to be self-employed in farming.
 
@@ -481,7 +485,7 @@
 
                 (ii) The Secretary shall enter into agreements with the Secretary of State and the Attorney General whereby any information available to such persons and required in order to make any determination under this section will be provided by such persons to the Secretary, and whereby such persons shall inform any sponsor of an alien, at the time such sponsor executes an affidavit of support or similar agreement, of the requirements imposed by this section.
 
-            (D) Any sponsor of an alien, and such alien, shall be jointly and severably liable for an amount equal to any overpayment made to such alien during the period of three years after such alien’s entry into the United States, on account of such sponsor’s failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid shall be recovered in accordance with the provisions of section 2022(b)(2) 1 of this title.
+            (D) Any sponsor of an alien, and such alien, shall be jointly and severably liable for an amount equal to any overpayment made to such alien during the period of three years after such alien’s entry into the United States, on account of such sponsor’s failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid shall be recovered in accordance with the provisions of [section 2022(b) of this title][/us/usc/t7/s2022/b].
 
             (E) The provisions of this subsection shall not apply with respect to any alien who is a member of the sponsor’s household or to any alien who is under 18 years of age.
 
@@ -529,7 +533,7 @@
 
             (A)  __Energy assistance payments__  __.—__ 
 
-            For purposes of subsection (d)(1) of this section, a payment made under a State law (other than a law referred to in paragraph (2)(H)) 1 to provide energy assistance to a household shall be considered money payable directly to the household.
+            For purposes of subsection (d)(1) of this section, a payment made under a State law (other than a law referred to in paragraph (2)(G) to provide energy assistance to a household shall be considered money payable directly to the household.
 
             (B)  __Energy assistance expenses__  __.—__ 
 
@@ -557,19 +561,17 @@
 
         Regardless of whether a State agency elects to provide a deduction under subsection (e)(4) of this section, the Secretary shall establish simplified procedures to allow State agencies, at the option of the State agencies, to determine the amount of any legally obligated child support payments made, including procedures to allow the State agency to rely on information from the agency responsible for implementing the program under part D of title IV of the Social Security Act ([42 U.S.C. 651][/us/usc/t42/s651] et seq.) concerning payments made in prior months in lieu of obtaining current information from the households.
 
-([Pub. L. 88–525, § 5][/us/pl/88/525/s5], Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 91–671, § 4][/us/pl/91/671/s4], Jan. 11, 1971, [84 Stat. 2049][/us/stat/84/2049]; [Pub. L. 93–86, § 3(d)][/us/pl/93/86/s3/d], (e), (g), (h), Aug. 10, 1973, [87 Stat. 246][/us/stat/87/246], 247; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 962][/us/stat/91/962]; [Pub. L. 96–58, § 2][/us/pl/96/58/s2], Aug. 14, 1979, [93 Stat. 390][/us/stat/93/390]; [Pub. L. 96–223, title III, § 313(c)(2)][/us/pl/96/223/s313/c/2], Apr. 2, 1980, [94 Stat. 299][/us/stat/94/299]; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 102–108, 112, 136–138, May 26, 1980, [94 Stat. 357–359][/us/stat/94/357-359], 361, 369, 370; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 104(a), 105–107, 115, 116(a)(1), title XXVI, § 2611, Aug. 13, 1981, [95 Stat. 358–361][/us/stat/95/358-361], 364, 902; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1305–1309, Dec. 22, 1981, [95 Stat. 1283][/us/stat/95/1283], 1284; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 143(b), 145(c), (d), 146–152(a), 153, 189(a), Sept. 8, 1982, [96 Stat. 773–776][/us/stat/96/773-776], 787; [Pub. L. 98–204, § 4][/us/pl/98/204/s4], Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1507(a)(1), 1508–1513(a), 1514, 1515, Dec. 23, 1985, [99 Stat. 1567–1572][/us/stat/99/1567-1572]; [Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 638(a)\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–34, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 638(a)\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–34; [Pub. L. 100–77, title VIII][/us/pl/100/77], §§ 803(a), 804(a), 805(a), 806(a), 807(a), July 22, 1987, [101 Stat. 534][/us/stat/101/534], 535; [Pub. L. 100–232, § 2(a)][/us/pl/100/232/s2/a], Jan. 5, 1988, [101 Stat. 1566][/us/stat/101/1566]; [Pub. L. 100–387, title V, § 501(a)][/us/pl/100/387/s501/a], Aug. 11, 1988, [102 Stat. 960][/us/stat/102/960]; [Pub. L. 100–435, title II][/us/pl/100/435], §§ 201, 202(a), title III, §§ 340–343, 351, title IV, §§ 402, 403, 404(f), Sept. 19, 1988, [102 Stat. 1655][/us/stat/102/1655], 1656, 1663–1665, 1668; [Pub. L. 100–707, title I, § 109(d)][/us/pl/100/707/s109/d], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1714–1718(a), 1719–1722, 1726(b)(2), Nov. 28, 1990, [104 Stat. 3783–3787][/us/stat/104/3783-3787]; [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–237, title IX][/us/pl/102/237], §§ 902–906, 941(2), Dec. 13, 1991, [105 Stat. 1884][/us/stat/105/1884], 1885, 1892; [Pub. L. 102–265, § 1(a)][/us/pl/102/265/s1/a], Mar. 26, 1992, [106 Stat. 90][/us/stat/106/90]; [Pub. L. 102–367, title VII, § 702(b)][/us/pl/102/367/s702/b], Sept. 7, 1992, [106 Stat. 1113][/us/stat/106/1113]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13911–13915, 13921, 13922(a), 13923, 13924, Aug. 10, 1993, [107 Stat. 673–675][/us/stat/107/673-675]; [Pub. L. 103–225, title I, § 101(b)(2)][/us/pl/103/225/s101/b/2], Mar. 25, 1994, [108 Stat. 107][/us/stat/108/107]; [Pub. L. 104–193, title I, § 109(a)][/us/pl/104/193/s109/a], title VIII, §§ 806–809(a), 810–812, Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2309, 2313, 2314; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(2)(A), (f)(2)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–418, 2681–429; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, §§ 846(a), 847(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–65, 1549A–66; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4101–4108(a), 4112(b)(2), 4401(b)(2)(C), May 13, 2002, [116 Stat. 305–309][/us/stat/116/305-309], 313, 333; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1098–1100, 1106; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1859–1861, 1867.)
+([Pub. L. 88–525, § 5][/us/pl/88/525/s5], Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 91–671, § 4][/us/pl/91/671/s4], Jan. 11, 1971, [84 Stat. 2049][/us/stat/84/2049]; [Pub. L. 93–86, § 3(d)][/us/pl/93/86/s3/d], (e), (g), (h), Aug. 10, 1973, [87 Stat. 246][/us/stat/87/246], 247; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 962][/us/stat/91/962]; [Pub. L. 96–58, § 2][/us/pl/96/58/s2], Aug. 14, 1979, [93 Stat. 390][/us/stat/93/390]; [Pub. L. 96–223, title III, § 313(c)(2)][/us/pl/96/223/s313/c/2], Apr. 2, 1980, [94 Stat. 299][/us/stat/94/299]; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 102–108, 112, 136–138, May 26, 1980, [94 Stat. 357–359][/us/stat/94/357-359], 361, 369, 370; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 104(a), 105–107, 115, 116(a)(1), title XXVI, § 2611, Aug. 13, 1981, [95 Stat. 358–361][/us/stat/95/358-361], 364, 902; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1305–1309, Dec. 22, 1981, [95 Stat. 1283][/us/stat/95/1283], 1284; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 143(b), 145(c), (d), 146–152(a), 153, 189(a), Sept. 8, 1982, [96 Stat. 773–776][/us/stat/96/773-776], 787; [Pub. L. 98–204, § 4][/us/pl/98/204/s4], Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1507(a)(1), 1508–1513(a), 1514, 1515, Dec. 23, 1985, [99 Stat. 1567–1572][/us/stat/99/1567-1572]; [Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 638(a)\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–34, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 638(a)\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–34; [Pub. L. 100–77, title VIII][/us/pl/100/77], §§ 803(a), 804(a), 805(a), 806(a), 807(a), July 22, 1987, [101 Stat. 534][/us/stat/101/534], 535; [Pub. L. 100–232, § 2(a)][/us/pl/100/232/s2/a], Jan. 5, 1988, [101 Stat. 1566][/us/stat/101/1566]; [Pub. L. 100–387, title V, § 501(a)][/us/pl/100/387/s501/a], Aug. 11, 1988, [102 Stat. 960][/us/stat/102/960]; [Pub. L. 100–435, title II][/us/pl/100/435], §§ 201, 202(a), title III, §§ 340–343, 351, title IV, §§ 402, 403, 404(f), Sept. 19, 1988, [102 Stat. 1655][/us/stat/102/1655], 1656, 1663–1665, 1668; [Pub. L. 100–707, title I, § 109(d)][/us/pl/100/707/s109/d], Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1714–1718(a), 1719–1722, 1726(b)(2), Nov. 28, 1990, [104 Stat. 3783–3787][/us/stat/104/3783-3787]; [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–237, title IX][/us/pl/102/237], §§ 902–906, 941(2), Dec. 13, 1991, [105 Stat. 1884][/us/stat/105/1884], 1885, 1892; [Pub. L. 102–265, § 1(a)][/us/pl/102/265/s1/a], Mar. 26, 1992, [106 Stat. 90][/us/stat/106/90]; [Pub. L. 102–367, title VII, § 702(b)][/us/pl/102/367/s702/b], Sept. 7, 1992, [106 Stat. 1113][/us/stat/106/1113]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13911–13915, 13921, 13922(a), 13923, 13924, Aug. 10, 1993, [107 Stat. 673–675][/us/stat/107/673-675]; [Pub. L. 103–225, title I, § 101(b)(2)][/us/pl/103/225/s101/b/2], Mar. 25, 1994, [108 Stat. 107][/us/stat/108/107]; [Pub. L. 104–193, title I, § 109(a)][/us/pl/104/193/s109/a], title VIII, §§ 806–809(a), 810–812, Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2309, 2313, 2314; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(2)(A), (f)(2)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–418, 2681–429; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, §§ 846(a), 847(a)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–65, 1549A–66; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4101–4108(a), 4112(b)(2), 4401(b)(2)(C), May 13, 2002, [116 Stat. 305–309][/us/stat/116/305-309], 313, 333; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1098–1100, 1106; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1859–1861, 1867; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4005, 4006(a), 4008(b), 4022(b)(1), 4030(c), Feb. 7, 2014, [128 Stat. 786–788][/us/stat/128/786-788], 808, 814.)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsecs. (a), (d)(5), (11), (12), (16), (18), (f)(4), (g)(2)(D), (6)(A)(i), (j), (k)(1)(A), and (n), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles I, II, IV, X, XIV, XVI, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), IV (§ 601 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
+    Section 2012(n)(4), referred to in subsec. (a), was redesignated as section 2012(m)(4) by [Pub. L. 113–79, title IV, § 4030(a)(4)][/us/pl/113/79/s4030/a/4], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].
+
     [Section 3507 of title 26][/us/usc/t26/s3507], referred to in subsec. (d)(13), was repealed by [Pub. L. 111–226, title II, § 219(a)(1)][/us/pl/111/226/s219/a/1], Aug. 10, 2010, [124 Stat. 2403][/us/stat/124/2403].
 
-    The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (e)(7)(C)(iv), is title XXVI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 893][/us/stat/95/893], as amended, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 8621 of Title 42][/us/usc/t42/s8621] and Tables.
-
-    [Section 2022(b) of this title][/us/usc/t7/s2022/b], referred to in subsec. (i)(2)(D), was amended generally by [Pub. L. 104–193, title VIII, § 844(a)(1)][/us/pl/104/193/s844/a/1], Aug. 22, 1996, [110 Stat. 2332][/us/stat/110/2332], and, as so amended, provisions formerly appearing in [section 2022(b)(2) of this title][/us/usc/t7/s2022/b/2] now appear in [section 2022(b)(1) of this title][/us/usc/t7/s2022/b/1].
-
-    Paragraph (2)(H), referred to in subsec. (k)(4)(A), meaning par. (2)(H) of subsec. (k), was redesignated par. (2)(G) by [Pub. L. 104–193, title VIII, § 811(2)][/us/pl/104/193/s811/2], Aug. 22, 1996, [110 Stat. 2314][/us/stat/110/2314].
+    The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (e)(6)(C)(iv), is title XXVI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 893][/us/stat/95/893], which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 8621 of Title 42][/us/usc/t42/s8621] and Tables.
 
     The Workforce Investment Act of 1998, referred to in subsec. (l), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
 
@@ -580,6 +582,24 @@
     [Pub. L. 99–591][/us/pl/99/591] is a corrected version of [Pub. L. 99–500][/us/pl/99/500].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79, § 4008(b)][/us/pl/113/79/s4008/b], substituted “subsections (b), (d)(2), (g), and (r) of [section 2015 of this title][/us/usc/t7/s2015]” for “sections 2015(b), 2015(d)(2), and 2015(g) of this title”.
+
+    Subsec. (d)(14). [Pub. L. 113–79, § 4022(b)(1)(A)][/us/pl/113/79/s4022/b/1/A], inserted “or a pilot project under [section 2025(h)(1)(F) of this title][/us/usc/t7/s2025/h/1/F]” after “[section 2015(d)(4)(I) of this title][/us/usc/t7/s2015/d/4/I]”.
+
+    Subsec. (e)(3)(B)(iii). [Pub. L. 113–79, § 4022(b)(1)(B)][/us/pl/113/79/s4022/b/1/B], inserted “or a pilot project under [section 2025(h)(1)(F) of this title][/us/usc/t7/s2025/h/1/F] ” after “[section 2015(d)(4) of this title][/us/usc/t7/s2015/d/4]”.
+
+    Subsec. (e)(5)(C). [Pub. L. 113–79, § 4005][/us/pl/113/79/s4005], added subpar. (C).
+
+    Subsec. (e)(6)(C)(i). [Pub. L. 113–79, § 4006(a)(1)][/us/pl/113/79/s4006/a/1], inserted “, subject to clause (iv)” after “Secretary”.
+
+    Subsec. (e)(6)(C)(iv)(I). [Pub. L. 113–79, § 4006(a)(2)][/us/pl/113/79/s4006/a/2], added subcl. (I) and struck out former subcl. (I). Text read as follows: “Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating or cooling costs, the standard utility allowance shall be made available to households receiving a payment, or on behalf of which a payment is made, under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621][/us/usc/t42/s8621] et seq.) or other similar energy assistance program, if the household still incurs out-of-pocket heating or cooling expenses in excess of any assistance paid on behalf of the household to an energy provider.”
+
+    Subsec. (g)(3). [Pub. L. 113–79, § 4022(b)(1)(C)][/us/pl/113/79/s4022/b/1/C], inserted “or a pilot project under [section 2025(h)(1)(F) of this title][/us/usc/t7/s2025/h/1/F]” after “[section 2015(d) of this title][/us/usc/t7/s2015/d]”.
+
+    Subsec. (i)(2)(D). [Pub. L. 113–79, § 4030(c)(1)][/us/pl/113/79/s4030/c/1], substituted “[section 2022(b) of this title][/us/usc/t7/s2022/b]” for “[section 2022(b)(2) of this title][/us/usc/t7/s2022/b/2]”.
+
+    Subsec. (k)(4)(A). [Pub. L. 113–79, § 4030(c)(2)][/us/pl/113/79/s4030/c/2], substituted “paragraph (2)(G)” for “paragraph (2)(H)”.
 
     2008—Subsec. (a). [Pub. L. 110–246, § 4115(b)(3)(A)][/us/pl/110/246/s4115/b/3/A], which directed substitution of “section 2012(n)(4)” for “section 2012(i)(4)”, was executed by making the substitution in two places, to reflect the probable intent of Congress.
 
@@ -977,6 +997,30 @@
 
     Subsec. (c). [Pub. L. 91–671][/us/pl/91/671] added subsec. (c).
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–79, title IV, § 4006(c)][/us/pl/113/79/s4006/c], Feb. 7, 2014, [128 Stat. 787][/us/stat/128/787], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Except as provided in paragraph (2), this section \[amending this section and [section 8624 of Title 42][/us/usc/t42/s8624], The Public Health and Welfare\] and the amendments made by this section shall—
+
+>         “(A) take effect 30 days after the date of enactment of this Act \[Feb. 7, 2014\]; and
+
+>         “(B) apply with respect to certification periods that begin after that date.
+
+>     “(2)  __State option to delay implementation for current recipients__  __.—__ 
+
+>     A State may, at the option of the State, implement a policy that eliminates or reduces the effect of the amendments made by this section on households that received a standard utility allowance as of the date of enactment of this Act, for not more than a 5-month period beginning on the date on which the amendments would otherwise apply to the respective household.”
+
+[Pub. L. 113–79, title IV, § 4008(c)][/us/pl/113/79/s4008/c], Feb. 7, 2014, [128 Stat. 788][/us/stat/128/788], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 2015 of this title][/us/usc/t7/s2015]\] shall not apply to a conviction if the conviction is for conduct occurring on or before the date of enactment of this Act \[Feb. 7, 2014\].”
+
+[Pub. L. 113–79, title IV, § 4022(c)(1)][/us/pl/113/79/s4022/c/1], Feb. 7, 2014, [128 Stat. 808][/us/stat/128/808], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 2025 and 2026 of this title\] (other than the amendments made by subsection (a)(2) \[amending [section 2025 of this title][/us/usc/t7/s2025]\]) shall apply beginning on the date of enactment of this Act \[Feb. 7, 2014\].”
+
  __Effective Date of 2008 Amendment__ 
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of this title][/us/usc/t7/s8701].
@@ -1194,11 +1238,10 @@
 ----------
 ----------
 
-[/us/usc/t7/s2012/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fn%2F4
+[/us/usc/t7/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/usc/t7/s2012/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fn%2F4
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
@@ -1207,6 +1250,7 @@
 [/us/usc/t45/s231b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231b%2Fa%2F1
 [/us/usc/t38/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5312
 [/us/usc/t7/s2015/d/4/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd%2F4%2FI
+[/us/usc/t7/s2025/h/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fh%2F1%2FF
 [/us/usc/t42/s1382a/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a%2Fb%2F4
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396u–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%931
@@ -1215,6 +1259,7 @@
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t7/s2025/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fb
 [/us/usc/t7/s2015/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd%2F4
+[/us/usc/t7/s2025/h/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fh%2F1%2FF
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
@@ -1225,6 +1270,7 @@
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t7/s2015/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd
+[/us/usc/t7/s2025/h/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fh%2F1%2FF
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s1396u–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%931
 [/us/usc/t5/s8439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8439
@@ -1233,6 +1279,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t7/s2016/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016%2Fh
 [/us/usc/t7/s2015/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Ff%2F2%2FB
+[/us/usc/t7/s2022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022%2Fb
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
@@ -1304,22 +1351,19 @@
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/786-788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F786-788
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/113/79/s4030/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F4
+[/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
 [/us/usc/t26/s3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3507
 [/us/pl/111/226/s219/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs219%2Fa%2F1
 [/us/stat/124/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2403
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F893
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
-[/us/usc/t7/s2022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022%2Fb
-[/us/pl/104/193/s844/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs844%2Fa%2F1
-[/us/stat/110/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2332
-[/us/usc/t7/s2022/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022%2Fb%2F2
-[/us/usc/t7/s2022/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022%2Fb%2F1
-[/us/pl/104/193/s811/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs811%2F2
-[/us/stat/110/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2314
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
@@ -1329,6 +1373,25 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/113/79/s4008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4008%2Fb
+[/us/usc/t7/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015
+[/us/pl/113/79/s4022/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4022%2Fb%2F1%2FA
+[/us/usc/t7/s2025/h/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fh%2F1%2FF
+[/us/usc/t7/s2015/d/4/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd%2F4%2FI
+[/us/pl/113/79/s4022/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4022%2Fb%2F1%2FB
+[/us/usc/t7/s2025/h/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fh%2F1%2FF
+[/us/usc/t7/s2015/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd%2F4
+[/us/pl/113/79/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4005
+[/us/pl/113/79/s4006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4006%2Fa%2F1
+[/us/pl/113/79/s4006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4006%2Fa%2F2
+[/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
+[/us/pl/113/79/s4022/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4022%2Fb%2F1%2FC
+[/us/usc/t7/s2025/h/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fh%2F1%2FF
+[/us/usc/t7/s2015/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd
+[/us/pl/113/79/s4030/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fc%2F1
+[/us/usc/t7/s2022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022%2Fb
+[/us/usc/t7/s2022/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022%2Fb%2F2
+[/us/pl/113/79/s4030/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fc%2F2
 [/us/pl/110/246/s4115/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F3%2FA
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
@@ -1551,6 +1614,15 @@
 [/us/pl/91/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F671
 [/us/pl/91/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F671
 [/us/pl/91/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F671
+[/us/pl/113/79/s4006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4006%2Fc
+[/us/stat/128/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F787
+[/us/usc/t42/s8624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8624
+[/us/pl/113/79/s4008/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4008%2Fc
+[/us/stat/128/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F788
+[/us/usc/t7/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015
+[/us/pl/113/79/s4022/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4022%2Fc%2F1
+[/us/stat/128/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F808
+[/us/usc/t7/s2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

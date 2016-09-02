@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary may make competitive or noncompetitive grants to eligible institutions in insular areas to strengthen the capacity of such institutions to carry out distance food and agricultural education programs using digital network technologies.
+        The Secretary may make competitive grants to eligible institutions in insular areas to strengthen the capacity of such institutions to carry out distance food and agricultural education programs using digital network technologies.
 
     (b) __Use__ 
 
@@ -53,15 +53,23 @@
 
     (f) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2012.
+    There is authorized to be appropriated to carry out this section—
 
-([Pub. L. 95–113, title XIV, § 1490][/us/pl/95/113/s1490], as added [Pub. L. 107–171, title VII, § 7503][/us/pl/107/171/s7503], May 13, 2002, [116 Stat. 464][/us/stat/116/464]; amended [Pub. L. 110–234, title VII, § 7143(a)][/us/pl/110/234/s7143/a], May 22, 2008, [122 Stat. 1232][/us/stat/122/1232]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7143(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1994.)
+        (1) such sums as are necessary for each of fiscal years 2002 through 2013; and
+
+        (2) $2,000,000 for each of fiscal years 2014 through 2018.
+
+([Pub. L. 95–113, title XIV, § 1490][/us/pl/95/113/s1490], as added [Pub. L. 107–171, title VII, § 7503][/us/pl/107/171/s7503], May 13, 2002, [116 Stat. 464][/us/stat/116/464]; amended [Pub. L. 110–234, title VII, § 7143(a)][/us/pl/110/234/s7143/a], May 22, 2008, [122 Stat. 1232][/us/stat/122/1232]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7143(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1994; [Pub. L. 113–79, title VII, § 7127(a)][/us/pl/113/79/s7127/a], Feb. 7, 2014, [128 Stat. 877][/us/stat/128/877].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79, § 7127(a)(1)][/us/pl/113/79/s7127/a/1], struck out “or noncompetitive” after “competitive”.
+
+    Subsec. (f). [Pub. L. 113–79, § 7127(a)(2)][/us/pl/113/79/s7127/a/2], substituted “section—” for “section such sums as may be necessary for each of fiscal years 2002 through 2012.” and added pars. (1) and (2).
 
     2008—Subsec. (f). [Pub. L. 110–246, § 7143(a)][/us/pl/110/246/s7143/a], substituted “2012” for “2007”.
 
@@ -83,10 +91,14 @@
 [/us/stat/122/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1232
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7127%2Fa
+[/us/stat/128/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F877
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s7127/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7127%2Fa%2F1
+[/us/pl/113/79/s7127/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7127%2Fa%2F2
 [/us/pl/110/246/s7143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7143%2Fa
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

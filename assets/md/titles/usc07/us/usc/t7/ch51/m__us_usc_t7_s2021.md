@@ -57,7 +57,7 @@
 
                     (II) the management was aware of, approved of, benefited from, or was involved in the conduct of no more than 1 previous violation by the store or food concern; or
 
-            (C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in [section 802 of title 21][/us/usc/t21/s802]) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil money penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
+            (C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in [section 802 of title 21][/us/usc/t21/s802]) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
 
         (4) for a reasonable period of time to be determined by the Secretary, including permanent disqualification, on the knowing submission of an application for the approval or reauthorization to accept and redeem coupons that contains false information about a substantive matter that was a part of the application.
 
@@ -143,13 +143,77 @@
 
             The Secretary shall not be liable for the value of any interest on funds suspended under this subsection.
 
-([Pub. L. 88–525, § 12][/us/pl/88/525/s12], Aug. 31, 1964, [78 Stat. 707][/us/stat/78/707]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 974][/us/stat/91/974]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 175, 176(a), Sept. 8, 1982, [96 Stat. 781][/us/stat/96/781]; [Pub. L. 99–198, title XV, § 1532(a)][/us/pl/99/198/s1532/a], Dec. 23, 1985, [99 Stat. 1582][/us/stat/99/1582]; [Pub. L. 100–435, title III, § 344][/us/pl/100/435/s344], Sept. 19, 1988, [102 Stat. 1664][/us/stat/102/1664]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1743–1745, Nov. 28, 1990, [104 Stat. 3795][/us/stat/104/3795], 3796; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13943, 13944, Aug. 10, 1993, [107 Stat. 677][/us/stat/107/677]; [Pub. L. 104–127, title IV, § 401(a)][/us/pl/104/127/s401/a], Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 841–843, Aug. 22, 1996, [110 Stat. 2331][/us/stat/110/2331], 2332; [Pub. L. 110–234, title IV, § 4132][/us/pl/110/234/s4132], May 22, 2008, [122 Stat. 1114][/us/stat/122/1114]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4132, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1875.)
+    (i) __Pilot projects to improve federal-state cooperation in identifying and reducing fraud in the supplemental nutrition assistance program__ 
+
+        (1) __Pilot projects required__ 
+
+            (A) __In general__ 
+
+                The Secretary shall carry out, under such terms and conditions as are determined by the Secretary, pilot projects to test innovative Federal-State partnerships to identify, investigate, and reduce fraud by retail food stores and wholesale food concerns in the supplemental nutrition assistance program, including allowing States to operate programs to investigate that fraud.
+
+            (B) __Requirement__ 
+
+            At least 1 pilot project described in subparagraph (A) shall be carried out in an urban area that is among the 10 largest urban areas in the United States (based on population), if—
+
+                (i) the supplemental nutrition assistance program is separately administered in the area; and
+
+                (ii) if the administration of the supplemental nutrition assistance program in the area complies with the other applicable requirements of the program.
+
+        (2) __Selection criteria__ 
+
+        Pilot projects shall be selected based on criteria the Secretary establishes, which shall include—
+
+            (A) enhancing existing efforts by the Secretary to reduce fraud described in paragraph (1)(A);
+
+            (B) requiring participant States to maintain the overall level of effort of the States at addressing recipient fraud, as determined by the Secretary, prior to participation in the pilot project;
+
+            (C) collaborating with other law enforcement authorities as necessary to carry out an effective pilot project;
+
+            (D) commitment of the participant State agency to follow Federal rules and procedures with respect to investigations described in paragraph (1)(A); and
+
+            (E) the extent to which a State has committed resources to recipient fraud and the relative success of those efforts.
+
+        (3) __Evaluation__ 
+
+            (A) __In general__ 
+
+                The Secretary shall evaluate the pilot projects selected under this subsection to measure the impact of the pilot projects.
+
+            (B) __Requirements__ 
+
+            The evaluation shall include—
+
+                (i) the impact of each pilot project on increasing the capacity of the Secretary to address fraud described in paragraph (1)(A);
+
+                (ii) the effectiveness of the pilot projects in identifying, preventing and reducing fraud described in paragraph (1)(A); and
+
+                (iii) the cost effectiveness of the pilot projects.
+
+        (4) __Report to Congress__ 
+
+        Not later than September 30, 2017, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that includes a description of the results of each pilot project, including—
+
+            (A) an evaluation of the impact of the pilot project on fraud described in paragraph (1)(A); and
+
+            (B) the costs associated with the pilot project.
+
+        (5) __Funding__ 
+
+            Any costs incurred by a State to operate pilot projects under this subsection that are in excess of the amount expended under this chapter to identify, investigate, and reduce fraud described in paragraph (1)(A) in the respective State in the previous fiscal year shall not be eligible for Federal reimbursement under this chapter.
+
+([Pub. L. 88–525, § 12][/us/pl/88/525/s12], Aug. 31, 1964, [78 Stat. 707][/us/stat/78/707]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 974][/us/stat/91/974]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 175, 176(a), Sept. 8, 1982, [96 Stat. 781][/us/stat/96/781]; [Pub. L. 99–198, title XV, § 1532(a)][/us/pl/99/198/s1532/a], Dec. 23, 1985, [99 Stat. 1582][/us/stat/99/1582]; [Pub. L. 100–435, title III, § 344][/us/pl/100/435/s344], Sept. 19, 1988, [102 Stat. 1664][/us/stat/102/1664]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1743–1745, Nov. 28, 1990, [104 Stat. 3795][/us/stat/104/3795], 3796; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13943, 13944, Aug. 10, 1993, [107 Stat. 677][/us/stat/107/677]; [Pub. L. 104–127, title IV, § 401(a)][/us/pl/104/127/s401/a], Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 841–843, Aug. 22, 1996, [110 Stat. 2331][/us/stat/110/2331], 2332; [Pub. L. 110–234, title IV, § 4132][/us/pl/110/234/s4132], May 22, 2008, [122 Stat. 1114][/us/stat/122/1114]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4132, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1875; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4017, 4030(g), Feb. 7, 2014, [128 Stat. 796][/us/stat/128/796], 814.)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3)(C). [Pub. L. 113–79, § 4030(g)(1)][/us/pl/113/79/s4030/g/1], substituted “civil penalties” for “civil money penalties”.
+
+    Subsec. (g)(1). [Pub. L. 113–79, § 4030(g)(2)][/us/pl/113/79/s4030/g/2], made technical amendment to reference in original act which appears in text as reference to [section 1786 of title 42][/us/usc/t42/s1786].
+
+    Subsec. (i). [Pub. L. 113–79, § 4017][/us/pl/113/79/s4017], added subsec. (i).
 
     2008—[Pub. L. 110–246, § 4132(1)][/us/pl/110/246/s4132/1], substituted “Civil penalties” for “Civil money penalties” in section catchline.
 
@@ -271,10 +335,16 @@
 [/us/stat/122/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1114
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F796
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s4030/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fg%2F1
+[/us/pl/113/79/s4030/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fg%2F2
+[/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
+[/us/pl/113/79/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4017
 [/us/pl/110/246/s4132/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F1
 [/us/pl/110/246/s4132/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F1
 [/us/pl/110/246/s4132/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4132%2F2%2FA

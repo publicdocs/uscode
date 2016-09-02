@@ -51,27 +51,19 @@
 
     (e) __Minimum level of nonemergency food assistance__ 
 
-        (1) __Funds and commodities__ 
+        (1) __In general__ 
 
-            Of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter III, not less than $375,000,000 for fiscal year 2009, $400,000,000 for fiscal year 2010, $425,000,000 for fiscal year 2011, and $450,000,000 for fiscal year 2012 shall be expended for nonemergency food assistance programs under subchapter III.
+            Subject to paragraph (2), of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter III, not less than 20 nor more than 30 percent for each of fiscal years 2014 through 2018 shall be expended for nonemergency food assistance programs under subchapter III.
 
-        (2) __Exception__ 
+        (2) __Minimum level__ 
 
-        The President may use less than the amount specified in paragraph (1) in a fiscal year for nonemergency food assistance programs under subchapter III only if—
+            The amount made available to carry out nonemergency food assistance programs under subchapter III shall not be less than $350,000,000 for any fiscal year.
 
-            (A) the President has made a determination that there is an urgent need for additional emergency food assistance;
-
-            (B) the funds and commodities held in the Bill Emerson Humanitarian Trust have been exhausted; and
-
-            (C) the President has submitted to Congress a supplemental appropriations request for a sum equal to the amount needed to reach the required spending level for nonemergency food assistance under paragraph (1) and the amount exhausted under paragraph (2)(B).
-
-        (3) __Notification to Congress__ 
-
-            If the President makes the determination described in paragraph (2)(A), the President shall submit to Congress written notification that the determination has been made.
-
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 412, as added [Pub. L. 94–161, title II, § 212][/us/pl/94/161/s212], Dec. 20, 1975, [89 Stat. 855][/us/stat/89/855]; amended [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3655][/us/stat/104/3655]; [Pub. L. 104–127, title II, § 220][/us/pl/104/127/s220], Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 768\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3020, 3021, June 18, 2008, [122 Stat. 1829][/us/stat/122/1829].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 412, as added [Pub. L. 94–161, title II, § 212][/us/pl/94/161/s212], Dec. 20, 1975, [89 Stat. 855][/us/stat/89/855]; amended [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3655][/us/stat/104/3655]; [Pub. L. 104–127, title II, § 220][/us/pl/104/127/s220], Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 768\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3020, 3021, June 18, 2008, [122 Stat. 1829][/us/stat/122/1829]; [Pub. L. 113–79, title III, § 3012][/us/pl/113/79/s3012], Feb. 7, 2014, [128 Stat. 777][/us/stat/128/777].)
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] amended subsec. (e) generally. Prior to amendment, subsec. (e) specified minimum amounts to be expended for nonemergency food assistance programs under subchapter III for fiscal years 2009 to 2012, provided an exception allowing the President to use less than the amount specified, and required notification to Congress if the President determined that there was an urgent need for additional emergency food assistance.
 
     2008—Subsec. (a). [Pub. L. 110–246, § 3020][/us/pl/110/246/s3020], added subsec. (a) and struck out former subsec. (a) which authorized appropriations for programs under subchapters II, III, and III–A of this chapter.
 
@@ -135,6 +127,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1829
+[/us/pl/113/79/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3012
+[/us/stat/128/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F777
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3020
 [/us/pl/110/246/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3021
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387

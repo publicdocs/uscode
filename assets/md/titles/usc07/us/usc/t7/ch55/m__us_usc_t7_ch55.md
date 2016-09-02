@@ -121,6 +121,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2204h" data-uslm-ref="/us/usc/t7/s2204h">2204h.</a>  </td>
+
+    <td> Local food production and program evaluation.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2205" data-uslm-ref="/us/usc/t7/s2205">2205.</a>  </td>
 
     <td> Duties of former Commissioner of Agriculture transferred to Secretary.  </td>
@@ -164,6 +172,14 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2207a" data-uslm-ref="/us/usc/t7/s2207a">2207a.</a>  </td>
 
     <td> Reports to Congress on obligation and expenditure.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2207b" data-uslm-ref="/us/usc/t7/s2207b">2207b.</a>  </td>
+
+    <td> Program metrics.  </td>
 
   </tr>
 
@@ -1011,7 +1027,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2279" data-uslm-ref="/us/usc/t7/s2279">2279.</a>  </td>
 
-    <td> Outreach and assistance for socially disadvantaged farmers and ranchers.  </td>
+    <td> Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers.  </td>
 
   </tr>
 

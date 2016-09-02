@@ -29,9 +29,17 @@
 
         (D) the products of forestry;
 
-        (E) other commodities raised or produced on farms, as determined appropriate by the Secretary; and
+        (E)
 
-        (F) products processed or manufactured from products specified in the preceding subparagraphs, as determined appropriate by the Secretary.
+         products, as a class, that are—
+
+            (i) produced on a certified organic farm (as defined in [section 6502 of this title][/us/usc/t7/s6502]); and
+
+            (ii) certified to be sold or labeled as “organic” or “100 percent organic” (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation));
+
+        (F) other commodities raised or produced on farms, as determined appropriate by the Secretary; and
+
+        (G) products processed or manufactured from products specified in the preceding subparagraphs, as determined appropriate by the Secretary.
 
     (2) __Board__ 
 
@@ -113,7 +121,11 @@
 
         The term “United States” means collectively the 50 States, the District of Columbia, the Commonwealth of Puerto Rico and the territories and possessions of the United States.
 
-([Pub. L. 104–127, title V, § 513][/us/pl/104/127/s513], Apr. 4, 1996, [110 Stat. 1033][/us/stat/110/1033].)
+([Pub. L. 104–127, title V, § 513][/us/pl/104/127/s513], Apr. 4, 1996, [110 Stat. 1033][/us/stat/110/1033]; [Pub. L. 113–79, title X, § 10004(f)][/us/pl/113/79/s10004/f], Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
+
+ __Amendments__ 
+
+    2014—Par. (1)(E) to (G). [Pub. L. 113–79][/us/pl/113/79] added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
 ----------
 
@@ -122,11 +134,15 @@
 ----------
 ----------
 
+[/us/usc/t7/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6502
 [/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
 [/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/104/127/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs513
 [/us/stat/110/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1033
+[/us/pl/113/79/s10004/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Ff
+[/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 
 

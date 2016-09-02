@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s1983c.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s1985.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1984)
+[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s1983d.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s1985.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1984)
 
 ## § 1984. Taxation
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s1983c.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s1985.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1984)
+[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s1983d.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s1985.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1984)
 
 ----------
 ----------

@@ -215,7 +215,7 @@
 
         (1) __Authorization of appropriations__ 
 
-            There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2012.
+            There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2018.
 
         (2) __Federal agencies__ 
 
@@ -233,9 +233,9 @@
 
     (h) __Termination__ 
 
-        The authority provided under this section shall terminate on September 30, 2012.
+        The authority provided under this section shall terminate on September 30, 2018.
 
-([Pub. L. 87–128, title III, § 378][/us/pl/87/128/s378], as added [Pub. L. 107–171, title VI, § 6021][/us/pl/107/171/s6021], May 13, 2002, [116 Stat. 363][/us/stat/116/363]; amended [Pub. L. 110–234, title VI, § 6019][/us/pl/110/234/s6019], May 22, 2008, [122 Stat. 1172][/us/stat/122/1172]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6019, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1933.)
+([Pub. L. 87–128, title III, § 378][/us/pl/87/128/s378], as added [Pub. L. 107–171, title VI, § 6021][/us/pl/107/171/s6021], May 13, 2002, [116 Stat. 363][/us/stat/116/363]; amended [Pub. L. 110–234, title VI, § 6019][/us/pl/110/234/s6019], May 22, 2008, [122 Stat. 1172][/us/stat/122/1172]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6019, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1933; [Pub. L. 113–79, title VI, § 6021][/us/pl/113/79/s6021], Feb. 7, 2014, [128 Stat. 847][/us/stat/128/847].)
 
  __Codification__ 
 
@@ -244,6 +244,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (g)(1). [Pub. L. 113–79, § 6021(1)][/us/pl/113/79/s6021/1], substituted “2018” for “2012”.
+
+    Subsec. (h). [Pub. L. 113–79, § 6021(2)][/us/pl/113/79/s6021/2], substituted “2018” for “2012”.
 
     2008—Subsec. (g)(1). [Pub. L. 110–246, § 6019(1)][/us/pl/110/246/s6019/1], substituted “2008 through 2012” for “2003 through 2007”.
 
@@ -268,6 +272,8 @@
 [/us/stat/122/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1172
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6021
+[/us/stat/128/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F847
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fa
@@ -276,6 +282,8 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s6021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6021%2F1
+[/us/pl/113/79/s6021/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6021%2F2
 [/us/pl/110/246/s6019/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6019%2F1
 [/us/pl/110/246/s6019/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6019%2F2
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

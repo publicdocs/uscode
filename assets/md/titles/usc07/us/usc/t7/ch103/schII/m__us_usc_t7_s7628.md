@@ -51,15 +51,21 @@
 
     (e) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2012.
+    There are authorized to be appropriated to carry out this section—
 
-([Pub. L. 105–185, title IV, § 408][/us/pl/105/185/s408], June 23, 1998, [112 Stat. 574][/us/stat/112/574]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7131, 7207(d)(1)–(4)(A), May 13, 2002, [116 Stat. 435][/us/stat/116/435], 440, 441; [Pub. L. 110–234, title VII, § 7307][/us/pl/110/234/s7307], May 22, 2008, [122 Stat. 1242][/us/stat/122/1242]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7307, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2004.)
+        (1) such sums as may be necessary for each of fiscal years 1999 through 2013; and
+
+        (2) $10,000,000 for each of fiscal years 2014 through 2018.
+
+([Pub. L. 105–185, title IV, § 408][/us/pl/105/185/s408], June 23, 1998, [112 Stat. 574][/us/stat/112/574]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7131, 7207(d)(1)–(4)(A), May 13, 2002, [116 Stat. 435][/us/stat/116/435], 440, 441; [Pub. L. 110–234, title VII, § 7307][/us/pl/110/234/s7307], May 22, 2008, [122 Stat. 1242][/us/stat/122/1242]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7307, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2004; [Pub. L. 113–79, title VII, § 7303][/us/pl/113/79/s7303], Feb. 7, 2014, [128 Stat. 888][/us/stat/128/888].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] amended subsec. (e) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2012.”
 
     2008—Subsec. (a). [Pub. L. 110–246, § 7307(1)][/us/pl/110/246/s7307/1], substituted “grants” for “grant” in heading.
 
@@ -106,10 +112,13 @@
 [/us/stat/122/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1242
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7303
+[/us/stat/128/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F888
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7307%2F1
 [/us/pl/110/246/s7307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7307%2F2
 [/us/pl/107/171/s7207/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7207%2Fd%2F4%2FA

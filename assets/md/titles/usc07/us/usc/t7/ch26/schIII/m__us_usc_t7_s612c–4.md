@@ -21,13 +21,13 @@
 
     (b) __Purchase of fresh fruits and vegetables for distribution to schools and service institutions__ 
 
-        The Secretary of Agriculture shall purchase fresh fruits and vegetables for distribution to schools and service institutions in accordance with [section 1755(a) of title 42][/us/usc/t42/s1755/a] using, of the amount specified in subsection (a), not less than $50,000,000 for each of fiscal years 2008 through 2012.
+        The Secretary of Agriculture shall purchase fresh fruits and vegetables for distribution to schools and service institutions in accordance with [section 1755(a) of title 42][/us/usc/t42/s1755/a] using, of the amount specified in subsection (a), not less than $50,000,000 for each of fiscal years 2008 through 2018.
 
     (c) __Definitions__ 
 
         In this section, the terms “fruits”, “vegetables”, and “other specialty food crops” shall have the meaning given the terms by the Secretary of Agriculture.
 
-([Pub. L. 107–171, title X, § 10603][/us/pl/107/171/s10603], May 13, 2002, [116 Stat. 511][/us/stat/116/511]; [Pub. L. 110–234, title IV, § 4404(c)][/us/pl/110/234/s4404/c], May 22, 2008, [122 Stat. 1138][/us/stat/122/1138]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4404(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1899.)
+([Pub. L. 107–171, title X, § 10603][/us/pl/107/171/s10603], May 13, 2002, [116 Stat. 511][/us/stat/116/511]; [Pub. L. 110–234, title IV, § 4404(c)][/us/pl/110/234/s4404/c], May 22, 2008, [122 Stat. 1138][/us/stat/122/1138]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4404(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1899; [Pub. L. 113–79, title IV, § 4201][/us/pl/113/79/s4201], Feb. 7, 2014, [128 Stat. 821][/us/stat/128/821].)
 
  __Codification__ 
 
@@ -36,6 +36,8 @@
     Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Agricultural Adjustment Act which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—Subsec. (b). [Pub. L. 110–246, § 4404(c)][/us/pl/110/246/s4404/c], added subsec. (b) and struck out former subsec. (b) which related to authority of the Secretary of Agriculture to purchase fresh fruits and vegetables for distribution to schools and service institutions and to provide for the Secretary of Defense to serve as the servicing agency for their procurement.
 
@@ -60,10 +62,13 @@
 [/us/stat/122/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1138
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4201
+[/us/stat/128/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F821
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s4404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4404%2Fc
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

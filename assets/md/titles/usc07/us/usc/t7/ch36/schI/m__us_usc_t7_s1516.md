@@ -63,6 +63,28 @@
 
                 Amounts necessary to carry out the dairy options pilot program shall not be counted toward the limitation on expenses specified in subparagraph (A).
 
+            (C) __Reviews, compliance, and integrity__ 
+
+                (i) __In general__ 
+
+                For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $9,000,000 for each fiscal year, to pay costs—
+
+                    (I) to reimburse expenses incurred for the operations and review of policies, plans of insurance, and related materials (including actuarial and related information); and
+
+                    (II) to assist the Corporation in maintaining program actuarial soundness and financial integrity.
+
+                (ii) __Secretarial action__ 
+
+                For the purposes described in clause (i), the Secretary may, without further appropriation—
+
+                    (I) merge some or all of the funds made available under this subparagraph into the accounts of the Risk Management Agency; and
+
+                    (II) obligate those funds.
+
+                (iii) __Maintenance of funding__ 
+
+                    Funds made available under this subparagraph shall be in addition to other funds made available for costs incurred by the Corporation or the Risk Management Agency.
+
     (c) __Insurance fund__ 
 
         (1) __In general__ 
@@ -77,9 +99,11 @@
 
             (B) the Secretary may use the funds of the Commodity Credit Corporation to carry out subsection (b) of this section.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 516, [52 Stat. 77][/us/stat/52/77]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], §§ 6, 8, [55 Stat. 255][/us/stat/55/255], 256; [Aug. 3, 1956, ch. 950, § 10][/us/act/1956-08-03/ch950/s10], [70 Stat. 1034][/us/stat/70/1034]; [Pub. L. 96–365, title I][/us/pl/96/365], §§ 109, 110, Sept. 26, 1980, [94 Stat. 1317][/us/stat/94/1317], 1318; [Pub. L. 97–11][/us/pl/97/11], May 22, 1981, [95 Stat. 13][/us/stat/95/13]; [Pub. L. 99–198, title X, § 1021][/us/pl/99/198/s1021], Dec. 23, 1985, [99 Stat. 1459][/us/stat/99/1459]; [Pub. L. 103–354, title I, § 110][/us/pl/103/354/s110], Oct. 13, 1994, [108 Stat. 3198][/us/stat/108/3198]; [Pub. L. 104–127, title I, § 193(e)][/us/pl/104/127/s193/e], Apr. 4, 1996, [110 Stat. 945][/us/stat/110/945]; [Pub. L. 105–185, title V, § 531][/us/pl/105/185/s531], June 23, 1998, [112 Stat. 580][/us/stat/112/580]; [Pub. L. 106–224, title I, § 147][/us/pl/106/224/s147], June 20, 2000, [114 Stat. 393][/us/stat/114/393].)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 516, [52 Stat. 77][/us/stat/52/77]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], §§ 6, 8, [55 Stat. 255][/us/stat/55/255], 256; [Aug. 3, 1956, ch. 950, § 10][/us/act/1956-08-03/ch950/s10], [70 Stat. 1034][/us/stat/70/1034]; [Pub. L. 96–365, title I][/us/pl/96/365], §§ 109, 110, Sept. 26, 1980, [94 Stat. 1317][/us/stat/94/1317], 1318; [Pub. L. 97–11][/us/pl/97/11], May 22, 1981, [95 Stat. 13][/us/stat/95/13]; [Pub. L. 99–198, title X, § 1021][/us/pl/99/198/s1021], Dec. 23, 1985, [99 Stat. 1459][/us/stat/99/1459]; [Pub. L. 103–354, title I, § 110][/us/pl/103/354/s110], Oct. 13, 1994, [108 Stat. 3198][/us/stat/108/3198]; [Pub. L. 104–127, title I, § 193(e)][/us/pl/104/127/s193/e], Apr. 4, 1996, [110 Stat. 945][/us/stat/110/945]; [Pub. L. 105–185, title V, § 531][/us/pl/105/185/s531], June 23, 1998, [112 Stat. 580][/us/stat/112/580]; [Pub. L. 106–224, title I, § 147][/us/pl/106/224/s147], June 20, 2000, [114 Stat. 393][/us/stat/114/393]; [Pub. L. 113–79, title XI, § 11021][/us/pl/113/79/s11021], Feb. 7, 2014, [128 Stat. 968][/us/stat/128/968].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(C). [Pub. L. 113–79][/us/pl/113/79] added subpar. (C).
 
     2000—Subsec. (a)(2). [Pub. L. 106–224, § 147(a)][/us/pl/106/224/s147/a], in introductory provisions, substituted “years the following:” for “years—”, in subpar. (A), substituted “The” for “the” and a period for “; and” at end, in subpar. (B), substituted “Premium” for “premium”, and added subpars. (C) and (D).
 
@@ -197,6 +221,9 @@
 [/us/stat/112/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F580
 [/us/pl/106/224/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs147
 [/us/stat/114/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F393
+[/us/pl/113/79/s11021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11021
+[/us/stat/128/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F968
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/106/224/s147/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs147%2Fa
 [/us/pl/106/224/s147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs147%2Fb
 [/us/pl/106/224/s147/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs147%2Fc%2F1

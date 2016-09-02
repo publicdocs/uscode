@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1627.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1629.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1628)
+[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1627b.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1629.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1628)
 
 ## § 1628. Repealed. [Pub. L. 93–86, § 2][/us/pl/93/86/s2], Aug. 10, 1973, [87 Stat. 246][/us/stat/87/246]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1627.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1629.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1628)
+[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1627b.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1629.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1628)
 
 ----------
 ----------

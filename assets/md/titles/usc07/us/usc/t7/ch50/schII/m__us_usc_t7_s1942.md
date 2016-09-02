@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    A direct loan may be made under this subchapter only for—
+    A direct loan (including a microloan, as defined by the Secretary) may be made under this subchapter only for—
 
         (1) paying the costs incident to reorganizing a farm or ranch for more profitable operation;
 
@@ -97,7 +97,17 @@
 
             (C) the amount needed to provide for the basic family needs of the borrower and the borrower’s immediate family for 3 calendar months.
 
-([Pub. L. 87–128, title III, § 312][/us/pl/87/128/s312], Aug. 8, 1961, [75 Stat. 310][/us/stat/75/310]; [Pub. L. 87–703, title IV, § 401(4)][/us/pl/87/703/s401/4], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 90–488, § 8][/us/pl/90/488/s8], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 120(b), 121, Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–113, title XIV, § 1448(b)][/us/pl/95/113/s1448/b], Sept. 29, 1977, [91 Stat. 1012][/us/stat/91/1012]; [Pub. L. 95–334, title I, § 115][/us/pl/95/334/s115], Aug. 4, 1978, [92 Stat. 425][/us/stat/92/425]; [Pub. L. 96–438, § 1(3)][/us/pl/96/438/s1/3], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 99–198, title XIII][/us/pl/99/198], §§ 1306, 1307, Dec. 23, 1985, [99 Stat. 1521][/us/stat/99/1521]; [Pub. L. 101–624, title XVIII, § 1818(b)][/us/pl/101/624/s1818/b], Nov. 28, 1990, [104 Stat. 3830][/us/stat/104/3830]; [Pub. L. 102–237, title V, § 501(b)][/us/pl/102/237/s501/b], Dec. 13, 1991, [105 Stat. 1866][/us/stat/105/1866]; [Pub. L. 102–552, title V, § 516(f)(1)(A)][/us/pl/102/552/s516/f/1/A], (2), Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], 4138; [Pub. L. 104–127, title VI, § 612(a)][/us/pl/104/127/s612/a], Apr. 4, 1996, [110 Stat. 1087][/us/stat/110/1087].)
+    (e) __Valuation of local or regional crops__ 
+
+        (1) __In general__ 
+
+            The Secretary shall develop ways to determine unit prices (or other appropriate forms of valuation) for crops and other agricultural products, the end use of which is intended to be in locally or regionally produced agricultural food products, to facilitate lending to local and regional food producers.
+
+        (2) __Price history__ 
+
+            The Secretary shall implement a mechanism for local and regional food producers to establish price history for the crops and other agricultural products produced by local and regional food producers.
+
+([Pub. L. 87–128, title III, § 312][/us/pl/87/128/s312], Aug. 8, 1961, [75 Stat. 310][/us/stat/75/310]; [Pub. L. 87–703, title IV, § 401(4)][/us/pl/87/703/s401/4], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 90–488, § 8][/us/pl/90/488/s8], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 120(b), 121, Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–113, title XIV, § 1448(b)][/us/pl/95/113/s1448/b], Sept. 29, 1977, [91 Stat. 1012][/us/stat/91/1012]; [Pub. L. 95–334, title I, § 115][/us/pl/95/334/s115], Aug. 4, 1978, [92 Stat. 425][/us/stat/92/425]; [Pub. L. 96–438, § 1(3)][/us/pl/96/438/s1/3], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 99–198, title XIII][/us/pl/99/198], §§ 1306, 1307, Dec. 23, 1985, [99 Stat. 1521][/us/stat/99/1521]; [Pub. L. 101–624, title XVIII, § 1818(b)][/us/pl/101/624/s1818/b], Nov. 28, 1990, [104 Stat. 3830][/us/stat/104/3830]; [Pub. L. 102–237, title V, § 501(b)][/us/pl/102/237/s501/b], Dec. 13, 1991, [105 Stat. 1866][/us/stat/105/1866]; [Pub. L. 102–552, title V, § 516(f)(1)(A)][/us/pl/102/552/s516/f/1/A], (2), Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], 4138; [Pub. L. 104–127, title VI, § 612(a)][/us/pl/104/127/s612/a], Apr. 4, 1996, [110 Stat. 1087][/us/stat/110/1087]; [Pub. L. 113–79, title V][/us/pl/113/79], §§ 5105, 5106(b)(2), Feb. 7, 2014, [128 Stat. 836][/us/stat/128/836], 838.)
 
  __References in Text__ 
 
@@ -106,6 +116,10 @@
     The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79, § 5106(b)(2)][/us/pl/113/79/s5106/b/2], inserted “(including a microloan, as defined by the Secretary)” after “A direct loan” in introductory provisions.
+
+    Subsec. (e). [Pub. L. 113–79, § 5105][/us/pl/113/79/s5105], added subsec. (e).
 
     1996—[Pub. L. 104–127][/us/pl/104/127] amended section generally, substituting present provisions for provisions outlining purposes of loans made under this subchapter, authorizing loans to rural area residents to operate small business enterprises, authorizing loans for pollution abatement and control projects in rural areas and providing for limitations on such loans, and authorizing creation, from loan funds, of nonsupervised bank accounts to be used at discretion of borrower for necessary family living expenses.
 
@@ -204,10 +218,14 @@
 [/us/stat/106/4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4137
 [/us/pl/104/127/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs612%2Fa
 [/us/stat/110/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1087
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F836
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
+[/us/pl/113/79/s5106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5106%2Fb%2F2
+[/us/pl/113/79/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5105
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/102/552/s516/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Ff%2F2
 [/us/pl/102/237/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs501%2Fb

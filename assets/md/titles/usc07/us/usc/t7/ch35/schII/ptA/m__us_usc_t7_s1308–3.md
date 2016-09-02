@@ -19,7 +19,7 @@
 
     (a) __In general__ 
 
-        Any person who is not a citizen of the United States or an alien lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.) shall be ineligible to receive any type of loans or payments made available under title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8701][/us/usc/t7/s8701] et seq.\], the Agricultural Market Transition Act \[[7 U.S.C. 7201][/us/usc/t7/s7201] et seq.\], the Commodity Credit Corporation Charter Act ([15 U.S.C. 714][/us/usc/t15/s714] et seq.), or subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or under any contract entered into under title XII \[[16 U.S.C. 3801][/us/usc/t16/s3801] et seq.\], with respect to any commodity produced, or land set aside from production, on a farm that is owned or operated by such person, unless such person is an individual who is providing land, capital, and a substantial amount of personal labor in the production of crops on such farm.
+        Any person who is not a citizen of the United States or an alien lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.) shall be ineligible to receive any type of loans or payments made available under title I of the Food, Conservation, and Energy Act of 2008 \[[7 U.S.C. 8701][/us/usc/t7/s8701] et seq.\], title I of the Agricultural Act of 2014 \[[7 U.S.C. 9001][/us/usc/t7/s9001] et seq.\], the Agricultural Market Transition Act \[[7 U.S.C. 7201][/us/usc/t7/s7201] et seq.\], the Commodity Credit Corporation Charter Act ([15 U.S.C. 714][/us/usc/t15/s714] et seq.), or subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or under any contract entered into under title XII \[[16 U.S.C. 3801][/us/usc/t16/s3801] et seq.\], with respect to any commodity produced, or land set aside from production, on a farm that is owned or operated by such person, unless such person is an individual who is providing land, capital, and a substantial amount of personal labor in the production of crops on such farm.
 
     (b) __Corporations or other entities__ 
 
@@ -29,13 +29,15 @@
 
         No person shall become ineligible under this section for production adjustment payments, price support program loans, payments or benefits as the result of the production of a crop of an agricultural commodity planted, or commodity program or conservation reserve contract entered into, before December 22, 1987.
 
-([Pub. L. 99–198, title X, § 1001C][/us/pl/99/198/s1001C], as added [Pub. L. 100–203, title I, § 1306][/us/pl/100/203/s1306], Dec. 22, 1987, [101 Stat. 1330–19][/us/stat/101/1330-19]; amended [Pub. L. 101–624, title XI, § 1111(b)][/us/pl/101/624/s1111/b], Nov. 28, 1990, [104 Stat. 3498][/us/stat/104/3498]; [Pub. L. 103–66, title I, § 1101(b)(3)(B)][/us/pl/103/66/s1101/b/3/B], Aug. 10, 1993, [107 Stat. 314][/us/stat/107/314]; [Pub. L. 104–127, title I, § 115(c)(2)][/us/pl/104/127/s115/c/2], Apr. 4, 1996, [110 Stat. 903][/us/stat/110/903]; [Pub. L. 107–171, title I, § 1603(c)(3)][/us/pl/107/171/s1603/c/3], May 13, 2002, [116 Stat. 215][/us/stat/116/215]; [Pub. L. 110–234, title I, § 1603(a)][/us/pl/110/234/s1603/a], May 22, 2008, [122 Stat. 1002][/us/stat/122/1002]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1730.)
+([Pub. L. 99–198, title X, § 1001C][/us/pl/99/198/s1001C], as added [Pub. L. 100–203, title I, § 1306][/us/pl/100/203/s1306], Dec. 22, 1987, [101 Stat. 1330–19][/us/stat/101/1330-19]; amended [Pub. L. 101–624, title XI, § 1111(b)][/us/pl/101/624/s1111/b], Nov. 28, 1990, [104 Stat. 3498][/us/stat/104/3498]; [Pub. L. 103–66, title I, § 1101(b)(3)(B)][/us/pl/103/66/s1101/b/3/B], Aug. 10, 1993, [107 Stat. 314][/us/stat/107/314]; [Pub. L. 104–127, title I, § 115(c)(2)][/us/pl/104/127/s115/c/2], Apr. 4, 1996, [110 Stat. 903][/us/stat/110/903]; [Pub. L. 107–171, title I, § 1603(c)(3)][/us/pl/107/171/s1603/c/3], May 13, 2002, [116 Stat. 215][/us/stat/116/215]; [Pub. L. 110–234, title I, § 1603(a)][/us/pl/110/234/s1603/a], May 22, 2008, [122 Stat. 1002][/us/stat/122/1002]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1730; [Pub. L. 113–79, title I, § 1603(b)(3)][/us/pl/113/79/s1603/b/3], Feb. 7, 2014, [128 Stat. 706][/us/stat/128/706].)
 
  __References in Text__ 
 
     The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8][/us/usc/t8/s1101] and Tables.
 
     The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651]. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t7/s8701] and Tables.
+
+    The Agricultural Act of 2014, referred to in subsec. (a), is [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649]. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. For complete classification of this Act to the Code, see short title note set out under [section 9001 of this title][/us/usc/t7/s9001] and Tables.
 
     The Agricultural Market Transition Act, referred to in subsec. (a), is title I of [Pub. L. 104–127][/us/pl/104/127], Apr. 4, 1996, [110 Stat. 896][/us/stat/110/896], which is classified principally to chapter 100 (§ 7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 7201 of this title][/us/usc/t7/s7201] and Tables.
 
@@ -51,6 +53,8 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] inserted “title I of the Agricultural Act of 2014,” before “the Agricultural Market Transition Act”.
+
     2008—Subsec. (a). [Pub. L. 110–246, § 1603(a)][/us/pl/110/246/s1603/a], substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
 
     2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171] inserted “title I of the Farm Security and Rural Investment Act of 2002,” after “made available under”.
@@ -60,6 +64,10 @@
     1993—Subsec. (a). [Pub. L. 103–66][/us/pl/103/66] substituted “1997” for “1995” in two places.
 
     1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624] substituted “1991 through 1995 crops” for “1989 and 1990 crops” and inserted “, or under any contract entered into under title XII during the 1989 through 1995 crop years,” after “([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–79][/us/pl/113/79] applicable beginning with the 2014 crop year, see [section 1603(c) of Pub. L. 113–79][/us/pl/113/79/s1603/c], set out as a note under [section 1308 of this title][/us/usc/t7/s1308].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -82,6 +90,7 @@
 
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
 [/us/usc/t15/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
@@ -102,12 +111,17 @@
 [/us/stat/122/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1002
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s1603/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fb%2F3
+[/us/stat/128/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F706
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
+[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F896
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
@@ -121,6 +135,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fa
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
@@ -128,6 +143,9 @@
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/s1603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1603%2Fc
+[/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

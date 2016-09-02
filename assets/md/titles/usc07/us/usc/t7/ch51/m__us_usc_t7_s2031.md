@@ -121,7 +121,7 @@
 
             (B)
 
-                (i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Food benefits shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
+                (i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the supplemental nutrition assistance program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the supplemental nutrition assistance program. Benefits shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
 
                 (ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the supplemental nutrition assistance program or the family or individual has failed to supply the needed additional information within ten days. Food benefits shall be provided to families and individuals excluded from the Project under this clause who are determined eligible for the supplemental nutrition assistance program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the benefits for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date benefits are provided.
 
@@ -251,7 +251,7 @@
 
         (4) The term “State” means the State of Minnesota.
 
-([Pub. L. 88–525, § 22][/us/pl/88/525/s22], as added [Pub. L. 101–202][/us/pl/101/202], Dec. 6, 1989, [103 Stat. 1796][/us/stat/103/1796]; amended [Pub. L. 102–237, title IX, § 941(11)][/us/pl/102/237/s941/11], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 107–171, title IV, § 4118(d)][/us/pl/107/171/s4118/d], May 13, 2002, [116 Stat. 321][/us/stat/116/321]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1095, 1108; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1856, 1870.)
+([Pub. L. 88–525, § 22][/us/pl/88/525/s22], as added [Pub. L. 101–202][/us/pl/101/202], Dec. 6, 1989, [103 Stat. 1796][/us/stat/103/1796]; amended [Pub. L. 102–237, title IX, § 941(11)][/us/pl/102/237/s941/11], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 107–171, title IV, § 4118(d)][/us/pl/107/171/s4118/d], May 13, 2002, [116 Stat. 321][/us/stat/116/321]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1095, 1108; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1856, 1870; [Pub. L. 113–79, title IV, § 4030(k)][/us/pl/113/79/s4030/k], Feb. 7, 2014, [128 Stat. 814][/us/stat/128/814].)
 
  __References in Text__ 
 
@@ -264,6 +264,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(10)(B)(i). [Pub. L. 113–79][/us/pl/113/79] substituted “Benefits shall” for “Food benefits shall”.
 
     2008—[Pub. L. 110–246, § 4002(a)(11)(A)][/us/pl/110/246/s4002/a/11/A], substituted “Minnesota Family Investment Project” for “Food stamp portion of Minnesota Family Investment Plan” in section catchline.
 
@@ -349,6 +351,8 @@
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4030/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fk
+[/us/stat/128/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F814
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/pl/104/193/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fe
@@ -361,6 +365,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s4002/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F11%2FA
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
 [/us/pl/110/246/s4115/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F15%2FB

@@ -15,13 +15,21 @@
 
 ## § 2156. Animal fighting venture prohibition
 
-    (a) __Sponsoring or exhibiting an animal in an animal fighting venture__ 
+    (a) __Sponsoring or exhibiting an animal in, attending, or causing an individual who has not attained the age of 16 to attend, an animal fighting venture__ 
 
-        (1) __In general__ 
+        (1) __Sponsoring or exhibiting__ 
 
-            Except as provided in paragraph (2), it shall be unlawful for any person to knowingly sponsor or exhibit an animal in an animal fighting venture.
+            Except as provided in paragraph (3), it shall be unlawful for any person to knowingly sponsor or exhibit an animal in an animal fighting venture.
 
-        (2) __Special rule for certain State__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “States”.__  __ </sup></sup> __ 
+        (2) __Attending or causing an individual who has not attained the age of 16 to attend__ 
+
+        It shall be unlawful for any person to—
+
+            (A) knowingly attend an animal fighting venture; or
+
+            (B) knowingly cause an individual who has not attained the age of 16 to attend an animal fighting venture.
+
+        (3) __Special rule for certain State__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “States”.__  __ </sup></sup> __ 
 
             With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if the person knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.
 
@@ -73,7 +81,7 @@
 
         The criminal penalties for violations of subsection (a), (b), (c), or (e) are provided in [section 49 of title 18][/us/usc/t18/s49].
 
-([Pub. L. 89–544, § 26][/us/pl/89/544/s26], as added [Pub. L. 94–279, § 17][/us/pl/94/279/s17], Apr. 22, 1976, [90 Stat. 421][/us/stat/90/421]; amended [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 107–171, title X][/us/pl/107/171], §§ 10302(a), 10303(a), May 13, 2002, [116 Stat. 491][/us/stat/116/491], 492; [Pub. L. 110–22, § 3][/us/pl/110/22/s3], May 3, 2007, [121 Stat. 88][/us/stat/121/88]; [Pub. L. 110–234, title XIV, § 14207(a)][/us/pl/110/234/s14207/a], May 22, 2008, [122 Stat. 1461][/us/stat/122/1461]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14207(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2223.)
+([Pub. L. 89–544, § 26][/us/pl/89/544/s26], as added [Pub. L. 94–279, § 17][/us/pl/94/279/s17], Apr. 22, 1976, [90 Stat. 421][/us/stat/90/421]; amended [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 107–171, title X][/us/pl/107/171], §§ 10302(a), 10303(a), May 13, 2002, [116 Stat. 491][/us/stat/116/491], 492; [Pub. L. 110–22, § 3][/us/pl/110/22/s3], May 3, 2007, [121 Stat. 88][/us/stat/121/88]; [Pub. L. 110–234, title XIV, § 14207(a)][/us/pl/110/234/s14207/a], May 22, 2008, [122 Stat. 1461][/us/stat/122/1461]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14207(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2223; [Pub. L. 113–79, title XII, § 12308(b)(1)][/us/pl/113/79/s12308/b/1], Feb. 7, 2014, [128 Stat. 990][/us/stat/128/990].)
 
  __Codification__ 
 
@@ -82,6 +90,12 @@
     Section is comprised of [section 26 of Pub. L. 89–544][/us/pl/89/544/s26], as added by [Pub. L. 94–279][/us/pl/94/279]. Subsec. (i)(2) of [section 26 of Pub. L. 89–544][/us/pl/89/544/s26], as added by [Pub. L. 94–279][/us/pl/94/279], amended [section 3001(a) of Title 39][/us/usc/t39/s3001/a], Postal Service.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79, § 12308(b)(1)(A)][/us/pl/113/79/s12308/b/1/A], substituted “Sponsoring or exhibiting an animal in, attending, or causing an individual who has not attained the age of 16 to attend,” for “Sponsoring or exhibiting an animal in” in heading.
+
+    Subsec. (a)(1). [Pub. L. 113–79, § 12308(b)(1)(B)(i)][/us/pl/113/79/s12308/b/1/B/i], (ii), substituted “Sponsoring or exhibiting” for “In general” in heading and “paragraph (3)” for “paragraph (2)” in text.
+
+    Subsec. (a)(2), (3). [Pub. L. 113–79, § 12308(b)(1)(B)(iii)][/us/pl/113/79/s12308/b/1/B/iii], (iv), added par. (2) and redesignated former par. (2) as (3).
 
     2008—Subsec. (a)(1). [Pub. L. 110–246, § 14207(a)(1)(A)][/us/pl/110/246/s14207/a/1/A], struck out “, if any animal in the venture was moved in interstate or foreign commerce” before period at end.
 
@@ -174,6 +188,8 @@
 [/us/stat/122/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1461
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s12308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fb%2F1
+[/us/stat/128/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F990
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -183,6 +199,9 @@
 [/us/pl/89/544/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544%2Fs26
 [/us/pl/94/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F279
 [/us/usc/t39/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3001%2Fa
+[/us/pl/113/79/s12308/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fb%2F1%2FA
+[/us/pl/113/79/s12308/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fb%2F1%2FB%2Fi
+[/us/pl/113/79/s12308/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fb%2F1%2FB%2Fiii
 [/us/pl/110/246/s14207/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14207%2Fa%2F1%2FA
 [/us/pl/110/246/s14207/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14207%2Fa%2F1%2FB
 [/us/pl/110/246/s14207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14207%2Fa%2F2

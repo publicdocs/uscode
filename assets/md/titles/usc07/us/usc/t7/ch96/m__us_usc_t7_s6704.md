@@ -35,9 +35,9 @@
 
     (d) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated for each of fiscal years 1996 through 2012 such sums as are necessary to carry out this section.
+        There are authorized to be appropriated for each of fiscal years 1996 through 2018 such sums as are necessary to carry out this section.
 
-([Pub. L. 101–624, title XXIV, § 2405][/us/pl/101/624/s2405], Nov. 28, 1990, [104 Stat. 4060][/us/stat/104/4060]; [Pub. L. 104–127, title III, § 371][/us/pl/104/127/s371], Apr. 4, 1996, [110 Stat. 1015][/us/stat/110/1015]; [Pub. L. 107–171, title VIII, § 8102][/us/pl/107/171/s8102], May 13, 2002, [116 Stat. 475][/us/stat/116/475]; [Pub. L. 110–234, title VIII, § 8202][/us/pl/110/234/s8202], May 22, 2008, [122 Stat. 1290][/us/stat/122/1290]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2051.)
+([Pub. L. 101–624, title XXIV, § 2405][/us/pl/101/624/s2405], Nov. 28, 1990, [104 Stat. 4060][/us/stat/104/4060]; [Pub. L. 104–127, title III, § 371][/us/pl/104/127/s371], Apr. 4, 1996, [110 Stat. 1015][/us/stat/110/1015]; [Pub. L. 107–171, title VIII, § 8102][/us/pl/107/171/s8102], May 13, 2002, [116 Stat. 475][/us/stat/116/475]; [Pub. L. 110–234, title VIII, § 8202][/us/pl/110/234/s8202], May 22, 2008, [122 Stat. 1290][/us/stat/122/1290]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2051; [Pub. L. 113–79, title VIII, § 8202][/us/pl/113/79/s8202], Feb. 7, 2014, [128 Stat. 914][/us/stat/128/914].)
 
  __References in Text__ 
 
@@ -48,6 +48,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—Subsec. (d). [Pub. L. 110–246, § 8202][/us/pl/110/246/s8202], substituted “2012” for “2007”.
 
@@ -77,6 +79,8 @@
 [/us/stat/122/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1290
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s8202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8202
+[/us/stat/128/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F914
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4058
 [/us/usc/t7/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6701
@@ -84,6 +88,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s8202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8202
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127

@@ -21,7 +21,7 @@
 
     (b) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to the Secretary of Agriculture for the purposes of carrying out the provisions of this section, $25,000,000 for each of fiscal years 2002 through 2012, and such sums shall remain available until expended.
+        There are authorized to be appropriated to the Secretary of Agriculture for the purposes of carrying out the provisions of this section, $25,000,000 for each of fiscal years 2002 through 2018, and such sums shall remain available until expended.
 
     (c) __Use of grant funds__ 
 
@@ -39,7 +39,7 @@
 
         The Secretary may promulgate such rules and regulations as the Secretary may consider necessary to carry out the provisions of this section.
 
-([Pub. L. 95–113, title XIV, § 1447][/us/pl/95/113/s1447], as added [Pub. L. 101–624, title XVI, § 1612(b)][/us/pl/101/624/s1612/b], Nov. 28, 1990, [104 Stat. 3722][/us/stat/104/3722]; amended [Pub. L. 104–127, title VIII, § 813][/us/pl/104/127/s813], Apr. 4, 1996, [110 Stat. 1166][/us/stat/110/1166]; [Pub. L. 105–185, title III, § 301(a)(9)][/us/pl/105/185/s301/a/9], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7109][/us/pl/107/171/s7109], May 13, 2002, [116 Stat. 432][/us/stat/116/432]; [Pub. L. 110–234, title VII, § 7123][/us/pl/110/234/s7123], May 22, 2008, [122 Stat. 1222][/us/stat/122/1222]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7123, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1983.)
+([Pub. L. 95–113, title XIV, § 1447][/us/pl/95/113/s1447], as added [Pub. L. 101–624, title XVI, § 1612(b)][/us/pl/101/624/s1612/b], Nov. 28, 1990, [104 Stat. 3722][/us/stat/104/3722]; amended [Pub. L. 104–127, title VIII, § 813][/us/pl/104/127/s813], Apr. 4, 1996, [110 Stat. 1166][/us/stat/110/1166]; [Pub. L. 105–185, title III, § 301(a)(9)][/us/pl/105/185/s301/a/9], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7109][/us/pl/107/171/s7109], May 13, 2002, [116 Stat. 432][/us/stat/116/432]; [Pub. L. 110–234, title VII, § 7123][/us/pl/110/234/s7123], May 22, 2008, [122 Stat. 1222][/us/stat/122/1222]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7123, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1983; [Pub. L. 113–79, title VII, § 7112][/us/pl/113/79/s7112], Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
 
  __References in Text__ 
 
@@ -54,6 +54,8 @@
     A prior [section 1447 of Pub. L. 95–113][/us/pl/95/113/s1447], title XIV, Sept. 29, 1977, [91 Stat. 1011][/us/stat/91/1011], amended sections 341 and 342 of this title, prior to repeal by [Pub. L. 101–624, title XVI, § 1601(f)(1)(D)][/us/pl/101/624/s1601/f/1/D], Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704].
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—Subsec. (b). [Pub. L. 110–246, § 7123][/us/pl/110/246/s7123], substituted “2012” for “2007”.
 
@@ -88,6 +90,8 @@
 [/us/stat/122/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1222
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7112
+[/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
@@ -99,6 +103,7 @@
 [/us/stat/91/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1011
 [/us/pl/101/624/s1601/f/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1601%2Ff%2F1%2FD
 [/us/stat/104/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3704
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7123
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185

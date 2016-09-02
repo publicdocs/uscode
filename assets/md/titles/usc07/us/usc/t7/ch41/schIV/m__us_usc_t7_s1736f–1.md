@@ -61,7 +61,7 @@
 
             Any funds used to acquire eligible commodities through purchases from producers or in the market to replenish the trust shall be derived—
 
-                (i) with respect to fiscal years 2000 through 2012 from funds made available to carry out the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2) of this section, except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2012;
+                (i) with respect to fiscal years 2000 through 2018 from funds made available to carry out the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2) of this section, except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2018;
 
                 (ii) from funds authorized for that use by an appropriations Act; or
 
@@ -209,13 +209,13 @@
 
         (1) __In general__ 
 
-            The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2012.
+            The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2018.
 
         (2) __Disposal of eligible commodities__ 
 
-            Eligible commodities remaining in the trust after September 30, 2012, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
+            Eligible commodities remaining in the trust after September 30, 2018, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-([Pub. L. 96–494, title III, § 302][/us/pl/96/494/s302], as added [Pub. L. 104–127, title II, § 225(a)][/us/pl/104/127/s225/a], Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959]; amended [Pub. L. 105–385, title II, § 212(a)][/us/pl/105/385/s212/a], (b)(3), Nov. 13, 1998, [112 Stat. 3465][/us/stat/112/3465], 3467; [Pub. L. 107–171, title III, § 3202][/us/pl/107/171/s3202], May 13, 2002, [116 Stat. 300][/us/stat/116/300]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3001(b)(1)(A), (2)(E), 3201, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1834.)
+([Pub. L. 96–494, title III, § 302][/us/pl/96/494/s302], as added [Pub. L. 104–127, title II, § 225(a)][/us/pl/104/127/s225/a], Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959]; amended [Pub. L. 105–385, title II, § 212(a)][/us/pl/105/385/s212/a], (b)(3), Nov. 13, 1998, [112 Stat. 3465][/us/stat/112/3465], 3467; [Pub. L. 107–171, title III, § 3202][/us/pl/107/171/s3202], May 13, 2002, [116 Stat. 300][/us/stat/116/300]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3001(b)(1)(A), (2)(E), 3201, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1834; [Pub. L. 113–79, title III, § 3202][/us/pl/113/79/s3202], Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779].)
 
  __References in Text__ 
 
@@ -234,6 +234,10 @@
     A prior section 1736f–1, [Pub. L. 96–494, title III, § 302][/us/pl/96/494/s302], Dec. 3, 1980, [94 Stat. 2578][/us/stat/94/2578]; [Pub. L. 99–198, title X, § 1013][/us/pl/99/198/s1013], Dec. 23, 1985, [99 Stat. 1456][/us/stat/99/1456]; [Pub. L. 101–624, title XI, § 1143][/us/pl/101/624/s1143], title XV, § 1515(c), Nov. 28, 1990, [104 Stat. 3515][/us/stat/104/3515], 3663, established food security wheat reserve, prior to general amendment of title III of [Pub. L. 96–494][/us/pl/96/494] by [Pub. L. 104–127, § 225(a)][/us/pl/104/127/s225/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(B)(i). [Pub. L. 113–79, § 3202(1)][/us/pl/113/79/s3202/1], substituted “2018” for “2012” in two places.
+
+    Subsec. (h). [Pub. L. 113–79, § 3202(2)][/us/pl/113/79/s3202/2], substituted “2018” for “2012” in pars. (1) and (2).
 
     2008—Subsec. (a). [Pub. L. 110–246, § 3201(1)][/us/pl/110/246/s3201/1], substituted “establish and maintain a trust” for “establish a trust stock” and “any combination of the commodities, or funds” for “or any combination of the commodities, totaling not more than 4,000,000 metric tons”.
 
@@ -332,6 +336,8 @@
 [/us/stat/116/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F300
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
+[/us/pl/113/79/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3202
+[/us/stat/128/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F779
 [/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
 [/us/stat/94/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2578
 [/us/usc/t7/s1736f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736f%E2%80%931
@@ -352,6 +358,8 @@
 [/us/stat/104/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3515
 [/us/pl/96/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494
 [/us/pl/104/127/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs225%2Fa
+[/us/pl/113/79/s3202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3202%2F1
+[/us/pl/113/79/s3202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3202%2F2
 [/us/pl/110/246/s3201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F1
 [/us/pl/110/246/s3201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F2%2FA
 [/us/pl/110/246/s3201/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3201%2F2%2FB%2Fi

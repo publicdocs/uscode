@@ -97,7 +97,7 @@
 
     (j) __Improvement of transportation facilities and rates__ 
 
-        To assist in improving transportation services and facilities and in obtaining equitable and reasonable transportation rates and services and adequate transportation facilities for agricultural products and farm supplies by making complaint or petition to the Interstate Commerce Commission, the Maritime Commission,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  or other Federal or State transportation regulatory body, or the Secretary of Transportation, with respect to rates, charges, tariffs, practices, and services, or by working directly with individual carriers or groups of carriers.
+        To assist in improving transportation services and facilities and in obtaining equitable and reasonable transportation rates and services and adequate transportation facilities for agricultural products and farm supplies by making complaint or petition to the Surface Transportation Board, the Federal Maritime Commission, or other Federal or State transportation regulatory body, or the Secretary of Transportation, with respect to rates, charges, tariffs, practices, and services, or by working directly with individual carriers or groups of carriers.
 
     (k) __Collection and dissemination of marketing statistics__ 
 
@@ -115,7 +115,7 @@
 
     To establish within the Department of Agriculture a voluntary fee based grading program for—
 
-        (1) catfish (as defined by the Secretary under paragraph (2) of [section 601(w) of title 21][/us/usc/t21/s601/w]); and
+        (1) all fish of the order Siluriformes; and
 
         (2)
 
@@ -129,7 +129,7 @@
 
         To conduct such other research and services and to perform such other activities as will facilitate the marketing, distribution, processing, and utilization of agricultural products through commercial channels.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 203, [60 Stat. 1087][/us/stat/60/1087]; [Aug. 9, 1955, ch. 632, § 1][/us/act/1955-08-09/ch632/s1], [69 Stat. 553][/us/stat/69/553]; [Pub. L. 95–113, title II, § 206][/us/pl/95/113/s206], Sept. 29, 1977, [91 Stat. 920][/us/stat/91/920]; [Pub. L. 97–31, § 12(2)][/us/pl/97/31/s12/2], Aug. 6, 1981, [95 Stat. 153][/us/stat/95/153]; [Pub. L. 98–403, § 2][/us/pl/98/403/s2], Aug. 28, 1984, [98 Stat. 1480][/us/stat/98/1480]; [Pub. L. 98–443, § 9(j)][/us/pl/98/443/s9/j], Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 755(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–34; [Pub. L. 106–472, title III, § 303][/us/pl/106/472/s303], Nov. 9, 2000, [114 Stat. 2069][/us/stat/114/2069]; [Pub. L. 110–234, title X, § 10402(a)][/us/pl/110/234/s10402/a], title XI, § 11016(a), May 22, 2008, [122 Stat. 1349][/us/stat/122/1349], 1368; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10402(a), title XI, § 11016(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2110, 2130.)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 203, [60 Stat. 1087][/us/stat/60/1087]; [Aug. 9, 1955, ch. 632, § 1][/us/act/1955-08-09/ch632/s1], [69 Stat. 553][/us/stat/69/553]; [Pub. L. 95–113, title II, § 206][/us/pl/95/113/s206], Sept. 29, 1977, [91 Stat. 920][/us/stat/91/920]; [Pub. L. 97–31, § 12(2)][/us/pl/97/31/s12/2], Aug. 6, 1981, [95 Stat. 153][/us/stat/95/153]; [Pub. L. 98–403, § 2][/us/pl/98/403/s2], Aug. 28, 1984, [98 Stat. 1480][/us/stat/98/1480]; [Pub. L. 98–443, § 9(j)][/us/pl/98/443/s9/j], Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 755(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–34; [Pub. L. 106–472, title III, § 303][/us/pl/106/472/s303], Nov. 9, 2000, [114 Stat. 2069][/us/stat/114/2069]; [Pub. L. 110–234, title X, § 10402(a)][/us/pl/110/234/s10402/a], title XI, § 11016(a), May 22, 2008, [122 Stat. 1349][/us/stat/122/1349], 1368; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10402(a), title XI, § 11016(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2110, 2130; [Pub. L. 113–79, title VI, § 6202][/us/pl/113/79/s6202], title XII, § 12106(a)(4), Feb. 7, 2014, [128 Stat. 856][/us/stat/128/856], 981.)
 
  __References in Text__ 
 
@@ -140,6 +140,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (j). [Pub. L. 113–79, § 6202][/us/pl/113/79/s6202], substituted “the Surface Transportation Board, the Federal Maritime Commission,” for “the Interstate Commerce Commission, the Maritime Commission,,”.
+
+    Subsec. (n)(1). [Pub. L. 113–79, § 12106(a)(4)][/us/pl/113/79/s12106/a/4], added par. (1) and struck out former par. (1) which read as follows: “catfish (as defined by the Secretary under paragraph (2) of [section 601(w) of title 21][/us/usc/t21/s601/w]); and”.
 
     2008—Subsec. (h). [Pub. L. 110–246, § 10402(a)][/us/pl/110/246/s10402/a], designated the first to sixth sentences of existing provisions as pars. (1), (2)(A), (2)(B), and (3) to (5), respectively, and added par. (6).
 
@@ -158,6 +162,10 @@
     1977—Subsec. (c). [Pub. L. 95–113][/us/pl/95/113] inserted provisions relating to the setting of a standard of quality for ice cream.
 
     1955—Subsec. (h). Act Aug. 9, 1955, inserted sentence to provide penalties for forgery or alteration of inspection certificates, unauthorized use of official grade marks or designations, and false or deceptive reference to United States grade standards or services.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 12106(a)(4) of Pub. L. 113–79][/us/pl/113/79/s12106/a/4] effective as if enacted as part of [section 11016(b) of Pub. L. 110–246][/us/pl/110/246/s11016/b], see [section 12106(c) of Pub. L. 113–79][/us/pl/113/79/s12106/c], set out as a note under [section 601 of Title 21][/us/usc/t21/s601], Food and Drugs.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -356,7 +364,6 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/usc/t21/s601/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601%2Fw
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
 [/us/stat/60/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1087
 [/us/act/1955-08-09/ch632/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch632%2Fs1
@@ -377,6 +384,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/122/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1349
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6202
+[/us/stat/128/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F856
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
 [/us/stat/60/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1082
 [/us/usc/t7/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427
@@ -384,6 +393,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6202
+[/us/pl/113/79/s12106/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fa%2F4
+[/us/usc/t21/s601/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601%2Fw
 [/us/pl/110/246/s10402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10402%2Fa
 [/us/pl/110/246/s11016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fa
 [/us/pl/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472
@@ -392,6 +404,10 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/113/79/s12106/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fa%2F4
+[/us/pl/110/246/s11016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11016%2Fb
+[/us/pl/113/79/s12106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fc
+[/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

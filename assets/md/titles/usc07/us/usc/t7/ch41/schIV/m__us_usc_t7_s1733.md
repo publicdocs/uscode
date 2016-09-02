@@ -25,7 +25,7 @@
 
     (b) __Impact on local farmers and economy__ 
 
-        The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country.
+        The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy of sales of agricultural commodities within the recipient country.
 
     (c) __Transshipment__ 
 
@@ -129,13 +129,45 @@
 
             A sale described in paragraph (1) may be made in United States dollars or other currencies.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 403, as added [Pub. L. 86–341, title I, § 14][/us/pl/86/341/s14], Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 87–703, title II, § 201(3)][/us/pl/87/703/s201/3], Sept. 27, 1962, [76 Stat. 611][/us/stat/76/611]; [Pub. L. 88–638, § 1(17)][/us/pl/88/638/s1/17], Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037]; [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1536][/us/stat/80/1536]; [Pub. L. 95–113, title XII, § 1206][/us/pl/95/113/s1206], Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 96–533, title IV, § 407][/us/pl/96/533/s407], Dec. 16, 1980, [94 Stat. 3151][/us/stat/94/3151]; [Pub. L. 97–98, title XII, § 1214][/us/pl/97/98/s1214], Dec. 22, 1981, [95 Stat. 1282][/us/stat/95/1282]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3646][/us/stat/104/3646]; [Pub. L. 102–237, title III, § 321][/us/pl/102/237/s321], Dec. 13, 1991, [105 Stat. 1857][/us/stat/105/1857]; [Pub. L. 104–127, title II, § 213][/us/pl/104/127/s213], Apr. 4, 1996, [110 Stat. 956][/us/stat/110/956]; [Pub. L. 107–171, title III, § 3009(a)][/us/pl/107/171/s3009/a], May 13, 2002, [116 Stat. 283][/us/stat/116/283].)
+    (m) __Report on use of funds__ 
+
+        (1) __Report required__ 
+
+        Not later than 180 days after February 7, 2014, and annually thereafter, the Administrator shall submit to Congress a report that—
+
+            (A) specifies the amount of funds (including funds for administrative costs, indirect cost recovery, internal transportation, storage, and handling, and associated distribution costs) provided to each eligible organization that received assistance under this chapter in the previous fiscal year;
+
+            (B) describes how those funds were used by the eligible organization;
+
+            (C)
+
+             describes the actual rate of return for each commodity made available under this chapter, including—
+
+                (i) factors that influenced the rate of return; and
+
+                (ii) for the commodity, the costs of bagging or further processing, ocean transportation, inland transportation in the recipient country, storage costs, and any other information that the Administrator determines to be necessary; and
+
+            (D) for each instance in which a commodity was made available under this chapter at a rate of return less than 70 percent, describes the reasons for the rate of return realized.
+
+        (2) __Rate of return described__ 
+
+        For purposes of applying paragraph (1)(C), the rate of return for a commodity shall be equal to the proportion that—
+
+            (A) the proceeds the implementing partners generate through monetization; bears to
+
+            (B) the cost to the Federal Government to procure and ship the commodity to a recipient country for monetization.
+
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 403, as added [Pub. L. 86–341, title I, § 14][/us/pl/86/341/s14], Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 87–703, title II, § 201(3)][/us/pl/87/703/s201/3], Sept. 27, 1962, [76 Stat. 611][/us/stat/76/611]; [Pub. L. 88–638, § 1(17)][/us/pl/88/638/s1/17], Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037]; [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1536][/us/stat/80/1536]; [Pub. L. 95–113, title XII, § 1206][/us/pl/95/113/s1206], Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 96–533, title IV, § 407][/us/pl/96/533/s407], Dec. 16, 1980, [94 Stat. 3151][/us/stat/94/3151]; [Pub. L. 97–98, title XII, § 1214][/us/pl/97/98/s1214], Dec. 22, 1981, [95 Stat. 1282][/us/stat/95/1282]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3646][/us/stat/104/3646]; [Pub. L. 102–237, title III, § 321][/us/pl/102/237/s321], Dec. 13, 1991, [105 Stat. 1857][/us/stat/105/1857]; [Pub. L. 104–127, title II, § 213][/us/pl/104/127/s213], Apr. 4, 1996, [110 Stat. 956][/us/stat/110/956]; [Pub. L. 107–171, title III, § 3009(a)][/us/pl/107/171/s3009/a], May 13, 2002, [116 Stat. 283][/us/stat/116/283]; [Pub. L. 113–79, title III, § 3008][/us/pl/113/79/s3008], Feb. 7, 2014, [128 Stat. 775][/us/stat/128/775].)
 
  __References in Text__ 
 
     The Food for Progress Act of 1985, referred to in subsec. (l)(1)(C), is [Pub. L. 99–198, title XI, § 1110][/us/pl/99/198/s1110], Dec. 23, 1985, [99 Stat. 1472][/us/stat/99/1472], as amended, which is classified to section 1736o of this title.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79, § 3008(a)][/us/pl/113/79/s3008/a], inserted at end “The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy of sales of agricultural commodities within the recipient country.”
+
+    Subsec. (m). [Pub. L. 113–79, § 3008(b)][/us/pl/113/79/s3008/b], added subsec. (m).
 
     2002—Subsec. (e). [Pub. L. 107–171, § 3009(a)(1)][/us/pl/107/171/s3009/a/1], designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -217,8 +249,12 @@
 [/us/stat/110/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F956
 [/us/pl/107/171/s3009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3009%2Fa
 [/us/stat/116/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F283
+[/us/pl/113/79/s3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3008
+[/us/stat/128/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F775
 [/us/pl/99/198/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1110
 [/us/stat/99/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1472
+[/us/pl/113/79/s3008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3008%2Fa
+[/us/pl/113/79/s3008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3008%2Fb
 [/us/pl/107/171/s3009/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3009%2Fa%2F1
 [/us/pl/107/171/s3009/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3009%2Fa%2F2
 [/us/pl/104/127/s213/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs213%2F1

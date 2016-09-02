@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204g.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2205)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204h.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2205)
 
 ## § 2205. Duties of former Commissioner of Agriculture transferred to Secretary
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204g.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2205)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204h.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2206.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2205)
 
 ----------
 ----------

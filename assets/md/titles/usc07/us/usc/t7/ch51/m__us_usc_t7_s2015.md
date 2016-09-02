@@ -339,7 +339,13 @@
 
             (A) a program under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\];
 
-            (B) an employment and training program under this section;
+            (B)
+
+             an employment and training program under this section, subject to the condition that the course or program of study—
+
+                (i) is part of a program of career and technical education (as defined in [section 2302 of title 20][/us/usc/t20/s2302]) that may be completed in not more than 4 years at an institution of higher education (as defined in [section 1002 of title 20][/us/usc/t20/s1002]); or
+
+                (ii) is limited to remedial courses, basic adult education, literacy, or English as a second language;
 
             (C) a program under [section 2296 of title 19][/us/usc/t19/s2296]; or
 
@@ -613,7 +619,51 @@
 
         Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally sold any food that was purchased using supplemental nutrition assistance program benefits shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
 
-([Pub. L. 88–525, § 6][/us/pl/88/525/s6], Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 94–339, § 3][/us/pl/94/339/s3], July 5, 1976, [90 Stat. 800][/us/stat/90/800]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 964][/us/stat/91/964]; [Pub. L. 96–58][/us/pl/96/58], §§ 5, 9, Aug. 14, 1979, [93 Stat. 391][/us/stat/93/391], 392; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 109, 110, 114, 115, 139, 140, May 26, 1980, [94 Stat. 359][/us/stat/94/359], 361, 370; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 108(b), (c), 109, 112, Aug. 13, 1981, [95 Stat. 361][/us/stat/95/361], 362; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1310, 1311, Dec. 22, 1981, [95 Stat. 1284][/us/stat/95/1284], 1285; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, [96 Stat. 774][/us/stat/96/774], 777, 778, 787; [Pub. L. 98–204][/us/pl/98/204], §§ 5, 6, Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385], 1386; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1513(b), 1516, 1517(a), Dec. 23, 1985, [99 Stat. 1571–1573][/us/stat/99/1571-1573]; [Pub. L. 100–435, title II, § 202(b)][/us/pl/100/435/s202/b], (c), title IV, § 404(a)–(d), Sept. 19, 1988, [102 Stat. 1656][/us/stat/102/1656], 1665–1667; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, [104 Stat. 3786–3788][/us/stat/104/3786-3788]; [Pub. L. 102–237, title IX][/us/pl/102/237], §§ 907, 941(3), Dec. 13, 1991, [105 Stat. 1885][/us/stat/105/1885], 1892; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13922(b), 13942, Aug. 10, 1993, [107 Stat. 675][/us/stat/107/675], 677; [Pub. L. 103–225, title I][/us/pl/103/225], §§ 101(a), 104(b), Mar. 25, 1994, [108 Stat. 106][/us/stat/108/106], 107; [Pub. L. 103–296, title I, § 108(f)(1)][/us/pl/103/296/s108/f/1], (2), Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486], 1487; [Pub. L. 104–193, title I, § 109(b)][/us/pl/104/193/s109/b], title VIII, §§ 813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2314, 2315, 2318, 2320–2323; [Pub. L. 104–208, div. C, title III, § 308(g)(7)(D)(i)][/us/pl/104/208/s308/g/7/D/i], Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624]; [Pub. L. 105–33, title I, § 1001][/us/pl/105/33/s1001], Aug. 5, 1997, [111 Stat. 251][/us/stat/111/251]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–418, 2681–429; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4109, 4115(b)(2), 4121(c), May 13, 2002, [116 Stat. 309][/us/stat/116/309], 315, 324; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1101, 1102, 1106, 1114; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1862–1864, 1868, 1875.)
+    (r) __Disqualification for certain convicted felons__ 
+
+        (1) __In general__ 
+
+        An individual shall not be eligible for benefits under this chapter if—
+
+            (A)
+
+             the individual is convicted of—
+
+                (i) aggravated sexual abuse under [section 2241 of title 18][/us/usc/t18/s2241];
+
+                (ii) murder under [section 1111 of title 18][/us/usc/t18/s1111];
+
+                (iii) an offense under chapter 110 of title 18;
+
+                (iv) a Federal or State offense involving sexual assault, as defined in 13925(a)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup>  of title 42; or
+
+                (v) an offense under State law determined by the Attorney General to be substantially similar to an offense described in clause (i), (ii), or (iii); and
+
+            (B) the individual is not in compliance with the terms of the sentence of the individual or the restrictions under subsection (k).
+
+        (2) __Effects on assistance and benefits for others__ 
+
+            The amount of benefits otherwise required to be provided to an eligible household under this chapter shall be determined by considering the individual to whom paragraph (1) applies not to be a member of the household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+
+        (3) __Enforcement__ 
+
+            Each State shall require each individual applying for benefits under this chapter to attest to whether the individual, or any member of the household of the individual, has been convicted of a crime described in paragraph (1).
+
+    (s) __Ineligibility for benefits due to receipt of substantial lottery or gambling winnings__ 
+
+        (1) __In general__ 
+
+            Any household in which a member receives substantial lottery or gambling winnings, as determined by the Secretary, shall lose eligibility for benefits immediately upon receipt of the winnings.
+
+        (2) __Duration of ineligibility__ 
+
+            A household described in paragraph (1) shall remain ineligible for participation until the household meets the allowable financial resources and income eligibility requirements under subsections (c), (d), (e), (f), (g), (i), (k), (l), (m), and (n) of [section 2014 of this title][/us/usc/t7/s2014].
+
+        (3) __Agreements__ 
+
+            As determined by the Secretary, each State agency, to the maximum extent practicable, shall establish agreements with entities responsible for the regulation or sponsorship of gaming in the State to determine whether individuals participating in the supplemental nutrition assistance program have received substantial lottery or gambling winnings.
+
+([Pub. L. 88–525, § 6][/us/pl/88/525/s6], Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 94–339, § 3][/us/pl/94/339/s3], July 5, 1976, [90 Stat. 800][/us/stat/90/800]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 964][/us/stat/91/964]; [Pub. L. 96–58][/us/pl/96/58], §§ 5, 9, Aug. 14, 1979, [93 Stat. 391][/us/stat/93/391], 392; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 109, 110, 114, 115, 139, 140, May 26, 1980, [94 Stat. 359][/us/stat/94/359], 361, 370; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 108(b), (c), 109, 112, Aug. 13, 1981, [95 Stat. 361][/us/stat/95/361], 362; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1310, 1311, Dec. 22, 1981, [95 Stat. 1284][/us/stat/95/1284], 1285; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, [96 Stat. 774][/us/stat/96/774], 777, 778, 787; [Pub. L. 98–204][/us/pl/98/204], §§ 5, 6, Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385], 1386; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1513(b), 1516, 1517(a), Dec. 23, 1985, [99 Stat. 1571–1573][/us/stat/99/1571-1573]; [Pub. L. 100–435, title II, § 202(b)][/us/pl/100/435/s202/b], (c), title IV, § 404(a)–(d), Sept. 19, 1988, [102 Stat. 1656][/us/stat/102/1656], 1665–1667; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, [104 Stat. 3786–3788][/us/stat/104/3786-3788]; [Pub. L. 102–237, title IX][/us/pl/102/237], §§ 907, 941(3), Dec. 13, 1991, [105 Stat. 1885][/us/stat/105/1885], 1892; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13922(b), 13942, Aug. 10, 1993, [107 Stat. 675][/us/stat/107/675], 677; [Pub. L. 103–225, title I][/us/pl/103/225], §§ 101(a), 104(b), Mar. 25, 1994, [108 Stat. 106][/us/stat/108/106], 107; [Pub. L. 103–296, title I, § 108(f)(1)][/us/pl/103/296/s108/f/1], (2), Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486], 1487; [Pub. L. 104–193, title I, § 109(b)][/us/pl/104/193/s109/b], title VIII, §§ 813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2314, 2315, 2318, 2320–2323; [Pub. L. 104–208, div. C, title III, § 308(g)(7)(D)(i)][/us/pl/104/208/s308/g/7/D/i], Sept. 30, 1996, [110 Stat. 3009–624][/us/stat/110/3009-624]; [Pub. L. 105–33, title I, § 1001][/us/pl/105/33/s1001], Aug. 5, 1997, [111 Stat. 251][/us/stat/111/251]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–418, 2681–429; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4109, 4115(b)(2), 4121(c), May 13, 2002, [116 Stat. 309][/us/stat/116/309], 315, 324; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1101, 1102, 1106, 1114; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1862–1864, 1868, 1875; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4007, 4008(a), 4009(a), 4030(d), Feb. 7, 2014, [128 Stat. 787–789][/us/stat/128/787-789], 814.)
 
  __References in Text__ 
 
@@ -630,6 +680,14 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(4)(B)(vii), (F)(iii). [Pub. L. 113–79, § 4030(d)][/us/pl/113/79/s4030/d], realigned margins.
+
+    Subsec. (e)(3)(B). [Pub. L. 113–79, § 4007][/us/pl/113/79/s4007], substituted “section, subject to the condition that the course or program of study—” for “section;” and added cls. (i) and (ii).
+
+    Subsec. (r). [Pub. L. 113–79, § 4008(a)][/us/pl/113/79/s4008/a], added subsec. (r).
+
+    Subsec. (s). [Pub. L. 113–79, § 4009(a)][/us/pl/113/79/s4009/a], added subsec. (s).
 
     2008—Subsec. (a). [Pub. L. 110–246, § 4001(b)][/us/pl/110/246/s4001/b], substituted “supplemental nutrition assistance program” for “food stamp program”.
 
@@ -911,6 +969,10 @@
 
     1976—Subsecs. (b) to (e). [Pub. L. 94–339][/us/pl/94/339] added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 4008(a) of Pub. L. 113–79][/us/pl/113/79/s4008/a] inapplicable to a conviction if the conviction is for conduct occurring on or before Feb. 7, 2014, see [section 4008(c) of Pub. L. 113–79][/us/pl/113/79/s4008/c], set out as a note under [section 2014 of this title][/us/usc/t7/s2014].
+
  __Effective Date of 2008 Amendment__ 
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of this title][/us/usc/t7/s8701].
@@ -1050,6 +1112,8 @@
 [/us/usc/t7/s2020/e/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F19
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t20/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2302
+[/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/usc/t19/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2296
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
@@ -1073,6 +1137,9 @@
 [/us/usc/t7/s2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2029
 [/us/usc/t7/s2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2029
 [/us/usc/t7/s2025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc
+[/us/usc/t18/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2241
+[/us/usc/t18/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1111
+[/us/usc/t7/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014
 [/us/pl/88/525/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs6
 [/us/stat/78/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F704
 [/us/pl/94/339/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F339%2Fs3
@@ -1119,6 +1186,8 @@
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/787-789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F787-789
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -1136,6 +1205,10 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s4030/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fd
+[/us/pl/113/79/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4007
+[/us/pl/113/79/s4008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4008%2Fa
+[/us/pl/113/79/s4009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4009%2Fa
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
 [/us/pl/110/246/s4115/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F4%2FA
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
@@ -1285,6 +1358,9 @@
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/usc/t7/s2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016
 [/us/pl/94/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F339
+[/us/pl/113/79/s4008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4008%2Fa
+[/us/pl/113/79/s4008/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4008%2Fc
+[/us/usc/t7/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

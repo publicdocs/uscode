@@ -17,13 +17,13 @@
 
     (a) __In general__ 
 
-        Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2012 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
+        Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2018 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
 
     (b) __Allowable administrative costs__ 
 
         Not more than 3 percent of the funds made available for any project for an agricultural research facility shall be available for administration of the project.
 
-([Pub. L. 88–74, § 6][/us/pl/88/74/s6], as added [Pub. L. 104–127, title VIII, § 884(a)][/us/pl/104/127/s884/a], Apr. 4, 1996, [110 Stat. 1179][/us/stat/110/1179]; amended [Pub. L. 105–185, title III, § 301(d)][/us/pl/105/185/s301/d], June 23, 1998, [112 Stat. 563][/us/stat/112/563]; [Pub. L. 107–171, title VII, § 7135][/us/pl/107/171/s7135], May 13, 2002, [116 Stat. 436][/us/stat/116/436]; [Pub. L. 110–234, title VII, § 7405][/us/pl/110/234/s7405], May 22, 2008, [122 Stat. 1247][/us/stat/122/1247]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2008.)
+([Pub. L. 88–74, § 6][/us/pl/88/74/s6], as added [Pub. L. 104–127, title VIII, § 884(a)][/us/pl/104/127/s884/a], Apr. 4, 1996, [110 Stat. 1179][/us/stat/110/1179]; amended [Pub. L. 105–185, title III, § 301(d)][/us/pl/105/185/s301/d], June 23, 1998, [112 Stat. 563][/us/stat/112/563]; [Pub. L. 107–171, title VII, § 7135][/us/pl/107/171/s7135], May 13, 2002, [116 Stat. 436][/us/stat/116/436]; [Pub. L. 110–234, title VII, § 7405][/us/pl/110/234/s7405], May 22, 2008, [122 Stat. 1247][/us/stat/122/1247]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2008; [Pub. L. 113–79, title VII, § 7403][/us/pl/113/79/s7403], Feb. 7, 2014, [128 Stat. 895][/us/stat/128/895].)
 
  __Codification__ 
 
@@ -59,6 +59,8 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
+
     2008—Subsec. (a). [Pub. L. 110–246, § 7405][/us/pl/110/246/s7405], substituted “2012” for “2007”.
 
     2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171] substituted “2007” for “2002”.
@@ -87,6 +89,8 @@
 [/us/stat/122/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1247
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7403
+[/us/stat/128/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F895
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fa
@@ -161,6 +165,7 @@
 [/us/stat/77/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F92
 [/us/pl/95/113/s1416/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1416%2F2
 [/us/stat/91/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F994
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7405
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185

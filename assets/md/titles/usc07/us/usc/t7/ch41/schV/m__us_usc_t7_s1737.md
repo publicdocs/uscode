@@ -165,7 +165,7 @@
 
     (d) __Minimum funding__ 
 
-    Notwithstanding any other provision of law, in addition to any funds that may be specifically appropriated to carry out this section, not less than the greater of $10,000,000 or 0.5 percent of the amounts made available for each of fiscal years 2008 through 2012 to carry out this chapter shall be used to carry out programs under this section, with—
+    Notwithstanding any other provision of law, in addition to any funds that may be specifically appropriated to carry out this section, not less than the greater of $10,000,000 or 0.5 percent of the amounts made available for each of fiscal years 2008 through 2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018, to carry out this chapter shall be used to carry out programs under this section, with—
 
         (1) not less than 0.2 percent to be used for programs in developing countries; and
 
@@ -175,7 +175,7 @@
 
         (1) __In general__ 
 
-        There are authorized to be appropriated for each of fiscal years 2008 through 2012 to carry out the programs under this section—
+        There are authorized to be appropriated for each of fiscal years 2008 through 2018 to carry out the programs under this section—
 
             (A) $10,000,000 for sub-Saharan African and Caribbean Basin countries; and
 
@@ -185,9 +185,13 @@
 
             Not more than 5 percent of the funds made available for a fiscal year under paragraph (1) may be used to pay administrative costs incurred in carrying out programs in sub-Saharan African and Caribbean Basin countries.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title V, § 501, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3656][/us/stat/104/3656]; amended [Pub. L. 102–237, title III, § 301][/us/pl/102/237/s301], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 224, 277(c)(1), Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959], 979; [Pub. L. 107–76, title VII, § 777][/us/pl/107/76/s777], Nov. 28, 2001, [115 Stat. 747][/us/stat/115/747]; [Pub. L. 107–171, title III, § 3014][/us/pl/107/171/s3014], May 13, 2002, [116 Stat. 285][/us/stat/116/285]; [Pub. L. 108–447, div. A, title VII, § 769][/us/pl/108/447/s769], Dec. 8, 2004, [118 Stat. 2848][/us/stat/118/2848]; [Pub. L. 110–246, title III, § 3024][/us/pl/110/246/s3024], June 18, 2008, [122 Stat. 1830][/us/stat/122/1830].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title V, § 501, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3656][/us/stat/104/3656]; amended [Pub. L. 102–237, title III, § 301][/us/pl/102/237/s301], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 224, 277(c)(1), Apr. 4, 1996, [110 Stat. 959][/us/stat/110/959], 979; [Pub. L. 107–76, title VII, § 777][/us/pl/107/76/s777], Nov. 28, 2001, [115 Stat. 747][/us/stat/115/747]; [Pub. L. 107–171, title III, § 3014][/us/pl/107/171/s3014], May 13, 2002, [116 Stat. 285][/us/stat/116/285]; [Pub. L. 108–447, div. A, title VII, § 769][/us/pl/108/447/s769], Dec. 8, 2004, [118 Stat. 2848][/us/stat/118/2848]; [Pub. L. 110–246, title III, § 3024][/us/pl/110/246/s3024], June 18, 2008, [122 Stat. 1830][/us/stat/122/1830]; [Pub. L. 113–79, title III, § 3014(a)][/us/pl/113/79/s3014/a], Feb. 7, 2014, [128 Stat. 778][/us/stat/128/778].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79, § 3014(a)(1)][/us/pl/113/79/s3014/a/1], substituted “2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018,” for “2012” in introductory provisions.
+
+    Subsec. (e)(1). [Pub. L. 113–79, § 3014(a)(2)][/us/pl/113/79/s3014/a/2], substituted “2018” for “2012” in introductory provisions.
 
     2008—Subsec. (d). [Pub. L. 110–246, § 3024(a)][/us/pl/110/246/s3024/a], in introductory provisions, substituted “not less than the greater of $10,000,000 or” for “not less than” and “2008 through 2012” for “2002 through 2007”.
 
@@ -257,6 +261,10 @@
 [/us/stat/118/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2848
 [/us/pl/110/246/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3024
 [/us/stat/122/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1830
+[/us/pl/113/79/s3014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3014%2Fa
+[/us/stat/128/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F778
+[/us/pl/113/79/s3014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3014%2Fa%2F1
+[/us/pl/113/79/s3014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3014%2Fa%2F2
 [/us/pl/110/246/s3024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3024%2Fa
 [/us/pl/110/246/s3024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3024%2Fb
 [/us/pl/108/447/s769/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs769%2F2

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632a.md) | [Next](./../../../../..//us/usc/t7/ch38/schII/m__us_usc_t7_ch38_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1632b)
+[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632a.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1632b)
 
 ## § 1632b. Agriculture Innovation Center Demonstration Program
 
@@ -175,9 +175,9 @@
 
     (i) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to the Secretary to carry out this section $6,000,000 for each of fiscal years 2008 through 2012.
+        There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 107–171, title VI, § 6402][/us/pl/107/171/s6402], May 13, 2002, [116 Stat. 426][/us/stat/116/426]; [Pub. L. 110–234, title VI, § 6203][/us/pl/110/234/s6203], May 22, 2008, [122 Stat. 1207][/us/stat/122/1207]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6203, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1969.)
+([Pub. L. 107–171, title VI, § 6402][/us/pl/107/171/s6402], May 13, 2002, [116 Stat. 426][/us/stat/116/426]; [Pub. L. 110–234, title VI, § 6203][/us/pl/110/234/s6203], May 22, 2008, [122 Stat. 1207][/us/stat/122/1207]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6203, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1969; [Pub. L. 113–79, title VI, § 6204][/us/pl/113/79/s6204], Feb. 7, 2014, [128 Stat. 857][/us/stat/128/857].)
 
  __Codification__ 
 
@@ -188,6 +188,8 @@
     Section was formerly set out as a note under [section 1621 of this title][/us/usc/t7/s1621].
 
  __Amendments__ 
+
+    2014—Subsec. (i). [Pub. L. 113–79][/us/pl/113/79] substituted “$1,000,000 for each of fiscal years 2014 through 2018” for “$6,000,000 for each of fiscal years 2008 through 2012”.
 
     2008—Subsec. (i). [Pub. L. 110–246, § 6203][/us/pl/110/246/s6203], added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 ([7 U.S.C. 1621][/us/usc/t7/s1621] note; [Public Law 106–224][/us/pl/106/224]) for each fiscal year, the Secretary shall use to carry out this section—
 
@@ -201,7 +203,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632a.md) | [Next](./../../../../..//us/usc/t7/ch38/schII/m__us_usc_t7_ch38_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1632b)
+[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632a.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1632b)
 
 ----------
 ----------
@@ -213,11 +215,14 @@
 [/us/stat/122/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1207
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6204
+[/us/stat/128/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F857
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s6203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6203
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224

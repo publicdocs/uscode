@@ -125,7 +125,7 @@
 
             (B) Corporation stocks are insufficient to satisfy commitments made in agreements entered into under this section and such eligible commodities are needed to fulfill such commitments.
 
-        (3) No funds of the Corporation in excess of $40,000,000 (exclusive of the cost of eligible commodities) may be used for each of fiscal years 1996 through 2012 to carry out this section with respect to eligible commodities made available under [section 1431(b) of this title][/us/usc/t7/s1431/b] unless authorized in advance in appropriation Acts.
+        (3) No funds of the Corporation in excess of $40,000,000 (exclusive of the cost of eligible commodities) may be used for each of fiscal years 1996 through 2018 to carry out this section with respect to eligible commodities made available under [section 1431(b) of this title][/us/usc/t7/s1431/b] unless authorized in advance in appropriation Acts.
 
         (4) The cost of eligible commodities made available under [section 1431(b) of this title][/us/usc/t7/s1431/b] which are furnished under this section, and the expenses incurred in connection with furnishing such eligible commodities, shall be in addition to the level of assistance programmed under the Food for Peace Act \[[7 U.S.C. 1691][/us/usc/t7/s1691] et seq.\] and may not be considered expenditures for international affairs and finance.
 
@@ -133,23 +133,9 @@
 
         In making sales of eligible eligible  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  commodities under this section, the Secretary shall follow the sale procedure described in section 403(l) of the Food for Peace Act \[[7 U.S.C. 1733][/us/usc/t7/s1733](l)\].
 
-        (6) __Project in malawi.—__ 
-
-            (A)  __In general__  __.—__ 
-
-            In carrying out this section during fiscal year 2009, the President shall approve not less than 1 multiyear project for Malawi—
-
-                (i) to promote sustainable agriculture; and
-
-                (ii) to increase the number of women in leadership positions.
-
-            (B)  __Use of eligible commodities__  __.—__ 
-
-            Of the eligible commodities used to carry out this section during the period in which the project described in subparagraph (A) is carried out, the President shall carry out the project using eligible commodities with a total value of not less than $3,000,000 during the course of the project.
-
     (g) __Minimum tonnage__ 
 
-        Subject to subsection (f)(3) of this section, not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2012.
+        Subject to subsection (f)(3) of this section, not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2018.
 
     (h) __Prohibition on resale or transshipment of eligible commodities__ 
 
@@ -179,11 +165,11 @@
 
     (k) __Effective and termination dates__ 
 
-        This section shall be effective during the period beginning October 1, 1985, and ending December 31, 2012.
+        This section shall be effective during the period beginning October 1, 1985, and ending December 31, 2018.
 
     (l) __Administrative expenses__ 
 
-        (1) To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2012, use in addition to any amounts or eligible commodities otherwise made available under this section for such activities, not to exceed $15,000,000 (or, in the case of fiscal year 1999, $12,000,000) of Corporation funds (or eligible commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
+        (1) To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2018, use in addition to any amounts or eligible commodities otherwise made available under this section for such activities, not to exceed $15,000,000 (or, in the case of fiscal year 1999, $12,000,000) of Corporation funds (or eligible commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
 
         (2) To carry out this subsection, the President may provide eligible commodities under agreements entered into under this section in a manner that uses the commodity transaction as a means of developing in the recipient countries a competitive private sector that can provide for the importation, transportation, storage, marketing and distribution of such eligible commodities.
 
@@ -273,7 +259,7 @@
 
         (2) shall not discriminate against such eligible entities.
 
-([Pub. L. 99–198, title XI, § 1110][/us/pl/99/198/s1110], Dec. 23, 1985, [99 Stat. 1472][/us/stat/99/1472]; [Pub. L. 100–418, title IV, § 4303][/us/pl/100/418/s4303], Aug. 23, 1988, [102 Stat. 1397][/us/stat/102/1397]; [Pub. L. 101–624, title XV][/us/pl/101/624], §§ 1516, 1572(1), Nov. 28, 1990, [104 Stat. 3663][/us/stat/104/3663], 3702; [Pub. L. 102–237, title III, § 335][/us/pl/102/237/s335], Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII, § 701][/us/pl/102/511/s701], Oct. 24, 1992, [106 Stat. 3348][/us/stat/106/3348]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 227, 265(b), Apr. 4, 1996, [110 Stat. 962][/us/stat/110/962], 974; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title XI, § 1125\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–45; [Pub. L. 107–171, title III][/us/pl/107/171], §§ 3009(b)(2), 3106, May 13, 2002, [116 Stat. 283][/us/stat/116/283], 291; [Pub. L. 108–7, div. A, title VII, § 745][/us/pl/108/7/s745], Feb. 20, 2003, [117 Stat. 44][/us/stat/117/44]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1826, 1833.)
+([Pub. L. 99–198, title XI, § 1110][/us/pl/99/198/s1110], Dec. 23, 1985, [99 Stat. 1472][/us/stat/99/1472]; [Pub. L. 100–418, title IV, § 4303][/us/pl/100/418/s4303], Aug. 23, 1988, [102 Stat. 1397][/us/stat/102/1397]; [Pub. L. 101–624, title XV][/us/pl/101/624], §§ 1516, 1572(1), Nov. 28, 1990, [104 Stat. 3663][/us/stat/104/3663], 3702; [Pub. L. 102–237, title III, § 335][/us/pl/102/237/s335], Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII, § 701][/us/pl/102/511/s701], Oct. 24, 1992, [106 Stat. 3348][/us/stat/106/3348]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 227, 265(b), Apr. 4, 1996, [110 Stat. 962][/us/stat/110/962], 974; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title XI, § 1125\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–45; [Pub. L. 107–171, title III][/us/pl/107/171], §§ 3009(b)(2), 3106, May 13, 2002, [116 Stat. 283][/us/stat/116/283], 291; [Pub. L. 108–7, div. A, title VII, § 745][/us/pl/108/7/s745], Feb. 20, 2003, [117 Stat. 44][/us/stat/117/44]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1826, 1833; [Pub. L. 113–79, title III, § 3201][/us/pl/113/79/s3201], Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779].)
 
  __References in Text__ 
 
@@ -284,6 +270,12 @@
     Section was enacted as part of the Food Security Act of 1985, and not as part of the Food for Peace Act which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (f)(3). [Pub. L. 113–79, § 3201(a)(1)][/us/pl/113/79/s3201/a/1], substituted “2018” for “2012”.
+
+    Subsec. (f)(6). [Pub. L. 113–79, § 3201(b)][/us/pl/113/79/s3201/b], struck out par. (6) which related to approval of project for Malawi during fiscal year 2009.
+
+    Subsecs. (g), (k), (l)(1). [Pub. L. 113–79, § 3201(a)(2)][/us/pl/113/79/s3201/a/2]–(4), substituted “2018” for “2012”.
 
     2008—Subsec. (b). [Pub. L. 110–246, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” wherever appearing.
 
@@ -460,9 +452,14 @@
 [/us/stat/117/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F44
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
+[/us/pl/113/79/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3201
+[/us/stat/128/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F779
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
+[/us/pl/113/79/s3201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3201%2Fa%2F1
+[/us/pl/113/79/s3201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3201%2Fb
+[/us/pl/113/79/s3201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3201%2Fa%2F2
 [/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
 [/us/pl/110/246/s3014/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3014%2Fb%2F2
 [/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA

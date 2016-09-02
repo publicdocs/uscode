@@ -43,15 +43,19 @@
 
     (e) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2012.
+        There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 110–234, title VII, § 7525][/us/pl/110/234/s7525], May 22, 2008, [122 Stat. 1273][/us/stat/122/1273]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7525, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2035.)
+([Pub. L. 110–234, title VII, § 7525][/us/pl/110/234/s7525], May 22, 2008, [122 Stat. 1273][/us/stat/122/1273]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7525, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2035; [Pub. L. 113–79, title VII, § 7515][/us/pl/113/79/s7515], Feb. 7, 2014, [128 Stat. 903][/us/stat/128/903].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
     Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] amended subsec. (e) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2012.”
 
  __Effective Date__ 
 
@@ -73,10 +77,13 @@
 [/us/stat/122/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1273
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7515
+[/us/stat/128/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F903
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -75,7 +75,7 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             Notwithstanding subsection (a), the Secretary of Agriculture shall carry out the dairy product price support program under section 1501 of the Food, Conservation, and Energy Act of 2008 ([7 U.S.C. 8771][/us/usc/t7/s8771]) through December 31, 2013.
+>             Notwithstanding subsection (a), the Secretary of Agriculture shall carry out the dairy product price support program under \[former\] section 1501 of the Food, Conservation, and Energy Act of 2008 (\[former\] [7 U.S.C. 8771][/us/usc/t7/s8771]) through December 31, 2013.
 
 >             “(B)  __Milk income loss contract program__  __.—__ 
 
@@ -167,7 +167,7 @@
 
 >         “(11)  __Forest biomass for energy__  __.—__ 
 
->         \[Amended [section 8112 of this title][/us/usc/t7/s8112].\]
+>         \[Amended former [section 8112 of this title][/us/usc/t7/s8112].\]
 
 >         “(12)  __Community wood energy program__  __.—__ 
 
@@ -181,7 +181,7 @@
 
 >         “(2)  __National clean plant network__  __.—__ 
 
->         \[Amended [section 7761 of this title][/us/usc/t7/s7761].\]
+>         \[Amended former [section 7761 of this title][/us/usc/t7/s7761].\]
 
 >         “(3)  __National organic certification cost-share program__  __.—__ 
 
@@ -203,7 +203,7 @@
 
 >         “(2)  __Conservation__  __.—__ 
 
->         Subsection (a) does not apply with respect to the programs specified in paragraphs (3)(B), (4), (6), and (7) of section 1241(a) of the Food Security Act of 1985 ([16 U.S.C. 3841(a)][/us/usc/t16/s3841/a]), relating to the conservation stewardship program, farmland protection program, environmental quality incentives program, and wildlife habitat incentives program, for which program authority was extended through fiscal year 2014 by [section 716 of Public Law 112–55][/us/pl/112/55/s716] ([125 Stat. 582][/us/stat/125/582]).
+>         Subsection (a) does not apply with respect to the programs specified in paragraphs (3)(B), (4), (6), and (7) of section 1241(a) of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3841(a)][/us/usc/t16/s3841/a]), relating to the conservation stewardship program, farmland protection program, environmental quality incentives program, and wildlife habitat incentives program, for which program authority was extended through fiscal year 2014 by [section 716 of Public Law 112–55][/us/pl/112/55/s716] ([125 Stat. 582][/us/stat/125/582]).
 
 >         “(3)  __Trade__  __.—__ 
 

@@ -37,9 +37,9 @@
 
     (c) __Annual audit__ 
 
-        The Inspector General of the Department of Agriculture shall audit the activities, transactions, and records of the Authority on an annual basis.
+        The Inspector General of the Department of Agriculture shall audit the activities, transactions, and records of the Authority on an annual basis for any fiscal year for which funds are appropriated.
 
-([Pub. L. 87–128, title III, § 383L][/us/pl/87/128/s383L], formerly § 383K, as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 386][/us/stat/116/386]; renumbered § 383L, [Pub. L. 110–234, title VI, § 6026(c)(1)(A)][/us/pl/110/234/s6026/c/1/A], May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(c)(1)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940.)
+([Pub. L. 87–128, title III, § 383L][/us/pl/87/128/s383L], formerly § 383K, as added [Pub. L. 107–171, title VI, § 6028][/us/pl/107/171/s6028], May 13, 2002, [116 Stat. 386][/us/stat/116/386]; renumbered § 383L, [Pub. L. 110–234, title VI, § 6026(c)(1)(A)][/us/pl/110/234/s6026/c/1/A], May 22, 2008, [122 Stat. 1178][/us/stat/122/1178], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6026(c)(1)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1940; amended [Pub. L. 113–79, title VI, § 6027(a)][/us/pl/113/79/s6027/a], Feb. 7, 2014, [128 Stat. 850][/us/stat/128/850].)
 
  __Codification__ 
 
@@ -48,6 +48,10 @@
  __Prior Provisions__ 
 
     A prior [section 383L of Pub. L. 87–128][/us/pl/87/128/s383L], title III, was renumbered section 383M and is classified to [section 2009bb–11 of this title][/us/usc/t7/s2009bb–11].
+
+ __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–79][/us/pl/113/79] inserted “for any fiscal year for which funds are appropriated” after “annual basis”.
 
 ----------
 
@@ -63,11 +67,14 @@
 [/us/stat/122/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1178
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6027%2Fa
+[/us/stat/128/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F850
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/87/128/s383L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs383L
 [/us/usc/t7/s2009bb–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb%E2%80%9311
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5938.md) | [Next](./../../../..//us/usc/t7/ch89/m__us_usc_t7_s6001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch89)
+[Previous](./../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5940.md) | [Next](./../../../..//us/usc/t7/ch89/m__us_usc_t7_s6001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch89)
 
 ## CHAPTER 89—PECAN PROMOTION AND RESEARCH
 
@@ -131,7 +131,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5938.md) | [Next](./../../../..//us/usc/t7/ch89/m__us_usc_t7_s6001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch89)
+[Previous](./../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5940.md) | [Next](./../../../..//us/usc/t7/ch89/m__us_usc_t7_s6001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch89)
 
 ----------
 ----------

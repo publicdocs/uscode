@@ -15,15 +15,17 @@
 
 ## § 1736b. Expiration date
 
-    No agreements to finance sales or to provide other assistance under this chapter shall be entered into after December 31, 2012.
+    No agreements to finance sales or to provide other assistance under this chapter shall be entered into after December 31, 2018.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 408, as added [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1537][/us/stat/80/1537]; amended [Pub. L. 94–161, title II, § 211][/us/pl/94/161/s211], Dec. 20, 1975, [89 Stat. 854][/us/stat/89/854]; [Pub. L. 95–88, title II, § 213][/us/pl/95/88/s213], Aug. 3, 1977, [91 Stat. 551][/us/stat/91/551]; [Pub. L. 95–113, title XII, § 1207][/us/pl/95/113/s1207], Sept. 29, 1977, [91 Stat. 957][/us/stat/91/957]; [Pub. L. 96–470, title II, § 213][/us/pl/96/470/s213], Oct. 19, 1980, [94 Stat. 2246][/us/stat/94/2246]; [Pub. L. 97–98, title XII, § 1215][/us/pl/97/98/s1215], Dec. 22, 1981, [95 Stat. 1282][/us/stat/95/1282]; [Pub. L. 99–83, title X, § 1006][/us/pl/99/83/s1006], Aug. 8, 1985, [99 Stat. 271][/us/stat/99/271]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3653][/us/stat/104/3653]; [Pub. L. 104–127, title II, § 217][/us/pl/104/127/s217], Apr. 4, 1996, [110 Stat. 957][/us/stat/110/957]; [Pub. L. 107–171, title III, § 3012][/us/pl/107/171/s3012], May 13, 2002, [116 Stat. 284][/us/stat/116/284]; [Pub. L. 110–246, title III, § 3019][/us/pl/110/246/s3019], June 18, 2008, [122 Stat. 1828][/us/stat/122/1828].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 408, as added [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1537][/us/stat/80/1537]; amended [Pub. L. 94–161, title II, § 211][/us/pl/94/161/s211], Dec. 20, 1975, [89 Stat. 854][/us/stat/89/854]; [Pub. L. 95–88, title II, § 213][/us/pl/95/88/s213], Aug. 3, 1977, [91 Stat. 551][/us/stat/91/551]; [Pub. L. 95–113, title XII, § 1207][/us/pl/95/113/s1207], Sept. 29, 1977, [91 Stat. 957][/us/stat/91/957]; [Pub. L. 96–470, title II, § 213][/us/pl/96/470/s213], Oct. 19, 1980, [94 Stat. 2246][/us/stat/94/2246]; [Pub. L. 97–98, title XII, § 1215][/us/pl/97/98/s1215], Dec. 22, 1981, [95 Stat. 1282][/us/stat/95/1282]; [Pub. L. 99–83, title X, § 1006][/us/pl/99/83/s1006], Aug. 8, 1985, [99 Stat. 271][/us/stat/99/271]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3653][/us/stat/104/3653]; [Pub. L. 104–127, title II, § 217][/us/pl/104/127/s217], Apr. 4, 1996, [110 Stat. 957][/us/stat/110/957]; [Pub. L. 107–171, title III, § 3012][/us/pl/107/171/s3012], May 13, 2002, [116 Stat. 284][/us/stat/116/284]; [Pub. L. 110–246, title III, § 3019][/us/pl/110/246/s3019], June 18, 2008, [122 Stat. 1828][/us/stat/122/1828]; [Pub. L. 113–79, title III, § 3011][/us/pl/113/79/s3011], Feb. 7, 2014, [128 Stat. 777][/us/stat/128/777].)
 
  __Prior Provisions__ 
 
     Provisions covering the termination date for agreements to finance sales under subchapter II and programs of assistance under subchapter III were covered by [section 1736c of this title][/us/usc/t7/s1736c] prior to amendment of that section by [Pub. L. 101–624][/us/pl/101/624], and by sections 1709, 1724 of this title prior to the amendment of those sections by [Pub. L. 89–808][/us/pl/89/808].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—[Pub. L. 110–246][/us/pl/110/246] substituted “2012” for “2007”.
 
@@ -109,9 +111,12 @@
 [/us/stat/116/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F284
 [/us/pl/110/246/s3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3019
 [/us/stat/122/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1828
+[/us/pl/113/79/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3011
+[/us/stat/128/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F777
 [/us/usc/t7/s1736c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736c
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/89/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F808
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127

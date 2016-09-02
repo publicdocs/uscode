@@ -67,19 +67,21 @@
 
     (e) __Receipt for service or denial of service__ 
 
-    In any case in which a current or prospective producer or landowner, in person or in writing, requests from the Farm Service Agency, the Natural Resources Conservation Service, or an agency of the Rural Development Mission Area any benefit or service offered by the Department to agricultural producers or landowners and, at the time of the request, also requests a receipt, the Secretary shall issue, on the date of the request, a receipt to the producer or landowner that contains—
+    In any case in which a current or prospective producer or landowner, in person or in writing, requests from the Farm Service Agency, the Natural Resources Conservation Service, or an agency of the Rural Development Mission Area any benefit or service offered by the Department to agricultural producers or landowners, the Secretary shall issue, on the date of the request, a receipt to the producer or landowner that contains—
 
         (1) the date, place, and subject of the request; and
 
         (2) the action taken, not taken, or recommended to the producer or landowner.
 
-([Pub. L. 101–624, title XXV, § 2501A][/us/pl/101/624/s2501A], as added [Pub. L. 107–171, title X, § 10708(a)][/us/pl/107/171/s10708/a], May 13, 2002, [116 Stat. 522][/us/stat/116/522]; amended [Pub. L. 110–234, title XIV][/us/pl/110/234], §§ 14003, 14006, May 22, 2008, [122 Stat. 1443][/us/stat/122/1443], 1445; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, §§ 14003, 14006, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2205, 2207.)
+([Pub. L. 101–624, title XXV, § 2501A][/us/pl/101/624/s2501A], as added [Pub. L. 107–171, title X, § 10708(a)][/us/pl/107/171/s10708/a], May 13, 2002, [116 Stat. 522][/us/stat/116/522]; amended [Pub. L. 110–234, title XIV][/us/pl/110/234], §§ 14003, 14006, May 22, 2008, [122 Stat. 1443][/us/stat/122/1443], 1445; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, §§ 14003, 14006, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2205, 2207; [Pub. L. 113–79, title XII, § 12204][/us/pl/113/79/s12204], Feb. 7, 2014, [128 Stat. 984][/us/stat/128/984].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79], in introductory provisions, struck out “and, at the time of the request, also requests a receipt” after “landowners”.
 
     2008—Subsecs. (c), (d). [Pub. L. 110–246, § 14006][/us/pl/110/246/s14006], added subsecs. (c) and (d) and struck out former subsec. (c) which related to annual computation of the participation rate of socially disadvantaged farmers and ranchers as a percentage of the total participation of all farmers and ranchers for each Department of Agriculture program and requirement that participation according to race, ethnicity, and gender be included in each report.
 
@@ -112,10 +114,13 @@
 [/us/stat/122/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1443
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s12204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12204
+[/us/stat/128/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F984
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s14006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14006
 [/us/pl/110/246/s14003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14003
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

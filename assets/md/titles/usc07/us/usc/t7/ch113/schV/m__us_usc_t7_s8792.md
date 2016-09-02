@@ -61,13 +61,17 @@
 
     (d) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2012.
+        There are authorized to be appropriated such sums as are necessary to carry out this section for fiscal year 2009 and each succeeding fiscal year.
 
-([Pub. L. 110–234, title I, § 1621][/us/pl/110/234/s1621], May 22, 2008, [122 Stat. 1024][/us/stat/122/1024]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1621, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1752.)
+([Pub. L. 110–234, title I, § 1621][/us/pl/110/234/s1621], May 22, 2008, [122 Stat. 1024][/us/stat/122/1024]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1621, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1752; [Pub. L. 113–79, title I, § 1606][/us/pl/113/79/s1606], Feb. 7, 2014, [128 Stat. 708][/us/stat/128/708].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
+
+ __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79] substituted “fiscal year 2009 and each succeeding fiscal year” for “each of fiscal years 2009 through 2012”.
 
 ----------
 
@@ -85,9 +89,12 @@
 [/us/stat/122/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1024
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1606
+[/us/stat/128/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F708
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 
 

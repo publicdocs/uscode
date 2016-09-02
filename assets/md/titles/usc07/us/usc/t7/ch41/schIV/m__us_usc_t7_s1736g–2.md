@@ -27,7 +27,7 @@
 
             (A) assist developing countries in correcting micronutrient dietary deficiencies among segments of the populations of the countries; and
 
-            (B) assess and apply technologies and systems to improve and ensure the quality, shelf life, bioavailability, and safety of fortified food aid agricultural commodities, and products of those agricultural commodities, using recommendations included in the report entitled “Micronutrient Compliance Review of Fortified Public Law 480 Commodities”, published in October 2001, with implementation by independent entities with proven experience and expertise in food aid commodity quality enhancements.
+            (B) assess and apply technologies and systems to improve and ensure the quality, shelf life, bioavailability, and safety of fortified food aid agricultural commodities, and products of those agricultural commodities.
 
     (b) __Fortification__ 
 
@@ -35,9 +35,9 @@
 
     (c) __Termination of authority__ 
 
-        The authority to carry out programs established under this section shall terminate on September 30, 2012.
+        The authority to carry out programs established under this section shall terminate on September 30, 2018.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 415, as added [Pub. L. 104–127, title II, § 222][/us/pl/104/127/s222], Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958]; amended [Pub. L. 107–171, title III, § 3013][/us/pl/107/171/s3013], May 13, 2002, [116 Stat. 284][/us/stat/116/284]; [Pub. L. 110–246, title III, § 3023][/us/pl/110/246/s3023], June 18, 2008, [122 Stat. 1830][/us/stat/122/1830].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 415, as added [Pub. L. 104–127, title II, § 222][/us/pl/104/127/s222], Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958]; amended [Pub. L. 107–171, title III, § 3013][/us/pl/107/171/s3013], May 13, 2002, [116 Stat. 284][/us/stat/116/284]; [Pub. L. 110–246, title III, § 3023][/us/pl/110/246/s3023], June 18, 2008, [122 Stat. 1830][/us/stat/122/1830]; [Pub. L. 113–79, title III, § 3013][/us/pl/113/79/s3013], Feb. 7, 2014, [128 Stat. 777][/us/stat/128/777].)
 
  __Codification__ 
 
@@ -45,7 +45,11 @@
 
  __Amendments__ 
 
-    Subsec. (a)(1). [Pub. L. 110–246, § 3023(1)(A)][/us/pl/110/246/s3023/1/A], substituted “2008” for “2003”.
+    2014—Subsec. (a)(2)(B). [Pub. L. 113–79, § 3013(a)][/us/pl/113/79/s3013/a], struck out “, using recommendations included in the report entitled ‘Micronutrient Compliance Review of Fortified Public Law 480 Commodities’, published in October 2001, with implementation by independent entities with proven experience and expertise in food aid commodity quality enhancements” before period at end.
+
+    Subsec. (c). [Pub. L. 113–79, § 3013(b)][/us/pl/113/79/s3013/b], substituted “2018” for “2012”.
+
+    2008—Subsec. (a)(1). [Pub. L. 110–246, § 3023(1)(A)][/us/pl/110/246/s3023/1/A], substituted “2008” for “2003”.
 
     Subsec. (a)(2). [Pub. L. 110–246, § 3023(1)(B)][/us/pl/110/246/s3023/1/B], in subpar. (A), inserted “and” at end, added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
 
@@ -83,10 +87,14 @@
 [/us/stat/116/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F284
 [/us/pl/110/246/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3023
 [/us/stat/122/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1830
+[/us/pl/113/79/s3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3013
+[/us/stat/128/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F777
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/pl/113/79/s3013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3013%2Fa
+[/us/pl/113/79/s3013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3013%2Fb
 [/us/pl/110/246/s3023/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3023%2F1%2FA
 [/us/pl/110/246/s3023/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3023%2F1%2FB
 [/us/pl/110/246/s3023/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3023%2F2

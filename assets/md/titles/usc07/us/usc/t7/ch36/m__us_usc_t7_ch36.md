@@ -121,6 +121,22 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1508b" data-uslm-ref="/us/usc/t7/s1508b">1508b.</a>  </td>
+
+    <td> Stacked Income Protection Plan for producers of upland cotton.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1508c" data-uslm-ref="/us/usc/t7/s1508c">1508c.</a>  </td>
+
+    <td> Peanut revenue crop insurance.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1509" data-uslm-ref="/us/usc/t7/s1509">1509.</a>  </td>
 
     <td> Exemption of indemnities from levy.  </td>

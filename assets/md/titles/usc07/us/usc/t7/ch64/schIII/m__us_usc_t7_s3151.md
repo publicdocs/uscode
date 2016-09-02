@@ -17,7 +17,7 @@
 
     (a) __Competitive grant program__ 
 
-        The Secretary shall conduct a program of competitive grants to States for the purpose of meeting the costs of renovation, improving compliance with Federal regulations, employing faculty, acquiring equipment, and taking other action related to the improvement of schools of veterinary medicine to ensure agricultural competitiveness on a worldwide basis. This grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum State funding.
+        The Secretary shall conduct a program of competitive grants to States for the purpose of meeting the costs of renovation, improving compliance with Federal regulations, employing faculty, acquiring equipment, and taking other action related to the improvement of schools of veterinary medicine to ensure agricultural competitiveness on a worldwide basis.
 
     (b) __Preference__ 
 
@@ -39,9 +39,11 @@
 
         (2) The remainder shall be apportioned and distributed by the Secretary to those States which have applied for funds under this section on such basis as the Secretary may deem appropriate.
 
-([Pub. L. 95–113, title XIV, § 1415][/us/pl/95/113/s1415], Sept. 29, 1977, [91 Stat. 993][/us/stat/91/993]; [Pub. L. 97–98, title XIV, § 1417][/us/pl/97/98/s1417], Dec. 22, 1981, [95 Stat. 1305][/us/stat/95/1305]; [Pub. L. 99–198, title XIV, § 1410][/us/pl/99/198/s1410], Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547]; [Pub. L. 101–624, title XVI, § 1607(a)][/us/pl/101/624/s1607/a], (b), Nov. 28, 1990, [104 Stat. 3716][/us/stat/104/3716].)
+([Pub. L. 95–113, title XIV, § 1415][/us/pl/95/113/s1415], Sept. 29, 1977, [91 Stat. 993][/us/stat/91/993]; [Pub. L. 97–98, title XIV, § 1417][/us/pl/97/98/s1417], Dec. 22, 1981, [95 Stat. 1305][/us/stat/95/1305]; [Pub. L. 99–198, title XIV, § 1410][/us/pl/99/198/s1410], Dec. 23, 1985, [99 Stat. 1547][/us/stat/99/1547]; [Pub. L. 101–624, title XVI, § 1607(a)][/us/pl/101/624/s1607/a], (b), Nov. 28, 1990, [104 Stat. 3716][/us/stat/104/3716]; [Pub. L. 113–79, title VII, § 7128(b)(1)(A)][/us/pl/113/79/s7128/b/1/A], Feb. 7, 2014, [128 Stat. 878][/us/stat/128/878].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] struck out “This grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum State funding.” at end.
 
     1990—[Pub. L. 101–624, § 1607(b)(1)][/us/pl/101/624/s1607/b/1], amended section catchline generally.
 
@@ -86,6 +88,9 @@
 [/us/stat/99/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1547
 [/us/pl/101/624/s1607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fa
 [/us/stat/104/3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3716
+[/us/pl/113/79/s7128/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F1%2FA
+[/us/stat/128/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F878
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/101/624/s1607/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fb%2F1
 [/us/pl/101/624/s1607/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fb%2F1
 [/us/pl/101/624/s1607/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1607%2Fa%2F1

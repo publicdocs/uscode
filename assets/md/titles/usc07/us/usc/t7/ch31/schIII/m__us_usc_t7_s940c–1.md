@@ -109,9 +109,9 @@
 
     (f) __Termination__ 
 
-        The authority provided under this section shall terminate on September 30, 2012.
+        The authority provided under this section shall terminate on September 30, 2018.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 313A, as added [Pub. L. 107–171, title VI, § 6101(a)][/us/pl/107/171/s6101/a], May 13, 2002, [116 Stat. 413][/us/stat/116/413]; amended [Pub. L. 110–234, title VI, § 6106(a)][/us/pl/110/234/s6106/a], May 22, 2008, [122 Stat. 1197][/us/stat/122/1197]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6106(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1958.)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 313A, as added [Pub. L. 107–171, title VI, § 6101(a)][/us/pl/107/171/s6101/a], May 13, 2002, [116 Stat. 413][/us/stat/116/413]; amended [Pub. L. 110–234, title VI, § 6106(a)][/us/pl/110/234/s6106/a], May 22, 2008, [122 Stat. 1197][/us/stat/122/1197]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6106(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1958; [Pub. L. 113–79, title VI, § 6102][/us/pl/113/79/s6102], Feb. 7, 2014, [128 Stat. 851][/us/stat/128/851].)
 
  __Codification__ 
 
@@ -120,6 +120,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—Subsec. (b)(1). [Pub. L. 110–246, § 6106(a)(1)(A)][/us/pl/110/246/s6106/a/1/A], substituted “for eligible electrification or telephone purposes consistent with this chapter” for “for electrification or telephone purposes that have been made concurrently with loans approved for such purposes under this chapter”.
 
@@ -172,6 +174,8 @@
 [/us/stat/122/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1197
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6102
+[/us/stat/128/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F851
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fa
@@ -180,6 +184,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s6106/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6106%2Fa%2F1%2FA
 [/us/pl/110/246/s6106/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6106%2Fa%2F1%2FB
 [/us/pl/110/246/s6106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6106%2Fa%2F2

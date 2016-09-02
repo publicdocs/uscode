@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632b.md) | [Next](./../../../../..//us/usc/t7/ch38/schII/ptA/m__us_usc_t7_ch38_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch38%2FschII)
+[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632c.md) | [Next](./../../../../..//us/usc/t7/ch38/schII/ptA/m__us_usc_t7_ch38_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch38%2FschII)
 
 ### SUBCHAPTER II—LIVESTOCK MANDATORY REPORTING
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632b.md) | [Next](./../../../../..//us/usc/t7/ch38/schII/ptA/m__us_usc_t7_ch38_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch38%2FschII)
+[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1632c.md) | [Next](./../../../../..//us/usc/t7/ch38/schII/ptA/m__us_usc_t7_ch38_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch38%2FschII)
 
 ----------
 ----------

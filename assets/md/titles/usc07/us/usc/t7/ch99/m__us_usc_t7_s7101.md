@@ -61,6 +61,92 @@
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Sheep Promotion, Research, and Information Act of 1994’.”
 
+ __Agriculture Wool Apparel Manufacturers Trust Fund__ 
+
+[Pub. L. 113–79, title XII, § 12315][/us/pl/113/79/s12315], Feb. 7, 2014, [128 Stat. 995][/us/stat/128/995], provided that:
+
+>     “(a)  __Establishment of Trust Fund__  __.—__ 
+
+>     There is established in the Treasury of the United States a trust fund to be known as the ‘Agriculture Wool Apparel Manufacturers Trust Fund’ (in this section referred to as the ‘Trust Fund’), consisting of such amounts as may be transferred to the Trust Fund pursuant to subsection (f), and to be used for the purpose of reducing the injury to domestic manufacturers resulting from tariffs on wool fabric that are higher than tariffs on certain apparel articles made of wool fabric.
+
+>     “(b) __Distribution of Funds.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         From amounts in the Trust Fund, the Secretary \[of Agriculture\] may make payments annually beginning in calendar year 2014 for calendar years 2010 through 2019 as follows:
+
+>             “(A)
+
+>              To each eligible manufacturer under paragraph (3) of section 4002(c) of the Wool Suit and Textile Trade Extension Act of 2004 ([Public Law 108–429][/us/pl/108/429]; [118 Stat. 2600][/us/stat/118/2600] \[2603\]), as amended by section 1633(c) \[1633(b)\] of the Miscellaneous Trade and Technical Corrections Act of 2006 ([Public Law 109–280][/us/pl/109/280]; [120 Stat. 1166][/us/stat/120/1166]) and section 325(b) of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 (division C of [Public Law 110–343][/us/pl/110/343]; [122 Stat. 3875][/us/stat/122/3875]), and any successor-in-interest to such a manufacturer as provided for under paragraph (4) of such section 4002(c) \[[118 Stat. 2603][/us/stat/118/2603]\], that submits an affidavit in accordance with paragraph (2) for the year of the payment—
+
+>                 “(i) for calendar years 2010 through 2015, payments that, when added to any other payments made to the manufacturer or successor-in-interest under paragraph (3) of such section 4002(c) in such calendar years, equal the total amount of payments authorized to be provided to the manufacturer or successor-in-interest under that paragraph, or the provisions of this section, in such calendar years; and
+
+>                 “(ii) for calendar years 2016 through 2019, payments in amounts authorized under that paragraph.
+
+>             “(B)
+
+>              To each eligible manufacturer under paragraph (6) of such section 4002(c) \[[118 Stat. 2603][/us/stat/118/2603]\]—
+
+>                 “(i) for calendar years 2010 through 2014, payments that, when added to any other payments made to eligible manufacturers under that paragraph in such calendar years, equal the total amount of payments authorized to be provided to the manufacturer under that paragraph, or the provisions of this section, in such calendar years; and
+
+>                 “(ii) for calendar years 2015 through 2019, payments in amounts authorized under that paragraph.
+
+>         “(2)  __Submission of affidavits__  __.—__ 
+
+>         An affidavit required by paragraph (1)(A) shall be submitted—
+
+>             “(A) in each of calendar years 2010 through 2015, to the Commissioner responsible for U.S. Customs and Border Protection not later than April 15; and
+
+>             “(B) in each of calendar years 2016 through 2019, to the Secretary, or as directed by the Secretary, and not later than March 1.
+
+>     “(c)  __Payment of Amounts__  __.—__ 
+
+>     The Secretary shall make payments to eligible manufacturers and successors-in-interest described in paragraphs (1) and (2) of subsection (b)—
+
+>         “(1) for calendar years 2010 through 2014, not later than 30 days after the transfer of amounts from the Commodity Credit Corporation to the Trust Fund under subsection (f); and
+
+>         “(2) for calendar years 2015 through 2019, not later than April 15 of the year of the payment.
+
+>     “(d)  __Memoranda of Understanding__  __.—__ 
+
+>     The Secretary shall, as soon as practicable after the date of the enactment of this Act \[Feb. 7, 2014\], negotiate memoranda of understanding with the Commissioner responsible for U.S. Customs and Border Protection and the Secretary of Commerce to establish procedures pursuant to which the Commissioner and the Secretary of Commerce will assist in carrying out the provisions of this section.
+
+>     “(e) __Increase in Payments in the Event of Expiration of Duty Suspensions.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         In any calendar year in which the suspension of duty on wool fabrics provided for under headings 9902.51.11, 9902.51.13, 9902.51.14, 9902.51.15, and 9902.51.16 of the Harmonized Tariff Schedule of the United States are not in effect, the amount of any payment described in subsection (b)(1) to a manufacturer or successor-in-interest shall be increased by an amount the Secretary, after consultation with the Secretary of Commerce, determines is equal to the amount the manufacturer or successor-in-interest would have saved during the calendar year of the payment if the suspension of duty on wool fabrics were in effect.
+
+>         “(2)  __No appeal of determinations__  __.—__ 
+
+>         A determination of the Secretary under this subsection shall be final and not subject to appeal or protest.
+
+>     “(f) __Funding.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Trust Fund for each of calendar years 2014 through 2019 an amount equal to the lesser of—
+
+>             “(A) the amount the Secretary determines to be necessary to make payments required by this section in that calendar year; or
+
+>             “(B) $30,000,000.
+
+>         “(2)  __Availability__  __.—__ 
+
+>         Amounts transferred to the Trust Fund under paragraph (1) shall remain available until expended.”
+
+ __Wool Research and Promotion__ 
+
+[Pub. L. 113–79, title XII, § 12316][/us/pl/113/79/s12316], Feb. 7, 2014, [128 Stat. 997][/us/stat/128/997], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Of the funds of the Commodity Credit Corporation, the Secretary \[of Agriculture\] shall use to provide grants described in section 506(d) of the Trade and Development Act of 2000 \[[Pub. L. 106–200][/us/pl/106/200]\] ([7 U.S.C. 7101][/us/usc/t7/s7101] note) $2,250,000 for each of calendar years 2015 through 2019, to remain available until expended.
+
+>     “(b)  __Authorization to Distribute Unexpended Balance__  __.—__ 
+
+>     In addition to funds made available under subsection (a) and notwithstanding subsection (f) of section 506 of the Trade and Development Act of 2000 ([7 U.S.C. 7101][/us/usc/t7/s7101] note), the Secretary may use any unexpended balances remaining in the Wool Research, Development, and Promotion Trust Fund established under that section as of December 31, 2014, to provide grants described in subsection (d) of that section.”
+
  __Wool Research, Development, and Promotion Trust Fund__ 
 
 [Pub. L. 106–200, title V, § 506][/us/pl/106/200/s506], May 18, 2000, [114 Stat. 303][/us/stat/114/303], as amended by [Pub. L. 107–210, div. E, title L, § 5102(c)(2)][/us/pl/107/210/s5102/c/2], Aug. 6, 2002, [116 Stat. 1047][/us/stat/116/1047]; [Pub. L. 108–429, title IV, § 4002(c)(5)][/us/pl/108/429/s4002/c/5], Dec. 3, 2004, [118 Stat. 2603][/us/stat/118/2603]; [Pub. L. 109–280, title XIV, § 1633(b)(2)][/us/pl/109/280/s1633/b/2], Aug. 17, 2006, [120 Stat. 1166][/us/stat/120/1166]; [Pub. L. 110–343, div. C, title III, § 325(b)(2)][/us/pl/110/343/s325/b/2], Oct. 3, 2008, [122 Stat. 3875][/us/stat/122/3875], provided that:
@@ -124,6 +210,21 @@
 [/us/stat/118/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2600
 [/us/pl/103/407/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407%2Fs1
 [/us/stat/108/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4210
+[/us/pl/113/79/s12315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12315
+[/us/stat/128/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F995
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/stat/118/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2600
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/stat/120/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1166
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/stat/122/3875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3875
+[/us/stat/118/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2603
+[/us/stat/118/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2603
+[/us/pl/113/79/s12316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12316
+[/us/stat/128/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F997
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
+[/us/usc/t7/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7101
+[/us/usc/t7/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7101
 [/us/pl/106/200/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs506
 [/us/stat/114/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F303
 [/us/pl/107/210/s5102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs5102%2Fc%2F2

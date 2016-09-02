@@ -15,37 +15,13 @@
 
 ## § 1736g. Coordination of foreign assistance programs
 
-    (a) __In general__ 
+    To the maximum extent practicable, assistance for a foreign country under subchapter III–A of this chapter shall be coordinated and integrated with United States development assistance objectives and programs for that country and with the overall development strategy of that country. Special emphasis should be placed on, and funds devoted to, activities that will increase the nutritional impact of programs of assistance under subchapter III–A of this chapter, and child survival programs and projects, in least developed countries by improving the design and implementation of such programs and projects.
 
-        To the maximum extent practicable, assistance for a foreign country under subchapter III–A of this chapter shall be coordinated and integrated with United States development assistance objectives and programs for that country and with the overall development strategy of that country. Special emphasis should be placed on, and funds devoted to, activities that will increase the nutritional impact of programs of assistance under subchapter III–A of this chapter, and child survival programs and projects, in least developed countries by improving the design and implementation of such programs and projects.
-
-    (b) __Report regarding efforts to improve procurement planning__ 
-
-        (1) __Report required__ 
-
-            Not later than 90 days after June 18, 2008, the Administrator and the Secretary shall submit to each appropriate committee of Congress a report that contains a description of each effort taken by the Administrator and the Secretary to improve planning for food and transportation procurement (including efforts to eliminate bunching of food purchases).
-
-        (2) __Contents__ 
-
-        A report required under paragraph (1) should include a description of each effort taken by the Administrator and the Secretary—
-
-            (A)
-
-             to improve the coordination of food purchases made by—
-
-                (i) the United States Agency for International Development; and
-
-                (ii) the Department of Agriculture;
-
-            (B) to increase flexibility with respect to procurement schedules;
-
-            (C) to increase the use of historical analyses and forecasting; and
-
-            (D) to improve and streamline legal claims processes for resolving transportation disputes.
-
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 413, as added [Pub. L. 96–53, title II, § 210][/us/pl/96/53/s210], Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; amended [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3656][/us/stat/104/3656]; [Pub. L. 104–127, title II, § 221][/us/pl/104/127/s221], Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958]; [Pub. L. 110–246, title III, § 3022][/us/pl/110/246/s3022], June 18, 2008, [122 Stat. 1829][/us/stat/122/1829].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 413, as added [Pub. L. 96–53, title II, § 210][/us/pl/96/53/s210], Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; amended [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3656][/us/stat/104/3656]; [Pub. L. 104–127, title II, § 221][/us/pl/104/127/s221], Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958]; [Pub. L. 110–246, title III, § 3022][/us/pl/110/246/s3022], June 18, 2008, [122 Stat. 1829][/us/stat/122/1829]; [Pub. L. 113–79, title III, § 3015][/us/pl/113/79/s3015], Feb. 7, 2014, [128 Stat. 778][/us/stat/128/778].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] struck out subsec. (a) designation and heading before “To the maximum” and struck out subsec. (b) which required a report to Congress regarding efforts to improve procurement planning not later than 90 days after June 18, 2008.
 
     2008—[Pub. L. 110–246][/us/pl/110/246] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -81,6 +57,9 @@
 [/us/stat/110/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F958
 [/us/pl/110/246/s3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3022
 [/us/stat/122/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1829
+[/us/pl/113/79/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3015
+[/us/stat/128/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F778
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

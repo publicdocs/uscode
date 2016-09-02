@@ -67,7 +67,7 @@ SUBCHAPTER I—RURAL ELECTRIFICATION  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs905" data-uslm-ref="/us/usc/t7/s905">905.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Fees for certain loan guarantees.  </td>
 
   </tr>
 
@@ -692,6 +692,14 @@ SUBCHAPTER VI—RURAL BROADBAND ACCESS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs950bb%E2%80%931" data-uslm-ref="/us/usc/t7/s950bb–1">950bb–1.</a>  </td>
 
     <td> National Center for Rural Telecommunications Assessment.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs950bb%E2%80%932" data-uslm-ref="/us/usc/t7/s950bb–2">950bb–2.</a>  </td>
+
+    <td> Rural Gigabit Network Pilot Program.  </td>
 
   </tr>
 

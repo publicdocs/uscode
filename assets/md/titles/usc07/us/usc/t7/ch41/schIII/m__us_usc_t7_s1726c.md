@@ -49,39 +49,21 @@
 
             (B) with respect to nongovernmental organizations, subject to regulations promulgated or guidelines issued to carry out this section, including United States audit requirements that are applicable to nongovernmental organizations.
 
-    (b) __Study; field-based projects__ 
+    (b) __Field-based projects__ 
 
-        (1) __Study__ 
+        (1) __In general__ 
 
-            (A) __In general__ 
+            In accordance with paragraph (2), the Secretary shall provide grants to, or enter into cooperative agreements with, eligible organizations to carry out field-based projects that consist of local or regional procurements of eligible commodities to respond to food crises and disasters in accordance with this section.
 
-            Not later than 30 days after June 18, 2008, the Secretary shall initiate a study of prior local and regional procurements for food aid programs conducted by—
+        (2) __Consultation with Administrator__ 
 
-                (i) other donor countries;
-
-                (ii) private voluntary organizations; and
-
-                (iii) the World Food Program of the United Nations.
-
-            (B) __Report__ 
-
-                Not later than 180 days after June 18, 2008, the Secretary shall submit to the appropriate committees of Congress a report containing the results of the study conducted under subparagraph (A).
-
-        (2) __Field-based projects__ 
-
-            (A) __In general__ 
-
-                In accordance with subparagraph (B), the Secretary shall provide grants to, or enter into cooperative agreements with, eligible organizations to carry out field-based projects that consist of local or regional procurements of eligible commodities to respond to food crises and disasters in accordance with this section.
-
-            (B) __Consultation with Administrator__ 
-
-                In carrying out the development and implementation of field-based projects under subparagraph (A), the Secretary shall consult with the Administrator.
+            In carrying out the development and implementation of field-based projects under paragraph (1), the Secretary shall consult with the Administrator.
 
     (c) __Procurement__ 
 
         (1) __In general__ 
 
-            Any eligible commodity that is procured for a field-based project carried out under subsection (b)(2) shall be procured through any approach or methodology that the Secretary considers to be an effective approach or methodology to provide adequate information regarding the manner by which to expedite, to the maximum extent practicable, the provision of food aid to affected populations without significantly increasing commodity costs for low-income consumers who procure commodities sourced from the same markets at which the eligible commodity is procured.
+            Any eligible commodity that is procured for a field-based project carried out under subsection (b) shall be procured through any approach or methodology that the Secretary considers to be an effective approach or methodology to provide adequate information regarding the manner by which to expedite, to the maximum extent practicable, the provision of food aid to affected populations without significantly increasing commodity costs for low-income consumers who procure commodities sourced from the same markets at which the eligible commodity is procured.
 
         (2) __Requirements__ 
 
@@ -115,27 +97,7 @@
 
                     The procurement of any eligible commodity shall be made at a reasonable market price with respect to the economy of the country in which the eligible commodity is procured, as determined by the Secretary.
 
-    (d) __Regulations; guidelines__ 
-
-        (1) __In general__ 
-
-            In accordance with paragraph (2), not later than 180 days after the date of completion of the study under subsection (b)(1), the Secretary shall promulgate regulations or issue guidelines to carry out field-based projects under this section.
-
-        (2) __Requirements__ 
-
-            (A) __Use of study__ 
-
-                In promulgating regulations or issuing guidelines under paragraph (1), the Secretary shall take into consideration the results of the study described in subsection (b)(1).
-
-            (B) __Public review and comment__ 
-
-                In promulgating regulations or issuing guidelines under paragraph (1), the Secretary shall provide an opportunity for public review and comment.
-
-        (3) __Availability__ 
-
-            The Secretary shall not approve the procurement of any eligible commodity under this section until the date on which the Secretary promulgates regulations or issues guidelines under paragraph (1).
-
-    (e) __Field-based project grants or cooperative agreements__ 
+    (d) __Field-based project grants or cooperative agreements__ 
 
         (1) __In general__ 
 
@@ -143,23 +105,13 @@
 
         (2) __Requirements of eligible organizations__ 
 
-            (A) __Application__ 
+            (A) __In general__ 
 
-                (i) __In general__ 
+                To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall submit to the Secretary an application by such date, in such manner, and containing such information as the Secretary may require.
 
-                    To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall submit to the Secretary an application by such date, in such manner, and containing such information as the Secretary may require.
+            (B) __Other applicable requirements__ 
 
-                (ii) __Other applicable requirements__ 
-
-                    Any other applicable requirement relating to the submission of proposals for consideration shall apply to the submission of an application required under clause (i), as determined by the Secretary.
-
-            (B) __Completion requirement__ 
-
-            To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall agree—
-
-                (i) to collect by September 30, 2011, data containing the information required under subsection (f)(1)(B) relating to the field-based project funded through the grant; and
-
-                (ii) to provide to the Secretary the data collected under clause (i).
+                Any other applicable requirement relating to the submission of proposals for consideration shall apply to the submission of an application required under subparagraph (A), as determined by the Secretary.
 
         (3) __Requirements of Secretary__ 
 
@@ -187,109 +139,31 @@
 
                 A portion of the funds provided under this subsection shall be made available for field-based projects that provide development assistance for a period of not less than 1 year.
 
-        (4) __Availability__ 
+    (e) __Funding__ 
 
-            The Secretary shall not award a grant to any eligible organization under paragraph (1) until the date on which the Secretary promulgates regulations or issues guidelines under subsection (d)(1).
+        (1) __Authorization of appropriations__ 
 
-    (f) __Independent evaluations; report__ 
+            There is authorized to be appropriated to carry out this section $80,000,000 for each of fiscal years 2014 through 2018.
 
-        (1) __Independent evaluations__ 
+        (2) __Preference__ 
 
-            (A) __In general__ 
+            In carrying out this section, the Secretary may give a preference to eligible organizations that have, or are working toward, projects under the McGovern-Dole International Food for Education and Child Nutrition Program established under [section 1736o–1 of this title][/us/usc/t7/s1736o–1].
 
-            Not later than November 1, 2011, the Secretary shall ensure that an independent third party conducts an independent evaluation of all field-based projects that—
+        (3) __Reporting__ 
 
-                (i) addresses each factor described in subparagraph (B); and
+        Each year, the Secretary shall submit to the appropriate committees of Congress a report that describes the use of funds under this section, including—
 
-                (ii) is conducted in accordance with this section.
+            (A)
 
-            (B) __Required factors__ 
+             the impact of procurements and projects on—
 
-            The Secretary shall require the independent third party to develop—
+                (i) local and regional agricultural producers; and
 
-                (i)
+                (ii) markets and consumers, including low-income consumers; and
 
-                 with respect to each relevant market in which an eligible commodity was procured under this section, a description of—
+            (B) implementation time frames and costs.
 
-                    (I) the prevailing and historic supply, demand, and price movements of the market (including the extent of competition for procurement bids);
-
-                    (II) the impact of the procurement of the eligible commodity on producer and consumer prices in the market;
-
-                    (III) each government market interference or other activity of the donor country that might have significantly affected the supply or demand of the eligible commodity in the area at which the local or regional procurement occurred;
-
-                    (IV) the quantities and types of eligible commodities procured in the market;
-
-                    (V) the time frame for procurement of each eligible commodity; and
-
-                    (VI) the total cost of the procurement of each eligible commodity (including storage, handling, transportation, and administrative costs);
-
-                (ii)
-
-                 an assessment regarding—
-
-                    (I) whether the requirements of this section have been met;
-
-                    (II)
-
-                     the impact of different methodologies and approaches on—
-
-                        (aa) local and regional agricultural producers (including large and small agricultural producers);
-
-                        (bb) markets;
-
-                        (cc) low-income consumers; and
-
-                        (dd) program recipients; and
-
-                    (III) the length of the period beginning on the date on which the Secretary initiated the procurement process and ending on the date of delivery of eligible commodities;
-
-                (iii)
-
-                 a comparison of different methodologies used to carry out this section, with respect to—
-
-                    (I) the benefits to local agriculture;
-
-                    (II) the impact on markets and consumers;
-
-                    (III) the period of time required for procurement and delivery;
-
-                    (IV) quality and safety assurances; and
-
-                    (V) implementation costs; and
-
-                (iv) to the extent adequate information is available (including the results of the report required under subsection (b)(1)(B)), a comparison of the different methodologies used by other donor countries to make local and regional procurements.
-
-            (C) __Independent third party access to records and reports__ 
-
-                The Secretary shall provide to the independent third party access to each record and report that the independent third party determines to be necessary to complete the independent evaluation.
-
-            (D) __Public access to records and reports__ 
-
-                Not later than 180 days after the date described in paragraph (2), the Secretary shall provide public access to each record and report described in subparagraph (C).
-
-        (2) __Report__ 
-
-            Not later than 4 years after June 18, 2008, the Secretary shall submit to the appropriate committees of Congress a report that contains the analysis and findings of the independent evaluation conducted under paragraph (1)(A).
-
-    (g) __Funding__ 
-
-        (1) __Commodity Credit Corporation__ 
-
-            The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this section.
-
-        (2) __Funding amounts__ 
-
-        Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
-
-            (A) $5,000,000 for fiscal year 2009;
-
-            (B) $25,000,000 for fiscal year 2010;
-
-            (C) $25,000,000 for fiscal year 2011; and
-
-            (D) $5,000,000 for fiscal year 2012.
-
-([Pub. L. 110–246, title III, § 3206][/us/pl/110/246/s3206], June 18, 2008, [122 Stat. 1840][/us/stat/122/1840].)
+([Pub. L. 110–246, title III, § 3206][/us/pl/110/246/s3206], June 18, 2008, [122 Stat. 1840][/us/stat/122/1840]; [Pub. L. 113–79, title III, § 3207][/us/pl/113/79/s3207], Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780].)
 
  __Codification__ 
 
@@ -303,6 +177,30 @@
 
     “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title][/us/usc/t7/s8701].
 
+ __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79, § 3207(1)(A)][/us/pl/113/79/s3207/1/A], (B), substituted “Field-based projects” for “Study; field-based projects” in heading, struck out par. (2) designation and heading, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and struck out former par. (1) which required a study of prior local and regional procurements for food aid programs and a report to Congress.
+
+    Subsec. (b)(1). [Pub. L. 113–79, § 3207(1)(C)][/us/pl/113/79/s3207/1/C], substituted “paragraph (2)” for “subparagraph (B)”.
+
+    Subsec. (b)(2). [Pub. L. 113–79, § 3207(1)(D)][/us/pl/113/79/s3207/1/D], substituted “paragraph (1)” for “subparagraph (A)”.
+
+    Subsec. (c)(1). [Pub. L. 113–79, § 3207(2)][/us/pl/113/79/s3207/2], substituted “subsection (b)” for “subsection (b)(2)”.
+
+    Subsec. (d). [Pub. L. 113–79, § 3207(3)][/us/pl/113/79/s3207/3], (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to regulations and guidelines.
+
+    Subsec. (d)(2). [Pub. L. 113–79, § 3207(5)(A)][/us/pl/113/79/s3207/5/A], struck out subpar. (A) designation and heading, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, substituted “subparagraph (A)” for “clause (i)” in subpar. (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall agree—
+
+    “(i) to collect by September 30, 2011, data containing the information required under subsection (f)(1)(B) relating to the field-based project funded through the grant; and
+
+    “(ii) to provide to the Secretary the data collected under clause (i).”
+
+    Subsec. (d)(4). [Pub. L. 113–79, § 3207(5)(B)][/us/pl/113/79/s3207/5/B], struck out par. (4). Text read as follows: “The Secretary shall not award a grant to any eligible organization under paragraph (1) until the date on which the Secretary promulgates regulations or issues guidelines under subsection (d)(1)”.
+
+    Subsec. (e). [Pub. L. 113–79, § 3207(6)][/us/pl/113/79/s3207/6], added subsec. (e). Former subsec. (e) redesignated (d).
+
+    Subsecs. (f), (g). [Pub. L. 113–79, § 3207(3)][/us/pl/113/79/s3207/3], struck out subsecs. (f) and (g) which related, respectively, to independent evaluations of field-based projects and report to Congress and to Commodity Credit Corporation funding and funding amounts for fiscal years 2009 through 2012.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t7/ch41/schIII/m__us_usc_t7_s1726b.md) | [Next](./../../../../..//us/usc/t7/ch41/schIII–A/m__us_usc_t7_ch41_schIII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1726c)
@@ -311,10 +209,22 @@
 ----------
 
 [/us/usc/t7/s1722/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1722%2Fd
+[/us/usc/t7/s1736o–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736o%E2%80%931
 [/us/pl/110/246/s3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3206
 [/us/stat/122/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1840
+[/us/pl/113/79/s3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207
+[/us/stat/128/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F780
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/pl/113/79/s3207/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207%2F1%2FA
+[/us/pl/113/79/s3207/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207%2F1%2FC
+[/us/pl/113/79/s3207/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207%2F1%2FD
+[/us/pl/113/79/s3207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207%2F2
+[/us/pl/113/79/s3207/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207%2F3
+[/us/pl/113/79/s3207/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207%2F5%2FA
+[/us/pl/113/79/s3207/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207%2F5%2FB
+[/us/pl/113/79/s3207/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207%2F6
+[/us/pl/113/79/s3207/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3207%2F3
 
 

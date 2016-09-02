@@ -63,7 +63,7 @@
 
         (2) __Production reports__ 
 
-            As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm that receive payments under [section 8715 of this title][/us/usc/t7/s8715] to submit to the Secretary annual production reports with respect to all covered commodities and peanuts produced on the farm.
+            As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm that receive payments under section 8715  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title to submit to the Secretary annual production reports with respect to all covered commodities and peanuts produced on the farm.
 
         (3) __Penalties__ 
 
@@ -97,6 +97,8 @@
 
     The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354]. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
+    [Section 8715 of this title][/us/usc/t7/s8715], referred to in subsec. (c)(2), was repealed by [Pub. L. 113–79, title I, § 1103(a)][/us/pl/113/79/s1103/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
@@ -115,7 +117,6 @@
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
 [/us/usc/t7/s8717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8717
-[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
 [/us/pl/110/234/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1106
 [/us/stat/122/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F949
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
@@ -125,6 +126,9 @@
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
+[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
+[/us/pl/113/79/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1103%2Fa
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

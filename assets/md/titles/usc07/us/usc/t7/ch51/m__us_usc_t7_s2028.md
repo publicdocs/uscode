@@ -115,13 +115,59 @@
 
         Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fraud, false statement, or forgery, any funds, assets, or property provided or financed under this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both, but if the value of the funds, assets or property involved is not over $200, the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both.
 
-([Pub. L. 88–525, § 19][/us/pl/88/525/s19], as added [Pub. L. 97–35, title I, § 116(a)(2)][/us/pl/97/35/s116/a/2], Aug. 13, 1981, [95 Stat. 364][/us/stat/95/364]; amended [Pub. L. 97–253, title I, § 184(a)][/us/pl/97/253/s184/a], Sept. 8, 1982, [96 Stat. 785][/us/stat/96/785]; [Pub. L. 98–204, § 1][/us/pl/98/204/s1], Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385]; [Pub. L. 99–114, § 2][/us/pl/99/114/s2], Oct. 1, 1985, [99 Stat. 488][/us/stat/99/488]; [Pub. L. 99–157, § 3][/us/pl/99/157/s3], Nov. 15, 1985, [99 Stat. 818][/us/stat/99/818]; [Pub. L. 99–182, § 3][/us/pl/99/182/s3], Dec. 13, 1985, [99 Stat. 1173][/us/stat/99/1173]; [Pub. L. 99–198, title XV, § 1543][/us/pl/99/198/s1543], Dec. 23, 1985, [99 Stat. 1589][/us/stat/99/1589]; [Pub. L. 101–624, title XVII, § 1762(b)][/us/pl/101/624/s1762/b], Nov. 28, 1990, [104 Stat. 3804][/us/stat/104/3804]; [Pub. L. 102–237, title IX, § 941(9)][/us/pl/102/237/s941/9], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 103–66, title XIII, § 13917][/us/pl/103/66/s13917], Aug. 10, 1993, [107 Stat. 674][/us/stat/107/674]; [Pub. L. 104–127, title IV, § 401(f)][/us/pl/104/127/s401/f], Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 821\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–59; [Pub. L. 107–171, title IV, § 4124(a)][/us/pl/107/171/s4124/a], May 13, 2002, [116 Stat. 324][/us/stat/116/324]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4115(b)(13), 4406(a)(6), May 22, 2008, [122 Stat. 1108][/us/stat/122/1108], 1141; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4115(b)(13), 4406(a)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1870, 1902.)
+    (e) __Review, report, and regulation of cash nutrition assistance program benefits provided in Puerto Rico__ 
+
+        (1) __Review__ 
+
+        The Secretary, in consultation with the Secretary of Health and Human Services, shall carry out a review of the provision of nutrition assistance in Puerto Rico in the form of cash benefits under this section that shall include—
+
+            (A) an examination of the history of and purpose for distribution of a portion of monthly benefits in the form of cash;
+
+            (B) an examination of current barriers to the redemption of non-cash benefits by current program participants and retailers;
+
+            (C) an examination of current usage of cash benefits for the purchase of non-food and other prohibited items;
+
+            (D) an identification and assessment of potential adverse effects of the discontinuation of a portion of benefits in the form of cash for program participants and retailers; and
+
+            (E) an examination of such other factors as the Secretary determines to be relevant.
+
+        (2) __Report__ 
+
+            Not later than 18 months after February 7, 2014, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that describes the results of the review conducted under this subsection.
+
+        (3) __Regulation__ 
+
+            (A) __In general__ 
+
+            Except as provided in subparagraph (B), and notwithstanding the second sentence of subsection (b)(1)(B)(i), the Secretary shall disapprove any plan submitted pursuant to subsection (b)(1)(A)—
+
+                (i) for fiscal year 2017 that provides for the distribution of more than 20 percent of the nutrition assistance benefit of a participant in the form of cash;
+
+                (ii) for fiscal year 2018 that provides for the distribution of more than 15 percent of the nutrition assistance benefit of a participant in the form of cash;
+
+                (iii) for fiscal year 2019 that provides for the distribution of more than 10 percent of the nutrition assistance benefit of a participant in the form of cash;
+
+                (iv) for fiscal year 2020 that provides for the distribution of more than 5 percent of the nutrition assistance benefit of a participant in the form of cash; and
+
+                (v) for fiscal year 2021 that provides for the distribution of any portion of the nutrition assistance benefit of a participant in the form of cash.
+
+            (B) __Exception__ 
+
+                Notwithstanding subparagraph (A), the Secretary, informed by the report required under paragraph (2), may approve a plan that exempts participants or categories of participants if the Secretary determines that discontinuation of benefits in the form of cash is likely to have significant adverse effects.
+
+        (4) __Funding__ 
+
+            Out of any funds made available under [section 2027 of this title][/us/usc/t7/s2027] for fiscal year 2014, the Secretary shall make available to carry out the review and report described in paragraphs (1) and (2) $1,000,000, to remain available until expended.
+
+([Pub. L. 88–525, § 19][/us/pl/88/525/s19], as added [Pub. L. 97–35, title I, § 116(a)(2)][/us/pl/97/35/s116/a/2], Aug. 13, 1981, [95 Stat. 364][/us/stat/95/364]; amended [Pub. L. 97–253, title I, § 184(a)][/us/pl/97/253/s184/a], Sept. 8, 1982, [96 Stat. 785][/us/stat/96/785]; [Pub. L. 98–204, § 1][/us/pl/98/204/s1], Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385]; [Pub. L. 99–114, § 2][/us/pl/99/114/s2], Oct. 1, 1985, [99 Stat. 488][/us/stat/99/488]; [Pub. L. 99–157, § 3][/us/pl/99/157/s3], Nov. 15, 1985, [99 Stat. 818][/us/stat/99/818]; [Pub. L. 99–182, § 3][/us/pl/99/182/s3], Dec. 13, 1985, [99 Stat. 1173][/us/stat/99/1173]; [Pub. L. 99–198, title XV, § 1543][/us/pl/99/198/s1543], Dec. 23, 1985, [99 Stat. 1589][/us/stat/99/1589]; [Pub. L. 101–624, title XVII, § 1762(b)][/us/pl/101/624/s1762/b], Nov. 28, 1990, [104 Stat. 3804][/us/stat/104/3804]; [Pub. L. 102–237, title IX, § 941(9)][/us/pl/102/237/s941/9], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 103–66, title XIII, § 13917][/us/pl/103/66/s13917], Aug. 10, 1993, [107 Stat. 674][/us/stat/107/674]; [Pub. L. 104–127, title IV, § 401(f)][/us/pl/104/127/s401/f], Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 821\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–59; [Pub. L. 107–171, title IV, § 4124(a)][/us/pl/107/171/s4124/a], May 13, 2002, [116 Stat. 324][/us/stat/116/324]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4115(b)(13), 4406(a)(6), May 22, 2008, [122 Stat. 1108][/us/stat/122/1108], 1141; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4115(b)(13), 4406(a)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1870, 1902; [Pub. L. 113–79, title IV, § 4025][/us/pl/113/79/s4025], Feb. 7, 2014, [128 Stat. 809][/us/stat/128/809].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] added subsec. (e).
 
     2008—Subsec. (a)(2)(A)(ii). [Pub. L. 110–246][/us/pl/110/246], §§ 4115(b)(13), 4406(a)(6), substituted “subject to the availability of appropriations under [section 2027(a) of this title][/us/usc/t7/s2027/a], for each fiscal year thereafter” for “for each of fiscal years 2004 through 2007” and “section 2012(u)(4)” for “section 2012(o)(4)”.
 
@@ -283,6 +329,7 @@
 [/us/usc/t7/s2027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2027%2Fa
 [/us/usc/t7/s2012/u/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fu%2F4
 [/us/usc/t48/s1469d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469d%2Fc
+[/us/usc/t7/s2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2027
 [/us/pl/88/525/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs19
 [/us/pl/97/35/s116/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs116%2Fa%2F2
 [/us/stat/95/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F364
@@ -314,10 +361,13 @@
 [/us/stat/122/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1108
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4025
+[/us/stat/128/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F809
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2027%2Fa
 [/us/pl/107/171/s4124/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4124%2Fa%2F1

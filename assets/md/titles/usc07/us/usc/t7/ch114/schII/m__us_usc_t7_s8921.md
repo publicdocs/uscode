@@ -31,9 +31,13 @@
 
     (b) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2008 through 2012.
+    There are authorized to be appropriated to carry out this section—
 
-([Pub. L. 110–234, title XIV, § 14121][/us/pl/110/234/s14121], May 22, 2008, [122 Stat. 1455][/us/stat/122/1455]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14121, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2217.)
+        (1) $50,000,000 for each of fiscal years 2008 through 2013; and
+
+        (2) $15,000,000 for each of fiscal years 2014 through 2018.
+
+([Pub. L. 110–234, title XIV, § 14121][/us/pl/110/234/s14121], May 22, 2008, [122 Stat. 1455][/us/stat/122/1455]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14121, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2217; [Pub. L. 113–79, title VII, § 7503][/us/pl/113/79/s7503], Feb. 7, 2014, [128 Stat. 900][/us/stat/128/900].)
 
  __References in Text__ 
 
@@ -44,6 +48,10 @@
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
+
+ __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79] substituted “are authorized to be appropriated to carry out this section—” for “is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2008 through 2012.” and added pars. (1) and (2).
 
  __Definition of “Secretary”__ 
 
@@ -62,6 +70,8 @@
 [/us/stat/122/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1455
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7503
+[/us/stat/128/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F900
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/stat/114/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F438
 [/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
@@ -72,6 +82,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 
 

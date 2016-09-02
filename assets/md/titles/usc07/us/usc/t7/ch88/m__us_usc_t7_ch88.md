@@ -281,17 +281,9 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5921a" data-uslm-ref="/us/usc/t7/s5921a">5921a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5922" data-uslm-ref="/us/usc/t7/s5922">5922.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5921a" data-uslm-ref="/us/usc/t7/s5921a">5921a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5923" data-uslm-ref="/us/usc/t7/s5923">5923.</a>  </td>
 
     <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5923" data-uslm-ref="/us/usc/t7/s5923">5923.</a>  </td>
-
-    <td> Rural electronic commerce extension program.  </td>
 
   </tr>
 
@@ -315,7 +307,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5925a" data-uslm-ref="/us/usc/t7/s5925a">5925a.</a>  </td>
 
-    <td> Nutrient management research and extension initiative.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -347,7 +339,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5925e" data-uslm-ref="/us/usc/t7/s5925e">5925e.</a>  </td>
 
-    <td> Agricultural bioenergy feedstock and energy efficiency research and extension initiative.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -361,17 +353,17 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5926" data-uslm-ref="/us/usc/t7/s5926">5926</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5928" data-uslm-ref="/us/usc/t7/s5928">5928.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5926" data-uslm-ref="/us/usc/t7/s5926">5926.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Centers of excellence.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5929" data-uslm-ref="/us/usc/t7/s5929">5929.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5927" data-uslm-ref="/us/usc/t7/s5927">5927</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5929" data-uslm-ref="/us/usc/t7/s5929">5929.</a>  </td>
 
-    <td> Red meat safety research center.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -401,17 +393,9 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5934" data-uslm-ref="/us/usc/t7/s5934">5934.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5934" data-uslm-ref="/us/usc/t7/s5934">5934</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5935" data-uslm-ref="/us/usc/t7/s5935">5935.</a>  </td>
 
     <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5935" data-uslm-ref="/us/usc/t7/s5935">5935.</a>  </td>
-
-    <td> Use of remote sensing data and other data to anticipate potential food, feed, and fiber shortages or excesses and to provide timely information to assist farmers with planting decisions.  </td>
 
   </tr>
 
@@ -435,7 +419,23 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5938" data-uslm-ref="/us/usc/t7/s5938">5938.</a>  </td>
 
-    <td> Agricultural and rural transportation research and education.  </td>
+    <td> Repealed.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5939" data-uslm-ref="/us/usc/t7/s5939">5939.</a>  </td>
+
+    <td> Foundation for Food and Agriculture Research.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5940" data-uslm-ref="/us/usc/t7/s5940">5940.</a>  </td>
+
+    <td> Legitimacy of industrial hemp research.  </td>
 
   </tr>
 

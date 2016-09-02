@@ -25,9 +25,9 @@
 
     (b) __Authorization of appropriations__ 
 
-        In addition to any other funds made available through annual appropriations for market news services, there is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
+        In addition to any other funds made available through annual appropriations for market news services, there is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
 
-([Pub. L. 110–234, title X, § 10107][/us/pl/110/234/s10107], May 22, 2008, [122 Stat. 1337][/us/stat/122/1337]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2099.)
+([Pub. L. 110–234, title X, § 10107][/us/pl/110/234/s10107], May 22, 2008, [122 Stat. 1337][/us/stat/122/1337]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2099; [Pub. L. 113–79, title X, § 10001][/us/pl/113/79/s10001], Feb. 7, 2014, [128 Stat. 939][/us/stat/128/939].)
 
  __References in Text__ 
 
@@ -38,6 +38,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
     Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
  __Effective Date__ 
 
@@ -72,11 +76,14 @@
 [/us/stat/122/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1337
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10001
+[/us/stat/128/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F939
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

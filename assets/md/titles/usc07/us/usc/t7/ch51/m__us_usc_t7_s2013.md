@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Subject to the availability of funds appropriated under [section 2027 of this title][/us/usc/t7/s2027], the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. benefits  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
+        Subject to the availability of funds appropriated under [section 2027 of this title][/us/usc/t7/s2027], the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. Benefits issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
 
     (b) __Food distribution program on Indian reservations__ 
 
@@ -83,13 +83,13 @@
 
             (F) __Authorization of appropriations__ 
 
-                There is authorized to be appropriated to the Secretary to carry out this paragraph $5,000,000 for each of fiscal years 2008 through 2012.
+                There is authorized to be appropriated to the Secretary to carry out this paragraph $5,000,000 for each of fiscal years 2008 through 2018.
 
     (c) __Regulations; transmittal of copy of regulations to Congressional committees prior to issuance__ 
 
         The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in [section 553 of title 5][/us/usc/t5/s553]. In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
 
-([Pub. L. 88–525, § 4][/us/pl/88/525/s4], Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 91–671, § 3][/us/pl/91/671/s3], Jan. 11, 1971, [84 Stat. 2049][/us/stat/84/2049]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 961][/us/stat/91/961]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1505(a), 1506, Dec. 23, 1985, [99 Stat. 1567][/us/stat/99/1567]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1102, 1106, 1122; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1863, 1867, 1884; [Pub. L. 111–296, title II, § 241(b)(1)][/us/pl/111/296/s241/b/1], Dec. 13, 2010, [124 Stat. 3236][/us/stat/124/3236].)
+([Pub. L. 88–525, § 4][/us/pl/88/525/s4], Aug. 31, 1964, [78 Stat. 704][/us/stat/78/704]; [Pub. L. 91–671, § 3][/us/pl/91/671/s3], Jan. 11, 1971, [84 Stat. 2049][/us/stat/84/2049]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 961][/us/stat/91/961]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1505(a), 1506, Dec. 23, 1985, [99 Stat. 1567][/us/stat/99/1567]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1102, 1106, 1122; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1863, 1867, 1884; [Pub. L. 111–296, title II, § 241(b)(1)][/us/pl/111/296/s241/b/1], Dec. 13, 2010, [124 Stat. 3236][/us/stat/124/3236]; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4004(a), 4030(b), Feb. 7, 2014, [128 Stat. 785][/us/stat/128/785], 814.)
 
  __References in Text__ 
 
@@ -100,6 +100,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79, § 4030(b)][/us/pl/113/79/s4030/b], substituted “Benefits issued and used” for “benefits issued and used”.
+
+    Subsec. (b)(6)(F). [Pub. L. 113–79, § 4004(a)][/us/pl/113/79/s4004/a], substituted “2018” for “2012”.
 
     2010—Subsec. (a). [Pub. L. 111–296][/us/pl/111/296] struck out “and, through an approved State plan, nutrition education” after “issuance to them of an allotment” in first sentence.
 
@@ -151,6 +155,68 @@
 
     [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], provided that the amendment made by that section is effective Oct. 1, 1977.
 
+ __Feasibility Study, Report, and Demonstration Project for Indian Tribes__ 
+
+[Pub. L. 113–79, title IV, § 4004(b)][/us/pl/113/79/s4004/b], Feb. 7, 2014, [128 Stat. 785][/us/stat/128/785], provided that:
+
+>     “(1)  __Definitions__  __.—__ 
+
+>     In this subsection:
+
+>         “(A)  __Indian; indian tribe__  __.—__ 
+
+>         The terms ‘Indian’ and ‘Indian tribe’ have the meaning given the terms in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b]).
+
+>         “(B)  __Tribal organization__  __.—__ 
+
+>         The term ‘tribal organization’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b]).
+
+>     “(2)  __Study__  __.—__ 
+
+>     The Secretary \[of Agriculture\] shall conduct a study to determine the feasibility of tribal administration of Federal food assistance programs, services, functions, and activities (or portions thereof), in lieu of State agencies or other administrating entities.
+
+>     “(3)  __Report__  __.—__ 
+
+>     Not later than 18 months after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
+
+>         “(A) contains a list of programs, services, functions, and activities with respect to which it would be feasible to be administered by a tribal organization;
+
+>         “(B) a description of whether that administration would necessitate a statutory or regulatory change; and
+
+>         “(C) such other issues that may be determined by the Secretary and developed through consultation pursuant to paragraph (4).
+
+>     “(4)  __Consultation with indian tribes__  __.—__ 
+
+>     In developing the report required by paragraph (3), the Secretary shall consult with tribal organizations.
+
+>     “(5)  __Funding__  __.—__ 
+
+>     Out of any funds made available under section 18 \[probably means [section 18 of Pub. L. 88–525][/us/pl/88/525/s18], [7 U.S.C. 2027][/us/usc/t7/s2027]\] for fiscal year 2014, the Secretary shall make available to carry out the study and report described in paragraphs (2) and (3) $1,000,000, to remain available until expended.
+
+>     “(6) __Traditional and local foods demonstration project.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         Subject to the availability of appropriations, the Secretary shall pilot a demonstration project by awarding a grant to 1 or more tribal organizations authorized to administer the food distribution program on Indian reservations under section 4(b) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2013(b)][/us/usc/t7/s2013/b]) for the purpose of purchasing nutritious and traditional foods, and when practicable, foods produced locally by Indian producers, for distribution to recipients of foods distributed under that program.
+
+>         “(B)  __Administration__  __.—__ 
+
+>         The Secretary may award a grant on a noncompetitive basis to 1 or more tribal organizations that have the administrative and financial capability to conduct a demonstration project, as determined by the Secretary.
+
+>         “(C)  __Consultation, technical assistance, and training__  __.—__ 
+
+>         During the implementation phase of the demonstration project, the Secretary shall consult with Indian tribes and provide outreach to Indian farmers, ranchers, and producers regarding the training and capacity to participate in the demonstration project.
+
+>         “(D) __Funding.—__ 
+
+>             “(i)  __Authorization of appropriations__  __.—__ 
+
+>             There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2014 through 2018.
+
+>             “(ii)  __Relationship to other authorities__  __.—__ 
+
+>             The funds and authorities provided under this subparagraph are in addition to any other funds or authorities the Secretary may have to carry out activities described in this paragraph.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2012a.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2014.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2013)
@@ -174,11 +240,15 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/111/296/s241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs241%2Fb%2F1
 [/us/stat/124/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3236
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F785
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s4030/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fb
+[/us/pl/113/79/s4004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4004%2Fa
 [/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
 [/us/pl/110/246/s4002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F1
 [/us/pl/110/246/s4115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F2
@@ -209,5 +279,12 @@
 [/us/stat/99/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1567
 [/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
 [/us/stat/91/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F958
+[/us/pl/113/79/s4004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4004%2Fb
+[/us/stat/128/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F785
+[/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
+[/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
+[/us/pl/88/525/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs18
+[/us/usc/t7/s2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2027
+[/us/usc/t7/s2013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2013%2Fb
 
 

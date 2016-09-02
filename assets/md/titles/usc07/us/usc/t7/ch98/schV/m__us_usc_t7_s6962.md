@@ -25,7 +25,7 @@
 
         (1) The Water Bank Act ([16 U.S.C. 1301][/us/usc/t16/s1301] et seq.).
 
-        (2) The forest land enhancement program under [section 2103 of title 16][/us/usc/t16/s2103].
+        (2) The forest land enhancement program under [section 2103 of title 16][/us/usc/t16/s2103]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (3) Title XII of the Food Security Act of 1985 ([16 U.S.C. 3801][/us/usc/t16/s3801] et seq.), except subchapter B of chapter 1 of subtitle D of such title \[[16 U.S.C. 3831][/us/usc/t16/s3831] et seq.\].
 
@@ -37,7 +37,7 @@
 
     (c) __Special concurrence requirements for certain functions__ 
 
-    In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) of this section and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3837–383][/us/usc/t16/s3837–383]7f), the Secretary shall—
+    In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) of this section and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3837–383][/us/usc/t16/s3837–383]7f),1 the Secretary shall—
 
         (1) acting on the recommendations of the Natural Resources Conservation Service, with the concurrence of the Consolidated Farm Service Agency, issue regulations to carry out such programs;
 
@@ -73,9 +73,13 @@
 
     The Water Bank Act, referred to in subsec. (b)(1), is [Pub. L. 91–559][/us/pl/91/559], Dec. 19, 1970, [84 Stat. 1468][/us/stat/84/1468], as amended, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 16][/us/usc/t16/s1301] and Tables.
 
+    [Section 2103 of title 16][/us/usc/t16/s2103], referred to in subsec. (b)(2), was repealed by [Pub. L. 113–79, title VIII, § 8001(a)][/us/pl/113/79/s8001/a], Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913].
+
     The Food Security Act of 1985, referred to in subsecs. (b)(3), (6) and (c), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§ 3801 et seq.) of Title 16. Subchapters B and C of chapter 1 of subtitle D of title XII of the Act are classified generally to subparts B (§ 3831 et seq.) and C (§ 3837 et seq.), respectively, of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
     The Farms for the Future Act of 1990, referred to in subsec. (b)(5), is [Pub. L. 101–624, title XIV][/us/pl/101/624], ch. 2, §§ 1465–1470B, Nov. 28, 1990, [104 Stat. 3616–3619][/us/stat/104/3616-3619], as amended, which is set out as a note under [section 4201 of this title][/us/usc/t7/s4201].
+
+    Subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985, referred to in subsec. (c), is subchapter C of chapter 1 of subtitle D of title XII of [Pub. L. 99–198][/us/pl/99/198], as added [Pub. L. 101–624, title XIV, § 1438][/us/pl/101/624/s1438], Nov. 28, 1990, [104 Stat. 3584][/us/stat/104/3584], which was classified generally to subpart C (§ 3837 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by [Pub. L. 113–79, title II, § 2703(a)][/us/pl/113/79/s2703/a], Feb. 7, 2014, [128 Stat. 767][/us/stat/128/767].
 
  __Codification__ 
 
@@ -129,12 +133,20 @@
 [/us/pl/91/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559
 [/us/stat/84/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1468
 [/us/usc/t16/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1301
+[/us/usc/t16/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103
+[/us/pl/113/79/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8001%2Fa
+[/us/stat/128/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F913
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3616-3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3616-3619
 [/us/usc/t7/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4201
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/101/624/s1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1438
+[/us/stat/104/3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3584
+[/us/pl/113/79/s2703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2703%2Fa
+[/us/stat/128/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F767
 [/us/pl/103/354/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs246
 [/us/pl/103/354/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs246
 [/us/usc/t16/s590e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590e

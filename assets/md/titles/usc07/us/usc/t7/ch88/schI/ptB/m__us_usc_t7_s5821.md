@@ -49,9 +49,9 @@
 
     (d) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the National Institute of Food and Agriculture.
+        There are authorized to be appropriated to carry out this section through the National Institute of Food and Agriculture $20,000,000 for each of fiscal years 2013 through 2018.
 
-([Pub. L. 101–624, title XVI, § 1627][/us/pl/101/624/s1627], Nov. 28, 1990, [104 Stat. 3739][/us/stat/104/3739]; [Pub. L. 104–127, title VIII, § 862(b)(2)][/us/pl/104/127/s862/b/2], Apr. 4, 1996, [110 Stat. 1174][/us/stat/110/1174]; [Pub. L. 110–234, title VII, § 7511(c)(16)][/us/pl/110/234/s7511/c/16], May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(16), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
+([Pub. L. 101–624, title XVI, § 1627][/us/pl/101/624/s1627], Nov. 28, 1990, [104 Stat. 3739][/us/stat/104/3739]; [Pub. L. 104–127, title VIII, § 862(b)(2)][/us/pl/104/127/s862/b/2], Apr. 4, 1996, [110 Stat. 1174][/us/stat/110/1174]; [Pub. L. 110–234, title VII, § 7511(c)(16)][/us/pl/110/234/s7511/c/16], May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(16), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030; [Pub. L. 113–79, title VII, § 7202][/us/pl/113/79/s7202], Feb. 7, 2014, [128 Stat. 880][/us/stat/128/880].)
 
  __References in Text__ 
 
@@ -64,6 +64,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79] amended subsec. (d) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the National Institute of Food and Agriculture.”
 
     2008—Subsec. (d). [Pub. L. 110–246, § 7511(c)(16)][/us/pl/110/246/s7511/c/16], substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
@@ -90,6 +92,8 @@
 [/us/stat/122/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1269
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7202
+[/us/stat/128/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F880
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3733
 [/us/usc/t7/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4701
@@ -100,6 +104,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7511/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F16
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s5881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5881

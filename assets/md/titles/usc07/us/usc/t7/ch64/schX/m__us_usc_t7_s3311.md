@@ -17,17 +17,17 @@
 
     (a) __Existing programs__ 
 
-        Notwithstanding any authorization for appropriations for agricultural research in any Act enacted prior to September 29, 1977, there are hereby authorized to be appropriated for the purposes of carrying out the provisions of this chapter, except sections 3152, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  and 2669 of this title, and the competitive grants program provided for in [section 450i of this title][/us/usc/t7/s450i], and except that the authorization for moneys provided under the Act of March 2, 1887 ([24 Stat. 440–442][/us/stat/24/440-442], as amended; [7 U.S.C. 361a–361i][/us/usc/t7/s361a–361i]), is excluded and is provided for in subsection (b) of this section, such sums as may be necessary for each of fiscal years 1991 through 2012.
+        Notwithstanding any authorization for appropriations for agricultural research in any Act enacted prior to September 29, 1977, there are hereby authorized to be appropriated for the purposes of carrying out the provisions of this chapter, except sections 3152, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  and 2669 of this title, and the competitive grants program provided for in [section 450i of this title][/us/usc/t7/s450i], and except that the authorization for moneys provided under the Act of March 2, 1887 ([24 Stat. 440–442][/us/stat/24/440-442], as amended; [7 U.S.C. 361a–361i][/us/usc/t7/s361a–361i]), is excluded and is provided for in subsection (b) of this section, such sums as may be necessary for each of fiscal years 1991 through 2018.
 
     (b) __Agricultural research at State agricultural experiment stations__ 
 
-        Notwithstanding any authorization for appropriations for agricultural research at State agricultural experiment stations in any Act enacted prior to September 29, 1977, there are authorized to be appropriated for the purpose of conducting agricultural research at State agricultural experiment stations pursuant to the Act of March 2, 1887 ([24 Stat. 440–442][/us/stat/24/440-442], as amended; [7 U.S.C. 361a–361i][/us/usc/t7/s361a–361i]), such sums as may be necessary for each of fiscal years 1991 through 2012.
+        Notwithstanding any authorization for appropriations for agricultural research at State agricultural experiment stations in any Act enacted prior to September 29, 1977, there are authorized to be appropriated for the purpose of conducting agricultural research at State agricultural experiment stations pursuant to the Act of March 2, 1887 ([24 Stat. 440–442][/us/stat/24/440-442], as amended; [7 U.S.C. 361a–361i][/us/usc/t7/s361a–361i]), such sums as may be necessary for each of fiscal years 1991 through 2018.
 
     (c) __Funding requirements for programs__ 
 
-        Notwithstanding any other provision of law effective beginning October 1, 1983, not less than 25 per centum of the total funds appropriated to the Secretary in any fiscal year for the conduct of the cooperative research program provided for under the Act of March 2, 1887, commonly known as the Hatch Act ([7 U.S.C. 361a][/us/usc/t7/s361a] et seq.); the cooperative forestry research program provided for under the Act of October 10, 1962, commonly known as the McIntire-Stennis Act ([16 U.S.C. 582a][/us/usc/t16/s582a] et seq.); the special and competitive grants programs provided for in sections 2(b) and 2(c) of the Act of August 4, 1965 ([7 U.S.C. 450i][/us/usc/t7/s450i]); the animal health research program provided for under sections 3195 and 3196 of this title; the native latex research program provided for in the Native Latex Commercialization and Economic Development Act of 1978 ([7 U.S.C. 178][/us/usc/t7/s178] et seq.); and the research provided for under various statutes for which funds are appropriated under the Agricultural Research heading or a successor heading, shall be appropriated for research at State agricultural experiment stations pursuant to the provision of the Act of March 2, 1887.
+        Notwithstanding any other provision of law effective beginning October 1, 1983, not less than 25 per centum of the total funds appropriated to the Secretary in any fiscal year for the conduct of the cooperative research program provided for under the Act of March 2, 1887, commonly known as the Hatch Act ([7 U.S.C. 361a][/us/usc/t7/s361a] et seq.); the cooperative forestry research program provided for under the Act of October 10, 1962, commonly known as the McIntire-Stennis Act ([16 U.S.C. 582a][/us/usc/t16/s582a] et seq.); the special and competitive grants programs provided for in sections 2(b) and 2(c) of the Act of August 4, 1965 ([7 U.S.C. 450i][/us/usc/t7/s450i]); the animal health research program provided for under sections 3195(a) and 3196 of this title; the native latex research program provided for in the Native Latex Commercialization and Economic Development Act of 1978 ([7 U.S.C. 178][/us/usc/t7/s178] et seq.); and the research provided for under various statutes for which funds are appropriated under the Agricultural Research heading or a successor heading, shall be appropriated for research at State agricultural experiment stations pursuant to the provision of the Act of March 2, 1887.
 
-([Pub. L. 95–113, title XIV, § 1463][/us/pl/95/113/s1463], Sept. 29, 1977, [91 Stat. 1017][/us/stat/91/1017]; [Pub. L. 97–98, title XIV, § 1437][/us/pl/97/98/s1437], Dec. 22, 1981, [95 Stat. 1314][/us/stat/95/1314]; [Pub. L. 99–198, title XIV, § 1422][/us/pl/99/198/s1422], Dec. 23, 1985, [99 Stat. 1552][/us/stat/99/1552]; [Pub. L. 101–624, title XVI, § 1601(b)(3)][/us/pl/101/624/s1601/b/3], Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 102–237, title IV, § 402(12)][/us/pl/102/237/s402/12], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII][/us/pl/104/127], §§ 817, 884(d), Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167], 1179; [Pub. L. 105–185, title III, § 301(a)(12)][/us/pl/105/185/s301/a/12], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7113][/us/pl/107/171/s7113], May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7110(b), 7134, May 22, 2008, [122 Stat. 1219][/us/stat/122/1219], 1228; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7110(b), 7134, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1980, 1989.)
+([Pub. L. 95–113, title XIV, § 1463][/us/pl/95/113/s1463], Sept. 29, 1977, [91 Stat. 1017][/us/stat/91/1017]; [Pub. L. 97–98, title XIV, § 1437][/us/pl/97/98/s1437], Dec. 22, 1981, [95 Stat. 1314][/us/stat/95/1314]; [Pub. L. 99–198, title XIV, § 1422][/us/pl/99/198/s1422], Dec. 23, 1985, [99 Stat. 1552][/us/stat/99/1552]; [Pub. L. 101–624, title XVI, § 1601(b)(3)][/us/pl/101/624/s1601/b/3], Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 102–237, title IV, § 402(12)][/us/pl/102/237/s402/12], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII][/us/pl/104/127], §§ 817, 884(d), Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167], 1179; [Pub. L. 105–185, title III, § 301(a)(12)][/us/pl/105/185/s301/a/12], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7113][/us/pl/107/171/s7113], May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7110(b), 7134, May 22, 2008, [122 Stat. 1219][/us/stat/122/1219], 1228; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7110(b), 7134, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1980, 1989; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7111(b)(4), 7119, Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874], 875.)
 
  __References in Text__ 
 
@@ -44,6 +44,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsecs. (a), (b). [Pub. L. 113–79, § 7119][/us/pl/113/79/s7119], substituted “2018” for “2012”.
+
+    Subsec. (c). [Pub. L. 113–79, § 7111(b)(4)][/us/pl/113/79/s7111/b/4], substituted “sections 3195(a) and 3196” for “sections 3195 and 3196”.
 
     2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], §§ 7110(b), 7134, struck out “3154,” after “3152,” and substituted “2012” for “2007”.
 
@@ -129,6 +133,8 @@
 [/us/stat/122/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1219
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
 [/us/act/1887-03-02/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314
 [/us/stat/24/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F440
@@ -145,6 +151,8 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s7119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7119
+[/us/pl/113/79/s7111/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7111%2Fb%2F4
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s7134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7134
 [/us/pl/107/171/s7113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7113%2F1

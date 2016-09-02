@@ -15,31 +15,19 @@
 
 ## § 1949. Graduation of borrowers with operating loans or guarantees to private commercial credit
 
-    (a) __Graduation plan__ 
+    The Secretary shall establish a plan, in coordination with activities under sections 2006a, 2006b, 2006c, and 2006d of this title, to encourage each borrower with an outstanding loan under this subchapter or with respect to whom there is an outstanding guarantee under this subchapter to graduate to private commercial or other sources of credit.
 
-        The Secretary shall establish a plan, in coordination with activities under sections 2006a, 2006b, 2006c, and 2006d of this title, to encourage each borrower with an outstanding loan under this subchapter or with respect to whom there is an outstanding guarantee under this subchapter to graduate to private commercial or other sources of credit.
-
-    (b) __Limitation on period borrowers are eligible for guaranteed assistance__ 
-
-        (1) __General rule__ 
-
-            Subject to paragraph (2), the Secretary shall not guarantee a loan under this subchapter for a borrower for any year after the 15th year that a loan is made to, or a guarantee is provided with respect to, the borrower under this subchapter.
-
-        (2) __Transition rule__ 
-
-            If, as of October 28, 1992, a farmer or rancher has received a direct or guaranteed operating loan under this subchapter during each of 10 or more previous years, the borrower shall be eligible to receive a guaranteed operating loan under this subchapter during 5 additional years after October 28, 1992.
-
-([Pub. L. 87–128, title III, § 319][/us/pl/87/128/s319], as added [Pub. L. 102–554, § 9][/us/pl/102/554/s9], Oct. 28, 1992, [106 Stat. 4150][/us/stat/106/4150]; amended [Pub. L. 104–127, title VI, § 617][/us/pl/104/127/s617], Apr. 4, 1996, [110 Stat. 1090][/us/stat/110/1090].)
+([Pub. L. 87–128, title III, § 319][/us/pl/87/128/s319], as added [Pub. L. 102–554, § 9][/us/pl/102/554/s9], Oct. 28, 1992, [106 Stat. 4150][/us/stat/106/4150]; amended [Pub. L. 104–127, title VI, § 617][/us/pl/104/127/s617], Apr. 4, 1996, [110 Stat. 1090][/us/stat/110/1090]; [Pub. L. 113–79, title V, § 5107][/us/pl/113/79/s5107], Feb. 7, 2014, [128 Stat. 838][/us/stat/128/838].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] struck out subsec. (a) designation and heading before “The Secretary” and struck out subsec. (b) which related to limitation on period borrowers were eligible for guaranteed assistance under this subchapter and contained transition rule.
 
     1996—Subsec. (b). [Pub. L. 104–127][/us/pl/104/127] added subsec. (b) and struck out former subsec. (b) which provided for limitation on period for which borrowers were eligible for assistance under this subchapter and contained transition rule.
 
  __Suspension of Limitation on Period for Which Borrowers Are Eligible for Guaranteed Assistance__ 
 
-[Pub. L. 107–171, title V, § 5102][/us/pl/107/171/s5102], May 13, 2002, [116 Stat. 343][/us/stat/116/343], as amended by [Pub. L. 109–467, § 1][/us/pl/109/467/s1], Dec. 22, 2006, [120 Stat. 3485][/us/stat/120/3485]; [Pub. L. 110–234, title V, § 5103][/us/pl/110/234/s5103], May 22, 2008, [122 Stat. 1146][/us/stat/122/1146]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5103, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1908, provided that: 
-
-> “During the period beginning January 1, 2002, and ending December 31, 2010, section 319(b) of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1949(b)][/us/usc/t7/s1949/b]) shall have no force or effect.”
+    [Pub. L. 107–171, title V, § 5102][/us/pl/107/171/s5102], May 13, 2002, [116 Stat. 343][/us/stat/116/343], as amended by [Pub. L. 109–467, § 1][/us/pl/109/467/s1], Dec. 22, 2006, [120 Stat. 3485][/us/stat/120/3485]; [Pub. L. 110–234, title V, § 5103][/us/pl/110/234/s5103], May 22, 2008, [122 Stat. 1146][/us/stat/122/1146]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5103, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1908, provided for the suspension of former [7 U.S.C. 1949(b)][/us/usc/t7/s1949/b] limitation on period borrowers were eligible for guaranteed assistance, beginning Jan. 1, 2002, and ending Dec. 31, 2010.
 
 ----------
 
@@ -53,6 +41,9 @@
 [/us/stat/106/4150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4150
 [/us/pl/104/127/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs617
 [/us/stat/110/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1090
+[/us/pl/113/79/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5107
+[/us/stat/128/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F838
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/107/171/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5102
 [/us/stat/116/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F343

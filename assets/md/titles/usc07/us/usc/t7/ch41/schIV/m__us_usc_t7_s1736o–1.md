@@ -81,7 +81,7 @@
 
     (d) __General authorities__ 
 
-    The Secretary shall to  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “to” probably should not appear. </sup></sup>  —
+    The Secretary shall—
 
         (1) implement the program established under this section;
 
@@ -171,19 +171,23 @@
 
         (2) __Authorization of appropriations__ 
 
-            There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
+            There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2018.
 
         (3) __Administrative expenses__ 
 
             Funds made available to carry out this section may be used to pay the administrative expenses of the Department of Agriculture or any other Federal agency assisting in the implementation of this section.
 
-([Pub. L. 107–171, title III, § 3107][/us/pl/107/171/s3107], May 13, 2002, [116 Stat. 295][/us/stat/116/295]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3001(b)(1)(A), (2)(G), 3106, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1833.)
+([Pub. L. 107–171, title III, § 3107][/us/pl/107/171/s3107], May 13, 2002, [116 Stat. 295][/us/stat/116/295]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3001(b)(1)(A), (2)(G), 3106, June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1833; [Pub. L. 113–79, title III, § 3204][/us/pl/113/79/s3204], Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780].)
 
  __Codification__ 
 
     Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Food for Peace Act which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79, § 3204(b)][/us/pl/113/79/s3204/b], struck out “to” after “shall” in introductory provisions.
+
+    Subsec. (l)(2). [Pub. L. 113–79, § 3204(a)][/us/pl/113/79/s3204/a], substituted “2018” for “2012”.
 
     2008—Subsecs. (b), (c)(2)(B). [Pub. L. 110–246, § 3106(1)][/us/pl/110/246/s3106/1], substituted “Secretary” for “President” in introductory provisions.
 
@@ -239,6 +243,10 @@
 [/us/stat/116/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F295
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
+[/us/pl/113/79/s3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3204
+[/us/stat/128/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F780
+[/us/pl/113/79/s3204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3204%2Fb
+[/us/pl/113/79/s3204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3204%2Fa
 [/us/pl/110/246/s3106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F1
 [/us/pl/110/246/s3106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F2
 [/us/pl/110/246/s3106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3106%2F1

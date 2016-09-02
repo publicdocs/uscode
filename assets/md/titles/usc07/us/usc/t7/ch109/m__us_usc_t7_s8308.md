@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8307.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8309.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8308)
+[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8307.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8308a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8308)
 
 ## § 8308. Detection, control, and eradication of diseases and pests
 
@@ -55,9 +55,25 @@
 
     For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __National Poultry Improvement Plan__ 
+
+[Pub. L. 113–79, title XII, § 12107][/us/pl/113/79/s12107], Feb. 7, 2014, [128 Stat. 982][/us/stat/128/982], provided that: 
+
+> “The Secretary of Agriculture shall ensure that the Department of Agriculture continues to administer the diagnostic surveillance program for H5/H7 low pathogenic avian influenza with respect to commercial poultry under section 146.14 of title 9, Code of Federal Regulations (or a successor regulation), without amending the regulations in section 147.43 of title 9, Code of Federal Regulations (as in effect on the date of the enactment of this Act \[Feb. 7, 2014\]), with respect to the governance of the General Conference Committee established under such section. The Secretary of Agriculture shall maintain—
+
+>     “(1)
+
+>      the operations of the General Conference Committee—
+
+>         “(A) in the physical location at which the Committee was located on the date of the enactment of this Act; and
+
+>         “(B) with the organizational structure within the Department of Agriculture in effect as of such date; and
+
+>     “(2) the funding levels for the National Poultry Improvement Plan for Commercial Poultry (established under part 146 of title 9, Code of Federal Regulations, or a successor regulation) at the fiscal year 2013 funding levels for the Plan.”
+
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8307.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8309.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8308)
+[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8307.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8308a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8308)
 
 ----------
 ----------
@@ -82,5 +98,7 @@
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/113/79/s12107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12107
+[/us/stat/128/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F982
 
 

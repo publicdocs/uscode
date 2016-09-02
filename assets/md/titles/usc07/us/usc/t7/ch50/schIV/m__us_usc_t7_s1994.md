@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-        The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in [section 1929 of this title][/us/usc/t7/s1929] for not more than $4,226,000,000 for each of fiscal years 2008 through 2012, of which, for each fiscal year—
+        The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in [section 1929 of this title][/us/usc/t7/s1929] for not more than $4,226,000,000 for each of fiscal years 2008 through 2018, of which, for each fiscal year—
 
             (A)
 
@@ -63,7 +63,7 @@
 
                     (II) for fiscal year 1999, 30 percent; and
 
-                    (III) for each of fiscal years 2008 through 2012, an amount that is not less than 50 percent of the total amount.
+                    (III) for each of fiscal years 2008 through 2018, an amount that is not less than 50 percent.
 
                 (iii) __Funds reserved until September 1__ 
 
@@ -125,7 +125,7 @@
 
         (2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
 
-([Pub. L. 87–128, title III, § 346][/us/pl/87/128/s346], as added [Pub. L. 95–334, title I, § 125][/us/pl/95/334/s125], Aug. 4, 1978, [92 Stat. 428][/us/stat/92/428]; amended [Pub. L. 96–438, § 4][/us/pl/96/438/s4], Oct. 13, 1980, [94 Stat. 1876][/us/stat/94/1876]; [Pub. L. 97–35, title I, § 164][/us/pl/97/35/s164], Aug. 13, 1981, [95 Stat. 379][/us/stat/95/379]; [Pub. L. 98–258, title VI, § 607][/us/pl/98/258/s607], Apr. 10, 1984, [98 Stat. 140][/us/stat/98/140]; [Pub. L. 99–198, title XIII, § 1317][/us/pl/99/198/s1317], Dec. 23, 1985, [99 Stat. 1529][/us/stat/99/1529]; [Pub. L. 101–508, title I, § 1202(a)][/us/pl/101/508/s1202/a], Nov. 5, 1990, [104 Stat. 1388–9][/us/stat/104/1388-9]; [Pub. L. 101–624, title XXIII, § 2388(i)][/us/pl/101/624/s2388/i], Nov. 28, 1990, [104 Stat. 4053][/us/stat/104/4053]; [Pub. L. 102–237, title VII][/us/pl/102/237], §§ 701(h)(1)(F), 702(i), Dec. 13, 1991, [105 Stat. 1880][/us/stat/105/1880], 1881; [Pub. L. 102–554, § 20][/us/pl/102/554/s20], Oct. 28, 1992, [106 Stat. 4159][/us/stat/106/4159]; [Pub. L. 104–127, title VI, § 641][/us/pl/104/127/s641], Apr. 4, 1996, [110 Stat. 1098][/us/stat/110/1098]; [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5311, 5312, May 13, 2002, [116 Stat. 346][/us/stat/116/346], 347; [Pub. L. 110–234, title V][/us/pl/110/234], §§ 5302(b), 5303, May 22, 2008, [122 Stat. 1152][/us/stat/122/1152]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, §§ 5302(b), 5303, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1913, 1914.)
+([Pub. L. 87–128, title III, § 346][/us/pl/87/128/s346], as added [Pub. L. 95–334, title I, § 125][/us/pl/95/334/s125], Aug. 4, 1978, [92 Stat. 428][/us/stat/92/428]; amended [Pub. L. 96–438, § 4][/us/pl/96/438/s4], Oct. 13, 1980, [94 Stat. 1876][/us/stat/94/1876]; [Pub. L. 97–35, title I, § 164][/us/pl/97/35/s164], Aug. 13, 1981, [95 Stat. 379][/us/stat/95/379]; [Pub. L. 98–258, title VI, § 607][/us/pl/98/258/s607], Apr. 10, 1984, [98 Stat. 140][/us/stat/98/140]; [Pub. L. 99–198, title XIII, § 1317][/us/pl/99/198/s1317], Dec. 23, 1985, [99 Stat. 1529][/us/stat/99/1529]; [Pub. L. 101–508, title I, § 1202(a)][/us/pl/101/508/s1202/a], Nov. 5, 1990, [104 Stat. 1388–9][/us/stat/104/1388-9]; [Pub. L. 101–624, title XXIII, § 2388(i)][/us/pl/101/624/s2388/i], Nov. 28, 1990, [104 Stat. 4053][/us/stat/104/4053]; [Pub. L. 102–237, title VII][/us/pl/102/237], §§ 701(h)(1)(F), 702(i), Dec. 13, 1991, [105 Stat. 1880][/us/stat/105/1880], 1881; [Pub. L. 102–554, § 20][/us/pl/102/554/s20], Oct. 28, 1992, [106 Stat. 4159][/us/stat/106/4159]; [Pub. L. 104–127, title VI, § 641][/us/pl/104/127/s641], Apr. 4, 1996, [110 Stat. 1098][/us/stat/110/1098]; [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5311, 5312, May 13, 2002, [116 Stat. 346][/us/stat/116/346], 347; [Pub. L. 110–234, title V][/us/pl/110/234], §§ 5302(b), 5303, May 22, 2008, [122 Stat. 1152][/us/stat/122/1152]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, §§ 5302(b), 5303, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1913, 1914; [Pub. L. 113–79, title V][/us/pl/113/79], §§ 5304, 5305, Feb. 7, 2014, [128 Stat. 840][/us/stat/128/840].)
 
  __References in Text__ 
 
@@ -136,6 +136,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–79, § 5304][/us/pl/113/79/s5304], substituted “2018” for “2012” in introductory provisions.
+
+    Subsec. (b)(2)(A)(ii)(III). [Pub. L. 113–79, § 5305][/us/pl/113/79/s5305], substituted “2018” for “2012” and struck out “of the total amount” before period at end.
 
     2008—Subsec. (b)(1). [Pub. L. 110–246, § 5303(1)][/us/pl/110/246/s5303/1], substituted “$4,226,000,000 for each of fiscal years 2008 through 2012” for “$3,796,000,000 for each of fiscal years 2003 through 2007” in introductory provisions.
 
@@ -241,11 +245,15 @@
 [/us/stat/122/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1152
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F840
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5304
+[/us/pl/113/79/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5305
 [/us/pl/110/246/s5303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5303%2F1
 [/us/pl/110/246/s5303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5303%2F2
 [/us/pl/110/246/s5302/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5302%2Fb%2F1%2FA

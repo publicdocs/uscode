@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8106.md) | [Next](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8108.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8107)
+[Previous](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8106.md) | [Next](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8107a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8107)
 
 ## § 8107. Rural Energy for America Program
 
@@ -41,9 +41,11 @@
 
             (B) a land-grant college or university or other institution of higher education;
 
-            (C) a rural electric cooperative or public power entity; and
+            (C) a rural electric cooperative or public power entity;
 
-            (D) any other similar entity, as determined by the Secretary.
+            (D) a council (as defined in [section 3451 of title 16][/us/usc/t16/s3451]); and
+
+            (E) any other similar entity, as determined by the Secretary.
 
         (3) __Selection criteria__ 
 
@@ -111,21 +113,7 @@
 
             (G) other appropriate factors.
 
-        (3) __Feasibility studies__ 
-
-            (A) __In general__ 
-
-                The Secretary may provide assistance in the form of grants to an agricultural producer or rural small business to conduct a feasibility study for a project for which assistance may be provided under this subsection.
-
-            (B) __Limitation__ 
-
-                The Secretary shall use not more than 10 percent of the funds made available to carry out this subsection to provide assistance described in subparagraph (A).
-
-            (C) __Avoidance of duplicative assistance__ 
-
-                An entity shall be ineligible to receive assistance to carry out a feasibility study for a project under this paragraph if the entity has received other Federal or State assistance for a feasibility study for the project.
-
-        (4) __Limits__ 
+        (3) __Limits__ 
 
             (A) __Grants__ 
 
@@ -138,6 +126,28 @@
             (C) __Maximum amount of combined grant and loan guarantee__ 
 
                 The combined amount of a grant and loan guaranteed under this subsection shall not exceed 75 percent of the cost of the activity funded under this subsection.
+
+        (4) __Tiered application process__ 
+
+            (A) __In general__ 
+
+                In providing loan guarantees and grants under this subsection, the Secretary shall use a 3-tiered application process that reflects the size of proposed projects in accordance with this paragraph.
+
+            (B) __Tier 1__ 
+
+                The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is not more than $80,000.
+
+            (C) __Tier 2__ 
+
+                The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is greater than $80,000 but less than $200,000.
+
+            (D) __Tier 3__ 
+
+                The Secretary shall establish a separate application process for projects for which the cost of the activity funded under this subsection is equal to or greater than $200,000.
+
+            (E) __Application process__ 
+
+                The Secretary shall establish an application, evaluation, and oversight process that is the most simplified for tier I projects and more comprehensive for each subsequent tier.
 
     (d) __Outreach__ 
 
@@ -167,9 +177,11 @@
 
             (B) $60,000,000 for fiscal year 2010;
 
-            (C) $70,000,000 for fiscal year 2011; and
+            (C) $70,000,000 for fiscal year 2011;
 
-            (D) $70,000,000 for fiscal year 2012.
+            (D) $70,000,000 for fiscal year 2012; and
+
+            (E) $50,000,000 for fiscal year 2014 and each fiscal year thereafter.
 
         (2) __Audit and technical assistance funding__ 
 
@@ -183,9 +195,9 @@
 
         (3) __Discretionary funding__ 
 
-            In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2013.
+            In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 107–171, title IX, § 9007][/us/pl/107/171/s9007], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1315][/us/stat/122/1315], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2077; amended [Pub. L. 112–240, title VII, § 701(f)(6)][/us/pl/112/240/s701/f/6], Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365].)
+([Pub. L. 107–171, title IX, § 9007][/us/pl/107/171/s9007], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1315][/us/stat/122/1315], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2077; amended [Pub. L. 112–240, title VII, § 701(f)(6)][/us/pl/112/240/s701/f/6], Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX, § 9007][/us/pl/113/79/s9007], Feb. 7, 2014, [128 Stat. 930][/us/stat/128/930].)
 
  __References in Text__ 
 
@@ -201,6 +213,14 @@
 
  __Amendments__ 
 
+    2014—Subsec. (b)(2)(D), (E). [Pub. L. 113–79, § 9007(a)(1)][/us/pl/113/79/s9007/a/1], added subpar. (D) and redesignated former subpar. (D) as (E).
+
+    Subsec. (c)(3), (4). [Pub. L. 113–79, § 9007(a)(2)][/us/pl/113/79/s9007/a/2], added par. (4), redesignated former par. (4) as (3), and struck out former par. (3) which related to grants to agricultural producers or rural small businesses to conduct feasibility studies.
+
+    Subsec. (g)(1)(E). [Pub. L. 113–79, § 9007(b)(1)][/us/pl/113/79/s9007/b/1], added subpar. (E).
+
+    Subsec. (g)(3). [Pub. L. 113–79, § 9007(b)(2)][/us/pl/113/79/s9007/b/2], substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$25,000,000 for each of fiscal years 2009 through 2013”.
+
     2013—Subsec. (g)(3). [Pub. L. 112–240][/us/pl/112/240] substituted “2013” for “2012”.
 
  __Effective Date of 2013 Amendment__ 
@@ -209,11 +229,12 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8106.md) | [Next](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8108.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8107)
+[Previous](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8106.md) | [Next](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8107a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8107)
 
 ----------
 ----------
 
+[/us/usc/t16/s3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3451
 [/us/pl/107/171/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9007
 [/us/pl/110/234/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs9001%2Fa
 [/us/stat/122/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1315
@@ -221,6 +242,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/240/s701/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Ff%2F6
 [/us/stat/126/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2365
+[/us/pl/113/79/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9007
+[/us/stat/128/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F930
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -229,6 +252,10 @@
 [/us/pl/107/171/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9007
 [/us/stat/116/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F483
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79/s9007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9007%2Fa%2F1
+[/us/pl/113/79/s9007/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9007%2Fa%2F2
+[/us/pl/113/79/s9007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9007%2Fb%2F1
+[/us/pl/113/79/s9007/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9007%2Fb%2F2
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj

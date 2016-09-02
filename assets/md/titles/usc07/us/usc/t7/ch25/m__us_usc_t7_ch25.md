@@ -51,7 +51,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs584" data-uslm-ref="/us/usc/t7/s584">584.</a>  </td>
 
-    <td> Shipments of less than carload lots; exemptions.  </td>
+    <td> Exemptions.  </td>
 
   </tr>
 

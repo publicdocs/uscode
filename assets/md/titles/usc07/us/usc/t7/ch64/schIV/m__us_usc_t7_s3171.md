@@ -31,59 +31,7 @@
 
  __Nutrition Information and Awareness Pilot Program__ 
 
-[Pub. L. 107–171, title IV, § 4403][/us/pl/107/171/s4403], May 13, 2002, [116 Stat. 334][/us/stat/116/334], as amended by [Pub. L. 110–234, title IV, § 4406(c)(2)][/us/pl/110/234/s4406/c/2], May 22, 2008, [122 Stat. 1142][/us/stat/122/1142]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4406(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1903, provided that:
-
->     “(a)  __Establishment__  __.—__ 
-
->     The Secretary of Agriculture may establish, in not more than 5 States, for a period not to exceed 4 years for each participating State, a pilot program to increase the domestic consumption of fresh fruits and vegetables.
-
->     “(b) __Purpose.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Subject to paragraph (2), the purpose of the program shall be to provide funds to States solely for the purpose of assisting eligible public and private sector entities with cost-share assistance to carry out demonstration projects—
-
->             “(A) to increase fruit and vegetable consumption; and
-
->             “(B) to convey related health promotion messages.
-
->         “(2)  __Limitation__  __.—__ 
-
->         Funds made available to a State under the program shall not be used to disparage any agricultural commodity.
-
->     “(c) __Selection of States.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         In selecting States to participate in the program, the Secretary shall take into consideration, with respect to projects and activities proposed to be carried out under the program—
-
->             “(A) experience in carrying out similar projects or activities;
-
->             “(B) innovative approaches; and
-
->             “(C) the ability of the State to promote and track increases in levels of fruit and vegetable consumption.
-
->         “(2)  __Enhancement of existing state programs__  __.—__ 
-
->         The Secretary may use the pilot program to enhance existing State programs that are consistent with the purpose of the pilot program specified in subsection (b).
-
->     “(d) __Eligible Public and Private Sector Entities.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         A participating State shall establish eligibility criteria under which the State may select public and private sector entities to carry out demonstration projects under the program.
-
->         “(2)  __Limitation__  __.—__ 
-
->         No funds made available to States under the program shall be provided by a State to any foreign for-profit corporation.
-
->     “(e)  __Federal Share__  __.—__ 
-
->     The Federal share of the cost of any project or activity carried out using funds provided under this section shall be 50 percent.
-
->     “(f)  __Authorization of Appropriations__  __.—__ 
-
->     There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2002 through 2012.”
+    [Pub. L. 107–171, title IV, § 4403][/us/pl/107/171/s4403], May 13, 2002, [116 Stat. 334][/us/stat/116/334], as amended by [Pub. L. 110–234, title IV, § 4406(c)(2)][/us/pl/110/234/s4406/c/2], May 22, 2008, [122 Stat. 1142][/us/stat/122/1142]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4406(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1903, directed the Secretary of Agriculture to establish, in not more than 5 States, for a period not to exceed 4 years for each participating State, a pilot program to increase the domestic consumption of fresh fruits and vegetables, prior to repeal by [Pub. L. 113–79, title IV, § 4210][/us/pl/113/79/s4210], Feb. 7, 2014, [128 Stat. 830][/us/stat/128/830].
 
 ----------
 
@@ -102,5 +50,7 @@
 [/us/stat/122/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1142
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4210
+[/us/stat/128/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F830
 
 

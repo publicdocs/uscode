@@ -31,13 +31,75 @@
 
         (2) the average of such index (as so defined) for the 12-month period ending on August 31, 1996.
 
-([Pub. L. 87–128, title III, § 313][/us/pl/87/128/s313], Aug. 8, 1961, [75 Stat. 310][/us/stat/75/310]; [Pub. L. 90–488, § 9][/us/pl/90/488/s9], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I, § 122][/us/pl/92/419/s122], Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–334, title I, § 116][/us/pl/95/334/s116], Aug. 4, 1978, [92 Stat. 426][/us/stat/92/426]; [Pub. L. 98–258, title VI, § 604(a)][/us/pl/98/258/s604/a], Apr. 10, 1984, [98 Stat. 139][/us/stat/98/139]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 806(b)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 110–234, title V, § 5102][/us/pl/110/234/s5102], May 22, 2008, [122 Stat. 1146][/us/stat/122/1146]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1908.)
+    (c) __Microloans__ 
+
+        (1) __In general__ 
+
+            Subject to paragraph (2), the Secretary may establish a program to make or guarantee microloans.
+
+        (2) __Limitations__ 
+
+            The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans made under this chapter to any 1 borrower to exceed $50,000.
+
+        (3) __Applications__ 
+
+            To the maximum extent practicable, the Secretary shall limit the administrative burdens and streamline the application and approval process for microloans under this subsection.
+
+        (4) __Cooperative lending pilot projects__ 
+
+            (A) __In general__ 
+
+            Subject to subparagraph (B), during each of the 2014 through 2018 fiscal years, the Secretary may carry out a pilot project to make loans to community development financial institutions, as the Secretary determines appropriate—
+
+                (i) to make or guarantee microloans consistent with the terms provided under this subsection; and
+
+                (ii) to provide business, financial, marketing, and credit management services to microloan borrowers.
+
+            (B) __Requirements__ 
+
+            Prior to making a loan to an institution described in subparagraph (A), the Secretary shall—
+
+                (i)
+
+                 review and approve—
+
+                    (I) the loan loss reserve fund for microloans established by the institution; and
+
+                    (II) the underwriting standards for microloans of the institution; and
+
+                (ii) establish such other requirements for making a loan to the institution as the Secretary determines necessary.
+
+            (C) __Eligibility__ 
+
+            To be eligible for a loan under subparagraph (A), an institution described in subparagraph (A) shall, as determined by the Secretary—
+
+                (i) have the legal authority necessary to carry out the actions described in subparagraph (A);
+
+                (ii) have a proven track record of successfully assisting agricultural borrowers; and
+
+                (iii) have the services of a staff with appropriate loan making and servicing expertise.
+
+            (D) __Oversight__ 
+
+                Not less often than annually, on a date determined by the Secretary, an institution that has a loan under this paragraph shall provide to the Secretary such information as the Secretary may require to ensure that the services provided by the institution are serving the purposes of this subsection.
+
+            (E) __Limitation__ 
+
+                The Secretary shall not make more than $10,000,000 in loans under this paragraph in any fiscal year.
+
+([Pub. L. 87–128, title III, § 313][/us/pl/87/128/s313], Aug. 8, 1961, [75 Stat. 310][/us/stat/75/310]; [Pub. L. 90–488, § 9][/us/pl/90/488/s9], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I, § 122][/us/pl/92/419/s122], Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–334, title I, § 116][/us/pl/95/334/s116], Aug. 4, 1978, [92 Stat. 426][/us/stat/92/426]; [Pub. L. 98–258, title VI, § 604(a)][/us/pl/98/258/s604/a], Apr. 10, 1984, [98 Stat. 139][/us/stat/98/139]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 806(b)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 110–234, title V, § 5102][/us/pl/110/234/s5102], May 22, 2008, [122 Stat. 1146][/us/stat/122/1146]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5102, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1908; [Pub. L. 113–79, title V, § 5106(a)][/us/pl/113/79/s5106/a], Feb. 7, 2014, [128 Stat. 837][/us/stat/128/837].)
+
+ __References in Text__ 
+
+    For definition of “this chapter”, referred to in subsec. (c), see note set out under [section 1921 of this title][/us/usc/t7/s1921].
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–79][/us/pl/113/79] added subsec. (c).
 
     2008—Subsec. (a)(1). [Pub. L. 110–246, § 5102][/us/pl/110/246/s5102], substituted “$300,000” for “$200,000”.
 
@@ -79,10 +141,14 @@
 [/us/stat/122/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1146
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s5106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5106%2Fa
+[/us/stat/128/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F837
+[/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5102
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t7/s1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1925

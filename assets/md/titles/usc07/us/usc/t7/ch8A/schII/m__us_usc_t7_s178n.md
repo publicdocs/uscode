@@ -17,7 +17,11 @@
 
     (a) __Authorization of appropriations to Secretary of Agriculture__ 
 
-        There are authorized to be appropriated to the Secretary of Agriculture such sums as are necessary to carry out this subchapter in each of the fiscal years 1991 through 2012.
+    There are authorized to be appropriated to the Secretary of Agriculture to carry out this subchapter—
+
+        (1) such sums as are necessary for each of fiscal years 1991 through 2013; and
+
+        (2) $2,000,000 for each of fiscal years 2014 through 2018.
 
     (b) __Administration and management__ 
 
@@ -31,13 +35,15 @@
 
         Notwithstanding any other provision of this subchapter, the Secretaries and the Joint Commission shall limit their activities under this subchapter to critical agricultural materials other than native latex after the close of the fiscal year ending September 30, 1988.
 
-([Pub. L. 95–592, § 16][/us/pl/95/592/s16], Nov. 4, 1978, [92 Stat. 2534][/us/stat/92/2534]; [Pub. L. 98–284, § 15][/us/pl/98/284/s15], May 16, 1984, [98 Stat. 184][/us/stat/98/184]; [Pub. L. 101–624, title XVI, § 1601(e)][/us/pl/101/624/s1601/e], Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704]; [Pub. L. 104–127, title VIII, § 881(b)][/us/pl/104/127/s881/b], Apr. 4, 1996, [110 Stat. 1175][/us/stat/110/1175]; [Pub. L. 105–185, title III, § 301(c)][/us/pl/105/185/s301/c], June 23, 1998, [112 Stat. 563][/us/stat/112/563]; [Pub. L. 107–171, title VII, § 7138][/us/pl/107/171/s7138], May 13, 2002, [116 Stat. 436][/us/stat/116/436]; [Pub. L. 110–234, title VII, § 7401][/us/pl/110/234/s7401], May 22, 2008, [122 Stat. 1245][/us/stat/122/1245]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7401, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2007.)
+([Pub. L. 95–592, § 16][/us/pl/95/592/s16], Nov. 4, 1978, [92 Stat. 2534][/us/stat/92/2534]; [Pub. L. 98–284, § 15][/us/pl/98/284/s15], May 16, 1984, [98 Stat. 184][/us/stat/98/184]; [Pub. L. 101–624, title XVI, § 1601(e)][/us/pl/101/624/s1601/e], Nov. 28, 1990, [104 Stat. 3704][/us/stat/104/3704]; [Pub. L. 104–127, title VIII, § 881(b)][/us/pl/104/127/s881/b], Apr. 4, 1996, [110 Stat. 1175][/us/stat/110/1175]; [Pub. L. 105–185, title III, § 301(c)][/us/pl/105/185/s301/c], June 23, 1998, [112 Stat. 563][/us/stat/112/563]; [Pub. L. 107–171, title VII, § 7138][/us/pl/107/171/s7138], May 13, 2002, [116 Stat. 436][/us/stat/116/436]; [Pub. L. 110–234, title VII, § 7401][/us/pl/110/234/s7401], May 22, 2008, [122 Stat. 1245][/us/stat/122/1245]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7401, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2007; [Pub. L. 113–79, title VII, § 7401][/us/pl/113/79/s7401], Feb. 7, 2014, [128 Stat. 893][/us/stat/128/893].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] struck out “such sums as are necessary” after “Agriculture”, substituted “subchapter—” for “subchapter in each of the fiscal years 1991 through 2012.”, and added pars. (1) and (2).
 
     2008—Subsec. (a). [Pub. L. 110–246, § 7401][/us/pl/110/246/s7401], substituted “2012” for “2007”.
 
@@ -86,10 +92,13 @@
 [/us/stat/122/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1245
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7401
+[/us/stat/128/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F893
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7401
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185

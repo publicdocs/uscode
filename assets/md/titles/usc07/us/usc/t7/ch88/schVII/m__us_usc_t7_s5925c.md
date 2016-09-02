@@ -31,11 +31,13 @@
 
     (c) __Report__ 
 
-    Not later than 180 days after the date of enactment of this subsection, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
+    Not later than 180 days after the date of enactment of this subsection and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
 
-        (1) describes the progress that has been made in implementing this section; and
+        (1) describes the progress that has been made in implementing this section;
 
-        (2) identifies any additional production and marketing data needs.
+        (2) describes how data collection agencies (such as the Agricultural Marketing Service and the National Agricultural Statistics Service) are coordinating with data user agencies (such as the Risk Management Agency) to ensure that data collected under this section can be used by data user agencies, including by the Risk Management Agency to offer price elections for all organic crops; and
+
+        (3) identifies any additional production and marketing data needs.
 
     (d) __Funding__ 
 
@@ -43,15 +45,15 @@
 
             Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $5,000,000, to remain available until expended.
 
-        (2) __Discretionary funding for fiscal years 2008 through 2012__ 
+        (2) __Mandatory funding__ 
 
-            In addition to funds made available under paragraph (1), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
+            In addition to any funds made available under paragraph (1), of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $5,000,000, to remain available until expended.
 
-        (3) __Fiscal year 2013__ 
+        (3) __Discretionary funding__ 
 
-            There is authorized to be appropriated to carry out this section $5,000,000, to remain available until expended.
+            In addition to funds made available under paragraphs (1) and (2), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
 
-([Pub. L. 107–171, title VII, § 7407][/us/pl/107/171/s7407], May 13, 2002, [116 Stat. 461][/us/stat/116/461]; [Pub. L. 110–234, title X, § 10302][/us/pl/110/234/s10302], May 22, 2008, [122 Stat. 1347][/us/stat/122/1347]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2108; [Pub. L. 112–240, title VII, § 701(g)(4)][/us/pl/112/240/s701/g/4], Jan. 2, 2013, [126 Stat. 2366][/us/stat/126/2366].)
+([Pub. L. 107–171, title VII, § 7407][/us/pl/107/171/s7407], May 13, 2002, [116 Stat. 461][/us/stat/116/461]; [Pub. L. 110–234, title X, § 10302][/us/pl/110/234/s10302], May 22, 2008, [122 Stat. 1347][/us/stat/122/1347]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2108; [Pub. L. 112–240, title VII, § 701(g)(4)][/us/pl/112/240/s701/g/4], Jan. 2, 2013, [126 Stat. 2366][/us/stat/126/2366]; [Pub. L. 113–79, title X, § 10004(a)][/us/pl/113/79/s10004/a], Feb. 7, 2014, [128 Stat. 941][/us/stat/128/941].)
 
  __References in Text__ 
 
@@ -64,6 +66,10 @@
     Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–79, § 10004(a)(1)][/us/pl/113/79/s10004/a/1], inserted “and annually thereafter” after “this subsection” in introductory provisions, struck out “and” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
+
+    Subsec. (d)(2), (3). [Pub. L. 113–79, § 10004(a)(2)][/us/pl/113/79/s10004/a/2], added par. (2), redesignated former par. (2) as (3), in par. (3) as redesignated, struck out “for fiscal years 2008 through 2012” after “Discretionary funding” in heading and substituted “paragraphs (1) and (2)” for “paragraph (1)” and “2018” for “2012” in text, and struck out former par. (3). Text read as follows: “There is authorized to be appropriated to carry out this section $5,000,000, to remain available until expended.”
 
     2013—Subsec. (d)(1). [Pub. L. 112–240, § 701(g)(4)(A)][/us/pl/112/240/s701/g/4/A], substituted “Mandatory funding through fiscal year 2012” for “In general” in heading.
 
@@ -100,11 +106,15 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/240/s701/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F4
 [/us/stat/126/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2366
+[/us/pl/113/79/s10004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fa
+[/us/stat/128/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F941
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s10004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fa%2F1
+[/us/pl/113/79/s10004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fa%2F2
 [/us/pl/112/240/s701/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F4%2FA
 [/us/pl/112/240/s701/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F4%2FB
 [/us/pl/112/240/s701/g/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F4%2FC

@@ -155,7 +155,7 @@ SUBCHAPTER II—NEW AGRICULTURAL RESEARCH, EXTENSION, AND EDUCATION INITIATIVES 
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7629" data-uslm-ref="/us/usc/t7/s7629">7629.</a>  </td>
 
-    <td> Bovine Johne’s disease control program.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -180,6 +180,14 @@ SUBCHAPTER II—NEW AGRICULTURAL RESEARCH, EXTENSION, AND EDUCATION INITIATIVES 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7632" data-uslm-ref="/us/usc/t7/s7632">7632.</a>  </td>
 
     <td> Specialty crop research initiative.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7633" data-uslm-ref="/us/usc/t7/s7633">7633.</a>  </td>
+
+    <td> Food and agriculture service learning program.  </td>
 
   </tr>
 
@@ -273,6 +281,14 @@ Part B—General  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7655b" data-uslm-ref="/us/usc/t7/s7655b">7655b.</a>  </td>
+
+    <td> Forestry products advanced utilization research.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7656" data-uslm-ref="/us/usc/t7/s7656">7656.</a>  </td>
 
     <td> Designation of Crisis Management Team within Department.  </td>
@@ -297,17 +313,9 @@ Part C—Studies  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7671" data-uslm-ref="/us/usc/t7/s7671">7671.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7671" data-uslm-ref="/us/usc/t7/s7671">7671</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7672" data-uslm-ref="/us/usc/t7/s7672">7672.</a>  </td>
 
-    <td> Evaluation and assessment of agricultural research, extension, and education programs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7672" data-uslm-ref="/us/usc/t7/s7672">7672.</a>  </td>
-
-    <td> Study of federally funded agricultural research, extension, and education.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

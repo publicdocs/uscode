@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151.md) | [Next](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3152.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3151a)
+[Previous](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151.md) | [Next](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3151a)
 
 ## § 3151a. Veterinary medicine loan repayment
 
@@ -129,7 +129,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151.md) | [Next](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3152.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3151a)
+[Previous](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151.md) | [Next](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3151a)
 
 ----------
 ----------

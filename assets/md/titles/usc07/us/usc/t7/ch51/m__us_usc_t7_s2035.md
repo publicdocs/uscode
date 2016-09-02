@@ -105,7 +105,7 @@
 
             (B) [section 2017(a) of this title][/us/usc/t7/s2017/a] (except that the income of a household may be determined under a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.));
 
-            (C) subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsections”. </sup></sup>  (b) and (d) of [section 2017 of this title][/us/usc/t7/s2017];
+            (C) subsections (b) and (d) of [section 2017 of this title][/us/usc/t7/s2017];
 
             (D) subsections (a), (c), (d), and (n) of [section 2020 of this title][/us/usc/t7/s2020];
 
@@ -119,7 +119,7 @@
 
             Notwithstanding any other provision of this section, a household may not receive benefits under this section as a result of the eligibility of the household under a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.), unless the Secretary determines that any household with income above 130 percent of the poverty guidelines is not eligible for the program.
 
-([Pub. L. 88–525, § 26][/us/pl/88/525/s26], as added [Pub. L. 104–193, title VIII, § 854(a)][/us/pl/104/193/s854/a], Aug. 22, 1996, [110 Stat. 2340][/us/stat/110/2340]; amended [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(12), 4115(b)(16), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1095, 1109; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(12), 4115(b)(16), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1857, 1870.)
+([Pub. L. 88–525, § 26][/us/pl/88/525/s26], as added [Pub. L. 104–193, title VIII, § 854(a)][/us/pl/104/193/s854/a], Aug. 22, 1996, [110 Stat. 2340][/us/stat/110/2340]; amended [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(12), 4115(b)(16), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1095, 1109; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(12), 4115(b)(16), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1857, 1870; [Pub. L. 113–79, title IV, § 4030][/us/pl/113/79/s4030](l), Feb. 7, 2014, [128 Stat. 814][/us/stat/128/814].)
 
  __References in Text__ 
 
@@ -130,6 +130,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (f)(3)(C). [Pub. L. 113–79][/us/pl/113/79] substituted “subsections” for “subsection”.
 
     2008—[Pub. L. 110–246, § 4002(a)(12)(A)][/us/pl/110/246/s4002/a/12/A], substituted “Simplified supplemental nutrition assistance program” for “Simplified Food Stamp Program” in section catchline.
 
@@ -181,6 +183,8 @@
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030
+[/us/stat/128/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F814
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -188,6 +192,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s4002/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F12%2FA
 [/us/pl/110/246/s4002/a/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F12%2FB
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb

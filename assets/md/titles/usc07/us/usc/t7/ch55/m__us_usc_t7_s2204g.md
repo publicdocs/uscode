@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204f.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2205.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204g)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204f.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204g)
 
 ## § 2204g. Authority of Secretary of Agriculture to conduct census of agriculture
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204f.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2205.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204g)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204f.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2204h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204g)
 
 ----------
 ----------

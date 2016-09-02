@@ -167,6 +167,48 @@
 
     Section, as in effect on Sept. 30, 2007, to continue to apply with respect to the 2007 and 2008 crops of any covered commodity or peanuts, see [section 1603(h) of Pub. L. 110–246][/us/pl/110/246/s1603/h], set out as a note under [section 1308 of this title][/us/usc/t7/s1308].
 
+ __Rulemaking Related to Significant Contribution for Active Personal Management__ 
+
+[Pub. L. 113–79, title I, § 1604][/us/pl/113/79/s1604], Feb. 7, 2014, [128 Stat. 706][/us/stat/128/706], provided that:
+
+>     “(a)  __Regulations Required__  __.—__ 
+
+>     Within 180 days after the date of the enactment of this Act \[Feb. 7, 2014\], the Secretary shall promulgate, with an opportunity for notice and comment, regulations—
+
+>         “(1) to define the term ‘significant contribution of active personal management’ for purposes of section 1001A of the Food Security Act of 1985 ([7 U.S.C. 1308–1][/us/usc/t7/s1308–1]); and
+
+>         “(2) if the Secretary determines it is appropriate, to establish limits for varying types of farming operations on the number of individuals who may be considered to be actively engaged in farming with respect to the farming operation when a significant contribution of active personal management is the basis used to meet the requirement of being actively engaged in farming under section 1001A of the Food Security Act of 1985 ([7 U.S.C. 1308–1][/us/usc/t7/s1308–1]) by an individual or entity.
+
+>     “(b)  __Considerations__  __.—__ 
+
+>     In promulgating the regulations required under subsection (a), the Secretary shall consider—
+
+>         “(1) the size, nature, and management requirements of each type of farming operation;
+
+>         “(2) the changing nature of active personal management due to advancements of farming operations; and
+
+>         “(3) the degree to which the regulations promulgated pursuant to subsection (a) will adversely impact the long-term viability of the farming operation.
+
+>     “(c)  __Family Farms__  __.—__ 
+
+>     The Secretary shall not apply the regulations promulgated pursuant to subsection (a) to individuals or entities comprised solely of family members (as that term is defined in section 1001(a)(2) of the Food Security Act of 1985 ([7 U.S.C. 1308(a)(2)][/us/usc/t7/s1308/a/2])).
+
+>     “(d)  __Monitoring__  __.—__ 
+
+>     The regulations promulgated pursuant to subsection (a) shall include a plan for monitoring the status of compliance reviews for whether a person or entity is in compliance with the regulations.
+
+>     “(e)  __Paperwork Reduction__  __.—__ 
+
+>     In order to conserve Federal resources and prevent unnecessary paperwork burdens, the Secretary shall ensure that any additional paperwork required as a result of the regulations promulgated pursuant to subsection (a) be limited to those persons who are subject to such regulations.
+
+>     “(f)  __Relation to Other Requirements__  __.—__ 
+
+>     Nothing in this section may be construed to authorize the Secretary to alter, directly or indirectly, existing regulations for other requirements in section 1001A of the Food Security Act of 1985 ([7 U.S.C. 1308–1][/us/usc/t7/s1308–1]).
+
+>     “(g)  __Effective Date__  __.—__ 
+
+>     The requirements of any regulation promulgated pursuant to this section shall apply beginning with the 2015 crop year.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t7/ch35/schII/ptA/m__us_usc_t7_s1308.md) | [Next](./../../../../../..//us/usc/t7/ch35/schII/ptA/m__us_usc_t7_s1308–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931)
@@ -233,5 +275,11 @@
 [/us/stat/101/1330-12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-12
 [/us/pl/110/246/s1603/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fh
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
+[/us/pl/113/79/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1604
+[/us/stat/128/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F706
+[/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
+[/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
+[/us/usc/t7/s1308/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%2Fa%2F2
+[/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
 
 

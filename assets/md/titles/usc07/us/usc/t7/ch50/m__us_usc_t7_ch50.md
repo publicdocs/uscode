@@ -257,6 +257,14 @@ SUBCHAPTER I—REAL ESTATE LOANS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1936b" data-uslm-ref="/us/usc/t7/s1936b">1936b.</a>  </td>
+
+    <td> Intermediary relending program.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—OPERATING LOANS  </td>
@@ -516,6 +524,14 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1983c" data-uslm-ref="/us/usc/t7/s1983c">1983c.</a>  </td>
 
     <td> Provision of information to borrowers.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1983d" data-uslm-ref="/us/usc/t7/s1983d">1983d.</a>  </td>
+
+    <td> Farmer loan pilot projects.  </td>
 
   </tr>
 
@@ -835,7 +851,7 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2008j" data-uslm-ref="/us/usc/t7/s2008j">2008j.</a>  </td>
 
-    <td> National Sheep Industry Improvement Center.  </td>
+    <td> Transferred.  </td>
 
   </tr>
 
@@ -932,6 +948,14 @@ SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2008u" data-uslm-ref="/us/usc/t7/s2008u">2008u.</a>  </td>
 
     <td> Health care services.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2008v" data-uslm-ref="/us/usc/t7/s2008v">2008v.</a>  </td>
+
+    <td> Strategic economic and community development.  </td>
 
   </tr>
 

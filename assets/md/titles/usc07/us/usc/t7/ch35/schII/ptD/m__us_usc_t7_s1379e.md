@@ -37,6 +37,10 @@
 
  __Inapplicability of Section__ 
 
+    Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see [section 9092(a)(3) of this title][/us/usc/t7/s9092/a/3].
+
+    Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see [section 8782(a)(3) of this title][/us/usc/t7/s8782/a/3].
+
     Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see [section 7992(a)(3) of this title][/us/usc/t7/s7992/a/3].
 
     Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see [section 7301(a)(1)(H) of this title][/us/usc/t7/s7301/a/1/H].
@@ -73,6 +77,8 @@
 [/us/pl/90/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F559
 [/us/pl/89/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F321
 [/us/pl/91/524/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs403%2Fa
+[/us/usc/t7/s9092/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F3
+[/us/usc/t7/s8782/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fa%2F3
 [/us/usc/t7/s7992/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fa%2F3
 [/us/usc/t7/s7301/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fa%2F1%2FH
 [/us/pl/101/624/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs302

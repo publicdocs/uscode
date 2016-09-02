@@ -31,7 +31,7 @@
 
         (1) __In general__ 
 
-            There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2012.
+            There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2018.
 
         (2) __Training and technical assistance__ 
 
@@ -41,13 +41,15 @@
 
             Funds appropriated pursuant to the authorization of appropriations in paragraph (1) shall be available until expended.
 
-([Pub. L. 87–128, title III, § 306D][/us/pl/87/128/s306D], as added [Pub. L. 104–127, title VII, § 757][/us/pl/104/127/s757], Apr. 4, 1996, [110 Stat. 1131][/us/stat/110/1131]; amended [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 745\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–32; [Pub. L. 106–224, title II, § 256][/us/pl/106/224/s256], June 20, 2000, [114 Stat. 424][/us/stat/114/424]; [Pub. L. 107–171, title VI, § 6011][/us/pl/107/171/s6011], May 13, 2002, [116 Stat. 357][/us/stat/116/357]; [Pub. L. 110–234, title VI, § 6009(a)][/us/pl/110/234/s6009/a], May 22, 2008, [122 Stat. 1163][/us/stat/122/1163]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6009(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1924.)
+([Pub. L. 87–128, title III, § 306D][/us/pl/87/128/s306D], as added [Pub. L. 104–127, title VII, § 757][/us/pl/104/127/s757], Apr. 4, 1996, [110 Stat. 1131][/us/stat/110/1131]; amended [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 745\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–32; [Pub. L. 106–224, title II, § 256][/us/pl/106/224/s256], June 20, 2000, [114 Stat. 424][/us/stat/114/424]; [Pub. L. 107–171, title VI, § 6011][/us/pl/107/171/s6011], May 13, 2002, [116 Stat. 357][/us/stat/116/357]; [Pub. L. 110–234, title VI, § 6009(a)][/us/pl/110/234/s6009/a], May 22, 2008, [122 Stat. 1163][/us/stat/122/1163]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6009(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1924; [Pub. L. 113–79, title VI, § 6008][/us/pl/113/79/s6008], Feb. 7, 2014, [128 Stat. 843][/us/stat/128/843].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(1). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—Subsec. (d)(1). [Pub. L. 110–246, § 6009(a)][/us/pl/110/246/s6009/a], substituted “2008 through 2012” for “2001 through 2007”.
 
@@ -83,10 +85,13 @@
 [/us/stat/122/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1163
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6008
+[/us/stat/128/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F843
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s6009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6009%2Fa
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224

@@ -53,11 +53,11 @@
 
         (1) __In general__ 
 
-            The Secretary may make or guarantee loans to farmers or ranchers in the United States, farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, or limited liability companies that are controlled by farmers or ranchers and engaged primarily and directly in agricultural production in the United States.
+            The Secretary may make or guarantee loans to farmers or ranchers in the United States, farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, limited liability companies, or such other legal entities as the Secretary considers appropriate that are controlled by farmers or ranchers and engaged primarily and directly in agricultural production in the United States.
 
         (2) __Requirements__ 
 
-            To be eligible for a loan under this section, applicants shall meet the requirements in paragraphs (1) and (2) of [section 1922(a) of this title][/us/usc/t7/s1922/a].
+            To be eligible for a loan under this section, applicants shall meet the requirements in subparagraphs (A) and (B) of [section 1922(a)(1) of this title][/us/usc/t7/s1922/a/1].
 
     (d) __Priority__ 
 
@@ -71,7 +71,11 @@
 
     (e) __Limitations applicable to loan guarantees__ 
 
-        The portion of a loan that the Secretary may guarantee under this section shall be 75 percent of the principal amount of the loan.
+    The portion of a loan that the Secretary may guarantee under this section shall be—
+
+        (1) 80 percent of the principal amount of the loan; or
+
+        (2) in the case of a producer that is a qualified socially disadvantaged farmer or rancher or a beginning farmer or rancher, 90 percent of the principal amount of the loan.
 
     (f) __Administrative provisions__ 
 
@@ -83,15 +87,23 @@
 
     (h) __Authorization of appropriations__ 
 
-        For each of fiscal years 2008 through 2012, there are authorized to be appropriated to the Secretary such funds as are necessary to carry out this section.
+        There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 87–128, title III, § 304][/us/pl/87/128/s304], Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 90–488, § 2][/us/pl/90/488/s2], Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 92–419, title I, § 102][/us/pl/92/419/s102], Aug. 30, 1972, [86 Stat. 657][/us/stat/86/657]; [Pub. L. 95–334, title I, § 102][/us/pl/95/334/s102], Aug. 4, 1978, [92 Stat. 421][/us/stat/92/421]; [Pub. L. 101–624, title XVIII, § 1802(a)][/us/pl/101/624/s1802/a], Nov. 28, 1990, [104 Stat. 3817][/us/stat/104/3817]; [Pub. L. 102–237, title V, § 501(a)][/us/pl/102/237/s501/a], Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865]; [Pub. L. 104–127, title VI, § 603][/us/pl/104/127/s603], Apr. 4, 1996, [110 Stat. 1085][/us/stat/110/1085]; [Pub. L. 110–234, title V, § 5002][/us/pl/110/234/s5002], May 22, 2008, [122 Stat. 1142][/us/stat/122/1142]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5002, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1904.)
+([Pub. L. 87–128, title III, § 304][/us/pl/87/128/s304], Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 90–488, § 2][/us/pl/90/488/s2], Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 92–419, title I, § 102][/us/pl/92/419/s102], Aug. 30, 1972, [86 Stat. 657][/us/stat/86/657]; [Pub. L. 95–334, title I, § 102][/us/pl/95/334/s102], Aug. 4, 1978, [92 Stat. 421][/us/stat/92/421]; [Pub. L. 101–624, title XVIII, § 1802(a)][/us/pl/101/624/s1802/a], Nov. 28, 1990, [104 Stat. 3817][/us/stat/104/3817]; [Pub. L. 102–237, title V, § 501(a)][/us/pl/102/237/s501/a], Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865]; [Pub. L. 104–127, title VI, § 603][/us/pl/104/127/s603], Apr. 4, 1996, [110 Stat. 1085][/us/stat/110/1085]; [Pub. L. 110–234, title V, § 5002][/us/pl/110/234/s5002], May 22, 2008, [122 Stat. 1142][/us/stat/122/1142]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5002, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1904; [Pub. L. 113–79, title V][/us/pl/113/79], §§ 5001(c)(1), 5002, Feb. 7, 2014, [128 Stat. 833][/us/stat/128/833].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–79, § 5002(a)][/us/pl/113/79/s5002/a], substituted “limited liability companies, or such other legal entities as the Secretary considers appropriate” for “or limited liability companies”.
+
+    Subsec. (c)(2). [Pub. L. 113–79, § 5001(c)(1)][/us/pl/113/79/s5001/c/1], substituted “subparagraphs (A) and (B) of section 1922(a)(1)” for “paragraphs (1) and (2) of section 1922(a)”.
+
+    Subsec. (e). [Pub. L. 113–79, § 5002(b)][/us/pl/113/79/s5002/b], substituted “shall be—” for “shall be 75 percent of the principal amount of the loan.” and added pars. (1) and (2).
+
+    Subsec. (h). [Pub. L. 113–79, § 5002(c)][/us/pl/113/79/s5002/c], added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “For each of fiscal years 2008 through 2012, there are authorized to be appropriated to the Secretary such funds as are necessary to carry out this section.”
 
     2008—[Pub. L. 110–246, § 5002][/us/pl/110/246/s5002], amended section generally, substituting provisions relating to conservation loans and loan guarantee programs for former provisions which related to, in subsec. (a), authority to make or insure loans for soil and water conservation and protection, in subsec. (b), priority of producers who would build conservation structures or establish conservation practices to comply with [section 3812 of title 16][/us/usc/t16/s3812], and in subsec. (c), maximum amount of a loan.
 
@@ -131,7 +143,7 @@
 ----------
 
 [/us/usc/t16/s3812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3812
-[/us/usc/t7/s1922/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922%2Fa
+[/us/usc/t7/s1922/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922%2Fa%2F1
 [/us/usc/t16/s3812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3812
 [/us/usc/t7/s1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1983
 [/us/pl/87/128/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs304
@@ -152,10 +164,16 @@
 [/us/stat/122/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1142
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F833
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s5002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5002%2Fa
+[/us/pl/113/79/s5001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5001%2Fc%2F1
+[/us/pl/113/79/s5002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5002%2Fb
+[/us/pl/113/79/s5002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5002%2Fc
 [/us/pl/110/246/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5002
 [/us/usc/t16/s3812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3812
 [/us/pl/104/127/s603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs603%2F2

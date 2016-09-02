@@ -23,7 +23,7 @@
 
         (2) __Local administration__ 
 
-            The responsibility of the agency of the State government shall not be affected by whether the program is operated on a State-administered or county-administered basis, as provided under [section 2012(t)(1) of this title][/us/usc/t7/s2012/t/1].
+            The responsibility of the agency of the State government shall not be affected by whether the program is operated on a State-administered or county-administered basis, as provided under section 2012(t)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
         (3) __Records__ 
 
@@ -87,7 +87,7 @@
 
     (d) __Plan of operation by State agency; approval by Secretary; Indians__ 
 
-        The State agency (as defined in [section 2012(t)(1) of this title][/us/usc/t7/s2012/t/1]) of each State desiring to participate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in [section 2012(t)(1) of this title][/us/usc/t7/s2012/t/1] shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in [section 2012(t)(1) of this title][/us/usc/t7/s2012/t/1]) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in [section 2012(t)(2) of this title][/us/usc/t7/s2012/t/2] is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act ([25 U.S.C. 450][/us/usc/t25/s450]) and similar Acts of Congress, the tribal organization’s management and fiscal capabilities, and the adequacy of measures taken by the tribal organization to ensure that there shall be no discrimination in the operation of the program on the basis of race, color, sex, or national origin, in which event such State agency shall be responsible for conducting such program and submitting for approval a plan of operation specifying the manner in which such program will be conducted. The Secretary, upon the request of a tribal organization, shall provide the designees of such organization with appropriate training and technical assistance to enable them to qualify as expeditiously as possible as a State agency pursuant to [section 2012(t)(2) of this title][/us/usc/t7/s2012/t/2]. A State agency, as defined in [section 2012(t)(1) of this title][/us/usc/t7/s2012/t/1], before it submits its plan of operation to the Secretary for the administration of the supplemental nutrition assistance program on all or part of an Indian reservation, shall consult in good faith with the tribal organization about that portion of the State’s plan of operation pertaining to the implementation of the program for members of the tribe, and shall implement the program in a manner that is responsive to the needs of the Indians on the reservation as determined by ongoing consultation with the tribal organization.
+        The State agency (as defined in section 2012(t)(1) 1 of this title) of each State desiring to participate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in section 2012(t)(1) 1 of this title shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in section 2012(t)(1) 1 of this title) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in section 2012(t)(2) 1 of this title is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act ([25 U.S.C. 450][/us/usc/t25/s450]) and similar Acts of Congress, the tribal organization’s management and fiscal capabilities, and the adequacy of measures taken by the tribal organization to ensure that there shall be no discrimination in the operation of the program on the basis of race, color, sex, or national origin, in which event such State agency shall be responsible for conducting such program and submitting for approval a plan of operation specifying the manner in which such program will be conducted. The Secretary, upon the request of a tribal organization, shall provide the designees of such organization with appropriate training and technical assistance to enable them to qualify as expeditiously as possible as a State agency pursuant to section 2012(t)(2) 1 of this title. A State agency, as defined in section 2012(t)(1) 1 of this title, before it submits its plan of operation to the Secretary for the administration of the supplemental nutrition assistance program on all or part of an Indian reservation, shall consult in good faith with the tribal organization about that portion of the State’s plan of operation pertaining to the implementation of the program for members of the tribe, and shall implement the program in a manner that is responsive to the needs of the Indians on the reservation as determined by ongoing consultation with the tribal organization.
 
     (e) __Requisites of State plan of operation__ 
 
@@ -163,7 +163,7 @@
 
             (D) The signature of any adult under this paragraph shall be considered sufficient to comply with any provision of Federal law requiring a household member to sign an application or statement;
 
-        (3) that the State agency shall thereafter promptly determine the eligibility of each applicant household by way of verification of income other than that determined to be excluded by [section 2014(d) of this title][/us/usc/t7/s2014/d] (in part through the use of the information, if any, obtained under [section 2025(e) of this title][/us/usc/t7/s2025/e]), household size (in any case such size is questionable), and such other eligibility factors as the Secretary determines to be necessary to implement sections 2014 and 2015 of this title, although the State agency may verify prior to certification, whether questionable or not, the size of any applicant household and such other eligibility factors as the State agency determines are necessary, so as to complete certification of and provide an allotment retroactive to the period of application to any eligible household not later than thirty days following its filing of an application, and that the State agency shall provide each applicant household, at the time of application, a clear written statement explaining what acts the household must perform to cooperate in obtaining verification and otherwise completing the application process;
+        (3) that the State agency shall thereafter promptly determine the eligibility of each applicant household by way of verification of income other than that determined to be excluded by [section 2014(d) of this title][/us/usc/t7/s2014/d] (in part through the use of the information, if any, obtained under [section 2025(e) of this title][/us/usc/t7/s2025/e] and after compliance with the requirement specified in paragraph (24)), household size (in any case such size is questionable), and such other eligibility factors as the Secretary determines to be necessary to implement sections 2014 and 2015 of this title, although the State agency may verify prior to certification, whether questionable or not, the size of any applicant household and such other eligibility factors as the State agency determines are necessary, so as to complete certification of and provide an allotment retroactive to the period of application to any eligible household not later than thirty days following its filing of an application, and that the State agency shall provide each applicant household, at the time of application, a clear written statement explaining what acts the household must perform to cooperate in obtaining verification and otherwise completing the application process;
 
         (4) that the State agency shall insure that each participating household receive a notice of expiration of its certification prior to the start of the last month of its certification period advising the household that it must submit a new application in order to renew its eligibility for a new certification period and, further, that each such household which seeks to be certified another time or more times thereafter by filing an application for such recertification no later than fifteen days prior to the day upon which its existing certification period expires shall, if found to be still eligible, receive its allotment no later than one month after the receipt of the last allotment issued to it pursuant to its prior certification, but if such household is found to be ineligible or to be eligible for a smaller allotment during the new certification period it shall not continue to participate and receive benefits on the basis authorized for the preceding certification period even if it makes a timely request for a fair hearing pursuant to paragraph (10) of this subsection: Provided, That the timeliness standards for submitting the notice of expiration and filing an application for recertification may be modified by the Secretary in light of sections 2014(f)(2) and 2015(c) of this title if administratively necessary;
 
@@ -249,7 +249,7 @@
 
         (16) at the option of the State agency, for the establishment and operation of an automatic data processing and information retrieval system that meets such conditions as the Secretary may prescribe and that is designed to provide efficient and effective administration of the supplemental nutrition assistance program;
 
-        (17) at the option of the State agency, that information may be requested and exchanged for purposes of income and eligibility verification in accordance with a State system which meets the requirements of section 1137 of the Social Security Act \[[42 U.S.C. 1320b–7][/us/usc/t42/s1320b–7]\] and that any additional information available from agencies administering State unemployment compensation laws under the provisions of section 303(d) of the Social Security Act \[[42 U.S.C. 503(d)][/us/usc/t42/s503/d]\] may be requested and utilized by the State agency described in [section 2012(t)(1) of this title][/us/usc/t7/s2012/t/1] to the extent permitted under the provisions of section 303(d) of the Social Security Act;
+        (17) at the option of the State agency, that information may be requested and exchanged for purposes of income and eligibility verification in accordance with a State system which meets the requirements of section 1137 of the Social Security Act \[[42 U.S.C. 1320b–7][/us/usc/t42/s1320b–7]\] and that any additional information available from agencies administering State unemployment compensation laws under the provisions of section 303(d) of the Social Security Act \[[42 U.S.C. 503(d)][/us/usc/t42/s503/d]\] may be requested and utilized by the State agency described in section 2012(t)(1) 1 of this title to the extent permitted under the provisions of section 303(d) of the Social Security Act;
 
         (18)
 
@@ -271,7 +271,7 @@
 
         (21) at the option of the State, for procedures necessary to obtain payment of uncollected overissuance of benefits from unemployment compensation pursuant to [section 2022(c) of this title][/us/usc/t7/s2022/c];
 
-        (22) the guidelines the State agency uses in carrying out [section 2015(i) of this title][/us/usc/t7/s2015/i]; and
+        (22) the guidelines the State agency uses in carrying out [section 2015(i) of this title][/us/usc/t7/s2015/i];
 
         (23)
 
@@ -281,7 +281,31 @@
 
             (B) how the State agency will address the needs of households that experience high shelter costs in relation to the incomes of the households; and
 
-            (C) a description of the method by which the State agency will carry out a quality control system under [section 2025(c) of this title][/us/usc/t7/s2025/c].
+            (C) a description of the method by which the State agency will carry out a quality control system under [section 2025(c) of this title][/us/usc/t7/s2025/c];
+
+        (24) that the State agency shall request wage data directly from the National Directory of New Hires established under section 453(i) of the Social Security Act ([42 U.S.C. 653(i)][/us/usc/t42/s653/i]) relevant to determining eligibility to receive supplemental nutrition assistance program benefits and determining the correct amount of those benefits at the time of certification; and
+
+        (25)
+
+         if the State elects to carry out a program to contract with private establishments to offer meals at concessional prices, as described in paragraphs (3), (4), and (9) of [section 2012(k) of this title][/us/usc/t7/s2012/k]—
+
+            (A)
+
+             the plans of the State agency for operating the program, including—
+
+                (i) documentation of a need that eligible homeless, elderly, and disabled clients are underserved in a particular geographic area;
+
+                (ii) the manner by which the State agency will limit participation to only those private establishments that the State determines necessary to meet the need identified in clause (i); and
+
+                (iii) any other conditions the Secretary may prescribe, such as the level of security necessary to ensure that only eligible recipients participate in the program; and
+
+            (B)
+
+             a report by the State agency to the Secretary annually, the schedule of which shall be established by the Secretary, that includes—
+
+                (i) the number of households and individual recipients authorized to participate in the program, including any information on whether the individual recipient is elderly, disabled, or homeless; and
+
+                (ii) an assessment of whether the program is meeting an established need, as documented under subparagraph (A)(i).
 
     (f) __Repealed.__  __[__  __Pub. L. 111–296, title II, § 241(b)(2)__  __][/us/pl/111/296/s241/b/2]__  __,__  __Dec. 13, 2010__  __,__  __[__  __124 Stat. 3236__  __][/us/stat/124/3236]__ 
 
@@ -357,7 +381,7 @@
 
     (p) __State verification option__ 
 
-        Notwithstanding any other provision of law, in carrying out the supplemental nutrition assistance program, a State agency shall not be required to use an income and eligibility or an immigration status verification system established under section 1137 of the Social Security Act ([42 U.S.C. 1320b–7][/us/usc/t42/s1320b–7]).
+        In carrying out the supplemental nutrition assistance program, a State agency shall be required to use an immigration status verification system established under section 1137 of the Social Security Act ([42 U.S.C. 1320b–7][/us/usc/t42/s1320b–7]), and an income and eligibility verification system, in accordance with standards set by the Secretary.
 
     (q) __Denial of benefits for prisoners__ 
 
@@ -497,9 +521,41 @@
 
             (B) each State agency shall cooperate in carrying out paragraphs (3)(F) and (4) of section 9(b) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1758(b)][/us/usc/t42/s1758/b]).
 
-([Pub. L. 88–525, § 11][/us/pl/88/525/s11], Aug. 31, 1964, [78 Stat. 707][/us/stat/78/707]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 969][/us/stat/91/969]; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 113, 116–120, 122, 123, May 26, 1980, [94 Stat. 361–363][/us/stat/94/361-363]; [Pub. L. 97–35, title I, § 111(a)][/us/pl/97/35/s111/a], Aug. 13, 1981, [95 Stat. 362][/us/stat/95/362]; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1316–1320(a), 1321–1323, Dec. 22, 1981, [95 Stat. 1286][/us/stat/95/1286], 1287; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 166–174, 180(b)(1), 189(b)(2), 190(c)(1), Sept. 8, 1982, [96 Stat. 779][/us/stat/96/779], 780, 783, 787; [Pub. L. 98–204, § 7][/us/pl/98/204/s7], Dec. 2, 1983, [97 Stat. 1386][/us/stat/97/1386]; [Pub. L. 98–369, div. B, title VI, § 2651(i)][/us/pl/98/369/s2651/i], July 18, 1984, [98 Stat. 1150][/us/stat/98/1150]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1507(b), 1517(b), 1525–1531(a), (b), 1535(b)(1), 1537(b), (c), Dec. 23, 1985, [99 Stat. 1568][/us/stat/99/1568], 1576, 1580–1582, 1584, 1586, 1587; [Pub. L. 100–77, title VIII][/us/pl/100/77], §§ 808(a), 809(a), July 22, 1987, [101 Stat. 536][/us/stat/101/536]; [Pub. L. 100–435, title II, § 204(a)][/us/pl/100/435/s204/a], title III, §§ 310, 311, 320, 321(a), 322, 323, 330, 352, Sept. 19, 1988, [102 Stat. 1657][/us/stat/102/1657], 1660–1662, 1665; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1736–1741, 1763(b), Nov. 28, 1990, [104 Stat. 3793][/us/stat/104/3793], 3794, 3806; [Pub. L. 102–237, title IX, § 941(5)][/us/pl/102/237/s941/5], (6), Dec. 13, 1991, [105 Stat. 1892][/us/stat/105/1892]; [Pub. L. 103–66, title XIII, § 13941(a)][/us/pl/103/66/s13941/a], Aug. 10, 1993, [107 Stat. 676][/us/stat/107/676]; [Pub. L. 103–296, title I, § 108(f)(2)][/us/pl/103/296/s108/f/2], (3), Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 104–66, title I, § 1011(x)][/us/pl/104/66/s1011/x], Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 809(b), 819(b), 835–840, 844(b), 848(b)(1), 854(b), Aug. 22, 1996, [110 Stat. 2313][/us/stat/110/2313], 2320, 2329–2331, 2333, 2334, 2342; [Pub. L. 105–33, title I][/us/pl/105/33], §§ 1003(a)(1), (2), (b), 1004, Aug. 5, 1997, [111 Stat. 255][/us/stat/111/255], 256; [Pub. L. 105–379, § 1(a)][/us/pl/105/379/s1/a], Nov. 12, 1998, [112 Stat. 3399][/us/stat/112/3399]; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4114(a), 4115(a), 4116(a), May 13, 2002, [116 Stat. 314][/us/stat/116/314], 315; [Pub. L. 108–265, title I, § 104(b)(2)][/us/pl/108/265/s104/b/2], June 30, 2004, [118 Stat. 737][/us/stat/118/737]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1093, 1101, 1102, 1107, 1110–1112, 1140, 1267; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1854, 1862, 1863, 1868, 1871–1874, 1902, 2029; [Pub. L. 111–296, title II, § 241(b)(2)][/us/pl/111/296/s241/b/2], Dec. 13, 2010, [124 Stat. 3236][/us/stat/124/3236].)
+    (v) __Data exchange standards for improved interoperability__ 
+
+        (1) __Designation__ 
+
+        The Secretary shall, in consultation with an interagency work group established by the Office of Management and Budget, and considering State government perspectives, designate data exchange standards to govern, under this chapter—
+
+            (A) necessary categories of information that State agencies operating related programs are required under applicable law to electronically exchange with another State agency; and
+
+            (B) Federal reporting and data exchange required under applicable law.
+
+        (2) __Requirements__ 
+
+        The data exchange standards required by paragraph (1) shall, to the maximum extent practicable—
+
+            (A) incorporate a widely accepted, nonproprietary, searchable, computer-readable format, such as the eXtensible Markup Language;
+
+            (B) contain interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model;
+
+            (C) incorporate interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance;
+
+            (D) be consistent with and implement applicable accounting principles;
+
+            (E) be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+
+            (F) be capable of being continually upgraded as necessary.
+
+        (3) __Rules of construction__ 
+
+            Nothing in this subsection requires a change to existing data exchange standards for Federal reporting found to be effective and efficient.
+
+([Pub. L. 88–525, § 11][/us/pl/88/525/s11], Aug. 31, 1964, [78 Stat. 707][/us/stat/78/707]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 969][/us/stat/91/969]; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 113, 116–120, 122, 123, May 26, 1980, [94 Stat. 361–363][/us/stat/94/361-363]; [Pub. L. 97–35, title I, § 111(a)][/us/pl/97/35/s111/a], Aug. 13, 1981, [95 Stat. 362][/us/stat/95/362]; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1316–1320(a), 1321–1323, Dec. 22, 1981, [95 Stat. 1286][/us/stat/95/1286], 1287; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 166–174, 180(b)(1), 189(b)(2), 190(c)(1), Sept. 8, 1982, [96 Stat. 779][/us/stat/96/779], 780, 783, 787; [Pub. L. 98–204, § 7][/us/pl/98/204/s7], Dec. 2, 1983, [97 Stat. 1386][/us/stat/97/1386]; [Pub. L. 98–369, div. B, title VI, § 2651(i)][/us/pl/98/369/s2651/i], July 18, 1984, [98 Stat. 1150][/us/stat/98/1150]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1507(b), 1517(b), 1525–1531(a), (b), 1535(b)(1), 1537(b), (c), Dec. 23, 1985, [99 Stat. 1568][/us/stat/99/1568], 1576, 1580–1582, 1584, 1586, 1587; [Pub. L. 100–77, title VIII][/us/pl/100/77], §§ 808(a), 809(a), July 22, 1987, [101 Stat. 536][/us/stat/101/536]; [Pub. L. 100–435, title II, § 204(a)][/us/pl/100/435/s204/a], title III, §§ 310, 311, 320, 321(a), 322, 323, 330, 352, Sept. 19, 1988, [102 Stat. 1657][/us/stat/102/1657], 1660–1662, 1665; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1736–1741, 1763(b), Nov. 28, 1990, [104 Stat. 3793][/us/stat/104/3793], 3794, 3806; [Pub. L. 102–237, title IX, § 941(5)][/us/pl/102/237/s941/5], (6), Dec. 13, 1991, [105 Stat. 1892][/us/stat/105/1892]; [Pub. L. 103–66, title XIII, § 13941(a)][/us/pl/103/66/s13941/a], Aug. 10, 1993, [107 Stat. 676][/us/stat/107/676]; [Pub. L. 103–296, title I, § 108(f)(2)][/us/pl/103/296/s108/f/2], (3), Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 104–66, title I, § 1011(x)][/us/pl/104/66/s1011/x], Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 809(b), 819(b), 835–840, 844(b), 848(b)(1), 854(b), Aug. 22, 1996, [110 Stat. 2313][/us/stat/110/2313], 2320, 2329–2331, 2333, 2334, 2342; [Pub. L. 105–33, title I][/us/pl/105/33], §§ 1003(a)(1), (2), (b), 1004, Aug. 5, 1997, [111 Stat. 255][/us/stat/111/255], 256; [Pub. L. 105–379, § 1(a)][/us/pl/105/379/s1/a], Nov. 12, 1998, [112 Stat. 3399][/us/stat/112/3399]; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4114(a), 4115(a), 4116(a), May 13, 2002, [116 Stat. 314][/us/stat/116/314], 315; [Pub. L. 108–265, title I, § 104(b)(2)][/us/pl/108/265/s104/b/2], June 30, 2004, [118 Stat. 737][/us/stat/118/737]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1093, 1101, 1102, 1107, 1110–1112, 1140, 1267; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1854, 1862, 1863, 1868, 1871–1874, 1902, 2029; [Pub. L. 111–296, title II, § 241(b)(2)][/us/pl/111/296/s241/b/2], Dec. 13, 2010, [124 Stat. 3236][/us/stat/124/3236]; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4013, 4014(a), 4015, 4016(a), Feb. 7, 2014, [128 Stat. 793][/us/stat/128/793], 795.)
 
  __References in Text__ 
+
+    Subsec. (t) of [section 2012 of this title][/us/usc/t7/s2012], referred to in subsecs. (a)(2), (d), and (e)(17), was redesignated as subsec. (s) by [Pub. L. 113–79, title IV, § 4030(a)(4)][/us/pl/113/79/s4030/a/4], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].
 
     The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(A), is title III of [Pub. L. 94–135][/us/pl/94/135], Nov. 28, 1975, [89 Stat. 728][/us/stat/89/728], which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of Title 42][/us/usc/t42/s6101] and Tables.
 
@@ -524,6 +580,16 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    Subsec. (e)(3). [Pub. L. 113–79, § 4013(1)][/us/pl/113/79/s4013/1], inserted “and after compliance with the requirement specified in paragraph (24)” after “[section 2025(e) of this title][/us/usc/t7/s2025/e]”.
+
+    Subsec. (e)(24). [Pub. L. 113–79, § 4013(2)][/us/pl/113/79/s4013/2]–(4), added par. (24).
+
+    Subsec. (e)(25). [Pub. L. 113–79, § 4014(a)][/us/pl/113/79/s4014/a], added par. (25).
+
+    Subsec. (p). [Pub. L. 113–79, § 4015][/us/pl/113/79/s4015], added subsec. (p) and struck out former subsec. (p). Prior to amendment, text read as follows:“Notwithstanding any other provision of law, in carrying out the supplemental nutrition assistance program, a State agency shall not be required to use an income and eligibility or an immigration status verification system established under section 1137 of the Social Security Act ([42 U.S.C. 1320b–7][/us/usc/t42/s1320b–7]).”
+
+    Subsec. (v). [Pub. L. 113–79, § 4016(a)][/us/pl/113/79/s4016/a], addded subsec. (v).
 
     2010—Subsec. (f). [Pub. L. 111–296][/us/pl/111/296] struck out subsec. (f) which related to nutrition education.
 
@@ -919,6 +985,26 @@
 
  __Regulations__ 
 
+[Pub. L. 113–79, title IV, § 4016(b)][/us/pl/113/79/s4016/b], Feb. 7, 2014, [128 Stat. 795][/us/stat/128/795], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Not later than 2 years after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall issue a proposed rule to carry out the amendments made by this section \[amending this section\].
+
+>     “(2)  __Requirements__  __.—__ 
+
+>     The rule shall—
+
+>         “(A) identify federally required data exchanges;
+
+>         “(B) include specification and timing of exchanges to be standardized;
+
+>         “(C) address the factors used in determining whether and when to standardize data exchanges;
+
+>         “(D) specify State implementation options; and
+
+>         “(E) describe future milestones.”
+
     Secretary of Agriculture to promulgate regulations necessary to implement amendment of this section by [Pub. L. 105–33][/us/pl/105/33], not later than one year after Aug. 5, 1997, see [§ 1005(a) of Pub. L. 105–33][/us/pl/105/33/s1005/a] set out as a note under [section 2015 of this title][/us/usc/t7/s2015].
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
@@ -960,7 +1046,6 @@
 ----------
 ----------
 
-[/us/usc/t7/s2012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F1
 [/us/usc/t7/s2015/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fc
 [/us/usc/t7/s2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025
 [/us/usc/t7/s2023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2023%2Fb
@@ -968,13 +1053,7 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/usc/t7/s2012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F1
-[/us/usc/t7/s2012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F1
-[/us/usc/t7/s2012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F1
-[/us/usc/t7/s2012/t/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F2
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/usc/t7/s2012/t/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F2
-[/us/usc/t7/s2012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F1
 [/us/usc/t7/s2015/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Ff
 [/us/usc/t7/s2014/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014%2Fd
 [/us/usc/t7/s2025/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fe
@@ -985,7 +1064,6 @@
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t42/s1320b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937
 [/us/usc/t42/s503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503%2Fd
-[/us/usc/t7/s2012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F1
 [/us/usc/t42/s1382/e/1/I/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1%2FI%2Fi%2FI
 [/us/usc/t42/s1382/e/1/I/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1%2FI%2Fii%2FII
 [/us/usc/t7/s2015/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd%2F4
@@ -993,6 +1071,8 @@
 [/us/usc/t7/s2015/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fi
 [/us/usc/t7/s2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2035
 [/us/usc/t7/s2025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc
+[/us/usc/t42/s653/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653%2Fi
+[/us/usc/t7/s2012/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fk
 [/us/pl/111/296/s241/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs241%2Fb%2F2
 [/us/stat/124/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3236
 [/us/usc/t7/s2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2032
@@ -1058,6 +1138,11 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/111/296/s241/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs241%2Fb%2F2
 [/us/stat/124/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3236
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F793
+[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
+[/us/pl/113/79/s4030/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F4
+[/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
@@ -1089,6 +1174,13 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s4013/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4013%2F1
+[/us/usc/t7/s2025/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fe
+[/us/pl/113/79/s4013/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4013%2F2
+[/us/pl/113/79/s4014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4014%2Fa
+[/us/pl/113/79/s4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4015
+[/us/usc/t42/s1320b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937
+[/us/pl/113/79/s4016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4016%2Fa
 [/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
 [/us/pl/110/246/s4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4116
@@ -1334,6 +1426,8 @@
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
 [/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
 [/us/stat/91/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F958
+[/us/pl/113/79/s4016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4016%2Fb
+[/us/stat/128/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F795
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs1005%2Fa
 [/us/usc/t7/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015

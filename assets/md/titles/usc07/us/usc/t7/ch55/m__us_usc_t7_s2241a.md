@@ -39,13 +39,15 @@
 
         Subsection (b) does not apply to the free dissemination of new varieties of seeds and germplasm in accordance with [section 2201 of this title][/us/usc/t7/s2201].
 
-([Pub. L. 103–354, title III, § 307][/us/pl/103/354/s307], as added [Pub. L. 110–234, title VII, § 7408][/us/pl/110/234/s7408], May 22, 2008, [122 Stat. 1252][/us/stat/122/1252], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7408, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013.)
+([Pub. L. 103–354, title III, § 307][/us/pl/103/354/s307], as added [Pub. L. 110–234, title VII, § 7408][/us/pl/110/234/s7408], May 22, 2008, [122 Stat. 1252][/us/stat/122/1252], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7408, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013; amended [Pub. L. 113–79, title VII, § 7605][/us/pl/113/79/s7605], Feb. 7, 2014, [128 Stat. 912][/us/stat/128/912].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
-    [Pub. L. 110–234, § 7408][/us/pl/110/234/s7408], and [Pub. L. 110–246, § 7408][/us/pl/110/246/s7408], which directed the addition of this section at the end of “Title III of the Department of Agriculture Reorganization Act of 1994 ([Public Law 103–354][/us/pl/103/354]; [108 Stat. 3238][/us/stat/108/3238])”, was executed by adding this section at the end of title III of the “Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994”, [Pub. L. 103–354][/us/pl/103/354], to reflect the probable intent of Congress. The Department of Agriculture Reorganization Act of 1994 is title II of [Pub. L. 103–354][/us/pl/103/354].
+ __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] made technical amendment to directory language of [Pub. L. 110–246, § 7408][/us/pl/110/246/s7408], which enacted this section.
 
  __Effective Date__ 
 
@@ -64,16 +66,14 @@
 [/us/stat/122/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1252
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7605
+[/us/stat/128/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F912
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/234/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7408
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7408
-[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/stat/108/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3238
-[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
-[/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

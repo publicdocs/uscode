@@ -39,13 +39,13 @@
 
     (d) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2012.
+        There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2018.
 
     (e) __Eligible entity defined__ 
 
         In this section, the term “eligible entity” means a State, a political subdivision of a State, Indian tribe, or other appropriate entity, as determined by the Secretary of Agriculture.
 
-([Pub. L. 110–234, title XI, § 11013][/us/pl/110/234/s11013], May 22, 2008, [122 Stat. 1361][/us/stat/122/1361]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11013, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122.)
+([Pub. L. 110–234, title XI, § 11013][/us/pl/110/234/s11013], May 22, 2008, [122 Stat. 1361][/us/stat/122/1361]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11013, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2122; [Pub. L. 113–79, title XII, § 12103][/us/pl/113/79/s12103], Feb. 7, 2014, [128 Stat. 979][/us/stat/128/979].)
 
  __References in Text__ 
 
@@ -56,6 +56,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
     Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Animal Health Protection Act, which in part comprises this chapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
  __Effective Date__ 
 
@@ -74,6 +78,8 @@
 [/us/stat/122/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1361
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s12103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12103
+[/us/stat/128/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F979
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F494
 [/us/usc/t7/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8301
@@ -81,6 +87,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -47,7 +47,7 @@
 
  __Specialty Crops Competitiveness__ 
 
-[Pub. L. 108–465][/us/pl/108/465], §§ 2, 3, title I, § 101, Dec. 21, 2004, [118 Stat. 3882][/us/stat/118/3882], 3883, as amended by [Pub. L. 110–234, title X, § 10109][/us/pl/110/234/s10109], May 22, 2008, [122 Stat. 1338][/us/stat/122/1338]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10109, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2100, provided that:
+[Pub. L. 108–465][/us/pl/108/465], §§ 2, 3, title I, § 101, Dec. 21, 2004, [118 Stat. 3882][/us/stat/118/3882], 3883, as amended by [Pub. L. 110–234, title X, § 10109][/us/pl/110/234/s10109], May 22, 2008, [122 Stat. 1338][/us/stat/122/1338]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10109, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2100; [Pub. L. 113–79, title X, § 10010][/us/pl/113/79/s10010], Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949], provided that:
 
 > “SEC. 2. __FINDINGS AND PURPOSE.__ 
 
@@ -87,11 +87,15 @@
 
 >     “(a)  __Availability and Purpose of Grants__  __.—__ 
 
->     Using the funds made available under subsection (j), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2012 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
+>     Using the funds made available under subsection (l), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2018 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
 
->     “(b)  __Grants Based on Value of Production__  __.—__ 
+>     “(b)  __Grants Based on Value and Acreage__  __.—__ 
 
->     Subject to subsection (c), the amount of the grant for a fiscal year to a State under this section shall bear the same ratio to the total amount made available under subsection (j) for that fiscal year as the value of specialty crop production in the State during the preceding calendar year bears to the value of specialty crop production during the preceding calendar year in all States whose application for a grant for that fiscal year is accepted by the Secretary under subsection (f).
+>     Subject to subsection (c), for each State whose application for a grant for a fiscal year that \[sic\] is accepted by the Secretary under subsection (f), the amount of the grant for that fiscal year to the State under this section shall bear the same ratio to the total amount made available under subsection (l)(1) for that fiscal year as—
+
+>         “(1) the average of the most recent available value of specialty crop production in the State and the acreage of specialty crop production in the State, as demonstrated in the most recent Census of Agriculture data; bears to
+
+>         “(2) the average of the most recent available value of specialty crop production in all States and the acreage of specialty crop production in all States, as demonstrated in the most recent Census of Agriculture data.
 
 >     “(c)  __Minimum Grant Amount__  __.—__ 
 
@@ -141,15 +145,59 @@
 
 >         Funds allocated to a State under this subsection shall be used by the State only to carry out projects that were previously approved in the State plan of the State.
 
->     “(j)  __Funding__  __.—__ 
+>     “(j)  __Multistate Projects__  __.—__ 
 
->     Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make grants under this section, using—
+>     Not later than 180 days after the effective date of the Agricultural Act of 2014 \[Feb. 7, 2014\], the Secretary of Agriculture shall issue guidance for the purpose of making grants to multistate projects under this section for projects involving—
 
->         “(1) $10,000,000 for fiscal year 2008;
+>         “(1) food safety;
 
->         “(2) $49,000,000 for fiscal year 2009; and
+>         “(2) plant pests and disease;
 
->         “(3) $55,000,000 for each of fiscal years 2010 through 2012.”
+>         “(3) research;
+
+>         “(4) crop-specific projects addressing common issues; and
+
+>         “(5) any other area that furthers the purposes of this section, as determined by the Secretary.
+
+>     “(k) __Administration.—__ 
+
+>         “(1)  __Department__  __.—__ 
+
+>         The Secretary of Agriculture may not use more than 3 percent of the funds made available to carry out this section for a fiscal year for administrative expenses.
+
+>         “(2)  __States__  __.—__ 
+
+>         A State receiving a grant under this section may not use more than 8 percent of the funds received under the grant for a fiscal year for administrative expenses.
+
+>     “(l)  __Funding__  __.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make grants under this section, using—
+
+>             “(A) $10,000,000 for fiscal year 2008;
+
+>             “(B) $49,000,000 for fiscal year 2009;
+
+>             “(C) $55,000,000 for each of fiscal years 2010 through 2012;
+
+>             “(D) $72,500,000 for each of fiscal years 2014 through 2017; and
+
+>             “(E) $85,000,000 for fiscal year 2018 and each fiscal year thereafter.
+
+>         “(2)  __Multistate projects__  __.—__ 
+
+>         Of the funds made available under paragraph (1), the Secretary may use to carry out subsection (j), to remain available until expended—
+
+>             “(A) $1,000,000 for fiscal year 2014;
+
+>             “(B) $2,000,000 for fiscal year 2015;
+
+>             “(C) $3,000,000 for fiscal year 2016;
+
+>             “(D) $4,000,000 for fiscal year 2017; and
+
+>             “(E) $5,000,000 for fiscal year 2018.”
 
  __National Commission on Food Marketing__ 
 
@@ -180,6 +228,8 @@
 [/us/stat/122/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1338
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s10010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10010
+[/us/stat/128/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F949
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
 [/us/pl/88/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F354
 [/us/stat/78/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F269

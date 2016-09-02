@@ -87,17 +87,11 @@
 
             (A) __In general__ 
 
-                Funds made available for fiscal years 2001 through 2012 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $10,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+                Funds made available for fiscal years 2001 through 2018 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
 
             (B) __Additional prepositioning sites__ 
 
-                (i) __Feasibility assessments__ 
-
-                    The Administrator may carry out assessments for the establishment of not less than 2 sites to determine the feasibility of, and costs associated with, using the sites to store and handle agricultural commodities for prepositioning in foreign countries.
-
-                (ii) __Establishment of sites__ 
-
-                    Based on the results of each assessment carried out under clause (i), the Administrator may establish additional sites for prepositioning in foreign countries.
+                The Administrator may establish additional sites for prepositioning in foreign countries or change the location of current sites for prepositioning in foreign countries after conducting, and based on the results of, assessments of need, the availability of appropriate technology for long-term storage, feasibility, and cost.
 
         (5) __Nonemergency or multiyear agreements__ 
 
@@ -123,7 +117,7 @@
 
     (f) __Annual reports__ 
 
-        (1) __Annual report regarding agricultural trade programs and activities__ 
+        (1) __Annual report regarding food aid programs and activities__ 
 
             (A) __Annual report__ 
 
@@ -135,15 +129,17 @@
 
                 (i) a list that contains a description of each country and organization that receives food and other assistance under this chapter (including the quantity of food and assistance provided to each country and organization);
 
-                (ii) a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies);
+                (ii) a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies) and the total number of beneficiaries of the project and the activities carried out through such project;
 
                 (iii)
 
-                 a statement describing the quantity of agricultural commodities made available to each country pursuant to—
+                 a statement describing the quantity of agricultural commodities made available to, and the total number of beneficiaries in, each country pursuant to—
 
-                    (I) [section 1431(b) of this title][/us/usc/t7/s1431/b]; and
+                    (I) [section 1431(b) of this title][/us/usc/t7/s1431/b];
 
-                    (II) the Food for Progress Act of 1985 ([7 U.S.C. 1736][/us/usc/t7/s1736]o);
+                    (II) the Food for Progress Act of 1985 ([7 U.S.C. 1736][/us/usc/t7/s1736]o); and
+
+                    (III) the McGovern-Dole International Food for Education and Child Nutrition Program established by section 1736o–1 of this title;
 
                 (iv) an assessment of the progress made through programs under this chapter towards reducing food insecurity in the populations receiving food assistance from the United States;
 
@@ -173,7 +169,7 @@
 
                 (ii) a statement that contains a description of the total amount of funds approved for transportation and administrative costs under [section 1726a of this title][/us/usc/t7/s1726a].
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 407, as added [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1537][/us/stat/80/1537]; amended [Pub. L. 90–436, § 8][/us/pl/90/436/s8], July 29, 1968, [82 Stat. 451][/us/stat/82/451]; [Pub. L. 94–161, title II, § 210][/us/pl/94/161/s210], Dec. 20, 1975, [89 Stat. 854][/us/stat/89/854]; [Pub. L. 101–508, title I, § 1204(b)(3)][/us/pl/101/508/s1204/b/3], Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3650][/us/stat/104/3650]; [Pub. L. 102–237, title III][/us/pl/102/237], §§ 319, 324, 325, 328, 329, 332, Dec. 13, 1991, [105 Stat. 1857][/us/stat/105/1857], 1858; [Pub. L. 104–66, title I, § 1011(e)][/us/pl/104/66/s1011/e], Dec. 21, 1995, [109 Stat. 709][/us/stat/109/709]; [Pub. L. 104–127, title II, § 216][/us/pl/104/127/s216], Apr. 4, 1996, [110 Stat. 957][/us/stat/110/957]; [Pub. L. 106–472, title III, § 310(b)][/us/pl/106/472/s310/b], Nov. 9, 2000, [114 Stat. 2076][/us/stat/114/2076]; [Pub. L. 107–171, title III][/us/pl/107/171], §§ 3010, 3011, May 13, 2002, [116 Stat. 284][/us/stat/116/284]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3017, 3018(a), June 18, 2008, [122 Stat. 1827][/us/stat/122/1827].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 407, as added [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1537][/us/stat/80/1537]; amended [Pub. L. 90–436, § 8][/us/pl/90/436/s8], July 29, 1968, [82 Stat. 451][/us/stat/82/451]; [Pub. L. 94–161, title II, § 210][/us/pl/94/161/s210], Dec. 20, 1975, [89 Stat. 854][/us/stat/89/854]; [Pub. L. 101–508, title I, § 1204(b)(3)][/us/pl/101/508/s1204/b/3], Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3650][/us/stat/104/3650]; [Pub. L. 102–237, title III][/us/pl/102/237], §§ 319, 324, 325, 328, 329, 332, Dec. 13, 1991, [105 Stat. 1857][/us/stat/105/1857], 1858; [Pub. L. 104–66, title I, § 1011(e)][/us/pl/104/66/s1011/e], Dec. 21, 1995, [109 Stat. 709][/us/stat/109/709]; [Pub. L. 104–127, title II, § 216][/us/pl/104/127/s216], Apr. 4, 1996, [110 Stat. 957][/us/stat/110/957]; [Pub. L. 106–472, title III, § 310(b)][/us/pl/106/472/s310/b], Nov. 9, 2000, [114 Stat. 2076][/us/stat/114/2076]; [Pub. L. 107–171, title III][/us/pl/107/171], §§ 3010, 3011, May 13, 2002, [116 Stat. 284][/us/stat/116/284]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3017, 3018(a), June 18, 2008, [122 Stat. 1827][/us/stat/122/1827]; [Pub. L. 113–79, title III][/us/pl/113/79], §§ 3009, 3010, Feb. 7, 2014, [128 Stat. 776][/us/stat/128/776], 777.)
 
  __References in Text__ 
 
@@ -184,6 +180,22 @@
     In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(4)(A). [Pub. L. 113–79, § 3009(1)][/us/pl/113/79/s3009/1], substituted “2018” for “2012” and “for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds” for “for each such fiscal year not more than $10,000,000 of such funds”.
+
+    Subsec. (c)(4)(B). [Pub. L. 113–79, § 3009(2)][/us/pl/113/79/s3009/2], added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows:
+
+    “(i) Feasibility assessments.—The Administrator may carry out assessments for the establishment of not less than 2 sites to determine the feasibility of, and costs associated with, using the sites to store and handle agricultural commodities for prepositioning in foreign countries.
+
+    “(ii) Establishment of sites.—Based on the results of each assessment carried out under clause (i), the Administrator may establish additional sites for prepositioning in foreign countries.”
+
+    Subsec. (f)(1). [Pub. L. 113–79, § 3010(1)][/us/pl/113/79/s3010/1], substituted “food aid” for “agricultural trade” in heading.
+
+    Subsec. (f)(1)(B)(ii). [Pub. L. 113–79, § 3010(2)][/us/pl/113/79/s3010/2], inserted “and the total number of beneficiaries of the project and the activities carried out through such project” before semicolon at end.
+
+    Subsec. (f)(1)(B)(iii). [Pub. L. 113–79, § 3010(3)(A)][/us/pl/113/79/s3010/3/A], inserted “, and the total number of beneficiaries in,” after “commodities made available to” in introductory provisions.
+
+    Subsec. (f)(1)(B)(iii)(III). [Pub. L. 113–79, § 3010(3)(B)][/us/pl/113/79/s3010/3/B]–(D), added subcl. (III).
 
     2008—Subsec. (c)(4). [Pub. L. 110–246, § 3017(1)][/us/pl/110/246/s3017/1], designated existing provisions as subpar. (A), inserted heading, substituted “2012” for “2007” and “$10,000,000” for “$2,000,000”, and added subpar. (B).
 
@@ -291,6 +303,8 @@
 [/us/stat/116/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F284
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1827
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F776
 [/us/pl/99/198/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1110
 [/us/stat/99/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1472
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
@@ -298,6 +312,12 @@
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/113/79/s3009/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3009%2F1
+[/us/pl/113/79/s3009/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3009%2F2
+[/us/pl/113/79/s3010/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3010%2F1
+[/us/pl/113/79/s3010/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3010%2F2
+[/us/pl/113/79/s3010/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3010%2F3%2FA
+[/us/pl/113/79/s3010/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3010%2F3%2FB
 [/us/pl/110/246/s3017/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3017%2F1
 [/us/pl/110/246/s3017/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3017%2F2
 [/us/pl/110/246/s3018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3018%2Fa

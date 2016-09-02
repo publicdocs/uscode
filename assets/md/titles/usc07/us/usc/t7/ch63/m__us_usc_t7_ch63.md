@@ -59,7 +59,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3005" data-uslm-ref="/us/usc/t7/s3005">3005.</a>  </td>
 
-    <td> Farmers’ Market Promotion Program.  </td>
+    <td> Farmers’ Market and Local Food Promotion Program.  </td>
 
   </tr>
 

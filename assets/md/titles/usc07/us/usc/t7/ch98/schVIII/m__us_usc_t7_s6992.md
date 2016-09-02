@@ -35,7 +35,23 @@
 
     (c) __Direction, control, and support__ 
 
-        The Director shall be free from the direction and control of any person other than the Secretary. The Division shall not receive administrative support (except on a reimbursable basis) from any agency other than the Office of the Secretary. The Secretary may not delegate to any other officer or employee of the Department, other than the Director, the authority of the Secretary with respect to the Division.
+        (1) __Direction and control__ 
+
+            (A) __In general__ 
+
+                Except as provided in paragraph (2), the Director shall be free from the direction and control of any person other than the Secretary or the Deputy Secretary of Agriculture.
+
+            (B) __Administrative support__ 
+
+                The Division shall not receive administrative support (except on a reimbursable basis) from any agency other than the Office of the Secretary.
+
+            (C) __Prohibition on delegation__ 
+
+                The Secretary may not delegate to any other officer or employee of the Department, other than the Deputy Secretary of Agriculture or the Director, the authority of the Secretary with respect to the Division.
+
+        (2) __Exception__ 
+
+            The Assistant Secretary for Administration is authorized to investigate, enforce, and implement the provisions in law, Executive order, or regulations that relate in general to competitive and excepted service positions and employment within the Division, including the position of Director, and such authority may be further delegated to subordinate officials.
 
     (d) __Determination of appealability of agency decisions__ 
 
@@ -45,7 +61,11 @@
 
         The Director shall appoint such hearing officers and other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter.
 
-([Pub. L. 103–354, title II, § 272][/us/pl/103/354/s272], Oct. 13, 1994, [108 Stat. 3229][/us/stat/108/3229].)
+([Pub. L. 103–354, title II, § 272][/us/pl/103/354/s272], Oct. 13, 1994, [108 Stat. 3229][/us/stat/108/3229]; [Pub. L. 113–79, title I, § 1610(a)][/us/pl/113/79/s1610/a], Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
+
+ __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–79][/us/pl/113/79] added subsec. (c) and struck out former subsec. (c). Text read as follows: “The Director shall be free from the direction and control of any person other than the Secretary. The Division shall not receive administrative support (except on a reimbursable basis) from any agency other than the Office of the Secretary. The Secretary may not delegate to any other officer or employee of the Department, other than the Director, the authority of the Secretary with respect to the Division.”
 
 ----------
 
@@ -56,5 +76,8 @@
 
 [/us/pl/103/354/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs272
 [/us/stat/108/3229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3229
+[/us/pl/113/79/s1610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fa
+[/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 
 

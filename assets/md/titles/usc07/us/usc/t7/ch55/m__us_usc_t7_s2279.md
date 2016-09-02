@@ -13,13 +13,13 @@
 
 [Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2278.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2279–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279)
 
-## § 2279. Outreach and assistance for socially disadvantaged farmers and ranchers
+## § 2279. Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers
 
     (a) __Outreach and assistance__ 
 
         (1) __Program__ 
 
-        The Secretary of Agriculture shall carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers—
+        The Secretary of Agriculture shall carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers and veteran farmers or ranchers—
 
             (A) in owning and operating farms and ranches; and
 
@@ -35,7 +35,7 @@
 
              to assist the Secretary in—
 
-                (i) reaching current and prospective socially disadvantaged farmers or ranchers in a linguistically appropriate manner; and
+                (i) reaching current and prospective socially disadvantaged farmers or ranchers and veteran farmers or ranchers in a linguistically appropriate manner; and
 
                 (ii) improving the participation of those farmers and ranchers in Department programs, as reported under [section 2279–1 of this title][/us/usc/t7/s2279–1].
 
@@ -67,13 +67,15 @@
 
         (4) __Funding__ 
 
-            (A) __Fiscal years 2009 through 2012__ 
+            (A) __Fiscal years 2009 through 2018__ 
 
             Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
 
-                (i) $15,000,000 for fiscal year 2009; and
+                (i) $15,000,000 for fiscal year 2009;
 
-                (ii) $20,000,000 for each of fiscal years 2010 through 2012.
+                (ii) $20,000,000 for each of fiscal years 2010 through 2012; and
+
+                (iii) $10,000,000 for each of fiscal years 2014 through 2018.
 
             (B) __Fiscal year 2013__ 
 
@@ -87,6 +89,10 @@
 
                 Not more than 5 percent of the amounts made available under subparagraph (A) or (B) for a fiscal year may be used for expenses related to administering the program under this section.
 
+            (E) __Authorization of appropriations__ 
+
+                There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
+
     (b) __Designation of Federal personnel__ 
 
         (1) __In general__ 
@@ -95,7 +101,7 @@
 
         (2) __Additional personnel__ 
 
-            In counties or regions in which the number of socially disadvantaged farmers and ranchers exceeds 25 percent of the total number of farmers and ranchers in the county or region, the Secretary shall designate additional personnel to implement the policies and programs established or modified in accordance with this section.
+            In counties or regions in which the number of socially disadvantaged farmers and ranchers or veteran farmers and ranchers exceeds 25 percent of the total number of farmers and ranchers in the county or region, the Secretary shall designate additional personnel to implement the policies and programs established or modified in accordance with this section.
 
     (c) __Report to Congress__ 
 
@@ -103,7 +109,7 @@
 
         Not later than September 30, 1992, and every two years thereafter, the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, regarding—
 
-            (A) the efforts of the Secretary to enhance participation by members of socially disadvantaged groups in agricultural programs;
+            (A) the efforts of the Secretary to enhance participation by veteran farmers or ranchers and members of socially disadvantaged groups in agricultural programs;
 
             (B) the specific participation goals established for each agricultural program;
 
@@ -115,7 +121,7 @@
 
         In addition to the information specified in paragraph (1), the report required by paragraph (1) shall include—
 
-            (A) a comparison of the participation goals and the actual participation rates of members of socially disadvantaged groups in each agricultural program;
+            (A) a comparison of the participation goals and the actual participation rates of veteran farmers or ranchers and members of socially disadvantaged groups in each agricultural program;
 
             (B) an analysis and explanation of the reasons for the success or failure of the Secretary to achieve the goals, and the overall purposes of this section;
 
@@ -203,9 +209,9 @@
 
              Any community-based organization, network, or coalition of community-based organizations that—
 
-                (i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers;
+                (i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers and veteran farmers or ranchers;
 
-                (ii) has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a) of this section; and
+                (ii) has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers and veteran farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a) of this section; and
 
                 (iii) does not engage in activities prohibited under [section 501(c)(3) of title 26][/us/usc/t26/s501/c/3].
 
@@ -225,6 +231,14 @@
 
             The term “Secretary” means the Secretary of Agriculture.
 
+        (7) __Veteran farmer or rancher__ 
+
+        The term “veteran farmer or rancher” means a farmer or rancher who has served in the Armed Forces (as defined in [section 101(10) of title 38][/us/usc/t38/s101/10]) and who—
+
+            (A) has not operated a farm or ranch; or
+
+            (B) has operated a farm or ranch for not more than 10 years.
+
     (f) __Omitted__ 
 
     (g) __Reservations__ 
@@ -241,7 +255,11 @@
 
         The Secretary shall ensure, to the maximum extent practicable, that the Census of Agriculture and studies carried out by the Economic Research Service accurately document the number, location, and economic contributions of socially disadvantaged farmers or ranchers in agricultural production.
 
-([Pub. L. 101–624, title XXV, § 2501][/us/pl/101/624/s2501], Nov. 28, 1990, [104 Stat. 4062][/us/stat/104/4062]; [Pub. L. 102–237, title X, § 1003][/us/pl/102/237/s1003], Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894]; [Pub. L. 107–171, title X, § 10707][/us/pl/107/171/s10707], May 13, 2002, [116 Stat. 520][/us/stat/116/520]; [Pub. L. 110–234, title XIV][/us/pl/110/234], §§ 14001, 14004, 14005, May 22, 2008, [122 Stat. 1442][/us/stat/122/1442], 1443, 1445; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, §§ 14001, 14004, 14005, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2204, 2205, 2207; [Pub. L. 112–240, title VII, § 701(h)][/us/pl/112/240/s701/h], Jan. 2, 2013, [126 Stat. 2367][/us/stat/126/2367].)
+    (i) __Socially Disadvantaged Farmers and Ranchers Policy Research Center__ 
+
+        The Secretary shall award a grant to a college or university eligible to receive funds under the Act of August 30, 1890 ([7 U.S.C. 321][/us/usc/t7/s321] et seq.), including Tuskegee University, to establish a policy research center to be known as the “Socially Disadvantaged Farmers and Ranchers Policy Research Center” for the purpose of developing policy recommendations for the protection and promotion of the interests of socially disadvantaged farmers and ranchers.
+
+([Pub. L. 101–624, title XXV, § 2501][/us/pl/101/624/s2501], Nov. 28, 1990, [104 Stat. 4062][/us/stat/104/4062]; [Pub. L. 102–237, title X, § 1003][/us/pl/102/237/s1003], Dec. 13, 1991, [105 Stat. 1894][/us/stat/105/1894]; [Pub. L. 107–171, title X, § 10707][/us/pl/107/171/s10707], May 13, 2002, [116 Stat. 520][/us/stat/116/520]; [Pub. L. 110–234, title XIV][/us/pl/110/234], §§ 14001, 14004, 14005, May 22, 2008, [122 Stat. 1442][/us/stat/122/1442], 1443, 1445; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, §§ 14001, 14004, 14005, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2204, 2205, 2207; [Pub. L. 112–240, title VII, § 701(h)][/us/pl/112/240/s701/h], Jan. 2, 2013, [126 Stat. 2367][/us/stat/126/2367]; [Pub. L. 113–79, title XII][/us/pl/113/79], §§ 12201, 12203, Feb. 7, 2014, [128 Stat. 983][/us/stat/128/983], 984.)
 
  __References in Text__ 
 
@@ -255,6 +273,8 @@
 
     The Food Security Act of 1985, referred to in subsec. (e)(3)(F), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354], as amended. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
+    Act of August 30, 1890, referred to in subsec. (i), is [act Aug. 30, 1890, ch. 841][/us/act/1890-08-30/ch841], [26 Stat. 417][/us/stat/26/417], popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title][/us/usc/t7/s321] and Tables.
+
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
@@ -262,6 +282,32 @@
     Section is comprised of [section 2501 of Pub. L. 101–624][/us/pl/101/624/s2501]. Subsec. (f) of [section 2501 of Pub. L. 101–624][/us/pl/101/624/s2501] amended [section 2003 of this title][/us/usc/t7/s2003].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79, § 12201(a)(1)][/us/pl/113/79/s12201/a/1], inserted “and veteran farmers and ranchers” after “ranchers” in section catchline.
+
+    Subsec. (a)(1). [Pub. L. 113–79, § 12201(a)(2)(A)][/us/pl/113/79/s12201/a/2/A], inserted “and veteran farmers or ranchers” after “ranchers” in introductory provisions.
+
+    Subsec. (a)(2)(B)(i). [Pub. L. 113–79, § 12201(a)(2)(B)][/us/pl/113/79/s12201/a/2/B], inserted “and veteran farmers or ranchers” after “ranchers”.
+
+    Subsec. (a)(4)(A). [Pub. L. 113–79, § 12201(a)(2)(C)(i)(I)][/us/pl/113/79/s12201/a/2/C/i/I], substituted “2018” for “2012” in heading.
+
+    Subsec. (a)(4)(A)(iii). [Pub. L. 113–79, § 12201(a)(2)(C)(i)(II)][/us/pl/113/79/s12201/a/2/C/i/II]–(IV), added cl. (iii).
+
+    Subsec. (a)(4)(E). [Pub. L. 113–79, § 12201(a)(2)(C)(ii)][/us/pl/113/79/s12201/a/2/C/ii], added subpar. (E).
+
+    Subsec. (b)(2). [Pub. L. 113–79, § 12201(a)(3)][/us/pl/113/79/s12201/a/3], inserted “or veteran farmers and ranchers” after “socially disadvantaged farmers and ranchers”.
+
+    Subsec. (c)(1)(A). [Pub. L. 113–79, § 12201(a)(4)(A)][/us/pl/113/79/s12201/a/4/A], inserted “veteran farmers or ranchers and” before “members”.
+
+    Subsec. (c)(2)(A). [Pub. L. 113–79, § 12201(a)(4)(B)][/us/pl/113/79/s12201/a/4/B], inserted “veteran farmers or ranchers and” before “members”.
+
+    Subsec. (e)(5)(A)(i). [Pub. L. 113–79, § 12201(a)(5)(A)][/us/pl/113/79/s12201/a/5/A], inserted “and veteran farmers or ranchers” after “ranchers”.
+
+    Subsec. (e)(5)(A)(ii). [Pub. L. 113–79, § 12201(a)(5)(B)][/us/pl/113/79/s12201/a/5/B], inserted “and veteran farmers or ranchers” after “ranchers”.
+
+    Subsec. (e)(7). [Pub. L. 113–79, § 12201(b)][/us/pl/113/79/s12201/b], added par. (7).
+
+    Subsec. (i). [Pub. L. 113–79, § 12203][/us/pl/113/79/s12203], added subsec. (i).
 
     2013—Subsec. (a)(4)(A). [Pub. L. 112–240, § 701(h)(1)][/us/pl/112/240/s701/h/1], substituted “Fiscal years 2009 through 2012” for “In general” in heading.
 
@@ -422,6 +468,8 @@
 [/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
+[/us/usc/t38/s101/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F10
+[/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/pl/101/624/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2501
 [/us/stat/104/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4062
 [/us/pl/102/237/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1003
@@ -434,6 +482,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/240/s701/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fh
 [/us/stat/126/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2367
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F983
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
@@ -449,6 +499,9 @@
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
+[/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
+[/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
+[/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -456,6 +509,19 @@
 [/us/pl/101/624/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2501
 [/us/pl/101/624/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2501
 [/us/usc/t7/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003
+[/us/pl/113/79/s12201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F1
+[/us/pl/113/79/s12201/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FA
+[/us/pl/113/79/s12201/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FB
+[/us/pl/113/79/s12201/a/2/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FC%2Fi%2FI
+[/us/pl/113/79/s12201/a/2/C/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FC%2Fi%2FII
+[/us/pl/113/79/s12201/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F2%2FC%2Fii
+[/us/pl/113/79/s12201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F3
+[/us/pl/113/79/s12201/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F4%2FA
+[/us/pl/113/79/s12201/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F4%2FB
+[/us/pl/113/79/s12201/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F5%2FA
+[/us/pl/113/79/s12201/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fa%2F5%2FB
+[/us/pl/113/79/s12201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12201%2Fb
+[/us/pl/113/79/s12203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12203
 [/us/pl/112/240/s701/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fh%2F1
 [/us/pl/112/240/s701/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fh%2F2
 [/us/pl/110/246/s14004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14004%2Fa%2F1

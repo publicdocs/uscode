@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_ch98_schIV.md) | [Next](./../../../../..//us/usc/t7/ch98/schV/m__us_usc_t7_ch98_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6951)
+[Previous](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_ch98_schIV.md) | [Next](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_s6952.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6951)
 
 ## § 6951. Under Secretary of Agriculture for Food, Nutrition, and Consumer Services
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_ch98_schIV.md) | [Next](./../../../../..//us/usc/t7/ch98/schV/m__us_usc_t7_ch98_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6951)
+[Previous](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_ch98_schIV.md) | [Next](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_s6952.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6951)
 
 ----------
 ----------

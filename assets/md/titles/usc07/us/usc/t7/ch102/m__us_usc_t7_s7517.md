@@ -13,147 +13,175 @@
 
 [Previous](./../../../..//us/usc/t7/ch102/m__us_usc_t7_s7516.md) | [Next](./../../../..//us/usc/t7/ch103/m__us_usc_t7_ch103.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7517)
 
-## § 7517. Hunger-free communities
+## § 7517. Food insecurity nutrition incentive
 
-    (a) __Definitions__ 
+    (a) __In general__ 
 
     In this section:
 
         (1) __Eligible entity__ 
 
-            The term “eligible entity” means a public food program service provider or nonprofit organization, including an emergency feeding organization, that has collaborated, or will collaborate, with 1 or more local partner organizations to achieve at least 1 hunger-free communities goal.
+        The term “eligible entity” means—
+
+            (A) a nonprofit organization (including an emergency feeding organization);
+
+            (B) an agricultural cooperative;
+
+            (C) a producer network or association;
+
+            (D) a community health organization;
+
+            (E) a public benefit corporation;
+
+            (F) an economic development corporation;
+
+            (G) a farmers’ market;
+
+            (H) a community-supported agriculture program;
+
+            (I) a buying club;
+
+            (J) a retail food store participating in the supplemental nutrition assistance program;
+
+            (K) a State, local, or tribal agency; and
+
+            (L) any other entity the Secretary designates.
 
         (2) __Emergency feeding organization__ 
 
             The term “emergency feeding organization” has the meaning given the term in [section 7501 of this title][/us/usc/t7/s7501].
 
-        (3) __Hunger-free communities goal__ 
+        (3) __Supplemental nutrition assistance program__ 
 
-            The term “hunger-free communities goal” means any of the 14 goals described in the H. Con. Res. 302 (102nd Congress).
+            The term “supplemental nutrition assistance program” means the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.).
 
-    (b) __Hunger-free communities collaborative grants__ 
+    (b) __Food insecurity nutrition incentive grants__ 
 
-        (1) __Program__ 
+        (1) __Authorization__ 
 
             (A) __In general__ 
 
-                The Secretary shall use not more than 50 percent of any funds made available under subsection (e) to make grants to eligible entities to pay the Federal share of the costs of an activity described in paragraph (2).
+                In each of the years specified in subsection (c), the Secretary shall make grants to eligible entities in accordance with paragraph (2).
 
             (B) __Federal share__ 
 
-                The Federal share of the cost of carrying out an activity under this subsection shall not exceed 80 percent.
+                The Federal share of the cost of carrying out an activity under this subsection shall not exceed 50 percent of the total cost of the activity.
 
             (C) __Non-Federal share__ 
 
-                (i) __Calculation__ 
+                (i) __In general__ 
 
-                    The non-Federal share of the cost of an activity under this subsection may be provided in cash or fairly evaluated in-kind contributions, including facilities, equipment, or services.
+                The non-Federal share of the cost of an activity under this subsection may be provided—
 
-                (ii) __Sources__ 
+                    (I) in cash or in-kind contributions as determined by the Secretary, including facilities, equipment, or services; and
 
-                    Any entity may provide the non-Federal share of the cost of an activity under this subsection through a State government, a local government, or a private source.
+                    (II) by a State or local government or a private source.
 
-        (2) __Use of funds__ 
+                (ii) __Limitation__ 
 
-        An eligible entity in a community shall use a grant received under this subsection for any fiscal year for hunger relief activities, including—
+                    In the case of a for-profit entity, the non-Federal share described in clause (i) shall not include services of an employee, including salaries paid or expenses covered by the employer.
 
-            (A)
+        (2) __Criteria__ 
 
-             meeting the immediate needs of people who experience hunger in the community served by the eligible entity by—
+            (A) __In general__ 
 
-                (i) distributing food;
+            For purposes of this subsection, an eligible entity is a governmental agency or nonprofit organization that—
+
+                (i) meets the application criteria set forth by the Secretary; and
 
                 (ii)
 
-                 providing community outreach to assist in participation in federally assisted nutrition programs, including—
+                 proposes a project that, at a minimum—
 
-                    (I) the school breakfast program established by [section 1773 of title 42][/us/usc/t42/s1773];
+                    (I) has the support of the State agency;
 
-                    (II) the school lunch program established under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.);
+                    (II) would increase the purchase of fruits and vegetables by low-income consumers participating in the supplemental nutrition assistance program by providing incentives at the point of purchase;
 
-                    (III) the summer food service program for children established under section 13 of that Act \[[42 U.S.C. 1761][/us/usc/t42/s1761]\]; and
+                    (III) agrees to participate in the evaluation described in paragraph (4);
 
-                    (IV) other Federal programs that provide food for children in child care facilities and homeless and older individuals; or
+                    (IV) ensures that the same terms and conditions apply to purchases made by individuals with benefits issued under this Act and incentives provided for in this subsection as apply to purchases made by individuals who are not members of households receiving benefits, such as provided for in section 278.2(b) of title 7, Code of Federal Regulations (or a successor regulation); and
 
-                (iii) improving access to food as part of a comprehensive service; and
+                    (V) includes effective and efficient technologies for benefit redemption systems that may be replicated in other States and communities.
 
-            (B)
+            (B) __Priority__ 
 
-             developing new resources and strategies to help reduce hunger in the community and prevent hunger in the future by—
+            In awarding grants under this section, the Secretary shall give priority to projects that—
 
-                (i) developing creative food resources, such as community gardens, buying clubs, food cooperatives, community-owned and operated grocery stores, and farmers’ markets;
+                (i) maximize the share of funds used for direct incentives to participants;
 
-                (ii) coordinating food services with park and recreation programs and other community-based outlets to reduce barriers to access; or
+                (ii) use direct-to-consumer sales marketing;
 
-                (iii) creating nutrition education programs for at-risk populations to enhance food-purchasing and food-preparation skills and to heighten awareness of the connection between diet and health.
+                (iii) demonstrate a track record of designing and implementing successful nutrition incentive programs that connect low-income consumers and agricultural producers;
 
-    (c) __Hunger-free communities infrastructure grants__ 
+                (iv) provide locally or regionally produced fruits and vegetables;
 
-        (1) __Program authorized__ 
+                (v) are located in underserved communities; or
 
-            (A) __In general__ 
+                (vi) address other criteria as established by the Secretary.
 
-                The Secretary shall use not more than 50 percent of any funds made available for a fiscal year under subsection (e) to make grants to eligible entities to pay the Federal share of the costs of an activity described in paragraph (2).
-
-            (B) __Federal share__ 
-
-                The Federal share of the cost of carrying out an activity under this subsection shall not exceed 80 percent.
-
-        (2) __Application__ 
+        (3) __Applicability__ 
 
             (A) __In general__ 
 
-                To receive a grant under this subsection, an eligible entity shall submit an application at such time, in such form, and containing such information as the Secretary may prescribe.
+                The value of any benefit provided to a participant in any activity funded under this subsection shall be treated as supplemental nutrition benefits under section 8(b) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2017(b)][/us/usc/t7/s2017/b]).
 
-            (B) __Contents__ 
+            (B) __Prohibition on collection of sales taxes__ 
 
-            Each application submitted under subparagraph (A) shall—
+                Each State shall ensure that no State or local tax is collected on a purchase of food under this subsection.
 
-                (i) identify any activity described in paragraph (3) that the grant will be used to fund; and
+            (C) __No limitation on benefits__ 
 
-                (ii) describe the means by which an activity identified under clause (i) will reduce hunger in the community of the eligible entity.
+                A grant made available under this subsection shall not be used to carry out any project that limits the use of benefits under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) or any other Federal nutrition law.
 
-            (C) __Priority__ 
+            (D) __Household allotment__ 
 
-            In making grants under this subsection, the Secretary shall give priority to eligible entities that demonstrate 2 or more of the following:
+            Assistance provided under this subsection to households receiving benefits under the supplemental nutrition assistance program shall not—
 
-                (i) The eligible entity serves a community in which the rates of food insecurity, hunger, poverty, or unemployment are demonstrably higher than national average rates.
+                (i) be considered part of the supplemental nutrition assistance program benefits of the household; or
 
-                (ii) The eligible entity serves a community that has successfully carried out long-term efforts to reduce hunger in the community.
+                (ii) be used in the collection or disposition of claims under section 13 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2022][/us/usc/t7/s2022]).
 
-                (iii) The eligible entity serves a community that provides public support for the efforts of the eligible entity.
+        (4) __Evaluation__ 
 
-                (iv) The eligible entity is committed to achieving more than 1 hunger-free communities goal.
+            (A) __Independent evaluation__ 
 
-        (3) __Use of funds__ 
+            The Secretary shall provide for an independent evaluation of projects selected under this subsection that measures the impact of each project on—
 
-            An eligible entity shall use a grant received under this subsection to construct, expand, or repair a facility or equipment to support hunger relief efforts in the community.
+                (i) improving the nutrition and health status of participating households receiving incentives under this subsection; and
 
-    (d) __Report__ 
+                (ii) increasing fruit and vegetable purchases in participating households.
 
-    If funds are made available under subsection (e) to carry out this section, not later than September 30, 2012, the Secretary shall submit to Congress a report that describes—
+            (B) __Requirement__ 
 
-        (1)
+                The independent evaluation under subparagraph (A) shall use rigorous methodologies capable of producing scientifically valid information regarding the effectiveness of a project.
 
-         each grant made under this section, including—
+            (C) __Costs__ 
 
-            (A) a description of any activity funded; and
+                The Secretary may use funds not to exceed 10 percent of the funding provided to carry out this section to pay costs associated with administering, monitoring, and evaluating each project.
 
-            (B) the degree of success of each activity funded in achieving hunger free-communities goals; and
+    (c) __Funding__ 
 
-        (2) the degree of success of all activities funded under this section in achieving domestic hunger goals.
+        (1) __Authorization of appropriations__ 
 
-    (e) __Authorization of appropriations__ 
+            There is authorized to be appropriated to carry out subsection (b) $5,000,000 for each of fiscal years 2014 through 2018.
 
-        There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
+        (2) __Mandatory funding__ 
 
-([Pub. L. 110–234, title IV, § 4405][/us/pl/110/234/s4405], May 22, 2008, [122 Stat. 1138][/us/stat/122/1138]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1899.)
+        Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out subsection (b)—
+
+            (A) $35,000,000 for the period of fiscal years 2014 and 2015;
+
+            (B) $20,000,000 for each of fiscal years 2016 and 2017; and
+
+            (C) $25,000,000 for fiscal year 2018.
+
+([Pub. L. 110–234, title IV, § 4405][/us/pl/110/234/s4405], May 22, 2008, [122 Stat. 1138][/us/stat/122/1138]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1899; [Pub. L. 113–79, title IV, § 4208][/us/pl/113/79/s4208], Feb. 7, 2014, [128 Stat. 826][/us/stat/128/826].)
 
  __References in Text__ 
 
-    H. Con. Res. 302 (102nd Congress), referred to in subsec. (a)(3), is H. Con. Res. 302, Oct. 5, 1992, [106 Stat. 5204][/us/stat/106/5204], which is not classified to the Code.
+    The Food and Nutrition Act of 2008, referred to in subsecs. (a)(3) and (b)(3)(C), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t7/s2011] and Tables.
 
-    The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2)(A)(ii)(II), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
+    This Act, referred to in subsec. (b)(2)(A)(iv), is [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1651][/us/stat/122/1651], known as the Food, Conservation, and Energy Act of 2008. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t7/s8701] and Tables.
 
  __Codification__ 
 
@@ -162,6 +190,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
     Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Emergency Food Assistance Act of 1983 which comprises this chapter.
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] amended section generally. Prior to amendment, section related to hunger-free communities.
 
  __Effective Date__ 
 
@@ -181,17 +213,22 @@
 ----------
 
 [/us/usc/t7/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7501
-[/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
-[/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/usc/t42/s1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1761
+[/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/usc/t7/s2017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2017%2Fb
+[/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/usc/t7/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022
 [/us/pl/110/234/s4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4405
 [/us/stat/122/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1138
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/stat/106/5204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5204
-[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
-[/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
-[/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
+[/us/pl/113/79/s4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4208
+[/us/stat/128/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F826
+[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
+[/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
+[/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
+[/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fa
@@ -200,6 +237,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

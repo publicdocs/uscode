@@ -113,23 +113,31 @@
 
         (6) __Priority__ 
 
-        In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
+            (A) __Eligible independent producers of value-added agricultural products__ 
 
-            (A) beginning farmers or ranchers;
+            In awarding grants under paragraph (1)(A), the Secretary shall give priority to—
 
-            (B) socially disadvantaged farmers or ranchers; and
+                (i) operators of small- and medium-sized farms and ranches that are structured as family farms;
 
-            (C) operators of small- and medium-sized farms and ranches that are structured as a family farm.
+                (ii) beginning farmers or ranchers;
+
+                (iii) socially disadvantaged farmers or ranchers; and
+
+                (iv) veteran farmers or ranchers (as defined in [section 2279(e) of this title][/us/usc/t7/s2279/e]).
+
+            (B) __Eligible agricultural producer groups, farmer or rancher cooperatives, and majority-controlled producer-based business venture__ 
+
+                In awarding grants under paragraph (1)(B), the Secretary shall give priority to projects (including farmer or rancher cooperative projects) that best contribute to creating or increasing marketing opportunities for operators, farmers, and ranchers described in subparagraph (A).
 
         (7) __Funding__ 
 
             (A) __Mandatory funding__ 
 
-                On October 1, 2008, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $15,000,000, to remain available until expended.
+                On February 7, 2014, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $63,000,000, to remain available until expended.
 
             (B) __Discretionary funding__ 
 
-                There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2008 through 2012.
+                There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2008 through 2018.
 
             (C) __Reservation of funds for projects to benefit beginning farmers or ranchers, socially disadvantaged farmers or ranchers, and mid-tier value chains__ 
 
@@ -177,7 +185,7 @@
 
         (2) the purchase, rental, or installation of fixed equipment.
 
-([Pub. L. 106–224, title II, § 231][/us/pl/106/224/s231], June 20, 2000, [114 Stat. 409][/us/stat/114/409]; [Pub. L. 107–171, title VI, § 6401(a)][/us/pl/107/171/s6401/a], May 13, 2002, [116 Stat. 424][/us/stat/116/424]; [Pub. L. 110–234, title VI, § 6202][/us/pl/110/234/s6202], May 22, 2008, [122 Stat. 1206][/us/stat/122/1206]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1967.)
+([Pub. L. 106–224, title II, § 231][/us/pl/106/224/s231], June 20, 2000, [114 Stat. 409][/us/stat/114/409]; [Pub. L. 107–171, title VI, § 6401(a)][/us/pl/107/171/s6401/a], May 13, 2002, [116 Stat. 424][/us/stat/116/424]; [Pub. L. 110–234, title VI, § 6202][/us/pl/110/234/s6202], May 22, 2008, [122 Stat. 1206][/us/stat/122/1206]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6202, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1967; [Pub. L. 113–79, title VI, § 6203][/us/pl/113/79/s6203], Feb. 7, 2014, [128 Stat. 857][/us/stat/128/857].)
 
  __Codification__ 
 
@@ -188,6 +196,18 @@
     Section was formerly set out as a note under [section 1621 of this title][/us/usc/t7/s1621].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(6). [Pub. L. 113–79, § 6203(1)][/us/pl/113/79/s6203/1], added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
+
+    “(A) beginning farmers or ranchers;
+
+    “(B) socially disadvantaged farmers or ranchers; and
+
+    “(C) operators of small- and medium-sized farms and ranches that are structured as a family farm.”
+
+    Subsec. (b)(7)(A). [Pub. L. 113–79, § 6203(2)(A)][/us/pl/113/79/s6203/2/A], substituted “On February 14, 2014,” for “On October 1, 2008,” and “$63,000,000” for “$15,000,000”.
+
+    Subsec. (b)(7)(B). [Pub. L. 113–79, § 6203(2)(B)][/us/pl/113/79/s6203/2/B], substituted “2018” for “2012”.
 
     2008—Subsec. (a). [Pub. L. 110–246, § 6202(a)][/us/pl/110/246/s6202/a], added subsec. (a) and struck out former subsec. (a) which defined “value-added agricultural product”.
 
@@ -230,6 +250,7 @@
 
 [/us/usc/t7/s1991/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1991%2Fa
 [/us/usc/t7/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe
+[/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
 [/us/pl/106/224/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs231
 [/us/stat/114/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F409
 [/us/pl/107/171/s6401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6401%2Fa
@@ -238,11 +259,16 @@
 [/us/stat/122/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1206
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6203
+[/us/stat/128/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F857
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
+[/us/pl/113/79/s6203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6203%2F1
+[/us/pl/113/79/s6203/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6203%2F2%2FA
+[/us/pl/113/79/s6203/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6203%2F2%2FB
 [/us/pl/110/246/s6202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6202%2Fa
 [/us/pl/110/246/s6202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6202%2Fb%2F1
 [/us/pl/110/246/s6202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6202%2Fb%2F2

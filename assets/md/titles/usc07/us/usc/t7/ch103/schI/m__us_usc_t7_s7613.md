@@ -21,15 +21,15 @@
 
             The Secretary shall establish procedures that provide for scientific peer review of each agricultural research grant administered, on a competitive basis, by the National Institute of Food and Agriculture of the Department.
 
-        (2) __Merit review of extension and education grants__ 
+        (2) __Relevance and merit review of research, extension, and education grants__ 
 
             (A) __Establishment of procedures__ 
 
-                The Secretary shall establish procedures that provide for merit review of each agricultural extension or education grant administered, on a competitive basis, by the National Institute of Food and Agriculture.
+                The Secretary shall establish procedures that provide for relevance and merit review of each agricultural research, extension, or education grant administered, on a competitive basis, by the National Institute of Food and Agriculture.
 
             (B) __Consultation with Advisory Board__ 
 
-                The Secretary shall consult with the Advisory Board in establishing the merit review procedures.
+                The Secretary shall consult with the Advisory Board in establishing the merit review procedures on a continuous basis.
 
         (3) __Consideration__ 
 
@@ -111,7 +111,7 @@
 
             (B) review the activity in accordance with such process.
 
-([Pub. L. 105–185, title I, § 103][/us/pl/105/185/s103], June 23, 1998, [112 Stat. 527][/us/stat/112/527]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7129(c)(3), 7301, 7511(c)(30), May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1242, 1270; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7129(c)(3), 7301, 7511(c)(30), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2003, 2031.)
+([Pub. L. 105–185, title I, § 103][/us/pl/105/185/s103], June 23, 1998, [112 Stat. 527][/us/stat/112/527]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7129(c)(3), 7301, 7511(c)(30), May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1242, 1270; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7129(c)(3), 7301, 7511(c)(30), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2003, 2031; [Pub. L. 113–79, title VII, § 7301][/us/pl/113/79/s7301], Feb. 7, 2014, [128 Stat. 887][/us/stat/128/887].)
 
  __Codification__ 
 
@@ -120,6 +120,12 @@
     Section is comprised of [section 103 of Pub. L. 105–185][/us/pl/105/185/s103]. Subsec. (f) of [section 103 of Pub. L. 105–185][/us/pl/105/185/s103] amended sections 361g, 3221, and 3222 of this title and repealed sections 346 and 3314 of this title.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–79, § 7301(1)][/us/pl/113/79/s7301/1], substituted “Relevance and merit review of research, extension,” for “Merit review of extension” in heading.
+
+    Subsec. (a)(2)(A). [Pub. L. 113–79, § 7301(2)][/us/pl/113/79/s7301/2], inserted “relevance and” before “merit” and substituted “research, extension, or education” for “extension or education”.
+
+    Subsec. (a)(2)(B). [Pub. L. 113–79, § 7301(3)][/us/pl/113/79/s7301/3], inserted “on a continuous basis” after “procedures”.
 
     2008—Subsec. (a). [Pub. L. 110–246, § 7511(c)(30)][/us/pl/110/246/s7511/c/30], substituted “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service” in heading and “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in text of pars. (1) and (2)(A).
 
@@ -148,12 +154,17 @@
 [/us/stat/122/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1227
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7301
+[/us/stat/128/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F887
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/105/185/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103
 [/us/pl/105/185/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs103
+[/us/pl/113/79/s7301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7301%2F1
+[/us/pl/113/79/s7301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7301%2F2
+[/us/pl/113/79/s7301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7301%2F3
 [/us/pl/110/246/s7511/c/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F30
 [/us/pl/110/246/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7301
 [/us/pl/110/246/s7129/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7129%2Fc%2F3

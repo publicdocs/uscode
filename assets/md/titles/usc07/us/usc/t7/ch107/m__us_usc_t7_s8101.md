@@ -85,19 +85,33 @@
 
         The term “Board” means the Biomass Research and Development Board established by [section 8108(c) of this title][/us/usc/t7/s8108/c].
 
-    (9) __Indian tribe__ 
+    (9) __Forest product__ 
+
+        (A) __In general__ 
+
+            The term “forest product” means a product made from materials derived from the practice of forestry or the management of growing timber.
+
+        (B) __Inclusions__ 
+
+        The term “forest product” includes—
+
+            (i) pulp, paper, paperboard, pellets, lumber, and other wood products; and
+
+            (ii) any recycled products derived from forest materials.
+
+    (10) __Indian tribe__ 
 
         The term “Indian tribe” has the meaning given the term in [section 450b of title 25][/us/usc/t25/s450b].
 
-    (10) __Institution of higher education__ 
+    (11) __Institution of higher education__ 
 
         The term “institution of higher education” has the meaning given the term in [section 1002(a) of title 20][/us/usc/t20/s1002/a].
 
-    (11) __Intermediate ingredient or feedstock__ 
+    (12) __Intermediate ingredient or feedstock__ 
 
         The term “intermediate ingredient or feedstock” means a material or compound made in whole or in significant part from biological products, including renewable agricultural materials (including plant, animal, and marine materials) or forestry materials, that are subsequently used to make a more complex compound or product.
 
-    (12) __Renewable biomass__ 
+    (13) __Renewable biomass__ 
 
     The term “renewable biomass” means—
 
@@ -159,7 +173,11 @@
 
                 (IV) food waste and yard waste.
 
-    (13) __Renewable energy__ 
+    (14) __Renewable chemical__ 
+
+        The term “renewable chemical” means a monomer, polymer, plastic, formulated product, or chemical substance produced from renewable biomass.
+
+    (15) __Renewable energy__ 
 
     The term “renewable energy” means energy derived from—
 
@@ -167,11 +185,25 @@
 
         (B) hydrogen derived from renewable biomass or water using an energy source described in subparagraph (A).
 
-    (14) __Secretary__ 
+    (16) __Renewable energy system__ 
+
+        (A) __In general__ 
+
+        Subject to subparagraph (B), the term “renewable energy system” means a system that—
+
+            (i) produces usable energy from a renewable energy source; and
+
+            (ii) may include distribution components necessary to move energy produced by such system to the initial point of sale.
+
+        (B) __Limitation__ 
+
+            A system described in subparagraph (A) may not include a mechanism for dispensing energy at retail.
+
+    (17) __Secretary__ 
 
         The term “Secretary” means the Secretary of Agriculture.
 
-([Pub. L. 107–171, title IX, § 9001][/us/pl/107/171/s9001], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1303][/us/stat/122/1303], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2064.)
+([Pub. L. 107–171, title IX, § 9001][/us/pl/107/171/s9001], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1303][/us/stat/122/1303], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2064; amended [Pub. L. 113–79, title IX, § 9001][/us/pl/113/79/s9001], Feb. 7, 2014, [128 Stat. 926][/us/stat/128/926].)
 
  __Codification__ 
 
@@ -180,6 +212,20 @@
  __Prior Provisions__ 
 
     A prior section 8101, [Pub. L. 107–171, title IX, § 9001][/us/pl/107/171/s9001], May 13, 2002, [116 Stat. 475][/us/stat/116/475]; [Pub. L. 109–58, title IX, § 943(a)(1)][/us/pl/109/58/s943/a/1], Aug. 8, 2005, [119 Stat. 880][/us/stat/119/880], contained definitions for this chapter, prior to the general amendment of this chapter by [Pub. L. 110–246][/us/pl/110/246].
+
+ __Amendments__ 
+
+    2014—Par. (9). [Pub. L. 113–79, § 9001(2)][/us/pl/113/79/s9001/2], added par. (9). Former par. (9) redesignated (10).
+
+    Par. (10) to (13). [Pub. L. 113–79, § 9001(1)][/us/pl/113/79/s9001/1], redesignated pars. (9) to (12) as (10) to (13), respectively. Former par. (13) redesignated (15).
+
+    Par. (14). [Pub. L. 113–79, § 9001(3)][/us/pl/113/79/s9001/3], added par. (14)
+
+    Par. (15). [Pub. L. 113–79, § 9001(1)][/us/pl/113/79/s9001/1], redesignated par. (13) as (15).
+
+    Par. (16). [Pub. L. 113–79, § 9001(4)][/us/pl/113/79/s9001/4], added par. (16).
+
+    Par. (17). [Pub. L. 113–79, § 9001(1)][/us/pl/113/79/s9001/1], redesignated par. (14) as (17).
 
  __Effective Date__ 
 
@@ -251,6 +297,8 @@
 [/us/stat/122/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1303
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9001
+[/us/stat/128/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F926
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -260,6 +308,12 @@
 [/us/pl/109/58/s943/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs943%2Fa%2F1
 [/us/stat/119/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F880
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79/s9001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9001%2F2
+[/us/pl/113/79/s9001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9001%2F1
+[/us/pl/113/79/s9001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9001%2F3
+[/us/pl/113/79/s9001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9001%2F1
+[/us/pl/113/79/s9001/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9001%2F4
+[/us/pl/113/79/s9001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9001%2F1
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

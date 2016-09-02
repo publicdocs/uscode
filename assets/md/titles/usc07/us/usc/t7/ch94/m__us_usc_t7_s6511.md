@@ -39,17 +39,11 @@
 
             such agricultural product shall not be sold or labeled as organically produced under this chapter.
 
-    (d) __Recordkeeping requirements__ 
-
-    Producers who operate a certified organic farm or handling operation under this chapter shall maintain records for 5 years concerning the production or handling of agricultural products sold or labeled as organically produced under this chapter, including—
-
-        (1) a detailed history of substances applied to fields or agricultural products; and
-
-        (2) the names and addresses of persons who applied such substances, the dates, the rate, and method of application of such substances.
-
-([Pub. L. 101–624, title XXI, § 2112][/us/pl/101/624/s2112], Nov. 28, 1990, [104 Stat. 3942][/us/stat/104/3942]; [Pub. L. 102–237, title X, § 1001(4)][/us/pl/102/237/s1001/4], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893].)
+([Pub. L. 101–624, title XXI, § 2112][/us/pl/101/624/s2112], Nov. 28, 1990, [104 Stat. 3942][/us/stat/104/3942]; [Pub. L. 102–237, title X, § 1001(4)][/us/pl/102/237/s1001/4], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 113–79, title X, § 10005(a)][/us/pl/113/79/s10005/a], Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79] struck out subsec. (d) which related to recordkeeping requirements for producers who operate a certified organic farm or handling operation.
 
     1991—Subsec. (b). [Pub. L. 102–237][/us/pl/102/237] substituted “Preharvest” for “Pre-harvest” in heading.
 
@@ -64,6 +58,9 @@
 [/us/stat/104/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3942
 [/us/pl/102/237/s1001/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F4
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
+[/us/pl/113/79/s10005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fa
+[/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

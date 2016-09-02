@@ -271,9 +271,9 @@
 
     (h) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.
+        There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2018.
 
-([Pub. L. 87–128, title III, § 333B][/us/pl/87/128/s333B], as added [Pub. L. 110–234, title V, § 5301][/us/pl/110/234/s5301], May 22, 2008, [122 Stat. 1147][/us/stat/122/1147], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5301, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1908.)
+([Pub. L. 87–128, title III, § 333B][/us/pl/87/128/s333B], as added [Pub. L. 110–234, title V, § 5301][/us/pl/110/234/s5301], May 22, 2008, [122 Stat. 1147][/us/stat/122/1147], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5301, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1908; [Pub. L. 113–79, title V, § 5301][/us/pl/113/79/s5301], Feb. 7, 2014, [128 Stat. 839][/us/stat/128/839].)
 
  __References in Text__ 
 
@@ -286,6 +286,10 @@
  __Prior Provisions__ 
 
     A prior section 1983b, [Pub. L. 87–128, title III, § 333B][/us/pl/87/128/s333B], as added [Pub. L. 99–198, title XIII, § 1313(a)][/us/pl/99/198/s1313/a], Dec. 23, 1985, [99 Stat. 1525][/us/stat/99/1525]; amended [Pub. L. 100–233, title VI, § 608][/us/pl/100/233/s608], Jan. 6, 1988, [101 Stat. 1667][/us/stat/101/1667]; [Pub. L. 101–624, title XVIII, § 1812][/us/pl/101/624/s1812], Nov. 28, 1990, [104 Stat. 3821][/us/stat/104/3821], related to appeals from adverse decisions under the Consolidated Farm and Rural Development Act, prior to repeal by [Pub. L. 103–354, title II, § 281(c)][/us/pl/103/354/s281/c], Oct. 13, 1994, [108 Stat. 3233][/us/stat/108/3233]. See section 6991 et seq. of this title.
+
+ __Amendments__ 
+
+    2014—Subsec. (h). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
  __Effective Date__ 
 
@@ -305,6 +309,8 @@
 [/us/stat/122/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1147
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5301
+[/us/stat/128/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F839
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -319,6 +325,7 @@
 [/us/stat/104/3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3821
 [/us/pl/103/354/s281/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs281%2Fc
 [/us/stat/108/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3233
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

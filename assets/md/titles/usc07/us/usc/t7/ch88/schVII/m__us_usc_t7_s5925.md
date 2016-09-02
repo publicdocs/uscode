@@ -17,7 +17,7 @@
 
     (a) __Competitive specialized research and extension grants authorized__ 
 
-        The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (e) through (i) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+        The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 
     (b) __Administration__ 
 
@@ -27,317 +27,175 @@
 
         (2) __Use of task forces__ 
 
-            To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (e) through (i) of this section, the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
+            To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (d) through (g) of this section, the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
 
-    (c) __Matching funds required__ 
-
-        (1) __In general__ 
-
-            The Secretary shall require the recipient of a grant under this section to provide funds or in-kind support from non-Federal sources in an amount at least equal to the amount provided by the Federal Government.
-
-        (2) __Waiver authority__ 
-
-        The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a research project if the Secretary determines that—
-
-            (A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
-
-            (B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
-
-    (d) __Partnerships encouraged__ 
+    (c) __Partnerships encouraged__ 
 
         Following the completion of a peer review process for grant proposals received under this section, the Secretary shall provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.
 
-    (e) __High-priority research and extension areas__ 
+    (d) __High-priority research and extension areas__ 
 
-        (1) __Ethanol research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of carrying out or enhancing research on ethanol derived from agricultural crops as an alternative fuel source.
-
-        (2) __Aflatoxin research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of identifying, improving, and eventually commercializing, alfatoxin controls in corn and other affected agricultural products and crops.
-
-        (3) __Prickly pear research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of investigating enhanced genetic selection and processing techniques of prickly pears.
-
-        (4) __Deer tick ecology research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of studying the population ecology of deer ticks and other insects and pests that transmit Lyme disease.
-
-        (5) __Peanut market enhancement research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of evaluating the economics of applying innovative technologies for peanut processing in a commercial environment.
-
-        (6) __Dairy financial risk management research and extension__ 
+        (1) __Dairy financial risk management research and extension__ 
 
             Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
 
-        (7) __Cotton research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of improving pest management, fiber quality enhancement, economic assessment, textile production, and optimized production systems for short staple cotton.
-
-        (8) __Methyl bromide research and extension__ 
-
-        Research and extension grants may be made under this section for the purpose of—
-
-            (A) developing and evaluating chemical and nonchemical alternatives, and use and emission reduction strategies, for pre-planting and post-harvest uses of methyl bromide; and
-
-            (B) transferring the results of the research for use by agricultural producers.
-
-        (9) __Potato research and extension__ 
+        (2) __Potato research and extension__ 
 
             Research and extension grants may be made under this section for the purpose of developing and evaluating new strains of potatoes that are resistant to blight and other diseases, as well as insects. Emphasis may be placed on developing potato varieties that lend themselves to innovative marketing approaches.
 
-        (10) __Wood use research and extension__ 
+        (3) __Wood use research and extension__ 
 
             Research and extension grants may be made under this section for the purpose of developing new uses for wood from underused tree species as well as investigating methods of modifying wood and wood fibers to produce better building materials.
 
-        (11) __Wetlands use research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of better use of wetlands in diverse ways to provide various economic, agricultural, and environmental benefits.
-
-        (12) __Food safety, including pathogen detection and limitation, research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of increasing food safety, including the identification of advanced detection and processing methods to limit the presence of pathogens (including hepatitis A and E. coli 0157:H7) in domestic and imported foods.
-
-        (13) __Financial risk management research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding financial risk management strategies for agricultural producers and for cooperatives and other processors and marketers of any agricultural commodity.
-
-        (14) __Ornamental tropical fish research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of meeting the needs of commercial producers of ornamental tropical fish and aquatic plants for improvements in the areas of fish reproduction, health, nutrition, predator control, water use, water quality control, and farming technology.
-
-        (15) __Gypsy moth research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of developing biological control, management, and eradication methods against nonnative insects, including Lymantria dispar (commonly known as the “gypsy moth”), that contribute to significant agricultural, economic, or environmental harm.
-
-        (16) __Tomato spotted wilt virus research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of control, management, and eradication of tomato spotted wilt virus.
-
-        (17) __Genetically modified agriculture products (GMAP) research__ 
-
-            Research grants may be made under this section for the purposes of providing unbiased, science-based evaluation of the risks and benefits to the public and the environment of specific genetically modified plant and animal products. Grants may be used to form interdisciplinary teams to review and conduct research on scientific, social, economic, and ethical issues during the review process, to answer questions raised by the release of new genetically modified agriculture products, to conduct fundamental studies on the health and environmental safety of genetically modified agriculture products (including quantitative risk assessment, the effect of specific genetically modified agriculture products on human health, and gene flow studies), to communicate the risk of genetically modified agriculture products through extension and education programs, and to engage the public and industry in relevant issues.
-
-        (18) __Land use management research and extension__ 
-
-            Research and extension grants may be made under this section for the purposes of evaluating the environmental benefits of land use management tools such as those provided in the Farmland Protection Program.
-
-        (19) __Water and air quality research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of better understanding agricultural impacts to air and water quality and means to address them.
-
-        (20) __Revenue and insurance tools research and extension__ 
-
-            Research and extension grants may be made under this section for the purposes of better understanding the impact of revenue and insurance tools on farm income.
-
-        (21) __Agrotourism research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of better understanding the economic, environmental, and food systems impacts of agrotourism.
-
-        (22) __Nitrogen-fixation by plants__ 
-
-            Research and extension grants may be made under this section for the purpose of enhancing the nitrogen-fixing ability and efficiency of legumes, developing new varieties of legumes that fix nitrogen more efficiently, and developing new varieties of other commercially important crops that potentially are able to fix nitrogen.
-
-        (23) __Environment and private lands research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of researching the use of computer models to aid in assessment of best management practices on a watershed basis, working with government, industry, and private landowners to help craft industry-led solutions to identified environmental issues, researching and monitoring water, air, or soil environmental quality to aid in the development of new approaches to local environmental concerns, and working with local, State, and federal officials to help craft effective environmental solutions that respect private property rights and agricultural production realities.
-
-        (24) __Livestock disease research and extension__ 
-
-            Research and extension grants may be made under this section for the purpose of identifying possible livestock disease threats, educating the public regarding livestock disease threats, training persons to deal with such threats, and conducting related research.
-
-        (25) __Plant gene expression__ 
-
-            Research grants may be made under this section for the purpose of plant gene expression research to accelerate the application of basic plant genomic science to the development and testing of new varieties of enhanced food crops, crops that can be used as renewable energy sources, and other alternative uses of agricultural crops.
-
-        (26) __Animal infectious diseases research__ 
-
-            Research and extension grants may be made under this section for the purpose of developing prevention and control methodologies for animal infectious diseases (including evaluation under field conditions in countries in which an animal disease occurs) such as laboratory tests for quicker detection of infected animals and presence of disease, prevention strategies (including vaccination programs), and rapid diagnostic techniques for animal disease agents considered to be risks for agricultural bioterrorism attack.
-
-        (27) __Program to combat childhood obesity__ 
-
-            Research and extension grants may be made under this section to institutions of higher education with demonstrated capacity in basic and clinical obesity research, nutrition research, and community health education research to develop and evaluate community-wide strategies that catalyze partnerships between families and health care, education, recreation, mass media, and other community resources to reduce the incidence of childhood obesity.
-
-        (28) __Integrated pest management__ 
-
-            Research and extension grants may be made under this section to coordinate and improve research, education, and outreach on, and implementation on farms of, integrated pest management.
-
-        (29) __Sugarcane genetics__ 
-
-            Research grants may be made under this section for the purpose of maintaining acceptable yields under reduced production inputs, implementing marker-assisted breeding strategies and other basic plant genomic technologies to screen for improved plant resistance to diseases, weeds, and insects toward minimizing pesticide use, enhancing food, fiber and energy production, and developing varieties for maximum performance under prevailing conditions, including management for improved soil and water conservation.
-
-        (30) __Air emissions from livestock operations__ 
-
-            Research and extension grants may be made under this section for the purpose of conducting field verification tests and developing mitigation options for air emissions from animal feeding operations.
-
-        (31) __Swine genome project__ 
-
-            Research grants may be made under this section to conduct swine genome research, including the mapping of the swine genome.
-
-        (32) __Cattle fever tick program__ 
-
-            Research and extension grants may be made under this section to study cattle fever ticks to facilitate understanding of the role of wildlife in the persistence and spread of cattle fever ticks, to develop advanced methods for eradication of cattle fever ticks, and to improve management of diseases relating to cattle fever ticks that are associated with wildlife, livestock, and human health.
-
-        (33) __Synthetic gypsum__ 
-
-            Research and extension grants may be made under this section to study the uses of synthetic gypsum from electric power plants to remediate soil and nutrient losses.
-
-        (34) __Cranberry research program__ 
-
-            Research and extension grants may be made under this section to study new technologies to assist cranberry growers in complying with Federal and State environmental regulations, increase production, develop new growing techniques, establish more efficient growing methodologies, and educate cranberry producers about sustainable growth practices.
-
-        (35) __Sorghum research initiative__ 
-
-            Research and extension grants may be made under this section to study the use of sorghum as a bioenergy feedstock, promote diversification in, and the environmental benefits of sorghum production, and promote water conservation through the use of sorghum.
-
-        (36) __Marine shrimp farming program__ 
-
-            Research and extension grants may be made under this section to establish a research program to advance and maintain a domestic shrimp farming industry in the United States.
-
-        (37) __Turfgrass research initiative__ 
-
-            Research and extension grants may be made under this section to study the production of turfgrass (including the use of water, fertilizer, pesticides, fossil fuels, and machinery for turf establishment and maintenance) and environmental protection and enhancement relating to turfgrass production.
-
-        (38) __Agricultural worker safety research initiative__ 
-
-        Research and extension grants may be made under this section—
-
-            (A) to study and demonstrate methods to minimize exposure of farm and ranch owners and operators, pesticide handlers, and agricultural workers to pesticides, including research addressing the unique concerns of farm workers resulting from long-term exposure to pesticides; and
-
-            (B) to develop rapid tests for on-farm use to better inform and educate farmers, ranchers, and farm and ranch workers regarding safe field re-entry intervals.
-
-        (39) __High plains aquifer region__ 
-
-            Research and extension grants may be made under this section to carry out interdisciplinary research relating to diminishing water levels and increased demand for water in the High Plains aquifer region.
-
-        (40) __Deer initiative__ 
-
-            Research and extension grants may be made under this section to support collaborative research focusing on the development of viable strategies for the prevention, diagnosis, and treatment of infectious, parasitic, and toxic diseases of farmed deer and the mapping of the deer genome.
-
-        (41) __Pasture-based beef systems research initiative__ 
-
-            Research and extension grants may be made under this section to study the development of forage sequences and combinations for cow-calf, heifer development, stocker, and finishing systems, to deliver optimal nutritive value for efficient production of cattle for pasture finishing, to optimize forage systems to improve marketability of pasture-finished beef, and to assess the effect of forage quality on reproductive fitness.
-
-        (42) __Agricultural practices relating to climate change__ 
-
-            Research and extension grants may be made under this section for field and laboratory studies that examine the ecosystem from gross to minute scales and for projects that explore the relationship of agricultural practices to climate change.
-
-        (43) __Brucellosis control and eradication__ 
-
-            Research and extension grants may be made under this section to conduct research relating to the development of vaccines and vaccine delivery systems to effectively control and eliminate brucellosis in wildlife, and to assist with the controlling of the spread of brucellosis from wildlife to domestic animals.
-
-        (44) __Bighorn and domestic sheep disease mechanisms__ 
+        (4) __Bighorn and domestic sheep disease mechanisms__ 
 
             Research and extension grants may be made under this section to conduct research relating to the health status of (including the presence of infectious diseases in) bighorn and domestic sheep under range conditions.
 
-        (45) __Agricultural development in the American-Pacific region__ 
+        (5) __Agricultural development in the American-Pacific region__ 
 
             Research and extension grants may be made under this section to support food and agricultural science at a consortium of land-grant institutions in the American-Pacific region.
 
-        (46) __Tropical and subtropical agricultural research__ 
+        (6) __Tropical and subtropical agricultural research__ 
 
             Research grants may be made under this section, in equal dollar amounts to the Caribbean and Pacific Basins, to support tropical and subtropical agricultural research, including pest and disease research, at the land-grant institutions in the Caribbean and Pacific regions.
 
-        (47) __Viral hemorrhagic septicemia__ 
-
-        Research and extension grants may be made under this section to study—
-
-            (A) the effects of viral hemorrhagic septicemia (referred to in this paragraph as “VHS”) on freshwater fish throughout the natural and expanding range of VHS; and
-
-            (B) methods for transmission and human-mediated transport of VHS among waterbodies.
-
-        (48) __Farm and ranch safety__ 
-
-        Research and extension grants may be made under this section to carry out projects to decrease the incidence of injury and death on farms and ranches, including—
-
-            (A) on-site farm or ranch safety reviews;
-
-            (B) outreach and dissemination of farm safety research and interventions to agricultural employers, employees, youth, farm and ranch families, seasonal workers, or other individuals; and
-
-            (C) agricultural safety education and training.
-
-        (49) __Women and minorities in stem fields__ 
+        (7) __Women and minorities in stem fields__ 
 
             Research and extension grants may be made under this section to increase participation by women and underrepresented minorities from rural areas in the fields of science, technology, engineering, and mathematics, with priority given to eligible institutions that carry out continuing programs funded by the Secretary.
 
-        (50) __Alfalfa and forage research program__ 
+        (8) __Alfalfa and forage research program__ 
 
             Research and extension grants may be made under this section for the purpose of studying improvements in alfalfa and forage yields, biomass and persistence, pest pressures, the bioenergy potential of alfalfa and other forages, and systems to reduce losses during harvest and storage.
 
-        (51) __Food systems veterinary medicine__ 
+        (9) __Coffee plant health initiative__ 
 
-            Research grants may be made under this section to address health issues that affect food-producing animals, food safety, and the environment, and to improve information resources, curriculum, and clinical education of students with respect to food animal veterinary medicine and food safety.
+        Research and extension grants may be made under this section for the purposes of—
 
-        (52) __Biochar research__ 
+            (A) developing and disseminating science-based tools and treatments to combat the coffee berry borer (Hypothenemus hampei); and
 
-            Grants may be made under this section for research, extension, and integrated activities relating to the study of biochar production and use, including considerations of agronomic and economic impacts, synergies of coproduction with bioenergy, and the value of soil enhancements and soil carbon sequestration.
+            (B) establishing an areawide integrated pest management program in areas affected by, or areas at risk of, being affected by the coffee berry borer.
 
-    (f) __Imported fire ant control, management, and eradication__ 
+        (10) __Corn, soybean meal, cereal grains, and grain byproducts research and extension__ 
 
-        (1) __Task force__ 
+            Research and extension grants may be made under this section for the purpose of carrying out or enhancing research to improve the digestibility, nutritional value, and efficiency of the use of corn, soybean meal, cereal grains, and grain byproducts for the poultry and food animal production industries.
 
-            The Secretary shall establish a task force pursuant to subsection (b)(2) of this section regarding the control, management, and eradication of imported fire ants. The Secretary shall solicit and evaluate grant proposals under this subsection in consultation with the task force.
+    (e) __Pulse crop health initiative__ 
 
-        (2) __Initial grants__ 
+        (1) __Definitions__ 
 
-            (A) __Request for proposals__ 
+        In this subsection:
 
-                The Secretary shall publish a request for proposals for grants for research or demonstration projects related to the control, management, and possible eradication of imported fire ants.
+            (A) __Initiative__ 
 
-            (B) __Selection__ 
+                The term “Initiative” means the pulse crop health initiative established by paragraph (2).
 
-                Not later than 1 year after the date of publication of the request for proposals, the Secretary shall evaluate the grant proposals submitted in response to the request and may select meritorious research or demonstration projects related to the control, management, and possible eradication of imported fire ants to receive an initial grant under this subsection.
+            (B) __Pulse crop__ 
 
-        (3) __Subsequent grants__ 
+                The term “pulse crop” means dry beans, dry peas, lentils, and chickpeas.
 
-            (A) __Evaluation of initial grants__ 
+        (2) __Establishment__ 
 
-                If the Secretary awards grants under paragraph (2)(B), the Secretary shall evaluate all of the research or demonstration projects conducted under the grants for their use as the basis of a national plan for the control, management, and possible eradication of imported fire ants by the Federal Government, State and local governments, and owners and operators of land.
+        The Secretary shall carry out a pulse crop health competitive research and extension initiative to address the critical needs of the pulse crop industry by developing and disseminating science-based tools and information, including—
 
-            (B) __Selection__ 
+            (A)
 
-                On the basis of the evaluation under subparagraph (A), the Secretary may select the projects that the Secretary considers most promising for additional research or demonstration related to preparation of a national plan for the control, management, and possible eradication of imported fire ants. The Secretary shall notify the task force of the projects selected under this subparagraph.
+             research conducted with respect to pulse crops in the areas of health and nutrition, such as—
 
-        (4) __Selection and submission of national plan__ 
+                (i) pulse crop diets and the ability of such diets to reduce obesity and associated chronic disease; and
 
-            (A) __Evaluation of subsequent grants__ 
+                (ii) the underlying mechanisms of the health benefits of pulse crop consumption;
 
-                If the Secretary awards grants under paragraph (3)(B), the Secretary shall evaluate all of the research or demonstration projects conducted under the grants for use as the basis of a national plan for the control, management, and possible eradication of imported fire ants by the Federal Government, State and local governments, and owners and operators of land.
+            (B)
 
-            (B) __Selection__ 
+             research related to the functionality of pulse crops, such as—
 
-                On the basis of the evaluation under subparagraph (A), the Secretary shall select 1 project funded under paragraph (3)(B), or a combination of those projects, for award of a grant for final preparation of the national plan.
+                (i) improving the functional properties of pulse crops and pulse crop fractions; and
 
-            (C) __Submission__ 
+                (ii) developing new and innovative technologies to improve pulse crops as an ingredient in food products;
 
-                The Secretary shall submit to Congress the final national plan prepared under subparagraph (B) for the control, management, and possible eradication of imported fire ants.
+            (C)
 
-    (g) __Formosan termite research and eradication__ 
+             research conducted with respect to pulse crops for purposes of enhancing sustainability and global food security, such as—
 
-        (1) __Research program__ 
+                (i) improving pulse crop productivity, nutrient density, and phytonutrient content using plant breeding, genetics, and genomics;
 
-            The Secretary may make competitive research grants under this subsection to regional and multijurisdictional entities, local government planning organizations, and local governments for the purpose of conducting research for the control, management, and possible eradication of Formosan termites in the United States.
+                (ii) improving pest and disease management, including resistance to pests and diseases; and
 
-        (2) __Eradication program__ 
+                (iii) improving nitrogen fixation and water use efficiency to reduce the carbon and energy footprint of agriculture;
 
-        The Secretary may enter into cooperative agreements with regional and multijurisdictional entities, local government planning organizations, and local governments for the purposes of—
+            (D) the optimization of systems used in producing pulse crops to reduce water usage; and
 
-            (A) conducting projects for the control, management, and possible eradication of Formosan termites in the United States; and
+            (E)
 
-            (B) collecting data on the effectiveness of the projects.
+             education and technical assistance programs with respect to pulse crops, such as programs—
 
-        (3) __Funding priority__ 
+                (i) providing technical expertise to help food companies include pulse crops in innovative and healthy food; and
 
-            In allocating funds made available to carry out paragraph (2), the Secretary shall provide a higher priority for regions or locations with the highest historical rates of infestation of Formosan termites.
+                (ii) establishing an educational program to encourage pulse crop consumption in the United States.
 
-        (4) __Management coordination__ 
+        (3) __Administration__ 
 
-            The program management of research grants, cooperative agreements, and projects under this subsection shall be conducted under existing authority in coordination with the national formosan  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  termite management and research demonstration program conducted by the Agricultural Research Service.
+            Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title][/us/usc/t7/s450i] shall apply with respect to the making of a competitive grant under this subsection.
 
-    (h) __Pollinator protection__ 
+        (4) __Priorities__ 
+
+        In making competitive grants under this subsection, the Secretary shall provide a higher priority to projects that—
+
+            (A) are multistate, multiinstitutional, and multidisciplinary; and
+
+            (B) include explicit mechanisms to communicate results to the pulse crop industry and the public.
+
+        (5) __Authorization of appropriations__ 
+
+            There are authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2018.
+
+    (f) __Training coordination for food and agriculture protection__ 
+
+        (1) __In general__ 
+
+            The Secretary shall make a competitive grant to, or enter into a contract or a cooperative agreement with, an eligible entity (described in paragraph (2)) for purposes of establishing an internationally integrated training system to enhance the protection of the food supply in the United States, to be known as the “Comprehensive Food Safety Training Network” (referred to in this subsection as the “Network”).
+
+        (2) __Eligibility__ 
+
+            (A) __In general__ 
+
+            For purposes of this subsection, an eligible entity is a multiinstitutional consortium that includes—
+
+                (i) a nonprofit institution that provides food safety protection training; and
+
+                (ii) one or more training centers in institutions of higher education (as defined in [section 1001 of title 20][/us/usc/t20/s1001]) that have demonstrated expertise in developing and delivering community-based training in food supply and agricultural safety and defense.
+
+            (B) __Collective consideration__ 
+
+                The Secretary may consider such consortium collectively and not on an institution-by-institution basis.
+
+        (3) __Duties of eligible entity__ 
+
+        As a condition of receiving a competitive grant or entering into a contract or a cooperative agreement with the Secretary under this subsection, the eligible entity, in cooperation with the Secretary, shall establish and maintain the Network, including by—
+
+            (A) providing basic, technical, management, and leadership training (including by developing curricula) to regulatory and public health officials, producers, processors, and other agribusinesses;
+
+            (B) serving as the hub for the administration of the Network;
+
+            (C) implementing a standardized national curriculum to ensure the consistent delivery of quality training throughout the United States;
+
+            (D) building and overseeing a nationally recognized instructor cadre to ensure the availability of highly qualified instructors;
+
+            (E) reviewing training proposed through the National Institute of Food and Agriculture and other relevant Federal agencies that report to the Secretary on the quality and content of proposed and existing courses;
+
+            (F) assisting Federal agencies in the implementation of food safety protection training requirements including requirements under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.), the Agricultural Act of 2014, and any provision of law amended by such Act; and
+
+            (G) performing evaluation and outcome-based studies to provide to the Secretary information on the effectiveness and impact of training and metrics on jurisdictions and sectors within the food safety system.
+
+        (4) __Membership__ 
+
+            An eligible entity may alter the consortium membership to meet specific training expertise needs.
+
+        (5) __Authorization of appropriations__ 
+
+            There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+
+    (g) __Pollinator protection__ 
 
         (1) __Research and extension__ 
 
@@ -363,7 +221,7 @@
 
             (B) __Authorization of appropriations__ 
 
-                There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2012.
+                There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2018.
 
         (2) __Department of Agriculture capacity and infrastructure__ 
 
@@ -377,55 +235,105 @@
 
             (B) __Authorization of appropriations__ 
 
-                There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2012.
+                There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2018.
 
-        (3) __Honey bee pest and pathogen surveillance__ 
+        (3) __Honey bee surveillance__ 
 
-            There is authorized to be appropriated to conduct a nationwide honey bee pest and pathogen surveillance program $2,750,000 for each of fiscal years 2008 through 2012.
+            There is authorized to be appropriated to conduct a nationwide honey bee pest, pathogen, health, and population status surveillance program $2,750,000 for each of fiscal years 2008 through 2018.
 
-        (4) __Annual report on response to honey bee colony collapse disorder__ 
+        (4) __Consultation__ 
 
-        The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report describing the progress made by the Department of Agriculture in—
+        The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
 
-            (A) investigating the cause or causes of honey bee colony collapse; and
+            (A) allowing for managed honey bees to forage on National Forest System lands where compatible with other natural resource management priorities; and
 
-            (B) finding appropriate strategies to reduce colony loss.
+            (B) planting and maintaining managed honey bee and native pollinator foraging on National Forest System lands where compatible with other natural resource management priorities.
 
-    (i) __Regional centers of excellence__ 
+        (5) __Annual report on response to honey bee colony collapse disorder__ 
 
-        (1) __Establishment__ 
+        The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report—
 
-            The Secretary shall prioritize regional centers of excellence established for specific agricultural commodities for the receipt of funding under this section.
+            (A)
 
-        (2) __Composition__ 
+             describing the progress made by the Department of Agriculture in—
 
-            A regional center of excellence shall be composed of 1 or more colleges and universities (including land-grant institutions, schools of forestry, schools of veterinary medicine, or NLGCA Institutions (as defined in [section 3103 of this title][/us/usc/t7/s3103])) that provide financial support to the regional center of excellence.
+                (i) investigating the cause or causes of honey bee colony collapse and honey bee health disorders;
 
-        (3) __Criteria for regional centers of excellence__ 
+                (ii) finding appropriate strategies, including best management practices  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  to reduce colony loss; and
 
-        The criteria for consideration to be a regional center of excellence shall include efforts—
+                (iii) addressing the decline of managed honey bees and native pollinators;
 
-            (A) to ensure coordination and cost-effectiveness by reducing unnecessarily duplicative efforts regarding research, teaching, and extension;
+            (B) assessing Federal efforts to mitigate pollinator losses and threats to the United States commercial beekeeping industry; and
 
-            (B) to leverage available resources by using public/private partnerships among agricultural industry groups, institutions of higher education, and the Federal Government;
+            (C) providing recommendations to Congress regarding how to better coordinate Federal agency efforts to address the decline of managed honey bees and native pollinators.
 
-            (C) to implement teaching initiatives to increase awareness and effectively disseminate solutions to target audiences through extension activities;
+    (h) __Authorization of appropriations__ 
 
-            (D) to increase the economic returns to rural communities by identifying, attracting, and directing funds to high-priority agricultural issues; and
+        There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018.
 
-            (E) to improve teaching capacity and infrastructure at colleges and universities (including land-grant institutions, schools of forestry, and schools of veterinary medicine).
+([Pub. L. 101–624, title XVI, § 1672][/us/pl/101/624/s1672], Nov. 28, 1990, [104 Stat. 3770][/us/stat/104/3770]; [Pub. L. 102–237, title IV][/us/pl/102/237], §§ 406, 407(11), Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864], 1865; [Pub. L. 104–127, title VIII][/us/pl/104/127], §§ 836, 863, 888, Apr. 4, 1996, [110 Stat. 1169][/us/stat/110/1169], 1174, 1180; [Pub. L. 105–185, title II, § 242][/us/pl/105/185/s242], June 23, 1998, [112 Stat. 549][/us/stat/112/549]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7119, 7208(b), May 13, 2002, [116 Stat. 434][/us/stat/116/434], 442; [Pub. L. 108–465, title III, § 302][/us/pl/108/465/s302], Dec. 21, 2004, [118 Stat. 3885][/us/stat/118/3885]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7203, 7204, May 22, 2008, [122 Stat. 1233][/us/stat/122/1233]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7203, 7204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1994; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7128(b)(2)(C), 7209, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 881.)
 
-    (j) __Authorization of appropriations__ 
+ __References in Text__ 
 
-        There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
+    The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(F), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-([Pub. L. 101–624, title XVI, § 1672][/us/pl/101/624/s1672], Nov. 28, 1990, [104 Stat. 3770][/us/stat/104/3770]; [Pub. L. 102–237, title IV][/us/pl/102/237], §§ 406, 407(11), Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864], 1865; [Pub. L. 104–127, title VIII][/us/pl/104/127], §§ 836, 863, 888, Apr. 4, 1996, [110 Stat. 1169][/us/stat/110/1169], 1174, 1180; [Pub. L. 105–185, title II, § 242][/us/pl/105/185/s242], June 23, 1998, [112 Stat. 549][/us/stat/112/549]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7119, 7208(b), May 13, 2002, [116 Stat. 434][/us/stat/116/434], 442; [Pub. L. 108–465, title III, § 302][/us/pl/108/465/s302], Dec. 21, 2004, [118 Stat. 3885][/us/stat/118/3885]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7203, 7204, May 22, 2008, [122 Stat. 1233][/us/stat/122/1233]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7203, 7204, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1994.)
+    The Agricultural Act of 2014, referred to in subsec. (f)(3)(F), is [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649]. For complete classification of this Act to the Code, see see Short Title note set out under [section 9001 of this title][/us/usc/t7/s9001] and Tables.
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79, § 7209(1)][/us/pl/113/79/s7209/1], substituted “subsections (d) through (g)” for “subsections (e) through (i)”.
+
+    Subsec. (b)(2). [Pub. L. 113–79, § 7209(2)][/us/pl/113/79/s7209/2], substituted “subsections (d) through (g)” for “subsections (e) through (i)”.
+
+    Subsec. (c). [Pub. L. 113–79, § 7128(b)(2)(C)][/us/pl/113/79/s7128/b/2/C], redesignated subsec. (d) as (c), and struck out former subsec. (c) which related to matching funds requirement.
+
+    Subsec. (d). [Pub. L. 113–79, § 7209(5)][/us/pl/113/79/s7209/5], added pars. (9) and (10), redesignated pars. (6), (9), (10), (44), (45), (46), (49), and (50) as (1) to (8), respectively, and struck out former pars. (1) to (5), (7), (8), (11) to (43), (47), (48), (51), and (52), which related to certain research and extension grants.
+
+    [Pub. L. 113–79, § 7128(b)(2)(C)(ii)][/us/pl/113/79/s7128/b/2/C/ii], redesignated subsec. (e) as (d).
+
+    Subsec. (e). [Pub. L. 113–79, § 7209(6)][/us/pl/113/79/s7209/6], added subsec. (e) and struck out former subsec. (e) which related to imported fire ant control, management, and eradication.
+
+    [Pub. L. 113–79, § 7128(b)(2)(C)(ii)][/us/pl/113/79/s7128/b/2/C/ii], redesignated subsec. (f) as (e).
+
+    Subsec. (f). [Pub. L. 113–79, § 7209(7)][/us/pl/113/79/s7209/7], added subsec. (f) and struck out former subsec. (f) which related to formosan termite research and eradication.
+
+    [Pub. L. 113–79, § 7128(b)(2)(C)(ii)][/us/pl/113/79/s7128/b/2/C/ii], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+    Subsec. (g). [Pub. L. 113–79, § 7128(b)(2)(C)(ii)][/us/pl/113/79/s7128/b/2/C/ii], redesignated subsec. (h) as (g).
+
+    Subsec. (g)(1)(B), (2)(B). [Pub. L. 113–79, § 7209(8)(A)][/us/pl/113/79/s7209/8/A], substituted “2018” for “2012”.
+
+    Subsec. (g)(3). [Pub. L. 113–79, § 7209(8)(A)][/us/pl/113/79/s7209/8/A], (B), struck out “pest and pathogen” after “bee” in heading and substituted “pest, pathogen, health, and population status surveillance” for “pest and pathogen surveillance” and “2018” for “2012” in text.
+
+    Subsec. (g)(4). [Pub. L. 113–79, § 7209(8)(D)][/us/pl/113/79/s7209/8/D], added par. (4).Former par. (4) redesignated (5).
+
+    Subsec. (g)(5). [Pub. L. 113–79, § 7209(8)(E)(i)][/us/pl/113/79/s7209/8/E/i], (ii), substituted “annual report—” for “annual report” in introductory provisions, inserted subpar. (A) designation before “describing”, redesignated former subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), respectively, and realigned margins.
+
+    [Pub. L. 113–79, § 7209(8)(C)][/us/pl/113/79/s7209/8/C], redesignated par. (4) as (5).
+
+    Subsec. (g)(5)(A)(i). [Pub. L. 113–79, § 7209(8)(E)(iii)(I)][/us/pl/113/79/s7209/8/E/iii/I], inserted “and honey bee health disorders” after “collapse”.
+
+    Subsec. (g)(5)(A)(ii). [Pub. L. 113–79, § 7209(8)(E)(iv)(I)][/us/pl/113/79/s7209/8/E/iv/I], inserted “, including best management practices” after “strategies”
+
+    Subsec. (g)(5)(A)(iii). [Pub. L. 113–79, § 7209(8)(E)(iii)(II)][/us/pl/113/79/s7209/8/E/iii/II], (iv)(II), (v), added cl. (iii).
+
+    Subsec. (g)(5)(B), (C). [Pub. L. 113–79, § 7209(8)(E)(vi)][/us/pl/113/79/s7209/8/E/vi], added subpars. (B) and (C).
+
+    Subsec. (h). [Pub. L. 113–79, § 7209(9)][/us/pl/113/79/s7209/9], substituted “2018” for “2012”.
+
+    [Pub. L. 113–79, § 7209(3)][/us/pl/113/79/s7209/3], (4), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to regional centers of excellence.
+
+    [Pub. L. 113–79, § 7128(b)(2)(C)(ii)][/us/pl/113/79/s7128/b/2/C/ii], redesignated subsec. (i) as (h).
+
+    Subsec. (i). [Pub. L. 113–79, § 7209(4)][/us/pl/113/79/s7209/4], redesignated subsec. (i) as (h).
+
+    [Pub. L. 113–79, § 7128(b)(2)(C)(ii)][/us/pl/113/79/s7128/b/2/C/ii], redesignated subsec. (j) as (i).
+
+    Subsec. (j). [Pub. L. 113–79, § 7128(b)(2)(C)(ii)][/us/pl/113/79/s7128/b/2/C/ii], redesignated subsec. (j) as (i).
 
     2008—Subsec. (a). [Pub. L. 110–246, § 7204(b)(1)][/us/pl/110/246/s7204/b/1], substituted “subsections (e) through (i)” for “subsections (e), (f), and (g)” in first sentence.
 
@@ -511,7 +419,9 @@
 ----------
 
 [/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
-[/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
+[/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
+[/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/pl/101/624/s1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1672
 [/us/stat/104/3770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3770
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
@@ -528,10 +438,43 @@
 [/us/stat/122/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1233
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F879
+[/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
+[/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
+[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s7209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F1
+[/us/pl/113/79/s7209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F2
+[/us/pl/113/79/s7128/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FC
+[/us/pl/113/79/s7209/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F5
+[/us/pl/113/79/s7128/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FC%2Fii
+[/us/pl/113/79/s7209/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F6
+[/us/pl/113/79/s7128/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FC%2Fii
+[/us/pl/113/79/s7209/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F7
+[/us/pl/113/79/s7128/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FC%2Fii
+[/us/pl/113/79/s7128/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FC%2Fii
+[/us/pl/113/79/s7209/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F8%2FA
+[/us/pl/113/79/s7209/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F8%2FA
+[/us/pl/113/79/s7209/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F8%2FD
+[/us/pl/113/79/s7209/8/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F8%2FE%2Fi
+[/us/pl/113/79/s7209/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F8%2FC
+[/us/pl/113/79/s7209/8/E/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F8%2FE%2Fiii%2FI
+[/us/pl/113/79/s7209/8/E/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F8%2FE%2Fiv%2FI
+[/us/pl/113/79/s7209/8/E/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F8%2FE%2Fiii%2FII
+[/us/pl/113/79/s7209/8/E/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F8%2FE%2Fvi
+[/us/pl/113/79/s7209/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F9
+[/us/pl/113/79/s7209/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F3
+[/us/pl/113/79/s7128/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FC%2Fii
+[/us/pl/113/79/s7209/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7209%2F4
+[/us/pl/113/79/s7128/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FC%2Fii
+[/us/pl/113/79/s7128/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FC%2Fii
 [/us/pl/110/246/s7204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7204%2Fb%2F1
 [/us/pl/110/246/s7204/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7204%2Fb%2F2%2FA
 [/us/pl/110/246/s7204/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7204%2Fb%2F2%2FB

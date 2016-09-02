@@ -39,15 +39,17 @@
 
     (d) __Authorization of appropriations__ 
 
-        The Secretary shall use to make loans under this section any funds otherwise made available for telephone loans for each of fiscal years 2008 through 2012.
+        The Secretary shall use to make loans under this section any funds otherwise made available for telephone loans for each of fiscal years 2008 through 2018.
 
-([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 315, as added [Pub. L. 107–171, title VI, § 6102][/us/pl/107/171/s6102], May 13, 2002, [116 Stat. 415][/us/stat/116/415]; amended [Pub. L. 110–234, title VI, § 6107][/us/pl/110/234/s6107], May 22, 2008, [122 Stat. 1198][/us/stat/122/1198]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1959.)
+([May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], title III, § 315, as added [Pub. L. 107–171, title VI, § 6102][/us/pl/107/171/s6102], May 13, 2002, [116 Stat. 415][/us/stat/116/415]; amended [Pub. L. 110–234, title VI, § 6107][/us/pl/110/234/s6107], May 22, 2008, [122 Stat. 1198][/us/stat/122/1198]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6107, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1959; [Pub. L. 113–79, title VI, § 6103][/us/pl/113/79/s6103], Feb. 7, 2014, [128 Stat. 851][/us/stat/128/851].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—[Pub. L. 110–246, § 6107][/us/pl/110/246/s6107], amended section generally, substituting provisions relating to expansion of access, loan security, emergency communications equipment providers, and authorization of appropriations, consisting of subsecs. (a) to (d), for provisions relating to expansion of access and authorization of appropriations, consisting of subsecs. (a) and (b).
 
@@ -70,10 +72,13 @@
 [/us/stat/122/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1198
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6103
+[/us/stat/128/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F851
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s6107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6107
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

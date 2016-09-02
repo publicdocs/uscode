@@ -33,7 +33,7 @@
 
         The Secretary may make and insure loans to public, private, or cooperative organizations organized for profit or nonprofit and private investment funds that invest primarily in cooperative organizations, to Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, or to individuals for the purposes of—
 
-            (A) improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural communities, including pollution abatement and control;
+            (A) improving, developing, or financing business, industry, and employment (including through the financing of working capital) and improving the economic and environmental climate in rural communities, including pollution abatement and control;
 
             (B) the conservation, development, and use of water for aquaculture purposes in rural areas;
 
@@ -51,41 +51,69 @@
 
     (b) __Solid waste management grants__ 
 
-        The Secretary may make grants to nonprofit organizations for the provision of regional technical assistance to local and regional governments and related agencies for the purpose of reducing or eliminating pollution of water resources and improving the planning and management of solid waste disposal facilities. Grants made under this paragraph for the provision of technical assistance shall be made for 100 percent of the cost of such assistance.
+        (1) __In general__ 
 
-    (c) __Rural business enterprise grants__ 
+            The Secretary may make grants to nonprofit organizations for the provision of regional technical assistance to local and regional governments and related agencies for the purpose of reducing or eliminating pollution of water resources and improving the planning and management of solid waste disposal facilities. Grants made under this paragraph for the provision of technical assistance shall be made for 100 percent of the cost of such assistance.
 
-        (1) __Grants__ 
+        (2) __Authorization of appropriations__ 
+
+            There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2014 through 2018.
+
+    (c) __Rural business development grants__ 
+
+        (1) __In general__ 
+
+            The Secretary may make grants under this subsection to eligible entities described in paragraph (2) in rural areas that primarily serve rural areas for purposes described in paragraph (3).
+
+        (2) __Eligible entities__ 
+
+        The Secretary may make grants under this subsection to—
+
+            (A) governmental entities;
+
+            (B) Indian tribes; and
+
+            (C) nonprofit entities.
+
+        (3) __Eligible purposes for grants__ 
+
+        Eligible entities that receive grants under this subsection may use the grant funds for—
+
+            (A)
+
+             business opportunity projects that—
+
+                (i) identify and analyze business opportunities;
+
+                (ii) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers;
+
+                (iii) assist in the establishment of new rural businesses and the maintenance of existing businesses, including through business support centers;
+
+                (iv) conduct regional, community, and local economic development planning and coordination, and leadership development; and
+
+                (v) establish centers for training, technology, and trade that will provide training to rural businesses in the use of interactive communications technologies to develop international trade opportunities and markets; and
+
+            (B)
+
+             projects that support the development of business enterprises that finance or facilitate—
+
+                (i) the development of small and emerging private business enterprise;
+
+                (ii) the establishment, expansion, and operation of rural distance learning networks;
+
+                (iii) the development of rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students; and
+
+                (iv) the provision of technical assistance and training to rural communities for the purpose of improving passenger transportation services or facilities.
+
+        (4) __Authorization of appropriations__ 
 
             (A) __In general__ 
 
-                The Secretary may also make grants, not to exceed $50,000,000 annually, to public bodies and private nonprofit corporations for measures designed to finance and facilitate development of small and emerging private business enterprises (including nonprofit entities) or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students, including the development, construction or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refinancing, services and fees.
+                There is authorized to be appropriated to the Secretary to carry out this subsection $65,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
 
-            (B) __Small and emerging private business enterprises__ 
+            (B) __Allocation__ 
 
-                (i) __In general__ 
-
-                For the purpose of subparagraph (A), a small and emerging private business enterprise shall include (regardless of the number of employees or operating capital of the enterprise) an eligible nonprofit entity, or other tax-exempt organization, with a principal office in an area that is located—
-
-                    (I) on land of an existing or former Native American reservation; and
-
-                    (II) in a city, town, or unincorporated area that has a population of not more than 5,000 inhabitants.
-
-                (ii) __Use of grant__ 
-
-                    An eligible nonprofit entity, or other tax exempt organization, described in clause (i) may use assistance provided under this paragraph to create, expand, or operate value-added processing in an area described in clause (i) in connection with production agriculture.
-
-                (iii) __Priority__ 
-
-                    In making grants under this paragraph, the Secretary shall give priority to grants that will be used to provide assistance to eligible nonprofit entities and other tax exempt organizations described in clause (i).
-
-        (2) __Passenger transportation services or facilities__ 
-
-            The Secretary may award grants on a competitive basis to qualified nonprofit organizations for the provision of technical assistance and training to rural communities for the purpose of improving passenger transportation services or facilities. Assistance provided under this paragraph may include on-site technical assistance to local and regional governments, public transit agencies, and related nonprofit and for-profit organizations in rural areas, the development of training materials, and the provision of necessary training assistance to local officials and agencies in rural areas.
-
-        (3) __Grants to aid industries in adjusting to terminated Federal agricultural programs or increased foreign competition__ 
-
-            The Secretary may make grants under this section to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade.
+                Of the funds made available under subparagraph (A) for a fiscal year, not more than 10 percent shall be used for the purposes described in paragraph (3)(A).
 
     (d) __Joint loans or grants for private business enterprises; restrictions; system of certification for expeditious processing of requests for assistance; prior approval of grant or loan; equity investment as condition for loan commitment; issuance of certificates of beneficial ownership of notes__ 
 
@@ -231,9 +259,13 @@
 
                     To the extent there are insufficient applications to carry out clause (i), the Secretary shall use the funds as otherwise authorized by this subsection.
 
-        (12) __Authorization of appropriations__ 
+        (12) __Interagency working group__ 
 
-            There are authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2008 through 2012.
+            Not later than 90 days after February 7, 2014, the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and local cooperative organizations that have cooperative programs and interests.
+
+        (13) __Authorization of appropriations__ 
+
+            There are authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2014 through 2018.
 
     (f) __Grants to broadcasting systems__ 
 
@@ -321,7 +353,13 @@
 
         (7) __Intangible assets__ 
 
-            In determining whether a cooperative organization is eligible for a guaranteed business and industry loan, the Secretary may consider the market value of a properly appraised brand name, patent, or trademark of the cooperative.
+            (A) __In general__ 
+
+                In determining whether a cooperative organization is eligible for a guaranteed business and industry loan, the Secretary may consider the market value of a properly appraised brand name, patent, or trademark of the cooperative.
+
+            (B) __Accounts receivable__ 
+
+                In the discretion of the Secretary, if the Secretary determines that the action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may take accounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
 
         (8) __Limitations on loan guarantees for cooperative organizations__ 
 
@@ -403,7 +441,7 @@
 
                     (I) __In general__ 
 
-                        For each of fiscal years 2008 through 2012, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
+                        For each of fiscal years 2008 through 2018, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
 
                     (II) __Availability of funds__ 
 
@@ -453,13 +491,13 @@
 
         (4) __Authorization of appropriations__ 
 
-            There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2012.
+            There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2018.
 
     (j) __Rural economic area partnership zones__ 
 
-        Effective beginning on the date of enactment of this subsection through September 30, 2012, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
+        Effective beginning on the date of enactment of this subsection through September 30, 2018, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
-([Pub. L. 87–128, title III, § 310B][/us/pl/87/128/s310B], as added [Pub. L. 92–419, title I, § 118(a)][/us/pl/92/419/s118/a], Aug. 30, 1972, [86 Stat. 663][/us/stat/86/663]; amended [Pub. L. 91–524, title VIII, § 817][/us/pl/91/524/s817], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 241][/us/stat/87/241]; [Pub. L. 95–113, title XV, § 1503(b)][/us/pl/95/113/s1503/b], Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021]; [Pub. L. 95–334, title I, § 112][/us/pl/95/334/s112], Aug. 4, 1978, [92 Stat. 424][/us/stat/92/424]; [Pub. L. 96–358, § 5][/us/pl/96/358/s5], Sept. 25, 1980, [94 Stat. 1187][/us/stat/94/1187]; [Pub. L. 96–438, § 1(2)][/us/pl/96/438/s1/2], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 99–409, § 2][/us/pl/99/409/s2], Aug. 28, 1986, [100 Stat. 923][/us/stat/100/923]; [Pub. L. 100–203, title I, § 1504][/us/pl/100/203/s1504], Dec. 22, 1987, [101 Stat. 1330–28][/us/stat/101/1330-28]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013], 4022, 4034, 4051, 4052; [Pub. L. 102–237, title VII, § 701(c)][/us/pl/102/237/s701/c], (h)(1)(C), (D), Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879], 1880; [Pub. L. 102–552, title V, § 516(d)][/us/pl/102/552/s516/d], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137]; [Pub. L. 102–554, § 6][/us/pl/102/554/s6], Oct. 28, 1992, [106 Stat. 4144][/us/stat/106/4144]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 635(b), 661(d), title VII, §§ 705(1), 747(a), 759B, Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093], 1107, 1112, 1125, 1138; [Pub. L. 104–180, title VII, § 731][/us/pl/104/180/s731], Aug. 6, 1996, [110 Stat. 1600][/us/stat/110/1600]; [Pub. L. 107–171, title VI][/us/pl/107/171], §§ 6007(b), 6013–6017, May 13, 2002, [116 Stat. 355][/us/stat/116/355], 358, 359; [Pub. L. 110–234, title VI][/us/pl/110/234], §§ 6012(a), (b)(2), 6013–6017, May 22, 2008, [122 Stat. 1164–1169][/us/stat/122/1164-1169]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, §§ 6012(a), (b)(2), 6013–6017, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1925, 1927–1931.)
+([Pub. L. 87–128, title III, § 310B][/us/pl/87/128/s310B], as added [Pub. L. 92–419, title I, § 118(a)][/us/pl/92/419/s118/a], Aug. 30, 1972, [86 Stat. 663][/us/stat/86/663]; amended [Pub. L. 91–524, title VIII, § 817][/us/pl/91/524/s817], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 241][/us/stat/87/241]; [Pub. L. 95–113, title XV, § 1503(b)][/us/pl/95/113/s1503/b], Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021]; [Pub. L. 95–334, title I, § 112][/us/pl/95/334/s112], Aug. 4, 1978, [92 Stat. 424][/us/stat/92/424]; [Pub. L. 96–358, § 5][/us/pl/96/358/s5], Sept. 25, 1980, [94 Stat. 1187][/us/stat/94/1187]; [Pub. L. 96–438, § 1(2)][/us/pl/96/438/s1/2], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 99–409, § 2][/us/pl/99/409/s2], Aug. 28, 1986, [100 Stat. 923][/us/stat/100/923]; [Pub. L. 100–203, title I, § 1504][/us/pl/100/203/s1504], Dec. 22, 1987, [101 Stat. 1330–28][/us/stat/101/1330-28]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013], 4022, 4034, 4051, 4052; [Pub. L. 102–237, title VII, § 701(c)][/us/pl/102/237/s701/c], (h)(1)(C), (D), Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879], 1880; [Pub. L. 102–552, title V, § 516(d)][/us/pl/102/552/s516/d], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137]; [Pub. L. 102–554, § 6][/us/pl/102/554/s6], Oct. 28, 1992, [106 Stat. 4144][/us/stat/106/4144]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 635(b), 661(d), title VII, §§ 705(1), 747(a), 759B, Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093], 1107, 1112, 1125, 1138; [Pub. L. 104–180, title VII, § 731][/us/pl/104/180/s731], Aug. 6, 1996, [110 Stat. 1600][/us/stat/110/1600]; [Pub. L. 107–171, title VI][/us/pl/107/171], §§ 6007(b), 6013–6017, May 13, 2002, [116 Stat. 355][/us/stat/116/355], 358, 359; [Pub. L. 110–234, title VI][/us/pl/110/234], §§ 6012(a), (b)(2), 6013–6017, May 22, 2008, [122 Stat. 1164–1169][/us/stat/122/1164-1169]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, §§ 6012(a), (b)(2), 6013–6017, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1925, 1927–1931; [Pub. L. 113–79, title VI][/us/pl/113/79], §§ 6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, [128 Stat. 843–845][/us/stat/128/843-845].)
 
  __References in Text__ 
 
@@ -480,6 +518,22 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(A). [Pub. L. 113–79, § 6010(a)][/us/pl/113/79/s6010/a], inserted “(including through the financing of working capital)” after “employment”.
+
+    Subsec. (b). [Pub. L. 113–79, § 6011][/us/pl/113/79/s6011], designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+    Subsec. (c). [Pub. L. 113–79, § 6012(a)][/us/pl/113/79/s6012/a], added subsec. (c) and struck out former subsec. (c) which related to rural business enterprise grants.
+
+    Subsec. (e)(12), (13). [Pub. L. 113–79, § 6013][/us/pl/113/79/s6013], added par. (12), redesignated former par. (12) as (13), and substituted “$40,000,000 for each of fiscal years 2014 through 2018” for “$50,000,000 for each of fiscal years 2008 through 2012”.
+
+    Subsec. (g)(7). [Pub. L. 113–79, § 6010(b)][/us/pl/113/79/s6010/b], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+    Subsec. (g)(9)(B)(v)(I). [Pub. L. 113–79, § 6014][/us/pl/113/79/s6014], substituted “2018” for “2012”.
+
+    Subsec. (i)(4). [Pub. L. 113–79, § 6015][/us/pl/113/79/s6015], substituted “2018” for “2012”.
+
+    Subsec. (j). [Pub. L. 113–79, § 6016][/us/pl/113/79/s6016], substituted “2018” for “2012”.
 
     2008—[Pub. L. 110–246, § 6012(a)(1)][/us/pl/110/246/s6012/a/1], inserted section catchline.
 
@@ -653,6 +707,12 @@
 
     Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions under this section and under [section 1323 of Pub. L. 99–198][/us/pl/99/198/s1323], set out as a note below, transferred to Rural Development Administration by [section 2302(b) of Pub. L. 101–624][/us/pl/101/624/s2302/b].
 
+ __Regulations__ 
+
+[Pub. L. 113–79, title VI, § 6010(c)][/us/pl/113/79/s6010/c], Feb. 7, 2014, [128 Stat. 843][/us/stat/128/843], provided that: 
+
+> “Not later than 180 days after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall promulgate such regulations as are necessary to implement the amendments made by this section.”
+
  __Business Development__ 
 
 [Pub. L. 101–624, title XXIII, § 2336][/us/pl/101/624/s2336], Nov. 28, 1990, [104 Stat. 4022][/us/stat/104/4022], provided that: 
@@ -665,7 +725,7 @@
 
  __Guarantee by Secretary of Agriculture of Loans to Nonprofit National Rural Development and Finance Corporations__ 
 
-[Pub. L. 99–198, title XIII, § 1323][/us/pl/99/198/s1323], Dec. 23, 1985, [99 Stat. 1534][/us/stat/99/1534], as amended by [Pub. L. 99–425, title IV, § 407(c)][/us/pl/99/425/s407/c], Sept. 30, 1986, [100 Stat. 971][/us/stat/100/971]; [Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 641\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–35, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 641\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–35; [Pub. L. 100–202, § 101(k)][/us/pl/100/202/s101/k] \[title VI, § 636\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–357, provided that:
+[Pub. L. 99–198, title XIII, § 1323][/us/pl/99/198/s1323], Dec. 23, 1985, [99 Stat. 1534][/us/stat/99/1534], as amended by [Pub. L. 99–425, title IV, § 407(c)][/us/pl/99/425/s407/c], Sept. 30, 1986, [100 Stat. 971][/us/stat/100/971]; [Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 641\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–35, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 641\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–35; [Pub. L. 100–202, § 101(k)][/us/pl/100/202/s101/k] \[title VI, § 636\], Dec. 22, 1987, [101 Stat. 1329–322][/us/stat/101/1329-322], 1329–357; [Pub. L. 113–79, title VI, § 6017(b)][/us/pl/113/79/s6017/b], Feb. 7, 2014, [128 Stat. 846][/us/stat/128/846], provided that:
 
 >     “(a)
 
@@ -695,25 +755,11 @@
 
 >          All funds in, appropriated to, or repaid to the Rural Development Loan Fund, including those on deposit and available upon date of enactment \[Dec. 23, 1985\], under sections 623 and 633 \[[42 U.S.C. 9812][/us/usc/t42/s9812], 9822\] of the Community Economic Development Act of 1981 ([42 U.S.C. 9801][/us/usc/t42/s9801] et seq.) shall be transferred to the Secretary provided that—
 
->             “(A) all funds on deposit and available on date of enactment shall be used for the purpose of making grants under paragraph (1) and shall remain available until expended;
+>             “(A) all funds on deposit and available on date of enactment shall be used for the purpose of making grants under paragraph (1) and shall remain available until expended; and
 
->             “(B) notwithstanding any other provision of law, all loans to intermediary borrowers made prior to date of enactment, shall upon date of enactment, for the life of such loan, bear a rate of interest not to exceed that in effect upon the date of issuance of such loans; and
+>             “(B) notwithstanding any other provision of law, all loans to intermediary borrowers made prior to date of enactment, shall upon date of enactment, for the life of such loan, bear a rate of interest not to exceed that in effect upon the date of issuance of such loans.
 
->             “(C)
-
->              notwithstanding paragraph (1), all funds other than funds to which subparagraph (A) applies shall be used by the Secretary to make loans—
-
->                 “(i) to the entities;
-
->                 “(ii) for the purposes; and
-
->                 “(iii) subject to the terms and conditions;
-
->                 specified in the first, second, and last sentences of section 623(a) of the Community Economic Development Act of 1981 ([42 U.S.C. 9812(a)][/us/usc/t42/s9812/a]). For purposes of this subparagraph, any reference in such sentences to the Secretary shall be deemed to be a reference to the Secretary of Agriculture.”
-
-[Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 641\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–35, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 641\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–35, provided in part: 
-
-> “That such grant funds \[probably means grant funds under [section 1323(b)(1) of Pub. L. 99–198][/us/pl/99/198/s1323/b/1], set out above\] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act.”
+>             [Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 641\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–35, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 641\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–35, provided in part: “That such grant funds \[probably means grant funds under [section 1323(b)(1) of Pub. L. 99–198][/us/pl/99/198/s1323/b/1], set out above\] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act.”
 
  __Limits on Grants for Fiscal Years 1982, 1983, and 1984__ 
 
@@ -770,6 +816,8 @@
 [/us/stat/122/1164-1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1164-1169
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/843-845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F843-845
 [/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1878
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
@@ -789,6 +837,14 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s6010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6010%2Fa
+[/us/pl/113/79/s6011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6011
+[/us/pl/113/79/s6012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6012%2Fa
+[/us/pl/113/79/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6013
+[/us/pl/113/79/s6010/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6010%2Fb
+[/us/pl/113/79/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6014
+[/us/pl/113/79/s6015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6015
+[/us/pl/113/79/s6016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6016
 [/us/pl/110/246/s6012/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6012%2Fa%2F1
 [/us/pl/110/246/s6012/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6012%2Fa%2F1
 [/us/pl/110/246/s6013/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6013%2Fa%2F1
@@ -886,6 +942,8 @@
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
 [/us/pl/99/198/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1323
 [/us/pl/101/624/s2302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2302%2Fb
+[/us/pl/113/79/s6010/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6010%2Fc
+[/us/stat/128/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F843
 [/us/pl/101/624/s2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2336
 [/us/stat/104/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4022
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
@@ -899,10 +957,11 @@
 [/us/stat/100/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341
 [/us/pl/100/202/s101/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fk
 [/us/stat/101/1329-322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-322
+[/us/pl/113/79/s6017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6017%2Fb
+[/us/stat/128/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F846
 [/us/usc/t7/s1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932
 [/us/usc/t42/s9812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9812
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
-[/us/usc/t42/s9812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9812%2Fa
 [/us/pl/99/500/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fa
 [/us/stat/100/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783
 [/us/pl/99/591/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fa

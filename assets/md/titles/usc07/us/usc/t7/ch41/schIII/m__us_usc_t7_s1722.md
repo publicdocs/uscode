@@ -57,13 +57,15 @@
 
         (1) __In general__ 
 
-        Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 13 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
+        Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 20 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
 
-            (A) establishing new programs under this subchapter;
+            (A) establishing and enhancing programs under this subchapter;
 
-            (B) meeting specific administrative, management, personnel and internal transportation and distribution costs for carrying out programs in foreign countries under this subchapter; and
+            (B) meeting specific administrative, management, personnel, transportation, storage, and distribution costs for carrying out programs in foreign countries under this subchapter;
 
-            (C) improving and implementing methodologies for food aid programs, including needs assessments (upon the request of the Administrator), monitoring, and evaluation.
+            (C) implementing income-generating, community development, health, nutrition, cooperative development, agricultural, and other developmental activities within 1 or more recipient countries or within 1 or more countries in the same region; and
+
+            (D) improving and implementing methodologies for food aid programs, including needs assessments (upon the request of the Administrator), monitoring, and evaluation.
 
         (2) __Request for funds__ 
 
@@ -72,6 +74,10 @@
         (3) __Assistance with respect to sale__ 
 
             Upon the request of an eligible organization, the Administrator may provide assistance to the eligible organization with respect to the sale of agricultural commodities made available to it under this subchapter.
+
+        (4) __Investment authority__ 
+
+            An eligible organization that receives funds made available under paragraph (1) may invest the funds pending the eligible organization’s use of the funds. Any interest earned on such investment may be used for the purposes for which the assistance was provided to the eligible organization without further appropriation by Congress.
 
     (f) __Effective use of commodities__ 
 
@@ -97,13 +103,21 @@
 
         (1) __In general__ 
 
-        The Administrator shall use funds made available for fiscal year 2009 and subsequent fiscal years to carry out this subchapter—
+        The Administrator shall use funds made available for fiscal year 2014 and subsequent fiscal years to carry out this subchapter—
 
             (A) to assess the types and quality of agricultural commodities and products donated for food aid;
 
-            (B) to adjust products and formulations (including the potential introduction of new fortificants and products) as necessary to cost-effectively meet nutrient needs of target populations; and
+            (B) to adjust products and formulations, including potential introduction of new fortificants and products, as necessary to cost-effectively meet nutrient needs of target populations;
 
-            (C) to test prototypes.
+            (C) to test prototypes;
+
+            (D) to adopt new specifications or improve existing specifications for micronutrient fortified food aid products, based on the latest developments in food and nutrition science, and in coordination with other international partners;
+
+            (E) to develop new program guidance to facilitate improved matching of products to purposes having nutritional intent, in coordination with other international partners;
+
+            (F) to develop improved guidance for implementing partners on how to address nutritional deficiencies that emerge among recipients for whom food assistance is the sole source of diet in emergency programs that extend beyond 1 year, in coordination with other international partners; and
+
+            (G) to evaluate, in appropriate settings and as necessary, the performance and cost-effectiveness of new or modified specialized food products and program approaches designed to meet the nutritional needs of the most vulnerable groups, such as pregnant and lactating mothers, and children under the age of 5.
 
         (2) __Administration__ 
 
@@ -117,11 +131,29 @@
 
         (3) __Funding limitation__ 
 
-            Of the funds made available under [section 1726a(f) of this title][/us/usc/t7/s1726a/f], <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  for fiscal years 2009 through 2011, not more than $4,500,000 may be used to carry out this subsection.
+            Of the funds made available under [section 1726a(f) of this title][/us/usc/t7/s1726a/f], <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  for fiscal years 2014 through 2018, not more than $4,500,000 may be used to carry out this subsection.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 202, [68 Stat. 458][/us/stat/68/458]; [Pub. L. 86–472][/us/pl/86/472], ch. VI, § 601(a)(1), May 14, 1960, [74 Stat. 140][/us/stat/74/140]; [Pub. L. 88–205][/us/pl/88/205], pt. IV, § 403(d), Dec. 16, 1963, [77 Stat. 390][/us/stat/77/390]; [Pub. L. 89–808, § 2(C)][/us/pl/89/808/s2/C], Nov. 11, 1966, [80 Stat. 1534][/us/stat/80/1534]; [Pub. L. 95–88, title II][/us/pl/95/88], §§ 207, 208(a), Aug. 3, 1977, [91 Stat. 547][/us/stat/91/547]; [Pub. L. 96–53, title I, § 121][/us/pl/96/53/s121], title II, § 202, Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366], 368; [Pub. L. 99–83, title X][/us/pl/99/83], §§ 1003, 1004(a), 1005, Aug. 8, 1985, [99 Stat. 270][/us/stat/99/270], 271; [Pub. L. 100–202, § 11][/us/pl/100/202/s11], Dec. 22, 1987, [101 Stat. 1329–448][/us/stat/101/1329-448]; [Pub. L. 101–508, title I, § 1204(b)(1)][/us/pl/101/508/s1204/b/1], Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3636][/us/stat/104/3636]; [Pub. L. 104–127, title II, § 207(a)][/us/pl/104/127/s207/a], Apr. 4, 1996, [110 Stat. 953][/us/stat/110/953]; [Pub. L. 107–171, title III, § 3002][/us/pl/107/171/s3002], May 13, 2002, [116 Stat. 280][/us/stat/116/280]; [Pub. L. 110–246, title III, § 3008][/us/pl/110/246/s3008], June 18, 2008, [122 Stat. 1823][/us/stat/122/1823].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 202, [68 Stat. 458][/us/stat/68/458]; [Pub. L. 86–472][/us/pl/86/472], ch. VI, § 601(a)(1), May 14, 1960, [74 Stat. 140][/us/stat/74/140]; [Pub. L. 88–205][/us/pl/88/205], pt. IV, § 403(d), Dec. 16, 1963, [77 Stat. 390][/us/stat/77/390]; [Pub. L. 89–808, § 2(C)][/us/pl/89/808/s2/C], Nov. 11, 1966, [80 Stat. 1534][/us/stat/80/1534]; [Pub. L. 95–88, title II][/us/pl/95/88], §§ 207, 208(a), Aug. 3, 1977, [91 Stat. 547][/us/stat/91/547]; [Pub. L. 96–53, title I, § 121][/us/pl/96/53/s121], title II, § 202, Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366], 368; [Pub. L. 99–83, title X][/us/pl/99/83], §§ 1003, 1004(a), 1005, Aug. 8, 1985, [99 Stat. 270][/us/stat/99/270], 271; [Pub. L. 100–202, § 11][/us/pl/100/202/s11], Dec. 22, 1987, [101 Stat. 1329–448][/us/stat/101/1329-448]; [Pub. L. 101–508, title I, § 1204(b)(1)][/us/pl/101/508/s1204/b/1], Nov. 5, 1990, [104 Stat. 1388–11][/us/stat/104/1388-11]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3636][/us/stat/104/3636]; [Pub. L. 104–127, title II, § 207(a)][/us/pl/104/127/s207/a], Apr. 4, 1996, [110 Stat. 953][/us/stat/110/953]; [Pub. L. 107–171, title III, § 3002][/us/pl/107/171/s3002], May 13, 2002, [116 Stat. 280][/us/stat/116/280]; [Pub. L. 110–246, title III, § 3008][/us/pl/110/246/s3008], June 18, 2008, [122 Stat. 1823][/us/stat/122/1823]; [Pub. L. 113–79, title III][/us/pl/113/79], §§ 3002, 3003, Feb. 7, 2014, [128 Stat. 773][/us/stat/128/773].)
 
  __Amendments__ 
+
+    2014—Subsec. (e)(1). [Pub. L. 113–79, § 3002(1)(A)][/us/pl/113/79/s3002/1/A], substituted “20 percent” for “13 percent” in introductory provisions.
+
+    Subsec. (e)(1)(A). [Pub. L. 113–79, § 3002(1)(B)][/us/pl/113/79/s3002/1/B], substituted “and enhancing” for “new”.
+
+    Subsec. (e)(1)(B) to (D). [Pub. L. 113–79, § 3002(1)(C)][/us/pl/113/79/s3002/1/C]–(E), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B). Prior to amendment, subpar. (B) read as follows: “meeting specific administrative, management, personnel and internal transportation and distribution costs for carrying out programs in foreign countries under this subchapter; and”.
+
+    Subsec. (e)(4). [Pub. L. 113–79, § 3002(2)][/us/pl/113/79/s3002/2], added par. (4).
+
+    Subsec. (h)(1). [Pub. L. 113–79, § 3003(1)][/us/pl/113/79/s3003/1], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Administrator shall use funds made available for fiscal year 2009 and subsequent fiscal years to carry out this subchapter—
+
+    “(A) to assess the types and quality of agricultural commodities and products donated for food aid;
+
+    “(B) to adjust products and formulations (including the potential introduction of new fortificants and products) as necessary to cost-effectively meet nutrient needs of target populations; and
+
+    “(C) to test prototypes.”
+
+    Subsec. (h)(3). [Pub. L. 113–79, § 3003(2)][/us/pl/113/79/s3003/2], substituted “fiscal years 2014 through 2018” for “fiscal years 2009 through 2011”.
 
     2008—Subsec. (b)(2). [Pub. L. 110–246, § 3008(1)][/us/pl/110/246/s3008/1], substituted “may not use as a sole rationale for denying a request for funds” for “may not deny a request for funds” in introductory provisions.
 
@@ -251,6 +283,14 @@
 [/us/stat/116/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F280
 [/us/pl/110/246/s3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3008
 [/us/stat/122/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1823
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F773
+[/us/pl/113/79/s3002/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3002%2F1%2FA
+[/us/pl/113/79/s3002/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3002%2F1%2FB
+[/us/pl/113/79/s3002/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3002%2F1%2FC
+[/us/pl/113/79/s3002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3002%2F2
+[/us/pl/113/79/s3003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3003%2F1
+[/us/pl/113/79/s3003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3003%2F2
 [/us/pl/110/246/s3008/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3008%2F1
 [/us/pl/110/246/s3008/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3008%2F2%2FA
 [/us/pl/110/246/s3008/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3008%2F2%2FB

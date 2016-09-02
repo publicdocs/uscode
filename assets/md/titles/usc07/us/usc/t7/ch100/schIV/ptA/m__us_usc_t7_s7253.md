@@ -23,7 +23,7 @@
 
         (2) __Inclusion of California as separate order__ 
 
-            Upon the petition and approval of California dairy producers in the manner provided in [section 608c of this title][/us/usc/t7/s608c], the Secretary shall designate the State of California as a separate Federal milk marketing order. The order covering California shall have the right to reblend and distribute order receipts to recognize quota value.
+            Upon the petition and approval of California dairy producers in the manner provided in [section 608c of this title][/us/usc/t7/s608c], the Secretary shall designate the State of California as a separate Federal milk marketing order. The order covering California shall have the right to reblend and distribute order receipts to recognize quota value. Subsection (b) does not apply to the authority of the Secretary under this subsection.
 
         (3) __Related issues addressed in consolidation__ 
 
@@ -77,7 +77,11 @@
 
             Any limitation imposed by Act of Congress on the conduct or completion of reports to Congress shall not apply to the report required under this section, unless the limitation specifically refers to this section.
 
-([Pub. L. 104–127, title I, § 143][/us/pl/104/127/s143], Apr. 4, 1996, [110 Stat. 915][/us/stat/110/915].)
+([Pub. L. 104–127, title I, § 143][/us/pl/104/127/s143], Apr. 4, 1996, [110 Stat. 915][/us/stat/110/915]; [Pub. L. 113–79, title I, § 1410(d)][/us/pl/113/79/s1410/d], Feb. 7, 2014, [128 Stat. 693][/us/stat/128/693].)
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–79][/us/pl/113/79] inserted at end “Subsection (b) does not apply to the authority of the Secretary under this subsection.”
 
  __Use of Option 1A as Price Structure for Class I Milk Under Consolidated Federal Milk Marketing Orders__ 
 
@@ -156,6 +160,9 @@
 [/us/usc/t7/s608c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs608c
 [/us/pl/104/127/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs143
 [/us/stat/110/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F915
+[/us/pl/113/79/s1410/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1410%2Fd
+[/us/stat/128/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F693
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/106/113/s1000/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F8
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t7/s7253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7253

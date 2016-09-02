@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch31/schVI/m__us_usc_t7_s950bb–1.md) | [Next](./../../../..//us/usc/t7/ch31A/m__us_usc_t7_s950aaa.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch31A)
+[Previous](./../../../..//us/usc/t7/ch31/schVI/m__us_usc_t7_s950bb–2.md) | [Next](./../../../..//us/usc/t7/ch31A/m__us_usc_t7_s950aaa.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch31A)
 
 ## CHAPTER 31A—TELEMEDICINE AND DISTANCE LEARNING SERVICES IN RURAL AREAS
 
@@ -79,7 +79,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch31/schVI/m__us_usc_t7_s950bb–1.md) | [Next](./../../../..//us/usc/t7/ch31A/m__us_usc_t7_s950aaa.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch31A)
+[Previous](./../../../..//us/usc/t7/ch31/schVI/m__us_usc_t7_s950bb–2.md) | [Next](./../../../..//us/usc/t7/ch31A/m__us_usc_t7_s950aaa.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch31A)
 
 ----------
 ----------

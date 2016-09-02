@@ -71,7 +71,7 @@
 
                 (vii)  __Authorization of appropriations__  __.—__ 
 
-                There are authorized to be appropriated to carry out this subparagraph $30,000,000 for each of fiscal years 2008 through 2012.
+                There are authorized to be appropriated to carry out this subparagraph $30,000,000 for each of fiscal years 2008 through 2018.
 
             (C) __Special evaluation assistance for rural communities and households program.—__ 
 
@@ -123,37 +123,7 @@
 
         No Federal funds shall be made available under this section for a water treatment discharge or waste disposal system unless the Secretary determines that the effluent from the system conforms with applicable Federal and State water pollution control standards.
 
-        (11) __Rural business opportunity grants.—__ 
-
-            (A)  __In general__  __.—__ 
-
-            The Secretary may make grants, not to exceed $1,500,000 annually, to public bodies, private nonprofit community development corporations or entities, or such other agencies as the Secretary may select to enable the recipients—
-
-                (i) to identify and analyze business opportunities, including opportunities in export markets, that will use local rural economic and human resources;
-
-                (ii) to identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers;
-
-                (iii) to establish business support centers and otherwise assist in the creation of new rural businesses, the development of methods of financing local businesses, and the enhancement of the capacity of local individuals and entities to engage in sound economic activities;
-
-                (iv) to conduct regional, community, and local economic development planning and coordination, and leadership development; and
-
-                (v) to establish centers for training, technology, and trade that will provide training to rural businesses in the utilization of interactive communications technologies to develop international trade opportunities and markets.
-
-            (B)  __Criteria__  __.—__ 
-
-            In awarding the grants, the Secretary shall consider, among other criteria to be established by the Secretary—
-
-                (i) the extent to which the applicant provides development services in the rural service area of the applicant; and
-
-                (ii) the capability of the applicant to accomplish the activities described in the relevant clauses of subparagraph (A).
-
-            (C)  __Coordination__  __.—__ 
-
-            The Secretary shall ensure, to the maximum extent practicable, that assistance provided under this paragraph is coordinated with and delivered in cooperation with similar services or assistance provided to rural residents by the National Institute of Food and Agriculture or other Federal agencies.
-
-            (D)  __Authorization of appropriations__  __.—__ 
-
-            There are authorized to be appropriated to carry out this paragraph $15,000,000 for each of fiscal years 2008 through 2012.
+        (11) Repealed. [Pub. L. 113–79, title VI, § 6012(b)][/us/pl/113/79/s6012/b], Feb. 7, 2014, [128 Stat. 845][/us/stat/128/845].
 
         (12)
 
@@ -219,16 +189,6 @@
 
                 The Secretary shall provide for a graduated scale for the amount of the Federal share provided under this paragraph, with higher Federal shares for facilities in communities that have lower community population and income levels, as determined by the Secretary.
 
-            (C) __Reservation of funds for child day care facilities.—__ 
-
-                (i)  __In general__  __.—__ 
-
-                For each fiscal year, not less than 10 percent of the funds made available to carry out this paragraph shall be reserved for grants to pay the Federal share of the cost of developing and constructing day care facilities for children in rural areas.
-
-                (ii)  __Release__  __.—__ 
-
-                Funds reserved under clause (i) for a fiscal year shall be reserved only until June 1 of the fiscal year.
-
         (20) __Community facilities grant program for rural communities with extreme unemployment and severe economic depression.—__ 
 
             (A)  __Definition of not employed rate__  __.—__ 
@@ -289,15 +249,15 @@
 
             (A)  __In general__  __.—__ 
 
-            The Secretary shall establish a national rural water and wastewater circuit rider program that is based on the rural water circuit rider program of the National Rural Water Association that (as of May 13, 2002) receives funding from the Secretary, acting through the Rural Utilities Service.
+            The Secretary shall continue a national rural water and wastewater circuit rider program that—
 
-            (B)  __Relationship to existing program__  __.—__ 
+                (i) is consistent with the activities and results of the program conducted before February 7, 2014, as determined by the Secretary; and
 
-            The program established under subparagraph (A) shall not affect the authority of the Secretary to carry out the circuit rider program for which funds are made available under the heading “rural community advancement program” in title III of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002 ([115 Stat. 719][/us/stat/115/719]).
+                (ii) receives funding from the Secretary, acting through the Rural Utilities Service.
 
-            (C)  __Authorization of appropriations__  __.—__ 
+            (B)  __Authorization of appropriations__  __.—__ 
 
-            There is authorized to be appropriated to carry out this paragraph $25,000,000 for fiscal year 2008 and each fiscal year thereafter.
+            There is authorized to be appropriated to carry out this paragraph $20,000,000 for fiscal year 2014 and each fiscal year thereafter.
 
         (23) __Multijurisdictional regional planning organizations.—__ 
 
@@ -345,6 +305,10 @@
 
                 (ii) the ability to generate capital to provide borrowers of the loan with the additional credit necessary to properly service the loan.
 
+            (C)  __Use of loan guarantees for community facilities__  __.—__ 
+
+            The Secretary shall consider the benefits to communities that result from using loan guarantees in carrying out the community facilities program and, to the maximum extent practicable, use guarantees to enhance community involvement.
+
         (25) __Tribal college and university essential community facilities.—__ 
 
             (A)  __In general__  __.—__ 
@@ -357,7 +321,33 @@
 
             (C)  __Authorization of appropriations__  __.—__ 
 
-            There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2012.
+            There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2018.
+
+        (26) __Essential community facilities technical assistance and training.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            The Secretary may make grants to public bodies and private nonprofit corporations (such as States, counties, cities, townships, and incorporated towns and villages, boroughs, authorities, districts, and Indian tribes on Federal and State reservations) that will serve rural areas for the purpose of enabling the public bodies and private nonprofit corporations to provide to associations described in paragraph (1) technical assistance and training, with respect to essential community facilities programs authorized under this subsection—
+
+                (i) to assist communities in identifying and planning for community facility needs;
+
+                (ii) to identify public and private resources to finance community facility needs;
+
+                (iii) to prepare reports and surveys necessary to request financial assistance to develop community facilities;
+
+                (iv) to prepare applications for financial assistance;
+
+                (v) to improve the management, including financial management, related to the operation of community facilities; or
+
+                (vi) to assist with other areas of need identified by the Secretary.
+
+            (B)  __Selection priority__  __.—__ 
+
+            In selecting recipients of grants under this paragraph, the Secretary shall give priority to private, nonprofit, or public organizations that have experience in providing technical assistance and training to rural entities.
+
+            (C)  __Funding__  __.—__ 
+
+            Not less than 3 nor more than 5 percent of any funds appropriated to carry out each of the essential community facilities grant, loan and loan guarantee programs as authorized under this subsection for a fiscal year shall be reserved for grants under this paragraph.
 
     (b) __Curtailment or limitation of service prohibited__ 
 
@@ -369,7 +359,7 @@
 
         Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year.
 
-([Pub. L. 87–128, title III, § 306][/us/pl/87/128/s306], Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 87–703, title IV, § 401(2)][/us/pl/87/703/s401/2], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 89–240, § 1][/us/pl/89/240/s1], Oct. 7, 1965, [79 Stat. 931][/us/stat/79/931]; [Pub. L. 89–769, § 6(b)][/us/pl/89/769/s6/b], Nov. 6, 1966, [80 Stat. 1318][/us/stat/80/1318]; [Pub. L. 90–488][/us/pl/90/488], §§ 3–5, Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 91–524, title VIII, § 806(a)][/us/pl/91/524/s806/a], Nov. 30, 1970, [84 Stat. 1383][/us/stat/84/1383]; [Pub. L. 91–606, title III, § 302(2)][/us/pl/91/606/s302/2], Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 91–617, § 1(a)][/us/pl/91/617/s1/a], Dec. 31, 1970, [84 Stat. 1855][/us/stat/84/1855]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 104–112, Aug. 30, 1972, [86 Stat. 658][/us/stat/86/658], 659; [Pub. L. 91–524, title VIII, § 816(c)][/us/pl/91/524/s816/c], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 240][/us/stat/87/240]; [Pub. L. 95–334, title I][/us/pl/95/334], §§ 104–107(a), Aug. 4, 1978, [92 Stat. 421][/us/stat/92/421], 422; [Pub. L. 96–355, § 7][/us/pl/96/355/s7], Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174]; [Pub. L. 96–438, § 2(1)][/us/pl/96/438/s2/1], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 97–35, title I, § 121][/us/pl/97/35/s121], Aug. 13, 1981, [95 Stat. 368][/us/stat/95/368]; [Pub. L. 99–198, title XIII, § 1304(a)][/us/pl/99/198/s1304/a], Dec. 23, 1985, [99 Stat. 1519][/us/stat/99/1519]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, [104 Stat. 4008][/us/stat/104/4008], 4010, 4017, 4026, 4027, 4057; [Pub. L. 102–237, title VII, § 701(a)][/us/pl/102/237/s701/a], (h)(1)(A), (B), Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879], 1880; [Pub. L. 103–129, § 3][/us/pl/103/129/s3], Nov. 1, 1993, [107 Stat. 1366][/us/stat/107/1366]; [Pub. L. 103–354, title II, § 235(b)(5)][/us/pl/103/354/s235/b/5], Oct. 13, 1994, [108 Stat. 3222][/us/stat/108/3222]; [Pub. L. 104–127, title VII][/us/pl/104/127], §§ 741(a), 758, 763, Apr. 4, 1996, [110 Stat. 1122][/us/stat/110/1122], 1132, 1148; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 773\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45; [Pub. L. 106–472, title III][/us/pl/106/472], §§ 304(a), 305(a), Nov. 9, 2000, [114 Stat. 2070][/us/stat/114/2070], 2071; [Pub. L. 107–76, title VII, § 762][/us/pl/107/76/s762], Nov. 28, 2001, [115 Stat. 743][/us/stat/115/743]; [Pub. L. 107–171, title VI][/us/pl/107/171], §§ 6001–6007(a), 6008, 6020(b)(1), May 13, 2002, [116 Stat. 352–355][/us/stat/116/352-355], 363; [Pub. L. 110–234, title VI][/us/pl/110/234], §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), May 22, 2008, [122 Stat. 1161][/us/stat/122/1161], 1162, 1267; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1923, 1924, 2029.)
+([Pub. L. 87–128, title III, § 306][/us/pl/87/128/s306], Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 87–703, title IV, § 401(2)][/us/pl/87/703/s401/2], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; [Pub. L. 89–240, § 1][/us/pl/89/240/s1], Oct. 7, 1965, [79 Stat. 931][/us/stat/79/931]; [Pub. L. 89–769, § 6(b)][/us/pl/89/769/s6/b], Nov. 6, 1966, [80 Stat. 1318][/us/stat/80/1318]; [Pub. L. 90–488][/us/pl/90/488], §§ 3–5, Aug. 15, 1968, [82 Stat. 770][/us/stat/82/770]; [Pub. L. 91–524, title VIII, § 806(a)][/us/pl/91/524/s806/a], Nov. 30, 1970, [84 Stat. 1383][/us/stat/84/1383]; [Pub. L. 91–606, title III, § 302(2)][/us/pl/91/606/s302/2], Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 91–617, § 1(a)][/us/pl/91/617/s1/a], Dec. 31, 1970, [84 Stat. 1855][/us/stat/84/1855]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 104–112, Aug. 30, 1972, [86 Stat. 658][/us/stat/86/658], 659; [Pub. L. 91–524, title VIII, § 816(c)][/us/pl/91/524/s816/c], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 240][/us/stat/87/240]; [Pub. L. 95–334, title I][/us/pl/95/334], §§ 104–107(a), Aug. 4, 1978, [92 Stat. 421][/us/stat/92/421], 422; [Pub. L. 96–355, § 7][/us/pl/96/355/s7], Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174]; [Pub. L. 96–438, § 2(1)][/us/pl/96/438/s2/1], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 97–35, title I, § 121][/us/pl/97/35/s121], Aug. 13, 1981, [95 Stat. 368][/us/stat/95/368]; [Pub. L. 99–198, title XIII, § 1304(a)][/us/pl/99/198/s1304/a], Dec. 23, 1985, [99 Stat. 1519][/us/stat/99/1519]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, [104 Stat. 4008][/us/stat/104/4008], 4010, 4017, 4026, 4027, 4057; [Pub. L. 102–237, title VII, § 701(a)][/us/pl/102/237/s701/a], (h)(1)(A), (B), Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879], 1880; [Pub. L. 103–129, § 3][/us/pl/103/129/s3], Nov. 1, 1993, [107 Stat. 1366][/us/stat/107/1366]; [Pub. L. 103–354, title II, § 235(b)(5)][/us/pl/103/354/s235/b/5], Oct. 13, 1994, [108 Stat. 3222][/us/stat/108/3222]; [Pub. L. 104–127, title VII][/us/pl/104/127], §§ 741(a), 758, 763, Apr. 4, 1996, [110 Stat. 1122][/us/stat/110/1122], 1132, 1148; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 773\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45; [Pub. L. 106–472, title III][/us/pl/106/472], §§ 304(a), 305(a), Nov. 9, 2000, [114 Stat. 2070][/us/stat/114/2070], 2071; [Pub. L. 107–76, title VII, § 762][/us/pl/107/76/s762], Nov. 28, 2001, [115 Stat. 743][/us/stat/115/743]; [Pub. L. 107–171, title VI][/us/pl/107/171], §§ 6001–6007(a), 6008, 6020(b)(1), May 13, 2002, [116 Stat. 352–355][/us/stat/116/352-355], 363; [Pub. L. 110–234, title VI][/us/pl/110/234], §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), May 22, 2008, [122 Stat. 1161][/us/stat/122/1161], 1162, 1267; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1923, 1924, 2029; [Pub. L. 113–79, title VI][/us/pl/113/79], §§ 6001–6006, 6012(b), Feb. 7, 2014, [128 Stat. 841][/us/stat/128/841], 842, 845.)
 
  __References in Text__ 
 
@@ -387,13 +377,25 @@
 
     [Section 2009 of this title][/us/usc/t7/s2009], referred to in subsec. (a)(21)(A)(ii), was subsequently amended, and no longer defines the term “rural area”.
 
-    The Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002, referred to in subsec. (a)(22)(B), is [Pub. L. 107–76][/us/pl/107/76], Nov. 28, 2001, [115 Stat. 704][/us/stat/115/704]. Provisions under the heading “rural community advancement program” in title III of the Act appear at [115 Stat. 719][/us/stat/115/719] and are not classified to the Code.
-
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(B)(vii). [Pub. L. 113–79, § 6001][/us/pl/113/79/s6001], substituted “2018” for “2012”.
+
+    Subsec. (a)(11). [Pub. L. 113–79, § 6012(b)][/us/pl/113/79/s6012/b], struck out par. (11) which related to rural business opportunity grants.
+
+    Subsec. (a)(19)(C). [Pub. L. 113–79, § 6002][/us/pl/113/79/s6002], struck out subpar. (C) which related to reservation of funds for child day care facilities.
+
+    Subsec. (a)(22). [Pub. L. 113–79, § 6003][/us/pl/113/79/s6003], added par. (22) and struck out former par. (22) which related to rural water and wastewater circuit rider program.
+
+    Subsec. (a)(24)(C). [Pub. L. 113–79, § 6004][/us/pl/113/79/s6004], added subpar. (C).
+
+    Subsec. (a)(25)(C). [Pub. L. 113–79, § 6005][/us/pl/113/79/s6005], substituted “2018” for “2012”.
+
+    Subsec. (a)(26). [Pub. L. 113–79, § 6006][/us/pl/113/79/s6006], added par. (26).
 
     2008—Subsec. (a)(2)(B)(vii). [Pub. L. 110–246, § 6001][/us/pl/110/246/s6001], substituted “2008 through 2012” for “2002 through 2007”.
 
@@ -650,6 +652,8 @@
 [/us/pl/107/171/s6020/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6020%2Fb%2F1
 [/us/stat/116/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F363
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
+[/us/pl/113/79/s6012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6012%2Fb
+[/us/stat/128/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F845
 [/us/stat/12/503-505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503-505
 [/us/usc/t7/s301–305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301%E2%80%93305
 [/us/stat/26/417-419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417-419
@@ -662,7 +666,6 @@
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/stat/115/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F719
 [/us/usc/t26/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs142%2Fa
 [/us/usc/t20/s1059c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c
 [/us/pl/91/606/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs302%2F2
@@ -722,6 +725,8 @@
 [/us/stat/122/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1161
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F841
 [/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
@@ -742,13 +747,17 @@
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/usc/t7/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009
-[/us/pl/107/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76
-[/us/stat/115/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F704
-[/us/stat/115/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F719
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6001
+[/us/pl/113/79/s6012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6012%2Fb
+[/us/pl/113/79/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6002
+[/us/pl/113/79/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6003
+[/us/pl/113/79/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6004
+[/us/pl/113/79/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6005
+[/us/pl/113/79/s6006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6006
 [/us/pl/110/246/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6001
 [/us/pl/110/246/s6002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6002%2Fa
 [/us/pl/110/246/s7511/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F3

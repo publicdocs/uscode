@@ -17,7 +17,11 @@
 
     (a) __Authorization of appropriations__ 
 
-        In addition to amounts for agricultural research, extension, and education under this chapter, there are authorized to be appropriated for agricultural research, education, and extension activities for biosecurity planning and response such sums as are necessary for each of fiscal years 2002 through 2012.
+    In addition to amounts for agricultural research, extension, and education under this chapter, there are authorized to be appropriated for agricultural research, education, and extension activities for biosecurity planning and response—
+
+        (1) such sums as are necessary for each of fiscal years 2002 through 2013; and
+
+        (2) $20,000,000 for each of fiscal years 2014 through 2018.
 
     (b) __Use of funds__ 
 
@@ -31,7 +35,7 @@
 
         (4) To counter or otherwise respond to chemical or biological attack.
 
-([Pub. L. 95–113, title XIV, § 1484][/us/pl/95/113/s1484], as added [Pub. L. 107–171, title VII, § 7221(a)][/us/pl/107/171/s7221/a], May 13, 2002, [116 Stat. 452][/us/stat/116/452]; amended [Pub. L. 110–234, title VII, § 7142][/us/pl/110/234/s7142], May 22, 2008, [122 Stat. 1232][/us/stat/122/1232]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7142, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1993.)
+([Pub. L. 95–113, title XIV, § 1484][/us/pl/95/113/s1484], as added [Pub. L. 107–171, title VII, § 7221(a)][/us/pl/107/171/s7221/a], May 13, 2002, [116 Stat. 452][/us/stat/116/452]; amended [Pub. L. 110–234, title VII, § 7142][/us/pl/110/234/s7142], May 22, 2008, [122 Stat. 1232][/us/stat/122/1232]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7142, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1993; [Pub. L. 113–79, title VII, § 7126][/us/pl/113/79/s7126], Feb. 7, 2014, [128 Stat. 877][/us/stat/128/877].)
 
  __References in Text__ 
 
@@ -42,6 +46,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] substituted “response—” for “response such sums as are necessary for each of fiscal years 2002 through 2012.” and added pars. (1) and (2).
 
     2008—Subsec. (a). [Pub. L. 110–246, § 7142][/us/pl/110/246/s7142], substituted “2012” for “2007”.
 
@@ -63,6 +69,8 @@
 [/us/stat/122/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1232
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7126
+[/us/stat/128/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F877
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/stat/91/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F981
 [/us/usc/t7/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3102
@@ -70,6 +78,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7142
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

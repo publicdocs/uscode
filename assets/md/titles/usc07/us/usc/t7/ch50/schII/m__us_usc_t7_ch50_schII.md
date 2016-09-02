@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936a.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch50%2FschII)
+[Previous](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936b.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch50%2FschII)
 
 ### SUBCHAPTER II—OPERATING LOANS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936a.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch50%2FschII)
+[Previous](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936b.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1941.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch50%2FschII)
 
 ----------
 ----------

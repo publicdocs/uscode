@@ -37,7 +37,7 @@
 
         (2) __Loan conditions__ 
 
-            The need of a borrower who satisfies the criteria set out in section 1922(a)(2) or 1941(a)(2) of this title for management assistance under this section shall not be cause for denial of eligibility of the borrower for a direct loan under this chapter.
+            The need of a borrower who satisfies the criteria set out in section 1922(a)(1)(B) or 1941(a)(1)(B) of this title for management assistance under this section shall not be cause for denial of eligibility of the borrower for a direct loan under this chapter.
 
     (d) __Guidelines and curriculum__ 
 
@@ -57,13 +57,15 @@
 
             The Secretary shall establish criteria providing for the application of paragraph (1) consistently in all counties nationwide.
 
-([Pub. L. 87–128, title III, § 359][/us/pl/87/128/s359], as added [Pub. L. 101–624, title XVIII, § 1818(a)][/us/pl/101/624/s1818/a], Nov. 28, 1990, [104 Stat. 3829][/us/stat/104/3829]; amended [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 805(3)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5316, 5501(c), May 13, 2002, [116 Stat. 348][/us/stat/116/348], 351.)
+([Pub. L. 87–128, title III, § 359][/us/pl/87/128/s359], as added [Pub. L. 101–624, title XVIII, § 1818(a)][/us/pl/101/624/s1818/a], Nov. 28, 1990, [104 Stat. 3829][/us/stat/104/3829]; amended [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 805(3)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–39; [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5316, 5501(c), May 13, 2002, [116 Stat. 348][/us/stat/116/348], 351; [Pub. L. 113–79, title V, § 5306][/us/pl/113/79/s5306], Feb. 7, 2014, [128 Stat. 840][/us/stat/128/840].)
 
  __References in Text__ 
 
     For definition of “this chapter”, referred to in subsecs. (a) and (c), see note set out under [section 1921 of this title][/us/usc/t7/s1921].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–79][/us/pl/113/79] substituted “section 1922(a)(1)(B) or 1941(a)(1)(B)” for “section 1922(a)(2) or 1941(a)(2).
 
     2002—Subsec. (c)(1). [Pub. L. 107–171, § 5501(c)][/us/pl/107/171/s5501/c], struck out “established pursuant to [section 1982 of this title][/us/usc/t7/s1982],” after “appropriate county committee”.
 
@@ -87,7 +89,10 @@
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F348
+[/us/pl/113/79/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5306
+[/us/stat/128/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F840
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/107/171/s5501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5501%2Fc
 [/us/usc/t7/s1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1982
 [/us/pl/107/171/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5316

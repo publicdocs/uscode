@@ -63,35 +63,29 @@
 
             A grant or cooperative agreement under this subsection shall be made or entered into on a competitive basis.
 
+        (3) __Consortia__ 
+
+            The Secretary shall encourage awards under this section to consortia of eligible entities.
+
     (d) __Administration__ 
 
         Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title][/us/usc/t7/s450i] shall apply with respect to the making of a grant or cooperative agreement under this section.
 
-    (e) __Matching of funds__ 
-
-        (1) __General requirement__ 
-
-            If a grant or cooperative agreement under this section provides a particular benefit to a specific agricultural commodity, the Secretary shall require the recipient to provide funds or in-kind support to match the amount of funds provided by the Secretary under the grant or cooperative agreement.
-
-        (2) __Waiver__ 
-
-        The Secretary may waive the matching funds requirement of paragraph (1) with respect to a research project if the Secretary determines that—
-
-            (A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
-
-            (B) the project involves a minor commodity, the project deals with scientifically important research, and the recipient is unable to satisfy the matching funds requirement.
-
-    (f) __Consultation with National Academy of Sciences__ 
+    (e) __Consultation with National Academy of Sciences__ 
 
         The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.
 
-([Pub. L. 101–624, title XVI, § 1671][/us/pl/101/624/s1671], Nov. 28, 1990, [104 Stat. 3769][/us/stat/104/3769]; [Pub. L. 104–66, title I, § 1011(s)][/us/pl/104/66/s1011/s], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710]; [Pub. L. 104–127, title VIII, § 835][/us/pl/104/127/s835], Apr. 4, 1996, [110 Stat. 1169][/us/stat/110/1169]; [Pub. L. 105–185, title II, § 241][/us/pl/105/185/s241], June 23, 1998, [112 Stat. 547][/us/stat/112/547]; [Pub. L. 107–171, title VII, § 7208(a)][/us/pl/107/171/s7208/a], May 13, 2002, [116 Stat. 442][/us/stat/116/442]; [Pub. L. 110–234, title VII, § 7406(d)(2)][/us/pl/110/234/s7406/d/2], May 22, 2008, [122 Stat. 1252][/us/stat/122/1252]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7406(d)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013.)
+([Pub. L. 101–624, title XVI, § 1671][/us/pl/101/624/s1671], Nov. 28, 1990, [104 Stat. 3769][/us/stat/104/3769]; [Pub. L. 104–66, title I, § 1011(s)][/us/pl/104/66/s1011/s], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710]; [Pub. L. 104–127, title VIII, § 835][/us/pl/104/127/s835], Apr. 4, 1996, [110 Stat. 1169][/us/stat/110/1169]; [Pub. L. 105–185, title II, § 241][/us/pl/105/185/s241], June 23, 1998, [112 Stat. 547][/us/stat/112/547]; [Pub. L. 107–171, title VII, § 7208(a)][/us/pl/107/171/s7208/a], May 13, 2002, [116 Stat. 442][/us/stat/116/442]; [Pub. L. 110–234, title VII, § 7406(d)(2)][/us/pl/110/234/s7406/d/2], May 22, 2008, [122 Stat. 1252][/us/stat/122/1252]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7406(d)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2013; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7128(b)(2)(B), 7208, Feb. 7, 2014, [128 Stat. 878][/us/stat/128/878], 881.)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(3). [Pub. L. 113–79, § 7208][/us/pl/113/79/s7208], added par. (3).
+
+    Subsecs. (e), (f). [Pub. L. 113–79, § 7128(b)(2)(B)][/us/pl/113/79/s7128/b/2/B], redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to matching of funds.
 
     2008—Subsec. (d). [Pub. L. 110–246, § 7406(d)(2)][/us/pl/110/246/s7406/d/2], substituted “Paragraphs (4), (7), (8), and (11)(B)” for “Paragraphs (1), (6), (7), and (11)”.
 
@@ -134,10 +128,14 @@
 [/us/stat/122/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1252
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F878
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s7208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7208
+[/us/pl/113/79/s7128/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F2%2FB
 [/us/pl/110/246/s7406/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7406%2Fd%2F2
 [/us/pl/107/171/s7208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7208%2Fa%2F1
 [/us/pl/107/171/s7208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7208%2Fa%2F2

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7632.md) | [Next](./../../../../..//us/usc/t7/ch103/schIII/ptA/m__us_usc_t7_ch103_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch103%2FschIII)
+[Previous](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7633.md) | [Next](./../../../../..//us/usc/t7/ch103/schIII/ptA/m__us_usc_t7_ch103_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch103%2FschIII)
 
 ### SUBCHAPTER III—MISCELLANEOUS PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7632.md) | [Next](./../../../../..//us/usc/t7/ch103/schIII/ptA/m__us_usc_t7_ch103_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch103%2FschIII)
+[Previous](./../../../../..//us/usc/t7/ch103/schII/m__us_usc_t7_s7633.md) | [Next](./../../../../..//us/usc/t7/ch103/schIII/ptA/m__us_usc_t7_ch103_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch103%2FschIII)
 
 ----------
 ----------

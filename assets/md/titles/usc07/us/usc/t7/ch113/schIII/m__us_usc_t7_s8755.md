@@ -19,7 +19,7 @@
 
         (1) __Requirements__ 
 
-        Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter, or average crop revenue election payments under [section 8715 of this title][/us/usc/t7/s8715], with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
+        Before the producers on a farm may receive direct payments or counter-cyclical payments under this subchapter, or average crop revenue election payments under section 8715  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
 
             (A) to comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ([16 U.S.C. 3811][/us/usc/t16/s3811] et seq.);
 
@@ -71,7 +71,7 @@
 
     (e) __Sharing of payments__ 
 
-        The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments under [section 8715 of this title][/us/usc/t7/s8715] among the producers on a farm on a fair and equitable basis.
+        The Secretary shall provide for the sharing of direct payments, counter-cyclical payments, or average crop revenue election payments under section 8715 1 of this title among the producers on a farm on a fair and equitable basis.
 
     (f) __Extension of 2008 signup__ 
 
@@ -91,6 +91,8 @@
 
  __References in Text__ 
 
+    [Section 8715 of this title][/us/usc/t7/s8715], referred to in subsecs. (a)(1) and (e), was repealed by [Pub. L. 113–79, title I, § 1103(a)][/us/pl/113/79/s1103/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+
     The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354]. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
  __Codification__ 
@@ -108,17 +110,18 @@
 ----------
 ----------
 
-[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
 [/us/usc/t7/s8756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8756
-[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
 [/us/pl/110/234/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1305
 [/us/stat/122/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F972
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/398/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs1%2Fb%2F2
 [/us/stat/122/4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4213
+[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
+[/us/pl/113/79/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1103%2Fa
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281

@@ -247,6 +247,22 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2036b" data-uslm-ref="/us/usc/t7/s2036b">2036b.</a>  </td>
+
+    <td> Retail food store and recipient trafficking.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2036c" data-uslm-ref="/us/usc/t7/s2036c">2036c.</a>  </td>
+
+    <td> Annual State report on verification of SNAP participation.  </td>
+
+  </tr>
+
 </table>
 
 ----------

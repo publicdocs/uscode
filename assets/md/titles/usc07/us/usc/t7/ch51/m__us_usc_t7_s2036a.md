@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036.md) | [Next](./../../../..//us/usc/t7/ch52/m__us_usc_t7_ch52.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2036a)
+[Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2036a)
 
 ## § 2036a. Nutrition education and obesity prevention grant program
 
@@ -35,7 +35,7 @@
 
     (b) __Programs__ 
 
-        Consistent with the terms and conditions of grants awarded under this section, State agencies may implement a nutrition education and obesity prevention program for eligible individuals that promotes healthy food choices consistent with the most recent Dietary Guidelines for Americans published under [section 5341 of this title][/us/usc/t7/s5341].
+        Consistent with the terms and conditions of grants awarded under this section, State agencies may implement a nutrition education and obesity prevention program for eligible individuals that promotes healthy food choices and physical activity consistent with the most recent Dietary Guidelines for Americans published under [section 5341 of this title][/us/usc/t7/s5341].
 
     (c) __Delivery of nutrition education and obesity prevention services__ 
 
@@ -199,9 +199,11 @@
 
         Not later than January 1, 2012, the Secretary shall publish in the Federal Register a description of the requirements for the receipt of a grant under this section.
 
-([Pub. L. 88–525, § 28][/us/pl/88/525/s28], as added [Pub. L. 111–296, title II, § 241(a)][/us/pl/111/296/s241/a], Dec. 13, 2010, [124 Stat. 3232][/us/stat/124/3232]; amended [Pub. L. 112–240, title VII, § 701(d)(2)][/us/pl/112/240/s701/d/2], Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363].)
+([Pub. L. 88–525, § 28][/us/pl/88/525/s28], as added [Pub. L. 111–296, title II, § 241(a)][/us/pl/111/296/s241/a], Dec. 13, 2010, [124 Stat. 3232][/us/stat/124/3232]; amended [Pub. L. 112–240, title VII, § 701(d)(2)][/us/pl/112/240/s701/d/2], Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363]; [Pub. L. 113–79, title IV, § 4028][/us/pl/113/79/s4028], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].)
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79] inserted “and physical activity” after “healthy food choices”.
 
     Subsec. (d)(1)(B) to (F). [Pub. L. 112–240][/us/pl/112/240] added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: “for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.”
 
@@ -215,7 +217,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036.md) | [Next](./../../../..//us/usc/t7/ch52/m__us_usc_t7_ch52.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2036a)
+[Previous](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2036b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2036a)
 
 ----------
 ----------
@@ -231,6 +233,9 @@
 [/us/stat/124/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3232
 [/us/pl/112/240/s701/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fd%2F2
 [/us/stat/126/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2363
+[/us/pl/113/79/s4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4028
+[/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj

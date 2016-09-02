@@ -65,25 +65,9 @@ SUBCHAPTER I—DIRECT PAYMENTS AND COUNTER-CYCLICAL PAYMENTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8713" data-uslm-ref="/us/usc/t7/s8713">8713.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8713" data-uslm-ref="/us/usc/t7/s8713">8713</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8715" data-uslm-ref="/us/usc/t7/s8715">8715.</a>  </td>
 
-    <td> Availability of direct payments.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8714" data-uslm-ref="/us/usc/t7/s8714">8714.</a>  </td>
-
-    <td> Availability of counter-cyclical payments.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8715" data-uslm-ref="/us/usc/t7/s8715">8715.</a>  </td>
-
-    <td> Average crop revenue election program.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -233,17 +217,9 @@ SUBCHAPTER III—PEANUTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8753" data-uslm-ref="/us/usc/t7/s8753">8753.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8753" data-uslm-ref="/us/usc/t7/s8753">8753</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8754" data-uslm-ref="/us/usc/t7/s8754">8754.</a>  </td>
 
-    <td> Availability of direct payments for peanuts.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8754" data-uslm-ref="/us/usc/t7/s8754">8754.</a>  </td>
-
-    <td> Availability of counter-cyclical payments for peanuts.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -291,7 +267,7 @@ SUBCHAPTER IV—DAIRY  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8771" data-uslm-ref="/us/usc/t7/s8771">8771.</a>  </td>
 
-    <td> Dairy product price support program.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

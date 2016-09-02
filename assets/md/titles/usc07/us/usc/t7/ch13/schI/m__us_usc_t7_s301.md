@@ -37,35 +37,35 @@
 
 > “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes.”
 
-[Pub. L. 103–382, title V][/us/pl/103/382], part C, Oct. 20, 1994, [108 Stat. 4048][/us/stat/108/4048], as amended by [Pub. L. 104–127, title VIII, § 882][/us/pl/104/127/s882], Apr. 4, 1996, [110 Stat. 1175][/us/stat/110/1175]; [Pub. L. 105–185, title II, § 251][/us/pl/105/185/s251], title III, § 301(g), June 23, 1998, [112 Stat. 557][/us/stat/112/557], 563; [Pub. L. 105–332, § 3(d)][/us/pl/105/332/s3/d], Oct. 31, 1998, [112 Stat. 3126][/us/stat/112/3126]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7126(f)–7128, 7201(a)–(d), May 13, 2002, [116 Stat. 435–437][/us/stat/116/435-437]; [Pub. L. 108–204, title I, § 128][/us/pl/108/204/s128], Mar. 2, 2004, [118 Stat. 547][/us/stat/118/547]; [Pub. L. 108–447, div. A, title VII, § 777][/us/pl/108/447/s777], Dec. 8, 2004, [118 Stat. 2849][/us/stat/118/2849]; [Pub. L. 110–234, title VII, § 7402(a)][/us/pl/110/234/s7402/a]–(e), May 22, 2008, [122 Stat. 1245][/us/stat/122/1245], 1246; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7402(a)–(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2007; [Pub. L. 110–315, title IX, § 941(k)(2)(A)][/us/pl/110/315/s941/k/2/A], Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465], provided that:
+[Pub. L. 103–382, title V][/us/pl/103/382], part C, Oct. 20, 1994, [108 Stat. 4048][/us/stat/108/4048], as amended by [Pub. L. 104–127, title VIII, § 882][/us/pl/104/127/s882], Apr. 4, 1996, [110 Stat. 1175][/us/stat/110/1175]; [Pub. L. 105–185, title II, § 251][/us/pl/105/185/s251], title III, § 301(g), June 23, 1998, [112 Stat. 557][/us/stat/112/557], 563; [Pub. L. 105–332, § 3(d)][/us/pl/105/332/s3/d], Oct. 31, 1998, [112 Stat. 3126][/us/stat/112/3126]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7126(f)–7128, 7201(a)–(d), May 13, 2002, [116 Stat. 435–437][/us/stat/116/435-437]; [Pub. L. 108–204, title I, § 128][/us/pl/108/204/s128], Mar. 2, 2004, [118 Stat. 547][/us/stat/118/547]; [Pub. L. 108–447, div. A, title VII, § 777][/us/pl/108/447/s777], Dec. 8, 2004, [118 Stat. 2849][/us/stat/118/2849]; [Pub. L. 110–234, title VII, § 7402(a)][/us/pl/110/234/s7402/a]–(e), May 22, 2008, [122 Stat. 1245][/us/stat/122/1245], 1246; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7402(a)–(e), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2007; [Pub. L. 110–315, title IX, § 941(k)(2)(A)][/us/pl/110/315/s941/k/2/A], Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465]; [Pub. L. 113–79, title VII, § 7402(a)(1)][/us/pl/113/79/s7402/a/1], (b)–(d), Feb. 7, 2014, [128 Stat. 893][/us/stat/128/893], 894, provided that:
 
 > “SEC. 531. __SHORT TITLE.__ 
 
 >     “This part may be cited as the ‘Equity in Educational Land-Grant Status Act of 1994’.
 
-> “SEC. 532. __DEFINITION.__ 
+> “SEC. 532. __DEFINITION OF 1994 INSTITUTION.__ 
 
-> “As used in this part, the term ‘1994 Institutions’ means any one of the following colleges:
+> “In this part, the term ‘1994 Institution’ means any of the following colleges:
 
->     “(1) Bay Mills Community College.
+>     “(1) Aaniiih Nakoda College.
 
->     “(2) Blackfeet Community College.
+>     “(2) Bay Mills Community College.
 
->     “(3) Cankdeska Cikana Community College.
+>     “(3) Blackfeet Community College.
 
->     “(4) College of Menominee Nation.
+>     “(4) Cankdeska Cikana Community College.
 
->     “(5) Crownpoint Institute of Technology.
+>     “(5) Chief Dull Knife College.
 
->     “(6) D–Q University.
+>     “(6) College of Menominee Nation.
 
->     “(7) Dine College.
+>     “(7) College of the Muscogee Nation.
 
->     “(8) Chief Dull Knife Memorial College.
+>     “(8) D–Q University.
 
->     “(9) Fond du Lac Tribal and Community College.
+>     “(9) Dine College.
 
->     “(10) Fort Belknap College.
+>     “(10) Fond du Lac Tribal and Community College.
 
 >     “(11) Fort Berthold Community College.
 
@@ -73,47 +73,49 @@
 
 >     “(13) Haskell Indian Nations University.
 
->     “(14) Institute of American Indian and Alaska Native Culture and Arts Development.
+>     “(14) Ilisagvik College.
 
->     “(15) Lac Courte Oreilles Ojibwa Community College.
+>     “(15) Institute of American Indian and Alaska Native Culture and Arts Development.
 
->     “(16) Leech Lake Tribal College.
+>     “(16) Keweenaw Bay Ojibwa Community College.
 
->     “(17) Little Big Horn College.
+>     “(17) Lac Courte Oreilles Ojibwa Community College.
 
->     “(18) Little Priest Tribal College.
+>     “(18) Leech Lake Tribal College.
 
->     “(19) Nebraska Indian Community College.
+>     “(19) Little Big Horn College.
 
->     “(20) Northwest Indian College.
+>     “(20) Little Priest Tribal College.
 
->     “(21) Oglala Lakota College.
+>     “(21) Navajo Technical College.
 
->     “(22) Saginaw Chippewa Tribal College.
+>     “(22) Nebraska Indian Community College.
 
->     “(23) Tohono O‘odham Community College.
+>     “(23) Northwest Indian College.
 
->     “(24) Salish Kootenai College.
+>     “(24) Oglala Lakota College.
 
->     “(25) Sinte Gleska University.
+>     “(25) Saginaw Chippewa Tribal College.
 
->     “(26) Sisseton Wahpeton Community College.
+>     “(26) Salish Kootenai College.
 
->     “(27) Si Tanka/Huron University.
+>     “(27) Sinte Gleska University.
 
->     “(28) Sitting Bull College.
+>     “(28) Sisseton Wahpeton College.
 
->     “(29) Southwestern Indian Polytechnic Institute.
+>     “(29) Sitting Bull College.
 
->     “(30) Stone Child College.
+>     “(30) Southwestern Indian Polytechnic Institute.
 
->     “(31) Turtle Mountain Community College.
+>     “(31) Stone Child College.
 
->     “(32) United Tribes Technical College.
+>     “(32) Tohono O’odham Community College.
 
->     “(33) White Earth Tribal and Community College.
+>     “(33) Turtle Mountain Community College.
 
->     “(34) Ilisagvik College.
+>     “(34) United Tribes Technical College.
+
+>     “(35) White Earth Tribal and Community College.
 
 > “SEC. 533. __LAND-GRANT STATUS FOR 1994 INSTITUTIONS.__ 
 
@@ -147,7 +149,7 @@
 
 >     “(b)  __Authorization of Appropriations__  __.—__ 
 
->     There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2012. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
+>     There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2018. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
 
 >     “(c) __Endowment.—__ 
 
@@ -239,7 +241,7 @@
 
 >         “(1)  __Institutional capacity building grants__  __.—__ 
 
->         For each of fiscal years 1996 through 2012, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
+>         For each of fiscal years 1996 through 2018, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
 
 >         “(2)  __Requirements for grants__  __.—__ 
 
@@ -259,7 +261,7 @@
 
 >     “(c)  __Authorization of Appropriations__  __.—__ 
 
->     There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2012.
+>     There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2018.
 
 > “SEC. 536. __RESEARCH GRANTS.__ 
 
@@ -269,11 +271,29 @@
 
 >     “(b)  __Requirements__  __.—__ 
 
->     Grant applications submitted under this section shall certify that the research to be conducted will be performed under a cooperative agreement with at least 1 other land-grant college or university (exclusive of another 1994 Institution).
+>     Grant applications submitted under this section shall certify that the research to be conducted will be performed under a cooperative agreement with—
+
+>         “(1) the Agricultural Research Service of the Department of Agriculture; or
+
+>         “(2)
+
+>          at least 1—
+
+>             “(A) other land-grant college or university (exclusive of another 1994 Institution);
+
+>             “(B) non-land-grant college of agriculture (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3103][/us/usc/t7/s3103])); or
+
+>             “(C) cooperating forestry school (as defined in that section).
 
 >     “(c)  __Authorization of Appropriations__  __.—__ 
 
->     There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012. Amounts appropriated shall remain available until expended.”
+>     There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018. Amounts appropriated shall remain available until expended.”
+
+\[[Pub. L. 113–79, title VII, § 7402(a)(2)][/us/pl/113/79/s7402/a/2], Feb. 7, 2014, [128 Stat. 894][/us/stat/128/894], provided that: 
+
+> “The amendments made by paragraph (1) \[amending [section 532 of Pub. L. 103–382][/us/pl/103/382/s532], set out above\] shall take effect on October 1, 2014.”
+
+\]
 
 \[[Pub. L. 110–234, title VII, § 7402(f)][/us/pl/110/234/s7402/f], May 22, 2008, [122 Stat. 1246][/us/stat/122/1246], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7402(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2007, provided that: 
 
@@ -358,6 +378,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/315/s941/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FA
 [/us/stat/122/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3465
+[/us/pl/113/79/s7402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7402%2Fa%2F1
+[/us/stat/128/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F893
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/stat/24/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F440
@@ -373,6 +395,10 @@
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
 [/us/usc/t7/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343
+[/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
+[/us/pl/113/79/s7402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7402%2Fa%2F2
+[/us/stat/128/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F894
+[/us/pl/103/382/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs532
 [/us/pl/110/234/s7402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7402%2Ff
 [/us/stat/122/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1246
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa

@@ -21,7 +21,7 @@
 
         (2)
 
-         The interest rate on any loan (other than a guaranteed loan) to a low income, limited resource borrower under this subchapter shall not be—
+         The interest rate on a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in [section 2279(e) of this title][/us/usc/t7/s2279/e]), or any loan (other than a guaranteed loan) to a low income, limited resource borrower under this subchapter shall not be—
 
             (A)
 
@@ -73,13 +73,15 @@
 
             (B) was eligible for a price support program of the Department of Agriculture on the day before April 4, 1996.
 
-([Pub. L. 87–128, title III, § 316][/us/pl/87/128/s316], Aug. 8, 1961, [75 Stat. 311][/us/stat/75/311]; [Pub. L. 90–488, § 10][/us/pl/90/488/s10], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 95–334, title I, § 117][/us/pl/95/334/s117], Aug. 4, 1978, [92 Stat. 426][/us/stat/92/426]; [Pub. L. 97–35, title I, § 160(b)][/us/pl/97/35/s160/b], Aug. 13, 1981, [95 Stat. 377][/us/stat/95/377]; [Pub. L. 98–258, title VI, § 604(b)][/us/pl/98/258/s604/b], Apr. 10, 1984, [98 Stat. 139][/us/stat/98/139]; [Pub. L. 101–624, title XVIII, § 1803(b)][/us/pl/101/624/s1803/b], Nov. 28, 1990, [104 Stat. 3818][/us/stat/104/3818]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 614, 661(g), Apr. 4, 1996, [110 Stat. 1089][/us/stat/110/1089], 1107.)
+([Pub. L. 87–128, title III, § 316][/us/pl/87/128/s316], Aug. 8, 1961, [75 Stat. 311][/us/stat/75/311]; [Pub. L. 90–488, § 10][/us/pl/90/488/s10], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 95–334, title I, § 117][/us/pl/95/334/s117], Aug. 4, 1978, [92 Stat. 426][/us/stat/92/426]; [Pub. L. 97–35, title I, § 160(b)][/us/pl/97/35/s160/b], Aug. 13, 1981, [95 Stat. 377][/us/stat/95/377]; [Pub. L. 98–258, title VI, § 604(b)][/us/pl/98/258/s604/b], Apr. 10, 1984, [98 Stat. 139][/us/stat/98/139]; [Pub. L. 101–624, title XVIII, § 1803(b)][/us/pl/101/624/s1803/b], Nov. 28, 1990, [104 Stat. 3818][/us/stat/104/3818]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 614, 661(g), Apr. 4, 1996, [110 Stat. 1089][/us/stat/110/1089], 1107; [Pub. L. 113–79, title V, § 5106(b)(3)][/us/pl/113/79/s5106/b/3], Feb. 7, 2014, [128 Stat. 838][/us/stat/128/838].)
 
  __References in Text__ 
 
     Paragraph (3), referred to in subsec. (a)(1), was repealed by [Pub. L. 104–127, title VI, § 661(g)][/us/pl/104/127/s661/g], Apr. 4, 1996, [110 Stat. 1107][/us/stat/110/1107].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–79][/us/pl/113/79] inserted “a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in [section 2279(e) of this title][/us/usc/t7/s2279/e]), or” after “The interest rate on”.
 
     1996—Subsec. (a)(3). [Pub. L. 104–127, § 661(g)][/us/pl/104/127/s661/g], struck out par. (3) which read as follows: “The interest rate on any loan (other than a guaranteed loan) made or insured under clause (5) of [section 1942(a) of this title][/us/usc/t7/s1942/a] for activities that involve the use of prime farmland as defined in [section 1927(a)(6)(C) of this title][/us/usc/t7/s1927/a/6/C] shall be the interest rate otherwise applicable under this section increased by 2 per centum per annum.”
 
@@ -112,6 +114,7 @@
 ----------
 ----------
 
+[/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
 [/us/usc/t7/s1981b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981b
 [/us/pl/87/128/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs316
 [/us/stat/75/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F311
@@ -127,8 +130,12 @@
 [/us/stat/104/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3818
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1089
+[/us/pl/113/79/s5106/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5106%2Fb%2F3
+[/us/stat/128/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F838
 [/us/pl/104/127/s661/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs661%2Fg
 [/us/stat/110/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1107
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
 [/us/pl/104/127/s661/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs661%2Fg
 [/us/usc/t7/s1942/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1942%2Fa
 [/us/usc/t7/s1927/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1927%2Fa%2F6%2FC

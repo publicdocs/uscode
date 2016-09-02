@@ -101,9 +101,9 @@
 
     (i) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated $20,000,000 for each fiscal year to carry out the National Training Program.
+        There are authorized to be appropriated to carry out the National Training Program $20,000,000 for each of fiscal years 2013 through 2018.
 
-([Pub. L. 101–624, title XVI, § 1629][/us/pl/101/624/s1629], Nov. 28, 1990, [104 Stat. 3741][/us/stat/104/3741]; [Pub. L. 102–237, title IV, § 407(4)][/us/pl/102/237/s407/4], Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864]; [Pub. L. 104–127, title VIII, § 862(b)(4)][/us/pl/104/127/s862/b/4], Apr. 4, 1996, [110 Stat. 1174][/us/stat/110/1174]; [Pub. L. 105–185, title VI, § 606(f)][/us/pl/105/185/s606/f], June 23, 1998, [112 Stat. 604][/us/stat/112/604]; [Pub. L. 110–234, title VII, § 7511(c)(17)][/us/pl/110/234/s7511/c/17], May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(17), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030.)
+([Pub. L. 101–624, title XVI, § 1629][/us/pl/101/624/s1629], Nov. 28, 1990, [104 Stat. 3741][/us/stat/104/3741]; [Pub. L. 102–237, title IV, § 407(4)][/us/pl/102/237/s407/4], Dec. 13, 1991, [105 Stat. 1864][/us/stat/105/1864]; [Pub. L. 104–127, title VIII, § 862(b)(4)][/us/pl/104/127/s862/b/4], Apr. 4, 1996, [110 Stat. 1174][/us/stat/110/1174]; [Pub. L. 105–185, title VI, § 606(f)][/us/pl/105/185/s606/f], June 23, 1998, [112 Stat. 604][/us/stat/112/604]; [Pub. L. 110–234, title VII, § 7511(c)(17)][/us/pl/110/234/s7511/c/17], May 22, 2008, [122 Stat. 1269][/us/stat/122/1269]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(17), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2030; [Pub. L. 113–79, title VII, § 7204][/us/pl/113/79/s7204], Feb. 7, 2014, [128 Stat. 880][/us/stat/128/880].)
 
  __References in Text__ 
 
@@ -114,6 +114,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (i). [Pub. L. 113–79][/us/pl/113/79] amended subsec. (i) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated $20,000,000 for each fiscal year to carry out the National Training Program.”
 
     2008—Subsec. (b). [Pub. L. 110–246, § 7511(c)(17)(A)][/us/pl/110/246/s7511/c/17/A], substituted “the National Institute of Food and Agriculture” for “the Extension Service” in first sentence.
 
@@ -150,6 +152,8 @@
 [/us/stat/122/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1269
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7204
+[/us/stat/128/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F880
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/105/185/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs302%2Fc
 [/us/stat/112/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F563
@@ -157,6 +161,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7511/c/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F17%2FA
 [/us/pl/110/246/s7511/c/17/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F17%2FB
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185

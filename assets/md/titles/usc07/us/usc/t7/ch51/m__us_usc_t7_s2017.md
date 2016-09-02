@@ -51,7 +51,7 @@
 
         (1) __In general__ 
 
-        In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in [section 2012(n)(5) of this title][/us/usc/t7/s2012/n/5], a State agency may provide an allotment for the individual to—
+        In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in section 2012(n)(5)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, a State agency may provide an allotment for the individual to—
 
             (A) the center as an authorized representative of the individual for a period that is less than 1 month; and
 
@@ -69,7 +69,7 @@
 
                 (i) __In general__ 
 
-                    Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of [section 2012(n)(5) of this title][/us/usc/t7/s2012/n/5] (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a) of this section.
+                    Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(n)(5) 1 of this title (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a) of this section.
 
                 (ii) __Limitation__ 
 
@@ -176,6 +176,8 @@
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (d)(2), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t7/s1305] and Tables.
+
+    Section 2012(n)(5), referred to in subsecs. (e)(1) and (f)(1)(A)(i), was redesignated as section 2012(m)(5) by [Pub. L. 113–79, title IV, § 4030(a)(4)][/us/pl/113/79/s4030/a/4], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].
 
  __Codification__ 
 
@@ -315,8 +317,6 @@
 [/us/usc/t7/s2020/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F3
 [/us/usc/t7/s2020/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/usc/t7/s2012/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fn%2F5
-[/us/usc/t7/s2012/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fn%2F5
 [/us/pl/88/525/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs8
 [/us/stat/78/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F705
 [/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
@@ -350,6 +350,8 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t7/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1305
+[/us/pl/113/79/s4030/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F4
+[/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

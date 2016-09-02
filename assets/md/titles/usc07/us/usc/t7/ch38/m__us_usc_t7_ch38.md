@@ -67,7 +67,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1622c" data-uslm-ref="/us/usc/t7/s1622c">1622c.</a>  </td>
 
-    <td> Grant program to improve movement of specialty crops.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -116,6 +116,22 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1627" data-uslm-ref="/us/usc/t7/s1627">1627.</a>  </td>
 
     <td> Appointment of personnel; compensation; employment of specialists.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1627a" data-uslm-ref="/us/usc/t7/s1627a">1627a.</a>  </td>
+
+    <td> Sheep production and marketing grant program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1627b" data-uslm-ref="/us/usc/t7/s1627b">1627b.</a>  </td>
+
+    <td> National Sheep Industry Improvement Center.  </td>
 
   </tr>
 
@@ -172,6 +188,14 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1632b" data-uslm-ref="/us/usc/t7/s1632b">1632b.</a>  </td>
 
     <td> Agriculture Innovation Center Demonstration Program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1632c" data-uslm-ref="/us/usc/t7/s1632c">1632c.</a>  </td>
+
+    <td> Acer access and development program.  </td>
 
   </tr>
 

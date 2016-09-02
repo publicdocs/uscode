@@ -161,6 +161,16 @@
 
                     (II) in a manner consistent with the payment plan approved in accordance with that subsection for the entity by the Corporation for the applicable reinsurance year.
 
+            (C) __Publication of violations__ 
+
+                (i) __Publication required__ 
+
+                    Subject to clause (ii), the Corporation shall publish in a timely manner on the website of the Risk Management Agency information regarding each violation of this paragraph, including any sanctions imposed in response to the violation, in sufficient detail so that the information may serve as effective guidance to approved insurance providers, agents, and producers.
+
+                (ii) __Protection of privacy__ 
+
+                    In providing information under clause (i) regarding violations of this paragraph, the Corporation shall redact the identity of the persons and entities committing the violations in order to protect the privacy of those persons and entities.
+
         (10) __Commissions__ 
 
             (A) __Definition of immediate family__ 
@@ -195,9 +205,15 @@
 
     (b) __Catastrophic risk protection__ 
 
-        (1) __In general__ 
+        (1) __Coverage availability__ 
 
-            The Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought, flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.
+            (A) __In general__ 
+
+                Except as provided in subparagraph (B), the Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought, flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.
+
+            (B) __Exception__ 
+
+                Coverage described in subparagraph (A) shall not be available for crops and grasses used for grazing.
 
         (2) __Amount of coverage__ 
 
@@ -301,35 +317,21 @@
 
             (E) __Waiver of fee__ 
 
-                The Corporation shall waive the amounts required under this paragraph for limited resource farmers, as defined by the Corporation.
+                The Corporation shall waive the amounts required under this paragraph for limited resource farmers and beginning farmers or ranchers, as defined by the Corporation.
 
         (6) __Participation requirement__ 
 
             A producer may obtain catastrophic risk coverage for a crop of the producer on land in the county only if the producer obtains the coverage for the crop on all insurable land of the producer in the county.
 
-        (7) __Eligibility for Department programs__ 
-
-            (A) __In general__ 
-
-            Effective for the spring-planted 1996 and subsequent crops (and fall-planted 1996 crops at the option of the Secretary), to be eligible for any payment or loan under the Agricultural Market Transition Act \[[7 U.S.C. 7201][/us/usc/t7/s7201] et seq.\], for the conservation reserve program, or for any benefit described in [section 2008f of this title][/us/usc/t7/s2008f], a person shall—
-
-                (i) obtain at least the catastrophic level of insurance for each crop of economic significance in which the person has an interest; or
-
-                (ii) provide a written waiver to the Secretary that waives any eligibility for emergency crop loss assistance in connection with the crop.
-
-            (B) __“Crop of economic significance” defined__ 
-
-                As used in this paragraph, the term “crop of economic significance” means a crop that has contributed, or is expected to contribute, 10 percent or more of the total expected value of all crops grown by the producer.
-
-        (8) __Limitation due to risk__ 
+        (7) __Limitation due to risk__ 
 
             The Corporation may limit catastrophic risk coverage in any county or area, or on any farm, on the basis of the insurance risk concerned.
 
-        (9) __Transitional coverage for 1995 crops__ 
+        (8) __Transitional coverage for 1995 crops__ 
 
             Effective only for a 1995 crop planted or for which insurance attached prior to January 1, 1995, the Corporation shall allow producers of the crops until not later than the end of the 180-day period beginning on the date of enactment of the Federal Crop Insurance Reform Act of 1994 \[Oct. 13, 1994\] to obtain catastrophic risk protection for the crop. On enactment of such Act, a producer who made timely purchases of a crop insurance policy before the date of enactment of such Act, under the provisions of this subchapter then in effect, shall be eligible for the same benefits to which a producer would be entitled under comparable additional coverage under subsection (c) of this section.
 
-        (10) __Simplification__ 
+        (9) __Simplification__ 
 
             (A) __Catastrophic risk protection plans__ 
 
@@ -339,7 +341,7 @@
 
                 To the extent that the policies and procedures developed under subparagraph (A) may be applied to other plans of insurance offered under this subchapter without jeopardizing the actuarial soundness or integrity of the crop insurance program, the Corporation shall apply the policies and procedures to the other plans of insurance within a reasonable period of time (as determined by the Corporation) after the effective date of this paragraph.
 
-        (11) __Loss adjustment__ 
+        (10) __Loss adjustment__ 
 
             The rate for reimbursing an approved insurance provider or agent for expenses incurred by the approved insurance provider or agent for loss adjustment in connection with a policy of catastrophic risk protection shall not exceed 6 percent of the premium for catastrophic risk protection that is used to define loss ratio.
 
@@ -359,13 +361,67 @@
 
             If a producer has already applied for catastrophic risk protection at the local office of the Department and elects to purchase additional coverage, the relevant information for the crop of the producer shall be transferred to the approved insurance provider servicing the additional coverage crop policy.
 
-        (3) __Yield and loss basis__ 
+        (3) __Yield and loss basis options__ 
 
-            A producer shall have the option of purchasing additional coverage based on an individual yield and loss basis or on an area yield and loss basis, if both options are offered by the Corporation.
+        A producer shall have the option of purchasing additional coverage based on—
+
+            (A)
+
+                (i) an individual yield and loss basis; or
+
+                (ii) an area yield and loss basis;
+
+            (B) an individual yield and loss basis, supplemented with coverage based on an area yield and loss basis to cover a part of the deductible under the individual yield and loss policy, as described in paragraph (4)(C); or
+
+            (C) a margin basis alone or in combination with the coverages available under subparagraph (A) or (B).
 
         (4) __Level of coverage__ 
 
-            The level of coverage shall be dollar denominated and may be purchased at any level not to exceed 85 percent of the individual yield or 95 percent of the area yield (as determined by the Corporation). Not later than the beginning of the 1996 crop year, the Corporation shall provide producers with information on catastrophic risk and additional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph).
+            (A) __Dollar denomination and percentage of yield__ 
+
+            Except as provided in subparagraph (C), the level of coverage—
+
+                (i) shall be dollar denominated; and
+
+                (ii) may be purchased at any level not to exceed 85 percent of the individual yield or 95 percent of the area yield (as determined by the Corporation).
+
+            (B) __Information__ 
+
+                The Corporation shall provide producers with information on catastrophic risk and additional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph).
+
+            (C) __Supplemental coverage option__ 
+
+                (i) __In general__ 
+
+                Notwithstanding subparagraph (A), in the case of the supplemental coverage option described in paragraph (3)(B), the Corporation shall offer producers the opportunity to purchase coverage in combination with a policy or plan of insurance offered under this subchapter that would allow indemnities to be paid to a producer equal to a part of the deductible under the policy or plan of insurance—
+
+                    (I) at a county-wide level to the fullest extent practicable; or
+
+                    (II) in counties that lack sufficient data, on the basis of such larger geographical area as the Corporation determines to provide sufficient data for purposes of providing the coverage.
+
+                (ii) __Trigger__ 
+
+                    Coverage offered under paragraph (3)(B) and clause (i) shall be triggered only if the losses in the area exceed 14 percent of normal levels (as determined by the Corporation).
+
+                (iii) __Coverage__ 
+
+                Subject to the trigger described in clause (ii), coverage offered under paragraph (3)(B) and clause (i) shall not exceed the difference between—
+
+                    (I) 86 percent; and
+
+                    (II) the coverage level selected by the producer for the underlying policy or plan of insurance.
+
+                (iv) __Ineligible crops and acres__ 
+
+                    Crops for which the producer has elected under [section 9016 of this title][/us/usc/t7/s9016] to receive agriculture risk coverage and acres that are enrolled in the stacked income protection plan under [section 1508b of this title][/us/usc/t7/s1508b] shall not be eligible for supplemental coverage under this subparagraph.
+
+                (v) __Calculation of premium__ 
+
+                Notwithstanding subsection (d), the premium for coverage offered under paragraph (3)(B) and clause (i) shall—
+
+                    (I) be sufficient to cover anticipated losses and a reasonable reserve; and
+
+                    (II) include an amount for operating and administrative expenses established in accordance with subsection (k)(4)(F).
 
         (5) __Expected market price__ 
 
@@ -457,6 +513,24 @@
 
                 The Corporation shall, as the Corporation determines practicable, offer producers different price elections for classes of wheat and malting barley (including contract prices in the case of malting barley), in addition to the standard price election, that reflect different market prices, as determined by the Corporation. The Corporation shall, as the Corporation determines practicable, offer additional coverage for each class determined under this subparagraph and charge a premium for each class that is actuarially sound.
 
+            (D) __Organic crops__ 
+
+                (i) __In general__ 
+
+                    As soon as possible, but not later than the 2015 reinsurance year, the Corporation shall offer producers of organic crops price elections for all organic crops produced in compliance with standards issued by the Department of Agriculture under the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq.) that reflect the actual retail or wholesale prices, as appropriate, received by producers for organic crops, as determined by the Secretary using all relevant sources of information.
+
+                (ii) __Annual report__ 
+
+                The Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report on progress made in developing and improving Federal crop insurance for organic crops, including—
+
+                    (I) the numbers and varieties of organic crops insured;
+
+                    (II) the progress of implementing the price elections required under this subparagraph, including the rate at which additional price elections are adopted for organic crops;
+
+                    (III) the development of new insurance approaches relevant to organic producers; and
+
+                    (IV) any recommendations the Corporation considers appropriate to improve Federal crop insurance coverage for organic crops.
+
         (7) __Fire and hail coverage__ 
 
             For levels of additional coverage equal to 65 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage, a producer may elect to delete from the additional coverage any coverage against damage caused by fire and hail if the producer obtains an equivalent or greater dollar amount of coverage for damage caused by fire and hail from an approved insurance provider. On written notice of the election to the company issuing the policy providing additional coverage and submission of evidence of substitute coverage on the commodity insured, the premium of the producer shall be reduced by an amount determined by the Corporation to be actuarially appropriate, taking into account the actuarial value of the remaining coverage provided by the Corporation. In no event shall the producer be given credit for an amount of premium determined to be greater than the actuarial value of the protection against losses caused by fire and hail that is included in the additional coverage for the crop.
@@ -499,7 +573,7 @@
 
         The premium amounts for catastrophic risk protection under subsection (b) of this section and additional coverage under subsection (c) of this section shall be fixed as follows:
 
-            (A) In the case of catastrophic risk protection, the amount of the premium shall be sufficient to cover anticipated losses and a reasonable reserve.
+            (A) In the case of catastrophic risk protection, the amount of the premium established by the Corporation for each crop for which catastrophic risk protection is available shall be reduced by the percentage equal to the difference between the average loss ratio for the crop and 100 percent, plus a reasonable reserve, as determined by the Corporation.
 
             (B)
 
@@ -525,7 +599,7 @@
 
         (2) __Amount of payment__ 
 
-        Subject to paragraphs (4), (6), and (7), the amount of the premium to be paid by the Corporation shall be as follows:
+        Subject to paragraphs (3), (6), and (7), the amount of the premium to be paid by the Corporation shall be as follows:
 
             (A) In the case of catastrophic risk protection, the amount shall be equivalent to the premium established for catastrophic risk protection under subsection (d)(2)(A) of this section.
 
@@ -577,6 +651,14 @@
 
                 (ii) the amount determined under subsection (d)(2)(B)(ii) of this section for the coverage level selected to cover operating and administrative expenses.
 
+            (H)
+
+             In the case of the supplemental coverage option authorized in subsection (c)(4)(C), the amount shall be equal to the sum of—
+
+                (i) 65 percent of the additional premium associated with the coverage; and
+
+                (ii) the amount determined under subsection (c)(4)(C)(v)(II), subject to subsection (k)(4)(F), for the coverage to cover operating and administrative expenses.
+
         (3) __Prohibition on continuous coverage__ 
 
             Notwithstanding paragraph (2), during each of the 2001 and subsequent reinsurance years, additional coverage under subsection (c) of this section shall be available only in 5 percent increments beginning at 50 percent of the recorded or appraised average yield.
@@ -589,7 +671,7 @@
 
             (A) __In general__ 
 
-                The Corporation may carry out a pilot program under which the Corporation pays a portion of the premiums for plans or policies of insurance for which the insurable unit is defined on a whole farm or enterprise unit basis that is higher than would otherwise be paid in accordance with paragraph (2).
+                The Corporation may pay a portion of the premiums for plans or policies of insurance for which the insurable unit is defined on a whole farm or enterprise unit basis that is higher than would otherwise be paid in accordance with paragraph (2).
 
             (B) __Amount__ 
 
@@ -598,6 +680,10 @@
             (C) __Limitation__ 
 
                 The amount of the premium paid by the Corporation under this paragraph may not exceed 80 percent of the total premium for the enterprise or whole farm unit policy.
+
+            (D) __Nonirrigated crops__ 
+
+                Beginning with the 2015 crop year, the Corporation shall make available separate enterprise units for irrigated and nonirrigated acreage of crops in counties.
 
         (6) __Premium subsidy for area revenue plans__ 
 
@@ -663,6 +749,10 @@
 
                 (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
+        (8) __Premium for beginning farmers or ranchers__ 
+
+            Notwithstanding any other provision of this subsection regarding payment of a portion of premiums, a beginning farmer or rancher shall receive premium assistance that is 10 percentage points greater than premium assistance that would otherwise be available under paragraphs (2) (except for subparagraph (A) of that paragraph), (5), (6), and (7) for the applicable policy, plan of insurance, and coverage level selected by the beginning farmer or rancher.
+
     (f) __Eligibility__ 
 
         (1) __In general__ 
@@ -701,13 +791,13 @@
 
             (A) __Actual production history__ 
 
-                Subject to subparagraph (B), the yield for a crop shall be based on the actual production history for the crop, if the crop was produced on the farm without penalty during each of the 4 crop years immediately preceding the crop year for which actual production history is being established, building up to a production data base for each of the 10 consecutive crop years preceding the crop year for which actual production history is being established.
+                Subject to subparagraph (B) and paragraph (4)(C), the yield for a crop shall be based on the actual production history for the crop, if the crop was produced on the farm without penalty during each of the 4 crop years immediately preceding the crop year for which actual production history is being established, building up to a production data base for each of the 10 consecutive crop years preceding the crop year for which actual production history is being established.
 
             (B) __Assigned yield__ 
 
             If the producer does not provide satisfactory evidence of the yield of a commodity under subparagraph (A), the producer shall be assigned—
 
-                (i) a yield that is not less than 65 percent of the transitional yield of the producer (adjusted to reflect actual production reflected in the records acceptable to the Corporation for continuous years), as specified in regulations issued by the Corporation based on production history requirements; or
+                (i) a yield that is not less than 65 percent of the transitional yield of the producer (adjusted to reflect actual production reflected in the records acceptable to the Corporation for continuous years), as specified in regulations issued by the Corporation based on production history requirements;
 
                 (ii)
 
@@ -717,7 +807,15 @@
 
                     (II) a producer that produces an agricultural commodity on land that has not been farmed by the producer; or
 
-                    (III) a producer that rotates a crop produced on a farm to a crop that has not been produced on the farm.
+                    (III) a producer that rotates a crop produced on a farm to a crop that has not been produced on the farm; or
+
+                (iii)
+
+                 if the producer is a beginning farmer or rancher who was previously involved in a farming or ranching operation, including involvement in the decisionmaking or physical involvement in the production of the crop or livestock on the farm, for any acreage obtained by the beginning farmer or rancher, a yield that is the higher of—
+
+                    (I) the actual production history of the previous producer of the crop or livestock on the acreage determined under subparagraph (A); or
+
+                    (II) a yield of the producer, as determined in clause (i).
 
             (C) __Area yield__ 
 
@@ -726,6 +824,14 @@
             (D) __Commodity-by-commodity basis__ 
 
                 A producer may choose between individual yield or area yield coverage or combined coverage, if available, on a commodity-by-commodity basis.
+
+            (E) __Sources of yield data__ 
+
+            To determine yields under this paragraph, the Corporation—
+
+                (i) shall use county data collected by the Risk Management Agency, the National Agricultural Statistics Service, or both; or
+
+                (ii) if sufficient county data is not available, may use other data considered appropriate by the Secretary.
 
         (3) __Transitional yields for producers of feed or forage__ 
 
@@ -761,11 +867,29 @@
 
                 (i) exclude any of such recorded or appraised yield; and
 
-                (ii) replace each excluded yield with a yield equal to 60 percent of the applicable transitional yield.
+                (ii)
 
-            (C) __Premium adjustment__ 
+                    (I) replace each excluded yield with a yield equal to 60 percent of the applicable transitional yield; or
 
-                In the case of a producer that makes an election under subparagraph (B), the Corporation shall adjust the premium to reflect the risk associated with the adjustment made in the actual production history of the producer.
+                    (II) in the case of beginning farmers or ranchers, replace each excluded yield with a yield equal to 80 percent of the applicable transitional yield.
+
+            (C) __Election to exclude certain history__ 
+
+                (i) __In general__ 
+
+                    Notwithstanding paragraph (2), with respect to 1 or more of the crop years used to establish the actual production history of an agricultural commodity of the producer, the producer may elect to exclude any recorded or appraised yield for any crop year in which the per planted acre yield of the agricultural commodity in the county of the producer was at least 50 percent below the simple average of the per planted acre yield of the agricultural commodity in the county during the previous 10 consecutive crop years.
+
+                (ii) __Contiguous counties__ 
+
+                    In any crop year that a producer in a county is eligible to make an election to exclude a yield under clause (i), a producer in a contiguous county is eligible to make such an election.
+
+                (iii) __Irrigation practice__ 
+
+                    For purposes of determining whether the per planted acre yield of the agricultural commodity in the county of the producer was at least 50 percent below the simple average of the per planted acre yield of the agricultural commodity in the county during the previous 10 consecutive crop years, the Corporation shall make a separate determination for irrigated and nonirrigated acreage.
+
+            (D) __Premium adjustment__ 
+
+                In the case of a producer that makes an election under subparagraph (B) or (C), the Corporation shall adjust the premium to reflect the risk associated with the adjustment made in the actual production history of the producer.
 
         (5) __Adjustment to reflect increased yields from successful pest control efforts__ 
 
@@ -785,13 +909,25 @@
 
     (h) __Submission of policies and materials to Board__ 
 
-        (1) __In general__ 
+        (1) __Authority to submit__ 
 
-        In addition to any standard forms or policies that the Board may require be made available to producers under subsection (c) of this section, a person (including an approved insurance provider, a college or university, a cooperative or trade association, or any other person) may prepare for submission or propose to the Board—
+            (A) __In general__ 
 
-            (A) other crop insurance policies and provisions of policies; and
+            In addition to any standard forms or policies that the Board may require be made available to producers under subsection (c) of this section, a person (including an approved insurance provider, a college or university, a cooperative or trade association, or any other person) may prepare for submission or propose to the Board—
 
-            (B) rates of premiums for multiple peril crop insurance pertaining to wheat, soybeans, field corn, and any other crops determined by the Secretary.
+                (i) other crop insurance policies and provisions of policies; and
+
+                (ii) rates of premiums for multiple peril crop insurance pertaining to wheat, soybeans, field corn, and any other crops determined by the Secretary.
+
+            (B) __Review and submission by Corporation__ 
+
+            The Corporation shall review any policy developed under [section 1522(c) of this title][/us/usc/t7/s1522/c] or any pilot program developed under [section 1523 of this title][/us/usc/t7/s1523] and submit the policy or program to the Board under this subsection if the Corporation, at the sole discretion of the Corporation, finds that the policy or program—
+
+                (i) will likely result in a viable and marketable policy consistent with this subsection;
+
+                (ii) would provide crop insurance coverage in a significantly improved form; and
+
+                (iii) adequately protects the interests of producers.
 
         (2) __Submission of policies__ 
 
@@ -799,7 +935,43 @@
 
         (3) __Review and approval by the Board__ 
 
-            A policy or other material submitted to the Board under this subsection shall be reviewed by the Board and, if the Board finds that the interests of producers are adequately protected and that any premiums charged to the producers are actuarially appropriate, shall be approved by the Board for reinsurance and for sale by approved insurance providers to producers as an additional choice at actuarially appropriate rates and under appropriate terms and conditions. The Corporation may enter into more than 1 reinsurance agreement with the approved insurance provider simultaneously to facilitate the offering of the new policies.
+            (A) __In general__ 
+
+            A policy, plan of insurance, or other material submitted to the Board under this subsection shall be reviewed by the Board and shall be approved by the Board for reinsurance and for sale by approved insurance providers to producers at actuarially appropriate rates and under appropriate terms and conditions if the Board determines that—
+
+                (i) the interests of producers are adequately protected;
+
+                (ii)
+
+                 the proposed policy or plan of insurance will—
+
+                    (I) provide a new kind of coverage that is likely to be viable and marketable;
+
+                    (II) provide crop insurance coverage in a manner that addresses a clear and identifiable flaw or problem in an existing policy; or
+
+                    (III) provide a new kind of coverage for a commodity that previously had no available crop insurance, or has demonstrated a low level of participation or coverage level under existing coverage; and
+
+                (iii) the proposed policy or plan of insurance will not have a significant adverse impact on the crop insurance delivery system.
+
+            (B) __Consideration__ 
+
+            In approving policies or plans of insurance, the Board shall in a timely manner—
+
+                (i) first, consider policies or plans of insurance that address underserved commodities, including commodities for which there is no insurance;
+
+                (ii) second, consider existing policies or plans of insurance for which there is inadequate coverage or there exists low levels of participation; and
+
+                (iii) last, consider all policies or plans of insurance submitted to the Board that do not meet the criteria described in clause (i) or (ii).
+
+            (C) __Specified review and approval priorities__ 
+
+            In reviewing policies and other materials submitted to the Board under this subsection for approval, the Board—
+
+                (i) shall make the development and approval of a revenue policy for peanut producers a priority so that a revenue policy is available to peanut producers in time for the 2015 crop year;
+
+                (ii) shall make the development and approval of a margin coverage policy for rice producers a priority so that a margin coverage policy is available to rice producers in time for the 2015 crop year; and
+
+                (iii) may approve a submission that is made pursuant to this subsection that would, beginning with the 2015 crop year, allow producers that purchase policies in accordance with subsection (e)(5)(A) to separate enterprise units by risk rating for acreage of crops in counties.
 
         (4) __Guidelines for submission and review__ 
 
@@ -856,6 +1028,20 @@
                 (iii) __Failure to meet deadline__ 
 
                     Notwithstanding any other provision of this subchapter, if the Board fails to make a determination within the prescribed time period, the submitted policy or other material shall be deemed approved by the Board for the initial reinsurance year designated for the policy or material, unless the Board and the applicant agree to an extension.
+
+            (E) __Consultation__ 
+
+                (i) __Requirement__ 
+
+                    As part of the feasibility and research associated with the development of a policy or other material for fruits and vegetables, tree nuts, dried fruits, and horticulture and nursery crops (including floriculture), the submitter prior to making a submission under this subsection shall consult with groups representing producers of those agricultural commodities in all major producing areas for the commodities to be served or potentially impacted, either directly or indirectly.
+
+                (ii) __Submission to the Board__ 
+
+                    Any submission made to the Board under this subsection shall contain a summary and analysis of the feasibility and research findings from the impacted groups described in clause (i), including a summary assessment of the support for or against development of the policy and an assessment on the impact of the proposed policy to the general marketing and production of the crop from both a regional and national perspective.
+
+                (iii) __Evaluation by the Board__ 
+
+                    In evaluating whether the interests of producers are adequately protected pursuant to paragraph (3) with respect to a submission made under this subsection, the Board shall review the information provided pursuant to clause (ii) to determine if the submission will create adverse market distortions with respect to the production of commodities that are the subject of the submission.
 
         (5) __Premium schedule__ 
 
@@ -989,11 +1175,11 @@
 
             (F) __Reimbursement rate for area policies and plans of insurance__ 
 
-                Notwithstanding subparagraphs (A) through (E), for each of the 2009 and subsequent reinsurance years, the reimbursement rate for area policies and plans of insurance widely available as of the date of enactment of this subparagraph shall be 12 percent of the premium used to define loss ratio for that reinsurance year.
+                Notwithstanding subparagraphs (A) through (E), for each of the 2009 and subsequent reinsurance years, the reimbursement rate for area policies and plans of insurance widely available as of the date of enactment of this subparagraph or authorized under subsection (c)(4)(C) or [section 1508b of this title][/us/usc/t7/s1508b] shall be 12 percent of the premium used to define loss ratio for that reinsurance year.
 
         (5) __Cost and regulatory reduction__ 
 
-            Consistent with section 118 of the Federal Crop Insurance Reform Act of 1994, and consistent with maintenance of program integrity, prevention of fraud and abuse, the need for program expansion, and improvement of quality of service to customers, the Board shall alter program procedures and administrative requirements in order to reduce the administrative and operating costs of approved insurance providers and agents in an amount that corresponds to any reduction in the reimbursement rate required under paragraph (4) during the 5-year period beginning on October 13, 1994.
+            Consistent with of the Federal Crop Insurance Reform Act of 1994, and consistent with maintenance of program integrity, prevention of fraud and abuse, the need for program expansion, and improvement of quality of service to customers, the Board shall alter program procedures and administrative requirements in order to reduce the administrative and operating costs of approved insurance providers and agents in an amount that corresponds to any reduction in the reimbursement rate required under paragraph (4) during the 5-year period beginning on October 13, 1994.
 
         (6) __Agency discretion__ 
 
@@ -1011,7 +1197,7 @@
 
                 (i) to be effective for the 2011 reinsurance year beginning July 1, 2010; and
 
-                (ii) once during each period of 5 reinsurance years thereafter.
+                (ii) once during each period of 5 reinsuran ce years thereafter.
 
             (B) __Exceptions__ 
 
@@ -1025,7 +1211,7 @@
 
             (C) __Notification requirement__ 
 
-                If the Corporation renegotiates a Standard Reinsurance Agreement under subparagraph (A)(iii), <sup>\[3\]</sup>  <sup><sup> 3 So in original. Subpar. (A) does not contain a cl. (iii). </sup></sup>  the Corporation shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the renegotiation.
+                If the Corporation renegotiates a Standard Reinsurance Agreement under subparagraph (A)(ii), the Corporation shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the renegotiation.
 
             (D) __Consultation__ 
 
@@ -1052,6 +1238,22 @@
                         (cc) are graduated and base reimbursement rates on individual policies on the level of total premium for each policy; and
 
                     (II) any other method that takes into account current financial conditions of the program and ensures continued availability of the program to producers on a nationwide basis.
+
+            (F) __Budget__ 
+
+                (i) __In general__ 
+
+                The Board shall ensure that any Standard Reinsurance Agreement negotiated under subparagraph (A)(ii) shall—
+
+                    (I) to the maximum extent practicable, be estimated as budget neutral with respect to the total amount of payments described in paragraph (9) as compared to the total amount of such payments estimated to be made under the immediately preceding Standard Reinsurance Agreement if that Agreement were extended over the same period of time;
+
+                    (II) comply with the applicable provisions of this subchapter establishing the rates of reimbursement for administrative and operating costs for approved insurance providers and agents, except that, to the maximum extent practicable, the estimated total amount of reimbursement for those costs shall not be less than the total amount of the payments to be made under the immediately preceding Standard Reinsurance Agreement if that Agreement were extended over the same period of time, as estimated on February 7, 2014; and
+
+                    (III) in no event significantly depart from budget neutrality unless otherwise required by this subchapter.
+
+                (ii) __Use of savings__ 
+
+                    To the extent that any budget savings are realized in the renegotiation of a Standard Reinsurance Agreement under subparagraph (A)(ii), and the savings are determined not to be a significant departure from budget neutrality under clause (i), the savings shall be used to increase reimbursements or payments described under paragraphs (4) and (9).
 
         (9) __Due date for payment of underwriting gains__ 
 
@@ -1125,6 +1327,20 @@
 
             The Corporation shall promulgate special provisions under this subsection specific to malting barley, taking into consideration any changes in quality factors, as required by applicable market conditions.
 
+        (6) __Test weight for corn__ 
+
+            (A) __In general__ 
+
+                The Corporation shall establish procedures to allow insured producers not more than 120 days to settle claims, in accordance with procedures established by the Secretary, involving corn that is determined to have low test weight.
+
+            (B) __Implementation__ 
+
+                As soon as practicable after February 7, 2014, the Corporation shall implement subparagraph (A) on a regional basis based on market conditions and the interests of producers.
+
+            (C) __Termination of effectiveness__ 
+
+                The authority provided by this paragraph terminates effective on the date that is 5 years after the date on which subparagraph (A) is implemented.
+
     (n) __Limitation on multiple benefits for same loss__ 
 
         (1) __In general__ 
@@ -1143,27 +1359,41 @@
 
             (A) on which the plant cover is composed principally of native grasses, grasslike plants, forbs, or shrubs suitable for grazing and browsing; and
 
-            (B) that has never been tilled for the production of an annual crop as of the date of enactment of this subsection.
+            (B) that has never been tilled, or the producer cannot substantiate that the ground has ever been tilled, for the production of an annual crop as of the date of enactment of this subsection.
 
-        (2) __Ineligibility for benefits__ 
+        (2) __Reduction in benefits__ 
 
             (A) __In general__ 
 
-            Subject to subparagraph (B) and paragraph (3), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this subsection shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
-
-                (i) this subchapter; and
-
-                (ii) [section 7333 of this title][/us/usc/t7/s7333].
+                During the first 4 crop years of planting, as determined by the Secretary, native sod acreage that has been tilled for the production of an annual crop after February 7, 2014, shall be subject to a reduction in benefits under this subchapter as described in this paragraph.
 
             (B) __De minimis acreage exemption__ 
 
                 The Secretary shall exempt areas of 5 acres or less from subparagraph (A).
 
+            (C) __Administration__ 
+
+                (i) __Reduction__ 
+
+                For purposes of the reduction in benefits for the acreage described in subparagraph (A)—
+
+                    (I) the crop insurance guarantee shall be determined by using a yield equal to 65 percent of the transitional yield of the producer; and
+
+                    (II) the crop insurance premium subsidy provided for the producer under this subchapter, except for coverage authorized pursuant to subsection (b)(1), shall be 50 percentage points less than the premium subsidy that would otherwise apply.
+
+                (ii) __Yield substitution__ 
+
+                    During the period native sod acreage is covered by this subsection, a producer may not substitute yields for the native sod.
+
         (3) __Application__ 
 
-            Paragraph (2) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State.
+            This subsection shall only apply to native sod acreage in the States of Minnesota, Iowa, North Dakota, South Dakota, Montana, and Nebraska.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508, [52 Stat. 74][/us/stat/52/74]; [June 22, 1938, ch. 563][/us/act/1938-06-22/ch563], [52 Stat. 835][/us/stat/52/835]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], §§ 3–7, 10, [55 Stat. 255][/us/stat/55/255], 256; [Dec. 23, 1944, ch. 713][/us/act/1944-12-23/ch713], §§ 1–3, [58 Stat. 918][/us/stat/58/918], 919; [Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], §§ 1–3, [61 Stat. 718][/us/stat/61/718]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], §§ 1–3, [63 Stat. 663][/us/stat/63/663]; [Aug. 13, 1953, ch. 431][/us/act/1953-08-13/ch431], [67 Stat. 575][/us/stat/67/575]; [Pub. L. 85–111][/us/pl/85/111], July 23, 1957, [71 Stat. 309][/us/stat/71/309]; [Pub. L. 86–131][/us/pl/86/131], Aug. 4, 1959, [73 Stat. 278][/us/stat/73/278]; [Pub. L. 88–589][/us/pl/88/589], Sept. 12, 1964, [78 Stat. 933][/us/stat/78/933]; [Pub. L. 96–365, title I][/us/pl/96/365], §§ 105, 106, 107(b), Sept. 26, 1980, [94 Stat. 1314][/us/stat/94/1314], 1315, 1317; [Pub. L. 100–387, title II, § 208(a)][/us/pl/100/387/s208/a], Aug. 11, 1988, [102 Stat. 941][/us/stat/102/941]; [Pub. L. 101–624, title XXII][/us/pl/101/624], §§ 2203–2205, Nov. 28, 1990, [104 Stat. 3955–3957][/us/stat/104/3955-3957]; [Pub. L. 102–237, title VI, § 601(4)][/us/pl/102/237/s601/4], (5), Dec. 13, 1991, [105 Stat. 1878][/us/stat/105/1878]; [Pub. L. 103–66, title XIV, § 1403(b)(1)][/us/pl/103/66/s1403/b/1], (2), Aug. 10, 1993, [107 Stat. 333][/us/stat/107/333], 334; [Pub. L. 103–354, title I, § 106][/us/pl/103/354/s106], Oct. 13, 1994, [108 Stat. 3183][/us/stat/108/3183]; [Pub. L. 104–127, title I][/us/pl/104/127], §§ 193(a)(1), (2), (c), (d), (f), 195, Apr. 4, 1996, [110 Stat. 943–946][/us/stat/110/943-946]; [Pub. L. 105–185, title V][/us/pl/105/185], §§ 532, 534, June 23, 1998, [112 Stat. 581][/us/stat/112/581], 583; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 803(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–38; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, §§ 205(a), 206\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–294; [Pub. L. 106–224, title I][/us/pl/106/224], §§ 101–103(b)(1), (c), (d), 104–107, 123, 124(a), 144–146, 161, 162, June 20, 2000, [114 Stat. 360–368][/us/stat/114/360-368], 378, 391, 392, 395; [Pub. L. 107–171, title X][/us/pl/107/171], §§ 10001–10003, May 13, 2002, [116 Stat. 486][/us/stat/116/486]; [Pub. L. 109–97, title VII, § 780][/us/pl/109/97/s780], Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1372–1381][/us/stat/122/1372-1381], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133–2142, 2167.)
+    (p) __Coverage levels by practice__ 
+
+        Beginning with the 2015 crop year, a producer that produces an agricultural commodity on both dry land and irrigated land may elect a different coverage level for each production practice.
+
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508, [52 Stat. 74][/us/stat/52/74]; [June 22, 1938, ch. 563][/us/act/1938-06-22/ch563], [52 Stat. 835][/us/stat/52/835]; [June 21, 1941, ch. 214][/us/act/1941-06-21/ch214], §§ 3–7, 10, [55 Stat. 255][/us/stat/55/255], 256; [Dec. 23, 1944, ch. 713][/us/act/1944-12-23/ch713], §§ 1–3, [58 Stat. 918][/us/stat/58/918], 919; [Aug. 1, 1947, ch. 440][/us/act/1947-08-01/ch440], §§ 1–3, [61 Stat. 718][/us/stat/61/718]; [Aug. 25, 1949, ch. 512][/us/act/1949-08-25/ch512], §§ 1–3, [63 Stat. 663][/us/stat/63/663]; [Aug. 13, 1953, ch. 431][/us/act/1953-08-13/ch431], [67 Stat. 575][/us/stat/67/575]; [Pub. L. 85–111][/us/pl/85/111], July 23, 1957, [71 Stat. 309][/us/stat/71/309]; [Pub. L. 86–131][/us/pl/86/131], Aug. 4, 1959, [73 Stat. 278][/us/stat/73/278]; [Pub. L. 88–589][/us/pl/88/589], Sept. 12, 1964, [78 Stat. 933][/us/stat/78/933]; [Pub. L. 96–365, title I][/us/pl/96/365], §§ 105, 106, 107(b), Sept. 26, 1980, [94 Stat. 1314][/us/stat/94/1314], 1315, 1317; [Pub. L. 100–387, title II, § 208(a)][/us/pl/100/387/s208/a], Aug. 11, 1988, [102 Stat. 941][/us/stat/102/941]; [Pub. L. 101–624, title XXII][/us/pl/101/624], §§ 2203–2205, Nov. 28, 1990, [104 Stat. 3955–3957][/us/stat/104/3955-3957]; [Pub. L. 102–237, title VI, § 601(4)][/us/pl/102/237/s601/4], (5), Dec. 13, 1991, [105 Stat. 1878][/us/stat/105/1878]; [Pub. L. 103–66, title XIV, § 1403(b)(1)][/us/pl/103/66/s1403/b/1], (2), Aug. 10, 1993, [107 Stat. 333][/us/stat/107/333], 334; [Pub. L. 103–354, title I, § 106][/us/pl/103/354/s106], Oct. 13, 1994, [108 Stat. 3183][/us/stat/108/3183]; [Pub. L. 104–127, title I][/us/pl/104/127], §§ 193(a)(1), (2), (c), (d), (f), 195, Apr. 4, 1996, [110 Stat. 943–946][/us/stat/110/943-946]; [Pub. L. 105–185, title V][/us/pl/105/185], §§ 532, 534, June 23, 1998, [112 Stat. 581][/us/stat/112/581], 583; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VIII, § 803(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–38; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, §§ 205(a), 206\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–294; [Pub. L. 106–224, title I][/us/pl/106/224], §§ 101–103(b)(1), (c), (d), 104–107, 123, 124(a), 144–146, 161, 162, June 20, 2000, [114 Stat. 360–368][/us/stat/114/360-368], 378, 391, 392, 395; [Pub. L. 107–171, title X][/us/pl/107/171], §§ 10001–10003, May 13, 2002, [116 Stat. 486][/us/stat/116/486]; [Pub. L. 109–97, title VII, § 780][/us/pl/109/97/s780], Nov. 10, 2005, [119 Stat. 2162][/us/stat/119/2162]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1372–1381][/us/stat/122/1372-1381], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2133–2142, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11002–11003(c), 11004–11010(a), 11011–11014(a), 11015, 11016(b), 11017(b), 11023(a), 11028(a), title XII, § 12305(b), Feb. 7, 2014, [128 Stat. 954–957][/us/stat/128/954-957], 960, 961, 963, 966, 973, 977, 988.)
 
  __References in Text__ 
 
@@ -1171,13 +1401,15 @@
 
     The date of enactment of the Food, Conservation, and Energy Act of 2008, the date of enactment of this subsection, the date of enactment of this paragraph, and the date of enactment of this subparagraph, referred to in subsecs. (a)(9)(B)(iii)(I), (c)(5)(D)(i)(I), (ii)(I), (d)(1)(B), (C), (k)(4)(E), (F), (8)(B)(ii), and (o)(1)(B), mean the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
-    The Agricultural Market Transition Act, referred to in subsec. (b)(7)(A), is title I of [Pub. L. 104–127][/us/pl/104/127], Apr. 4, 1996, [110 Stat. 896][/us/stat/110/896], which is classified principally to chapter 100 (§ 7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 7201 of this title][/us/usc/t7/s7201] and Tables.
+    For the effective date of this paragraph, referred to in subsecs. (b)(9)(B) and (g)(3)(C), as being Oct. 13, 1994, see Effective Date of 1994 Amendment note below.
 
-    For the effective date of this paragraph, referred to in subsecs. (b)(10)(B) and (g)(3)(C), as being Oct. 13, 1994, see Effective Date of 1994 Amendment note below.
+    The Organic Foods Production Act of 1990, referred to in subsec. (c)(6)(D)(i), is title XXI of [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935], which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title][/us/usc/t7/s6501] and Tables.
 
     [Section 7759 of this title][/us/usc/t7/s7759], referred to in subsec. (g)(5)(A)(i), was amended by [Pub. L. 106–224, title IV, § 438(a)(3)][/us/pl/106/224/s438/a/3], June 20, 2000, [114 Stat. 454][/us/stat/114/454], and, as amended, no longer contains provisions defining the term “plant pest”. See [section 7702 of this title][/us/usc/t7/s7702].
 
     Section 118 of the Federal Crop Insurance Reform Act of 1994, referred to in subsec. (k)(5), is [section 118 of Pub. L. 103–354][/us/pl/103/354/s118], which is set out as a note under [section 1506 of this title][/us/usc/t7/s1506].
+
+    This subchapter, referred to in subsec. (k)(8)(F)(i)(II), (III), was in the original “this Act”, meaning the Federal Crop Insurance Act, which is subtitle A of title V of [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30].
 
     The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 486][/us/stat/39/486], as amended, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title][/us/usc/t7/s241] and Tables.
 
@@ -1188,6 +1420,74 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(9)(C). [Pub. L. 113–79, § 11002][/us/pl/113/79/s11002], added subpar. (C).
+
+    Subsec. (b)(1). [Pub. L. 113–79, § 12305(b)][/us/pl/113/79/s12305/b], added par. (1) and struck out former par. (1). Text read as follows: “The Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought, flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.”
+
+    Subsec. (b)(5)(E). [Pub. L. 113–79, § 11016(b)(1)][/us/pl/113/79/s11016/b/1], inserted “and beginning farmers or ranchers” after “limited resource farmers”.
+
+    Subsec. (b)(7) to (11). [Pub. L. 113–79, § 11028(a)(1)][/us/pl/113/79/s11028/a/1], redesignated pars. (8) to (11) as (7) to (10), respectively, and struck out former par. (7) which related to eligibility for Department programs.
+
+    Subsec. (c)(3). [Pub. L. 113–79, § 11003(a)][/us/pl/113/79/s11003/a], added par. (3) and struck out former par. (3). Text read as follows: “A producer shall have the option of purchasing additional coverage based on an individual yield and loss basis or on an area yield and loss basis, if both options are offered by the Corporation.”
+
+    Subsec. (c)(3)(C). [Pub. L. 113–79, § 11004][/us/pl/113/79/s11004], added subpar. (C).
+
+    Subsec. (c)(4). [Pub. L. 113–79, § 11003(b)][/us/pl/113/79/s11003/b], added par. (4) and struck out former par. (4). Text read as follows: “The level of coverage shall be dollar denominated and may be purchased at any level not to exceed 85 percent of the individual yield or 95 percent of the area yield (as determined by the Corporation). Not later than the beginning of the 1996 crop year, the Corporation shall provide producers with information on catastrophic risk and additional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph).”
+
+    Subsec. (c)(6)(D). [Pub. L. 113–79, § 11023(a)][/us/pl/113/79/s11023/a], added subpar. (D).
+
+    Subsec. (d)(2)(A). [Pub. L. 113–79, § 11005][/us/pl/113/79/s11005], added subpar. (A) and struck out former subpar. (A) which read as follows: “In the case of catastrophic risk protection, the amount of the premium shall be sufficient to cover anticipated losses and a reasonable reserve.”
+
+    Subsec. (e)(2). [Pub. L. 113–79, § 11028(a)(2)][/us/pl/113/79/s11028/a/2], substituted “paragraphs (3), (6), and (7)” for “paragraph (3)” in introductory provisions.
+
+    Subsec. (e)(2)(H). [Pub. L. 113–79, § 11003(c)][/us/pl/113/79/s11003/c], added subpar. (H).
+
+    Subsec. (e)(5)(A). [Pub. L. 113–79, § 11006][/us/pl/113/79/s11006], added subpar. (A) and struck out former subpar. (A). Text read as follows: “The Corporation may carry out a pilot program under which the Corporation pays a portion of the premiums for plans or policies of insurance for which the insurable unit is defined on a whole farm or enterprise unit basis that is higher than would otherwise be paid in accordance with paragraph (2).”
+
+    Subsec. (e)(5)(D). [Pub. L. 113–79, § 11007][/us/pl/113/79/s11007], added subpar. (D).
+
+    Subsec. (e)(8). [Pub. L. 113–79, § 11016(b)(2)][/us/pl/113/79/s11016/b/2], added par. (8).
+
+    Subsec. (g)(2)(A). [Pub. L. 113–79, § 11009(1)][/us/pl/113/79/s11009/1], inserted “and paragraph (4)(C)” after “subparagraph (B)”.
+
+    Subsec. (g)(2)(B)(iii). [Pub. L. 113–79, § 11016(b)(3)(A)][/us/pl/113/79/s11016/b/3/A], added cl. (iii).
+
+    Subsec. (g)(2)(E). [Pub. L. 113–79, § 11008][/us/pl/113/79/s11008], added subpar. (E).
+
+    Subsec. (g)(4)(B)(ii). [Pub. L. 113–79, § 11016(b)(3)(B)][/us/pl/113/79/s11016/b/3/B], designated existing provisions as subcl. (I) and added subcl. (II).
+
+    Subsec. (g)(4)(C), (D). [Pub. L. 113–79, § 11009(2)][/us/pl/113/79/s11009/2], added subpar. (C), redesignated former subpar. (C) as (D), and in subpar. (D) inserted “or (C)” after “subparagraph (B)”.
+
+    Subsec. (h)(1). [Pub. L. 113–79, § 11010(a)(1)][/us/pl/113/79/s11010/a/1], designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+    Subsec. (h)(3). [Pub. L. 113–79, § 11010(a)(2)][/us/pl/113/79/s11010/a/2], added par. (3) and struck out former par. (3). Text read as follows: “A policy or other material submitted to the Board under this subsection shall be reviewed by the Board and, if the Board finds that the interests of producers are adequately protected and that any premiums charged to the producers are actuarially appropriate, shall be approved by the Board for reinsurance and for sale by approved insurance providers to producers as an additional choice at actuarially appropriate rates and under appropriate terms and conditions. The Corporation may enter into more than 1 reinsurance agreement with the approved insurance provider simultaneously to facilitate the offering of the new policies.”
+
+    Subsec. (h)(4)(E). [Pub. L. 113–79, § 11011][/us/pl/113/79/s11011], added subpar. (E).
+
+    Subsec. (k)(4)(F). [Pub. L. 113–79, § 11017(b)][/us/pl/113/79/s11017/b], inserted “or authorized under subsection (c)(4)(C) or [section 1508b of this title][/us/usc/t7/s1508b]” after “of this subparagraph”.
+
+    Subsec. (k)(8)(C). [Pub. L. 113–79, § 11028(a)(3)][/us/pl/113/79/s11028/a/3], substituted “subparagraph (A)(ii)” for “subparagraph (A)(iii)”.
+
+    Subsec. (k)(8)(F). [Pub. L. 113–79, § 11012][/us/pl/113/79/s11012], added subpar. (F).
+
+    Subsec. (m)(6). [Pub. L. 113–79, § 11013][/us/pl/113/79/s11013], added par. (6).
+
+    Subsec. (o)(1)(B). [Pub. L. 113–79, § 11014(a)(1)][/us/pl/113/79/s11014/a/1], inserted “, or the producer cannot substantiate that the ground has ever been tilled,” after “never been tilled”.
+
+    Subsec. (o)(2). [Pub. L. 113–79, § 11014(a)(2)(A)][/us/pl/113/79/s11014/a/2/A], substituted “Reduction in” for “Ineligibility for” in heading.
+
+    Subsec. (o)(2)(A). [Pub. L. 113–79, § 11014(a)(2)(B)][/us/pl/113/79/s11014/a/2/B], added subpar. (A) and struck out former subpar. (A). Text read as follows: “Subject to subparagraph (B) and paragraph (3), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this subsection shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
+
+    “(i) this subchapter; and
+
+    “(ii) [section 7333 of this title][/us/usc/t7/s7333].”
+
+    Subsec. (o)(2)(C). [Pub. L. 113–79, § 11014(a)(2)(C)][/us/pl/113/79/s11014/a/2/C], added subpar. (C).
+
+    Subsec. (o)(3). [Pub. L. 113–79, § 11014(a)(3)][/us/pl/113/79/s11014/a/3], added par. (3) and struck out former par. (3). Text read as follows: “Paragraph (2) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State.”
+
+    Subsec. (p). [Pub. L. 113–79, § 11015][/us/pl/113/79/s11015], added subsec. (p).
 
     2008—Subsec. (a). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
 
@@ -1225,7 +1525,7 @@
 
     Subsec. (d)(4). [Pub. L. 110–246, § 12007(3)][/us/pl/110/246/s12007/3], added par. (4).
 
-    Subsec. (e)(2). [Pub. L. 110–246, § 12012(1)][/us/pl/110/246/s12012/1], which directed amendment of par. (2) by substituting “paragraphs (4), (6), and (7)” for “paragraph (4)” in introductory provisions, was executed by making the substitution for “paragraph (3)” to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 110–246, § 12010(1)][/us/pl/110/246/s12010/1]. See below.
+    Subsec. (e)(2). [Pub. L. 110–246, § 12012(1)][/us/pl/110/246/s12012/1], which directed amendment of par. (2) by substituting “paragraphs (4), (6), and (7)” for “paragraph (4)” in introductory provisions, was not executed. See below.
 
     [Pub. L. 110–246, § 12010(1)][/us/pl/110/246/s12010/1], substituted “paragraph (3)” for “paragraph (4)” in introductory provisions.
 
@@ -1525,6 +1825,12 @@
 
     Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title][/us/usc/t7/s1503].
 
+ __Application Date__ 
+
+[Pub. L. 113–79, title XI, § 11003(d)][/us/pl/113/79/s11003/d], Feb. 7, 2014, [128 Stat. 956][/us/stat/128/956], provided that: 
+
+> “The Federal Crop Insurance Corporation shall begin to provide additional coverage based on an individual yield and loss basis, supplemented with coverage based on an area yield and loss basis, as described in the amendments made by this section \[amending this section\], not later than for the 2015 crop year.”
+
  __Expansion of Crop Insurance Pilots__ 
 
 [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 205(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–294, provided that: 
@@ -1669,8 +1975,11 @@
 [/us/usc/t7/s6991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6991
 [/us/usc/t7/s1515/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1515%2Fh
 [/us/usc/t7/s1516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1516%2Fc
-[/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
-[/us/usc/t7/s2008f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008f
+[/us/usc/t7/s9016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9016
+[/us/usc/t7/s1508b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508b
+[/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
+[/us/usc/t7/s1522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1522%2Fc
+[/us/usc/t7/s1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1523
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t7/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1522
@@ -1678,6 +1987,7 @@
 [/us/usc/t7/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1522
 [/us/usc/t7/s1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1523
 [/us/usc/t7/s1507/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1507%2Fc%2F2
+[/us/usc/t7/s1508b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508b
 [/us/usc/t5/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs701%2Fa%2F2
 [/us/usc/t7/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
@@ -1685,7 +1995,6 @@
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/usc/t7/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs241
 [/us/usc/t7/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1961
-[/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F74
 [/us/act/1938-06-22/ch563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch563
@@ -1736,18 +2045,21 @@
 [/us/stat/122/1372-1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1372-1381
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/954-957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F954-957
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3209
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/stat/110/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F896
-[/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
+[/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
 [/us/usc/t7/s7759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7759
 [/us/pl/106/224/s438/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438%2Fa%2F3
 [/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
 [/us/usc/t7/s7702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7702
 [/us/pl/103/354/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs118
 [/us/usc/t7/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506
+[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F486
 [/us/usc/t7/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs241
@@ -1758,6 +2070,40 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s11002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11002
+[/us/pl/113/79/s12305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12305%2Fb
+[/us/pl/113/79/s11016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fb%2F1
+[/us/pl/113/79/s11028/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fa%2F1
+[/us/pl/113/79/s11003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fa
+[/us/pl/113/79/s11004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11004
+[/us/pl/113/79/s11003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fb
+[/us/pl/113/79/s11023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11023%2Fa
+[/us/pl/113/79/s11005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11005
+[/us/pl/113/79/s11028/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fa%2F2
+[/us/pl/113/79/s11003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fc
+[/us/pl/113/79/s11006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11006
+[/us/pl/113/79/s11007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11007
+[/us/pl/113/79/s11016/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fb%2F2
+[/us/pl/113/79/s11009/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11009%2F1
+[/us/pl/113/79/s11016/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fb%2F3%2FA
+[/us/pl/113/79/s11008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11008
+[/us/pl/113/79/s11016/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11016%2Fb%2F3%2FB
+[/us/pl/113/79/s11009/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11009%2F2
+[/us/pl/113/79/s11010/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11010%2Fa%2F1
+[/us/pl/113/79/s11010/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11010%2Fa%2F2
+[/us/pl/113/79/s11011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11011
+[/us/pl/113/79/s11017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11017%2Fb
+[/us/usc/t7/s1508b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508b
+[/us/pl/113/79/s11028/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11028%2Fa%2F3
+[/us/pl/113/79/s11012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11012
+[/us/pl/113/79/s11013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11013
+[/us/pl/113/79/s11014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F1
+[/us/pl/113/79/s11014/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F2%2FA
+[/us/pl/113/79/s11014/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F2%2FB
+[/us/usc/t7/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7333
+[/us/pl/113/79/s11014/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F2%2FC
+[/us/pl/113/79/s11014/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11014%2Fa%2F3
+[/us/pl/113/79/s11015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11015
 [/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s12006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12006%2Fa%2F1
@@ -1775,7 +2121,6 @@
 [/us/pl/110/246/s12003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12003%2Fb
 [/us/pl/110/246/s12007/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12007%2F3
 [/us/pl/110/246/s12012/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12012%2F1
-[/us/pl/110/246/s12010/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12010%2F1
 [/us/pl/110/246/s12010/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12010%2F1
 [/us/pl/110/246/s12010/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12010%2F2
 [/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
@@ -1917,6 +2262,8 @@
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
 [/us/usc/t7/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1503
+[/us/pl/113/79/s11003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11003%2Fd
+[/us/stat/128/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F956
 [/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501

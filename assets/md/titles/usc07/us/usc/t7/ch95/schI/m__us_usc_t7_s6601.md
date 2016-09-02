@@ -53,15 +53,17 @@
 
         (2) __Authorization of appropriations__ 
 
-            There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2012.
+            There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2018.
 
-([Pub. L. 101–624, title XXIII, § 2371][/us/pl/101/624/s2371], Nov. 28, 1990, [104 Stat. 4045][/us/stat/104/4045]; [Pub. L. 108–148, title II, § 202][/us/pl/108/148/s202], Dec. 3, 2003, [117 Stat. 1902][/us/stat/117/1902]; [Pub. L. 110–234, title VII, § 7511(c)(25)][/us/pl/110/234/s7511/c/25], title VIII, § 8201, May 22, 2008, [122 Stat. 1269][/us/stat/122/1269], 1290; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(25), title VIII, § 8201, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031, 2051.)
+([Pub. L. 101–624, title XXIII, § 2371][/us/pl/101/624/s2371], Nov. 28, 1990, [104 Stat. 4045][/us/stat/104/4045]; [Pub. L. 108–148, title II, § 202][/us/pl/108/148/s202], Dec. 3, 2003, [117 Stat. 1902][/us/stat/117/1902]; [Pub. L. 110–234, title VII, § 7511(c)(25)][/us/pl/110/234/s7511/c/25], title VIII, § 8201, May 22, 2008, [122 Stat. 1269][/us/stat/122/1269], 1290; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(25), title VIII, § 8201, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2031, 2051; [Pub. L. 113–79, title VIII, § 8201][/us/pl/113/79/s8201], Feb. 7, 2014, [128 Stat. 914][/us/stat/128/914].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(2). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—Subsec. (a). [Pub. L. 110–246, § 7511(c)(25)(A)][/us/pl/110/246/s7511/c/25/A], substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
@@ -98,10 +100,13 @@
 [/us/stat/122/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1269
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s8201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8201
+[/us/stat/128/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F914
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7511/c/25/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F25%2FA
 [/us/pl/110/246/s7511/c/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F25%2FB
 [/us/pl/110/246/s8201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8201

@@ -35,19 +35,15 @@
 
             (B) the appraised value of the farm or ranch to be acquired; or
 
-            (C) $500,000.
+            (C) $667,000.
 
-        (2)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two pars. (2) have been enacted.__  __ </sup></sup> __  __Interest rate__ 
+        (2) __Interest rate__ 
 
         The interest rate on any loan made by the Secretary under this section shall be a rate equal to the greater of—
 
             (A) the difference obtained by subtracting 4 percent from the interest rate for farm ownership loans under this subchapter; or
 
             (B) 1.5 percent.
-
-        (2)  __1__  __Interest rate__ 
-
-            The interest rate on any loan made by the Secretary under this section shall be 4 percent.
 
         (3) __Duration__ 
 
@@ -107,13 +103,17 @@
 
         In this section, the term “socially disadvantaged farmer or rancher” has the meaning given that term in [section 2003(e)(2) of this title][/us/usc/t7/s2003/e/2].
 
-([Pub. L. 87–128, title III, § 310E][/us/pl/87/128/s310E], as added [Pub. L. 102–554, § 7(a)][/us/pl/102/554/s7/a], Oct. 28, 1992, [106 Stat. 4144][/us/stat/106/4144]; amended [Pub. L. 107–171, title V, § 5005][/us/pl/107/171/s5005], May 13, 2002, [116 Stat. 342][/us/stat/116/342]; [Pub. L. 110–234, title V, § 5004][/us/pl/110/234/s5004], May 22, 2008, [122 Stat. 1144][/us/stat/122/1144]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5004, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1905.)
+([Pub. L. 87–128, title III, § 310E][/us/pl/87/128/s310E], as added [Pub. L. 102–554, § 7(a)][/us/pl/102/554/s7/a], Oct. 28, 1992, [106 Stat. 4144][/us/stat/106/4144]; amended [Pub. L. 107–171, title V, § 5005][/us/pl/107/171/s5005], May 13, 2002, [116 Stat. 342][/us/stat/116/342]; [Pub. L. 110–234, title V, § 5004][/us/pl/110/234/s5004], May 22, 2008, [122 Stat. 1144][/us/stat/122/1144]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title V, § 5004, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1905; [Pub. L. 113–79, title V, § 5005][/us/pl/113/79/s5005], Feb. 7, 2014, [128 Stat. 834][/us/stat/128/834].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(C). [Pub. L. 113–79, § 5005(a)][/us/pl/113/79/s5005/a], substituted “$667,000” for “$500,000”.
+
+    Subsec. (b)(2). [Pub. L. 113–79, § 5005(b)][/us/pl/113/79/s5005/b], struck out second par. (2) which read as follows: “The interest rate on any loan made by the Secretary under this section shall be 4 percent.”
 
     2008—Subsec. (a)(1). [Pub. L. 110–246, § 5004(1)][/us/pl/110/246/s5004/1], substituted “or ranchers and socially disadvantaged farmers or ranchers” for “and ranchers”.
 
@@ -163,10 +163,14 @@
 [/us/stat/122/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1144
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5005
+[/us/stat/128/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F834
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s5005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5005%2Fa
+[/us/pl/113/79/s5005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5005%2Fb
 [/us/pl/110/246/s5004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F1
 [/us/pl/110/246/s5004/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F2%2FA
 [/us/pl/110/246/s5004/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs5004%2F2%2FB

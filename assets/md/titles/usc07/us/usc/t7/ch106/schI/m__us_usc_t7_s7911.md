@@ -145,11 +145,7 @@
 
  __Popcorn Acreage__ 
 
-[Pub. L. 108–7, div. A, title VII, § 767][/us/pl/108/7/s767], Feb. 20, 2003, [117 Stat. 48][/us/stat/117/48], provided that:
-
->     “(a) Notwithstanding any other provision of law, for purposes of administering sections 1101 and 1102 of [Public Law 107–171][/us/pl/107/171] \[[7 U.S.C. 7911][/us/usc/t7/s7911], 7912\], acreage planted to, or prevented from being planted to, popcorn shall be considered as acreage planted to, or prevented from being planted to, corn: Provided, That if a farm program payment yield for corn is otherwise established for a farm under such section 1102, the same yield shall be used for the acreage on the farm planted to, or prevented from being planted to, popcorn: Provided further, That with respect to all other farms, the farm program payment yield for such popcorn acreage shall be established by the Secretary on a fair and equitable basis to reflect the farm program payment yields for corn on similar farms in the area.
-
->     “(b) This section shall take effect on October 1, 2003.”
+    [Pub. L. 108–7, div. A, title VII, § 767][/us/pl/108/7/s767], Feb. 20, 2003, 117 Stat. formerly set out as a note under this section, was transferred and is set out as a note under [section 9011 of this title][/us/usc/t7/s9011].
 
 ----------
 
@@ -172,8 +168,6 @@
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 [/us/pl/108/7/s767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs767
-[/us/stat/117/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F48
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/usc/t7/s7911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7911
+[/us/usc/t7/s9011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9011
 
 

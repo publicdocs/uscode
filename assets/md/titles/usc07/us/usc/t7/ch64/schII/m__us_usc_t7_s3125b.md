@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schII/m__us_usc_t7_s3125a.md) | [Next](./../../../../..//us/usc/t7/ch64/schII/m__us_usc_t7_s3125c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3125b)
+[Previous](./../../../../..//us/usc/t7/ch64/schII/m__us_usc_t7_s3125a–1.md) | [Next](./../../../../..//us/usc/t7/ch64/schII/m__us_usc_t7_s3125c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3125b)
 
 ## § 3125b. National Rural Information Center Clearinghouse
 
@@ -33,9 +33,9 @@
 
     (e) __Limitation on authorization of appropriations__ 
 
-        To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 2012.
+        To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 2018.
 
-([Pub. L. 101–624, title XXIII, § 2381][/us/pl/101/624/s2381], Nov. 28, 1990, [104 Stat. 4049][/us/stat/104/4049]; [Pub. L. 104–127, title VIII, § 842][/us/pl/104/127/s842], Apr. 4, 1996, [110 Stat. 1170][/us/stat/110/1170]; [Pub. L. 105–185, title III, § 301(b)(3)][/us/pl/105/185/s301/b/3], June 23, 1998, [112 Stat. 563][/us/stat/112/563]; [Pub. L. 107–171, title VII, § 7101][/us/pl/107/171/s7101], May 13, 2002, [116 Stat. 431][/us/stat/116/431]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7212, 7511(c)(9), May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], 1268; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7212, 7511(c)(9), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003, 2029.)
+([Pub. L. 101–624, title XXIII, § 2381][/us/pl/101/624/s2381], Nov. 28, 1990, [104 Stat. 4049][/us/stat/104/4049]; [Pub. L. 104–127, title VIII, § 842][/us/pl/104/127/s842], Apr. 4, 1996, [110 Stat. 1170][/us/stat/110/1170]; [Pub. L. 105–185, title III, § 301(b)(3)][/us/pl/105/185/s301/b/3], June 23, 1998, [112 Stat. 563][/us/stat/112/563]; [Pub. L. 107–171, title VII, § 7101][/us/pl/107/171/s7101], May 13, 2002, [116 Stat. 431][/us/stat/116/431]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7212, 7511(c)(9), May 22, 2008, [122 Stat. 1242][/us/stat/122/1242], 1268; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7212, 7511(c)(9), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003, 2029; [Pub. L. 113–79, title VII, § 7217][/us/pl/113/79/s7217], Feb. 7, 2014, [128 Stat. 887][/us/stat/128/887].)
 
  __Codification__ 
 
@@ -44,6 +44,8 @@
     Section was enacted as part of the Rural Economic Development Act of 1990, and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—Subsec. (a). [Pub. L. 110–246, § 7511(c)(9)][/us/pl/110/246/s7511/c/9], substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
@@ -63,7 +65,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schII/m__us_usc_t7_s3125a.md) | [Next](./../../../../..//us/usc/t7/ch64/schII/m__us_usc_t7_s3125c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3125b)
+[Previous](./../../../../..//us/usc/t7/ch64/schII/m__us_usc_t7_s3125a–1.md) | [Next](./../../../../..//us/usc/t7/ch64/schII/m__us_usc_t7_s3125c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3125b)
 
 ----------
 ----------
@@ -80,10 +82,13 @@
 [/us/stat/122/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1242
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7217
+[/us/stat/128/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F887
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7511/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F9
 [/us/pl/110/246/s7212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7212
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

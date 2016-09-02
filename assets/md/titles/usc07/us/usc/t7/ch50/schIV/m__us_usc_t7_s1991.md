@@ -47,7 +47,7 @@
 
             (B) who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 10 years;
 
-            (C) in the case of a cooperative, corporation, partnership, or joint operation, who has members, stockholders, partners, or joint operators who are all related to one another by blood or marriage;
+            (C) in the case of a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operators, or owners, who are all related to one another by blood or marriage;
 
             (D)
 
@@ -65,9 +65,9 @@
 
                     (II)
 
-                        (aa) in the case of a loan made to a cooperative, corporation, partnership, or joint operation, has members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
+                        (aa) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, has members, stockholders, partners, joint operators, or owners, materially and substantially participate in the operation of the farm or ranch; and
 
-                        (bb) in the case of a loan made to a corporation, has stockholders, all of whom are qualified beginning farmers or ranchers; and
+                        (bb) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators, all of whom are qualified beginning farmers or ranchers; and
 
                 (ii)
 
@@ -83,13 +83,13 @@
 
                     (II)
 
-                        (aa) in the case of a loan made to a cooperative, corporation, partnership, or joint operation, will have members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
+                        (aa) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, will have members, stockholders, partners, joint operators, or owners, materially and substantially participate in the operation of the farm or ranch; and
 
-                        (bb) in the case of a loan made to a corporation, has stockholders, all of whom are qualified beginning farmers or ranchers;
+                        (bb) in the case of a loan made to a cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators, all of whom are qualified beginning farmers or ranchers;
 
             (E) who agrees to participate in such loan assessment, borrower training, and financial management programs as the Secretary may require;
 
-            (F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the median acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
+            (F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the average acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
 
             (G) who demonstrates that the available resources of the applicant and spouse (if any) of the applicant are not sufficient to enable the applicant to continue farming or ranching on a viable scale.
 
@@ -211,7 +211,7 @@
 
     (b)
 
-     As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
+     As used in sections 1927(e), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
 
         (1) The term “borrower” means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
 
@@ -233,7 +233,7 @@
 
         The term “preservation loan service program” means homestead retention as authorized under [section 2000 of this title][/us/usc/t7/s2000].
 
-([Pub. L. 87–128, title III, § 343][/us/pl/87/128/s343], as added [Pub. L. 87–703, title IV, § 401(5)][/us/pl/87/703/s401/5], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; amended [Pub. L. 89–586][/us/pl/89/586], Sept. 19, 1966, [80 Stat. 809][/us/stat/80/809]; [Pub. L. 92–419, title I, § 128(a)][/us/pl/92/419/s128/a], Aug. 30, 1972, [86 Stat. 666][/us/stat/86/666]; [Pub. L. 95–334, title I, § 124][/us/pl/95/334/s124], Aug. 4, 1978, [92 Stat. 428][/us/stat/92/428]; [Pub. L. 96–438, § 2(2)][/us/pl/96/438/s2/2], Oct. 13, 1980, [94 Stat. 1872][/us/stat/94/1872]; [Pub. L. 99–198, title XIII, § 1301(b)][/us/pl/99/198/s1301/b], Dec. 23, 1985, [99 Stat. 1519][/us/stat/99/1519]; [Pub. L. 100–233, title VI, § 602][/us/pl/100/233/s602], Jan. 6, 1988, [101 Stat. 1665][/us/stat/101/1665]; [Pub. L. 101–624, title XVIII, § 1814][/us/pl/101/624/s1814], title XXIII, § 2388(h), Nov. 28, 1990, [104 Stat. 3824][/us/stat/104/3824], 4053; [Pub. L. 102–237, title VII, § 702(h)(1)][/us/pl/102/237/s702/h/1], Dec. 13, 1991, [105 Stat. 1880][/us/stat/105/1880]; [Pub. L. 102–554, § 19][/us/pl/102/554/s19], Oct. 28, 1992, [106 Stat. 4158][/us/stat/106/4158]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 640, 661(h), title VII, § 749(b)(2), Apr. 4, 1996, [110 Stat. 1098][/us/stat/110/1098], 1107, 1129; [Pub. L. 105–113, § 3(c)][/us/pl/105/113/s3/c], Nov. 21, 1997, [111 Stat. 2275][/us/stat/111/2275]; [Pub. L. 107–171, title V, § 5310][/us/pl/107/171/s5310], title VI, § 6020(a), May 13, 2002, [116 Stat. 346][/us/stat/116/346], 362; [Pub. L. 110–234, title VI, § 6018(a)][/us/pl/110/234/s6018/a], May 22, 2008, [122 Stat. 1170][/us/stat/122/1170]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6018(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1931.)
+([Pub. L. 87–128, title III, § 343][/us/pl/87/128/s343], as added [Pub. L. 87–703, title IV, § 401(5)][/us/pl/87/703/s401/5], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632]; amended [Pub. L. 89–586][/us/pl/89/586], Sept. 19, 1966, [80 Stat. 809][/us/stat/80/809]; [Pub. L. 92–419, title I, § 128(a)][/us/pl/92/419/s128/a], Aug. 30, 1972, [86 Stat. 666][/us/stat/86/666]; [Pub. L. 95–334, title I, § 124][/us/pl/95/334/s124], Aug. 4, 1978, [92 Stat. 428][/us/stat/92/428]; [Pub. L. 96–438, § 2(2)][/us/pl/96/438/s2/2], Oct. 13, 1980, [94 Stat. 1872][/us/stat/94/1872]; [Pub. L. 99–198, title XIII, § 1301(b)][/us/pl/99/198/s1301/b], Dec. 23, 1985, [99 Stat. 1519][/us/stat/99/1519]; [Pub. L. 100–233, title VI, § 602][/us/pl/100/233/s602], Jan. 6, 1988, [101 Stat. 1665][/us/stat/101/1665]; [Pub. L. 101–624, title XVIII, § 1814][/us/pl/101/624/s1814], title XXIII, § 2388(h), Nov. 28, 1990, [104 Stat. 3824][/us/stat/104/3824], 4053; [Pub. L. 102–237, title VII, § 702(h)(1)][/us/pl/102/237/s702/h/1], Dec. 13, 1991, [105 Stat. 1880][/us/stat/105/1880]; [Pub. L. 102–554, § 19][/us/pl/102/554/s19], Oct. 28, 1992, [106 Stat. 4158][/us/stat/106/4158]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 640, 661(h), title VII, § 749(b)(2), Apr. 4, 1996, [110 Stat. 1098][/us/stat/110/1098], 1107, 1129; [Pub. L. 105–113, § 3(c)][/us/pl/105/113/s3/c], Nov. 21, 1997, [111 Stat. 2275][/us/stat/111/2275]; [Pub. L. 107–171, title V, § 5310][/us/pl/107/171/s5310], title VI, § 6020(a), May 13, 2002, [116 Stat. 346][/us/stat/116/346], 362; [Pub. L. 110–234, title VI, § 6018(a)][/us/pl/110/234/s6018/a], May 22, 2008, [122 Stat. 1170][/us/stat/122/1170]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6018(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1931; [Pub. L. 113–79, title V, § 5303][/us/pl/113/79/s5303], Feb. 7, 2014, [128 Stat. 839][/us/stat/128/839].)
 
  __References in Text__ 
 
@@ -245,13 +245,29 @@
 
     Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is [section 1254 of Pub. L. 99–198][/us/pl/99/198/s1254], title XII, Dec. 23, 1985, [99 Stat. 1517][/us/stat/99/1517], which amended [Pub. L. 98–258, § 608][/us/pl/98/258/s608], set out as a note under [section 1981 of this title][/us/usc/t7/s1981].
 
+    [Section 1927(e) of this title][/us/usc/t7/s1927/e], referred to in subsec. (b), was redesignated [section 1927(d) of this title][/us/usc/t7/s1927/d] by [Pub. L. 113–79, title V, § 5004(2)][/us/pl/113/79/s5004/2], Feb. 7, 2014, [128 Stat. 834][/us/stat/128/834].
+
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
 
-    Subsec. (a)(13). [Pub. L. 110–246, § 6018(a)][/us/pl/110/246/s6018/a], amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
+    2014—Subsec. (a)(11)(C). [Pub. L. 113–79, § 5303(a)(2)][/us/pl/113/79/s5303/a/2], which directed substitution of “joint operators, or owners,” for “or joint operators,” was executed by making the substitution for “or joint operators”, to reflect the probable intent of Congress.
+
+    [Pub. L. 113–79, § 5303(a)(1)][/us/pl/113/79/s5303/a/1], substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”.
+
+    Subsec. (a)(11)(D)(i)(II)(aa). [Pub. L. 113–79, § 5303(a)(1)][/us/pl/113/79/s5303/a/1], (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,” and “joint operators, or owners,” for “or joint operators,”.
+
+    Subsec. (a)(11)(D)(i)(II)(bb). [Pub. L. 113–79, § 5303(a)(3)][/us/pl/113/79/s5303/a/3], substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
+
+    Subsec. (a)(11)(D)(ii)(II)(aa). [Pub. L. 113–79, § 5303(a)(1)][/us/pl/113/79/s5303/a/1], (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”and “joint operators, or owners,” for “or joint operators,”.
+
+    Subsec. (a)(11)(D)(ii)(II)(bb). [Pub. L. 113–79, § 5303(a)(3)][/us/pl/113/79/s5303/a/3], substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
+
+    Subsec. (a)(11)(F). [Pub. L. 113–79, § 5303(b)][/us/pl/113/79/s5303/b], substituted “average acreage” for “median acreage”.
+
+    2008—Subsec. (a)(13). [Pub. L. 110–246, § 6018(a)][/us/pl/110/246/s6018/a], amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
 
     2002—Subsec. (a)(11)(F). [Pub. L. 107–171, § 5310(a)][/us/pl/107/171/s5310/a], substituted “30 percent” for “25 percent”.
 
@@ -386,6 +402,8 @@
 [/us/stat/122/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1170
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303
+[/us/stat/128/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F839
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/95/334/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs202
 [/us/stat/92/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F429
@@ -400,10 +418,21 @@
 [/us/stat/99/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1517
 [/us/pl/98/258/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258%2Fs608
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
+[/us/usc/t7/s1927/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1927%2Fe
+[/us/usc/t7/s1927/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1927%2Fd
+[/us/pl/113/79/s5004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5004%2F2
+[/us/stat/128/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F834
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s5303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F2
+[/us/pl/113/79/s5303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F1
+[/us/pl/113/79/s5303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F1
+[/us/pl/113/79/s5303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F3
+[/us/pl/113/79/s5303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F1
+[/us/pl/113/79/s5303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fa%2F3
+[/us/pl/113/79/s5303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5303%2Fb
 [/us/pl/110/246/s6018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6018%2Fa
 [/us/pl/107/171/s5310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5310%2Fa
 [/us/pl/107/171/s5310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5310%2Fb

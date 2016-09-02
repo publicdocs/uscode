@@ -43,7 +43,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8103" data-uslm-ref="/us/usc/t7/s8103">8103.</a>  </td>
 
-    <td> Biorefinery assistance.  </td>
+    <td> Biorefinery, renewable chemical, and biobased product manufacturing assistance.  </td>
 
   </tr>
 
@@ -76,6 +76,14 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8107" data-uslm-ref="/us/usc/t7/s8107">8107.</a>  </td>
 
     <td> Rural Energy for America Program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8107a" data-uslm-ref="/us/usc/t7/s8107a">8107a.</a>  </td>
+
+    <td> Rural energy savings program.  </td>
 
   </tr>
 
@@ -115,7 +123,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8112" data-uslm-ref="/us/usc/t7/s8112">8112.</a>  </td>
 
-    <td> Forest biomass for energy.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

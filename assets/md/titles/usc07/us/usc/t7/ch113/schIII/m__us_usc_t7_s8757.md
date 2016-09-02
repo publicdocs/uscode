@@ -65,7 +65,7 @@
 
     (b) __Loan rate__ 
 
-        Except as provided in [section 8715 of this title][/us/usc/t7/s8715], the loan rate for a marketing assistance loan for peanuts under subsection (a) shall be equal to $355 per ton.
+        Except as provided in section 8715  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the loan rate for a marketing assistance loan for peanuts under subsection (a) shall be equal to $355 per ton.
 
     (c) __Term of loan__ 
 
@@ -145,6 +145,8 @@
 
  __References in Text__ 
 
+    [Section 8715 of this title][/us/usc/t7/s8715], referred to in subsec. (b), was repealed by [Pub. L. 113–79, title I, § 1103(a)][/us/pl/113/79/s1103/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+
     The Food Security Act of 1985, referred to in subsec. (f), is [Pub. L. 99–198][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1354][/us/stat/99/1354]. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title][/us/usc/t7/s1281] and Tables.
 
  __Codification__ 
@@ -158,7 +160,6 @@
 ----------
 ----------
 
-[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
 [/us/usc/t7/s7283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7283
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
@@ -166,6 +167,9 @@
 [/us/stat/122/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F974
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
+[/us/pl/113/79/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1103%2Fa
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281

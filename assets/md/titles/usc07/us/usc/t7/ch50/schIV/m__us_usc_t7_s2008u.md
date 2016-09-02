@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008t.md) | [Next](./../../../../..//us/usc/t7/ch50/schV/m__us_usc_t7_ch50_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008u)
+[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008t.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008v.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008u)
 
 ## § 2008u. Health care services
 
@@ -45,13 +45,17 @@
 
     (e) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to the Secretary to carry out this section, $3,000,000 for each of fiscal years 2008 through 2012.
+        There is authorized to be appropriated to the Secretary to carry out this section, $3,000,000 for each of fiscal years 2008 through 2018.
 
-([Pub. L. 87–128, title III, § 379G][/us/pl/87/128/s379G], as added [Pub. L. 110–234, title VI, § 6024][/us/pl/110/234/s6024], May 22, 2008, [122 Stat. 1176][/us/stat/122/1176], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6024, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1938.)
+([Pub. L. 87–128, title III, § 379G][/us/pl/87/128/s379G], as added [Pub. L. 110–234, title VI, § 6024][/us/pl/110/234/s6024], May 22, 2008, [122 Stat. 1176][/us/stat/122/1176], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6024, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1938; amended [Pub. L. 113–79, title VI, § 6024][/us/pl/113/79/s6024], Feb. 7, 2014, [128 Stat. 848][/us/stat/128/848].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
+
+ __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
  __Effective Date__ 
 
@@ -59,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008t.md) | [Next](./../../../../..//us/usc/t7/ch50/schV/m__us_usc_t7_ch50_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008u)
+[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008t.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008v.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008u)
 
 ----------
 ----------
@@ -69,10 +73,13 @@
 [/us/stat/122/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1176
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6024
+[/us/stat/128/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F848
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

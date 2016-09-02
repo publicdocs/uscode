@@ -19,7 +19,7 @@
 
         (1) __Grant authority__ 
 
-            The Secretary of Agriculture may make competitive grants (or grants without regard to any requirement for competition) to Alaska Native serving institutions for the purpose of promoting and strengthening the ability of Alaska Native serving institutions to carry out education, applied research, and related community development programs.
+            The Secretary of Agriculture may make competitive grants to Alaska Native serving institutions for the purpose of promoting and strengthening the ability of Alaska Native serving institutions to carry out education, applied research, and related community development programs.
 
         (2) __Use of grant funds__ 
 
@@ -35,13 +35,13 @@
 
         (3) __Authorization of appropriations__ 
 
-            There are authorized to be appropriated to make grants under this subsection $10,000,000 in fiscal years 2001 through 2012.
+            There are authorized to be appropriated to make grants under this subsection $10,000,000 in fiscal years 2001 through 2018.
 
     (b) __Education grants program for Native Hawaiian serving institutions__ 
 
         (1) __Grant authority__ 
 
-            The Secretary of Agriculture may make competitive grants (or grants without regard to any requirement for competition) to Native Hawaiian serving institutions for the purpose of promoting and strengthening the ability of Native Hawaiian serving institutions to carry out education, applied research, and related community development programs.
+            The Secretary of Agriculture may make competitive grants to Native Hawaiian serving institutions for the purpose of promoting and strengthening the ability of Native Hawaiian serving institutions to carry out education, applied research, and related community development programs.
 
         (2) __Use of grant funds__ 
 
@@ -57,9 +57,9 @@
 
         (3) __Authorization of appropriations__ 
 
-            There are authorized to be appropriated to make grants under this subsection $10,000,000 for each of fiscal years 2001 through 2012.
+            There are authorized to be appropriated to make grants under this subsection $10,000,000 for each of fiscal years 2001 through 2018.
 
-([Pub. L. 95–113, title XIV, § 1419B][/us/pl/95/113/s1419B], formerly [Pub. L. 106–78, title VII, § 759][/us/pl/106/78/s759], Oct. 22, 1999, [113 Stat. 1172][/us/stat/113/1172]; renumbered [Pub. L. 95–113, § 1419B][/us/pl/95/113/s1419B], and amended [Pub. L. 110–234, title VII, § 7112][/us/pl/110/234/s7112], May 22, 2008, [122 Stat. 1219][/us/stat/122/1219], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7112, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1980.)
+([Pub. L. 95–113, title XIV, § 1419B][/us/pl/95/113/s1419B], formerly [Pub. L. 106–78, title VII, § 759][/us/pl/106/78/s759], Oct. 22, 1999, [113 Stat. 1172][/us/stat/113/1172]; renumbered [Pub. L. 95–113, § 1419B][/us/pl/95/113/s1419B], and amended [Pub. L. 110–234, title VII, § 7112][/us/pl/110/234/s7112], May 22, 2008, [122 Stat. 1219][/us/stat/122/1219], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7112, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1980; [Pub. L. 113–79, title VII, § 7107][/us/pl/113/79/s7107], Feb. 7, 2014, [128 Stat. 870][/us/stat/128/870].)
 
  __Codification__ 
 
@@ -68,6 +68,14 @@
     Section was formerly classified to [section 3242 of this title][/us/usc/t7/s3242].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–79, § 7107(1)(A)][/us/pl/113/79/s7107/1/A], struck out “(or grants without regard to any requirement for competition)” after “competitive grants”.
+
+    Subsec. (a)(3). [Pub. L. 113–79, § 7107(1)(B)][/us/pl/113/79/s7107/1/B], substituted “2018” for “2012”.
+
+    Subsec. (b)(1). [Pub. L. 113–79, § 7107(2)(A)][/us/pl/113/79/s7107/2/A], struck out “(or grants without regard to any requirement for competition)” after “competitive grants”.
+
+    Subsec. (b)(3). [Pub. L. 113–79, § 7107(2)(B)][/us/pl/113/79/s7107/2/B], substituted “2018” for “2012”.
 
     2008—Subsec. (a)(3). [Pub. L. 110–246, § 7112(1)(A)][/us/pl/110/246/s7112/1/A], substituted “2012” for “2006”.
 
@@ -94,12 +102,18 @@
 [/us/stat/122/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1219
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7107
+[/us/stat/128/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F870
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/95/113/s1419B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1419B
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3242
+[/us/pl/113/79/s7107/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7107%2F1%2FA
+[/us/pl/113/79/s7107/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7107%2F1%2FB
+[/us/pl/113/79/s7107/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7107%2F2%2FA
+[/us/pl/113/79/s7107/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7107%2F2%2FB
 [/us/pl/110/246/s7112/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7112%2F1%2FA
 [/us/pl/110/246/s7112/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7112%2F1%2FB%2Fi
 [/us/pl/110/246/s7112/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7112%2F1%2FB%2Fii

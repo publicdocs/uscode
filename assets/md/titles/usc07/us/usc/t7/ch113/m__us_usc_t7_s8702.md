@@ -19,7 +19,7 @@
 
     (1) __Average crop revenue election payment__ 
 
-        The term “average crop revenue election payment” means a payment made to producers on a farm under [section 8715 of this title][/us/usc/t7/s8715].
+        The term “average crop revenue election payment” means a payment made to producers on a farm under section 8715  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
     (2) __Base acres__ 
 
@@ -33,7 +33,7 @@
 
     (3) __Counter-cyclical payment__ 
 
-        The term “counter-cyclical payment” means a payment made to producers on a farm under [section 8714 of this title][/us/usc/t7/s8714].
+        The term “counter-cyclical payment” means a payment made to producers on a farm under section 8714 1 of this title.
 
     (4) __Covered commodity__ 
 
@@ -41,11 +41,11 @@
 
     (5) __Direct payment__ 
 
-        The term “direct payment” means a payment made to producers on a farm under [section 8713 of this title][/us/usc/t7/s8713].
+        The term “direct payment” means a payment made to producers on a farm under section 8713 1 of this title.
 
     (6) __Effective price__ 
 
-        The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under [section 8714 of this title][/us/usc/t7/s8714] to determine whether counter-cyclical payments are required to be made for that crop year.
+        The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 8714 1 of this title to determine whether counter-cyclical payments are required to be made for that crop year.
 
     (7) __Extra long staple cotton__ 
 
@@ -127,6 +127,12 @@
 
     This chapter, referred to in text, was in the original “this title”, meaning title I of [Pub. L. 110–246][/us/pl/110/246], June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
+    [Section 8715 of this title][/us/usc/t7/s8715], referred to in par. (1), was repealed by [Pub. L. 113–79, title I, § 1103(a)][/us/pl/113/79/s1103/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+
+    [Section 8714 of this title][/us/usc/t7/s8714], referred to in pars. (3) and (6), was repealed by [Pub. L. 113–79, title I, § 1102(a)][/us/pl/113/79/s1102/a], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+
+    [Section 8713 of this title][/us/usc/t7/s8713], referred to in par. (5), was repealed by [Pub. L. 113–79, title I, § 1101][/us/pl/113/79/s1101], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658].
+
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
@@ -138,13 +144,9 @@
 ----------
 ----------
 
-[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
 [/us/usc/t7/s7911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7911
 [/us/usc/t7/s8711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8711
 [/us/usc/t7/s8751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8751
-[/us/usc/t7/s8714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8714
-[/us/usc/t7/s8713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8713
-[/us/usc/t7/s8714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8714
 [/us/usc/t7/s7912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7912
 [/us/usc/t7/s8712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8712
 [/us/pl/110/234/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1001
@@ -153,6 +155,15 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/usc/t7/s8715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8715
+[/us/pl/113/79/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1103%2Fa
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
+[/us/usc/t7/s8714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8714
+[/us/pl/113/79/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1102%2Fa
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
+[/us/usc/t7/s8713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8713
+[/us/pl/113/79/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1101
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

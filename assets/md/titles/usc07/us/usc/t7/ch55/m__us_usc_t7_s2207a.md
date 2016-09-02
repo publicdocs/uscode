@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2207.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2208.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2207a)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2207.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2207b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2207a)
 
 ## § 2207a. Reports to Congress on obligation and expenditure
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2207.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2208.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2207a)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2207.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2207b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2207a)
 
 ----------
 ----------

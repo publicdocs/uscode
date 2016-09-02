@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6933.md) | [Next](./../../../../..//us/usc/t7/ch98/schIII/m__us_usc_t7_ch98_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6934)
+[Previous](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6933.md) | [Next](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6935.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6934)
 
 ## § 6934. Office of Advocacy and Outreach
 
@@ -151,9 +151,13 @@
 
         (3) __Authorization of appropriations__ 
 
-            There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2009 through 2012.
+        There are authorized to be appropriated to carry out this subsection—
 
-([Pub. L. 103–354, title II, § 226B][/us/pl/103/354/s226B], as added [Pub. L. 110–234, title XIV, § 14013(a)][/us/pl/110/234/s14013/a], May 22, 2008, [122 Stat. 1450][/us/stat/122/1450], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14013(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2212.)
+            (A) such sums as are necessary for each of fiscal years 2009 through 2013; and
+
+            (B) $2,000,000 for each of fiscal years 2014 through 2018.
+
+([Pub. L. 103–354, title II, § 226B][/us/pl/103/354/s226B], as added [Pub. L. 110–234, title XIV, § 14013(a)][/us/pl/110/234/s14013/a], May 22, 2008, [122 Stat. 1450][/us/stat/122/1450], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14013(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2212; [Pub. L. 113–79, title XII, § 12202][/us/pl/113/79/s12202], Feb. 7, 2014, [128 Stat. 984][/us/stat/128/984].)
 
  __References in Text__ 
 
@@ -167,13 +171,17 @@
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
+ __Amendments__ 
+
+    2014—Subsec. (f)(3). [Pub. L. 113–79][/us/pl/113/79] amended par. (3) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2009 through 2012.”
+
  __Effective Date__ 
 
     Enactment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as a note under [section 8701 of this title][/us/usc/t7/s8701].
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6933.md) | [Next](./../../../../..//us/usc/t7/ch98/schIII/m__us_usc_t7_ch98_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6934)
+[Previous](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6933.md) | [Next](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_s6935.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6934)
 
 ----------
 ----------
@@ -191,6 +199,8 @@
 [/us/stat/122/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1450
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s12202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12202
+[/us/stat/128/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F984
 [/us/pl/110/246/s14008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14008
 [/us/usc/t7/s2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279
 [/us/usc/t7/s7000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7000
@@ -201,6 +211,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

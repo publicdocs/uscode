@@ -31,17 +31,33 @@
 
         (4) $9,500,000 for fiscal year 2011;
 
-        (5) $11,000,000 for fiscal year 2012; and
+        (5) $11,000,000 for fiscal year 2012;
 
-        (6) in addition to those amounts, such additional sums as are necessary for fiscal year 2009 and each fiscal year thereafter.
+        (6) $15,000,000 for each of fiscal years 2014 through 2018; and
 
-([Pub. L. 101–624, title XXI, § 2123][/us/pl/101/624/s2123], Nov. 28, 1990, [104 Stat. 3951][/us/stat/104/3951]; [Pub. L. 110–234, title X, § 10303][/us/pl/110/234/s10303], May 22, 2008, [122 Stat. 1347][/us/stat/122/1347]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10303, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2109.)
+        (7) in addition to those amounts, such additional sums as are necessary for fiscal year 2009 and each fiscal year thereafter.
+
+    (c) __Modernization and technology upgrade for national organic program__ 
+
+        (1) __In general__ 
+
+            The Secretary shall modernize database and technology systems of the national organic program.
+
+        (2) __Funding__ 
+
+            Of the funds of the Commodity Credit Corporation and in addition to any other funds made available for that purpose, the Secretary shall make available to carry out this subsection $5,000,000 for fiscal year 2014, to remain available until expended.
+
+([Pub. L. 101–624, title XXI, § 2123][/us/pl/101/624/s2123], Nov. 28, 1990, [104 Stat. 3951][/us/stat/104/3951]; [Pub. L. 110–234, title X, § 10303][/us/pl/110/234/s10303], May 22, 2008, [122 Stat. 1347][/us/stat/122/1347]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10303, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2109; [Pub. L. 113–79, title X, § 10004(b)][/us/pl/113/79/s10004/b], Feb. 7, 2014, [128 Stat. 942][/us/stat/128/942].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(5) to (7). [Pub. L. 113–79, § 10004(b)(1)][/us/pl/113/79/s10004/b/1], struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
+
+    Subsec. (c). [Pub. L. 113–79, § 10004(b)(2)][/us/pl/113/79/s10004/b/2], added subsec. (c).
 
     2008—[Pub. L. 110–246, § 10303][/us/pl/110/246/s10303], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -62,10 +78,14 @@
 [/us/stat/122/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1347
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s10004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fb
+[/us/stat/128/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F942
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s10004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fb%2F1
+[/us/pl/113/79/s10004/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fb%2F2
 [/us/pl/110/246/s10303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10303
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

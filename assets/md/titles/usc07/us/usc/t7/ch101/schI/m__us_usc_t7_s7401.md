@@ -97,17 +97,73 @@
 
         The Secretary shall annually provide to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate information on administrative expenses on programs established under commodity promotion laws.
 
-    (e) __Exemption of certified organic products from assessments__ 
+    (e) __Exemption of certified organic products from promotion order assessments__ 
 
         (1) __In general__ 
 
-            Notwithstanding any provision of a commodity promotion law, a person that produces and markets solely 100 percent organic products, and that does not produce any conventional or nonorganic products, shall be exempt from the payment of an assessment under a commodity promotion law with respect to any agricultural commodity that is produced on a certified organic farm (as defined in [section 6502 of this title][/us/usc/t7/s6502]).
+            Notwithstanding any provision of a commodity promotion law, a person that produces, handles, markets, or imports organic products may be exempt from the payment of an assessment under a commodity promotion law with respect to any agricultural commodity that is certified as “organic” or “100 percent organic” (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation)).
 
-        (2) __Regulations__ 
+        (2) __Split operations__ 
 
-            Not later than 1 year after May 13, 2002, the Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
+            The exemption described in paragraph (1) shall apply to the certified “organic” or “100 percent organic” (as defined in part 205 of title 7 of the Code of Federal Regulations (or a successor regulation)) products of a producer, handler, or marketer regardless of whether the agricultural commodity subject to the exemption is produced, handled, or marketed by a person that also produces, handles, or markets conventional or nonorganic agricultural products, including conventional or nonorganic agricultural products of the same agricultural commodity as that for which the exemption is claimed.
 
-([Pub. L. 104–127, title V, § 501][/us/pl/104/127/s501], Apr. 4, 1996, [110 Stat. 1029][/us/stat/110/1029]; [Pub. L. 107–171, title X, § 10607][/us/pl/107/171/s10607], May 13, 2002, [116 Stat. 514][/us/stat/116/514].)
+        (3) __Approval__ 
+
+            The Secretary shall approve the exemption of a person under this subsection if the person maintains a valid organic certificate issued under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq.).
+
+        (4) __Termination of effectiveness__ 
+
+            This subsection shall be effective until the date on which the Secretary issues an organic commodity promotion order in accordance with subsection (f).
+
+        (5) __Regulations__ 
+
+            The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
+
+    (f) __Organic commodity promotion order__ 
+
+        (1) __Definitions__ 
+
+        In this subsection:
+
+            (A) __Certified organic farm__ 
+
+                The term “certified organic farm” has the meaning given the term in section 2103 of the Organic Foods Production Act of 1990 ([7 U.S.C. 6502][/us/usc/t7/s6502]).
+
+            (B) __Covered person__ 
+
+                The term “covered person” means a producer, handler, marketer, or importer of an organic agricultural commodity.
+
+            (C) __Dual-covered agricultural commodity__ 
+
+            The term “dual-covered agricultural commodity” means an agricultural commodity that—
+
+                (i) is produced on a certified organic farm; and
+
+                (ii)
+
+                 is covered under both—
+
+                    (I) an organic commodity promotion order issued pursuant to paragraph (2); and
+
+                    (II) any other agricultural commodity promotion order issued under [section 7413 of this title][/us/usc/t7/s7413].
+
+        (2) __Authorization__ 
+
+        The Secretary may issue an organic commodity promotion order under [section 7413 of this title][/us/usc/t7/s7413] that includes any agricultural commodity that—
+
+            (A) is produced or handled (as defined in section 2103 of the Organic Foods Production Act of 1990 ([7 U.S.C. 6502][/us/usc/t7/s6502])) and that is certified to be sold or labeled as “organic” or “100 percent organic” (as defined in part 205 of title 7, Code of Federal Regulations (or a successor regulation)); or
+
+            (B) is imported with a valid organic certificate (as defined in that part).
+
+        (3) __Election__ 
+
+            If the Secretary issues an organic commodity promotion order described in paragraph (2), a covered person may elect, for applicable dual-covered agricultural commodities and in the sole discretion of the covered person, whether to be assessed under the organic commodity promotion order or another applicable agricultural commodity promotion order.
+
+        (4) __Regulations__ 
+
+            The Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
+
+([Pub. L. 104–127, title V, § 501][/us/pl/104/127/s501], Apr. 4, 1996, [110 Stat. 1029][/us/stat/110/1029]; [Pub. L. 107–171, title X, § 10607][/us/pl/107/171/s10607], May 13, 2002, [116 Stat. 514][/us/stat/116/514]; [Pub. L. 113–79, title X, § 10004(d)][/us/pl/113/79/s10004/d], (e), Feb. 7, 2014, [128 Stat. 942][/us/stat/128/942], 943.)
 
  __References in Text__ 
 
@@ -131,7 +187,13 @@
 
     [Public Law 103–407][/us/pl/103/407], referred to in subsec. (a)(14), is [Pub. L. 103–407][/us/pl/103/407], Oct. 22, 1994, [108 Stat. 4210][/us/stat/108/4210], known as the Sheep Promotion, Research, and Information Act of 1994, which is classified generally to chapter 99 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t7/s7101] and Tables.
 
+    The Organic Foods Production Act of 1990, referred to in subsec. (e)(3), is title XXI of [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935], which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title][/us/usc/t7/s6501] and Tables.
+
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79, § 10004(d)][/us/pl/113/79/s10004/d], added subsec. (e) and struck out former subsec. (e) which related to exemptions of certified organic products from assessments.
+
+    Subsec. (f). [Pub. L. 113–79, § 10004(e)][/us/pl/113/79/s10004/e], added subsec. (f).
 
     2002—Subsec. (a)(19). [Pub. L. 107–171, § 10607(b)][/us/pl/107/171/s10607/b], added par. (19).
 
@@ -189,11 +251,17 @@
 [/us/usc/t7/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6801
 [/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/usc/t7/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7101
+[/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
+[/us/usc/t7/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6502
+[/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
+[/us/usc/t7/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7413
 [/us/usc/t7/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6502
 [/us/pl/104/127/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs501
 [/us/stat/110/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1029
 [/us/pl/107/171/s10607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10607
 [/us/stat/116/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F514
+[/us/pl/113/79/s10004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fd
+[/us/stat/128/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F942
 [/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/pl/89/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F502
 [/us/stat/80/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F279
@@ -239,6 +307,11 @@
 [/us/pl/103/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F407
 [/us/stat/108/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4210
 [/us/usc/t7/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7101
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
+[/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
+[/us/pl/113/79/s10004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fd
+[/us/pl/113/79/s10004/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fe
 [/us/pl/107/171/s10607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10607%2Fb
 [/us/pl/107/171/s10607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10607%2Fa
 [/us/pl/104/127/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs511

@@ -15,11 +15,13 @@
 
 ## § 3199. Requirements for use of funds
 
-    With respect to research projects on problems of animal health and disease to be performed at eligible institutions and supported with funds allocated to the States under [section 3195 of this title][/us/usc/t7/s3195], the dean or director of each eligible institution shall cause to be prepared and shall review proposals for such research projects, which contain data showing compliance with the purpose in [section 3191 of this title][/us/usc/t7/s3191] and the provisions for use of funds specified in [section 3195(a) of this title][/us/usc/t7/s3195/a], and with general guidelines for project eligibility to be provided by the Secretary. Such research proposals that are approved by the dean or director shall be submitted to the Secretary prior to assignment of funds thereto with a brief summary showing compliance with the provisions of this subtitle and the Secretary’s general guidelines.
+    With respect to research projects on problems of animal health and disease to be performed at eligible institutions and supported with funds allocated to the States under subsection (c) of [section 3195 of this title][/us/usc/t7/s3195] to carry out subsection (a) of such section, the dean or director of each eligible institution shall cause to be prepared and shall review proposals for such research projects, which contain data showing compliance with the purpose in [section 3191 of this title][/us/usc/t7/s3191] and the provisions for use of funds specified in [section 3195(a) of this title][/us/usc/t7/s3195/a], and with general guidelines for project eligibility to be provided by the Secretary. Such research proposals that are approved by the dean or director shall be submitted to the Secretary prior to assignment of funds thereto with a brief summary showing compliance with the provisions of this subtitle and the Secretary’s general guidelines.
 
-([Pub. L. 95–113, title XIV, § 1437][/us/pl/95/113/s1437], Sept. 29, 1977, [91 Stat. 1004][/us/stat/91/1004]; [Pub. L. 105–185, title VI, § 606(d)(4)][/us/pl/105/185/s606/d/4], June 23, 1998, [112 Stat. 604][/us/stat/112/604].)
+([Pub. L. 95–113, title XIV, § 1437][/us/pl/95/113/s1437], Sept. 29, 1977, [91 Stat. 1004][/us/stat/91/1004]; [Pub. L. 105–185, title VI, § 606(d)(4)][/us/pl/105/185/s606/d/4], June 23, 1998, [112 Stat. 604][/us/stat/112/604]; [Pub. L. 113–79, title VII, § 7111(b)(3)(D)][/us/pl/113/79/s7111/b/3/D], Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] substituted “States under subsection (c) of [section 3195 of this title][/us/usc/t7/s3195] to carry out subsection (a) of such section” for “States under [section 3195 of this title][/us/usc/t7/s3195]”.
 
     1998—[Pub. L. 105–185][/us/pl/105/185] struck out “with the advice, when available, of the Board” after “by the Secretary” in first sentence.
 
@@ -37,6 +39,11 @@
 [/us/stat/91/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1004
 [/us/pl/105/185/s606/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs606%2Fd%2F4
 [/us/stat/112/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F604
+[/us/pl/113/79/s7111/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7111%2Fb%2F3%2FD
+[/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t7/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3195
+[/us/usc/t7/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3195
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 
 

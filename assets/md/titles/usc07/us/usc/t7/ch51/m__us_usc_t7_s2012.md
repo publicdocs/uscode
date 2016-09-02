@@ -37,7 +37,7 @@
 
     (f) “Certification period” means the period for which households shall be eligible to receive benefits. The certification period shall not exceed 12 months, except that the certification period may be up to 24 months if all adult household members are elderly or disabled. A State agency shall have at least 1 contact with each certified household every 12 months. The limits specified in this subsection may be extended until the end of any transitional benefit period established under [section 2020(s) of this title][/us/usc/t7/s2020/s].
 
-    (g) “Coupon” means any coupon, stamp, type of certificate, authorization card, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “or” probably should appear. </sup></sup>  cash or check issued in lieu of a coupon,. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should not appear. </sup></sup> 
+    (g) “Coupon” means any coupon, stamp, type of certificate, authorization card, cash or check issued in lieu of a coupon.
 
     (h) “Drug addiction or alcoholic treatment and rehabilitation program” means any such program conducted by a private nonprofit organization or institution, or a publicly operated community mental health center, under part B of title XIX of the Public Health Service Act ([42 U.S.C. 300x][/us/usc/t42/s300x] et seq.) to provide treatment that can lead to the rehabilitation of drug addicts or alcoholics.
 
@@ -85,11 +85,9 @@
 
         (7) is an individual receiving an annuity under section 2(a)(1)(iv) or 2(a)(1)(v) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231a(a)(1)(iv)][/us/usc/t45/s231a/a/1/iv] or 231a(a)(1)(v)), if the individual’s service as an employee under the Railroad Retirement Act of 1974 \[[45 U.S.C. 231][/us/usc/t45/s231] et seq.\], after December 31, 1936, had been included in the term “employment” as defined in the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\], and if an application for disability benefits had been filed.
 
-    (k) “Food” means (1) any food or food product for home consumption except alcoholic beverages, tobacco, and hot foods or hot food products ready for immediate consumption other than those authorized pursuant to clauses (3), (4), (5), (7), (8), and (9) of this subsection, (2) seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, (3) in the case of those persons who are sixty years of age or over or who receive supplemental security income benefits or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and their spouses, meals prepared by and served in senior citizens’ centers, apartment buildings occupied primarily by such persons, public or private nonprofit establishments (eating or otherwise) that feed such persons, private establishments that contract with the appropriate agency of the State to offer meals for such persons at concessional prices, and meals prepared for and served to residents of federally subsidized housing for the elderly, (4) in the case of persons sixty years of age or over and persons who are physically or mentally handicapped or otherwise so disabled that they are unable adequately to prepare all of their meals, meals prepared for and delivered to them (and their spouses) at their home by a public or private nonprofit organization or by a private establishment that contracts with the appropriate State agency to perform such services at concessional prices, (5) in the case of narcotics addicts or alcoholics, and their children, served by drug addiction or alcoholic treatment and rehabilitation programs, meals prepared and served under such programs, (6) in the case of certain eligible households living in Alaska, equipment for procuring food by hunting and fishing, such as nets, hooks, rods, harpoons, and knives (but not equipment for purposes of transportation, clothing, or shelter, and not firearms, ammunition, and explosives) if the Secretary determines that such households are located in an area of the State where it is extremely difficult to reach stores selling food and that such households depend to a substantial extent upon hunting and fishing for subsistence, (7) in the case of disabled or blind recipients of benefits under title I, II, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], or are  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The word “are” probably should not appear. </sup></sup>  individuals described in paragraphs (2) through (7) of subsection (j) of this section, who are residents in a public or private nonprofit group living arrangement that serves no more than sixteen residents and is certified by the appropriate State agency or agencies under regulations issued under section 1616(e) of the Social Security Act \[[42 U.S.C. 1382e(e)][/us/usc/t42/s1382e/e]\] or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section, meals prepared and served under such arrangement, (8) in the case of women and children temporarily residing in public or private nonprofit shelters for battered women and children, meals prepared and served, by such shelters, and (9) in the case of households that do not reside in permanent dwellings and households that have no fixed mailing addresses, meals prepared for and served by a public or private nonprofit establishment (approved by an appropriate State or local agency) that feeds such individuals and by private establishments that contract with the appropriate agency of the State to offer meals for such individuals at concessional prices.
+    (k) “Food” means (1) any food or food product for home consumption except alcoholic beverages, tobacco, hot foods or hot food products ready for immediate consumption other than those authorized pursuant to clauses (3), (4), (5), (7), (8), and (9) of this subsection, and any deposit fee in excess of the amount of the State fee reimbursement (if any) required to purchase any food or food product contained in a returnable bottle or can, regardless of whether the fee is included in the shelf price posted for the food or food product, (2) seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, (3) in the case of those persons who are sixty years of age or over or who receive supplemental security income benefits or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and their spouses, meals prepared by and served in senior citizens’ centers, apartment buildings occupied primarily by such persons, public or private nonprofit establishments (eating or otherwise) that feed such persons, private establishments that contract with the appropriate agency of the State to offer meals for such persons at concessional prices subject to [section 2018(h) of this title][/us/usc/t7/s2018/h], and meals prepared for and served to residents of federally subsidized housing for the elderly, (4) in the case of persons sixty years of age or over and persons who are physically or mentally handicapped or otherwise so disabled that they are unable adequately to prepare all of their meals, meals prepared for and delivered to them (and their spouses) at their home by a public or private nonprofit organization or by a private establishment that contracts with the appropriate State agency to perform such services at concessional prices subject to [section 2018(h) of this title][/us/usc/t7/s2018/h], (5) in the case of narcotics addicts or alcoholics, and their children, served by drug addiction or alcoholic treatment and rehabilitation programs, meals prepared and served under such programs, (6) in the case of certain eligible households living in Alaska, equipment for procuring food by hunting and fishing, such as nets, hooks, rods, harpoons, and knives (but not equipment for purposes of transportation, clothing, or shelter, and not firearms, ammunition, and explosives) if the Secretary determines that such households are located in an area of the State where it is extremely difficult to reach stores selling food and that such households depend to a substantial extent upon hunting and fishing for subsistence, (7) in the case of disabled or blind recipients of benefits under title I, II, X, XIV, or XVI of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq., 401 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], and individuals described in paragraphs (2) through (7) of subsection (j) of this section, who are residents in a public or private nonprofit group living arrangement that serves no more than sixteen residents and is certified by the appropriate State agency or agencies under regulations issued under section 1616(e) of the Social Security Act \[[42 U.S.C. 1382e(e)][/us/usc/t42/s1382e/e]\] or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section, meals prepared and served under such arrangement, (8) in the case of women and children temporarily residing in public or private nonprofit shelters for battered women and children, meals prepared and served, by such shelters, and (9) in the case of households that do not reside in permanent dwellings and households that have no fixed mailing addresses, meals prepared for and served by a public or private nonprofit establishment (approved by an appropriate State or local agency) that feeds such individuals and by private establishments that contract with the appropriate agency of the State to offer meals for such individuals at concessional prices subject to [section 2018(h) of this title][/us/usc/t7/s2018/h].
 
-    (l) “Supplemental nutrition assistance program” means the program operated pursuant to the provisions of this chapter.
-
-    (m)
+    (l)
 
      “Homeless individual” means—
 
@@ -107,7 +105,7 @@
 
             (D) a public or private place not designed for, or ordinarily used as, a regular sleeping accommodation for human beings.
 
-    (n)
+    (m)
 
         (1)
 
@@ -137,9 +135,9 @@
 
             (E) Narcotics addicts or alcoholics, together with their children, who live under the supervision of a private nonprofit institution, or a publicly operated community mental health center, for the purpose of regular participation in a drug or alcoholic treatment program.
 
-    (o) “Reservation” means the geographically defined area or areas over which a tribal organization exercises governmental jurisdiction.
+    (n) “Reservation” means the geographically defined area or areas over which a tribal organization exercises governmental jurisdiction.
 
-    (p)
+    (o)
 
      “Retail food store” means—
 
@@ -147,7 +145,7 @@
 
          an establishment or house-to-house trade route that sells food for home preparation and consumption and—
 
-            (A) offers for sale, on a continuous basis, a variety of foods in each of the 4 categories of staple foods specified in subsection (r)(1) of this section, including perishable foods in at least 2 of the categories; or
+            (A) offers for sale, on a continuous basis, a variety of at least 7 foods in each of the 4 categories of staple foods specified in subsection (r)(1) of this section, including perishable foods in at least 3 of the categories; or
 
             (B) has over 50 percent of the total sales of the establishment or route in staple foods,
 
@@ -155,13 +153,39 @@
 
         (2) an establishment, organization, program, or group living arrangement referred to in paragraphs (3), (4), (5), (7), (8), and (9) of subsection (k);
 
-        (3) a store purveying the hunting and fishing equipment described in subsection (k)(6); and
+        (3) a store purveying the hunting and fishing equipment described in subsection (k)(6);
 
-        (4) any private nonprofit cooperative food purchasing venture, including those in which the members pay for food purchased prior to the receipt of such food.
+        (4) any private nonprofit cooperative food purchasing venture, including those in which the members pay for food purchased prior to the receipt of such food, or agricultural producers who market agricultural products directly to consumers; and
 
-    (q) “Secretary” means the Secretary of Agriculture.
+        (5)
 
-    (r)
+         a governmental or private nonprofit food purchasing and delivery service that—
+
+            (A)
+
+             purchases food for, and delivers the food to, individuals who are—
+
+                (i) unable to shop for food; and
+
+                (ii)
+
+                    (I) not less than 60 years of age; or
+
+                    (II) physically or mentally handicapped or otherwise disabled;
+
+            (B)
+
+             clearly notifies the participating household at the time the household places a food order—
+
+                (i) of any delivery fee associated with the food purchase and delivery provided to the household by the service; and
+
+                (ii) that a delivery fee cannot be paid with benefits provided under supplemental nutrition assistance program; and
+
+            (C) sells food purchased for the household at the price paid by the service for the food and without any additional cost markup.
+
+    (p) “Secretary” means the Secretary of Agriculture.
+
+    (q)
 
         (1)
 
@@ -177,9 +201,11 @@
 
         (2) “Staple foods” do not include accessory food items, such as coffee, tea, cocoa, carbonated and uncarbonated drinks, candy, condiments, and spices.
 
-    (s) “State” means the fifty States, the District of Columbia, Guam, the Virgin Islands of the United States, and the reservations of an Indian tribe whose tribal organization meets the requirements of this chapter for participation as a State agency.
+    (r) “State” means the fifty States, the District of Columbia, Guam, the Virgin Islands of the United States, and the reservations of an Indian tribe whose tribal organization meets the requirements of this chapter for participation as a State agency.
 
-    (t) “State agency” means (1) the agency of State government, including the local offices thereof, which has the responsibility for the administration of the federally aided public assistance programs within such State, and in those States where such assistance programs are operated on a decentralized basis, the term shall include the counterpart local agencies administering such programs, and (2) the tribal organization of an Indian tribe determined by the Secretary to be capable of effectively administering a food distribution program under [section 2013(b) of this title][/us/usc/t7/s2013/b] or a supplemental nutrition assistance program under [section 2020(d) of this title][/us/usc/t7/s2020/d].
+    (s) “State agency” means (1) the agency of State government, including the local offices thereof, which has the responsibility for the administration of the federally aided public assistance programs within such State, and in those States where such assistance programs are operated on a decentralized basis, the term shall include the counterpart local agencies administering such programs, and (2) the tribal organization of an Indian tribe determined by the Secretary to be capable of effectively administering a food distribution program under [section 2013(b) of this title][/us/usc/t7/s2013/b] or a supplemental nutrition assistance program under [section 2020(d) of this title][/us/usc/t7/s2020/d].
+
+    (t) “Supplemental nutrition assistance program” means the program operated pursuant to this chapter.
 
     (u)
 
@@ -195,11 +221,11 @@
 
     (v) “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in the Indian Self-Determination Act ([25 U.S.C. 450b(b)][/us/usc/t25/s450b/b]), as well as any Indian tribe, band, or community holding a treaty with a State government.
 
-([Pub. L. 88–525, § 3][/us/pl/88/525/s3], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703]; [Pub. L. 91–671, § 2][/us/pl/91/671/s2], Jan. 11, 1971, [84 Stat. 2048][/us/stat/84/2048]; [Pub. L. 92–603, title IV, § 411(a)][/us/pl/92/603/s411/a], (b), Oct. 30, 1972, [86 Stat. 1491][/us/stat/86/1491]; [Pub. L. 93–86, § 3(a)][/us/pl/93/86/s3/a]–(c), (l), (o), (p), Aug. 10, 1973, [87 Stat. 246][/us/stat/87/246], 248, 249; [Pub. L. 93–125, § 1(h)][/us/pl/93/125/s1/h], Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450]; [Pub. L. 94–339, § 4][/us/pl/94/339/s4], July 5, 1976, [90 Stat. 801][/us/stat/90/801]; [Pub. L. 95–113, title XIII][/us/pl/95/113], §§ 1301, 1302(a)(1), Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], 979; [Pub. L. 96–58][/us/pl/96/58], §§ 3, 7, Aug. 14, 1979, [93 Stat. 390][/us/stat/93/390], 392; [Pub. L. 96–181, § 15(b)][/us/pl/96/181/s15/b], Jan. 2, 1980, [93 Stat. 1316][/us/stat/93/1316]; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 101(a), 111, 135, May 26, 1980, [94 Stat. 357][/us/stat/94/357], 360, 369; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 101–103, 108(a), 116(a)(1), Aug. 13, 1981, [95 Stat. 358][/us/stat/95/358], 361, 364; [Pub. L. 97–98, title XII][/us/pl/97/98], §§ 1302–1304, Dec. 22, 1981, [95 Stat. 1282][/us/stat/95/1282]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 142, 143(a), 144, 145(a), (b), Sept. 8, 1982, [96 Stat. 772–774][/us/stat/96/772-774]; [Pub. L. 98–204, § 3][/us/pl/98/204/s3], Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1501(a), 1502–1504, Dec. 23, 1985, [99 Stat. 1566][/us/stat/99/1566]; [Pub. L. 99–570, title XI, § 11002(a)][/us/pl/99/570/s11002/a]–(c), Oct. 27, 1986, [100 Stat. 3207–167][/us/stat/100/3207-167], 3207–168; [Pub. L. 100–77, title VIII][/us/pl/100/77], §§ 801, 802(a), July 22, 1987, [101 Stat. 533][/us/stat/101/533], 534; [Pub. L. 100–435, title I, § 120][/us/pl/100/435/s120], title III, § 350, Sept. 19, 1988, [102 Stat. 1655][/us/stat/102/1655], 1664; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1712, 1713(a), 1747(b), Nov. 28, 1990, [104 Stat. 3783][/us/stat/104/3783], 3796; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–237, title IX][/us/pl/102/237], §§ 901, 941(1), Dec. 13, 1991, [105 Stat. 1884][/us/stat/105/1884], 1891; [Pub. L. 102–351, § 1][/us/pl/102/351/s1], Aug. 26, 1992, [106 Stat. 937][/us/stat/106/937]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13931, 13932, Aug. 10, 1993, [107 Stat. 676][/us/stat/107/676]; [Pub. L. 103–225, title I, § 101(b)(1)][/us/pl/103/225/s101/b/1], title II, § 201, Mar. 25, 1994, [108 Stat. 107][/us/stat/108/107], 108; [Pub. L. 103–354, title III, § 303(a)][/us/pl/103/354/s303/a], Oct. 13, 1994, [108 Stat. 3239][/us/stat/108/3239]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 801–805, Aug. 22, 1996, [110 Stat. 2308][/us/stat/110/2308], 2309; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4112(b)(1), 4115(b)(1), May 13, 2002, [116 Stat. 312][/us/stat/116/312], 315; [Pub. L. 108–199, div. A, title VII, § 771(a)][/us/pl/108/199/s771/a], Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4115(b)(1), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1105; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4115(b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1866.)
+([Pub. L. 88–525, § 3][/us/pl/88/525/s3], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703]; [Pub. L. 91–671, § 2][/us/pl/91/671/s2], Jan. 11, 1971, [84 Stat. 2048][/us/stat/84/2048]; [Pub. L. 92–603, title IV, § 411(a)][/us/pl/92/603/s411/a], (b), Oct. 30, 1972, [86 Stat. 1491][/us/stat/86/1491]; [Pub. L. 93–86, § 3(a)][/us/pl/93/86/s3/a]–(c), (l), (o), (p), Aug. 10, 1973, [87 Stat. 246][/us/stat/87/246], 248, 249; [Pub. L. 93–125, § 1(h)][/us/pl/93/125/s1/h], Oct. 18, 1973, [87 Stat. 450][/us/stat/87/450]; [Pub. L. 94–339, § 4][/us/pl/94/339/s4], July 5, 1976, [90 Stat. 801][/us/stat/90/801]; [Pub. L. 95–113, title XIII][/us/pl/95/113], §§ 1301, 1302(a)(1), Sept. 29, 1977, [91 Stat. 958][/us/stat/91/958], 979; [Pub. L. 96–58][/us/pl/96/58], §§ 3, 7, Aug. 14, 1979, [93 Stat. 390][/us/stat/93/390], 392; [Pub. L. 96–181, § 15(b)][/us/pl/96/181/s15/b], Jan. 2, 1980, [93 Stat. 1316][/us/stat/93/1316]; [Pub. L. 96–249, title I][/us/pl/96/249], §§ 101(a), 111, 135, May 26, 1980, [94 Stat. 357][/us/stat/94/357], 360, 369; [Pub. L. 97–35, title I][/us/pl/97/35], §§ 101–103, 108(a), 116(a)(1), Aug. 13, 1981, [95 Stat. 358][/us/stat/95/358], 361, 364; [Pub. L. 97–98, title XII][/us/pl/97/98], §§ 1302–1304, Dec. 22, 1981, [95 Stat. 1282][/us/stat/95/1282]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 142, 143(a), 144, 145(a), (b), Sept. 8, 1982, [96 Stat. 772–774][/us/stat/96/772-774]; [Pub. L. 98–204, § 3][/us/pl/98/204/s3], Dec. 2, 1983, [97 Stat. 1385][/us/stat/97/1385]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1501(a), 1502–1504, Dec. 23, 1985, [99 Stat. 1566][/us/stat/99/1566]; [Pub. L. 99–570, title XI, § 11002(a)][/us/pl/99/570/s11002/a]–(c), Oct. 27, 1986, [100 Stat. 3207–167][/us/stat/100/3207-167], 3207–168; [Pub. L. 100–77, title VIII][/us/pl/100/77], §§ 801, 802(a), July 22, 1987, [101 Stat. 533][/us/stat/101/533], 534; [Pub. L. 100–435, title I, § 120][/us/pl/100/435/s120], title III, § 350, Sept. 19, 1988, [102 Stat. 1655][/us/stat/102/1655], 1664; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1712, 1713(a), 1747(b), Nov. 28, 1990, [104 Stat. 3783][/us/stat/104/3783], 3796; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–237, title IX][/us/pl/102/237], §§ 901, 941(1), Dec. 13, 1991, [105 Stat. 1884][/us/stat/105/1884], 1891; [Pub. L. 102–351, § 1][/us/pl/102/351/s1], Aug. 26, 1992, [106 Stat. 937][/us/stat/106/937]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13931, 13932, Aug. 10, 1993, [107 Stat. 676][/us/stat/107/676]; [Pub. L. 103–225, title I, § 101(b)(1)][/us/pl/103/225/s101/b/1], title II, § 201, Mar. 25, 1994, [108 Stat. 107][/us/stat/108/107], 108; [Pub. L. 103–354, title III, § 303(a)][/us/pl/103/354/s303/a], Oct. 13, 1994, [108 Stat. 3239][/us/stat/108/3239]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 801–805, Aug. 22, 1996, [110 Stat. 2308][/us/stat/110/2308], 2309; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4112(b)(1), 4115(b)(1), May 13, 2002, [116 Stat. 312][/us/stat/116/312], 315; [Pub. L. 108–199, div. A, title VII, § 771(a)][/us/pl/108/199/s771/a], Jan. 23, 2004, [118 Stat. 40][/us/stat/118/40]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4115(b)(1), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1105; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4115(b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1866; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4001, 4002(a), 4003(a), 4012, 4014(c), 4030(a), Feb. 7, 2014, [128 Stat. 782][/us/stat/128/782], 784, 793, 794, 813.)
 
  __References in Text__ 
 
-    The Social Security Act, referred to in subsecs. (c), (j), (k), and (n)(5)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles I, II, X, XIV, XVI, XVIII, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
+    The Social Security Act, referred to in subsecs. (c), (j), (k), and (m)(5)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles I, II, X, XIV, XVI, XVIII, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
     The Public Health Service Act, referred to in subsec. (h), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Part B of title XIX of the Act is classified generally to part B (§ 300x et seq.) of subchapter XVII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
@@ -212,6 +238,30 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (g). [Pub. L. 113–79, § 4030(a)(1)][/us/pl/113/79/s4030/a/1], substituted “coupon” for “coupon,” before period at end.
+
+    Subsec. (k). [Pub. L. 113–79, § 4014(c)][/us/pl/113/79/s4014/c], inserted “subject to [section 2018(h) of this title][/us/usc/t7/s2018/h]” after “concessional prices” wherever appearing.
+
+    Subsec. (k)(1). [Pub. L. 113–79, § 4001][/us/pl/113/79/s4001], substituted “hot foods” for “and hot foods” and inserted at end “and any deposit fee in excess of the amount of the State fee reimbursement (if any) required to purchase any food or food product contained in a returnable bottle or can, regardless of whether the fee is included in the shelf price posted for the food or food product,”.
+
+    Subsec. (k)(7). [Pub. L. 113–79, § 4030(a)(2)][/us/pl/113/79/s4030/a/2], substituted “and individuals” for “or are individuals”.
+
+    Subsec. (l) to (o). [Pub. L. 113–79, § 4030(a)(3)][/us/pl/113/79/s4030/a/3], (4), redesignated subsecs. (m) to (p) as (l) to (o), respectively, and struck out former subsec. (l) which read as follows: “ ‘Supplemental nutrition assistance program’ means the program operated pursuant to the provisions of this chapter.”
+
+    Subsec. (o)(4). [Pub. L. 113–79, § 4012][/us/pl/113/79/s4012], inserted “, or agricultural producers who market agricultural products directly to consumers” after “such food”.
+
+    Subsec. (p). [Pub. L. 113–79, § 4030(a)(4)][/us/pl/113/79/s4030/a/4], redesignated subsec. (q) as (p). Former subsec. (p) redesignated (o).
+
+    Subsec. (p)(1)(A). [Pub. L. 113–79, § 4002(a)][/us/pl/113/79/s4002/a], inserted “at least 7” after “a variety of” and substituted “at least 3” for “at least 2”.
+
+    Subsec. (p)(5). [Pub. L. 113–79, § 4003(a)][/us/pl/113/79/s4003/a], added par. (5).
+
+    Subsecs. (q) to (s). [Pub. L. 113–79, § 4030(a)(4)][/us/pl/113/79/s4030/a/4], redesignated subsecs. (r) to (t) as (q) to (s), respectively. Former subsec. (q) redesignated (p).
+
+    Subsec. (t). [Pub. L. 113–79, § 4030(a)(5)][/us/pl/113/79/s4030/a/5], added subsec. (t).
+
+    [Pub. L. 113–79, § 4030(a)(4)][/us/pl/113/79/s4030/a/4], redesignated subsec. (t) as (s).
 
     2008—[Pub. L. 110–246, § 4115(b)(1)(M)][/us/pl/110/246/s4115/b/1/M], redesignated subsecs. (a) to (v) as (b), (d), (f), (g), (e), (h), (k), (l), (n), (o), (p), (q), (s), (t), (u), (v), (c), (j), (m), (a), (r), and (i), respectively.
 
@@ -537,7 +587,7 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         Notwithstanding any other provision of law, if a final order is issued for fiscal year 1989 under section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 902(b)][/us/usc/t2/s902/b]), the amount made available to carry out the supplemental nutrition assistance program under section 18 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2027][/us/usc/t7/s2027]) shall be reduced by an amount equal to $110,000,000 multiplied by the amount of the percentage reduction for domestic programs required under such order. The reduction required by the preceding sentence shall be achieved by reducing the amount of the adjustment to the cost of the thrifty food plan for fiscal year 1989 under section 3(o)(9) of the Food and Nutrition Act of 2008 (as added by section 120 of this Act) \[section 2012(o)(9) of this title\].
+>         Notwithstanding any other provision of law, if a final order is issued for fiscal year 1989 under section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 902(b)][/us/usc/t2/s902/b]), the amount made available to carry out the supplemental nutrition assistance program under section 18 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2027][/us/usc/t7/s2027]) shall be reduced by an amount equal to $110,000,000 multiplied by the amount of the percentage reduction for domestic programs required under such order. The reduction required by the preceding sentence shall be achieved by reducing the amount of the adjustment to the cost of the thrifty food plan for fiscal year 1989 under \[former\] section 3(o)(9) of the Food and Nutrition Act of 2008 (as added by section 120 of this Act) \[former section 2012(o)(9) of this title\].
 
 >         “(2)  __Effective dates if sequestration occurs__  __.—__ 
 
@@ -623,11 +673,41 @@
 
     [Pub. L. 93–86, § 3(b)][/us/pl/93/86/s3/b], Aug. 10, 1978, [87 Stat. 246][/us/stat/87/246], cited as a credit to this section, was repealed, effective Oct. 1, 1977, by [section 1302(a)(1) of Pub. L. 95–113][/us/pl/95/113/s1302/a/1]. [Section 3(b) of Pub. L. 93–86][/us/pl/93/86/s3/b] had amended the definition of “household” in 1973 to exclude individuals receiving supplementary security income benefits under title XVI of the Social Security Act in certain months. For the period beginning Jan. 1, 1974, and ending September 30, 1978, [Pub. L. 93–233, § 8(a)][/us/pl/93/233/s8/a], Dec. 30, 1973, [87 Stat. 956][/us/stat/87/956], as amended by [Pub. L. 93–335, § 1(a)][/us/pl/93/335/s1/a], (b), July 8, 1974, [88 Stat. 291][/us/stat/88/291]; [Pub. L. 94–44, § 3][/us/pl/94/44/s3], June 28, 1975, [89 Stat. 235][/us/stat/89/235]; [Pub. L. 94–365, § 2][/us/pl/94/365/s2], July 14, 1976, [90 Stat. 990][/us/stat/90/990]; [Pub. L. 95–59, § 3][/us/pl/95/59/s3], June 30, 1977, [91 Stat. 255][/us/stat/91/255], provided that the amendment by [section 3(b) of Pub. L. 93–86][/us/pl/93/86/s3/b] should not be effective and that the definition of “household” should read as it did before such amendment but with the addition of a new sentence to exclude individuals receiving certain Federal or State supplementary payments under certain circumstances.
 
+ __Regulations__ 
+
+[Pub. L. 113–79, title IV, § 4003(b)][/us/pl/113/79/s4003/b], Feb. 7, 2014, [128 Stat. 785][/us/stat/128/785], provided that:
+
+>     “(1)  __Issuance of rules__  __.—__ 
+
+>     The Secretary \[of Agriculture\] shall issue regulations that—
+
+>         “(A) establish criteria to identify a food purchasing and delivery service referred to in section 3(p)(5) \[now 3(o)(5)\] of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012(p)(5)][/us/usc/t7/s2012/p/5] \[now 2012(o)(5)\]); and
+
+>         “(B)
+
+>          establish procedures to ensure that the service—
+
+>             “(i) does not charge more for a food item than the price paid by the service for the food item;
+
+>             “(ii) offers food delivery service at no or low cost to households under that Act \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\];
+
+>             “(iii) ensures that benefits provided under the supplemental nutrition assistance program are used only to purchase food (as defined in section 3 of that Act ([7 U.S.C. 2012][/us/usc/t7/s2012]));
+
+>             “(iv) limits the purchase of food, and the delivery of the food, to households eligible to receive services described in section 3(p)(5) \[now 3(o)(5)\] of that Act ([7 U.S.C. 2012(p)(5)][/us/usc/t7/s2012/p/5] \[now 2012(o)(5)\]);
+
+>             “(v) has established adequate safeguards against fraudulent activities, including unauthorized use of electronic benefit cards issued under that Act; and
+
+>             “(vi) meets such other requirements as the Secretary determines to be appropriate.
+
+>     “(2)  __Limitation__  __.—__ 
+
+>     Before the issuance of rules under paragraph (1), the Secretary may not approve more than 20 food purchasing and delivery services referred to in section 3(p)(5) \[now 3(o)(5)\] of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012(p)(5)][/us/usc/t7/s2012/p/5] \[now 2012(o)(5)\]) to participate as retail food stores under the supplemental nutrition assistance program.”
+
  __Continued Eligibility__ 
 
 [Pub. L. 103–225, title II, § 205][/us/pl/103/225/s205], Mar. 25, 1994, [108 Stat. 109][/us/stat/108/109], as amended by [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), May 22, 2008, [122 Stat. 1095][/us/stat/122/1095], 1096, 1109; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, 1871, provided that: 
 
-> “An establishment or house-to-house trade route that is otherwise authorized to accept and redeem coupons under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) on the day before the date of enactment of this Act \[Mar. 25, 1994\] shall be considered to meet the definition of ‘retail food store’ in section 3(p) of that Act \[[7 U.S.C. 2012(p)][/us/usc/t7/s2012/p]\] until the earlier of—
+> “An establishment or house-to-house trade route that is otherwise authorized to accept and redeem coupons under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) on the day before the date of enactment of this Act \[Mar. 25, 1994\] shall be considered to meet the definition of ‘retail food store’ in section 3(p) \[now 3(o)\] of that Act \[now [7 U.S.C. 2012][/us/usc/t7/s2012](o)\] until the earlier of—
 
 >     “(1) the periodic reauthorization of the establishment or route; or
 
@@ -659,13 +739,13 @@
 
 [Pub. L. 103–205, § 2][/us/pl/103/205/s2], Dec. 17, 1993, [107 Stat. 2418][/us/stat/107/2418], as amended by [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097], 1109; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, 1870, 1871, provided that: 
 
-> “Notwithstanding any other provision of law, during the period beginning on the date of enactment of this Act \[Dec. 17, 1993\] and ending on March 15, 1994, an establishment or house-to-house trade route that is otherwise authorized to accept and redeem benefits under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) on the date of enactment of this Act may not be disqualified from participation in the supplemental nutrition assistance program solely because the establishment or trade route does not meet the definition of ‘retail food store’ under section 3(p)(1) of such Act ([7 U.S.C. 2012(k)][/us/usc/t7/s2012/k]\[(p)\](1)).”
+> “Notwithstanding any other provision of law, during the period beginning on the date of enactment of this Act \[Dec. 17, 1993\] and ending on March 15, 1994, an establishment or house-to-house trade route that is otherwise authorized to accept and redeem benefits under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) on the date of enactment of this Act may not be disqualified from participation in the supplemental nutrition assistance program solely because the establishment or trade route does not meet the definition of ‘retail food store’ under section 3(p)(1) \[now 3(o)(1)\] of such Act ([7 U.S.C. 2012(k)(1)][/us/usc/t7/s2012/k/1] \[now 2012(o)(1)\]).”
 
  __Publicly Operated Community Health Centers__ 
 
 [Pub. L. 98–107, § 101(b)][/us/pl/98/107/s101/b], Oct. 1, 1983, [97 Stat. 734][/us/stat/97/734], provided in part: 
 
-> “That notwithstanding any other provision of law or this joint resolution, the provisions of subsections (f) and (i) of section 3 and section 10 of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\], as amended \[[7 U.S.C. 2012(f)][/us/usc/t7/s2012/f], (i) and 2019\], concerning private, nonprofit drug addiction or alcoholic treatment and rehabilitation programs, shall also be applicable to publicly operated community health centers”.
+> “That notwithstanding any other provision of law or this joint resolution, the provisions of subsections (f) and (i) of section 3 and section 10 of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\], as amended \[[7 U.S.C. 2012(h)][/us/usc/t7/s2012/h], (m) and 2019\], concerning private, nonprofit drug addiction or alcoholic treatment and rehabilitation programs, shall also be applicable to publicly operated community health centers”.
 
     \[Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see [section 4(c) of Pub. L. 104–299][/us/pl/104/299/s4/c], set out as a note under [section 254b of Title 42][/us/usc/t42/s254b], The Public Health and Welfare.\]
 
@@ -699,8 +779,11 @@
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
+[/us/usc/t7/s2018/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2018%2Fh
+[/us/usc/t7/s2018/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2018%2Fh
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s1382e/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fe
+[/us/usc/t7/s2018/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2018%2Fh
 [/us/usc/t42/s421/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi
 [/us/usc/t7/s2014/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014%2Fd
 [/us/usc/t7/s2014/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014%2Fc%2F1
@@ -769,6 +852,8 @@
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F782
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -791,6 +876,19 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s4030/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F1
+[/us/pl/113/79/s4014/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4014%2Fc
+[/us/usc/t7/s2018/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2018%2Fh
+[/us/pl/113/79/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4001
+[/us/pl/113/79/s4030/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F2
+[/us/pl/113/79/s4030/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F3
+[/us/pl/113/79/s4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4012
+[/us/pl/113/79/s4030/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F4
+[/us/pl/113/79/s4002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4002%2Fa
+[/us/pl/113/79/s4003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4003%2Fa
+[/us/pl/113/79/s4030/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F4
+[/us/pl/113/79/s4030/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F5
+[/us/pl/113/79/s4030/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F4
 [/us/pl/110/246/s4115/b/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F1%2FM
 [/us/pl/110/246/s4115/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F1%2FA
 [/us/pl/110/246/s4115/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F1%2FB
@@ -1050,6 +1148,13 @@
 [/us/pl/95/59/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F59%2Fs3
 [/us/stat/91/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F255
 [/us/pl/93/86/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F86%2Fs3%2Fb
+[/us/pl/113/79/s4003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4003%2Fb
+[/us/stat/128/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F785
+[/us/usc/t7/s2012/p/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fp%2F5
+[/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
+[/us/usc/t7/s2012/p/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fp%2F5
+[/us/usc/t7/s2012/p/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fp%2F5
 [/us/pl/103/225/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F225%2Fs205
 [/us/stat/108/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F109
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -1057,7 +1162,7 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/usc/t7/s2012/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fp
+[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
 [/us/pl/103/225/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F225%2Fs206
 [/us/stat/108/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F109
 [/us/pl/110/234/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FA
@@ -1073,10 +1178,10 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/usc/t7/s2012/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fk
+[/us/usc/t7/s2012/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fk%2F1
 [/us/pl/98/107/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F107%2Fs101%2Fb
 [/us/stat/97/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F734
-[/us/usc/t7/s2012/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ff
+[/us/usc/t7/s2012/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fh
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/pl/93/233/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs8%2Fc

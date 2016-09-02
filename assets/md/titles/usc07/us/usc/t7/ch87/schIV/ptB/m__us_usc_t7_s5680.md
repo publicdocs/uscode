@@ -21,7 +21,7 @@
 
     (b) __Purpose__ 
 
-        The program shall provide direct assistance through public and private sector projects and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and related barriers to trade.
+        The program shall provide direct assistance through public and private sector projects and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and technical barriers to trade.
 
     (c) __Priority__ 
 
@@ -53,19 +53,25 @@
 
             (B) $7,000,000 for fiscal year 2009;
 
-            (C) $8,000,000 for fiscal year 2010;
+            (C) $8,000,000 for fiscal year 2010; and
 
-            (D) $9,000,000 for fiscal year 2011; and
+            (D) $9,000,000 for each of fiscal years 2011 through 2018.
 
-            (E) $9,000,000 for fiscal year 2012.
-
-([Pub. L. 107–171, title III, § 3205][/us/pl/107/171/s3205], May 13, 2002, [116 Stat. 301][/us/stat/116/301]; [Pub. L. 110–246, title III, § 3203][/us/pl/110/246/s3203], June 18, 2008, [122 Stat. 1837][/us/stat/122/1837].)
+([Pub. L. 107–171, title III, § 3205][/us/pl/107/171/s3205], May 13, 2002, [116 Stat. 301][/us/stat/116/301]; [Pub. L. 110–246, title III, § 3203][/us/pl/110/246/s3203], June 18, 2008, [122 Stat. 1837][/us/stat/122/1837]; [Pub. L. 113–79, title III, § 3205(a)][/us/pl/113/79/s3205/a], (b), Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780].)
 
  __Codification__ 
 
     Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Agricultural Trade Act of 1978 which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79, § 3205(a)][/us/pl/113/79/s3205/a], substituted “technical barriers to trade” for “related barriers to trade”.
+
+    Subsec. (e)(2)(C) to (E). [Pub. L. 113–79, § 3205(b)][/us/pl/113/79/s3205/b], inserted “and” at end of subpar. (C), added subpar. (D), and struck out former subpars. (D) and (E) which read as follows:
+
+    “(D) $9,000,000 for fiscal year 2011; and
+
+    “(E) $9,000,000 for fiscal year 2012.”
 
     2008—Subsecs. (d), (e). [Pub. L. 110–246][/us/pl/110/246] added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text read as follows: “For each of fiscal years 2002 through 2007, the Secretary shall make available $2,000,000 of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation.”
 
@@ -84,6 +90,10 @@
 [/us/stat/116/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F301
 [/us/pl/110/246/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3203
 [/us/stat/122/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1837
+[/us/pl/113/79/s3205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3205%2Fa
+[/us/stat/128/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F780
+[/us/pl/113/79/s3205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3205%2Fa
+[/us/pl/113/79/s3205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3205%2Fb
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb

@@ -27,35 +27,29 @@
 
         Grants under this section shall be awarded to address priorities in United States agriculture, determined by the Secretary in consultation with the Advisory Board, that involve integrated research, extension, and education activities.
 
-    (d) __Matching of funds__ 
-
-        (1) __General requirement__ 
-
-            If a grant under this section provides a particular benefit to a specific agricultural commodity, the Secretary shall require the recipient of the grant to provide funds or in-kind support to match the amount of funds provided by the Secretary in the grant.
-
-        (2) __Waiver__ 
-
-        The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a grant if the Secretary determines that—
-
-            (A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
-
-            (B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
-
-    (e) __Term of grant__ 
+    (d) __Term of grant__ 
 
         A grant under this section shall have a term of not more than 5 years.
 
-    (f) __Authorization of appropriations__ 
+    (e) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
+        There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018.
 
-([Pub. L. 105–185, title IV, § 406][/us/pl/105/185/s406], June 23, 1998, [112 Stat. 573][/us/stat/112/573]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7125, 7206, May 13, 2002, [116 Stat. 434][/us/stat/116/434], 439; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7129(c)(4), 7306, May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1242; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7129(c)(4), 7306, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2004.)
+([Pub. L. 105–185, title IV, § 406][/us/pl/105/185/s406], June 23, 1998, [112 Stat. 573][/us/stat/112/573]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7125, 7206, May 13, 2002, [116 Stat. 434][/us/stat/116/434], 439; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7129(c)(4), 7306, May 22, 2008, [122 Stat. 1227][/us/stat/122/1227], 1242; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7129(c)(4), 7306, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1988, 2004; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7128(b)(3)(A), 7302, Feb. 7, 2014, [128 Stat. 879][/us/stat/128/879], 887.)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79, § 7128(b)(3)(A)][/us/pl/113/79/s7128/b/3/A], redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to matching funds requirement.
+
+    Subsec. (e). [Pub. L. 113–79, § 7302][/us/pl/113/79/s7302], substituted “2018” for “2012”.
+
+    [Pub. L. 113–79, § 7128(b)(3)(A)(ii)][/us/pl/113/79/s7128/b/3/A/ii], redesignated subsec. (f) as (e).
+
+    Subsec. (f). [Pub. L. 113–79, § 7128(b)(3)(A)(ii)][/us/pl/113/79/s7128/b/3/A/ii], redesignated subsec. (f) as (e).
 
     2008—Subsec. (b). [Pub. L. 110–246, § 7129(c)(4)][/us/pl/110/246/s7129/c/4], substituted “, 1994 Institutions, and Hispanic-serving agricultural colleges and universities” for “and 1994 Institutions”.
 
@@ -87,10 +81,16 @@
 [/us/stat/122/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1227
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F879
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s7128/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F3%2FA
+[/us/pl/113/79/s7302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7302
+[/us/pl/113/79/s7128/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F3%2FA%2Fii
+[/us/pl/113/79/s7128/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F3%2FA%2Fii
 [/us/pl/110/246/s7129/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7129%2Fc%2F4
 [/us/pl/110/246/s7306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7306
 [/us/pl/107/171/s7206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7206

@@ -15,15 +15,17 @@
 
 ## § 3312. Authorization of appropriations for extension education
 
-    Notwithstanding any authorization for appropriations for the Cooperative Extension Service in any Act enacted prior to September 29, 1977, there are hereby authorized to be appropriated for the purposes of carrying out the extension programs of the Department of Agriculture such sums as may be necessary for each of fiscal years 1991 through 2012.
+    Notwithstanding any authorization for appropriations for the Cooperative Extension Service in any Act enacted prior to September 29, 1977, there are hereby authorized to be appropriated for the purposes of carrying out the extension programs of the Department of Agriculture such sums as may be necessary for each of fiscal years 1991 through 2018.
 
-([Pub. L. 95–113, title XIV, § 1464][/us/pl/95/113/s1464], Sept. 29, 1977, [91 Stat. 1018][/us/stat/91/1018]; [Pub. L. 97–98, title XIV, § 1438][/us/pl/97/98/s1438], Dec. 22, 1981, [95 Stat. 1314][/us/stat/95/1314]; [Pub. L. 99–198, title XIV, § 1423][/us/pl/99/198/s1423], Dec. 23, 1985, [99 Stat. 1552][/us/stat/99/1552]; [Pub. L. 101–624, title XVI, § 1601(b)(4)][/us/pl/101/624/s1601/b/4], Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 104–127, title VIII, § 818][/us/pl/104/127/s818], Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167]; [Pub. L. 105–185, title III, § 301(a)(13)][/us/pl/105/185/s301/a/13], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7114][/us/pl/107/171/s7114], May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII, § 7135][/us/pl/110/234/s7135], May 22, 2008, [122 Stat. 1228][/us/stat/122/1228]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7135, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1990.)
+([Pub. L. 95–113, title XIV, § 1464][/us/pl/95/113/s1464], Sept. 29, 1977, [91 Stat. 1018][/us/stat/91/1018]; [Pub. L. 97–98, title XIV, § 1438][/us/pl/97/98/s1438], Dec. 22, 1981, [95 Stat. 1314][/us/stat/95/1314]; [Pub. L. 99–198, title XIV, § 1423][/us/pl/99/198/s1423], Dec. 23, 1985, [99 Stat. 1552][/us/stat/99/1552]; [Pub. L. 101–624, title XVI, § 1601(b)(4)][/us/pl/101/624/s1601/b/4], Nov. 28, 1990, [104 Stat. 3703][/us/stat/104/3703]; [Pub. L. 104–127, title VIII, § 818][/us/pl/104/127/s818], Apr. 4, 1996, [110 Stat. 1167][/us/stat/110/1167]; [Pub. L. 105–185, title III, § 301(a)(13)][/us/pl/105/185/s301/a/13], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7114][/us/pl/107/171/s7114], May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII, § 7135][/us/pl/110/234/s7135], May 22, 2008, [122 Stat. 1228][/us/stat/122/1228]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7135, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1990; [Pub. L. 113–79, title VII, § 7120][/us/pl/113/79/s7120], Feb. 7, 2014, [128 Stat. 876][/us/stat/128/876].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—[Pub. L. 110–246, § 7135][/us/pl/110/246/s7135], substituted “2012” for “2007”.
 
@@ -76,10 +78,13 @@
 [/us/stat/122/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1228
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7120
+[/us/stat/128/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F876
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7135
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185

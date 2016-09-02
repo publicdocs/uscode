@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schI/m__us_usc_t7_s6919.md) | [Next](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_ch98_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6920)
+[Previous](./../../../../..//us/usc/t7/ch98/schI/m__us_usc_t7_s6919.md) | [Next](./../../../../..//us/usc/t7/ch98/schI/m__us_usc_t7_s6921.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6920)
 
 ## § 6920. Office of Energy Policy and New Uses
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schI/m__us_usc_t7_s6919.md) | [Next](./../../../../..//us/usc/t7/ch98/schII/m__us_usc_t7_ch98_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6920)
+[Previous](./../../../../..//us/usc/t7/ch98/schI/m__us_usc_t7_s6919.md) | [Next](./../../../../..//us/usc/t7/ch98/schI/m__us_usc_t7_s6921.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6920)
 
 ----------
 ----------

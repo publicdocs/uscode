@@ -163,7 +163,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7517" data-uslm-ref="/us/usc/t7/s7517">7517.</a>  </td>
 
-    <td> Hunger-free communities.  </td>
+    <td> Food insecurity nutrition incentive.  </td>
 
   </tr>
 

@@ -17,7 +17,7 @@
 
     (a) __Authorization of allotments; monthly reports of expenditures to Congressional committees; restriction on use of funds; nutrition education improvements__ 
 
-        (1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2012. Not to exceed one-fourth of 1 per centum of the previous year’s appropriation is authorized in each such fiscal year to carry out the provisions of [section 2026 of this title][/us/usc/t7/s2026], subject to paragraph (3).
+        (1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2018. Not to exceed one-fourth of 1 per centum of the previous year’s appropriation is authorized in each such fiscal year to carry out the provisions of [section 2026 of this title][/us/usc/t7/s2026], subject to paragraph (3).
 
         (2) No funds authorized to be appropriated under this chapter or any other Act of Congress shall be used by any person, firm, corporation, group, or organization at any time, directly or indirectly, to interfere with or impede the implementation of any provision of this chapter or any rule, regulation, or project thereunder, except that this limitation shall not apply to the provision of legal and related assistance in connection with any proceeding or action before any State or Federal agency or court. The President shall ensure that this paragraph is complied with by such order or other means as the President deems appropriate.
 
@@ -51,13 +51,33 @@
 
     (e) __Disposition of funds collected pursuant to claims__ 
 
-        Funds collected from claims against households or State agencies, including claims collected pursuant to sections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  2016(f)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title, subsections (g) and (h) of [section 2020 of this title][/us/usc/t7/s2020], subsections (b) and (c) of [section 2022 of this title][/us/usc/t7/s2022], and [section 2025(c)(1) of this title][/us/usc/t7/s2025/c/1], claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under [section 2025(c) of this title][/us/usc/t7/s2025/c] shall be paid from the appropriation account for the fiscal year in which the funds are provided.
+        Funds collected from claims against households or State agencies, including claims collected pursuant to section 2016(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, subsections (g) and (h) of [section 2020 of this title][/us/usc/t7/s2020], subsections (b) and (c) of [section 2022 of this title][/us/usc/t7/s2022], and [section 2025(c)(1) of this title][/us/usc/t7/s2025/c/1], claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under [section 2025(c) of this title][/us/usc/t7/s2025/c] shall be paid from the appropriation account for the fiscal year in which the funds are provided.
 
     (f) __Transfer of funds__ 
 
         No funds appropriated to carry out this chapter may be transferred to the Office of the Inspector General, or the Office of the General Counsel, of the Department of Agriculture.
 
-([Pub. L. 88–525, § 18][/us/pl/88/525/s18], as added [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 979][/us/stat/91/979]; amended [Pub. L. 96–58, § 1][/us/pl/96/58/s1], Aug. 14, 1979, [93 Stat. 389][/us/stat/93/389]; [Pub. L. 96–249, title I, § 134][/us/pl/96/249/s134], title II, § 201, May 26, 1980, [94 Stat. 368][/us/stat/94/368], 370; [Pub. L. 97–18, § 1][/us/pl/97/18/s1], June 30, 1981, [95 Stat. 102][/us/stat/95/102]; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1331, 1332, Dec. 22, 1981, [95 Stat. 1291][/us/stat/95/1291]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 180(b)(2), 183, Sept. 8, 1982, [96 Stat. 784][/us/stat/96/784], 785; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1535(c)(2), 1541, 1542(a), Dec. 23, 1985, [99 Stat. 1585][/us/stat/99/1585], 1589; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1760, 1761, Nov. 28, 1990, [104 Stat. 3803][/us/stat/104/3803], 3804; [Pub. L. 104–127, title IV, § 401(e)][/us/pl/104/127/s401/e], Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 104–193, title VIII, § 853][/us/pl/104/193/s853], Aug. 22, 1996, [110 Stat. 2339][/us/stat/110/2339]; [Pub. L. 105–362, title I, § 101(b)][/us/pl/105/362/s101/b], Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281]; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4118(c), 4122(c), May 13, 2002, [116 Stat. 321][/us/stat/116/321], 324; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1095, 1140, 1213; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1856, 1902, 1974.)
+    (g) __Ban on recruitment and promotion activities__ 
+
+        (1) __In general__ 
+
+        Except as provided in paragraph (2), no funds authorized to be appropriated under this chapter shall be used by the Secretary for—
+
+            (A) recruitment activities designed to persuade an individual to apply for supplemental nutrition assistance program benefits;
+
+            (B) television, radio, or billboard advertisements that are designed to promote supplemental nutrition assistance program benefits and enrollment; or
+
+            (C) any agreements with foreign governments designed to promote supplemental nutrition assistance program benefits and enrollment.
+
+        (2) __Limitation__ 
+
+            Paragraph (1)(B) shall not apply to programmatic activities undertaken with respect to benefits made under [section 2014(h) of this title][/us/usc/t7/s2014/h].
+
+    (h) __Ban on recruitment by entities that receive funds__ 
+
+        The Secretary shall issue regulations that prohibit entities that receive funds under this chapter to compensate any person for conducting outreach activities relating to participation in, or for recruiting individuals to apply to receive benefits under, the supplemental nutrition assistance program, if the amount of the compensation would be based on the number of individuals who apply to receive the benefits.
+
+([Pub. L. 88–525, § 18][/us/pl/88/525/s18], as added [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 979][/us/stat/91/979]; amended [Pub. L. 96–58, § 1][/us/pl/96/58/s1], Aug. 14, 1979, [93 Stat. 389][/us/stat/93/389]; [Pub. L. 96–249, title I, § 134][/us/pl/96/249/s134], title II, § 201, May 26, 1980, [94 Stat. 368][/us/stat/94/368], 370; [Pub. L. 97–18, § 1][/us/pl/97/18/s1], June 30, 1981, [95 Stat. 102][/us/stat/95/102]; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1331, 1332, Dec. 22, 1981, [95 Stat. 1291][/us/stat/95/1291]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 180(b)(2), 183, Sept. 8, 1982, [96 Stat. 784][/us/stat/96/784], 785; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1535(c)(2), 1541, 1542(a), Dec. 23, 1985, [99 Stat. 1585][/us/stat/99/1585], 1589; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1760, 1761, Nov. 28, 1990, [104 Stat. 3803][/us/stat/104/3803], 3804; [Pub. L. 104–127, title IV, § 401(e)][/us/pl/104/127/s401/e], Apr. 4, 1996, [110 Stat. 1026][/us/stat/110/1026]; [Pub. L. 104–193, title VIII, § 853][/us/pl/104/193/s853], Aug. 22, 1996, [110 Stat. 2339][/us/stat/110/2339]; [Pub. L. 105–362, title I, § 101(b)][/us/pl/105/362/s101/b], Nov. 10, 1998, [112 Stat. 3281][/us/stat/112/3281]; [Pub. L. 107–171, title IV][/us/pl/107/171], §§ 4118(c), 4122(c), May 13, 2002, [116 Stat. 321][/us/stat/116/321], 324; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1095, 1140, 1213; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1856, 1902, 1974; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4018(b), (c), 4024, 4030(j), Feb. 7, 2014, [128 Stat. 797][/us/stat/128/797], 809, 814.)
 
  __References in Text__ 
 
@@ -68,6 +88,14 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–79, § 4024][/us/pl/113/79/s4024], substituted “through 2018” for “through 2012”.
+
+    Subsec. (e). [Pub. L. 113–79, § 4030(j)][/us/pl/113/79/s4030/j], substituted “[section 2016(f) of this title][/us/usc/t7/s2016/f]” for “sections 2016(f) of this title”.
+
+    Subsec. (g). [Pub. L. 113–79, § 4018(b)][/us/pl/113/79/s4018/b], added subsec. (g).
+
+    Subsec. (h). [Pub. L. 113–79, § 4018(c)][/us/pl/113/79/s4018/c], added subsec. (h).
 
     2008—Subsec. (a)(1). [Pub. L. 110–246, § 4406(a)(1)][/us/pl/110/246/s4406/a/1], substituted “for each of fiscal years 2008 through 2012” for “for each of the fiscal years 2003 through 2007”.
 
@@ -179,6 +207,7 @@
 [/us/usc/t7/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022
 [/us/usc/t7/s2025/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1
 [/us/usc/t7/s2025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc
+[/us/usc/t7/s2014/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014%2Fh
 [/us/pl/88/525/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs18
 [/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
 [/us/stat/91/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F979
@@ -208,6 +237,8 @@
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F797
 [/us/usc/t7/s2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016
 [/us/pl/110/246/s4115/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fa%2F12
 [/us/stat/122/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1866
@@ -215,6 +246,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4024
+[/us/pl/113/79/s4030/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fj
+[/us/usc/t7/s2016/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016%2Ff
+[/us/pl/113/79/s4018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4018%2Fb
+[/us/pl/113/79/s4018/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4018%2Fc
 [/us/pl/110/246/s4406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4406%2Fa%2F1
 [/us/pl/110/246/s4002/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fa%2F10
 [/us/pl/110/246/s7101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7101%2Fb%2F3

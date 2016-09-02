@@ -25,6 +25,10 @@
 
             The information and guidelines contained in each report required under paragraph (1) shall be based on the preponderance of the scientific and medical knowledge which is current at the time the report is prepared.
 
+        (3) __Pregnant women and young children__ 
+
+            Not later than the 2020 report and in each report thereafter, the Secretaries shall include national nutritional and dietary information and guidelines for pregnant women and children from birth until the age of 2.
+
     (b) __Approval by Secretaries__ 
 
         (1) __Review__ 
@@ -77,11 +81,15 @@
 
         (3) the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\].
 
-([Pub. L. 101–445, title III, § 301][/us/pl/101/445/s301], Oct. 22, 1990, [104 Stat. 1042][/us/stat/104/1042].)
+([Pub. L. 101–445, title III, § 301][/us/pl/101/445/s301], Oct. 22, 1990, [104 Stat. 1042][/us/stat/104/1042]; [Pub. L. 113–79, title IV, § 4204][/us/pl/113/79/s4204], Feb. 7, 2014, [128 Stat. 822][/us/stat/128/822].)
 
  __References in Text__ 
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(3). [Pub. L. 113–79][/us/pl/113/79] added par. (3).
 
 ----------
 
@@ -93,8 +101,11 @@
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/pl/101/445/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F445%2Fs301
 [/us/stat/104/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1042
+[/us/pl/113/79/s4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4204
+[/us/stat/128/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F822
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 
 

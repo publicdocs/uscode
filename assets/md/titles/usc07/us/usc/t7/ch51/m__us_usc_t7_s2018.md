@@ -17,7 +17,7 @@
 
     (a) __Applications; qualifications; certificate of approval; periodic reauthorization__ 
 
-        (1) Regulations issued pursuant to this chapter shall provide for the submission of applications for approval by retail food stores and wholesale food concerns which desire to be authorized to accept and redeem benefits under the supplemental nutrition assistance program and for the approval of those applicants whose participation will effectuate the purposes of the supplemental nutrition assistance program. In determining the qualifications of applicants, there shall be considered among such other factors as may be appropriate, the following: (A) the nature and extent of the food business conducted by the applicant; (B) the volume of benefit transactions which may reasonably be expected to be conducted by the applicant food store or wholesale food concern; and (C) the business integrity and reputation of the applicant. Approval of an applicant shall be evidenced by the issuance to such applicant of a nontransferable certificate of approval. No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
+        (1) Regulations issued pursuant to this chapter shall provide for the submission of applications for approval by retail food stores and wholesale food concerns which desire to be authorized to accept and redeem benefits under the supplemental nutrition assistance program and for the approval of those applicants whose participation will effectuate the purposes of the supplemental nutrition assistance program. In determining the qualifications of applicants, there shall be considered among such other factors as may be appropriate, the following: (A) the nature and extent of the food business conducted by the applicant; (B) the volume of benefit transactions which may reasonably be expected to be conducted by the applicant food store or wholesale food concern; (C) whether the applicant is located in an area with significantly limited access to food; and (D) the business integrity and reputation of the applicant. Approval of an applicant shall be evidenced by the issuance to such applicant of a nontransferable certificate of approval. No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
 
         (2)
 
@@ -43,7 +43,7 @@
 
     (c) __Information submitted by applicants; safeguards; disclosure to and use by State agencies__ 
 
-        Regulations issued pursuant to this chapter shall require an applicant retail food store or wholesale food concern to submit information, which may include relevant income and sales tax filing documents, which will permit a determination to be made as to whether such applicant qualifies, or continues to qualify, for approval under the provisions of this chapter or the regulations issued pursuant to this chapter. The regulations may require retail food stores and wholesale food concerns to provide written authorization for the Secretary to verify all relevant tax filings with appropriate agencies and to obtain corroborating documentation from other sources so that the accuracy of information provided by the stores and concerns may be verified. Regulations issued pursuant to this chapter shall provide for safeguards which limit the use or disclosure of information obtained under the authority granted by this subsection to purposes directly connected with administration and enforcement of the provisions of this chapter or the regulations issued pursuant to this chapter, except that such information may be disclosed to and used by Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and State agencies that administer the special supplemental nutrition program for women, infants and children, authorized under section 17 of the Child Nutrition Act of 1966 \[[42 U.S.C. 1786][/us/usc/t42/s1786]\], for purposes of administering the provisions of that Act \[[42 U.S.C. 1771][/us/usc/t42/s1771] et seq.\] and the regulations issued under that Act. Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
+        Regulations issued pursuant to this chapter shall require an applicant retail food store or wholesale food concern to submit information, which may include relevant income and sales tax filing documents, purchase invoices, or program-related records, which will permit a determination to be made as to whether such applicant qualifies, or continues to qualify, for approval under the provisions of this chapter or the regulations issued pursuant to this chapter. The regulations may require retail food stores and wholesale food concerns to provide written authorization for the Secretary to verify all relevant tax filings with appropriate agencies and to obtain corroborating documentation from other sources so that the accuracy of information provided by the stores and concerns may be verified. Regulations issued pursuant to this chapter shall provide for safeguards which limit the use or disclosure of information obtained under the authority granted by this subsection to purposes directly connected with administration and enforcement of the provisions of this chapter or the regulations issued pursuant to this chapter, except that such information may be disclosed to and used by Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and State agencies that administer the special supplemental nutrition program for women, infants and children, authorized under section 17 of the Child Nutrition Act of 1966 \[[42 U.S.C. 1786][/us/usc/t42/s1786]\], for purposes of administering the provisions of that Act \[[42 U.S.C. 1771][/us/usc/t42/s1771] et seq.\] and the regulations issued under that Act. Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
 
     (d) __Hearing upon failure of applicant to receive approval; waiting period for new application__ 
 
@@ -57,7 +57,31 @@
 
         In those areas in which the Secretary, in consultation with the Inspector General of the Department of Agriculture, finds evidence that the operation of house-to-house trade routes damages the program’s integrity, the Secretary shall limit the participation of house-to-house trade routes to those routes that are reasonably necessary to provide adequate access to households.
 
-([Pub. L. 88–525, § 9][/us/pl/88/525/s9], Aug. 31, 1964, [78 Stat. 705][/us/stat/78/705]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 968][/us/stat/91/968]; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1313, 1314, Dec. 22, 1981, [95 Stat. 1285][/us/stat/95/1285]; [Pub. L. 97–253, title I, § 165][/us/pl/97/253/s165], Sept. 8, 1982, [96 Stat. 779][/us/stat/96/779]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1521, 1532(b), Dec. 23, 1985, [99 Stat. 1579][/us/stat/99/1579], 1583; [Pub. L. 99–570, title XI, § 11002(d)][/us/pl/99/570/s11002/d], Oct. 27, 1986, [100 Stat. 3207–168][/us/stat/100/3207-168]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1733, 1734, Nov. 28, 1990, [104 Stat. 3791][/us/stat/104/3791]; [Pub. L. 102–237, title IX, § 941(4)][/us/pl/102/237/s941/4], Dec. 13, 1991, [105 Stat. 1892][/us/stat/105/1892]; [Pub. L. 103–225, title II][/us/pl/103/225], §§ 202, 203, Mar. 25, 1994, [108 Stat. 108][/us/stat/108/108]; [Pub. L. 103–448, title II, § 204(w)(2)(A)][/us/pl/103/448/s204/w/2/A], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 831–834, Aug. 22, 1996, [110 Stat. 2328][/us/stat/110/2328]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1093, 1106; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1854, 1868.)
+    (g) __EBT service requirement__ 
+
+        An approved retail food store shall provide adequate EBT service as described in [section 2016(h)(3)(B) of this title][/us/usc/t7/s2016/h/3/B].
+
+    (h) __Private establishments__ 
+
+        (1) __In general__ 
+
+            Subject to paragraph (2), no private establishment that contracts with a State agency to offer meals at concessional prices as described in paragraphs (3), (4), and (9) of [section 2012(k) of this title][/us/usc/t7/s2012/k] may be authorized to accept and redeem benefits unless the Secretary determines that the participation of the private establishment is required to meet a documented need in accordance with [section 2020(e)(25) of this title][/us/usc/t7/s2020/e/25].
+
+        (2) __Existing contracts__ 
+
+            (A) __In general__ 
+
+                If, on the day before February 7, 2014, a State has entered into a contract with a private establishment described in paragraph (1) and the Secretary has not determined that the participation of the private establishment is necessary to meet a documented need in accordance with [section 2020(e)(25) of this title][/us/usc/t7/s2020/e/25], the Secretary shall allow the operation of the private establishment to continue without that determination of need for a period not to exceed 180 days from the date on which the Secretary establishes determination criteria, by regulation, under [section 2020(e)(25) of this title][/us/usc/t7/s2020/e/25].
+
+            (B) __Justification__ 
+
+                If the Secretary determines to terminate a contract with a private establishment that is in effect on February 7, 2014, the Secretary shall provide justification to the State in which the private establishment is located for that termination.
+
+        (3) __Report to Congress__ 
+
+            Not later than 90 days after September 30, 2014, and 90 days after the last day of each fiscal year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the effectiveness of a program under this subsection using any information received from States under [section 2020(e)(25) of this title][/us/usc/t7/s2020/e/25] as well as any other information the Secretary may have relating to the manner in which benefits are used.
+
+([Pub. L. 88–525, § 9][/us/pl/88/525/s9], Aug. 31, 1964, [78 Stat. 705][/us/stat/78/705]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 968][/us/stat/91/968]; [Pub. L. 97–98, title XIII][/us/pl/97/98], §§ 1313, 1314, Dec. 22, 1981, [95 Stat. 1285][/us/stat/95/1285]; [Pub. L. 97–253, title I, § 165][/us/pl/97/253/s165], Sept. 8, 1982, [96 Stat. 779][/us/stat/96/779]; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1521, 1532(b), Dec. 23, 1985, [99 Stat. 1579][/us/stat/99/1579], 1583; [Pub. L. 99–570, title XI, § 11002(d)][/us/pl/99/570/s11002/d], Oct. 27, 1986, [100 Stat. 3207–168][/us/stat/100/3207-168]; [Pub. L. 101–624, title XVII][/us/pl/101/624], §§ 1733, 1734, Nov. 28, 1990, [104 Stat. 3791][/us/stat/104/3791]; [Pub. L. 102–237, title IX, § 941(4)][/us/pl/102/237/s941/4], Dec. 13, 1991, [105 Stat. 1892][/us/stat/105/1892]; [Pub. L. 103–225, title II][/us/pl/103/225], §§ 202, 203, Mar. 25, 1994, [108 Stat. 108][/us/stat/108/108]; [Pub. L. 103–448, title II, § 204(w)(2)(A)][/us/pl/103/448/s204/w/2/A], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title VIII][/us/pl/104/193], §§ 831–834, Aug. 22, 1996, [110 Stat. 2328][/us/stat/110/2328]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, [122 Stat. 1092][/us/stat/122/1092], 1093, 1106; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1853, 1854, 1868; [Pub. L. 113–79, title IV][/us/pl/113/79], §§ 4002(e), 4014(b), 4030(f), Feb. 7, 2014, [128 Stat. 784][/us/stat/128/784], 794, 814.)
 
  __References in Text__ 
 
@@ -68,6 +92,16 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–79, § 4002(e)(1)][/us/pl/113/79/s4002/e/1], substituted “; (C) whether the applicant is located in an area with significantly limited access to food; and (D)” for “; and (C)”.
+
+    Subsec. (a)(3). [Pub. L. 113–79, § 4030(f)][/us/pl/113/79/s4030/f], realigned margins.
+
+    Subsec. (c). [Pub. L. 113–79, § 4002(e)(2)][/us/pl/113/79/s4002/e/2], inserted “purchase invoices, or program-related records,” after “relevant income and sales tax filing documents,”.
+
+    Subsec. (g). [Pub. L. 113–79, § 4002(e)(3)][/us/pl/113/79/s4002/e/3], added subsec. (g).
+
+    Subsec. (h). [Pub. L. 113–79, § 4014(b)][/us/pl/113/79/s4014/b], added subsec. (h).
 
     2008—Subsec. (a)(1). [Pub. L. 110–246, § 4115(b)(6)(A)][/us/pl/110/246/s4115/b/6/A], (B)(i), substituted “benefit transactions” for “coupon business” and “benefits” for “coupons”.
 
@@ -173,6 +207,12 @@
 [/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t7/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2023
+[/us/usc/t7/s2016/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016%2Fh%2F3%2FB
+[/us/usc/t7/s2012/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fk
+[/us/usc/t7/s2020/e/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F25
+[/us/usc/t7/s2020/e/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F25
+[/us/usc/t7/s2020/e/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F25
+[/us/usc/t7/s2020/e/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2020%2Fe%2F25
 [/us/pl/88/525/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525%2Fs9
 [/us/stat/78/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F705
 [/us/pl/95/113/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1301
@@ -199,6 +239,8 @@
 [/us/stat/122/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1092
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F784
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
@@ -206,6 +248,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s4002/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4002%2Fe%2F1
+[/us/pl/113/79/s4030/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Ff
+[/us/pl/113/79/s4002/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4002%2Fe%2F2
+[/us/pl/113/79/s4002/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4002%2Fe%2F3
+[/us/pl/113/79/s4014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4014%2Fb
 [/us/pl/110/246/s4115/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F6%2FA
 [/us/pl/110/246/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4001%2Fb
 [/us/pl/110/246/s4115/b/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F6%2FB%2Fii

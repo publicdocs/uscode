@@ -37,6 +37,26 @@
 
     Prior to July 1, 1939, functions of Secretary of the Interior under this subchapter were carried out through Office of Education of Department of the Interior. Office of Education and its functions transferred to Federal Security Administrator by section 204 of 1939 Reorg. Plan No. 1, set out in the Appendix to Title 5.
 
+ __Designation of Central State University as 1890 Institution__ 
+
+[Pub. L. 113–79, title VII, § 7129][/us/pl/113/79/s7129], Feb. 7, 2014, [128 Stat. 880][/us/stat/128/880], provided that:
+
+>     “(a)  __Designation__  __.—__ 
+
+>     Any provision of a Federal law relating to colleges and universities eligible to receive funds under the Act of August 30, 1890 ([7 U.S.C. 321][/us/usc/t7/s321] et seq.), including Tuskegee University, shall apply to Central State University.
+
+>     “(b)  __Funding Restriction__  __.—__ 
+
+>     Notwithstanding the designation under subsection (a), for fiscal years 2014 and 2015, Central State University shall not be eligible to receive formula funds under—
+
+>         “(1) section 1444 or 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3221][/us/usc/t7/s3221] and 3222);
+
+>         “(2) section 3(d) of the Smith-Lever Act ([7 U.S.C. 343(d)][/us/usc/t7/s343/d]) to carry out the national education program established under section 1425 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3175][/us/usc/t7/s3175]);
+
+>         “(3) the Renewable Resources Extension Act of 1978 ([16 U.S.C. 1671][/us/usc/t16/s1671] et seq.); or
+
+>         “(4) [Public Law 87–788][/us/pl/87/788] (commonly known as the McIntire-Stennis Cooperative Forestry Act; [16 U.S.C. 582a][/us/usc/t16/s582a] et seq.).”
+
  __West Virginia State College at Institute, West Virginia__ 
 
 [Pub. L. 107–76, title VII, § 753][/us/pl/107/76/s753], Nov. 28, 2001, [115 Stat. 740][/us/stat/115/740], provided that: 
@@ -62,6 +82,15 @@
 [/us/pl/97/98/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1419
 [/us/pl/96/88/s301/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F2%2FE
 [/us/usc/t20/s3441/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3441%2Fa%2F2%2FE
+[/us/pl/113/79/s7129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7129
+[/us/stat/128/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F880
+[/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
+[/us/usc/t7/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3221
+[/us/usc/t7/s343/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343%2Fd
+[/us/usc/t7/s3175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175
+[/us/usc/t16/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1671
+[/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
+[/us/usc/t16/s582a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a
 [/us/pl/107/76/s753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F76%2Fs753
 [/us/stat/115/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F740
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321

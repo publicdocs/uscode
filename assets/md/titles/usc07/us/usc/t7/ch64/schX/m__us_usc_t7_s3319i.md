@@ -57,13 +57,17 @@
 
     (b) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2012.
+        There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2018.
 
-([Pub. L. 95–113, title XIV, § 1473F][/us/pl/95/113/s1473F], as added [Pub. L. 110–234, title VII, § 7138][/us/pl/110/234/s7138], May 22, 2008, [122 Stat. 1230][/us/stat/122/1230], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7138, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1991.)
+([Pub. L. 95–113, title XIV, § 1473F][/us/pl/95/113/s1473F], as added [Pub. L. 110–234, title VII, § 7138][/us/pl/110/234/s7138], May 22, 2008, [122 Stat. 1230][/us/stat/122/1230], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7138, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1991; amended [Pub. L. 113–79, title VII, § 7123][/us/pl/113/79/s7123], Feb. 7, 2014, [128 Stat. 876][/us/stat/128/876].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
+
+ __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
  __Effective Date__ 
 
@@ -81,10 +85,13 @@
 [/us/stat/122/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1230
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7123
+[/us/stat/128/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F876
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

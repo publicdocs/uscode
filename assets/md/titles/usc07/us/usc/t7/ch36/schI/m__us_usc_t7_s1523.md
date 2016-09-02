@@ -19,7 +19,7 @@
 
         (1) __Authority__ 
 
-            Except as otherwise provided in this section, the Corporation may conduct a pilot program submitted to and approved by the Board under [section 1508(h) of this title][/us/usc/t7/s1508/h], or that is developed under subsection (b) of this section or [section 1522 of this title][/us/usc/t7/s1522], to evaluate whether a proposal or new risk management tool tested by the pilot program is suitable for the marketplace and addresses the needs of producers of agricultural commodities.
+            Except as otherwise provided in this section, the Corporation may, at the sole discretion of the Corporation, conduct a pilot program submitted to and approved by the Board under [section 1508(h) of this title][/us/usc/t7/s1508/h], or that is developed under subsection (b) of this section or [section 1522 of this title][/us/usc/t7/s1522], to evaluate whether a proposal or new risk management tool tested by the pilot program is suitable for the marketplace and addresses the needs of producers of agricultural commodities.
 
         (2) __Private coverage__ 
 
@@ -62,16 +62,6 @@
                 (i) to receive a reduced premium for using whole farm units or single crop units of insurance; and
 
                 (ii) to cross State and county boundaries to form insurable units.
-
-        (5) __Evaluation__ 
-
-            (A) __Requirement__ 
-
-                After the completion of any pilot program under this section, the Corporation shall evaluate the pilot program and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the operations of the pilot program.
-
-            (B) __Evaluation and recommendations__ 
-
-                The report shall include an evaluation by the Corporation of the pilot program and the recommendations of the Corporation with respect to implementing the program on a national basis.
 
     (b) __Livestock pilot programs__ 
 
@@ -129,7 +119,7 @@
 
         (1) __In general__ 
 
-            Subject to [section 1522(e)(4) of this title][/us/usc/t7/s1522/e/4], the Secretary shall carry out a pilot program in a limited number of counties, as determined by the Secretary, for crop years 1997 through 2001, under which a producer of wheat, feed grains, soybeans, or such other commodity as the Secretary considers appropriate may elect to receive insurance against loss of revenue, as determined by the Secretary.
+            Subject to [section 1522(e)(4) of this title][/us/usc/t7/s1522/e/4], <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary shall carry out a pilot program in a limited number of counties, as determined by the Secretary, for crop years 1997 through 2001, under which a producer of wheat, feed grains, soybeans, or such other commodity as the Secretary considers appropriate may elect to receive insurance against loss of revenue, as determined by the Secretary.
 
         (2) __Administration__ 
 
@@ -273,9 +263,131 @@
 
             The Corporation shall commence the grass seed insurance pilot program as soon as practicable after the date of the enactment of this subsection.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 523, as added [Pub. L. 106–224, title I, § 132(a)][/us/pl/106/224/s132/a], June 20, 2000, [114 Stat. 383][/us/stat/114/383]; amended [Pub. L. 107–171, title X, § 10004][/us/pl/107/171/s10004], May 13, 2002, [116 Stat. 487][/us/stat/116/487]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12025(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1389][/us/stat/122/1389], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12025(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2151, 2167.)
+    (i) __Underserved crops and regions pilot programs__ 
+
+        (1) __Definition of livestock commodity__ 
+
+            In this subsection, the term “livestock commodity” includes cattle, sheep, swine, goats, and poultry, including pasture, rangeland, and forage as a source of feed for that livestock.
+
+        (2) __Authorization__ 
+
+            Notwithstanding subsection (a)(2), the Corporation may conduct 2 or more pilot programs to provide producers of underserved specialty crops and livestock commodities with index-based weather insurance, subject to the requirements of this section.
+
+        (3) __Review and approval of submissions__ 
+
+            (A) __In general__ 
+
+                The Board shall approve 2 or more proposed policies or plans of insurance from approved insurance providers if the Board determines that the policies or plans provide coverage as specified in paragraph (2), and meet the conditions described in this paragraph
+
+            (B) __Requirements__ 
+
+            To be eligible for approval under this subsection, the approved insurance provider shall have—
+
+                (i) adequate experience underwriting and administering policies or plans of insurance that are comparable to the proposed policy or plan of insurance;
+
+                (ii) sufficient assets or reinsurance to satisfy the underwriting obligations of the approved insurance provider, and possess a sufficient insurance credit rating from an appropriate credit rating bureau, in accordance with Board procedures; and
+
+                (iii) applicable authority and approval from each State in which the approved insurance provider intends to sell the insurance product.
+
+            (C) __Review requirements__ 
+
+                In reviewing applications under this subsection, the Board shall conduct the review in a manner consistent with the standards, rules, and procedures for policies or plans of insurance submitted under [section 1508(h) of this title][/us/usc/t7/s1508/h] and the actuarial soundness requirements applied to other policies and plans of insurance made available under this subchapter.
+
+            (D) __Prioritization__ 
+
+                The Board shall prioritize applications that provide a new kind of coverage for specialty crops and livestock commodities that previously had no available crop insurance, or has demonstrated a low level of participation under existing coverage.
+
+        (4) __Payment of premium support__ 
+
+            (A) __In general__ 
+
+                The Corporation shall pay a portion of the premium for producers that purchase a policy or plan of insurance approved pursuant to this subsection.
+
+            (B) __Amount__ 
+
+                The premium subsidy shall provide a similar dollar amount of premium subsidy per acre that the Corporation pays for comparable policies or plans of insurance reinsured under this subchapter, except that in no case shall the premium subsidy exceed 60 percent of total premium, as determined by the Corporation.
+
+            (C) __Calculation__ 
+
+            The premium subsidy, as determined by the Corporation, shall be calculated as—
+
+                (i) a percentage of premium;
+
+                (ii) a percentage of expected loss determined pursuant to a reasonable actuarial methodology; or
+
+                (iii) a fixed dollar amount per acre.
+
+            (D) __Payment__ 
+
+                Subject to subparagraphs (B) and (C), the premium subsidy under this subsection shall be paid by the Corporation in the same manner and under the same terms and conditions as premium subsidy for other policies and plans of insurance.
+
+            (E) __Operating and administrative expense payments__ 
+
+                (i) __In general__ 
+
+                    Subject to clause (ii), operating and administrative expense payments may be made for policies and plans of insurance approved under this subsection in an amount that is commensurate with similar policies and plans of insurance reinsured under this subchapter, on the condition that the operating and administrative expenses are not included in premiums.
+
+                (ii) __Limitation__ 
+
+                    Subject to subparagraph (F)(i), Federal reinsurance, research and development costs, other reimbursements, or maintenance fees shall not be provided or collected for policies and plans of insurance approved under this subsection.
+
+            (F) __Approved insurance providers__ 
+
+            Any policy or plan of insurance approved under this subsection may be sold only by the approved insurance provider that submits the application and by any additional approved insurance provider that—
+
+                (i) agrees to pay maintenance fees or other payments to the approved insurance provider that submitted the application in an amount agreed to by the applicant and the additional approved insurance provider, on the condition that the fees or payments shall be reasonable and appropriate to ensure that the policies or plans of insurance may be made available by additional approved insurance providers; and
+
+                (ii) meets the eligibility criteria of paragraph (3)(B), as determined by the Board.
+
+            (G) __Relationship to other provisions__ 
+
+                The requirements of this paragraph shall apply notwithstanding paragraph (6).
+
+        (5) __Oversight__ 
+
+        The Corporation shall develop and publish procedures to administer policies or plans of insurance approved under this subsection that—
+
+            (A) require each approved insurance provider to report sales, acreage and claim data, and any other data that the Corporation determines to be appropriate, to allow the Corporation to evaluate sales and performance of the product; and
+
+            (B)
+
+             contain such other requirements as the Corporation determines necessary to ensure that the products—
+
+                (i) do not have a significant adverse impact on the crop insurance delivery system;
+
+                (ii) are in the best interests of producers; and
+
+                (iii) do not result in a reduction of program integrity.
+
+        (6) __Confidentiality__ 
+
+            (A) __In general__ 
+
+                All reports required under paragraph (5) and all other proprietary information and data generated or derived from applicants under this subsection shall be considered to be confidential commercial or financial information for the purposes of [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4].
+
+            (B) __Standard__ 
+
+                If information concerning a proposal could be withheld by the Secretary under the standard for privileged or confidential information pertaining to trade secrets and commercial or financial information under [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4], the information shall not be released to the public.
+
+        (7) __Ineligible purposes__ 
+
+            In no case shall a policy or plan of insurance made available under this subsection provide coverage substantially similar to privately available hail insurance.
+
+        (8) __Funding__ 
+
+            (A) __Limitation on expenditures__ 
+
+                Notwithstanding any other provision in this subsection, of the funds of the Corporation, the Corporation shall use to carry out this section not more than $12,500,000 for each of fiscal years 2015 through 2018, to remain available until expended.
+
+            (B) __Relation to other programs__ 
+
+                The amount of funds made available under this section shall be in addition to amounts made available under other provisions of this subchapter, including amounts made available under subsection (b).
+
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 523, as added [Pub. L. 106–224, title I, § 132(a)][/us/pl/106/224/s132/a], June 20, 2000, [114 Stat. 383][/us/stat/114/383]; amended [Pub. L. 107–171, title X, § 10004][/us/pl/107/171/s10004], May 13, 2002, [116 Stat. 487][/us/stat/116/487]; [Pub. L. 110–234, title XII][/us/pl/110/234], §§ 12025(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1389][/us/stat/122/1389], 1405; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, §§ 12025(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2151, 2167; [Pub. L. 113–79, title XI][/us/pl/113/79], §§ 11025, 11026, Feb. 7, 2014, [128 Stat. 974][/us/stat/128/974].)
 
  __References in Text__ 
+
+    [Section 1522(e)(4) of this title][/us/usc/t7/s1522/e/4], referred to in subsec. (c)(1), was repealed by [Pub. L. 113–79, title XI, § 11022(b)(3)][/us/pl/113/79/s11022/b/3], Feb. 7, 2014, [128 Stat. 973][/us/stat/128/973].
 
     The date of enactment of this subsection, referred to in subsecs. (f)(3), (g)(4), and (h)(4), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
@@ -284,6 +396,12 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–79, § 11025(1)][/us/pl/113/79/s11025/1], inserted “, at the sole discretion of the Corporation,” after “the Corporation may”.
+
+    Subsec. (a)(5). [Pub. L. 113–79, § 11025(2)][/us/pl/113/79/s11025/2], struck out par. (5) which related to evaluation of the pilot program.
+
+    Subsec. (i). [Pub. L. 113–79, § 11026][/us/pl/113/79/s11026], added subsec. (i).
 
     2008—Subsecs. (a), (b), (d). [Pub. L. 110–246, § 12033(c)(2)(B)][/us/pl/110/246/s12033/c/2/B], substituted “this subchapter” for “this chapter” wherever appearing.
 
@@ -316,6 +434,9 @@
 [/us/usc/t7/s1522/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1522%2Fe%2F4
 [/us/usc/t7/s1508/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fh
 [/us/usc/t7/s1508/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fh
+[/us/usc/t7/s1508/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1508%2Fh
+[/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
+[/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/pl/106/224/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs132%2Fa
 [/us/stat/114/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F383
@@ -325,11 +446,19 @@
 [/us/stat/122/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1389
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F974
+[/us/usc/t7/s1522/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1522%2Fe%2F4
+[/us/pl/113/79/s11022/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11022%2Fb%2F3
+[/us/stat/128/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F973
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s11025/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11025%2F1
+[/us/pl/113/79/s11025/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11025%2F2
+[/us/pl/113/79/s11026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs11026
 [/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
 [/us/pl/110/246/s12033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12033%2Fc%2F2%2FB
 [/us/pl/110/246/s12025/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12025%2Fa

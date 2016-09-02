@@ -151,7 +151,11 @@
 
                 (iv) the form can be completed and processed in an expeditious manner.
 
-([Pub. L. 87–128, title III, § 333A][/us/pl/87/128/s333A], as added [Pub. L. 99–198, title XIII, § 1312(a)][/us/pl/99/198/s1312/a], Dec. 23, 1985, [99 Stat. 1524][/us/stat/99/1524]; amended [Pub. L. 101–624, title XVIII, § 1811][/us/pl/101/624/s1811], title XXIII, § 2388(f), Nov. 28, 1990, [104 Stat. 3821][/us/stat/104/3821], 4053; [Pub. L. 102–554][/us/pl/102/554], §§ 13–15, Oct. 28, 1992, [106 Stat. 4152][/us/stat/106/4152], 4153; [Pub. L. 104–127, title VI, § 637][/us/pl/104/127/s637], Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093]; [Pub. L. 107–171, title V, § 5307][/us/pl/107/171/s5307], title VI, § 6019, May 13, 2002, [116 Stat. 345][/us/stat/116/345], 362; [Pub. L. 110–234, title VI, § 6012(b)(3)][/us/pl/110/234/s6012/b/3], May 22, 2008, [122 Stat. 1165][/us/stat/122/1165]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6012(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1927.)
+    (h) __Simplified application forms__ 
+
+        Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1932(f), 1936b, 2008p, and 2008s of this title.
+
+([Pub. L. 87–128, title III, § 333A][/us/pl/87/128/s333A], as added [Pub. L. 99–198, title XIII, § 1312(a)][/us/pl/99/198/s1312/a], Dec. 23, 1985, [99 Stat. 1524][/us/stat/99/1524]; amended [Pub. L. 101–624, title XVIII, § 1811][/us/pl/101/624/s1811], title XXIII, § 2388(f), Nov. 28, 1990, [104 Stat. 3821][/us/stat/104/3821], 4053; [Pub. L. 102–554][/us/pl/102/554], §§ 13–15, Oct. 28, 1992, [106 Stat. 4152][/us/stat/106/4152], 4153; [Pub. L. 104–127, title VI, § 637][/us/pl/104/127/s637], Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093]; [Pub. L. 107–171, title V, § 5307][/us/pl/107/171/s5307], title VI, § 6019, May 13, 2002, [116 Stat. 345][/us/stat/116/345], 362; [Pub. L. 110–234, title VI, § 6012(b)(3)][/us/pl/110/234/s6012/b/3], May 22, 2008, [122 Stat. 1165][/us/stat/122/1165]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6012(b)(3), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1927; [Pub. L. 113–79, title VI, § 6020(a)][/us/pl/113/79/s6020/a], Feb. 7, 2014, [128 Stat. 847][/us/stat/128/847].)
 
  __References in Text__ 
 
@@ -164,6 +168,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (h). [Pub. L. 113–79][/us/pl/113/79] added subsec. (h).
 
     2008—Subsec. (g)(1)(B). [Pub. L. 110–246, § 6012(b)(3)][/us/pl/110/246/s6012/b/3], substituted “1932(a)(2)(A)” for “1932(a)(1)” in introductory provisions.
 
@@ -243,6 +249,8 @@
 [/us/stat/122/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1165
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s6020/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6020%2Fa
+[/us/stat/128/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F847
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t7/s1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1989
 [/us/pl/87/128/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs339
@@ -252,6 +260,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s6012/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6012%2Fb%2F3
 [/us/pl/107/171/s6019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6019
 [/us/pl/107/171/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5307

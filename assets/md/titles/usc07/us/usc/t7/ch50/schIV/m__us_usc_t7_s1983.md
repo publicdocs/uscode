@@ -15,31 +15,59 @@
 
 ## § 1983. Special conditions and limitations on loans
 
-    In connection with loans made or insured under this chapter, the Secretary shall require—
+    In connection with loans made or insured under this chapter, the Secretary shall—
 
-    (1) the applicant (A) to certify in writing, and the Secretary shall determine, that he is unable to obtain sufficient credit elsewhere to finance his actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time, and (B) to furnish an appropriate written financial statement;
+    (1) require the applicant (A) to certify in writing, and the Secretary shall determine, that he is unable to obtain sufficient credit elsewhere to finance his actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time, and (B) to furnish an appropriate written financial statement;
 
     (2)
 
-     except with respect to a loan under section 1926, 1932, or 1944 of this title—
+     except with respect to a loan under section 1926, 1932, or 1944 of this title, require—
 
         (A) an annual review of the credit history and business operation of the borrower; and
 
         (B) an annual review of the continued eligibility of the borrower for the loan;
 
-    (3) except for guaranteed loans, an agreement by the borrower that if at any time it shall appear to the Secretary that the borrower may be able to obtain a loan from a production credit association, a Federal land bank, or other responsible cooperative or private credit source (or, in the case of a borrower under [section 1934 of this title][/us/usc/t7/s1934], the borrower may be able to obtain a loan under [section 1922 of this title][/us/usc/t7/s1922]), at reasonable rates and terms for loans for similar purposes and periods of time, the borrower will, upon request by the Secretary, apply for and accept such loan in sufficient amount to repay the Secretary or the insured lender, or both, and to pay for any stock necessary to be purchased in a cooperative lending agency in connection with such loan;
+    (3) except for guaranteed loans, require an agreement by the borrower that if at any time it shall appear to the Secretary that the borrower may be able to obtain a loan from a production credit association, a Federal land bank, or other responsible cooperative or private credit source (or, in the case of a borrower under [section 1934 of this title][/us/usc/t7/s1934], the borrower may be able to obtain a loan under [section 1922 of this title][/us/usc/t7/s1922]), at reasonable rates and terms for loans for similar purposes and periods of time, the borrower will, upon request by the Secretary, apply for and accept such loan in sufficient amount to repay the Secretary or the insured lender, or both, and to pay for any stock necessary to be purchased in a cooperative lending agency in connection with such loan;
 
-    (4) such provision for supervision of the borrower’s operations as the Secretary shall deem necessary to achieve the objectives of the loan and protect the interests of the United States; and
+    (4) require such provision for supervision of the borrower’s operations as the Secretary shall deem necessary to achieve the objectives of the loan and protect the interests of the United States;
 
-    (5) the application of a person who is a veteran of any war, as defined in [section 101(12) of title 38][/us/usc/t38/s101/12], for a loan under subchapter I or II of this chapter to be given preference over a similar application from a person who is not a veteran of any war, if the applications are on file in a county or area office at the same time.
+    (5) require the application of a person who is a veteran of any war, as defined in [section 101(12) of title 38][/us/usc/t38/s101/12], for a loan under subchapter I or II of this chapter to be given preference over a similar application from a person who is not a veteran of any war, if the applications are on file in a county or area office at the same time; and
 
-([Pub. L. 87–128, title III, § 333][/us/pl/87/128/s333], Aug. 8, 1961, [75 Stat. 314][/us/stat/75/314]; [Pub. L. 90–488, § 12][/us/pl/90/488/s12], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 91–620, § 3][/us/pl/91/620/s3], Dec. 31, 1970, [84 Stat. 1862][/us/stat/84/1862]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 118(b), 125, 126, Aug. 30, 1972, [86 Stat. 664][/us/stat/86/664], 666; [Pub. L. 95–334, title I, § 123][/us/pl/95/334/s123], Aug. 4, 1978, [92 Stat. 428][/us/stat/92/428]; [Pub. L. 96–438, § 3(c)][/us/pl/96/438/s3/c], Oct. 13, 1980, [94 Stat. 1875][/us/stat/94/1875]; [Pub. L. 97–98, title XVI, § 1604][/us/pl/97/98/s1604], Dec. 22, 1981, [95 Stat. 1346][/us/stat/95/1346]; [Pub. L. 101–624, title XVIII, § 1810][/us/pl/101/624/s1810], title XXIII, § 2388(e), Nov. 28, 1990, [104 Stat. 3820][/us/stat/104/3820], 4053; [Pub. L. 102–237, title V, § 501(e)][/us/pl/102/237/s501/e], Dec. 13, 1991, [105 Stat. 1867][/us/stat/105/1867]; [Pub. L. 102–554, § 12][/us/pl/102/554/s12], Oct. 28, 1992, [106 Stat. 4151][/us/stat/106/4151]; [Pub. L. 103–354, title II, § 227(b)(2)][/us/pl/103/354/s227/b/2], Oct. 13, 1994, [108 Stat. 3218][/us/stat/108/3218]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 634, 635(a), 636, Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093]; [Pub. L. 107–171, title V, § 5306][/us/pl/107/171/s5306], May 13, 2002, [116 Stat. 345][/us/stat/116/345].)
+    (6)
+
+     in the case of water and waste disposal direct and guaranteed loans provided under [section 1926 of this title][/us/usc/t7/s1926], encourage, to the maximum extent practicable, private or cooperative lenders to finance rural water and waste disposal facilities by—
+
+        (A) maximizing the use of loan guarantees to finance eligible projects in rural communities in which the population exceeds 5,500;
+
+        (B) maximizing the use of direct loans to finance eligible projects in rural communities if the impact on ratepayers will be material when compared to financing with a loan guarantee;
+
+        (C) establishing and applying a materiality standard when determining the difference in impact on ratepayers between a direct loan and a loan guarantee;
+
+        (D) in the case of projects that require interim financing in excess of $500,000, requiring that the projects initially seek the financing from private or cooperative lenders; and
+
+        (E) determining if an existing direct loan borrower can refinance with a private or cooperative lender, including with a loan guarantee, prior to providing a new direct loan.
+
+([Pub. L. 87–128, title III, § 333][/us/pl/87/128/s333], Aug. 8, 1961, [75 Stat. 314][/us/stat/75/314]; [Pub. L. 90–488, § 12][/us/pl/90/488/s12], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 91–620, § 3][/us/pl/91/620/s3], Dec. 31, 1970, [84 Stat. 1862][/us/stat/84/1862]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 118(b), 125, 126, Aug. 30, 1972, [86 Stat. 664][/us/stat/86/664], 666; [Pub. L. 95–334, title I, § 123][/us/pl/95/334/s123], Aug. 4, 1978, [92 Stat. 428][/us/stat/92/428]; [Pub. L. 96–438, § 3(c)][/us/pl/96/438/s3/c], Oct. 13, 1980, [94 Stat. 1875][/us/stat/94/1875]; [Pub. L. 97–98, title XVI, § 1604][/us/pl/97/98/s1604], Dec. 22, 1981, [95 Stat. 1346][/us/stat/95/1346]; [Pub. L. 101–624, title XVIII, § 1810][/us/pl/101/624/s1810], title XXIII, § 2388(e), Nov. 28, 1990, [104 Stat. 3820][/us/stat/104/3820], 4053; [Pub. L. 102–237, title V, § 501(e)][/us/pl/102/237/s501/e], Dec. 13, 1991, [105 Stat. 1867][/us/stat/105/1867]; [Pub. L. 102–554, § 12][/us/pl/102/554/s12], Oct. 28, 1992, [106 Stat. 4151][/us/stat/106/4151]; [Pub. L. 103–354, title II, § 227(b)(2)][/us/pl/103/354/s227/b/2], Oct. 13, 1994, [108 Stat. 3218][/us/stat/108/3218]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 634, 635(a), 636, Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093]; [Pub. L. 107–171, title V, § 5306][/us/pl/107/171/s5306], May 13, 2002, [116 Stat. 345][/us/stat/116/345]; [Pub. L. 113–79, title VI, § 6019][/us/pl/113/79/s6019], Feb. 7, 2014, [128 Stat. 846][/us/stat/128/846].)
 
  __References in Text__ 
 
     For definition of “this chapter”, referred to in introductory provisions, see note set out under [section 1921 of this title][/us/usc/t7/s1921].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79, § 6019(1)][/us/pl/113/79/s6019/1], struck out “require” after “shall” in introductory provisions.
+
+    Par. (1). [Pub. L. 113–79, § 6019(2)][/us/pl/113/79/s6019/2], inserted “require” after “(1)”.
+
+    Par. (2). [Pub. L. 113–79, § 6019(3)][/us/pl/113/79/s6019/3], inserted “, require” after “1944 of this title”.
+
+    Par. (3). [Pub. L. 113–79, § 6019(4)][/us/pl/113/79/s6019/4], inserted “require” after “loans,”.
+
+    Par. (4). [Pub. L. 113–79, § 6019(5)(A)][/us/pl/113/79/s6019/5/A], inserted “require” after “(4)”.
+
+    Par. (5). [Pub. L. 113–79, § 6019(6)(A)][/us/pl/113/79/s6019/6/A], inserted “require” after “(5)”.
+
+    Par. (6). [Pub. L. 113–79, § 6019(5)(B)][/us/pl/113/79/s6019/5/B], (6)(B), (7), added par. (6).
 
     2002—Par. (2). [Pub. L. 107–171][/us/pl/107/171] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “except with respect to a loan under section 1926, 1932, or 1944 of this title, the county or area committee established under [section 590h(b)(5)(B) of title 16][/us/usc/t16/s590h/b/5/B] to certify in writing—
 
@@ -99,6 +127,7 @@
 [/us/usc/t7/s1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1934
 [/us/usc/t7/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1922
 [/us/usc/t38/s101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F12
+[/us/usc/t7/s1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926
 [/us/pl/87/128/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs333
 [/us/stat/75/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F314
 [/us/pl/90/488/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F488%2Fs12
@@ -125,7 +154,16 @@
 [/us/stat/110/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1093
 [/us/pl/107/171/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5306
 [/us/stat/116/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F345
+[/us/pl/113/79/s6019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6019
+[/us/stat/128/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F846
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
+[/us/pl/113/79/s6019/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6019%2F1
+[/us/pl/113/79/s6019/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6019%2F2
+[/us/pl/113/79/s6019/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6019%2F3
+[/us/pl/113/79/s6019/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6019%2F4
+[/us/pl/113/79/s6019/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6019%2F5%2FA
+[/us/pl/113/79/s6019/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6019%2F6%2FA
+[/us/pl/113/79/s6019/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6019%2F5%2FB
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t16/s590h/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb%2F5%2FB
 [/us/pl/104/127/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs634

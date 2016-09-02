@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1508a.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1510.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1509)
+[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1508c.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1510.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1509)
 
 ## § 1509. Exemption of indemnities from levy
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1508a.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1510.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1509)
+[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1508c.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1510.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1509)
 
 ----------
 ----------

@@ -109,6 +109,10 @@
 
  __Inapplicability of Section__ 
 
+    Section inapplicable to crops of wheat planted for harvest in calendar years 2014 through 2018, see [section 9092(c) of this title][/us/usc/t7/s9092/c].
+
+    Section inapplicable to crops of wheat planted for harvest in calendar years 2008 through 2012, see [section 8782(c) of this title][/us/usc/t7/s8782/c].
+
     Section inapplicable to crops of wheat planted for harvest in calendar years 2002 through 2007, see [section 7992(c) of this title][/us/usc/t7/s7992/c].
 
     Section inapplicable to crops of wheat planted for harvest in calendar years 1996 through 2002, see [section 7301(c) of this title][/us/usc/t7/s7301/c].
@@ -193,6 +197,8 @@
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/usc/t7/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2201
+[/us/usc/t7/s9092/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fc
+[/us/usc/t7/s8782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fc
 [/us/usc/t7/s7992/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fc
 [/us/usc/t7/s7301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fc
 [/us/pl/101/624/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs304

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151a.md) | [Next](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3153.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3152)
+[Previous](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151b.md) | [Next](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3153.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3152)
 
 ## § 3152. Grants and fellowships for food and agricultural sciences education
 
@@ -143,9 +143,13 @@
 
     (m) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated for carrying out this section $60,000,000 for each of the fiscal years 1990 through 2012.
+    There are authorized to be appropriated for carrying out this section—
 
-([Pub. L. 95–113, title XIV, § 1417][/us/pl/95/113/s1417], Sept. 29, 1977, [91 Stat. 996][/us/stat/91/996]; [Pub. L. 97–98, title XIV, § 1418][/us/pl/97/98/s1418], Dec. 22, 1981, [95 Stat. 1305][/us/stat/95/1305]; [Pub. L. 99–198, title XIV, § 1412][/us/pl/99/198/s1412], Dec. 23, 1985, [99 Stat. 1548][/us/stat/99/1548]; [Pub. L. 101–624, title XVI, § 1608][/us/pl/101/624/s1608], Nov. 28, 1990, [104 Stat. 3716][/us/stat/104/3716]; [Pub. L. 102–237, title IV, § 402(6)][/us/pl/102/237/s402/6], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII, § 805][/us/pl/104/127/s805], Apr. 4, 1996, [110 Stat. 1160][/us/stat/110/1160]; [Pub. L. 105–185, title II, § 223][/us/pl/105/185/s223], title III, § 301(a)(1), June 23, 1998, [112 Stat. 539][/us/stat/112/539], 562; [Pub. L. 105–244, title I, § 102(a)(1)(B)][/us/pl/105/244/s102/a/1/B], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617]; [Pub. L. 107–110, title X, § 1076(c)][/us/pl/107/110/s1076/c], Jan. 8, 2002, [115 Stat. 2091][/us/stat/115/2091]; [Pub. L. 107–171, title VII, § 7102][/us/pl/107/171/s7102], May 13, 2002, [116 Stat. 431][/us/stat/116/431]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7106–7109(c), May 22, 2008, [122 Stat. 1217][/us/stat/122/1217], 1218; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7106–7109(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1978, 1979.)
+        (1) $60,000,000 for each of fiscal years 1990 through 2013; and
+
+        (2) $40,000,000 for each of fiscal years 2014 through 2018.
+
+([Pub. L. 95–113, title XIV, § 1417][/us/pl/95/113/s1417], Sept. 29, 1977, [91 Stat. 996][/us/stat/91/996]; [Pub. L. 97–98, title XIV, § 1418][/us/pl/97/98/s1418], Dec. 22, 1981, [95 Stat. 1305][/us/stat/95/1305]; [Pub. L. 99–198, title XIV, § 1412][/us/pl/99/198/s1412], Dec. 23, 1985, [99 Stat. 1548][/us/stat/99/1548]; [Pub. L. 101–624, title XVI, § 1608][/us/pl/101/624/s1608], Nov. 28, 1990, [104 Stat. 3716][/us/stat/104/3716]; [Pub. L. 102–237, title IV, § 402(6)][/us/pl/102/237/s402/6], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–127, title VIII, § 805][/us/pl/104/127/s805], Apr. 4, 1996, [110 Stat. 1160][/us/stat/110/1160]; [Pub. L. 105–185, title II, § 223][/us/pl/105/185/s223], title III, § 301(a)(1), June 23, 1998, [112 Stat. 539][/us/stat/112/539], 562; [Pub. L. 105–244, title I, § 102(a)(1)(B)][/us/pl/105/244/s102/a/1/B], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617]; [Pub. L. 107–110, title X, § 1076(c)][/us/pl/107/110/s1076/c], Jan. 8, 2002, [115 Stat. 2091][/us/stat/115/2091]; [Pub. L. 107–171, title VII, § 7102][/us/pl/107/171/s7102], May 13, 2002, [116 Stat. 431][/us/stat/116/431]; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7106–7109(c), May 22, 2008, [122 Stat. 1217][/us/stat/122/1217], 1218; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7106–7109(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1978, 1979; [Pub. L. 113–79, title VII, § 7105][/us/pl/113/79/s7105], Feb. 7, 2014, [128 Stat. 869][/us/stat/128/869].)
 
  __References in Text__ 
 
@@ -160,6 +164,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (m). [Pub. L. 113–79][/us/pl/113/79] substituted “section—” for “section $60,000,000 for each of the fiscal years 1990 through 2012.” and added pars. (1) and (2).
 
     2008—Subsec. (b). [Pub. L. 110–246, § 7106(1)][/us/pl/110/246/s7106/1], inserted “(including the University of the District of Columbia)” after “land-grant colleges and universities” in introductory provisions.
 
@@ -269,7 +275,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151a.md) | [Next](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3153.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3152)
+[Previous](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3151b.md) | [Next](./../../../../..//us/usc/t7/ch64/schIII/m__us_usc_t7_s3153.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3152)
 
 ----------
 ----------
@@ -305,6 +311,8 @@
 [/us/stat/122/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1217
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7105
+[/us/stat/128/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F869
 [/us/act/1935-06-29/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-29%2Fch338
 [/us/stat/49/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F436
 [/us/act/1966-08-11/ch790/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1966-08-11%2Fch790%2Fs2
@@ -319,6 +327,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7106%2F1
 [/us/pl/110/246/s7107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7107
 [/us/pl/110/246/s7106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7106%2F2

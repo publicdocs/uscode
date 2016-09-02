@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_ch50_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1936a)
+[Previous](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936.md) | [Next](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1936a)
 
 ## § 1936a. Use of rural development loans and grants for other purposes
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_ch50_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1936a)
+[Previous](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936.md) | [Next](./../../../../..//us/usc/t7/ch50/schI/m__us_usc_t7_s1936b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1936a)
 
 ----------
 ----------

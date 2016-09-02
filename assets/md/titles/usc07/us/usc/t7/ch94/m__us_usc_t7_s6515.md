@@ -23,21 +23,7 @@
 
         Any certifying agent shall employ a sufficient number of inspectors to implement the applicable organic certification program established under this chapter, as determined by the Secretary.
 
-    (c) __Recordkeeping__ 
-
-        (1) __Maintenance of records__ 
-
-            Any certifying agent shall maintain all records concerning its activities under this chapter for a period of not less than 10 years.
-
-        (2) __Access for Secretary__ 
-
-            Any certifying agent shall allow representatives of the Secretary and the governing State official access to any and all records concerning the certifying agent’s activities under this chapter.
-
-        (3) __Transference of records__ 
-
-            If any private person that was certified under this chapter is dissolved or loses its accreditation, all records or copies of records concerning such person’s activities under this chapter shall be transferred to the Secretary and made available to the applicable governing State official.
-
-    (d) __Agreement__ 
+    (c) __Agreement__ 
 
     Any certifying agent shall enter into an agreement with the Secretary under which such agent shall—
 
@@ -45,23 +31,23 @@
 
         (2) agree to such other terms and conditions as the Secretary determines appropriate.
 
-    (e) __Private certifying agent agreement__ 
+    (d) __Private certifying agent agreement__ 
 
-    Any certifying agent that is a private person shall, in addition to the agreement required in subsection (d) of this section—
+    Any certifying agent that is a private person shall, in addition to the agreement required in subsection (c) of this section—
 
         (1) agree to hold the Secretary harmless for any failure on the part of the certifying agent to carry out the provisions of this chapter; and
 
         (2) furnish reasonable security, in an amount determined by the Secretary, for the purpose of protecting the rights of participants in the applicable organic certification program established under this chapter.
 
-    (f) __Compliance with program__ 
+    (e) __Compliance with program__ 
 
         Any certifying agent shall fully comply with the terms and conditions of the applicable organic certification program implemented under this chapter.
 
-    (g) __Confidentiality__ 
+    (f) __Confidentiality__ 
 
         Except as provided in [section 6506(a)(9) of this title][/us/usc/t7/s6506/a/9], any certifying agent shall maintain strict confidentiality with respect to its clients under the applicable organic certification program and may not disclose to third parties (with the exception of the Secretary or the applicable governing State official) any business related information concerning such client obtained while implementing this chapter.
 
-    (h) __Conflict of interest__ 
+    (g) __Conflict of interest__ 
 
     Any certifying agent shall not—
 
@@ -71,11 +57,11 @@
 
         (3) provide advice concerning organic practices or techniques for a fee, other than fees established under such program.
 
-    (i) __Administrator__ 
+    (h) __Administrator__ 
 
         A certifying agent that is a private person shall nominate the individual who controls the day-to-day operation of the agent.
 
-    (j) __Loss of accreditation__ 
+    (i) __Loss of accreditation__ 
 
         (1) __Noncompliance__ 
 
@@ -85,9 +71,17 @@
 
             If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
 
-([Pub. L. 101–624, title XXI, § 2116][/us/pl/101/624/s2116], Nov. 28, 1990, [104 Stat. 3944][/us/stat/104/3944]; [Pub. L. 102–237, title X, § 1001(5)][/us/pl/102/237/s1001/5], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893].)
+([Pub. L. 101–624, title XXI, § 2116][/us/pl/101/624/s2116], Nov. 28, 1990, [104 Stat. 3944][/us/stat/104/3944]; [Pub. L. 102–237, title X, § 1001(5)][/us/pl/102/237/s1001/5], Dec. 13, 1991, [105 Stat. 1893][/us/stat/105/1893]; [Pub. L. 113–79, title X, § 10005(b)(1)][/us/pl/113/79/s10005/b/1], Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–79, § 10005(b)(1)(A)][/us/pl/113/79/s10005/b/1/A], (B), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to maintenance of, access to, and transference of records of certifying agents.
+
+    Subsec. (d). [Pub. L. 113–79, § 10005(b)(1)(C)][/us/pl/113/79/s10005/b/1/C], substituted “subsection (c)” for “subsection (d)” in introductory provisions.
+
+    [Pub. L. 113–79, § 10005(b)(1)(B)][/us/pl/113/79/s10005/b/1/B], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+    Subsecs. (e) to (i). [Pub. L. 113–79, § 10005(b)(1)(B)][/us/pl/113/79/s10005/b/1/B], redesignated subsecs. (f) to (j) as (e) to (i), respectively. Former subsec. (e) redesignated (d).
 
     1991—Subsec. (j)(2). [Pub. L. 102–237][/us/pl/102/237] substituted “such certifying” for “certifying such”.
 
@@ -104,6 +98,12 @@
 [/us/stat/104/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3944
 [/us/pl/102/237/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1001%2F5
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
+[/us/pl/113/79/s10005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1
+[/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
+[/us/pl/113/79/s10005/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1%2FA
+[/us/pl/113/79/s10005/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1%2FC
+[/us/pl/113/79/s10005/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1%2FB
+[/us/pl/113/79/s10005/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1%2FB
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

@@ -171,7 +171,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6519" data-uslm-ref="/us/usc/t7/s6519">6519.</a>  </td>
 
-    <td> Violations of chapter.  </td>
+    <td> Recordkeeping, investigations, and enforcement.  </td>
 
   </tr>
 

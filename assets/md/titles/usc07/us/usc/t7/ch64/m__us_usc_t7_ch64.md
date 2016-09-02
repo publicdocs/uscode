@@ -137,6 +137,14 @@ SUBCHAPTER II—COORDINATION AND PLANNING OF AGRICULTURAL RESEARCH, EXTENSION, A
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3125a%E2%80%931" data-uslm-ref="/us/usc/t7/s3125a–1">3125a–1.</a>  </td>
+
+    <td> Agricultural and food law research, legal tools, and information.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3125b" data-uslm-ref="/us/usc/t7/s3125b">3125b.</a>  </td>
 
     <td> National Rural Information Center Clearinghouse.  </td>
@@ -225,6 +233,14 @@ SUBCHAPTER III—AGRICULTURAL RESEARCH AND EDUCATION GRANTS AND FELLOWSHIPS  </t
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3151b" data-uslm-ref="/us/usc/t7/s3151b">3151b.</a>  </td>
+
+    <td> Veterinary services grant program.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3152" data-uslm-ref="/us/usc/t7/s3152">3152.</a>  </td>
 
     <td> Grants and fellowships for food and agricultural sciences education.  </td>
@@ -251,7 +267,7 @@ SUBCHAPTER III—AGRICULTURAL RESEARCH AND EDUCATION GRANTS AND FELLOWSHIPS  </t
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3155" data-uslm-ref="/us/usc/t7/s3155">3155.</a>  </td>
 
-    <td> Policy research centers.  </td>
+    <td> Agricultural and food policy research centers.  </td>
 
   </tr>
 
@@ -297,17 +313,9 @@ SUBCHAPTER IV—NATIONAL FOOD AND HUMAN NUTRITION RESEARCH AND EXTENSION PROGRAM
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3174" data-uslm-ref="/us/usc/t7/s3174">3174.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3174" data-uslm-ref="/us/usc/t7/s3174">3174</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3174a" data-uslm-ref="/us/usc/t7/s3174a">3174a.</a>  </td>
 
-    <td> Human nutrition intervention and health promotion research program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3174a" data-uslm-ref="/us/usc/t7/s3174a">3174a.</a>  </td>
-
-    <td> Pilot research program to combine medical and agricultural research.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -435,7 +443,7 @@ SUBCHAPTER V—ANIMAL HEALTH AND DISEASE RESEARCH  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3195" data-uslm-ref="/us/usc/t7/s3195">3195.</a>  </td>
 
-    <td> Continuing animal health and disease research programs.  </td>
+    <td> Continuing animal health and disease, food security, and stewardship research, education, and extension programs.  </td>
 
   </tr>
 
@@ -547,7 +555,7 @@ SUBCHAPTER VI—1890 LAND-GRANT COLLEGE FUNDING  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3222b%E2%80%932" data-uslm-ref="/us/usc/t7/s3222b–2">3222b–2.</a>  </td>
 
-    <td> Grants to upgrade agriculture and food sciences facilities and equipment at insular area land-grant institutions.  </td>
+    <td> Grants to upgrade agriculture and food sciences facilities and equipment and support tropical and subtropical agricultural research at insular area land-grant colleges and universities.  </td>
 
   </tr>
 
@@ -555,7 +563,7 @@ SUBCHAPTER VI—1890 LAND-GRANT COLLEGE FUNDING  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3222c" data-uslm-ref="/us/usc/t7/s3222c">3222c.</a>  </td>
 
-    <td> National research and training virtual centers.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -707,7 +715,7 @@ SUBCHAPTER X—FUNDING AND MISCELLANEOUS PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3310a" data-uslm-ref="/us/usc/t7/s3310a">3310a.</a>  </td>
 
-    <td> Research equipment grants.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -1028,6 +1036,22 @@ SUBCHAPTER XIV—INSTITUTIONS OF HIGHER EDUCATION IN INSULAR AREAS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3363" data-uslm-ref="/us/usc/t7/s3363">3363.</a>  </td>
 
     <td> Resident instruction grants for insular areas.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER XV—GENERAL PROVISIONS  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3371" data-uslm-ref="/us/usc/t7/s3371">3371.</a>  </td>
+
+    <td> Matching funds requirement.  </td>
 
   </tr>
 

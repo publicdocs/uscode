@@ -21,7 +21,7 @@
 
     (b) __Grants__ 
 
-    The Secretary may make grants to—
+    The Secretary may make competitive grants to—
 
         (1) land-grant and sea grant colleges and universities;
 
@@ -31,7 +31,7 @@
 
         (4) nonprofit private research institutions;
 
-        for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds. Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[[16 U.S.C. 2801][/us/usc/t16/s2801] et seq.\].
+        for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds.
 
     (c) __Aquaculture development plans__ 
 
@@ -49,13 +49,17 @@
 
         The Secretary shall implement, in consultation with the Joint Subcommittee on Aquaculture referred to in section 6 of the National Aquaculture Act of 1980 ([16 U.S.C. 2805][/us/usc/t16/s2805]), a fish disease program to include the development of new diagnostic procedures for fish diseases, the determination of the effect of water environment on the development of the fish immune system, and the development of therapeutic, synthetic, or natural systems, for the control of fish diseases.
 
-([Pub. L. 95–113, title XIV, § 1475][/us/pl/95/113/s1475], as added [Pub. L. 97–98, title XIV, § 1440(a)][/us/pl/97/98/s1440/a], Dec. 22, 1981, [95 Stat. 1316][/us/stat/95/1316]; amended [Pub. L. 99–198, title XIV, § 1429(a)][/us/pl/99/198/s1429/a], Dec. 23, 1985, [99 Stat. 1555][/us/stat/99/1555]; [Pub. L. 101–624, title XVI, § 1614(a)][/us/pl/101/624/s1614/a], Nov. 28, 1990, [104 Stat. 3727][/us/stat/104/3727]; [Pub. L. 104–66, title I, § 1011(u)][/us/pl/104/66/s1011/u], Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–127, title VIII, § 820(b)][/us/pl/104/127/s820/b], Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168].)
+([Pub. L. 95–113, title XIV, § 1475][/us/pl/95/113/s1475], as added [Pub. L. 97–98, title XIV, § 1440(a)][/us/pl/97/98/s1440/a], Dec. 22, 1981, [95 Stat. 1316][/us/stat/95/1316]; amended [Pub. L. 99–198, title XIV, § 1429(a)][/us/pl/99/198/s1429/a], Dec. 23, 1985, [99 Stat. 1555][/us/stat/99/1555]; [Pub. L. 101–624, title XVI, § 1614(a)][/us/pl/101/624/s1614/a], Nov. 28, 1990, [104 Stat. 3727][/us/stat/104/3727]; [Pub. L. 104–66, title I, § 1011(u)][/us/pl/104/66/s1011/u], Dec. 21, 1995, [109 Stat. 711][/us/stat/109/711]; [Pub. L. 104–127, title VIII, § 820(b)][/us/pl/104/127/s820/b], Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168]; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7124(a), 7128(b)(1)(B), Feb. 7, 2014, [128 Stat. 876][/us/stat/128/876], 878.)
 
  __References in Text__ 
 
-    The National Aquaculture Act of 1980, referred to in subsecs. (a), (b), and (c), is [Pub. L. 96–362][/us/pl/96/362], Sept. 26, 1980, [94 Stat. 1198][/us/stat/94/1198], which is classified generally to chapter 48 (§ 2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of Title 16][/us/usc/t16/s2801] and Tables.
+    The National Aquaculture Act of 1980, referred to in subsecs. (a) and (c), is [Pub. L. 96–362][/us/pl/96/362], Sept. 26, 1980, [94 Stat. 1198][/us/stat/94/1198], which is classified generally to chapter 48 (§ 2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of Title 16][/us/usc/t16/s2801] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79, § 7128(b)(1)(B)][/us/pl/113/79/s7128/b/1/B], struck out at end of concluding provisions “Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980.”
+
+    [Pub. L. 113–79, § 7124(a)][/us/pl/113/79/s7124/a], inserted “competitive” before “grants” in introductory provisions.
 
     1996—Subsecs. (e) to (g). [Pub. L. 104–127][/us/pl/104/127] redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter.”
 
@@ -88,7 +92,6 @@
 
 [/us/usc/t16/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2801
 [/us/usc/t16/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2801
-[/us/usc/t16/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2801
 [/us/usc/t16/s2805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2805%2Fa
 [/us/usc/t16/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2805
 [/us/pl/95/113/s1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1475
@@ -102,9 +105,13 @@
 [/us/stat/109/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F711
 [/us/pl/104/127/s820/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs820%2Fb
 [/us/stat/110/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1168
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F876
 [/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1198
 [/us/usc/t16/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2801
+[/us/pl/113/79/s7128/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7128%2Fb%2F1%2FB
+[/us/pl/113/79/s7124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7124%2Fa
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/101/624/s1614/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1614%2Fa%2F1

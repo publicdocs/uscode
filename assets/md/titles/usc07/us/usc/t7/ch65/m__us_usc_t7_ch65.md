@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch64/schXIV/m__us_usc_t7_s3363.md) | [Next](./../../../..//us/usc/t7/ch65/m__us_usc_t7_s3401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch65)
+[Previous](./../../../..//us/usc/t7/ch64/schXV/m__us_usc_t7_s3371.md) | [Next](./../../../..//us/usc/t7/ch65/m__us_usc_t7_s3401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch65)
 
 ## CHAPTER 65—WHEAT AND WHEAT FOODS RESEARCH AND NUTRITION EDUCATION
 
@@ -163,7 +163,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch64/schXIV/m__us_usc_t7_s3363.md) | [Next](./../../../..//us/usc/t7/ch65/m__us_usc_t7_s3401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch65)
+[Previous](./../../../..//us/usc/t7/ch64/schXV/m__us_usc_t7_s3371.md) | [Next](./../../../..//us/usc/t7/ch65/m__us_usc_t7_s3401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch65)
 
 ----------
 ----------

@@ -103,11 +103,23 @@
 
     The Advisory Board shall—
 
-        (1) review and provide consultation to the Secretary, land-grant colleges and universities, and the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Subcommittee on Agriculture, Rural Development, Food and Drug Administration and Related Agencies of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Agriculture, Rural Development and Related Agencies of the Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in [section 3101 of this title][/us/usc/t7/s3101], relating to agricultural research, extension, education, and economics;
+        (1)
+
+         review and provide consultation to the Secretary, land-grant colleges and universities, and the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Subcommittee on Agriculture, Rural Development, Food and Drug Administration and Related Agencies of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Agriculture, Rural Development and Related Agencies of the Committee on Appropriations of the Senate on—
+
+            (A) long-term and short-term national policies and priorities consistent with the purposes specified in [section 3101 of this title][/us/usc/t7/s3101] for agricultural research, extension, education, and economics; and
+
+            (B)
+
+             the annual establishment of priorities that—
+
+                (i) are in accordance with the purposes specified in a provision of a covered law (as defined in subsection (d) of [section 3371 of this title][/us/usc/t7/s3371]) under which competitive grants (described in subsection (c) of such section) are awarded; and
+
+                (ii) the Board determines are national priorities.
 
         (2) evaluate the results and effectiveness of agricultural research, extension, education, and economics with respect to the policies and priorities;
 
-        (3) review and make recommendations to the Under Secretary of Agriculture for Research, Education, and Economics on the research, extension, education, and economics portion of the draft strategic plan required under [section 306 of title 5][/us/usc/t5/s306]; and
+        (3) review and make recommendations to the Under Secretary of Agriculture for Research, Education, and Economics on the research, extension, education, and economics portion of the draft strategic plan required under [section 306 of title 5][/us/usc/t5/s306];
 
         (4)
 
@@ -115,9 +127,11 @@
 
             (A) performance measurement and evaluation of the implementation by the Secretary of the strategic plan required under [section 306 of title 5][/us/usc/t5/s306];
 
-            (B) implementation of the national research policies and priorities set forth in [section 3101 of this title][/us/usc/t7/s3101]; and
+            (B) implementation of national research policies and priorities that are consistent with the purposes specified in [section 3101 of this title][/us/usc/t7/s3101]; and
 
-            (C) the development of mechanisms for the assessment of emerging public and private agricultural research and technology transfer initiatives.
+            (C) the development of mechanisms for the assessment of emerging public and private agricultural research and technology transfer initiatives; and
+
+        (5) consult with industry groups on agricultural research, extension, education, and economics, and make recommendations to the Secretary based on that consultation.
 
     (d) __Consultation__ 
 
@@ -153,9 +167,9 @@
 
     (h) __Termination__ 
 
-        The Advisory Board shall remain in existence until September 30, 2012.
+        The Advisory Board shall remain in existence until September 30, 2018.
 
-([Pub. L. 95–113, title XIV, § 1408][/us/pl/95/113/s1408], Sept. 29, 1977, [91 Stat. 988][/us/stat/91/988]; [Pub. L. 97–98, title XIV, § 1408][/us/pl/97/98/s1408], Dec. 22, 1981, [95 Stat. 1300][/us/stat/95/1300]; [Pub. L. 99–198, title XIV, § 1406][/us/pl/99/198/s1406], Dec. 23, 1985, [99 Stat. 1545][/us/stat/99/1545]; [Pub. L. 101–624, title XVI, § 1604(b)][/us/pl/101/624/s1604/b], Nov. 28, 1990, [104 Stat. 3709][/us/stat/104/3709]; [Pub. L. 102–237, title IV, § 402(2)][/us/pl/102/237/s402/2], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–66, title I][/us/pl/104/66], §§ 1011(t), 1012(f), Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710], 712; [Pub. L. 104–127, title VIII, § 802(a)][/us/pl/104/127/s802/a], Apr. 4, 1996, [110 Stat. 1156][/us/stat/110/1156]; [Pub. L. 105–185, title II, § 222][/us/pl/105/185/s222], June 23, 1998, [112 Stat. 538][/us/stat/112/538]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7133, 7209(a), May 13, 2002, [116 Stat. 435][/us/stat/116/435], 444; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7102(a), 7511(c)(8), May 22, 2008, [122 Stat. 1214][/us/stat/122/1214], 1268; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7102(a), 7511(c)(8), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1975, 2029.)
+([Pub. L. 95–113, title XIV, § 1408][/us/pl/95/113/s1408], Sept. 29, 1977, [91 Stat. 988][/us/stat/91/988]; [Pub. L. 97–98, title XIV, § 1408][/us/pl/97/98/s1408], Dec. 22, 1981, [95 Stat. 1300][/us/stat/95/1300]; [Pub. L. 99–198, title XIV, § 1406][/us/pl/99/198/s1406], Dec. 23, 1985, [99 Stat. 1545][/us/stat/99/1545]; [Pub. L. 101–624, title XVI, § 1604(b)][/us/pl/101/624/s1604/b], Nov. 28, 1990, [104 Stat. 3709][/us/stat/104/3709]; [Pub. L. 102–237, title IV, § 402(2)][/us/pl/102/237/s402/2], Dec. 13, 1991, [105 Stat. 1863][/us/stat/105/1863]; [Pub. L. 104–66, title I][/us/pl/104/66], §§ 1011(t), 1012(f), Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710], 712; [Pub. L. 104–127, title VIII, § 802(a)][/us/pl/104/127/s802/a], Apr. 4, 1996, [110 Stat. 1156][/us/stat/110/1156]; [Pub. L. 105–185, title II, § 222][/us/pl/105/185/s222], June 23, 1998, [112 Stat. 538][/us/stat/112/538]; [Pub. L. 107–171, title VII][/us/pl/107/171], §§ 7133, 7209(a), May 13, 2002, [116 Stat. 435][/us/stat/116/435], 444; [Pub. L. 110–234, title VII][/us/pl/110/234], §§ 7102(a), 7511(c)(8), May 22, 2008, [122 Stat. 1214][/us/stat/122/1214], 1268; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, §§ 7102(a), 7511(c)(8), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1975, 2029; [Pub. L. 113–79, title VII, § 7102][/us/pl/113/79/s7102], Feb. 7, 2014, [128 Stat. 863][/us/stat/128/863].)
 
  __References in Text__ 
 
@@ -174,6 +188,14 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–79, § 7102(b)(1)][/us/pl/113/79/s7102/b/1], substituted “Committee on Appropriations of the Senate on—” for “Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in [section 3101 of this title][/us/usc/t7/s3101], relating to agricultural research, extension, education, and economics;” and added subpars. (A) and (B).
+
+    Subsec. (c)(4)(B). [Pub. L. 113–79, § 7102(b)(3)(A)][/us/pl/113/79/s7102/b/3/A], substituted “national research policies and priorities that are consistent with the purposes specified in” for “the national research policies and priorities set forth in”.
+
+    Subsec. (c)(5). [Pub. L. 113–79, § 7102(b)(2)][/us/pl/113/79/s7102/b/2], (3)(B), (4), added par. (5).
+
+    Subsec. (h). [Pub. L. 113–79, § 7102(a)][/us/pl/113/79/s7102/a], substituted “2018” for “2012”.
 
     2008—Subsec. (b)(1). [Pub. L. 110–246, § 7102(a)(1)(A)][/us/pl/110/246/s7102/a/1/A], substituted “25” for “31”.
 
@@ -259,6 +281,7 @@
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
+[/us/usc/t7/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3371
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
@@ -284,6 +307,8 @@
 [/us/stat/122/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1214
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7102
+[/us/stat/128/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F863
 [/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
@@ -300,6 +325,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s7102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7102%2Fb%2F1
+[/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
+[/us/pl/113/79/s7102/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7102%2Fb%2F3%2FA
+[/us/pl/113/79/s7102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7102%2Fb%2F2
+[/us/pl/113/79/s7102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7102%2Fa
 [/us/pl/110/246/s7102/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7102%2Fa%2F1%2FA
 [/us/pl/110/246/s7102/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7102%2Fa%2F1%2FB
 [/us/pl/110/246/s7511/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F8

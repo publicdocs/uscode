@@ -115,7 +115,7 @@ SUBCHAPTER I—GENERAL REORGANIZATION AUTHORITIES  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6919" data-uslm-ref="/us/usc/t7/s6919">6919.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Military Veterans Agricultural Liaison.  </td>
 
   </tr>
 
@@ -124,6 +124,14 @@ SUBCHAPTER I—GENERAL REORGANIZATION AUTHORITIES  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6920" data-uslm-ref="/us/usc/t7/s6920">6920.</a>  </td>
 
     <td> Office of Energy Policy and New Uses.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6921" data-uslm-ref="/us/usc/t7/s6921">6921.</a>  </td>
+
+    <td> Office of Tribal Relations.  </td>
 
   </tr>
 
@@ -172,6 +180,14 @@ SUBCHAPTER II—FARM AND FOREIGN AGRICULTURAL SERVICES  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6934" data-uslm-ref="/us/usc/t7/s6934">6934.</a>  </td>
 
     <td> Office of Advocacy and Outreach.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6935" data-uslm-ref="/us/usc/t7/s6935">6935.</a>  </td>
+
+    <td> Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs.  </td>
 
   </tr>
 
@@ -244,6 +260,22 @@ SUBCHAPTER IV—FOOD, NUTRITION, AND CONSUMER SERVICES  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6951" data-uslm-ref="/us/usc/t7/s6951">6951.</a>  </td>
 
     <td> Under Secretary of Agriculture for Food, Nutrition, and Consumer Services.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6952" data-uslm-ref="/us/usc/t7/s6952">6952.</a>  </td>
+
+    <td> Multiagency task force.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6953" data-uslm-ref="/us/usc/t7/s6953">6953.</a>  </td>
+
+    <td> Healthy food financing initiative.  </td>
 
   </tr>
 

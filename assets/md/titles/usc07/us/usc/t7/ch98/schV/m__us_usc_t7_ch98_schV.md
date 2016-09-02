@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_s6951.md) | [Next](./../../../../..//us/usc/t7/ch98/schV/m__us_usc_t7_s6961.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch98%2FschV)
+[Previous](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_s6953.md) | [Next](./../../../../..//us/usc/t7/ch98/schV/m__us_usc_t7_s6961.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch98%2FschV)
 
 ### SUBCHAPTER V—NATURAL RESOURCES AND ENVIRONMENT
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_s6951.md) | [Next](./../../../../..//us/usc/t7/ch98/schV/m__us_usc_t7_s6961.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch98%2FschV)
+[Previous](./../../../../..//us/usc/t7/ch98/schIV/m__us_usc_t7_s6953.md) | [Next](./../../../../..//us/usc/t7/ch98/schV/m__us_usc_t7_s6961.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch98%2FschV)
 
 ----------
 ----------

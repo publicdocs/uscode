@@ -45,6 +45,10 @@
 
     Section inapplicable to 1984 and subsequent crops of extra long staple cotton, see [section 3 of Pub. L. 98–88][/us/pl/98/88/s3], set out as a note under [section 1342 of this title][/us/usc/t7/s1342].
 
+    Section inapplicable to 2014 through 2018 crops of upland cotton, see [section 9092(a)(2) of this title][/us/usc/t7/s9092/a/2].
+
+    Section inapplicable to 2008 through 2012 crops of upland cotton, see [section 8782(a)(2) of this title][/us/usc/t7/s8782/a/2].
+
     Section inapplicable to 2002 through 2007 crops of upland cotton, see [section 7992(a)(2) of this title][/us/usc/t7/s7992/a/2].
 
     Section inapplicable to 1996 through 2001 crops of upland cotton, see [section 7301(a)(1)(G) of this title][/us/usc/t7/s7301/a/1/G].
@@ -108,6 +112,8 @@
 [/us/stat/91/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F947
 [/us/pl/98/88/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F88%2Fs3
 [/us/usc/t7/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1342
+[/us/usc/t7/s9092/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9092%2Fa%2F2
+[/us/usc/t7/s8782/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8782%2Fa%2F2
 [/us/usc/t7/s7992/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7992%2Fa%2F2
 [/us/usc/t7/s7301/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7301%2Fa%2F1%2FG
 [/us/pl/101/624/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs502

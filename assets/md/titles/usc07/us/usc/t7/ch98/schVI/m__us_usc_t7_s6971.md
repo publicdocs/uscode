@@ -195,7 +195,7 @@
 
                 (v) Each program established under section 1417(b) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3152(b)][/us/usc/t7/s3152/b]).
 
-                (vi) The animal health and disease research program established under subtitle E of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3191][/us/usc/t7/s3191] et seq.).
+                (vi) The animal health and disease research program established under subtitle E of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3191][/us/usc/t7/s3191] et seq.)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  except for the competitive grant program under section 1433(b) \[[7 U.S.C. 3195(b)][/us/usc/t7/s3195/b]\].
 
                 (vii) Each extension program available to 1890 Institutions established under section 1444 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3221][/us/usc/t7/s3221]).
 
@@ -241,11 +241,9 @@
 
                 (x) The specialty crop research initiative under [section 7632 of this title][/us/usc/t7/s7632].
 
-                (xi) The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under [section 5925e of this title][/us/usc/t7/s5925e].
+                (xi) The research, extension, and education programs authorized by [section 7627 of this title][/us/usc/t7/s7627] relating to the competitiveness, viability and sustainability of small- and medium-sized dairy, livestock, and poultry operations.
 
-                (xii) The research, extension, and education programs authorized by [section 7627 of this title][/us/usc/t7/s7627] relating to the competitiveness, viability and sustainability of small- and medium-sized dairy, livestock, and poultry operations.
-
-                (xiii) Other programs that are competitive programs, as determined by the Secretary.
+                (xii) Other programs that are competitive programs, as determined by the Secretary.
 
             (E) __Director__ 
 
@@ -373,7 +371,7 @@
 
                 Funding made available under subparagraph (A) shall be allocated according to recommendations contained in the roadmap described in [section 7614a of this title][/us/usc/t7/s7614a].
 
-([Pub. L. 103–354, title II, § 251][/us/pl/103/354/s251], Oct. 13, 1994, [108 Stat. 3226][/us/stat/108/3226]; [Pub. L. 110–234, title VII, § 7511(a)][/us/pl/110/234/s7511/a], May 22, 2008, [122 Stat. 1259][/us/stat/122/1259]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2021.)
+([Pub. L. 103–354, title II, § 251][/us/pl/103/354/s251], Oct. 13, 1994, [108 Stat. 3226][/us/stat/108/3226]; [Pub. L. 110–234, title VII, § 7511(a)][/us/pl/110/234/s7511/a], May 22, 2008, [122 Stat. 1259][/us/stat/122/1259]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2021; [Pub. L. 113–79, title VII][/us/pl/113/79], §§ 7111(b)(2), 7212(b), Feb. 7, 2014, [128 Stat. 874][/us/stat/128/874], 886.)
 
  __References in Text__ 
 
@@ -396,6 +394,10 @@
     Section is comprised of [section 251 of Pub. L. 103–354][/us/pl/103/354/s251]. Subsec. (g), formerly (e), of [section 251 of Pub. L. 103–354][/us/pl/103/354/s251], as redesignated by [Pub. L. 110–246, § 7511(a)(3)][/us/pl/110/246/s7511/a/3], amended [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees.
 
  __Amendments__ 
+
+    2014—Subsec. (f)(1)(C)(vi). [Pub. L. 113–79, § 7111(b)(2)][/us/pl/113/79/s7111/b/2], inserted “except for the competitive grant program under section 1433(b)” before period at end.
+
+    Subsec. (f)(1)(D)(xi) to (xiii). [Pub. L. 113–79, § 7212(b)][/us/pl/113/79/s7212/b], redesignated cls. (xii) and (xiii) as (xi) and (xii), respectively, and struck out former cl. (xi) which read as follows: “The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under [section 5925e of this title][/us/usc/t7/s5925e].”
 
     2008—Subsec. (a). [Pub. L. 110–246, § 7511(a)(1)][/us/pl/110/246/s7511/a/1], inserted “(referred to in this section as the ‘Under Secretary’)” before period at end.
 
@@ -423,6 +425,7 @@
 [/us/usc/t7/s361a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361a
 [/us/usc/t7/s3152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3152%2Fb
 [/us/usc/t7/s3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3191
+[/us/usc/t7/s3195/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3195%2Fb
 [/us/usc/t7/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3221
 [/us/usc/t7/s3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3222
 [/us/usc/t7/s3222b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3222b
@@ -443,7 +446,6 @@
 [/us/usc/t7/s5811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5811
 [/us/usc/t7/s5925b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5925b
 [/us/usc/t7/s7632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7632
-[/us/usc/t7/s5925e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5925e
 [/us/usc/t7/s7627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7627
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t7/s7614a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7614a
@@ -453,6 +455,8 @@
 [/us/stat/122/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1259
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F874
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3178
@@ -478,6 +482,9 @@
 [/us/pl/103/354/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs251
 [/us/pl/110/246/s7511/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fa%2F3
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
+[/us/pl/113/79/s7111/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7111%2Fb%2F2
+[/us/pl/113/79/s7212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7212%2Fb
+[/us/usc/t7/s5925e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5925e
 [/us/pl/110/246/s7511/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fa%2F1
 [/us/pl/110/246/s7511/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fa%2F2
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

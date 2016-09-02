@@ -15,19 +15,27 @@
 
 ## § 3324. Authorization of appropriations
 
-    There is authorized to be appropriated $7,500,000 for each of the fiscal years 1991 through 2012. Funds appropriated under this section or section 3323  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title may not be used to acquire or construct a building.
+    (a) __In general__ 
 
-([Pub. L. 95–113, title XIV, § 1477][/us/pl/95/113/s1477], as added [Pub. L. 97–98, title XIV, § 1440(a)][/us/pl/97/98/s1440/a], Dec. 22, 1981, [95 Stat. 1318][/us/stat/95/1318]; amended [Pub. L. 99–198, title XIV, § 1429(c)][/us/pl/99/198/s1429/c], Dec. 23, 1985, [99 Stat. 1556][/us/stat/99/1556]; [Pub. L. 101–624, title XVI, § 1614(c)][/us/pl/101/624/s1614/c], Nov. 28, 1990, [104 Stat. 3728][/us/stat/104/3728]; [Pub. L. 104–127, title VIII, § 820(d)][/us/pl/104/127/s820/d], Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168]; [Pub. L. 105–185, title III, § 301(a)(15)][/us/pl/105/185/s301/a/15], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7116][/us/pl/107/171/s7116], May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII, § 7140][/us/pl/110/234/s7140], May 22, 2008, [122 Stat. 1232][/us/stat/122/1232]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7140, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1993.)
+    There are authorized to be appropriated to carry out this subchapter—
 
- __References in Text__ 
+        (1) $7,500,000 for each of fiscal years 1991 through 2013; and
 
-    [Section 3323 of this title][/us/usc/t7/s3323], referred to in text, was repealed by [Pub. L. 105–185, title III, § 302(a)][/us/pl/105/185/s302/a], June 23, 1998, [112 Stat. 563][/us/stat/112/563].
+        (2) $5,000,000 for each of fiscal years 2014 through 2018.
+
+    (b) __Prohibition on use__ 
+
+        Funds made available under this section may not be used to acquire or construct a building.
+
+([Pub. L. 95–113, title XIV, § 1477][/us/pl/95/113/s1477], as added [Pub. L. 97–98, title XIV, § 1440(a)][/us/pl/97/98/s1440/a], Dec. 22, 1981, [95 Stat. 1318][/us/stat/95/1318]; amended [Pub. L. 99–198, title XIV, § 1429(c)][/us/pl/99/198/s1429/c], Dec. 23, 1985, [99 Stat. 1556][/us/stat/99/1556]; [Pub. L. 101–624, title XVI, § 1614(c)][/us/pl/101/624/s1614/c], Nov. 28, 1990, [104 Stat. 3728][/us/stat/104/3728]; [Pub. L. 104–127, title VIII, § 820(d)][/us/pl/104/127/s820/d], Apr. 4, 1996, [110 Stat. 1168][/us/stat/110/1168]; [Pub. L. 105–185, title III, § 301(a)(15)][/us/pl/105/185/s301/a/15], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7116][/us/pl/107/171/s7116], May 13, 2002, [116 Stat. 433][/us/stat/116/433]; [Pub. L. 110–234, title VII, § 7140][/us/pl/110/234/s7140], May 22, 2008, [122 Stat. 1232][/us/stat/122/1232]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7140, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1993; [Pub. L. 113–79, title VII, § 7124(b)][/us/pl/113/79/s7124/b], Feb. 7, 2014, [128 Stat. 876][/us/stat/128/876].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] amended section generally. Prior to amendment, text read as follows: “There is authorized to be appropriated $7,500,000 for each of the fiscal years 1991 through 2012. Funds appropriated under this section or [section 3323 of this title][/us/usc/t7/s3323] may not be used to acquire or construct a building.”
 
     2008—[Pub. L. 110–246, § 7140][/us/pl/110/246/s7140], substituted “2012” for “2007”.
 
@@ -69,13 +77,14 @@
 [/us/stat/122/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1232
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/usc/t7/s3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3323
-[/us/pl/105/185/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs302%2Fa
-[/us/stat/112/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F563
+[/us/pl/113/79/s7124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7124%2Fb
+[/us/stat/128/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F876
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t7/s3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3323
 [/us/pl/110/246/s7140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7140
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185

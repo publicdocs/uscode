@@ -45,7 +45,25 @@
 
         The Secretary may use for the prosecution or defense of any claim or obligation described in subsection (b)(5) of this section the Attorney General, the General Counsel of the Department of Agriculture, or a private attorney who has entered into a contract with the Secretary.
 
-([Pub. L. 87–128, title III, § 331][/us/pl/87/128/s331], Aug. 8, 1961, [75 Stat. 312][/us/stat/75/312]; [Pub. L. 90–488, § 11][/us/pl/90/488/s11], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I, § 124][/us/pl/92/419/s124], Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–334, title I, § 121][/us/pl/95/334/s121], Aug. 4, 1978, [92 Stat. 427][/us/stat/92/427]; [Pub. L. 97–98, title XVI, § 1603][/us/pl/97/98/s1603], Dec. 22, 1981, [95 Stat. 1346][/us/stat/95/1346]; [Pub. L. 99–198, title XIII, § 1309][/us/pl/99/198/s1309], Dec. 23, 1985, [99 Stat. 1523][/us/stat/99/1523]; [Pub. L. 100–233, title VI, § 615(c)][/us/pl/100/233/s615/c], Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682]; [Pub. L. 101–624, title XVIII][/us/pl/101/624], §§ 1805, 1806, title XXIII, §§ 2303(a), 2388(d)(1), Nov. 28, 1990, [104 Stat. 3819][/us/stat/104/3819], 3981, 4052; [Pub. L. 102–237, title V, § 501(c)][/us/pl/102/237/s501/c], title VII, § 701(h)(1)(E), Dec. 13, 1991, [105 Stat. 1866][/us/stat/105/1866], 1880; [Pub. L. 103–248, § 2][/us/pl/103/248/s2], May 11, 1994, [108 Stat. 619][/us/stat/108/619]; [Pub. L. 103–354, title II, § 226(h)][/us/pl/103/354/s226/h], Oct. 13, 1994, [108 Stat. 3216][/us/stat/108/3216]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 631, 632, title VII, § 748, Apr. 4, 1996, [110 Stat. 1092][/us/stat/110/1092], 1128; [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5303, 5304(a), May 13, 2002, [116 Stat. 345][/us/stat/116/345].)
+    (d) __Rural college coordinated strategy__ 
+
+        (1) __In general__ 
+
+            The Secretary shall develop a coordinated strategy across the relevant programs within the Rural Development mission areas to serve the specific, local needs of rural communities when making investments in rural community colleges and technical colleges through other authorities in effect on February 7, 2014.
+
+        (2) __Consultation__ 
+
+            In developing a coordinated strategy, the Secretary shall consult with groups representing rural-serving community colleges and technical colleges to coordinate critical investments in rural community colleges and technical colleges involved in workforce training.
+
+        (3) __Administration__ 
+
+            Nothing in this subsection provides a priority for funding under authorities in effect on February 7, 2014.
+
+        (4) __Use__ 
+
+            The Secretary shall use the coordinated strategy and information developed for the strategy to more effectively serve rural communities with respect to investments in community colleges and technical colleges.
+
+([Pub. L. 87–128, title III, § 331][/us/pl/87/128/s331], Aug. 8, 1961, [75 Stat. 312][/us/stat/75/312]; [Pub. L. 90–488, § 11][/us/pl/90/488/s11], Aug. 15, 1968, [82 Stat. 771][/us/stat/82/771]; [Pub. L. 92–419, title I, § 124][/us/pl/92/419/s124], Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665]; [Pub. L. 95–334, title I, § 121][/us/pl/95/334/s121], Aug. 4, 1978, [92 Stat. 427][/us/stat/92/427]; [Pub. L. 97–98, title XVI, § 1603][/us/pl/97/98/s1603], Dec. 22, 1981, [95 Stat. 1346][/us/stat/95/1346]; [Pub. L. 99–198, title XIII, § 1309][/us/pl/99/198/s1309], Dec. 23, 1985, [99 Stat. 1523][/us/stat/99/1523]; [Pub. L. 100–233, title VI, § 615(c)][/us/pl/100/233/s615/c], Jan. 6, 1988, [101 Stat. 1682][/us/stat/101/1682]; [Pub. L. 101–624, title XVIII][/us/pl/101/624], §§ 1805, 1806, title XXIII, §§ 2303(a), 2388(d)(1), Nov. 28, 1990, [104 Stat. 3819][/us/stat/104/3819], 3981, 4052; [Pub. L. 102–237, title V, § 501(c)][/us/pl/102/237/s501/c], title VII, § 701(h)(1)(E), Dec. 13, 1991, [105 Stat. 1866][/us/stat/105/1866], 1880; [Pub. L. 103–248, § 2][/us/pl/103/248/s2], May 11, 1994, [108 Stat. 619][/us/stat/108/619]; [Pub. L. 103–354, title II, § 226(h)][/us/pl/103/354/s226/h], Oct. 13, 1994, [108 Stat. 3216][/us/stat/108/3216]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 631, 632, title VII, § 748, Apr. 4, 1996, [110 Stat. 1092][/us/stat/110/1092], 1128; [Pub. L. 107–171, title V][/us/pl/107/171], §§ 5303, 5304(a), May 13, 2002, [116 Stat. 345][/us/stat/116/345]; [Pub. L. 113–79, title VI, § 6018][/us/pl/113/79/s6018], Feb. 7, 2014, [128 Stat. 846][/us/stat/128/846].)
 
  __References in Text__ 
 
@@ -68,6 +86,8 @@
     [Section 14 of title 6][/us/usc/t6/s14], referred to in subsec. (b)(7), was repealed by [Pub. L. 92–310, title II, § 203(1)][/us/pl/92/310/s203/1], June 6, 1972, [86 Stat. 202][/us/stat/86/202]. For provisions relating to surety bonds of Federal personnel, see section 9301 et seq. of Title 31, Money and Finance.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–79][/us/pl/113/79] added subsec. (d).
 
     2002—Subsec. (b)(4). [Pub. L. 107–171, § 5303][/us/pl/107/171/s5303], substituted “After consultation with a local or area county committee, the Secretary may release” for “The Secretary may release” and “carried out after” for “carried out—
 
@@ -322,6 +342,8 @@
 [/us/stat/110/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1092
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/stat/116/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F345
+[/us/pl/113/79/s6018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6018
+[/us/stat/128/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F846
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/act/1946-08-14/ch964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch964
 [/us/stat/60/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1062
@@ -350,6 +372,7 @@
 [/us/usc/t6/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs14
 [/us/pl/92/310/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs203%2F1
 [/us/stat/86/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F202
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/107/171/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5303
 [/us/usc/t7/s1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1982
 [/us/pl/107/171/s5304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs5304%2Fa

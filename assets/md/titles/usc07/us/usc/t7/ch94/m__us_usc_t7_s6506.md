@@ -39,7 +39,7 @@
 
         (7) provide for appropriate and adequate enforcement procedures, as determined by the Secretary to be necessary and consistent with this chapter;
 
-        (8) protect against conflict-of-interest as specified under [section 6515(h) of this title][/us/usc/t7/s6515/h];
+        (8) protect against conflict-of-interest as specified under [section 6515(g) of this title][/us/usc/t7/s6515/g];
 
         (9) provide for public access to certification documents and laboratory analyses that pertain to certification;
 
@@ -101,9 +101,11 @@
 
             The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses of the Secretary incurred in providing accreditation services under this chapter.
 
-([Pub. L. 101–624, title XXI, § 2107][/us/pl/101/624/s2107], Nov. 28, 1990, [104 Stat. 3938][/us/stat/104/3938]; [Pub. L. 105–185, title VI, § 601(a)][/us/pl/105/185/s601/a], June 23, 1998, [112 Stat. 585][/us/stat/112/585]; [Pub. L. 108–11, title II, § 2105][/us/pl/108/11/s2105], Apr. 16, 2003, [117 Stat. 589][/us/stat/117/589].)
+([Pub. L. 101–624, title XXI, § 2107][/us/pl/101/624/s2107], Nov. 28, 1990, [104 Stat. 3938][/us/stat/104/3938]; [Pub. L. 105–185, title VI, § 601(a)][/us/pl/105/185/s601/a], June 23, 1998, [112 Stat. 585][/us/stat/112/585]; [Pub. L. 108–11, title II, § 2105][/us/pl/108/11/s2105], Apr. 16, 2003, [117 Stat. 589][/us/stat/117/589]; [Pub. L. 113–79, title X, § 10005(b)(2)][/us/pl/113/79/s10005/b/2], Feb. 7, 2014, [128 Stat. 944][/us/stat/128/944].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(8). [Pub. L. 113–79][/us/pl/113/79] substituted “section 6515(g)” for “section 6515(h)”.
 
     2003—Subsecs. (c) to (e). [Pub. L. 108–11][/us/pl/108/11] added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -117,7 +119,7 @@
 ----------
 
 [/us/usc/t7/s6513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6513
-[/us/usc/t7/s6515/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6515%2Fh
+[/us/usc/t7/s6515/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6515%2Fg
 [/us/usc/t7/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6511
 [/us/usc/t7/s6518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6518
 [/us/usc/t7/s6507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6507
@@ -127,6 +129,9 @@
 [/us/stat/112/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F585
 [/us/pl/108/11/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs2105
 [/us/stat/117/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F589
+[/us/pl/113/79/s10005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F2
+[/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 

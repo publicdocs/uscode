@@ -43,7 +43,7 @@
 
         (5) Federal milk price support program established under [section 7981 of this title][/us/usc/t7/s7981]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-        (6) Export programs regarding milk and dairy products, such as the dairy export incentive program established under [section 713a–14 of title 15][/us/usc/t15/s713a–14].
+        (6) Export programs regarding milk and dairy products, such as the dairy export incentive program established under [section 713a–14 of title 15][/us/usc/t15/s713a–14].1
 
 ([Pub. L. 107–171, title I, § 1507][/us/pl/107/171/s1507], May 13, 2002, [116 Stat. 210][/us/stat/116/210].)
 
@@ -54,6 +54,8 @@
     S. 1157, referred to in subsec. (c)(2), which would have granted consent to the Northeast Interstate Dairy Compact, the Southern Dairy Compact, the Pacific Northwest Dairy Compact, and the Intermountain Dairy Compact, was not enacted into law during the 107th Congress.
 
     [Section 7981 of this title][/us/usc/t7/s7981], referred to in subsec. (c)(5), was in the original “section 1401”, and was translated as reading “section 1501”, meaning [section 1501 of Pub. L. 107–171][/us/pl/107/171/s1501] to reflect the probable intent of Congress, because [section 1501 of Pub. L. 107–171][/us/pl/107/171/s1501] relates to Federal milk price support program. [Section 1401 of Pub. L. 107–171][/us/pl/107/171/s1401] amended sections 7272 and 7283 of this title.
+
+    [Section 713a–14 of title 15][/us/usc/t15/s713a–14], referred to in subsec. (c)(6), was repealed by [Pub. L. 113–79, title I, § 1423(a)][/us/pl/113/79/s1423/a], Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].
 
 ----------
 
@@ -71,5 +73,8 @@
 [/us/pl/107/171/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1501
 [/us/pl/107/171/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1501
 [/us/pl/107/171/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1401
+[/us/usc/t15/s713a–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9314
+[/us/pl/113/79/s1423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1423%2Fa
+[/us/stat/128/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F695
 
 

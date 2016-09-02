@@ -19,11 +19,11 @@
 
         (1) __Minimum assistance__ 
 
-            Except as provided in paragraph (3), the Administrator shall make agricultural commodities available for food distribution under this subchapter in an amount that for each of fiscal years 2008 through 2012 is not less than 2,500,000 metric tons.
+            Except as provided in paragraph (3), the Administrator shall make agricultural commodities available for food distribution under this subchapter in an amount that for each of fiscal years 2008 through 2018 is not less than 2,500,000 metric tons.
 
         (2) __Minimum non-emergency assistance__ 
 
-            Of the amounts specified in paragraph (1), and except as provided in paragraph (3), the Administrator shall make agricultural commodities available for non-emergency food distribution through eligible organizations under [section 1722 of this title][/us/usc/t7/s1722] in an amount that for each of fiscal years 2008 through 2012 is not less than 1,875,000 metric tons.
+            Of the amounts specified in paragraph (1), and except as provided in paragraph (3), the Administrator shall make agricultural commodities available for non-emergency food distribution through eligible organizations under [section 1722 of this title][/us/usc/t7/s1722] in an amount that for each of fiscal years 2008 through 2018 is not less than 1,875,000 metric tons.
 
         (3) __Exception__ 
 
@@ -39,9 +39,11 @@
 
             The Administrator may waive the requirement of paragraph (1) for any fiscal year in which the Administrator determines that the requirements of the programs established under this subchapter will not be best served by the enforcement of such requirement under such paragraph.
 
-([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 204, [68 Stat. 458][/us/stat/68/458]; [Pub. L. 85–128, § 1(1)][/us/pl/85/128/s1/1], Aug. 13, 1957, [71 Stat. 345][/us/stat/71/345]; [Pub. L. 85–931, § 5][/us/pl/85/931/s5], Sept. 6, 1958, [72 Stat. 1791][/us/stat/72/1791]; [Pub. L. 86–341, title I, § 1][/us/pl/86/341/s1], Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606]; [Pub. L. 87–128, title II, § 202(2)][/us/pl/87/128/s202/2], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 88–638, § 1(15)][/us/pl/88/638/s1/15], Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037]; [Pub. L. 89–808, § 2(C)][/us/pl/89/808/s2/C], Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535]; [Pub. L. 95–113, title XII, § 1203][/us/pl/95/113/s1203], Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 97–98, title XII, § 1212][/us/pl/97/98/s1212], Dec. 22, 1981, [95 Stat. 1281][/us/stat/95/1281]; [Pub. L. 99–198, title XI, § 1101][/us/pl/99/198/s1101], Dec. 23, 1985, [99 Stat. 1465][/us/stat/99/1465]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3639][/us/stat/104/3639]; [Pub. L. 104–127, title II, § 209][/us/pl/104/127/s209], Apr. 4, 1996, [110 Stat. 954][/us/stat/110/954]; [Pub. L. 107–171, title III, § 3004][/us/pl/107/171/s3004], May 13, 2002, [116 Stat. 282][/us/stat/116/282]; [Pub. L. 108–199, div. A, title VII, § 758][/us/pl/108/199/s758], Jan. 23, 2004, [118 Stat. 38][/us/stat/118/38]; [Pub. L. 110–246, title III, § 3010][/us/pl/110/246/s3010], June 18, 2008, [122 Stat. 1824][/us/stat/122/1824].)
+([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 204, [68 Stat. 458][/us/stat/68/458]; [Pub. L. 85–128, § 1(1)][/us/pl/85/128/s1/1], Aug. 13, 1957, [71 Stat. 345][/us/stat/71/345]; [Pub. L. 85–931, § 5][/us/pl/85/931/s5], Sept. 6, 1958, [72 Stat. 1791][/us/stat/72/1791]; [Pub. L. 86–341, title I, § 1][/us/pl/86/341/s1], Sept. 21, 1959, [73 Stat. 606][/us/stat/73/606]; [Pub. L. 87–128, title II, § 202(2)][/us/pl/87/128/s202/2], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307]; [Pub. L. 88–638, § 1(15)][/us/pl/88/638/s1/15], Oct. 8, 1964, [78 Stat. 1037][/us/stat/78/1037]; [Pub. L. 89–808, § 2(C)][/us/pl/89/808/s2/C], Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535]; [Pub. L. 95–113, title XII, § 1203][/us/pl/95/113/s1203], Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 97–98, title XII, § 1212][/us/pl/97/98/s1212], Dec. 22, 1981, [95 Stat. 1281][/us/stat/95/1281]; [Pub. L. 99–198, title XI, § 1101][/us/pl/99/198/s1101], Dec. 23, 1985, [99 Stat. 1465][/us/stat/99/1465]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3639][/us/stat/104/3639]; [Pub. L. 104–127, title II, § 209][/us/pl/104/127/s209], Apr. 4, 1996, [110 Stat. 954][/us/stat/110/954]; [Pub. L. 107–171, title III, § 3004][/us/pl/107/171/s3004], May 13, 2002, [116 Stat. 282][/us/stat/116/282]; [Pub. L. 108–199, div. A, title VII, § 758][/us/pl/108/199/s758], Jan. 23, 2004, [118 Stat. 38][/us/stat/118/38]; [Pub. L. 110–246, title III, § 3010][/us/pl/110/246/s3010], June 18, 2008, [122 Stat. 1824][/us/stat/122/1824]; [Pub. L. 113–79, title III, § 3004][/us/pl/113/79/s3004], Feb. 7, 2014, [128 Stat. 774][/us/stat/128/774].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1), (2). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—Subsec. (a)(1), (2). [Pub. L. 110–246][/us/pl/110/246] substituted “2008 through 2012” for “2002 through 2007”.
 
@@ -165,6 +167,9 @@
 [/us/stat/118/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F38
 [/us/pl/110/246/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3010
 [/us/stat/122/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1824
+[/us/pl/113/79/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3004
+[/us/stat/128/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F774
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/107/171/s3004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3004%2F1

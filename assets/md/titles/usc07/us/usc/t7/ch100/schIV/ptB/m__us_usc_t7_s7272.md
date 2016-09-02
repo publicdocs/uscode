@@ -23,11 +23,9 @@
 
         (2) 18.25 cents per pound for raw cane sugar for the 2009 crop year;
 
-        (3) 18.50 cents per pound for raw cane sugar for the 2010 crop year;
+        (3) 18.50 cents per pound for raw cane sugar for the 2010 crop year; and
 
-        (4) 18.75 cents per pound for raw cane sugar for the 2011 crop year; and
-
-        (5) 18.75 cents per pound for raw cane sugar for the 2012 crop year.
+        (4) 18.75 cents per pound for raw cane sugar for each of the 2011 through 2018 crop years.
 
     (b) __Sugar beets__ 
 
@@ -35,7 +33,7 @@
 
         (1) 22.9 cents per pound for refined beet sugar for the 2008 crop year; and
 
-        (2) a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2012 crop years.
+        (2) a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2018 crop years.
 
     (c) __Term of loans__ 
 
@@ -201,9 +199,9 @@
 
     (i) __Effective period__ 
 
-        This section shall be effective only for the 2008 through 2012 crops of sugar beets and sugarcane.
+        This section shall be effective only for the 2008 through 2018 crops of sugar beets and sugarcane.
 
-([Pub. L. 104–127, title I, § 156][/us/pl/104/127/s156], Apr. 4, 1996, [110 Stat. 931][/us/stat/110/931]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 836\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–62; [Pub. L. 107–171, title I, § 1401(a)][/us/pl/107/171/s1401/a], May 13, 2002, [116 Stat. 183][/us/stat/116/183]; [Pub. L. 110–234, title I, § 1401(a)][/us/pl/110/234/s1401/a], May 22, 2008, [122 Stat. 977][/us/stat/122/977]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1401(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1705.)
+([Pub. L. 104–127, title I, § 156][/us/pl/104/127/s156], Apr. 4, 1996, [110 Stat. 931][/us/stat/110/931]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 836\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–62; [Pub. L. 107–171, title I, § 1401(a)][/us/pl/107/171/s1401/a], May 13, 2002, [116 Stat. 183][/us/stat/116/183]; [Pub. L. 110–234, title I, § 1401(a)][/us/pl/110/234/s1401/a], May 22, 2008, [122 Stat. 977][/us/stat/122/977]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1401(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1705; [Pub. L. 113–79, title I, § 1301(a)][/us/pl/113/79/s1301/a], Feb. 7, 2014, [128 Stat. 687][/us/stat/128/687].)
 
  __References in Text__ 
 
@@ -214,6 +212,12 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(3)–(5). [Pub. L. 113–79, § 1301(a)(1)][/us/pl/113/79/s1301/a/1], inserted “and” at end of par. (3), substituted “each of the 2011 through 2018 crop years.” for “the 2011 crop year; and” in par. (4), and struck out par. (5) which read as follows: “18.75 cents per pound for raw cane sugar for the 2012 crop year.”
+
+    Subsec. (b)(2). [Pub. L. 113–79, § 1301(a)(2)][/us/pl/113/79/s1301/a/2], substituted “2018” for “2012”.
+
+    Subsec. (i). [Pub. L. 113–79, § 1301(a)(3)][/us/pl/113/79/s1301/a/3], substituted “2018” for “2012”.
 
     2008—[Pub. L. 110–246, § 1401(a)][/us/pl/110/246/s1401/a], amended section generally, substituting provisions relating to loan program for the 2008 through 2012 crops of sugar beets and sugarcane, consisting of subsecs. (a) to (i), for provisions relating to loan program for the 1996 through 2007 crops of sugar beets and sugarcane, including provisions relating to loan rate adjustments, consisting of subsecs. (a) to (j).
 
@@ -266,11 +270,16 @@
 [/us/stat/122/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F977
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fa
+[/us/stat/128/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F687
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fa%2F1
+[/us/pl/113/79/s1301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fa%2F2
+[/us/pl/113/79/s1301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301%2Fa%2F3
 [/us/pl/110/246/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1401%2Fa
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa

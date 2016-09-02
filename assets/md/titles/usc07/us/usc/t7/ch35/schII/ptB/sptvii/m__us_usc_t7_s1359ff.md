@@ -63,7 +63,7 @@
 
             (B) __Exclusion__ 
 
-                The term “seed” does not include seed of a high-fiber cane variety dedicated to other uses, as determined by the Secretary  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
+                The term “seed” does not include seed of a high-fiber cane variety dedicated to other uses, as determined by the Secretary.
 
         (2) __In general__ 
 
@@ -123,7 +123,7 @@
 
             Whenever the Secretary determines that, because of a natural disaster or other condition beyond the control of producers that adversely affects a crop of sugarcane subject to proportionate shares, the amount of sugar from sugarcane produced by producers subject to the proportionate shares will not be sufficient to enable processors in the State to meet the State’s cane sugar allotment and provide a normal carryover inventory of sugar, the Secretary may uniformly allow producers to harvest an amount of sugarcane in excess of their proportionate share, or suspend proportionate shares entirely, as necessary to enable processors to meet the State allotment and provide a normal carryover inventory of sugar.
 
-([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359f, as added [Pub. L. 107–171, title I, § 1403][/us/pl/107/171/s1403], May 13, 2002, [116 Stat. 198][/us/stat/116/198]; amended [Pub. L. 110–234, title I, § 1403(f)][/us/pl/110/234/s1403/f], May 22, 2008, [122 Stat. 986][/us/stat/122/986]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1403(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1714.)
+([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359f, as added [Pub. L. 107–171, title I, § 1403][/us/pl/107/171/s1403], May 13, 2002, [116 Stat. 198][/us/stat/116/198]; amended [Pub. L. 110–234, title I, § 1403(f)][/us/pl/110/234/s1403/f], May 22, 2008, [122 Stat. 986][/us/stat/122/986]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1403(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1714; [Pub. L. 113–79, title I, § 1609(a)][/us/pl/113/79/s1609/a], Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
 
  __Codification__ 
 
@@ -134,6 +134,8 @@
     A prior section 1359ff, [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title III, § 359f, as added [Pub. L. 101–624, title IX, § 902][/us/pl/101/624/s902], Nov. 28, 1990, [104 Stat. 3484][/us/stat/104/3484]; amended [Pub. L. 102–237, title I, § 111(h)][/us/pl/102/237/s111/h], Dec. 13, 1991, [105 Stat. 1834][/us/stat/105/1834]; [Pub. L. 102–535][/us/pl/102/535], Oct. 27, 1992, [106 Stat. 3526][/us/stat/106/3526], related to provisions applicable to producers, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1)(B). [Pub. L. 113–79][/us/pl/113/79] inserted period at end.
 
     2008—Subsec. (c). [Pub. L. 110–246, § 1403(f)][/us/pl/110/246/s1403/f], added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, in par. (3), substituted “paragraph (2)” for “paragraph (1)”, “quantity of sugar produced from sugarcane” for “quantity of sugarcane”, and “paragraph (8)” for “paragraph (7)”, in par. (6)(C), substituted “acreage of sugarcane for sugar” for “acreage of sugarcane”, in par. (8), substituted “the amount of sugar from sugarcane” for “the amount of sugarcane”, and struck out former par. (8) which related to petition to modify allocations to allow delivery to another sugarcane processing company if a processing facility was closed and the growers that had delivered sugarcane to the facility prior to closure had elected to deliver their sugarcane to another company.
 
@@ -160,6 +162,8 @@
 [/us/stat/122/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F986
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fa
+[/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -172,6 +176,7 @@
 [/us/pl/102/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F535
 [/us/stat/106/3526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3526
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s1403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1403%2Ff
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

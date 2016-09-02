@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8107.md) | [Next](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8109.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8108)
+[Previous](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8107a.md) | [Next](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8109.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8108)
 
 ## § 8108. Biomass research and development
 
@@ -301,7 +301,7 @@
 
                 (i) adapted, made available, and disseminated, as appropriate; and
 
-                (ii) included in the best practices database established under [section 5925e(e) of this title][/us/usc/t7/s5925e/e].
+                (ii) included in the best practices database established under section 5925e(e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
     (f) __Administrative support and funds__ 
 
@@ -337,15 +337,21 @@
 
             (B) $28,000,000 for fiscal year 2010;
 
-            (C) $30,000,000 for fiscal year 2011; and
+            (C) $30,000,000 for fiscal year 2011;
 
-            (D) $40,000,000 for fiscal year 2012.
+            (D) $40,000,000 for fiscal year 2012; and
+
+            (E) $3,000,000 for each of fiscal years 2014 through 2017.
 
         (2) __Discretionary funding__ 
 
-            In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2009 through 2013.
+            In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 107–171, title IX, § 9008][/us/pl/107/171/s9008], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1318][/us/stat/122/1318], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2079; amended [Pub. L. 112–240, title VII, § 701(f)(7)][/us/pl/112/240/s701/f/7], Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365].)
+([Pub. L. 107–171, title IX, § 9008][/us/pl/107/171/s9008], as added [Pub. L. 110–234, title IX, § 9001(a)][/us/pl/110/234/s9001/a], May 22, 2008, [122 Stat. 1318][/us/stat/122/1318], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IX, § 9001(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2079; amended [Pub. L. 112–240, title VII, § 701(f)(7)][/us/pl/112/240/s701/f/7], Jan. 2, 2013, [126 Stat. 2365][/us/stat/126/2365]; [Pub. L. 113–79, title IX, § 9008][/us/pl/113/79/s9008], Feb. 7, 2014, [128 Stat. 931][/us/stat/128/931].)
+
+ __References in Text__ 
+
+    [Section 5925e of this title][/us/usc/t7/s5925e], referred to in subsec. (e)(6)(C)(ii), was repealed by [Pub. L. 113–79, title VII, § 7212(a)][/us/pl/113/79/s7212/a], Feb. 7, 2014, [128 Stat. 886][/us/stat/128/886].
 
  __Codification__ 
 
@@ -359,6 +365,10 @@
 
  __Amendments__ 
 
+    2014—Subsec. (h)(1)(E). [Pub. L. 113–79, § 9008(1)][/us/pl/113/79/s9008/1], added subpar. (E).
+
+    Subsec. (h)(2). [Pub. L. 113–79, § 9008(2)][/us/pl/113/79/s9008/2], substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$35,000,000 for each of fiscal years 2009 through 2013”.
+
     2013—Subsec. (h)(2). [Pub. L. 112–240][/us/pl/112/240] substituted “2013” for “2012”.
 
  __Effective Date of 2013 Amendment__ 
@@ -367,12 +377,11 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8107.md) | [Next](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8109.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8108)
+[Previous](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8107a.md) | [Next](./../../../..//us/usc/t7/ch107/m__us_usc_t7_s8109.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8108)
 
 ----------
 ----------
 
-[/us/usc/t7/s5925e/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5925e%2Fe
 [/us/pl/107/171/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9008
 [/us/pl/110/234/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs9001%2Fa
 [/us/stat/122/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1318
@@ -380,6 +389,11 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/240/s701/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Ff%2F7
 [/us/stat/126/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2365
+[/us/pl/113/79/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9008
+[/us/stat/128/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F931
+[/us/usc/t7/s5925e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5925e
+[/us/pl/113/79/s7212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7212%2Fa
+[/us/stat/128/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F886
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -391,6 +405,8 @@
 [/us/pl/107/171/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs9008
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/110/246/s9001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs9001%2Fb
+[/us/pl/113/79/s9008/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9008%2F1
+[/us/pl/113/79/s9008/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9008%2F2
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s701/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fj

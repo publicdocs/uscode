@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1626.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1628.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1627)
+[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1626.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1627a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1627)
 
 ## § 1627. Appointment of personnel; compensation; employment of specialists
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1626.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1628.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1627)
+[Previous](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1626.md) | [Next](./../../../../..//us/usc/t7/ch38/schI/m__us_usc_t7_s1627a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1627)
 
 ----------
 ----------

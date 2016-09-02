@@ -13,17 +13,45 @@
 
 [Previous](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5925f.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5927.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5926)
 
-## § 5926. Repealed. [Pub. L. 110–234, title VII, § 7209][/us/pl/110/234/s7209], May 22, 2008, [122 Stat. 1241][/us/stat/122/1241], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7209, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003
+## § 5926. Centers of excellence
 
-    Section, [Pub. L. 101–624, title XVI, § 1673][/us/pl/101/624/s1673], Nov. 28, 1990, [104 Stat. 3773][/us/stat/104/3773]; [Pub. L. 102–237, title IV, § 407(12)][/us/pl/102/237/s407/12], Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865]; [Pub. L. 104–127, title VIII, § 837][/us/pl/104/127/s837], Apr. 4, 1996, [110 Stat. 1169][/us/stat/110/1169]; [Pub. L. 105–185, title II, § 245][/us/pl/105/185/s245], title III, § 301(b)(2), June 23, 1998, [112 Stat. 556][/us/stat/112/556], 563; [Pub. L. 107–171, title VII, § 7121][/us/pl/107/171/s7121], May 13, 2002, [116 Stat. 434][/us/stat/116/434], established an agricultural telecommunications program.
+    (a) __Funding priorities__ 
 
- __Codification__ 
+        The Secretary shall prioritize centers of excellence established for purposes of carrying out research, extension, and education activities relating to the food and agricultural sciences (as defined in [section 3103 of this title][/us/usc/t7/s3103]) for the receipt of funding for any competitive research or extension program administered by the Secretary.
 
-    [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] repealed this section. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
+    (b) __Composition__ 
 
- __Effective Date of Repeal__ 
+        A center of excellence is composed of 1 or more of the eligible entities specified in subsection (b)(7) of [section 450i of this title][/us/usc/t7/s450i] that provide financial or in-kind support to the center of excellence.
 
-    Repeal of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of this title][/us/usc/t7/s8701].
+    (c) __Criteria for centers of excellence__ 
+
+        (1) __Required efforts__ 
+
+        The criteria for recognition as a center of excellence shall include efforts—
+
+            (A) to ensure coordination and cost effectiveness by reducing unnecessarily duplicative efforts regarding research, teaching, and extension;
+
+            (B) to leverage available resources by using public-private partnerships among agricultural industry groups, institutions of higher education, and the Federal Government;
+
+            (C) to implement teaching initiatives to increase awareness and effectively disseminate solutions to target audiences through extension activities; and
+
+            (D) to increase the economic returns to rural communities by identifying, attracting, and directing funds to high-priority agricultural issues.
+
+        (2) __Additional efforts__ 
+
+            Where practicable, the criteria for recognition as a center of excellence shall include efforts to improve teaching capacity and infrastructure at colleges and universities (including land-grant colleges and universities, cooperating forestry schools, NLGCA Institutions (as those terms are defined in [section 3103 of this title][/us/usc/t7/s3103]), and schools of veterinary medicine).
+
+([Pub. L. 101–624, title XVI, § 1673][/us/pl/101/624/s1673], as added [Pub. L. 113–79, title VII, § 7214(a)][/us/pl/113/79/s7214/a], Feb. 7, 2014, [128 Stat. 886][/us/stat/128/886].)
+
+ __Prior Provisions__ 
+
+    A prior section 5926, [Pub. L. 101–624, title XVI, § 1673][/us/pl/101/624/s1673], Nov. 28, 1990, [104 Stat. 3773][/us/stat/104/3773]; [Pub. L. 102–237, title IV, § 407(12)][/us/pl/102/237/s407/12], Dec. 13, 1991, [105 Stat. 1865][/us/stat/105/1865]; [Pub. L. 104–127, title VIII, § 837][/us/pl/104/127/s837], Apr. 4, 1996, [110 Stat. 1169][/us/stat/110/1169]; [Pub. L. 105–185, title II, § 245][/us/pl/105/185/s245], title III, § 301(b)(2), June 23, 1998, [112 Stat. 556][/us/stat/112/556], 563; [Pub. L. 107–171, title VII, § 7121][/us/pl/107/171/s7121], May 13, 2002, [116 Stat. 434][/us/stat/116/434], established an agricultural telecommunications program, prior to repeal by [Pub. L. 110–234, title VII, § 7209][/us/pl/110/234/s7209], May 22, 2008, [122 Stat. 1241][/us/stat/122/1241], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7209, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2003, effective May 22, 2008.
+
+ __Effective Date__ 
+
+[Pub. L. 113–79, title VII, § 7214(b)][/us/pl/113/79/s7214/b], Feb. 7, 2014, [128 Stat. 887][/us/stat/128/887], provided that: 
+
+> “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 2014.”
 
 ----------
 
@@ -32,10 +60,12 @@
 ----------
 ----------
 
-[/us/pl/110/234/s7209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7209
-[/us/stat/122/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1241
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
+[/us/usc/t7/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs450i
+[/us/usc/t7/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3103
+[/us/pl/101/624/s1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1673
+[/us/pl/113/79/s7214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7214%2Fa
+[/us/stat/128/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F886
 [/us/pl/101/624/s1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1673
 [/us/stat/104/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3773
 [/us/pl/102/237/s407/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs407%2F12
@@ -46,14 +76,11 @@
 [/us/stat/112/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F556
 [/us/pl/107/171/s7121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs7121
 [/us/stat/116/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F434
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/s7209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7209
+[/us/stat/122/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1241
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
-[/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7214%2Fb
+[/us/stat/128/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F887
 
 

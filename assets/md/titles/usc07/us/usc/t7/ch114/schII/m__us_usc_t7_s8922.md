@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch114/schII/m__us_usc_t7_s8921.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8922)
+[Previous](./../../../../..//us/usc/t7/ch114/schII/m__us_usc_t7_s8921.md) | [Next](./../../../../..//us/usc/t7/ch115/m__us_usc_t7_ch115.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8922)
 
 ## § 8922. Agricultural biosecurity grant program
 
@@ -63,13 +63,21 @@
 
     (e) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated sums as are necessary to carry out this section for each of fiscal years 2008 through 2012, to remain available until expended.
+    There are authorized to be appropriated to carry out this section—
 
-([Pub. L. 110–234, title XIV, § 14122][/us/pl/110/234/s14122], May 22, 2008, [122 Stat. 1456][/us/stat/122/1456]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14122, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2218.)
+        (1) such sums as are necessary for each of fiscal years 2008 through 2013, to remain available until expended; and
+
+        (2) $5,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+
+([Pub. L. 110–234, title XIV, § 14122][/us/pl/110/234/s14122], May 22, 2008, [122 Stat. 1456][/us/stat/122/1456]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14122, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2218; [Pub. L. 113–79, title VII, § 7504][/us/pl/113/79/s7504], Feb. 7, 2014, [128 Stat. 901][/us/stat/128/901].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
+
+ __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] struck out “sums as are necessary” after “appropriated”, substituted “section—” for “section for each of fiscal years 2008 through 2012, to remain available until expended.”, and added pars. (1) and (2).
 
  __Definition of “Secretary”__ 
 
@@ -77,7 +85,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch114/schII/m__us_usc_t7_s8921.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8922)
+[Previous](./../../../../..//us/usc/t7/ch114/schII/m__us_usc_t7_s8921.md) | [Next](./../../../../..//us/usc/t7/ch115/m__us_usc_t7_ch115.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8922)
 
 ----------
 ----------
@@ -86,10 +94,13 @@
 [/us/stat/122/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1456
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7504
+[/us/stat/128/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F901
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 
 

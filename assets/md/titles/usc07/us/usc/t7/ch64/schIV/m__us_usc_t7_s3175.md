@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3174a.md) | [Next](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3175a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175)
+[Previous](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3173.md) | [Next](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3175a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175)
 
 ## § 3175. Nutrition education program
 
@@ -91,15 +91,17 @@
 
     (f) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out the expanded food and nutrition education program established under [section 343(d) of this title][/us/usc/t7/s343/d] and this section $90,000,000 for each of fiscal years 2009 through 2012.
+        There is authorized to be appropriated to carry out the expanded food and nutrition education program established under [section 343(d) of this title][/us/usc/t7/s343/d] and this section $90,000,000 for each of fiscal years 2009 through 2018.
 
-([Pub. L. 95–113, title XIV, § 1425][/us/pl/95/113/s1425], Sept. 29, 1977, [91 Stat. 1000][/us/stat/91/1000]; [Pub. L. 97–98, title XIV, § 1423][/us/pl/97/98/s1423], Dec. 22, 1981, [95 Stat. 1307][/us/stat/95/1307]; [Pub. L. 101–624, title XVII, § 1776(b)][/us/pl/101/624/s1776/b], Nov. 28, 1990, [104 Stat. 3814][/us/stat/104/3814]; [Pub. L. 104–127, title VIII, § 809][/us/pl/104/127/s809], Apr. 4, 1996, [110 Stat. 1164][/us/stat/110/1164]; [Pub. L. 105–185, title III, § 301(a)(6)][/us/pl/105/185/s301/a/6], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7106][/us/pl/107/171/s7106], May 13, 2002, [116 Stat. 432][/us/stat/116/432]; [Pub. L. 110–234, title VII, § 7116(a)][/us/pl/110/234/s7116/a], May 22, 2008, [122 Stat. 1220][/us/stat/122/1220]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7116(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1981.)
+([Pub. L. 95–113, title XIV, § 1425][/us/pl/95/113/s1425], Sept. 29, 1977, [91 Stat. 1000][/us/stat/91/1000]; [Pub. L. 97–98, title XIV, § 1423][/us/pl/97/98/s1423], Dec. 22, 1981, [95 Stat. 1307][/us/stat/95/1307]; [Pub. L. 101–624, title XVII, § 1776(b)][/us/pl/101/624/s1776/b], Nov. 28, 1990, [104 Stat. 3814][/us/stat/104/3814]; [Pub. L. 104–127, title VIII, § 809][/us/pl/104/127/s809], Apr. 4, 1996, [110 Stat. 1164][/us/stat/110/1164]; [Pub. L. 105–185, title III, § 301(a)(6)][/us/pl/105/185/s301/a/6], June 23, 1998, [112 Stat. 562][/us/stat/112/562]; [Pub. L. 107–171, title VII, § 7106][/us/pl/107/171/s7106], May 13, 2002, [116 Stat. 432][/us/stat/116/432]; [Pub. L. 110–234, title VII, § 7116(a)][/us/pl/110/234/s7116/a], May 22, 2008, [122 Stat. 1220][/us/stat/122/1220]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7116(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1981; [Pub. L. 113–79, title VII, § 7110][/us/pl/113/79/s7110], Feb. 7, 2014, [128 Stat. 870][/us/stat/128/870].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—[Pub. L. 110–246, § 7116(a)(2)][/us/pl/110/246/s7116/a/2], reenacted section catchline without change.
 
@@ -143,7 +145,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3174a.md) | [Next](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3175a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175)
+[Previous](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3173.md) | [Next](./../../../../..//us/usc/t7/ch64/schIV/m__us_usc_t7_s3175a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3175)
 
 ----------
 ----------
@@ -172,10 +174,13 @@
 [/us/stat/122/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1220
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs7110
+[/us/stat/128/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F870
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s7116/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7116%2Fa%2F2
 [/us/pl/110/246/s7116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7116%2Fa%2F1
 [/us/pl/110/246/s7116/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7116%2Fa%2F5%2FB

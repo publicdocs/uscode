@@ -41,9 +41,19 @@
 
             (C) Notwithstanding subparagraph (A), the Secretary shall establish loan rates for health care and related facilities based solely on the income of the area to be served, and such rates shall be otherwise consistent with such subparagraph.
 
-            (D)  __Joint financing arrangement__  __.—__ 
+            (D)  __Joint financing arrangements__  __.—__ 
 
-            If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.
+            If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be a rate equal to the greater of—
+
+                (i)
+
+                 the difference between—
+
+                    (I) 2 percent; and
+
+                    (II) the interest rate for farm ownership loans under this subchapter; or
+
+                (ii) 2.5 percent.
 
             (E) __Interest rates for water and waste disposal facilities loans.—__ 
 
@@ -91,11 +101,7 @@
 
         The Secretary shall take as security for the obligations entered into in connection with loans, mortgages on farms with respect to which such loans are made or such other security as the Secretary may require, and for obligations in connection with loans to associations under [section 1926 of this title][/us/usc/t7/s1926], shall take liens on the facility or such other security as he may determine to be necessary. Such security instruments may constitute liens running to the United States notwithstanding the fact that the notes may be held by lenders other than the United States. A borrower may use the same collateral to secure two or more loans made, insured, or guaranteed under this subchapter, except that the outstanding amount of such loans may not exceed the total value of the collateral so used.
 
-    (d) __Mineral rights as collateral__ 
-
-        With respect to a farm ownership loan made after December 23, 1985, unless appraised values of the rights to oil, gas, or other minerals are specifically included as part of the appraised value of collateral securing the loan, the rights to oil, gas, or other minerals located under the property shall not be considered part of the collateral securing the loan. Nothing in this subsection shall prevent the inclusion of, as part of the collateral securing the loan, any payment or other compensation the borrower may receive for damages to the surface of the collateral real estate resulting from the exploration for or recovery of minerals.
-
-    (e) __Additional collateral__ 
+    (d) __Additional collateral__ 
 
     The Secretary may not—
 
@@ -103,19 +109,23 @@
 
         (2) bring any action to foreclose, or otherwise liquidate, any such loan as a result of the failure of a borrower to provide additional collateral to secure a loan, if the borrower was current in the payment of principal and interest on the loan at the time the additional collateral was requested.
 
-([Pub. L. 87–128, title III, § 307][/us/pl/87/128/s307], Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 113, 114, 128(b), Aug. 30, 1972, [86 Stat. 660][/us/stat/86/660], 666; [Pub. L. 95–334, title I, § 108][/us/pl/95/334/s108], Aug. 4, 1978, [92 Stat. 422][/us/stat/92/422]; [Pub. L. 97–35, title I, § 160(a)][/us/pl/97/35/s160/a], Aug. 13, 1981, [95 Stat. 376][/us/stat/95/376]; [Pub. L. 99–198, title XIII][/us/pl/99/198], §§ 1304A, 1305, Dec. 23, 1985, [99 Stat. 1521][/us/stat/99/1521]; [Pub. L. 100–233, title VI][/us/pl/100/233], §§ 603, 604, Jan. 6, 1988, [101 Stat. 1665][/us/stat/101/1665], 1666; [Pub. L. 101–624, title XVIII, § 1803(a)][/us/pl/101/624/s1803/a], title XXIII, § 2383, Nov. 28, 1990, [104 Stat. 3818][/us/stat/104/3818], 4050; [Pub. L. 102–552, title V, § 516(c)(1)][/us/pl/102/552/s516/c/1], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137]; [Pub. L. 103–328, title I, § 113(a)][/us/pl/103/328/s113/a], Sept. 29, 1994, [108 Stat. 2366][/us/stat/108/2366]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 604, 661(a), title VII, § 747(b)(1), Apr. 4, 1996, [110 Stat. 1086][/us/stat/110/1086], 1106, 1128; [Pub. L. 110–234, title VI][/us/pl/110/234], §§ 6011, 6012(b)(1), May 22, 2008, [122 Stat. 1163][/us/stat/122/1163], 1165; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, §§ 6011, 6012(b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1925, 1927.)
+([Pub. L. 87–128, title III, § 307][/us/pl/87/128/s307], Aug. 8, 1961, [75 Stat. 308][/us/stat/75/308]; [Pub. L. 92–419, title I][/us/pl/92/419], §§ 113, 114, 128(b), Aug. 30, 1972, [86 Stat. 660][/us/stat/86/660], 666; [Pub. L. 95–334, title I, § 108][/us/pl/95/334/s108], Aug. 4, 1978, [92 Stat. 422][/us/stat/92/422]; [Pub. L. 97–35, title I, § 160(a)][/us/pl/97/35/s160/a], Aug. 13, 1981, [95 Stat. 376][/us/stat/95/376]; [Pub. L. 99–198, title XIII][/us/pl/99/198], §§ 1304A, 1305, Dec. 23, 1985, [99 Stat. 1521][/us/stat/99/1521]; [Pub. L. 100–233, title VI][/us/pl/100/233], §§ 603, 604, Jan. 6, 1988, [101 Stat. 1665][/us/stat/101/1665], 1666; [Pub. L. 101–624, title XVIII, § 1803(a)][/us/pl/101/624/s1803/a], title XXIII, § 2383, Nov. 28, 1990, [104 Stat. 3818][/us/stat/104/3818], 4050; [Pub. L. 102–552, title V, § 516(c)(1)][/us/pl/102/552/s516/c/1], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137]; [Pub. L. 103–328, title I, § 113(a)][/us/pl/103/328/s113/a], Sept. 29, 1994, [108 Stat. 2366][/us/stat/108/2366]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 604, 661(a), title VII, § 747(b)(1), Apr. 4, 1996, [110 Stat. 1086][/us/stat/110/1086], 1106, 1128; [Pub. L. 110–234, title VI][/us/pl/110/234], §§ 6011, 6012(b)(1), May 22, 2008, [122 Stat. 1163][/us/stat/122/1163], 1165; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, §§ 6011, 6012(b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1925, 1927; [Pub. L. 113–79, title V][/us/pl/113/79], §§ 5003, 5004, Feb. 7, 2014, [128 Stat. 834][/us/stat/128/834].)
 
  __References in Text__ 
 
     The date of enactment of this subparagraph, referred to in subsec. (a)(3)(E)(ii), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
-    For definition of “this chapter”, referred to in subsecs. (a)(6)(A) and (e)(1), see note set out under [section 1921 of this title][/us/usc/t7/s1921].
+    For definition of “this chapter”, referred to in subsecs. (a)(6)(A), (b), and (d)(1), see note set out under [section 1921 of this title][/us/usc/t7/s1921].
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(3)(D). [Pub. L. 113–79, § 5003][/us/pl/113/79/s5003], added subpar. (D) and struck out former subpar. (D). Prior to amendment, text read as follows: “If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.”
+
+    Subsecs. (d), (e). [Pub. L. 113–79, § 5004][/us/pl/113/79/s5004], redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “With respect to a farm ownership loan made after December 23, 1985, unless appraised values of the rights to oil, gas, or other minerals are specifically included as part of the appraised value of collateral securing the loan, the rights to oil, gas, or other minerals located under the property shall not be considered part of the collateral securing the loan. Nothing in this subsection shall prevent the inclusion of, as part of the collateral securing the loan, any payment or other compensation the borrower may receive for damages to the surface of the collateral real estate resulting from the exploration for or recovery of minerals.”
 
     2008—Subsec. (a)(3)(E). [Pub. L. 110–246, § 6011][/us/pl/110/246/s6011], added subpar. (E).
 
@@ -239,12 +249,16 @@
 [/us/stat/122/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1163
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F834
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5003
+[/us/pl/113/79/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs5004
 [/us/pl/110/246/s6011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6011
 [/us/pl/110/246/s6012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6012%2Fb%2F1
 [/us/usc/t7/s1932/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1932%2Fa

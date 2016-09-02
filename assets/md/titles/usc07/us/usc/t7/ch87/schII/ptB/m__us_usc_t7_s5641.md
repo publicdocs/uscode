@@ -19,19 +19,9 @@
 
         The Commodity Credit Corporation may make available for each fiscal year such funds of the Commodity Credit Corporation as it determines necessary to carry out any direct credit program established under [section 5621 of this title][/us/usc/t7/s5621].
 
-    (b) __Export credit guarantee programs__ 
+    (b) __Export credit guarantee program__ 
 
-    The Commodity Credit Corporation shall make available for each of fiscal years 1996 through 2012 credit guarantees under [section 5622(a) of this title][/us/usc/t7/s5622/a] in an amount equal to but not more than the lesser of—
-
-        (1) $5,500,000,000 in credit guarantees; or
-
-        (2)
-
-         the sum of—
-
-            (A) the amount of credit guarantees that the Commodity Credit Corporation can make available using budget authority of $40,000,000 for each fiscal year for the costs of the credit guarantees; and
-
-            (B) the amount of credit guarantees that the Commodity Credit Corporation can make available using unobligated budget authority for prior fiscal years.
+        The Commodity Credit Corporation shall make available for each fiscal year $5,500,000,000 of credit guarantees under [section 5622(a) of this title][/us/usc/t7/s5622/a].
 
     (c) __Market access programs__ 
 
@@ -39,7 +29,7 @@
 
         The Commodity Credit Corporation or the Secretary shall make available for market access activities authorized to be carried out by the Commodity Credit Corporation under [section 5623 of this title][/us/usc/t7/s5623]—
 
-            (A) in addition to any funds that may be specifically appropriated to implement a market access program, not more than $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2008 through 2012, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
+            (A) in addition to any funds that may be specifically appropriated to implement a market access program, not more than $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2008 through 2018, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
 
             (B) any funds that may be specifically appropriated to carry out a market access program under [section 5623 of this title][/us/usc/t7/s5623].
 
@@ -63,9 +53,13 @@
 
                 (ii) proposals submitted for activities in markets other than emerging markets.
 
-([Pub. L. 95–501, title II, § 211][/us/pl/95/501/s211], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3677][/us/stat/104/3677]; amended [Pub. L. 103–66, title I, § 1302(a)][/us/pl/103/66/s1302/a], Aug. 10, 1993, [107 Stat. 330][/us/stat/107/330]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 243(b), 244(a)(2)(B), (c), Apr. 4, 1996, [110 Stat. 967][/us/stat/110/967], 968; [Pub. L. 107–171, title III][/us/pl/107/171], §§ 3102(d), 3103, May 13, 2002, [116 Stat. 289][/us/stat/116/289]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3101(b), 3102(b), June 18, 2008, [122 Stat. 1831][/us/stat/122/1831], 1832.)
+([Pub. L. 95–501, title II, § 211][/us/pl/95/501/s211], as added [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3677][/us/stat/104/3677]; amended [Pub. L. 103–66, title I, § 1302(a)][/us/pl/103/66/s1302/a], Aug. 10, 1993, [107 Stat. 330][/us/stat/107/330]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 243(b), 244(a)(2)(B), (c), Apr. 4, 1996, [110 Stat. 967][/us/stat/110/967], 968; [Pub. L. 107–171, title III][/us/pl/107/171], §§ 3102(d), 3103, May 13, 2002, [116 Stat. 289][/us/stat/116/289]; [Pub. L. 110–246, title III][/us/pl/110/246], §§ 3101(b), 3102(b), June 18, 2008, [122 Stat. 1831][/us/stat/122/1831], 1832; [Pub. L. 113–79, title III][/us/pl/113/79], §§ 3101(b), 3102, Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779].)
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–79, § 3101(b)][/us/pl/113/79/s3101/b], amended subsec. (b) generally. Prior to amendment, subsec (b) related to credit guarantees under [section 5622(a) of this title][/us/usc/t7/s5622/a] for fiscal years 1996 to 2012.
+
+    Subsec. (c)(1)(A). [Pub. L. 113–79, § 3102][/us/pl/113/79/s3102], substituted “2018” for “2012”.
 
     2008—Subsec. (b). [Pub. L. 110–246, § 3101(b)][/us/pl/110/246/s3101/b], added subsec. (b) and struck out former subsec. (b) which related to amount available for export credit guarantees for each of fiscal years 1996 through 2007 and limitation on amount of any origination fee.
 
@@ -117,6 +111,11 @@
 [/us/stat/116/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F289
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1831
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F779
+[/us/pl/113/79/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3101%2Fb
+[/us/usc/t7/s5622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5622%2Fa
+[/us/pl/113/79/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3102
 [/us/pl/110/246/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3101%2Fb
 [/us/pl/110/246/s3102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3102%2Fb
 [/us/pl/107/171/s3102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3102%2Fd

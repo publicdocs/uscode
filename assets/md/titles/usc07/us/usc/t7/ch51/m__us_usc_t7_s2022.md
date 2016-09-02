@@ -19,7 +19,7 @@
 
         (1) __Determination of claims__ 
 
-            Except in the case of an at-risk amount required under [section 2025(c)(1)(D)(i)(III) of this title][/us/usc/t7/s2025/c/1/D/i/III], the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under [section 2025 of this title][/us/usc/t7/s2025] to collect unpaid claims assessed against the State agency if the State agency has declined or exhausted its appeal rights under [section 2023 of this title][/us/usc/t7/s2023].
+            Except in the case of an at-risk amount required under [section 2025(c)(1)(D)(i)(II) of this title][/us/usc/t7/s2025/c/1/D/i/II], the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under [section 2025 of this title][/us/usc/t7/s2025] to collect unpaid claims assessed against the State agency if the State agency has declined or exhausted its appeal rights under [section 2023 of this title][/us/usc/t7/s2023].
 
         (2) __Claims established under quality control system__ 
 
@@ -139,13 +139,15 @@
 
         The amount of an overissuance of benefits, as determined under subsection (b)(1) of this section, that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by [section 5514 of title 5][/us/usc/t5/s5514] or a Federal income tax refund as authorized by [section 3720A of title 31][/us/usc/t31/s3720A].
 
-([Pub. L. 88–525, § 13][/us/pl/88/525/s13], Aug. 31, 1964, [78 Stat. 707][/us/stat/78/707]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 974][/us/stat/91/974]; [Pub. L. 97–35, title I, § 113][/us/pl/97/35/s113], Aug. 13, 1981, [95 Stat. 363][/us/stat/95/363]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 177, 178, Sept. 8, 1982, [96 Stat. 781][/us/stat/96/781], 782; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1533–1535(a), Dec. 23, 1985, [99 Stat. 1583][/us/stat/99/1583]; [Pub. L. 100–435, title VI][/us/pl/100/435], §§ 601, 602, Sept. 19, 1988, [102 Stat. 1674][/us/stat/102/1674]; [Pub. L. 101–624, title XVII, § 1746][/us/pl/101/624/s1746], Nov. 28, 1990, [104 Stat. 3796][/us/stat/104/3796]; [Pub. L. 102–237, title IX, § 911][/us/pl/102/237/s911], Dec. 13, 1991, [105 Stat. 1887][/us/stat/105/1887]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13941(b), 13951(a), Aug. 10, 1993, [107 Stat. 676][/us/stat/107/676], 677; [Pub. L. 104–193, title VIII, § 844(a)][/us/pl/104/193/s844/a], Aug. 22, 1996, [110 Stat. 2332][/us/stat/110/2332]; [Pub. L. 107–171, title IV, § 4118(b)][/us/pl/107/171/s4118/b], May 13, 2002, [116 Stat. 321][/us/stat/116/321]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4115(b)(9), 4133, May 22, 2008, [122 Stat. 1107][/us/stat/122/1107], 1116; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4115(b)(9), 4133, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1869, 1877.)
+([Pub. L. 88–525, § 13][/us/pl/88/525/s13], Aug. 31, 1964, [78 Stat. 707][/us/stat/78/707]; [Pub. L. 95–113, title XIII, § 1301][/us/pl/95/113/s1301], Sept. 29, 1977, [91 Stat. 974][/us/stat/91/974]; [Pub. L. 97–35, title I, § 113][/us/pl/97/35/s113], Aug. 13, 1981, [95 Stat. 363][/us/stat/95/363]; [Pub. L. 97–253, title I][/us/pl/97/253], §§ 177, 178, Sept. 8, 1982, [96 Stat. 781][/us/stat/96/781], 782; [Pub. L. 99–198, title XV][/us/pl/99/198], §§ 1533–1535(a), Dec. 23, 1985, [99 Stat. 1583][/us/stat/99/1583]; [Pub. L. 100–435, title VI][/us/pl/100/435], §§ 601, 602, Sept. 19, 1988, [102 Stat. 1674][/us/stat/102/1674]; [Pub. L. 101–624, title XVII, § 1746][/us/pl/101/624/s1746], Nov. 28, 1990, [104 Stat. 3796][/us/stat/104/3796]; [Pub. L. 102–237, title IX, § 911][/us/pl/102/237/s911], Dec. 13, 1991, [105 Stat. 1887][/us/stat/105/1887]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13941(b), 13951(a), Aug. 10, 1993, [107 Stat. 676][/us/stat/107/676], 677; [Pub. L. 104–193, title VIII, § 844(a)][/us/pl/104/193/s844/a], Aug. 22, 1996, [110 Stat. 2332][/us/stat/110/2332]; [Pub. L. 107–171, title IV, § 4118(b)][/us/pl/107/171/s4118/b], May 13, 2002, [116 Stat. 321][/us/stat/116/321]; [Pub. L. 110–234, title IV][/us/pl/110/234], §§ 4115(b)(9), 4133, May 22, 2008, [122 Stat. 1107][/us/stat/122/1107], 1116; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, §§ 4115(b)(9), 4133, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1869, 1877; [Pub. L. 113–79, title IV, § 4020(b)(1)][/us/pl/113/79/s4020/b/1], Feb. 7, 2014, [128 Stat. 798][/us/stat/128/798].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–79][/us/pl/113/79] substituted “[section 2025(c)(1)(D)(i)(II) of this title][/us/usc/t7/s2025/c/1/D/i/II]” for “[section 2025(c)(1)(D)(i)(III) of this title][/us/usc/t7/s2025/c/1/D/i/III]”.
 
     2008—[Pub. L. 110–246, § 4115(b)(9)][/us/pl/110/246/s4115/b/9], substituted “benefits” for “coupons” wherever appearing.
 
@@ -230,7 +232,7 @@
 ----------
 ----------
 
-[/us/usc/t7/s2025/c/1/D/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1%2FD%2Fi%2FIII
+[/us/usc/t7/s2025/c/1/D/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1%2FD%2Fi%2FII
 [/us/usc/t7/s2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025
 [/us/usc/t7/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2023
 [/us/usc/t7/s2025/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1
@@ -267,10 +269,15 @@
 [/us/stat/122/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1107
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4020/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4020%2Fb%2F1
+[/us/stat/128/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F798
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t7/s2025/c/1/D/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1%2FD%2Fi%2FII
+[/us/usc/t7/s2025/c/1/D/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc%2F1%2FD%2Fi%2FIII
 [/us/pl/110/246/s4115/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4115%2Fb%2F9
 [/us/pl/110/246/s4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4133
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

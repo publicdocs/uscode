@@ -15,9 +15,9 @@
 
 ## § 450l. Expiration of dairy farmer indemnity program
 
-    The authority granted under sections 450j to 450l of this title shall expire on September 30, 2012.
+    The authority granted under sections 450j to 450l of this title shall expire on September 30, 2018.
 
-([Pub. L. 90–484, § 3][/us/pl/90/484/s3], Aug. 13, 1968, [82 Stat. 750][/us/stat/82/750]; [Pub. L. 91–524, title II, § 204(a)][/us/pl/91/524/s204/a], Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361]; [Pub. L. 93–86, § 1(5)(A)][/us/pl/93/86/s1/5/A], Aug. 10, 1973, [87 Stat. 223][/us/stat/87/223]; [Pub. L. 95–113, title II, § 205(2)][/us/pl/95/113/s205/2], Sept. 29, 1977, [91 Stat. 920][/us/stat/91/920]; [Pub. L. 97–98, title I, § 105][/us/pl/97/98/s105], Dec. 22, 1981, [95 Stat. 1220][/us/stat/95/1220]; [Pub. L. 99–198, title I, § 152][/us/pl/99/198/s152], Dec. 23, 1985, [99 Stat. 1377][/us/stat/99/1377]; [Pub. L. 101–624, title I, § 110][/us/pl/101/624/s110], Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380]; [Pub. L. 107–171, title I, § 1503(b)][/us/pl/107/171/s1503/b], May 13, 2002, [116 Stat. 207][/us/stat/116/207]; [Pub. L. 110–234, title I, § 1505][/us/pl/110/234/s1505], May 22, 2008, [122 Stat. 994][/us/stat/122/994]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1505, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1723.)
+([Pub. L. 90–484, § 3][/us/pl/90/484/s3], Aug. 13, 1968, [82 Stat. 750][/us/stat/82/750]; [Pub. L. 91–524, title II, § 204(a)][/us/pl/91/524/s204/a], Nov. 30, 1970, [84 Stat. 1361][/us/stat/84/1361]; [Pub. L. 93–86, § 1(5)(A)][/us/pl/93/86/s1/5/A], Aug. 10, 1973, [87 Stat. 223][/us/stat/87/223]; [Pub. L. 95–113, title II, § 205(2)][/us/pl/95/113/s205/2], Sept. 29, 1977, [91 Stat. 920][/us/stat/91/920]; [Pub. L. 97–98, title I, § 105][/us/pl/97/98/s105], Dec. 22, 1981, [95 Stat. 1220][/us/stat/95/1220]; [Pub. L. 99–198, title I, § 152][/us/pl/99/198/s152], Dec. 23, 1985, [99 Stat. 1377][/us/stat/99/1377]; [Pub. L. 101–624, title I, § 110][/us/pl/101/624/s110], Nov. 28, 1990, [104 Stat. 3380][/us/stat/104/3380]; [Pub. L. 107–171, title I, § 1503(b)][/us/pl/107/171/s1503/b], May 13, 2002, [116 Stat. 207][/us/stat/116/207]; [Pub. L. 110–234, title I, § 1505][/us/pl/110/234/s1505], May 22, 2008, [122 Stat. 994][/us/stat/122/994]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1505, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1723; [Pub. L. 113–79, title I, § 1425][/us/pl/113/79/s1425], Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
 
  __Codification__ 
 
@@ -40,6 +40,8 @@ The following Acts authorized indemnity payments for the periods ending as indic
     Jan. 31, 1965—[Pub. L. 88–452, title III, § 331][/us/pl/88/452/s331], Aug. 20, 1964, [78 Stat. 525][/us/stat/78/525].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
     2008—[Pub. L. 110–246, § 1505][/us/pl/110/246/s1505], substituted “2012” for “2007”.
 
@@ -100,6 +102,8 @@ The following Acts authorized indemnity payments for the periods ending as indic
 [/us/stat/122/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F994
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1425
+[/us/stat/128/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F695
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/112/240/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fa
@@ -118,6 +122,7 @@ The following Acts authorized indemnity payments for the periods ending as indic
 [/us/stat/79/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F108
 [/us/pl/88/452/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs331
 [/us/stat/78/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F525
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1505
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
