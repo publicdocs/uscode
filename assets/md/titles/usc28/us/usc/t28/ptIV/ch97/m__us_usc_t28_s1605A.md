@@ -121,7 +121,7 @@
 
         (5) the term “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]);
 
-        (6) the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]), section 40 of the Arms Export Control Act ([22 U.S.C. 2780][/us/usc/t22/s2780]), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism; and
+        (6) the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]), section 40 of the Arms Export Control Act ([22 U.S.C. 2780][/us/usc/t22/s2780]), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism; and
 
         (7) the terms “torture” and “extrajudicial killing” have the meaning given those terms in section 3 of the Torture Victim Protection Act of 1991 ([28 U.S.C. 1350][/us/usc/t28/s1350] note).
 
@@ -134,6 +134,8 @@
     The enactment of this section and the date of the enactment of this section, referred to in subsecs. (a)(2)(A)(i)(II) and (b), refers to the date of enactment of [Pub. L. 110–181][/us/pl/110/181], which was approved Jan. 28, 2008.
 
     Section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, referred to in subsecs. (a)(2)(A)(i)(II) and (b), is [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 589\], which is set out as a note under [section 1605 of this title][/us/usc/t28/s1605].
+
+    Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h)(6), is [section 6(j) of Pub. L. 96–72][/us/pl/96/72/s6/j], which was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as [section 4605(j) of Title 50][/us/usc/t50/s4605/j].
 
     Section 3 of the Torture Victim Protection Act of 1991, referred to in subsec. (h)(7), is [section 3 of Pub. L. 102–256][/us/pl/102/256/s3], which is set out as a note under [section 1350 of this title][/us/usc/t28/s1350].
 
@@ -223,7 +225,7 @@
 
 >     “(4) the term ‘Secretary’ means the Secretary of State; and
 
->     “(5) the term ‘state sponsor of terrorism’ means a country the government of which the Secretary has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]), section 40 of the Arms Export Control Act ([22 U.S.C. 2780][/us/usc/t22/s2780]), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+>     “(5) the term ‘state sponsor of terrorism’ means a country the government of which the Secretary has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) \[now [50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\], section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]), section 40 of the Arms Export Control Act ([22 U.S.C. 2780][/us/usc/t22/s2780]), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
 > “SEC. 3. __SENSE OF CONGRESS.__ 
 
@@ -428,6 +430,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
 [/us/usc/t28/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605
+[/us/pl/96/72/s6/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs6%2Fj
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/102/256/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F256%2Fs3
 [/us/usc/t28/s1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1350
 [/us/pl/110/181/s1083/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fc
@@ -453,6 +457,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/110/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F301
 [/us/stat/122/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2999
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
 [/us/usc/t28/s1605A/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605A%2Fc

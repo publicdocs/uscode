@@ -65,7 +65,7 @@
 
         (1)
 
-            (A) Notwithstanding any other provision of law, including but not limited to section 208(f) of the Foreign Missions Act ([22 U.S.C. 4308(f)][/us/usc/t22/s4308/f]), and except as provided in subparagraph (B), any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.C. App. 5(b)), section 620(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2370(a)][/us/usc/t22/s2370/a]), sections 202 and 203 of the International Emergency Economic Powers Act ([50 U.S.C. 1701–170][/us/usc/t50/s1701–170]2), or any other proclamation, order, regulation, or license issued pursuant thereto, shall be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state (including any agency or instrumentality or such state) claiming such property is not immune under section 1605(a)(7) (as in effect before the enactment of section 1605A) or section 1605A.
+            (A) Notwithstanding any other provision of law, including but not limited to section 208(f) of the Foreign Missions Act ([22 U.S.C. 4308(f)][/us/usc/t22/s4308/f]), and except as provided in subparagraph (B), any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.C. App. 5(b)), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  section 620(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2370(a)][/us/usc/t22/s2370/a]), sections 202 and 203 of the International Emergency Economic Powers Act ([50 U.S.C. 1701–170][/us/usc/t50/s1701–170]2), or any other proclamation, order, regulation, or license issued pursuant thereto, shall be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state (including any agency or instrumentality or such state) claiming such property is not immune under section 1605(a)(7) (as in effect before the enactment of section 1605A) or section 1605A.
 
             (B) Subparagraph (A) shall not apply if, at the time the property is expropriated or seized by the foreign state, the property has been held in title by a natural person or, if held in trust, has been held for the benefit of a natural person or persons.
 
@@ -117,7 +117,7 @@
 
     The enactment of section 1605A, referred to in subsec. (f)(1)(A), (2)(A), refers to the enactment of [Pub. L. 110–181][/us/pl/110/181], which was approved Jan. 28, 2008.
 
-    The Trading with the Enemy Act, referred to in subsec. (g)(2), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+    The Trading with the Enemy Act, referred to in subsecs. (f)(1)(A) and (g)(2), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as chapter 53 (§ 4301 et seq.) of Title 50. Section 5(b) of the Act, which was classified to section 5(b) of the former Appendix to Title 50, is classified to [section 4305(b) of Title 50][/us/usc/t50/s4305/b]. For complete classification of this Act to the Code, see Tables.
 
     The International Emergency Economic Powers Act, referred to in subsec. (g)(2), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
@@ -209,7 +209,7 @@
 
 >         The term ‘blocked asset’ means—
 
->             “(A) any asset seized or frozen by the United States under section 5(b) of the Trading With the Enemy Act (50 U.S.C. App. 5(b)) or under sections 202 and 203 of the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701]; 1702); and
+>             “(A) any asset seized or frozen by the United States under section 5(b) of the Trading With the Enemy Act (50 U.S.C. App. 5(b)) \[now [50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\] or under sections 202 and 203 of the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701]; 1702); and
 
 >             “(B)
 
@@ -225,7 +225,7 @@
 
 >         “(4)  __Terrorist party__  __.—__ 
 
->         The term ‘terrorist party’ means a terrorist, a terrorist organization (as defined in section 212(a)(3)(B)(vi) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(3)(B)(vi)][/us/usc/t8/s1182/a/3/B/vi])), or a foreign state designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) or section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]).”
+>         The term ‘terrorist party’ means a terrorist, a terrorist organization (as defined in section 212(a)(3)(B)(vi) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(3)(B)(vi)][/us/usc/t8/s1182/a/3/B/vi])), or a foreign state designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) \[now [50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\] or section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]).”
 
  __Waiver of Exception to Immunity From Attachment or Execution__ 
 
@@ -239,7 +239,7 @@
 
     Memorandum for the Secretary of State \[and\] the Secretary of the Treasury
 
-    By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2002(f) \[now 2002(g)\] of H.R. 3244, “Victims of Trafficking and Violence Protection Act of 2000,” (approved October 28, 2000) \[[section 2002(g) of Pub. L. 106–386][/us/pl/106/386/s2002/g], amending this section and [section 1606 of this title][/us/usc/t28/s1606] and repealing provisions set out as a note above\], I hereby determine that subsection (f)(1) of [section 1610 of title 28][/us/usc/t28/s1610], United States Code, which provides that any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.\[C.\] App. 5(b)\[)\], section 620(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2370(a)][/us/usc/t22/s2370/a]), sections 202 and 203 of the International Emergency Economic Powers Act ([50 U.S.C. 1701–170][/us/usc/t50/s1701–170]2), and proclamations, orders, regulations, and licenses issued pursuant thereto, be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state claiming such property is not immune from the jurisdiction of courts of the United States or of the States under [section 1605(a)(7) of title 28][/us/usc/t28/s1605/a/7], United States Code, would impede the ability of the President to conduct foreign policy in the interest of national security and would, in particular, impede the effectiveness of such prohibitions and regulations upon financial transactions. Therefore, pursuant to section 2002(f) \[now 2002(g)\] of H.R. 3244, the “Victim’s of Trafficking and Violence Protection Act of 2000,” I hereby waive subsection (f)(1) of [section 1610 of title 28][/us/usc/t28/s1610], United States Code, in the interest of national security. This waiver, together with the amendment of subsection (f)(2) of the Foreign Sovereign Immunities Act \[probably means subsec. (f)(2) of this section\] and the repeal of the subsection (b) of section 117 of the Treasury and General Government Appropriations Act, 1999 \[section 101(h) \[title I, § 117(b)\] of div. A of [Pub. L. 105–277][/us/pl/105/277], amending [section 1606 of this title][/us/usc/t28/s1606]\], supersedes my prior waiver of the requirements of subsections (a) and (b) of said section 117 \[amending this section and [section 1606 of this title][/us/usc/t28/s1606]\], executed on October 21, 1998 \[former Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201\].
+    By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2002(f) \[now 2002(g)\] of H.R. 3244, “Victims of Trafficking and Violence Protection Act of 2000,” (approved October 28, 2000) \[[section 2002(g) of Pub. L. 106–386][/us/pl/106/386/s2002/g], amending this section and [section 1606 of this title][/us/usc/t28/s1606] and repealing provisions set out as a note above\], I hereby determine that subsection (f)(1) of [section 1610 of title 28][/us/usc/t28/s1610], United States Code, which provides that any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.\[C.\] App. 5(b)\[)\] \[now [50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\], section 620(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2370(a)][/us/usc/t22/s2370/a]), sections 202 and 203 of the International Emergency Economic Powers Act ([50 U.S.C. 1701–170][/us/usc/t50/s1701–170]2), and proclamations, orders, regulations, and licenses issued pursuant thereto, be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state claiming such property is not immune from the jurisdiction of courts of the United States or of the States under [section 1605(a)(7) of title 28][/us/usc/t28/s1605/a/7], United States Code, would impede the ability of the President to conduct foreign policy in the interest of national security and would, in particular, impede the effectiveness of such prohibitions and regulations upon financial transactions. Therefore, pursuant to section 2002(f) \[now 2002(g)\] of H.R. 3244, the “Victim’s of Trafficking and Violence Protection Act of 2000,” I hereby waive subsection (f)(1) of [section 1610 of title 28][/us/usc/t28/s1610], United States Code, in the interest of national security. This waiver, together with the amendment of subsection (f)(2) of the Foreign Sovereign Immunities Act \[probably means subsec. (f)(2) of this section\] and the repeal of the subsection (b) of section 117 of the Treasury and General Government Appropriations Act, 1999 \[section 101(h) \[title I, § 117(b)\] of div. A of [Pub. L. 105–277][/us/pl/105/277], amending [section 1606 of this title][/us/usc/t28/s1606]\], supersedes my prior waiver of the requirements of subsections (a) and (b) of said section 117 \[amending this section and [section 1606 of this title][/us/usc/t28/s1606]\], executed on October 21, 1998 \[former Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201\].
 
     The Secretary of State is authorized and directed to publish this determination in the Federal Register.
 
@@ -280,6 +280,7 @@
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
@@ -320,10 +321,12 @@
 [/us/pl/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297
 [/us/usc/t15/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6701
 [/us/usc/t8/s1182/a/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB%2Fiii
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287
 [/us/usc/t8/s1182/a/3/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB%2Fvi
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
@@ -337,6 +340,7 @@
 [/us/pl/106/386/s2002/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs2002%2Fg
 [/us/usc/t28/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1606
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/usc/t22/s2370/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Fa
 [/us/usc/t50/s1701–170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701%E2%80%93170
 [/us/usc/t28/s1605/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605%2Fa%2F7
