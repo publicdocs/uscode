@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964, ed. § 83 (R.S. § 502; [Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], §§ 53, 61, [28 Stat. 608][/us/stat/28/608], 610; Aug. 9, 1962, [Pub. L. 87–579, § 3][/us/pl/87/579/s3], [76 Stat. 353][/us/stat/76/353]).
+    Based on 44 U.S. Code, 1964, ed. § 83 (R.S. § 502; [Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], §§ 53, 61, [28 Stat. 608][/us/stat/28/608], 610; Aug. 9, 1962, [Pub. L. 87–579][/us/pl/87/579], § 3, [76 Stat. 353][/us/stat/76/353]).
 
 ----------
 
@@ -34,7 +34,7 @@
 [/us/stat/82/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1284
 [/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F608
-[/us/pl/87/579/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579%2Fs3
+[/us/pl/87/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579
 [/us/stat/76/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F353
 
 

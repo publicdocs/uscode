@@ -25,7 +25,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 308 ([July 26, 1935, ch. 417, § 8][/us/act/1935-07-26/ch417/s8], [49 Stat. 502][/us/stat/49/502]; June 25, 1959, [Pub. L. 86–70, § 34][/us/pl/86/70/s34], [73 Stat. 149][/us/stat/73/149]; July 12, 1960, [Pub. L. 86–624, § 33][/us/pl/86/624/s33], [74 Stat. 421][/us/stat/74/421]).
+    Based on 44 U.S. Code, 1964 ed., § 308 ([July 26, 1935, ch. 417][/us/act/1935-07-26/ch417], § 8, [49 Stat. 502][/us/stat/49/502]; June 25, 1959, [Pub. L. 86–70][/us/pl/86/70], § 34, [73 Stat. 149][/us/stat/73/149]; July 12, 1960, [Pub. L. 86–624][/us/pl/86/624], § 33, [74 Stat. 421][/us/stat/74/421]).
 
 ----------
 
@@ -36,11 +36,11 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1276
-[/us/act/1935-07-26/ch417/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417%2Fs8
+[/us/act/1935-07-26/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417
 [/us/stat/49/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F502
-[/us/pl/86/70/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs34
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F149
-[/us/pl/86/624/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs33
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F421
 
 

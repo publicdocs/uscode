@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 213 (part) ([Jan. 12, 1895, ch. 23, § 89][/us/act/1895-01-12/ch23/s89], [28 Stat. 622][/us/stat/28/622]).
+    Based on 44 U.S. Code, 1964 ed., § 213 (part) ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 89, [28 Stat. 622][/us/stat/28/622]).
 
     This section incorporates only the first sentence of the second paragraph of former section 213 and the last paragraph of that section. The balance will be found in sections 1102, 1302, 1308, 1309, 1310, 1336 of the revision.
 
@@ -36,7 +36,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1263
-[/us/act/1895-01-12/ch23/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs89
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F622
 
 

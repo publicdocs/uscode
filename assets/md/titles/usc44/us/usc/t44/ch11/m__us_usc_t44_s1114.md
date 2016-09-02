@@ -19,11 +19,11 @@
 
     The usual number only of the reports of the Chief of Engineers of the Army, the Commissioner of Internal Revenue, the report of the Chief Signal Officer of the Department of the Army, and the Chief of Ordnance shall be printed.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1263][/us/stat/82/1263]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(23)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585.)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1263][/us/stat/82/1263]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(23)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585.)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 212 (part) ([Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 615][/us/stat/28/615]).
+    Based on 44 U.S. Code, 1964 ed., § 212 (part) ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 615][/us/stat/28/615]).
 
     This section incorporates only the second sentence of former section 212. The balance will be found in section 1115 of this revision.
 
@@ -48,9 +48,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1263
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F615
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

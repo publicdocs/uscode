@@ -23,11 +23,11 @@
 
     (3) schedules proposing the disposal after the lapse of specified periods of time of records of a specified form or character that either have accumulated in the custody of the agency or may accumulate after the submission of the schedules and apparently will not after the lapse of the period specified have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1299][/us/stat/82/1299]; [Pub. L. 98–497, title I, § 107(b)(23)][/us/pl/98/497/s107/b/23], (25)(A), Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290]; [Pub. L. 113–187, § 5(c)][/us/pl/113/187/s5/c], Nov. 26, 2014, [128 Stat. 2010][/us/stat/128/2010].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1299][/us/stat/82/1299]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(23), (25)(A), Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290]; [Pub. L. 113–187][/us/pl/113/187], § 5(c), Nov. 26, 2014, [128 Stat. 2010][/us/stat/128/2010].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 368 ([July 7, 1943, ch. 192, § 3][/us/act/1943-07-07/ch192/s3], [57 Stat. 381][/us/stat/57/381]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(a), [63 Stat. 381][/us/stat/63/381]).
+    Based on 44 U.S. Code, 1964 ed., § 368 ([July 7, 1943, ch. 192][/us/act/1943-07-07/ch192], § 3, [57 Stat. 381][/us/stat/57/381]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(a), [63 Stat. 381][/us/stat/63/381]).
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 [/us/usc/t44/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3302
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1299
-[/us/pl/98/497/s107/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F23
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2290
-[/us/pl/113/187/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs5%2Fc
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2010
-[/us/act/1943-07-07/ch192/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192%2Fs3
+[/us/act/1943-07-07/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192
 [/us/stat/57/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F381
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F381

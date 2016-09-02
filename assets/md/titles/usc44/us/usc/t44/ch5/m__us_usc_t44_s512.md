@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 8 ([Jan. 12, 1895, ch. 23, § 6][/us/act/1895-01-12/ch23/s6], [28 Stat. 602][/us/stat/28/602]; [Mar. 3, 1917, ch. 163, § 6][/us/act/1917-03-03/ch163/s6], [39 Stat. 1121][/us/stat/39/1121]).
+    Based on 44 U.S. Code, 1964 ed., § 8 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 6, [28 Stat. 602][/us/stat/28/602]; [Mar. 3, 1917, ch. 163][/us/act/1917-03-03/ch163], § 6, [39 Stat. 1121][/us/stat/39/1121]).
 
 ----------
 
@@ -32,9 +32,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1244
-[/us/act/1895-01-12/ch23/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs6
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F602
-[/us/act/1917-03-03/ch163/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch163%2Fs6
+[/us/act/1917-03-03/ch163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch163
 [/us/stat/39/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1121
 
 

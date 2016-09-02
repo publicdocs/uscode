@@ -17,15 +17,15 @@
 
     The Director of the Government Publishing Office may retain out of all documents, bills, and resolutions printed the number of copies absolutely needful for the official use of the Government Publishing Office, not exceeding five of each.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1281][/us/stat/82/1281]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1281][/us/stat/82/1281]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (c), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 81 ([Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 618][/us/stat/28/618]).
+    Based on 44 U.S. Code, 1964 ed., § 81 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 618][/us/stat/28/618]).
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, § 1301(c)][/us/pl/113/235/s1301/c], substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
+    2014—[Pub. L. 113–235][/us/pl/113/235], § 1301(c), substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
 
  __Change of Name__ 
 
@@ -40,11 +40,11 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1281
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F618
-[/us/pl/113/235/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 

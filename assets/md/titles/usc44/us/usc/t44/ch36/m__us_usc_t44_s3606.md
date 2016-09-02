@@ -27,7 +27,7 @@
 
         (3) a description of compliance by the Federal Government with other goals and provisions of the E-Government Act of 2002.
 
-(Added [Pub. L. 107–347, title I, § 101(a)][/us/pl/107/347/s101/a], Dec. 17, 2002, [116 Stat. 2909][/us/stat/116/2909].)
+(Added [Pub. L. 107–347, title I][/us/pl/107/347/tI], § 101(a), Dec. 17, 2002, [116 Stat. 2909][/us/stat/116/2909].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/107/347/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs101%2Fa
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2909
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/stat/116/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2899

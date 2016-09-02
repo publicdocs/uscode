@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 167 ([Jan. 12, 1895, ch. 23, § 63][/us/act/1895-01-12/ch23/s63], [28 Stat. 611][/us/stat/28/611]; [July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, § 101, [68 Stat. 397][/us/stat/68/397]).
+    Based on 44 U.S. Code, 1964 ed., § 167 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 63, [28 Stat. 611][/us/stat/28/611]; [July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, § 101, [68 Stat. 397][/us/stat/68/397]).
 
     “Senate Service Department and House Folding Room” was substituted for “Senate and House folding rooms,” and “superintendents of the Senate Service Department and House Folding Room” was substituted for “superintendents of the folding rooms” in view of act July 2, 1954, which redesignated the Senate Folding Room as the Senate Service Department.
 
@@ -44,7 +44,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1255
-[/us/act/1895-01-12/ch23/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs63
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F611
 [/us/act/1954-07-02/ch455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-02%2Fch455
 [/us/stat/68/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F397

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 291 ([Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 616][/us/stat/28/616]; [Aug. 23, 1912, ch. 350, § 1][/us/act/1912-08-23/ch350/s1], [37 Stat. 407][/us/stat/37/407]; 1950 Reorg. Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263]).
+    Based on 44 U.S. Code, 1964 ed., § 291 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 616][/us/stat/28/616]; [Aug. 23, 1912, ch. 350][/us/act/1912-08-23/ch350], § 1, [37 Stat. 407][/us/stat/37/407]; 1950 Reorg. Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263]).
 
 ----------
 
@@ -32,9 +32,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1273
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F616
-[/us/act/1912-08-23/ch350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350%2Fs1
+[/us/act/1912-08-23/ch350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350
 [/us/stat/37/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F407
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 

@@ -17,11 +17,11 @@
 
     When the Archivist and the head of the agency that has custody of them jointly determine that records in the custody of an agency of the United States Government are a continuing menace to human health or life or to property, the Archivist shall eliminate the menace immediately by any method he considers necessary. When records in the custody of the Archivist are disposed of under this section, the Archivist shall report their disposal to the agency from which they were transferred.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1301][/us/stat/82/1301]; [Pub. L. 98–497, title I, § 107(b)(24)][/us/pl/98/497/s107/b/24], Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1301][/us/stat/82/1301]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(24), Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 375 ([July 7, 1943, ch. 192, § 10][/us/act/1943-07-07/ch192/s10], [57 Stat. 382][/us/stat/57/382]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(a), [63 Stat. 381][/us/stat/63/381]).
+    Based on 44 U.S. Code, 1964 ed., § 375 ([July 7, 1943, ch. 192][/us/act/1943-07-07/ch192], § 10, [57 Stat. 382][/us/stat/57/382]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(a), [63 Stat. 381][/us/stat/63/381]).
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1301
-[/us/pl/98/497/s107/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F24
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2290
-[/us/act/1943-07-07/ch192/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192%2Fs10
+[/us/act/1943-07-07/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192
 [/us/stat/57/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F382
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F381

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., §§ 322, 325 (R.S. § 853; [June 20, 1878, ch. 359, § 1][/us/act/1878-06-20/ch359/s1], [20 Stat. 216][/us/stat/20/216]; [Sept. 23, 1950, ch. 1010, § 5][/us/act/1950-09-23/ch1010/s5], [64 Stat. 986][/us/stat/64/986]).
+    Based on 44 U.S. Code, 1964 ed., §§ 322, 325 (R.S. § 853; [June 20, 1878, ch. 359][/us/act/1878-06-20/ch359], § 1, [20 Stat. 216][/us/stat/20/216]; [Sept. 23, 1950, ch. 1010][/us/act/1950-09-23/ch1010], § 5, [64 Stat. 986][/us/stat/64/986]).
 
     The second sentence of former section 325 was added. The balance was superseded by former section 322 which will be found in section 3703 of the revision.
 
@@ -34,9 +34,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1305
-[/us/act/1878-06-20/ch359/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-20%2Fch359%2Fs1
+[/us/act/1878-06-20/ch359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-20%2Fch359
 [/us/stat/20/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F216
-[/us/act/1950-09-23/ch1010/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1010%2Fs5
+[/us/act/1950-09-23/ch1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1010
 [/us/stat/64/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F986
 
 

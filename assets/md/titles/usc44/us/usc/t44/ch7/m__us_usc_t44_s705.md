@@ -17,11 +17,11 @@
 
     The Director of the Government Publishing Office shall examine the orders of the Senate and House of Representatives for printing, and in case of duplication shall print under the first order received.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1248][/us/stat/82/1248]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1248][/us/stat/82/1248]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 135 ([Jan. 12, 1895, ch. 23, § 53][/us/act/1895-01-12/ch23/s53], [28 Stat. 608][/us/stat/28/608]).
+    Based on 44 U.S. Code, 1964 ed., § 135 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 53, [28 Stat. 608][/us/stat/28/608]).
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1248
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1895-01-12/ch23/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs53
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F608
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 

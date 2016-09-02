@@ -17,11 +17,11 @@
 
     The original and two duplicate originals or certified copies of a document required or authorized to be published by [section 1505 of this title][/us/usc/t44/s1505] shall be filed with the Office of the Federal Register, which shall be open for that purpose during all hours of the working days when the National Archives Building is open for official business. The Archivist of the United States shall cause to be noted on the original and duplicate originals or certified copies of each document the day and hour of filing. When the original is issued, prescribed, or promulgated outside the District of Columbia, and certified copies are filed before the filing of the original, the notation shall be of the day and hour of filing of the certified copies. Upon filing, at least one copy shall be immediately available for public inspection in the Office. The original shall be retained by the National Archives and Records Administration and shall be available for inspection under regulations prescribed by the Archivist, unless such original is disposed of in accordance with disposal schedules submitted by the Administrative Committee of the Federal Register and authorized by the Archivist pursuant to regulations issued under chapter 33 of this title; however, originals of proclamations of the President and Executive orders shall be permanently retained by the Administration as part of the National Archives of the United States. The Office shall transmit immediately to the Government Publishing Office for printing, as provided by this chapter, one duplicate original or certified copy of each document required or authorized to be published by [section 1505 of this title][/us/usc/t44/s1505]. Every Federal agency shall cause to be transmitted for filing the original and the duplicate originals or certified copies of all such documents issued, prescribed, or promulgated by the agency.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1274][/us/stat/82/1274]; [Pub. L. 95–440, § 2][/us/pl/95/440/s2], Oct. 10, 1978, [92 Stat. 1063][/us/stat/92/1063]; [Pub. L. 98–497, title I, § 107(b)(4)][/us/pl/98/497/s107/b/4], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1274][/us/stat/82/1274]; [Pub. L. 95–440][/us/pl/95/440], § 2, Oct. 10, 1978, [92 Stat. 1063][/us/stat/92/1063]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(4), Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 302 ([July 26, 1935, ch. 417, § 2][/us/act/1935-07-26/ch417/s2], [49 Stat. 500][/us/stat/49/500]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(a), [63 Stat. 381][/us/stat/63/381]).
+    Based on 44 U.S. Code, 1964 ed., § 302 ([July 26, 1935, ch. 417][/us/act/1935-07-26/ch417], § 2, [49 Stat. 500][/us/stat/49/500]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(a), [63 Stat. 381][/us/stat/63/381]).
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 [/us/usc/t44/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1505
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1274
-[/us/pl/95/440/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F440%2Fs2
+[/us/pl/95/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F440
 [/us/stat/92/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1063
-[/us/pl/98/497/s107/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F4
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1935-07-26/ch417/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417%2Fs2
+[/us/act/1935-07-26/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417
 [/us/stat/49/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F500
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F381

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 269 ([Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 614][/us/stat/28/614]).
+    Based on 44 U.S. Code, 1964 ed., § 269 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 614][/us/stat/28/614]).
 
  __Abolition of Interstate Commerce Commission and Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1269
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F614
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302

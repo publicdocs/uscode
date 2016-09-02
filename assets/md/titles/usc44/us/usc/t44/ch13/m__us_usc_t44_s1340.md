@@ -17,11 +17,11 @@
 
     In addition to the usual number of the annual report of the Director of the Government Publishing Office, one thousand copies shall be printed to be distributed under his direction.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1272][/us/stat/82/1272]; [Pub. L. 113–235, div. H, title I, § 1301(c)][/us/pl/113/235/s1301/c], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1272][/us/stat/82/1272]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 288 ([Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 618][/us/stat/28/618]).
+    Based on 44 U.S. Code, 1964 ed., § 288 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 618][/us/stat/28/618]).
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1272
-[/us/pl/113/235/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F618
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 

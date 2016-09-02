@@ -41,7 +41,7 @@
 
     (5) The term “former President”, when used with respect to Presidential records, means the former President during whose term or terms of office such Presidential rec­ords were created.
 
-(Added [Pub. L. 95–591, § 2(a)][/us/pl/95/591/s2/a], Nov. 4, 1978, [92 Stat. 2523][/us/stat/92/2523]; amended [Pub. L. 113–187][/us/pl/113/187], §§ 2(b), 8(2), Nov. 26, 2014, [128 Stat. 2005][/us/stat/128/2005], 2011.)
+(Added [Pub. L. 95–591][/us/pl/95/591], § 2(a), Nov. 4, 1978, [92 Stat. 2523][/us/stat/92/2523]; amended [Pub. L. 113–187][/us/pl/113/187], §§ 2(b), 8(2), Nov. 26, 2014, [128 Stat. 2005][/us/stat/128/2005], 2011.)
 
  __References in Text__ 
 
@@ -49,15 +49,15 @@
 
  __Amendments__ 
 
-    2014—Par. (1). [Pub. L. 113–187, § 2(b)(1)][/us/pl/113/187/s2/b/1], substituted “memoranda” for “memorandums” and “audio and visual records” for “audio, audiovisual” and inserted “, whether in analog, digital, or any other form” after “mechanical recordations”.
+    2014—Par. (1). [Pub. L. 113–187][/us/pl/113/187], § 2(b)(1), substituted “memoranda” for “memorandums” and “audio and visual records” for “audio, audiovisual” and inserted “, whether in analog, digital, or any other form” after “mechanical recordations”.
 
-    Par. (2). [Pub. L. 113–187, § 8(2)][/us/pl/113/187/s8/2], substituted “the President’s” for “his” in introductory provisions and in subpar. (A).
+    Par. (2). [Pub. L. 113–187][/us/pl/113/187], § 8(2), substituted “the President’s” for “his” in introductory provisions and in subpar. (A).
 
-    [Pub. L. 113–187, § 2(b)(2)][/us/pl/113/187/s2/b/2], substituted “advise or assist” for “advise and assist” in introductory provisions.
+    [Pub. L. 113–187][/us/pl/113/187], § 2(b)(2), substituted “advise or assist” for “advise and assist” in introductory provisions.
 
  __Effective Date__ 
 
-[Pub. L. 95–591, § 3][/us/pl/95/591/s3], Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528], provided that: 
+[Pub. L. 95–591][/us/pl/95/591], § 3, Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528], provided that: 
 
 > “The amendments made by this Act \[enacting this chapter, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under this section\] shall be effective with respect to any Presidential rec­ords (as defined in [section 2201(2) of title 44][/us/usc/t44/s2201/2], as amended by section 2 of this Act) created during a term of office of the President beginning on or after January 20, 1981.”
 
@@ -67,7 +67,7 @@
 
  __Separability__ 
 
-[Pub. L. 95–591, § 4][/us/pl/95/591/s4], Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528], provided that: 
+[Pub. L. 95–591][/us/pl/95/591], § 4, Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528], provided that: 
 
 > “If any provision of this Act \[enacting this chapter, amending sections 2107 and 2108 of this title and enacting provisions set out as notes under this section\] is held invalid for any reason by any court, the validity and legal effect of the remaining provisions shall not be affected thereby.”
 
@@ -78,23 +78,23 @@
 ----------
 ----------
 
-[/us/pl/95/591/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fa
+[/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2523
 [/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2005
 [/us/usc/t5/s552/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fe
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff
 [/us/pl/99/570/s1802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1802%2Fb
-[/us/pl/113/187/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fb%2F1
-[/us/pl/113/187/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F2
-[/us/pl/113/187/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fb%2F2
-[/us/pl/95/591/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs3
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2528
 [/us/usc/t44/s2201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2201%2F2
 [/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/pl/95/591/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs1
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
-[/us/pl/95/591/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs4
+[/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2528
 
 

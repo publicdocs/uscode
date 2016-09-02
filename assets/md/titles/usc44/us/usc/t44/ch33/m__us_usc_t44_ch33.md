@@ -131,17 +131,17 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–187, § 7(b)][/us/pl/113/187/s7/b], Nov. 26, 2014, [128 Stat. 2011][/us/stat/128/2011], struck out items 3315 “Definitions”, 3316 “Establishment of Commission”, 3317 “Duties of Commission”, 3318 “Membership”, 3319 “Director and staff; experts and consultants”, 3320 “Powers of Commission”, 3321 “Support services”, 3322 “Report”, 3323 “Termination”, and 3324 “Authorization of appropriations”.
+    2014—[Pub. L. 113–187][/us/pl/113/187], § 7(b), Nov. 26, 2014, [128 Stat. 2011][/us/stat/128/2011], struck out items 3315 “Definitions”, 3316 “Establishment of Commission”, 3317 “Duties of Commission”, 3318 “Membership”, 3319 “Director and staff; experts and consultants”, 3320 “Powers of Commission”, 3321 “Support services”, 3322 “Report”, 3323 “Termination”, and 3324 “Authorization of appropriations”.
 
-    2004—[Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], substituted “Government Accountability Office” for “General Accounting Office” in item 3309.
+    2004—[Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], substituted “Government Accountability Office” for “General Accounting Office” in item 3309.
 
-    1984—[Pub. L. 98–497, title I, § 107(b)(25)(D)][/us/pl/98/497/s107/b/25/D], Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290], substituted “Archivist” for “Administrator of General Services” in items 3303, 3303a, and 3311.
+    1984—[Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(25)(D), Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290], substituted “Archivist” for “Administrator of General Services” in items 3303, 3303a, and 3311.
 
-    1976—[Pub. L. 94–575, § 4(c)(1)][/us/pl/94/575/s4/c/1], Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727], struck out “; approval by President” after “standards for reproduction” in item 3302.
+    1976—[Pub. L. 94–575][/us/pl/94/575], § 4(c)(1), Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727], struck out “; approval by President” after “standards for reproduction” in item 3302.
 
-    1974—[Pub. L. 93–526, title II, § 203][/us/pl/93/526/s203], Dec. 19, 1974, [88 Stat. 1702][/us/stat/88/1702], added items 3315 to 3324.
+    1974—[Pub. L. 93–526, title II][/us/pl/93/526/tII], § 203, Dec. 19, 1974, [88 Stat. 1702][/us/stat/88/1702], added items 3315 to 3324.
 
-    1970—[Pub. L. 91–287, § 3][/us/pl/91/287/s3], June 23, 1970, [84 Stat. 322][/us/stat/84/322], inserted item 3303a and struck out items 3304 “Lists and schedules of records lacking preservation value; submission to Congress by Administrator of General Services”, 3305 “Examination of lists and schedules by joint congressional committee and report to Congress”, 3306 “Disposal of records by head of Government agency upon notification by Administrator of General Services of action by joint congressional committee”, and 3307 “Disposal of records upon failure of joint congressional committee to act”.
+    1970—[Pub. L. 91–287][/us/pl/91/287], § 3, June 23, 1970, [84 Stat. 322][/us/stat/84/322], inserted item 3303a and struck out items 3304 “Lists and schedules of records lacking preservation value; submission to Congress by Administrator of General Services”, 3305 “Examination of lists and schedules by joint congressional committee and report to Congress”, 3306 “Disposal of records by head of Government agency upon notification by Administrator of General Services of action by joint congressional committee”, and 3307 “Disposal of records upon failure of joint congressional committee to act”.
 
 ----------
 
@@ -150,17 +150,17 @@
 ----------
 ----------
 
-[/us/pl/113/187/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs7%2Fb
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2011
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/98/497/s107/b/25/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F25%2FD
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2290
-[/us/pl/94/575/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs4%2Fc%2F1
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/stat/90/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2727
-[/us/pl/93/526/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F526%2Fs203
+[/us/pl/93/526/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F526%2FtII
 [/us/stat/88/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1702
-[/us/pl/91/287/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F287%2Fs3
+[/us/pl/91/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F287
 [/us/stat/84/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F322
 
 

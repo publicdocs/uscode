@@ -27,11 +27,11 @@
 
     (d) The usual number of reports on private bills, concurrent or simple resolutions, may not be printed. Instead there shall be printed of each Senate report on a private bill, simple or concurrent resolution, in addition to those required to be furnished the Library of Congress, three hundred and forty-five copies, which shall be distributed as follows: to the Senate document room, two hundred and twenty copies; to the Secretary of the Senate, fifteen copies; to the House document room, one hundred copies; to the Superintendent of Documents, ten copies; and of each House report on a private bill, simple or concurrent resolution, in addition to those for the Library of Congress, two hundred and sixty copies, which shall be distributed as follows: to the Senate document room, one hundred and thirty-five copies; to the Secretary of the Senate, fifteen copies; to the House document room, one hundred copies; to the Superintendent of Documents, ten copies.    This section does not prevent the binding of all Senate and House reports in the reserve volumes bound for and delivered to the Senate and House libraries, nor abridge the right of the Vice President, Senators, Representatives, Resident Commissioner, Secretary of the Senate, and Clerk of the House to have bound in half morocco, or material not more expensive, one copy of every public document to which he may be entitled. At least twelve copies of each report on bills for the payment or adjudication of claims against the Government shall be kept on file in the Senate document room.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1246][/us/stat/82/1246]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1246][/us/stat/82/1246]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 131 ([Jan. 12, 1895, ch. 23, § 54][/us/act/1895-01-12/ch23/s54], [28 Stat. 608][/us/stat/28/608]; Mar. 2, 1901, No. 16, §§ 1, 2, [31 Stat. 1464][/us/stat/31/1464]; [Jan. 20, 1905, ch. 50, § 1][/us/act/1905-01-20/ch50/s1], [33 Stat. 610][/us/stat/33/610]; [Mar. 1, 1907, ch. 2284, § 4][/us/act/1907-03-01/ch2284/s4], [34 Stat. 1014][/us/stat/34/1014]; Jan. 15, 1908, No. 3, § 2, [35 Stat. 566][/us/stat/35/566]; [Mar. 4, 1909, ch. 317][/us/act/1909-03-04/ch317], [35 Stat. 1067][/us/stat/35/1067]; [June 25, 1910, ch. 439][/us/act/1910-06-25/ch439], [36 Stat. 868][/us/stat/36/868]; [Mar. 3, 1925, ch. 421][/us/act/1925-03-03/ch421], §§ 6, 7, [43 Stat. 1106][/us/stat/43/1106]; [June 20, 1936, ch. 630][/us/act/1936-06-20/ch630], title IV, § 6, [49 Stat. 1550][/us/stat/49/1550]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]).
+    Based on 44 U.S. Code, 1964 ed., § 131 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 54, [28 Stat. 608][/us/stat/28/608]; Mar. 2, 1901, No. 16, §§ 1, 2, [31 Stat. 1464][/us/stat/31/1464]; [Jan. 20, 1905, ch. 50][/us/act/1905-01-20/ch50], § 1, [33 Stat. 610][/us/stat/33/610]; [Mar. 1, 1907, ch. 2284][/us/act/1907-03-01/ch2284], § 4, [34 Stat. 1014][/us/stat/34/1014]; Jan. 15, 1908, No. 3, § 2, [35 Stat. 566][/us/stat/35/566]; [Mar. 4, 1909, ch. 317][/us/act/1909-03-04/ch317], [35 Stat. 1067][/us/stat/35/1067]; [June 25, 1910, ch. 439][/us/act/1910-06-25/ch439], [36 Stat. 868][/us/stat/36/868]; [Mar. 3, 1925, ch. 421][/us/act/1925-03-03/ch421], §§ 6, 7, [43 Stat. 1106][/us/stat/43/1106]; [June 20, 1936, ch. 630][/us/act/1936-06-20/ch630], title IV, § 6, [49 Stat. 1550][/us/stat/49/1550]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]).
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Congressional Printing and Binding Services For the House of Representatives—Appropriations and Study__ 
 
-[Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 111\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–110, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 111\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–110, provided that:
 
 >     “(a) __Congressional Printing and Binding For the House Through Clerk of House.—__ 
 
@@ -89,14 +89,14 @@
 [/us/usc/t44/s1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1718
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1246
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1895-01-12/ch23/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs54
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F608
 [/us/stat/31/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1464
-[/us/act/1905-01-20/ch50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-20%2Fch50%2Fs1
+[/us/act/1905-01-20/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-20%2Fch50
 [/us/stat/33/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F610
-[/us/act/1907-03-01/ch2284/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-01%2Fch2284%2Fs4
+[/us/act/1907-03-01/ch2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-01%2Fch2284
 [/us/stat/34/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1014
 [/us/stat/35/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F566
 [/us/act/1909-03-04/ch317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch317
@@ -109,7 +109,7 @@
 [/us/stat/49/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1550
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

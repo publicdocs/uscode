@@ -33,11 +33,11 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 311 ([July 26, 1935, ch. 417, § 11][/us/act/1935-07-26/ch417/s11], [49 Stat. 503][/us/stat/49/503]; [June 19, 1937, ch. 369][/us/act/1937-06-19/ch369], [50 Stat. 304][/us/stat/50/304]; 1939 Reorg. Plan No. II, § 202, eff. July 1, 1939, 4 F.R. 2732, [53 Stat. 1435][/us/stat/53/1435]; [Dec. 10, 1942, ch. 717, § 2][/us/act/1942-12-10/ch717/s2], [56 Stat. 1045][/us/stat/56/1045]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(b), [63 Stat. 381][/us/stat/63/381]; [Aug. 5, 1953, ch. 333][/us/act/1953-08-05/ch333], [67 Stat. 388][/us/stat/67/388]; Dec. 2, 1963, [Pub. L. 88–190, § 1][/us/pl/88/190/s1], [77 Stat. 343][/us/stat/77/343]).
+    Based on 44 U.S. Code, 1964 ed., § 311 ([July 26, 1935, ch. 417][/us/act/1935-07-26/ch417], § 11, [49 Stat. 503][/us/stat/49/503]; [June 19, 1937, ch. 369][/us/act/1937-06-19/ch369], [50 Stat. 304][/us/stat/50/304]; 1939 Reorg. Plan No. II, § 202, eff. July 1, 1939, 4 F.R. 2732, [53 Stat. 1435][/us/stat/53/1435]; [Dec. 10, 1942, ch. 717][/us/act/1942-12-10/ch717], § 2, [56 Stat. 1045][/us/stat/56/1045]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(b), [63 Stat. 381][/us/stat/63/381]; [Aug. 5, 1953, ch. 333][/us/act/1953-08-05/ch333], [67 Stat. 388][/us/stat/67/388]; Dec. 2, 1963, [Pub. L. 88–190][/us/pl/88/190], § 1, [77 Stat. 343][/us/stat/77/343]).
 
  __Retroactive and Prospective Application__ 
 
-[Pub. L. 88–190, § 2][/us/pl/88/190/s2], Dec. 2, 1963, [77 Stat. 344][/us/stat/77/344], provided that: 
+[Pub. L. 88–190][/us/pl/88/190], § 2, Dec. 2, 1963, [77 Stat. 344][/us/stat/77/344], provided that: 
 
 > “Section 11 of the Federal Register Act \[section 311 of former Title 44, Public Printing and Documents, now this section\], as amended by the first section of this Act \[amending subsecs. (b) to (d) and (g) of such section 311, now subsecs. (b) to (d) and (g) of this section\], shall apply to the Code of Federal Regulations previously authorized and published as well as to future publications made pursuant to that section as so amended.”
 
@@ -58,20 +58,20 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1277
-[/us/act/1935-07-26/ch417/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417%2Fs11
+[/us/act/1935-07-26/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417
 [/us/stat/49/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F503
 [/us/act/1937-06-19/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-19%2Fch369
 [/us/stat/50/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F304
 [/us/stat/53/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1435
-[/us/act/1942-12-10/ch717/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-10%2Fch717%2Fs2
+[/us/act/1942-12-10/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-10%2Fch717
 [/us/stat/56/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1045
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F381
 [/us/act/1953-08-05/ch333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-05%2Fch333
 [/us/stat/67/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F388
-[/us/pl/88/190/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F190%2Fs1
+[/us/pl/88/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F190
 [/us/stat/77/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F343
-[/us/pl/88/190/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F190%2Fs2
+[/us/pl/88/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F190
 [/us/stat/77/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F344
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/98/497/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs103%2Fb%2F1

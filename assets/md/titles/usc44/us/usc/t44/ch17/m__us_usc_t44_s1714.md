@@ -35,7 +35,7 @@
 
     The Superintendent of Documents shall furnish, without cost, copies of publications available for free distribution.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1281][/us/stat/82/1281]; [Pub. L. 98–497, title I, § 107(b)(6)][/us/pl/98/497/s107/b/6], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1281][/us/stat/82/1281]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(6), Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -60,9 +60,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1281
-[/us/pl/98/497/s107/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F6
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/act/1935-06-17/ch267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-17%2Fch267

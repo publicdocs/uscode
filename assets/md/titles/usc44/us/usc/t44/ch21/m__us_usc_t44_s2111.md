@@ -27,11 +27,11 @@
 
     This section shall not apply in the case of any Presidential records which are subject to the provisions of chapter 22 of this title.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1288][/us/stat/82/1288], § 2107; [Pub. L. 95–591, § 2(b)(2)][/us/pl/95/591/s2/b/2], Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528]; renumbered § 2111 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(5), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2286; [Pub. L. 113–187, § 3(b)][/us/pl/113/187/s3/b], Nov. 26, 2014, [128 Stat. 2008][/us/stat/128/2008].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1288][/us/stat/82/1288], § 2107; [Pub. L. 95–591][/us/pl/95/591], § 2(b)(2), Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528]; renumbered § 2111 and amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], §§ 102(a)(1), 107(a)(5), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2286; [Pub. L. 113–187][/us/pl/113/187], § 3(b), Nov. 26, 2014, [128 Stat. 2008][/us/stat/128/2008].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code 1964 ed., § 397(e) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 507, as added [Sept. 5, 1950, ch. 849, § 6(d)][/us/act/1950-09-05/ch849/s6/d], [64 Stat. 583][/us/stat/64/583]; [July 12, 1952, ch. 703, § 1(p)][/us/act/1952-07-12/ch703/s1/p], [66 Stat. 594][/us/stat/66/594]; [July 12, 1955, ch. 329][/us/act/1955-07-12/ch329], [69 Stat. 297][/us/stat/69/297]; [Aug. 12, 1955, ch. 859][/us/act/1955-08-12/ch859], [69 Stat. 695][/us/stat/69/695]).
+    Based on 44 U.S. Code 1964 ed., § 397(e) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 507, as added [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(d), [64 Stat. 583][/us/stat/64/583]; [July 12, 1952, ch. 703][/us/act/1952-07-12/ch703], § 1(p), [66 Stat. 594][/us/stat/66/594]; [July 12, 1955, ch. 329][/us/act/1955-07-12/ch329], [69 Stat. 297][/us/stat/69/297]; [Aug. 12, 1955, ch. 859][/us/act/1955-08-12/ch859], [69 Stat. 695][/us/stat/69/695]).
 
  __Prior Provisions__ 
 
@@ -41,7 +41,7 @@
 
     2014—[Pub. L. 113–187][/us/pl/113/187] amended section generally, substituting subsecs. (a) and (b) for similar provisions contained in pars. (1) and (2) and concluding provisions.
 
-    1984—[Pub. L. 98–497, § 107(a)(5)][/us/pl/98/497/s107/a/5], substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), and substituted “Archivist” for “Administrator” in par. (1).
+    1984—[Pub. L. 98–497][/us/pl/98/497], § 107(a)(5), substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), and substituted “Archivist” for “Administrator” in par. (1).
 
     1978—[Pub. L. 95–591][/us/pl/95/591] inserted provision excluding Presidential records which are subject to provisions of chapter 22 of this title from application of this section.
 
@@ -55,7 +55,7 @@
 
  __Presidential Recordings and Materials Preservation Act__ 
 
-[Pub. L. 93–526, title I][/us/pl/93/526], §§ 101–106, Dec. 19, 1974, [88 Stat. 1695–1698][/us/stat/88/1695-1698], as amended by [Pub. L. 98–497, title I, § 107(c)][/us/pl/98/497/s107/c], Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291]; [Pub. L. 108–199, div. F, title V, § 543(a)][/us/pl/108/199/s543/a], Jan. 23, 2004, [118 Stat. 346][/us/stat/118/346], provided: 
+[Pub. L. 93–526, title I][/us/pl/93/526/tI], §§ 101–106, Dec. 19, 1974, [88 Stat. 1695–1698][/us/stat/88/1695-1698], as amended by [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(c), Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291]; [Pub. L. 108–199, div. F, title V][/us/pl/108/199/dF/tV], § 543(a), Jan. 23, 2004, [118 Stat. 346][/us/stat/118/346], provided: 
 
 > “That this Act \[enacting this note, former sections 3315 to 3324 of this title, and provisions set out as a note under former [section 3315 of this title][/us/usc/t44/s3315]\] may be cited as the ‘Presidential Recordings and Materials Preservation Act’.
 
@@ -139,7 +139,7 @@
 
 > “Sec. 106. There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this title.”
 
-\[[Pub. L. 108–199, div. F, title V, § 543(b)][/us/pl/108/199/s543/b], Jan. 23, 2004, [118 Stat. 346][/us/stat/118/346], provided that: 
+\[[Pub. L. 108–199, div. F, title V][/us/pl/108/199/dF/tV], § 543(b), Jan. 23, 2004, [118 Stat. 346][/us/stat/118/346], provided that: 
 
 > “Nothing in section 103 of the Presidential Recordings and Materials Preservation Act ([Public Law 93–526][/us/pl/93/526]; [44 U.S.C. 2111][/us/usc/t44/s2111] note), as amended by subsection (a), may be construed as affecting public access to the recordings and materials referred to in that section as provided in regulations promulgated pursuant to section 104 of such Act.\]”
 
@@ -157,16 +157,16 @@
 [/us/usc/t44/s3301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3301%2Fa%2F2
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1288
-[/us/pl/95/591/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fb%2F2
+[/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2528
-[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2280
-[/us/pl/113/187/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs3%2Fb
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2008
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
-[/us/act/1952-07-12/ch703/s1/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch703%2Fs1%2Fp
+[/us/act/1952-07-12/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch703
 [/us/stat/66/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F594
 [/us/act/1955-07-12/ch329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-12%2Fch329
 [/us/stat/69/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F297
@@ -174,7 +174,7 @@
 [/us/stat/69/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F695
 [/us/usc/t44/s2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2115
 [/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
-[/us/pl/98/497/s107/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F5
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301
@@ -182,11 +182,11 @@
 [/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/pl/95/591/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs3
 [/us/usc/t44/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2201
-[/us/pl/93/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F526
+[/us/pl/93/526/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F526%2FtI
 [/us/stat/88/1695-1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1695-1698
-[/us/pl/98/497/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fc
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2291
-[/us/pl/108/199/s543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs543%2Fa
+[/us/pl/108/199/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtV
 [/us/stat/118/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F346
 [/us/usc/t44/s3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3315
 [/us/usc/t44/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2111
@@ -194,7 +194,7 @@
 [/us/usc/t44/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2101
 [/us/usc/t44/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2111
 [/us/usc/t44/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2112
-[/us/pl/108/199/s543/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs543%2Fb
+[/us/pl/108/199/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtV
 [/us/stat/118/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F346
 [/us/pl/93/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F526
 [/us/usc/t44/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2111

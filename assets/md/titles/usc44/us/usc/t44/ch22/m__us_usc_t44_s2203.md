@@ -45,35 +45,39 @@
 
         (2) The Archivist shall deposit all such Presidential records in a Presidential archival depository or another archival facility operated by the United States. The Archivist is authorized to designate, after consultation with the former President, a director at each depository or facility, who shall be responsible for the care and preservation of such records.
 
-        (3) The Archivist is authorized to dispose of such Presidential records which the Archivist has appraised and determined to have insufficient administrative, historical, informational, or evidentiary value to warrant their continued preservation. Notice of such disposal shall be published in the Federal Register at least 60 days in advance of the proposed disposal date. Publication of such notice shall constitute a final agency action for purposes of review under chapter 7 of title 5, United States Code.
+        (3) When the President considers it practicable and in the public interest, the President shall include in the President’s budget transmitted to Congress, for each fiscal year in which the term of office of the President will expire, such funds as may be necessary for carrying out the authorities of this subsection.
 
-(Added [Pub. L. 95–591, § 2(a)][/us/pl/95/591/s2/a], Nov. 4, 1978, [92 Stat. 2524][/us/stat/92/2524]; amended [Pub. L. 104–186, title II, § 223(9)][/us/pl/104/186/s223/9], Aug. 20, 1996, [110 Stat. 1752][/us/stat/110/1752]; [Pub. L. 113–187][/us/pl/113/187], §§ 2(c), 8(3), Nov. 26, 2014, [128 Stat. 2006][/us/stat/128/2006], 2011.)
+        (4) The Archivist is authorized to dispose of such Presidential records which the Archivist has appraised and determined to have insufficient administrative, historical, informational, or evidentiary value to warrant their continued preservation. Notice of such disposal shall be published in the Federal Register at least 60 days in advance of the proposed disposal date. Publication of such notice shall constitute a final agency action for purposes of review under chapter 7 of title 5, United States Code.
+
+(Added [Pub. L. 95–591][/us/pl/95/591], § 2(a), Nov. 4, 1978, [92 Stat. 2524][/us/stat/92/2524]; amended [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 223(9), Aug. 20, 1996, [110 Stat. 1752][/us/stat/110/1752]; [Pub. L. 113–187][/us/pl/113/187], §§ 2(c), 8(3), Nov. 26, 2014, [128 Stat. 2006][/us/stat/128/2006], 2011; [Pub. L. 114–136][/us/pl/114/136], § 3, Mar. 18, 2016, [130 Stat. 305][/us/stat/130/305].)
 
  __Amendments__ 
 
-    Subsec. (a). [Pub. L. 113–187, § 8(3)(A)][/us/pl/113/187/s8/3/A], substituted “the President’s” for “his”.
+    2016—Subsec. (g)(3), (4). [Pub. L. 114–136][/us/pl/114/136] added par. (3) and redesignated former par. (3) as (4).
 
-    [Pub. L. 113–187, § 2(c)(1)][/us/pl/113/187/s2/c/1], substituted “preserved and maintained” for “maintained”.
+    2014—Subsec. (a). [Pub. L. 113–187][/us/pl/113/187], § 8(3)(A), substituted “the President’s” for “his”.
 
-    Subsec. (b). [Pub. L. 113–187, § 8(3)(B)][/us/pl/113/187/s8/3/B], substituted “the President’s” for “his”.
+    [Pub. L. 113–187][/us/pl/113/187], § 2(c)(1), substituted “preserved and maintained” for “maintained”.
 
-    [Pub. L. 113–187, § 2(c)(2)][/us/pl/113/187/s2/c/2], substituted “advise or assist” for “advise and assist”.
+    Subsec. (b). [Pub. L. 113–187][/us/pl/113/187], § 8(3)(B), substituted “the President’s” for “his”.
 
-    Subsec. (c). [Pub. L. 113–187, § 8(3)(C)(i)][/us/pl/113/187/s8/3/C/i], substituted “the President’s” for “his” and “those Presidential records of such President” for “those of his Presidential records” in introductory provisions.
+    [Pub. L. 113–187][/us/pl/113/187], § 2(c)(2), substituted “advise or assist” for “advise and assist”.
 
-    Subsec. (c)(2). [Pub. L. 113–187, § 8(3)(C)(ii)][/us/pl/113/187/s8/3/C/ii], substituted “the Archivist does” for “he does”.
+    Subsec. (c). [Pub. L. 113–187][/us/pl/113/187], § 8(3)(C)(i), substituted “the President’s” for “his” and “those Presidential records of such President” for “those of his Presidential records” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 113–187, § 8(3)(D)][/us/pl/113/187/s8/3/D], substituted “the Archivist does” for “he does”.
+    Subsec. (c)(2). [Pub. L. 113–187][/us/pl/113/187], § 8(3)(C)(ii), substituted “the Archivist does” for “he does”.
 
-    Subsec. (e). [Pub. L. 113–187, § 8(3)(E)][/us/pl/113/187/s8/3/E], substituted “the Archivist considers” for “he considers” in introductory provisions.
+    Subsec. (d). [Pub. L. 113–187][/us/pl/113/187], § 8(3)(D), substituted “the Archivist does” for “he does”.
 
-    Subsec. (f). [Pub. L. 113–187, § 2(c)(4)][/us/pl/113/187/s2/c/4], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (e). [Pub. L. 113–187][/us/pl/113/187], § 8(3)(E), substituted “the Archivist considers” for “he considers” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 113–187, § 2(c)(3)][/us/pl/113/187/s2/c/3], redesignated subsec. (f) as (g).
+    Subsec. (f). [Pub. L. 113–187][/us/pl/113/187], § 2(c)(4), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g)(1). [Pub. L. 113–187, § 2(c)(5)][/us/pl/113/187/s2/c/5], substituted “this chapter” for “this Act”.
+    Subsec. (g). [Pub. L. 113–187][/us/pl/113/187], § 2(c)(3), redesignated subsec. (f) as (g).
 
-    Subsec. (g)(3). [Pub. L. 113–187, § 8(3)(F)][/us/pl/113/187/s8/3/F], substituted “the Archivist has” for “he has”.
+    Subsec. (g)(1). [Pub. L. 113–187][/us/pl/113/187], § 2(c)(5), substituted “this chapter” for “this Act”.
+
+    Subsec. (g)(3). [Pub. L. 113–187][/us/pl/113/187], § 8(3)(F), substituted “the Archivist has” for “he has”.
 
     1996—Subsec. (e). [Pub. L. 104–186][/us/pl/104/186] substituted “House Oversight” for “House Administration”.
 
@@ -97,24 +101,27 @@
 ----------
 
 [/us/usc/t44/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2204
-[/us/pl/95/591/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fa
+[/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2524
-[/us/pl/104/186/s223/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs223%2F9
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1752
 [/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2006
-[/us/pl/113/187/s8/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F3%2FA
-[/us/pl/113/187/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fc%2F1
-[/us/pl/113/187/s8/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F3%2FB
-[/us/pl/113/187/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fc%2F2
-[/us/pl/113/187/s8/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F3%2FC%2Fi
-[/us/pl/113/187/s8/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F3%2FC%2Fii
-[/us/pl/113/187/s8/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F3%2FD
-[/us/pl/113/187/s8/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F3%2FE
-[/us/pl/113/187/s2/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fc%2F4
-[/us/pl/113/187/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fc%2F3
-[/us/pl/113/187/s2/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fc%2F5
-[/us/pl/113/187/s8/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F3%2FF
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
+[/us/stat/130/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F305
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

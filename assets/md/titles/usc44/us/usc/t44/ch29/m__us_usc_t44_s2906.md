@@ -31,21 +31,21 @@
 
     (b) In conducting the inspection of agency records provided for in subsection (a) of this section, the Archivist (or the Archivist’s designee) shall, in addition to complying with the provisions of law cited in subsection (a)(3), comply with all other Federal laws and be subject to the sanctions provided therein.
 
-(Added [Pub. L. 94–575, § 2(a)(3)][/us/pl/94/575/s2/a/3], Oct. 21, 1976, [90 Stat. 2725][/us/stat/90/2725]; amended [Pub. L. 98–497, title I, § 107(b)(17)][/us/pl/98/497/s107/b/17], Oct. 19, 1984, [98 Stat. 2289][/us/stat/98/2289]; [Pub. L. 113–187, § 9(d)][/us/pl/113/187/s9/d], Nov. 26, 2014, [128 Stat. 2013][/us/stat/128/2013].)
+(Added [Pub. L. 94–575][/us/pl/94/575], § 2(a)(3), Oct. 21, 1976, [90 Stat. 2725][/us/stat/90/2725]; amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(17), Oct. 19, 1984, [98 Stat. 2289][/us/stat/98/2289]; [Pub. L. 113–187][/us/pl/113/187], § 9(d), Nov. 26, 2014, [128 Stat. 2013][/us/stat/128/2013].)
 
  __Prior Provisions__ 
 
-    A prior section 2906, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1297][/us/stat/82/1297], contained provisions similar to those comprising subsec. (a)(1) and (2) of this section, prior to repeal by [Pub. L. 94–575, § 2(a)(3)][/us/pl/94/575/s2/a/3].
+    A prior section 2906, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1297][/us/stat/82/1297], contained provisions similar to those comprising subsec. (a)(1) and (2) of this section, prior to repeal by [Pub. L. 94–575][/us/pl/94/575], § 2(a)(3).
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–187, § 9(d)(1)(A)][/us/pl/113/187/s9/d/1/A], substituted “the duties” for “their respective duties” and “the Archivist’s designee” for “designee of either”, struck out “the Administrator of General Services and” before “the Archivist” and “solely” after “any Federal agency”, and inserted “and for determining whether the records of Federal agencies have sufficient value to warrant continued preservation or lack sufficient value to justify continued preservation” after “for the improvement of records management practices and programs”.
+    2014—Subsec. (a)(1). [Pub. L. 113–187][/us/pl/113/187], § 9(d)(1)(A), substituted “the duties” for “their respective duties” and “the Archivist’s designee” for “designee of either”, struck out “the Administrator of General Services and” before “the Archivist” and “solely” after “any Federal agency”, and inserted “and for determining whether the records of Federal agencies have sufficient value to warrant continued preservation or lack sufficient value to justify continued preservation” after “for the improvement of records management practices and programs”.
 
-    Subsec. (a)(2). [Pub. L. 113–187, § 9(d)(1)(B)][/us/pl/113/187/s9/d/1/B], struck out “the Administrator and” before “the Archivist” and “The regulations promulgated by the Administrator and the Archivist under this paragraph shall, to the extent practicable, be identical.” at end.
+    Subsec. (a)(2). [Pub. L. 113–187][/us/pl/113/187], § 9(d)(1)(B), struck out “the Administrator and” before “the Archivist” and “The regulations promulgated by the Administrator and the Archivist under this paragraph shall, to the extent practicable, be identical.” at end.
 
-    Subsec. (a)(3). [Pub. L. 113–187, § 9(d)(1)(C)][/us/pl/113/187/s9/d/1/C], in introductory provisions, struck out “the Administrator or” before “the Archivist” and substituted “Archivist’s designee” for “designee of either” and, in subpar. (A), substituted “the Archivist” for “the Administrator, the Archivist,”.
+    Subsec. (a)(3). [Pub. L. 113–187][/us/pl/113/187], § 9(d)(1)(C), in introductory provisions, struck out “the Administrator or” before “the Archivist” and substituted “Archivist’s designee” for “designee of either” and, in subpar. (A), substituted “the Archivist” for “the Administrator, the Archivist,”.
 
-    Subsec. (b). [Pub. L. 113–187, § 9(d)(2)][/us/pl/113/187/s9/d/2], struck out “the Administrator and” before “the Archivist” and substituted “Archivist’s designee” for “designee of either”.
+    Subsec. (b). [Pub. L. 113–187][/us/pl/113/187], § 9(d)(2), struck out “the Administrator and” before “the Archivist” and substituted “Archivist’s designee” for “designee of either”.
 
     1984—[Pub. L. 98–497][/us/pl/98/497] inserted reference to Archivist in four places in subsecs. (a) and (b) and inserted at end of subsec. (b)(2) “The regulations promulgated by the Administrator and the Archivist under this paragraph shall, to the extent practicable, be identical.”
 
@@ -62,19 +62,19 @@
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/94/575/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F3
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/stat/90/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2725
-[/us/pl/98/497/s107/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F17
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2289
-[/us/pl/113/187/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fd
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2013
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1297
-[/us/pl/94/575/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F3
-[/us/pl/113/187/s9/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fd%2F1%2FA
-[/us/pl/113/187/s9/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fd%2F1%2FB
-[/us/pl/113/187/s9/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fd%2F1%2FC
-[/us/pl/113/187/s9/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fd%2F2
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 87 ([Jan. 12, 1895, ch. 23, § 98][/us/act/1895-01-12/ch23/s98], [28 Stat. 624][/us/stat/28/624]; Aug. 9, 1962, [Pub. L. 87–579, § 7][/us/pl/87/579/s7], [76 Stat. 355][/us/stat/76/355]).
+    Based on 44 U.S. Code, 1964 ed., § 87 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 98, [28 Stat. 624][/us/stat/28/624]; Aug. 9, 1962, [Pub. L. 87–579][/us/pl/87/579], § 7, [76 Stat. 355][/us/stat/76/355]).
 
  __Transfer of Functions__ 
 
@@ -40,9 +40,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1285
-[/us/act/1895-01-12/ch23/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs98
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F624
-[/us/pl/87/579/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579%2Fs7
+[/us/pl/87/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579
 [/us/stat/76/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F355
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t44/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2103

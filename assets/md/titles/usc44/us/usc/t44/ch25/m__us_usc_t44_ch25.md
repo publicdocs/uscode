@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–365, § 5][/us/pl/100/365/s5], July 13, 1988, [102 Stat. 825][/us/stat/102/825], amended analysis generally, inserting “; vacancies; meetings” after “tenure” in item 2501, substituted “staff; transportation expenses” for “editorial and clerical staff; reimbursement of members for transportation expenses; honorarium” in item 2503 and “historical publications and records programs; authorization for appropriations” for “collection, reproduction, and publication of documentary historical source material” in item 2504, and reenacting items 2502, 2505, and 2506 without change.
+    1988—[Pub. L. 100–365][/us/pl/100/365], § 5, July 13, 1988, [102 Stat. 825][/us/stat/102/825], amended analysis generally, inserting “; vacancies; meetings” after “tenure” in item 2501, substituted “staff; transportation expenses” for “editorial and clerical staff; reimbursement of members for transportation expenses; honorarium” in item 2503 and “historical publications and records programs; authorization for appropriations” for “collection, reproduction, and publication of documentary historical source material” in item 2504, and reenacting items 2502, 2505, and 2506 without change.
 
-    1984—[Pub. L. 98–497, title I, § 107(b)(12)(B)][/us/pl/98/497/s107/b/12/B], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287], struck out item 2507 “Report to Congress”.
+    1984—[Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(12)(B), Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287], struck out item 2507 “Report to Congress”.
 
-    1974—[Pub. L. 93–536, § 1(a)][/us/pl/93/536/s1/a], Dec. 22, 1974, [88 Stat. 1734][/us/stat/88/1734], inserted “AND RECORDS” after “PUBLICATIONS” in chapter heading.
+    1974—[Pub. L. 93–536][/us/pl/93/536], § 1(a), Dec. 22, 1974, [88 Stat. 1734][/us/stat/88/1734], inserted “AND RECORDS” after “PUBLICATIONS” in chapter heading.
 
 ----------
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/100/365/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F365%2Fs5
+[/us/pl/100/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F365
 [/us/stat/102/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F825
-[/us/pl/98/497/s107/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F12%2FB
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
-[/us/pl/93/536/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F536%2Fs1%2Fa
+[/us/pl/93/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F536
 [/us/stat/88/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1734
 
 

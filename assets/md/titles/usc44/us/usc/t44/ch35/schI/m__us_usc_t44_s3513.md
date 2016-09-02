@@ -29,11 +29,11 @@
 
     Notwithstanding any other provision of law, the Director shall treat or review a rule or order prescribed or proposed by the Director of the Bureau of Consumer Financial Protection on the same terms and conditions as apply to any rule or order prescribed or proposed by the Board of Governors of the Federal Reserve System.
 
-(Added [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 181][/us/stat/109/181]; amended [Pub. L. 111–203, title X, § 1100D(b)][/us/pl/111/203/s1100D/b], July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
+(Added [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 181][/us/stat/109/181]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100D(b), July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
 
  __Prior Provisions__ 
 
-    A prior section 3513, added [Pub. L. 96–511, § 2(a)][/us/pl/96/511/s2/a], Dec. 11, 1980, [94 Stat. 2822][/us/stat/94/2822]; amended [Pub. L. 98–497, title I, § 107(b)(27)][/us/pl/98/497/s107/b/27], Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291], related to periodic review of agency activities by Director and report of review and agency response to it prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
+    A prior section 3513, added [Pub. L. 96–511][/us/pl/96/511], § 2(a), Dec. 11, 1980, [94 Stat. 2822][/us/stat/94/2822]; amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(27), Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291], related to periodic review of agency activities by Director and report of review and agency response to it prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
 
  __Amendments__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F181
-[/us/pl/111/203/s1100D/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100D%2Fb
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2111
-[/us/pl/96/511/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fa
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2822
-[/us/pl/98/497/s107/b/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F27
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2291
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

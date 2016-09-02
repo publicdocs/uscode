@@ -19,11 +19,11 @@
 
     (b) The Archivist and the Comptroller General of the United States or their authorized representatives shall have access for the purposes of audit and examination to books, documents, papers, and records of the recipients that are pertinent to the grants received under [section 2504 of this title][/us/usc/t44/s2504].
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1294][/us/stat/82/1294]; [Pub. L. 98–497, title I, § 107(b)(11)][/us/pl/98/497/s107/b/11], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1294][/us/stat/82/1294]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(11), Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 393(g) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 503, as added [Sept. 5, 1950, ch. 849, § 6(d)][/us/act/1950-09-05/ch849/s6/d], [64 Stat. 583][/us/stat/64/583], and amended July 28, 1964, [Pub. L. 88–383][/us/pl/88/383], [78 Stat. 335][/us/stat/78/335]).
+    Based on 44 U.S. Code, 1964 ed., § 393(g) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 503, as added [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(d), [64 Stat. 583][/us/stat/64/583], and amended July 28, 1964, [Pub. L. 88–383][/us/pl/88/383], [78 Stat. 335][/us/stat/78/335]).
 
  __Amendments__ 
 
@@ -46,10 +46,10 @@
 [/us/usc/t44/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2504
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1294
-[/us/pl/98/497/s107/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F11
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
 [/us/pl/88/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F383
 [/us/stat/78/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F335

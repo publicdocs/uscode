@@ -15,9 +15,9 @@
 
 # Title 44—PUBLIC PRINTING AND DOCUMENTS
 
-This title was enacted by [Pub. L. 90–620, § 1][/us/pl/90/620/s1], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238]
+This title was enacted by [Pub. L. 90–620][/us/pl/90/620], § 1, Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238]
 
-Current through 114-115
+Current through 114-139
 
 <table>
 
@@ -265,25 +265,25 @@ Current through 114-115
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–187, § 9(f)(2)][/us/pl/113/187/s9/f/2], Nov. 26, 2014, [128 Stat. 2014][/us/stat/128/2014], struck out “and by the Administrator of General Services” after “United States” in item 29.
+    2014—[Pub. L. 113–187][/us/pl/113/187], § 9(f)(2), Nov. 26, 2014, [128 Stat. 2014][/us/stat/128/2014], struck out “and by the Administrator of General Services” after “United States” in item 29.
 
-    2002—[Pub. L. 107–347, title I, § 101(b)][/us/pl/107/347/s101/b], Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910], added item 36.
+    2002—[Pub. L. 107–347, title I][/us/pl/107/347/tI], § 101(b), Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910], added item 36.
 
-    1993—[Pub. L. 103–40, § 2(b)][/us/pl/103/40/s2/b], June 8, 1993, [107 Stat. 113][/us/stat/107/113], added item 41.
+    1993—[Pub. L. 103–40][/us/pl/103/40], § 2(b), June 8, 1993, [107 Stat. 113][/us/stat/107/113], added item 41.
 
-    1990—[Pub. L. 101–509, title IV, § 1(d)(2)][/us/pl/101/509/s1/d/2], Nov. 5, 1990, [104 Stat. 1419][/us/stat/104/1419], added item 27.
+    1990—[Pub. L. 101–509, title IV][/us/pl/101/509/tIV], § 1(d)(2), Nov. 5, 1990, [104 Stat. 1419][/us/stat/104/1419], added item 27.
 
-    1988—[Pub. L. 100–504, title II, § 204][/us/pl/100/504/s204], Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531], added item 39.
+    1988—[Pub. L. 100–504, title II][/us/pl/100/504/tII], § 204, Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531], added item 39.
 
-    1984—[Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(c)(2), 107(b)(18)(B), Oct. 19, 1984, [98 Stat. 2283][/us/stat/98/2283], 2290, substituted “National Archives and Records Administration” for “Archival Administration” in item 21, and inserted “the Archivist of the United States and by the” in item 29.
+    1984—[Pub. L. 98–497, title I][/us/pl/98/497/tI], §§ 102(c)(2), 107(b)(18)(B), Oct. 19, 1984, [98 Stat. 2283][/us/stat/98/2283], 2290, substituted “National Archives and Records Administration” for “Archival Administration” in item 21, and inserted “the Archivist of the United States and by the” in item 29.
 
-    1980—[Pub. L. 96–511, § 2(b)][/us/pl/96/511/s2/b], Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825], substituted “Information Policy” for “Reporting Services” in item 35.
+    1980—[Pub. L. 96–511][/us/pl/96/511], § 2(b), Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825], substituted “Information Policy” for “Reporting Services” in item 35.
 
-    1978—[Pub. L. 95–591, § 2(b)(1)][/us/pl/95/591/s2/b/1], Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528], added item 22.
+    1978—[Pub. L. 95–591][/us/pl/95/591], § 2(b)(1), Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528], added item 22.
 
-    [Pub. L. 95–378, § 2(b)][/us/pl/95/378/s2/b], Sept. 22, 1978, [92 Stat. 723][/us/stat/92/723], struck out item 27 “Federal Records Council”.
+    [Pub. L. 95–378][/us/pl/95/378], § 2(b), Sept. 22, 1978, [92 Stat. 723][/us/stat/92/723], struck out item 27 “Federal Records Council”.
 
-    1974—[Pub. L. 93–536, § 2][/us/pl/93/536/s2], Dec. 22, 1974, [88 Stat. 1735][/us/stat/88/1735], substituted “National Historical Publications and Records Commission” for “National Historical Publications Commission” in item 25.
+    1974—[Pub. L. 93–536][/us/pl/93/536], § 2, Dec. 22, 1974, [88 Stat. 1735][/us/stat/88/1735], substituted “National Historical Publications and Records Commission” for “National Historical Publications Commission” in item 25.
 
  __Change of Name__ 
 
@@ -4417,7 +4417,7 @@ Rep.  </td>
 
  __Repeals__ 
 
-    [Pub. L. 107–217, § 4][/us/pl/107/217/s4], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], repealed title V of the Federal Property and Administrative Services Act of 1949, [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], as added by [act Sept. 5, 1950, ch. 849, § 6(d)][/us/act/1950-09-05/ch849/s6/d], [64 Stat. 583][/us/stat/64/583], which was classified to sections 392 to 401 of title 44 prior to the enactment into positive law of Title 44, Public Printing and Documents, by [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238]. [Section 3 of Pub. L. 90–620][/us/pl/90/620/s3] repealed various laws and parts of laws, including section 6(d), but not title V.
+    [Pub. L. 107–217][/us/pl/107/217], § 4, Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], repealed title V of the Federal Property and Administrative Services Act of 1949, [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], as added by [act Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(d), [64 Stat. 583][/us/stat/64/583], which was classified to sections 392 to 401 of title 44 prior to the enactment into positive law of Title 44, Public Printing and Documents, by [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238]. [Section 3 of Pub. L. 90–620][/us/pl/90/620/s3] repealed various laws and parts of laws, including section 6(d), but not title V.
 
     [Section 3 of Pub. L. 90–620][/us/pl/90/620/s3], Oct. 22, 1968, [82 Stat. 1306][/us/stat/82/1306], repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before October 22, 1968, and except as provided by [section 2 of Pub. L. 90–620][/us/pl/90/620/s2].
 
@@ -4428,27 +4428,27 @@ Rep.  </td>
 ----------
 ----------
 
-[/us/pl/90/620/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs1
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1238
-[/us/pl/113/187/s9/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Ff%2F2
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2014
-[/us/pl/107/347/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs101%2Fb
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2910
-[/us/pl/103/40/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F40%2Fs2%2Fb
+[/us/pl/103/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F40
 [/us/stat/107/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F113
-[/us/pl/101/509/s1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs1%2Fd%2F2
+[/us/pl/101/509/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtIV
 [/us/stat/104/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1419
-[/us/pl/100/504/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs204
+[/us/pl/100/504/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtII
 [/us/stat/102/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2531
-[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2283
-[/us/pl/96/511/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fb
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2825
-[/us/pl/95/591/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fb%2F1
+[/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2528
-[/us/pl/95/378/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F378%2Fs2%2Fb
+[/us/pl/95/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F378
 [/us/stat/92/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F723
-[/us/pl/93/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F536%2Fs2
+[/us/pl/93/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F536
 [/us/stat/88/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1735
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
@@ -4467,10 +4467,10 @@ Rep.  </td>
 [/us/stat/82/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1306
 [/us/pl/90/620/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs2%2Ff
 [/us/stat/82/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1306
-[/us/pl/107/217/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs4
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1238

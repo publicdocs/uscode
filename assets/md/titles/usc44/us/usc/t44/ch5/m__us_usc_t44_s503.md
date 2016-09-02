@@ -19,11 +19,11 @@
 
     (b) The equipment referred to in subsection (a) is the printing and binding equipment that the various hospitals and homes of the Department of Veterans Affairs use for occupational therapy.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1243][/us/stat/82/1243]; [Pub. L. 102–54, § 13(r)][/us/pl/102/54/s13/r], June 13, 1991, [105 Stat. 282][/us/stat/105/282].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1243][/us/stat/82/1243]; [Pub. L. 102–54][/us/pl/102/54], § 13(r), June 13, 1991, [105 Stat. 282][/us/stat/105/282].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 111b ([June 16, 1933, ch. 101, § 1][/us/act/1933-06-16/ch101/s1], [48 Stat. 302][/us/stat/48/302]; [Feb. 2, 1935, ch. 3, § 1][/us/act/1935-02-02/ch3/s1], [49 Stat. 18][/us/stat/49/18]; [Mar. 19, 1936, ch. 156, § 1][/us/act/1936-03-19/ch156/s1], [49 Stat. 1182][/us/stat/49/1182]).
+    Based on 44 U.S. Code, 1964 ed., § 111b ([June 16, 1933, ch. 101][/us/act/1933-06-16/ch101], § 1, [48 Stat. 302][/us/stat/48/302]; [Feb. 2, 1935, ch. 3][/us/act/1935-02-02/ch3], § 1, [49 Stat. 18][/us/stat/49/18]; [Mar. 19, 1936, ch. 156][/us/act/1936-03-19/ch156], § 1, [49 Stat. 1182][/us/stat/49/1182]).
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1243
-[/us/pl/102/54/s13/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fr
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F282
-[/us/act/1933-06-16/ch101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch101%2Fs1
+[/us/act/1933-06-16/ch101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch101
 [/us/stat/48/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F302
-[/us/act/1935-02-02/ch3/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-02%2Fch3%2Fs1
+[/us/act/1935-02-02/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-02%2Fch3
 [/us/stat/49/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F18
-[/us/act/1936-03-19/ch156/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-03-19%2Fch156%2Fs1
+[/us/act/1936-03-19/ch156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-03-19%2Fch156
 [/us/stat/49/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1182
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501

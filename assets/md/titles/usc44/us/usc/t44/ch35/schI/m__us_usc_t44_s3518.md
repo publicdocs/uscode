@@ -45,7 +45,7 @@
 
     (e) Nothing in this subchapter shall be interpreted as increasing or decreasing the authority of the President, the Office of Management and Budget or the Director thereof, under the laws of the United States, with respect to the substantive policies and programs of departments, agencies and offices, including the substantive authority of any Federal agency to enforce the civil rights laws.
 
-(Added [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 183][/us/stat/109/183]; amended [Pub. L. 104–106, div. E, title LI, § 5131(e)(2)][/us/pl/104/106/s5131/e/2], Feb. 10, 1996, [110 Stat. 688][/us/stat/110/688]; [Pub. L. 105–85, div. A, title X, § 1073(h)(5)(C)][/us/pl/105/85/s1073/h/5/C], Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1064(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275; [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(7), Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302].)
+(Added [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 183][/us/stat/109/183]; amended [Pub. L. 104–106, div. E, title LI][/us/pl/104/106/dE/tLI], § 5131(e)(2), Feb. 10, 1996, [110 Stat. 688][/us/stat/110/688]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(h)(5)(C), Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1064(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275; [Pub. L. 107–217][/us/pl/107/217], § 3(l)(7), Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302].)
 
  __References in Text__ 
 
@@ -59,11 +59,11 @@
 
     Executive Order No. 12333, referred to in subsec. (c)(1)(D), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.
 
-    [Section 11332 of title 40][/us/usc/t40/s11332], referred to in subsec. (d), was repealed by [Pub. L. 107–296, title X, § 1005(a)(1)][/us/pl/107/296/s1005/a/1], Nov. 25, 2002, [116 Stat. 2272][/us/stat/116/2272], and [Pub. L. 107–347, title III, § 305(a)][/us/pl/107/347/s305/a], Dec. 17, 2002, [116 Stat. 2960][/us/stat/116/2960].
+    [Section 11332 of title 40][/us/usc/t40/s11332], referred to in subsec. (d), was repealed by [Pub. L. 107–296, title X][/us/pl/107/296/tX], § 1005(a)(1), Nov. 25, 2002, [116 Stat. 2272][/us/stat/116/2272], and [Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 305(a), Dec. 17, 2002, [116 Stat. 2960][/us/stat/116/2960].
 
  __Prior Provisions__ 
 
-    A prior section 3518, added [Pub. L. 96–511, § 2(a)][/us/pl/96/511/s2/a], Dec. 11, 1980, [94 Stat. 2824][/us/stat/94/2824], related to the effect on existing laws and regulations prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
+    A prior section 3518, added [Pub. L. 96–511][/us/pl/96/511], § 2(a), Dec. 11, 1980, [94 Stat. 2824][/us/stat/94/2824], related to the effect on existing laws and regulations prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
 
  __Amendments__ 
 
@@ -90,15 +90,15 @@
 ----------
 ----------
 
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F183
-[/us/pl/104/106/s5131/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5131%2Fe%2F2
+[/us/pl/104/106/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdE%2FtLI
 [/us/stat/110/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F688
-[/us/pl/105/85/s1073/h/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fh%2F5%2FC
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1907
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1302
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305
 [/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
@@ -107,11 +107,11 @@
 [/us/usc/t15/s57b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%931
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t40/s11332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11332
-[/us/pl/107/296/s1005/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1005%2Fa%2F1
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2272
-[/us/pl/107/347/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs305%2Fa
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2960
-[/us/pl/96/511/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fa
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2824
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217

@@ -171,29 +171,29 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, div. H, title I, § 1301(e)(1)][/us/pl/113/235/s1301/e/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” in items 302 and 303.
+    2014—[Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(e)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” in items 302 and 303.
 
-    [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in items 301 and 303 to 307.
+    [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in items 301 and 303 to 307.
 
-    2011—[Pub. L. 111–350, § 5(m)(1)][/us/pl/111/350/s5/m/1], Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853], substituted “subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “the Federal Property and Administrative Services Act” in item 311.
+    2011—[Pub. L. 111–350][/us/pl/111/350], § 5(m)(1), Jan. 4, 2011, [124 Stat. 3853][/us/stat/124/3853], substituted “subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “the Federal Property and Administrative Services Act” in item 311.
 
-    2003—[Pub. L. 108–83, title I, § 1302(b)][/us/pl/108/83/s1302/b], Sept. 30, 2003, [117 Stat. 1034][/us/stat/117/1034], added item 318.
+    2003—[Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1302(b), Sept. 30, 2003, [117 Stat. 1034][/us/stat/117/1034], added item 318.
 
-    1999—[Pub. L. 106–57, title II, § 210(c)][/us/pl/106/57/s210/c], Sept. 29, 1999, [113 Stat. 425][/us/stat/113/425], inserted “; small purchase threshold” after “authority” in item 311.
+    1999—[Pub. L. 106–57, title II][/us/pl/106/57/tII], § 210(c), Sept. 29, 1999, [113 Stat. 425][/us/stat/113/425], inserted “; small purchase threshold” after “authority” in item 311.
 
-    1985—[Pub. L. 99–151, title III, § 305(b)(2)][/us/pl/99/151/s305/b/2], Nov. 13, 1985, [99 Stat. 808][/us/stat/99/808], inserted “; contract negotiation authority” in item 311.
+    1985—[Pub. L. 99–151, title III][/us/pl/99/151/tIII], § 305(b)(2), Nov. 13, 1985, [99 Stat. 808][/us/stat/99/808], inserted “; contract negotiation authority” in item 311.
 
-    1975—[Pub. L. 94–82, title II, § 204(c)(2)][/us/pl/94/82/s204/c/2], Aug. 9, 1975, [89 Stat. 421][/us/stat/89/421], substituted “pay” for “compensation” in item 303.
+    1975—[Pub. L. 94–82, title II][/us/pl/94/82/tII], § 204(c)(2), Aug. 9, 1975, [89 Stat. 421][/us/stat/89/421], substituted “pay” for “compensation” in item 303.
 
-    1974—[Pub. L. 93–459, § 1(b)][/us/pl/93/459/s1/b], Oct. 20, 1974, [88 Stat. 1385][/us/stat/88/1385], substituted “Disbursing officer; deputy disbursing officer; certifying officers and employees.” for “Disbursing officer: continuation and settlement of accounts during vacancy in office; responsibility for accounts; disbursements for Superintendent of Documents.” in item 308.
+    1974—[Pub. L. 93–459][/us/pl/93/459], § 1(b), Oct. 20, 1974, [88 Stat. 1385][/us/stat/88/1385], substituted “Disbursing officer; deputy disbursing officer; certifying officers and employees.” for “Disbursing officer: continuation and settlement of accounts during vacancy in office; responsibility for accounts; disbursements for Superintendent of Documents.” in item 308.
 
-    1972—[Pub. L. 92–310, title II, § 210(a)(3)][/us/pl/92/310/s210/a/3], June 6, 1972, [86 Stat. 204][/us/stat/86/204], struck out “; bond” in item 301.
+    1972—[Pub. L. 92–310, title II][/us/pl/92/310/tII], § 210(a)(3), June 6, 1972, [86 Stat. 204][/us/stat/86/204], struck out “; bond” in item 301.
 
-    1970—[Pub. L. 91–359, § 1(b)][/us/pl/91/359/s1/b], July 31, 1970, [84 Stat. 668][/us/stat/84/668], added item 317.
+    1970—[Pub. L. 91–359][/us/pl/91/359], § 1(b), July 31, 1970, [84 Stat. 668][/us/stat/84/668], added item 317.
 
  __Change of Name__ 
 
-[Pub. L. 113–235, div. H, title I, § 1301(a)][/us/pl/113/235/s1301/a], (b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
+[Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(a), (b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -214,27 +214,27 @@
 ----------
 ----------
 
-[/us/pl/113/235/s1301/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fe%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/pl/111/350/s5/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fm%2F1
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3853
-[/us/pl/108/83/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1302%2Fb
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1034
-[/us/pl/106/57/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs210%2Fc
+[/us/pl/106/57/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtII
 [/us/stat/113/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F425
-[/us/pl/99/151/s305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F151%2Fs305%2Fb%2F2
+[/us/pl/99/151/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F151%2FtIII
 [/us/stat/99/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F808
-[/us/pl/94/82/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs204%2Fc%2F2
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F421
-[/us/pl/93/459/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F459%2Fs1%2Fb
+[/us/pl/93/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F459
 [/us/stat/88/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1385
-[/us/pl/92/310/s210/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs210%2Fa%2F3
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F204
-[/us/pl/91/359/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F359%2Fs1%2Fb
+[/us/pl/91/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F359
 [/us/stat/84/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F668
-[/us/pl/113/235/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fa
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/94/575/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5%2Fb
 [/us/usc/t44/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2901

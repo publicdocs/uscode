@@ -69,7 +69,7 @@
 
         (B) any Alaska Native regional or village corporation established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.).
 
-(Added [Pub. L. 107–347, title I, § 101(a)][/us/pl/107/347/s101/a], Dec. 17, 2002, [116 Stat. 2901][/us/stat/116/2901].)
+(Added [Pub. L. 107–347, title I][/us/pl/107/347/tI], § 101(a), Dec. 17, 2002, [116 Stat. 2901][/us/stat/116/2901].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–347, title IV, § 402(a)][/us/pl/107/347/s402/a], Dec. 17, 2002, [116 Stat. 2961][/us/stat/116/2961], provided that:
+[Pub. L. 107–347, title IV][/us/pl/107/347/tIV], § 402(a), Dec. 17, 2002, [116 Stat. 2961][/us/stat/116/2961], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -89,7 +89,7 @@
 
  __Federal Data Center Consolidation Initiative__ 
 
-[Pub. L. 113–291, div. A, title VIII, § 834][/us/pl/113/291/s834], Dec. 19, 2014, [128 Stat. 3444][/us/stat/128/3444], provided that:
+[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 834, Dec. 19, 2014, [128 Stat. 3444][/us/stat/128/3444], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -335,7 +335,7 @@
 
  __E-Government Initiatives Funding__ 
 
-[Pub. L. 110–161, div. D, title VII, § 737][/us/pl/110/161/s737], Dec. 26, 2007, [121 Stat. 2028][/us/stat/121/2028], provided that:
+[Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 737, Dec. 26, 2007, [121 Stat. 2028][/us/stat/121/2028], provided that:
 
 >     “(a) For fiscal year 2008, no funds shall be available for transfers or reimbursements to the E-Government initiatives sponsored by the Office of Management and Budget prior to 15 days following submission of a report to the Committees on Appropriations by the Director of the Office of Management and Budget and receipt of approval to transfer funds by the House and Senate Committees on Appropriations.
 
@@ -365,7 +365,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 107–347, § 2][/us/pl/107/347/s2], Dec. 17, 2002, [116 Stat. 2900][/us/stat/116/2900], provided that:
+[Pub. L. 107–347][/us/pl/107/347], § 2, Dec. 17, 2002, [116 Stat. 2900][/us/stat/116/2900], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -447,12 +447,12 @@ In order to ensure that agencies make the best use of emerging technologies in s
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/107/347/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs101%2Fa
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2901
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/107/347/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fa
+[/us/pl/107/347/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIV
 [/us/stat/116/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2961
 [/us/usc/t31/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs507
 [/us/usc/t40/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs305
@@ -466,7 +466,7 @@ In order to ensure that agencies make the best use of emerging technologies in s
 [/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
 [/us/usc/t28/s1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1913
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
-[/us/pl/113/291/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs834
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3444
 [/us/usc/t44/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3602
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
@@ -478,10 +478,10 @@ In order to ensure that agencies make the best use of emerging technologies in s
 [/us/usc/t10/s2223a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2223a
 [/us/usc/t44/s3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542
 [/us/usc/t44/s3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552
-[/us/pl/110/161/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs737
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2028
 [/us/pl/110/161/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs737
-[/us/pl/107/347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs2
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/stat/116/2900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2900
 
 

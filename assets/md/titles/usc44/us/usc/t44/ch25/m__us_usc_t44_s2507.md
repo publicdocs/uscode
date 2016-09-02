@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t44/ch25/m__us_usc_t44_s2506.md) | [Next](./../../../..//us/usc/t44/ch27/m__us_usc_t44_ch27.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2507)
 
-## \[§ 2507. Repealed. [Pub. L. 98–497, title I, § 107(b)(12)(A)][/us/pl/98/497/s107/b/12/A], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]\]
+## \[§ 2507. Repealed. [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(12)(A), Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]\]
 
     Section, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1295][/us/stat/82/1295], related to report that Administrator is required to make annually to Congress.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/497/s107/b/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F12%2FA
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1295

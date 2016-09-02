@@ -193,17 +193,17 @@
 
         (5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 167][/us/stat/109/167]; amended [Pub. L. 104–106, div. E, title LI, § 5131(e)(1)][/us/pl/104/106/s5131/e/1], title LVI, § 5605(b), (c), Feb. 10, 1996, [110 Stat. 688][/us/stat/110/688], 700; [Pub. L. 105–85, div. A, title X, § 1073(h)(5)(B)][/us/pl/105/85/s1073/h/5/B], (C), Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907]; [Pub. L. 105–277, div. C, title XVII, § 1702][/us/pl/105/277/s1702], Oct. 21, 1998, [112 Stat. 2681–749][/us/stat/112/2681-749]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1064(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275; [Pub. L. 107–198, § 2(a)][/us/pl/107/198/s2/a], June 28, 2002, [116 Stat. 729][/us/stat/116/729]; [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(5), Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301]; [Pub. L. 107–296, title X, § 1005(c)(1)][/us/pl/107/296/s1005/c/1], Nov. 25, 2002, [116 Stat. 2272][/us/stat/116/2272]; [Pub. L. 107–347, title III, § 305(c)(1)][/us/pl/107/347/s305/c/1], Dec. 17, 2002, [116 Stat. 2960][/us/stat/116/2960].)
+(Added [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 167][/us/stat/109/167]; amended [Pub. L. 104–106, div. E, title LI][/us/pl/104/106/dE/tLI], § 5131(e)(1), title LVI, § 5605(b), (c), Feb. 10, 1996, [110 Stat. 688][/us/stat/110/688], 700; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(h)(5)(B), (C), Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907]; [Pub. L. 105–277, div. C, title XVII][/us/pl/105/277/dC/tXVII], § 1702, Oct. 21, 1998, [112 Stat. 2681–749][/us/stat/112/2681-749]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1064(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275; [Pub. L. 107–198][/us/pl/107/198], § 2(a), June 28, 2002, [116 Stat. 729][/us/stat/116/729]; [Pub. L. 107–217][/us/pl/107/217], § 3(l)(5), Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301]; [Pub. L. 107–296, title X][/us/pl/107/296/tX], § 1005(c)(1), Nov. 25, 2002, [116 Stat. 2272][/us/stat/116/2272]; [Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 305(c)(1), Dec. 17, 2002, [116 Stat. 2960][/us/stat/116/2960].)
 
  __References in Text__ 
 
     The date of enactment of the Small Business Paperwork Relief Act of 2002, referred to in subsec. (c)(6), is the date of enactment of [Pub. L. 107–198][/us/pl/107/198], which was approved June 28, 2002.
 
-    [Section 322 of title 40][/us/usc/t40/s322], referred to in subsec. (h)(2), was repealed by [Pub. L. 109–313, § 3(h)(1)][/us/pl/109/313/s3/h/1], Oct. 6, 2006, [120 Stat. 1736][/us/stat/120/1736].
+    [Section 322 of title 40][/us/usc/t40/s322], referred to in subsec. (h)(2), was repealed by [Pub. L. 109–313][/us/pl/109/313], § 3(h)(1), Oct. 6, 2006, [120 Stat. 1736][/us/stat/120/1736].
 
  __Prior Provisions__ 
 
-    A prior section 3504, added [Pub. L. 96–511, § 2(a)][/us/pl/96/511/s2/a], Dec. 11, 1980, [94 Stat. 2815][/us/stat/94/2815]; amended [Pub. L. 98–497, title I, § 107(b)(26)][/us/pl/98/497/s107/b/26], Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291]; [Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title VIII, §§ 814, 821(b)(2)\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–336, 1783–342, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title VIII, §§ 814, 821(b)(2)\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–336, 3341–342, related to authority and functions of Director prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
+    A prior section 3504, added [Pub. L. 96–511][/us/pl/96/511], § 2(a), Dec. 11, 1980, [94 Stat. 2815][/us/stat/94/2815]; amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(26), Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291]; [Pub. L. 99–500][/us/pl/99/500], § 101(m) \[title VIII, §§ 814, 821(b)(2)\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–336, 1783–342, and [Pub. L. 99–591][/us/pl/99/591], § 101(m) \[title VIII, §§ 814, 821(b)(2)\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–336, 3341–342, related to authority and functions of Director prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
 
     Another prior section 3504, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1303][/us/stat/82/1303], provided for designation of a central collection agency, prior to the general amendment of this chapter by [Pub. L. 96–511][/us/pl/96/511]. See [section 3509 of this title][/us/usc/t44/s3509].
 
@@ -211,41 +211,41 @@
 
     2002—Subsec. (c)(6). [Pub. L. 107–198][/us/pl/107/198] added par. (6).
 
-    Subsec. (g)(1). [Pub. L. 107–296, § 1005(c)(1)(A)][/us/pl/107/296/s1005/c/1/A], and [Pub. L. 107–347, § 305(c)(1)(A)][/us/pl/107/347/s305/c/1/A], amended par. (1) identically, inserting “and” at end.
+    Subsec. (g)(1). [Pub. L. 107–296][/us/pl/107/296], § 1005(c)(1)(A), and [Pub. L. 107–347][/us/pl/107/347], § 305(c)(1)(A), amended par. (1) identically, inserting “and” at end.
 
-    Subsec. (g)(2). [Pub. L. 107–347, § 305(c)(1)(B)][/us/pl/107/347/s305/c/1/B], substituted “[section 11331 of title 40][/us/usc/t40/s11331] and subchapter II of this chapter” for “sections 11331 and 11332(b) and (c) of title 40” and a period for “; and” at end.
+    Subsec. (g)(2). [Pub. L. 107–347][/us/pl/107/347], § 305(c)(1)(B), substituted “[section 11331 of title 40][/us/usc/t40/s11331] and subchapter II of this chapter” for “sections 11331 and 11332(b) and (c) of title 40” and a period for “; and” at end.
 
-    [Pub. L. 107–296, § 1005(c)(1)(B)][/us/pl/107/296/s1005/c/1/B], which directed amendment of par. (2) by substituting “[section 11331 of title 40][/us/usc/t40/s11331] and subchapter II of this title” for “sections 11331 and 11332(b) and (c) of title 40” and a period for the semicolon, could not be executed because of amendment by [Pub. L. 107–347, § 305(c)(1)(B)][/us/pl/107/347/s305/c/1/B]. See Amendment note above and Effective Date of 2002 Amendments notes below.
+    [Pub. L. 107–296][/us/pl/107/296], § 1005(c)(1)(B), which directed amendment of par. (2) by substituting “[section 11331 of title 40][/us/usc/t40/s11331] and subchapter II of this title” for “sections 11331 and 11332(b) and (c) of title 40” and a period for the semicolon, could not be executed because of amendment by [Pub. L. 107–347][/us/pl/107/347], § 305(c)(1)(B). See Amendment note above and Effective Date of 2002 Amendments notes below.
 
-    [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(5)(A), substituted “sections 11331 and 11332(b) and (c) of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1441][/us/usc/t40/s1441]), and sections 5 and 6 of the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)”.
+    [Pub. L. 107–217][/us/pl/107/217], § 3(l)(5)(A), substituted “sections 11331 and 11332(b) and (c) of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1441][/us/usc/t40/s1441]), and sections 5 and 6 of the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)”.
 
-    Subsec. (g)(3). [Pub. L. 107–296, § 1005(c)(1)(C)][/us/pl/107/296/s1005/c/1/C], and [Pub. L. 107–347, § 305(c)(1)(C)][/us/pl/107/347/s305/c/1/C], amended subsec. (g) identically, striking out par. (3) which read as follows: “require Federal agencies, consistent with the standards and guidelines promulgated under sections 11331 and 11332(b) and (c) of title 40, to identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.”
+    Subsec. (g)(3). [Pub. L. 107–296][/us/pl/107/296], § 1005(c)(1)(C), and [Pub. L. 107–347][/us/pl/107/347], § 305(c)(1)(C), amended subsec. (g) identically, striking out par. (3) which read as follows: “require Federal agencies, consistent with the standards and guidelines promulgated under sections 11331 and 11332(b) and (c) of title 40, to identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.”
 
-    [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(5)(B), substituted “sections 11331 and 11332(b) and (c) of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1441][/us/usc/t40/s1441]) and sections 5 and 6 of the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)”.
+    [Pub. L. 107–217][/us/pl/107/217], § 3(l)(5)(B), substituted “sections 11331 and 11332(b) and (c) of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1441][/us/usc/t40/s1441]) and sections 5 and 6 of the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)”.
 
-    Subsec. (h)(1)(B). [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(5)(C), substituted “[section 11331 of title 40][/us/usc/t40/s11331]” for “section 5131 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1441][/us/usc/t40/s1441])”.
+    Subsec. (h)(1)(B). [Pub. L. 107–217][/us/pl/107/217], § 3(l)(5)(C), substituted “[section 11331 of title 40][/us/usc/t40/s11331]” for “section 5131 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1441][/us/usc/t40/s1441])”.
 
-    Subsec. (h)(2). [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(5)(D), substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1401][/us/usc/t40/s1401] et seq.)” and “[section 322 of title 40][/us/usc/t40/s322]” for “section 110 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 757][/us/usc/t40/s757])”.
+    Subsec. (h)(2). [Pub. L. 107–217][/us/pl/107/217], § 3(l)(5)(D), substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1401][/us/usc/t40/s1401] et seq.)” and “[section 322 of title 40][/us/usc/t40/s322]” for “section 110 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 757][/us/usc/t40/s757])”.
 
     2000—Subsecs. (a)(2), (d)(2), (f)(1). [Pub. L. 106–398][/us/pl/106/398] substituted “subchapter” for “chapter”.
 
     1998—Subsec. (a)(1)(B)(vi). [Pub. L. 105–277][/us/pl/105/277] amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “the acquisition and use of information technology.”
 
-    1997—Subsecs. (g)(2), (3), (h)(1)(B). [Pub. L. 105–85, § 1073(h)(5)(C)][/us/pl/105/85/s1073/h/5/C], substituted “Clinger-Cohen Act of 1996 ([40 U.S.C. 1441][/us/usc/t40/s1441])” for “Information Technology Management Reform Act of 1996”.
+    1997—Subsecs. (g)(2), (3), (h)(1)(B). [Pub. L. 105–85][/us/pl/105/85], § 1073(h)(5)(C), substituted “Clinger-Cohen Act of 1996 ([40 U.S.C. 1441][/us/usc/t40/s1441])” for “Information Technology Management Reform Act of 1996”.
 
-    Subsec. (h)(2). [Pub. L. 105–85, § 1073(h)(5)(B)][/us/pl/105/85/s1073/h/5/B], substituted “division E of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1401][/us/usc/t40/s1401] et seq.)” for “the Information Technology Management Reform Act of 1996”.
+    Subsec. (h)(2). [Pub. L. 105–85][/us/pl/105/85], § 1073(h)(5)(B), substituted “division E of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1401][/us/usc/t40/s1401] et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
-    1996—Subsec. (g)(2). [Pub. L. 104–106, § 5131(e)(1)(A)][/us/pl/104/106/s5131/e/1/A], substituted “sections 20 and 21 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3][/us/usc/t15/s278g–3] and 278g–4), section 5131 of the Information Technology Management Reform Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)” for “the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)”.
+    1996—Subsec. (g)(2). [Pub. L. 104–106][/us/pl/104/106], § 5131(e)(1)(A), substituted “sections 20 and 21 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3][/us/usc/t15/s278g–3] and 278g–4), section 5131 of the Information Technology Management Reform Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)” for “the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)”.
 
-    Subsec. (g)(3). [Pub. L. 104–106, § 5131(e)(1)(B)][/us/pl/104/106/s5131/e/1/B], substituted “the standards and guidelines promulgated under section 5131 of the Information Technology Management Reform Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)” for “the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)”.
+    Subsec. (g)(3). [Pub. L. 104–106][/us/pl/104/106], § 5131(e)(1)(B), substituted “the standards and guidelines promulgated under section 5131 of the Information Technology Management Reform Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)” for “the Computer Security Act of 1987 ([40 U.S.C. 759][/us/usc/t40/s759] note)”.
 
-    Subsec. (h)(1)(B). [Pub. L. 104–106, § 5605(b)][/us/pl/104/106/s5605/b], substituted “section 5131 of the Information Technology Management Reform Act of 1996” for “section 111(d) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 759(d)][/us/usc/t40/s759/d])”.
+    Subsec. (h)(1)(B). [Pub. L. 104–106][/us/pl/104/106], § 5605(b), substituted “section 5131 of the Information Technology Management Reform Act of 1996” for “section 111(d) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 759(d)][/us/usc/t40/s759/d])”.
 
-    Subsec. (h)(2). [Pub. L. 104–106, § 5605(c)][/us/pl/104/106/s5605/c], substituted “the Information Technology Management Reform Act of 1996 and directives issued under section 110 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 757][/us/usc/t40/s757])” for “sections 110 and 111 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 757][/us/usc/t40/s757] and 759)”.
+    Subsec. (h)(2). [Pub. L. 104–106][/us/pl/104/106], § 5605(c), substituted “the Information Technology Management Reform Act of 1996 and directives issued under section 110 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 757][/us/usc/t40/s757])” for “sections 110 and 111 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 757][/us/usc/t40/s757] and 759)”.
 
  __Effective Date of 2002 Amendments__ 
 
-[Pub. L. 107–347, title IV, § 402(b)][/us/pl/107/347/s402/b], Dec. 17, 2002, [116 Stat. 2962][/us/stat/116/2962], provided that: 
+[Pub. L. 107–347, title IV][/us/pl/107/347/tIV], § 402(b), Dec. 17, 2002, [116 Stat. 2962][/us/stat/116/2962], provided that: 
 
 > “Title III \[see Short Title of 2002 Amendments note set out under [section 101 of this title][/us/usc/t44/s101]\] and this title \[enacting provisions set out as a note under [section 3601 of this title][/us/usc/t44/s3601]\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\].”
 
@@ -261,7 +261,7 @@
 
  __Government Paperwork Elimination__ 
 
-[Pub. L. 105–277, div. C, title XVII][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–749][/us/stat/112/2681-749], provided that:
+[Pub. L. 105–277, div. C, title XVII][/us/pl/105/277/dC/tXVII], Oct. 21, 1998, [112 Stat. 2681–749][/us/stat/112/2681-749], provided that:
 
 > “SEC. 1701. __SHORT TITLE.__ 
 
@@ -365,35 +365,35 @@
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F167
-[/us/pl/104/106/s5131/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5131%2Fe%2F1
+[/us/pl/104/106/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdE%2FtLI
 [/us/stat/110/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F688
-[/us/pl/105/85/s1073/h/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fh%2F5%2FB
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1907
-[/us/pl/105/277/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1702
+[/us/pl/105/277/dC/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXVII
 [/us/stat/112/2681-749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-749
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/198/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198%2Fs2%2Fa
+[/us/pl/107/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198
 [/us/stat/116/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F729
-[/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1301
-[/us/pl/107/296/s1005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1005%2Fc%2F1
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2272
-[/us/pl/107/347/s305/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs305%2Fc%2F1
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2960
 [/us/pl/107/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198
 [/us/usc/t40/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs322
-[/us/pl/109/313/s3/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs3%2Fh%2F1
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1736
-[/us/pl/96/511/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fa
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2815
-[/us/pl/98/497/s107/b/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F26
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2291
-[/us/pl/99/500/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fm
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-308
-[/us/pl/99/591/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fm
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-308
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
@@ -401,47 +401,47 @@
 [/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/usc/t44/s3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3509
 [/us/pl/107/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198
-[/us/pl/107/296/s1005/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1005%2Fc%2F1%2FA
-[/us/pl/107/347/s305/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs305%2Fc%2F1%2FA
-[/us/pl/107/347/s305/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs305%2Fc%2F1%2FB
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
-[/us/pl/107/296/s1005/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1005%2Fc%2F1%2FB
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
-[/us/pl/107/347/s305/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs305%2Fc%2F1%2FB
-[/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1441
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
-[/us/pl/107/296/s1005/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1005%2Fc%2F1%2FC
-[/us/pl/107/347/s305/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs305%2Fc%2F1%2FC
-[/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1441
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
-[/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t40/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1441
-[/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1401
 [/us/usc/t40/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs322
 [/us/usc/t40/s757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs757
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/85/s1073/h/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fh%2F5%2FC
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t40/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1441
-[/us/pl/105/85/s1073/h/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fh%2F5%2FB
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t40/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1401
-[/us/pl/104/106/s5131/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5131%2Fe%2F1%2FA
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
-[/us/pl/104/106/s5131/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5131%2Fe%2F1%2FB
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
-[/us/pl/104/106/s5605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5605%2Fb
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t40/s759/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759%2Fd
-[/us/pl/104/106/s5605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5605%2Fc
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t40/s757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs757
 [/us/usc/t40/s757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs757
-[/us/pl/107/347/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fb
+[/us/pl/107/347/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIV
 [/us/stat/116/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2962
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 [/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601
@@ -455,7 +455,7 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5701
 [/us/stat/110/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F702
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXVII
 [/us/stat/112/2681-749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-749
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101

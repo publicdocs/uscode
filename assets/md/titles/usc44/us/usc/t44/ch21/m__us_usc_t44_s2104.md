@@ -31,7 +31,7 @@
 
     (h) If authorized by the Archivist, officers and employees of the Administration having investigatory functions are empowered, while engaged in the performance of their duties in conducting investigations, to administer oaths.
 
-(Added [Pub. L. 98–497, title I, § 102(a)(2)][/us/pl/98/497/s102/a/2], Oct. 19, 1984, [98 Stat. 2281][/us/stat/98/2281].)
+(Added [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 102(a)(2), Oct. 19, 1984, [98 Stat. 2281][/us/stat/98/2281].)
 
  __Prior Provisions__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/98/497/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs102%2Fa%2F2
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2281
 [/us/usc/t44/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2108
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301

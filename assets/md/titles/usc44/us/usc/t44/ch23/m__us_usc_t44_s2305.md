@@ -17,11 +17,11 @@
 
     The Board may solicit and accept gifts or bequests of money, securities, or other personal property, for the benefit of or in connection with the national archival and records activities administered by the National Archives and Records Administration. Moneys that are for deposit into the trust fund shall be deposited within 10 working days of the receipt thereof.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1292][/us/stat/82/1292]; [Pub. L. 98–497, title II, § 202(a)][/us/pl/98/497/s202/a], Oct. 19, 1984, [98 Stat. 2293][/us/stat/98/2293].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1292][/us/stat/82/1292]; [Pub. L. 98–497, title II][/us/pl/98/497/tII], § 202(a), Oct. 19, 1984, [98 Stat. 2293][/us/stat/98/2293].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 300cc ([July 9, 1941, ch. 284, § 3][/us/act/1941-07-09/ch284/s3], [55 Stat. 581][/us/stat/55/581]).
+    Based on 44 U.S. Code, 1964 ed., § 300cc ([July 9, 1941, ch. 284][/us/act/1941-07-09/ch284], § 3, [55 Stat. 581][/us/stat/55/581]).
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1292
-[/us/pl/98/497/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs202%2Fa
+[/us/pl/98/497/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtII
 [/us/stat/98/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2293
-[/us/act/1941-07-09/ch284/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-09%2Fch284%2Fs3
+[/us/act/1941-07-09/ch284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-09%2Fch284
 [/us/stat/55/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F581
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497

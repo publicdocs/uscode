@@ -143,7 +143,7 @@
 
         (2) Funds appropriated under this subsection shall remain available until expended.
 
-(Added [Pub. L. 107–347, title I, § 101(a)][/us/pl/107/347/s101/a], Dec. 17, 2002, [116 Stat. 2906][/us/stat/116/2906].)
+(Added [Pub. L. 107–347, title I][/us/pl/107/347/tI], § 101(a), Dec. 17, 2002, [116 Stat. 2906][/us/stat/116/2906].)
 
  __References in Text__ 
 
@@ -162,7 +162,7 @@
 ----------
 ----------
 
-[/us/pl/107/347/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs101%2Fa
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2906
 [/us/pl/107/347/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs204
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501

@@ -25,7 +25,7 @@
 
     (4) the matters specified in [section 2904(c)(8) of this title][/us/usc/t44/s2904/c/8].
 
-(Added [Pub. L. 98–497, title I, § 102(a)(2)][/us/pl/98/497/s102/a/2], Oct. 19, 1984, [98 Stat. 2282][/us/stat/98/2282].)
+(Added [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 102(a)(2), Oct. 19, 1984, [98 Stat. 2282][/us/stat/98/2282].)
 
  __Prior Provisions__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t44/s2904/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2904%2Fc%2F8
-[/us/pl/98/497/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs102%2Fa%2F2
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2282
 [/us/usc/t44/s2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2110
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301

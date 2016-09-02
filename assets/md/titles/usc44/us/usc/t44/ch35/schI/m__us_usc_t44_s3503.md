@@ -19,11 +19,11 @@
 
     (b) There shall be at the head of the Office an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall delegate to the Administrator the authority to administer all functions under this subchapter, except that any such delegation shall not relieve the Director of responsibility for the administration of such functions. The Administrator shall serve as principal adviser to the Director on Federal information resources management policy.
 
-(Added [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 166][/us/stat/109/166]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1064(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275.)
+(Added [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 166][/us/stat/109/166]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1064(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275.)
 
  __Prior Provisions__ 
 
-    A prior section 3503, added [Pub. L. 96–511, § 2(a)][/us/pl/96/511/s2/a], Dec. 11, 1980, [94 Stat. 2814][/us/stat/94/2814]; amended [Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title VIII, § 813(a)\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–336, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title VIII, § 813(a)\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–336, related to the establishment of the Office of Information and Regulatory Affairs prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
+    A prior section 3503, added [Pub. L. 96–511][/us/pl/96/511], § 2(a), Dec. 11, 1980, [94 Stat. 2814][/us/stat/94/2814]; amended [Pub. L. 99–500][/us/pl/99/500], § 101(m) \[title VIII, § 813(a)\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–336, and [Pub. L. 99–591][/us/pl/99/591], § 101(m) \[title VIII, § 813(a)\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–336, related to the establishment of the Office of Information and Regulatory Affairs prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
 
     Another prior section 3503, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1303][/us/stat/82/1303], prescribed duties of Director of Bureau of the Budget, prior to the general amendment of this chapter by [Pub. L. 96–511][/us/pl/96/511]. See [section 3504 of this title][/us/usc/t44/s3504].
 
@@ -37,7 +37,7 @@
 
  __Delegation of Other Functions to Administrator__ 
 
-[Pub. L. 96–511, § 3][/us/pl/96/511/s3], Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825], as amended by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1083][/us/stat/96/1083]; [Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title VIII, § 821(b)(3)\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–342, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title VIII, § 821(b)(3)\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–342, provided:
+[Pub. L. 96–511][/us/pl/96/511], § 3, Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825], as amended by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1083][/us/stat/96/1083]; [Pub. L. 99–500][/us/pl/99/500], § 101(m) \[title VIII, § 821(b)(3)\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–342, and [Pub. L. 99–591][/us/pl/99/591], § 101(m) \[title VIII, § 821(b)(3)\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–342, provided:
 
 >     “\[(a) Repealed\]
 
@@ -56,15 +56,15 @@
 ----------
 ----------
 
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F166
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/96/511/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fa
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2814
-[/us/pl/99/500/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fm
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-308
-[/us/pl/99/591/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fm
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-308
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
@@ -76,13 +76,13 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
-[/us/pl/96/511/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs3
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2825
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1083
-[/us/pl/99/500/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fm
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-308
-[/us/pl/99/591/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fm
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-308
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305

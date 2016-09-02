@@ -51,7 +51,7 @@
 
         The term “electronic messaging account” means any account that sends electronic messages.
 
-(Added [Pub. L. 113–187, § 2(e)(1)][/us/pl/113/187/s2/e/1], Nov. 26, 2014, [128 Stat. 2006][/us/stat/128/2006].)
+(Added [Pub. L. 113–187][/us/pl/113/187], § 2(e)(1), Nov. 26, 2014, [128 Stat. 2006][/us/stat/128/2006].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/113/187/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fe%2F1
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2006
 
 

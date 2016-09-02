@@ -159,7 +159,7 @@
 
     (h) In this section, the term “small business concern” has the meaning given under section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).
 
-(Added [Pub. L. 107–198, § 3(a)(2)][/us/pl/107/198/s3/a/2], June 28, 2002, [116 Stat. 730][/us/stat/116/730].)
+(Added [Pub. L. 107–198][/us/pl/107/198], § 3(a)(2), June 28, 2002, [116 Stat. 730][/us/stat/116/730].)
 
  __References in Text__ 
 
@@ -169,7 +169,7 @@
 
     A prior section 3520 was renumbered [section 3521 of this title][/us/usc/t44/s3521].
 
-    Another prior section 3520, added [Pub. L. 96–511, § 2(a)][/us/pl/96/511/s2/a], Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825]; amended [Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title VIII, § 820\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–340, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title VIII, § 820\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–340, related to authorization of appropriations prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
+    Another prior section 3520, added [Pub. L. 96–511][/us/pl/96/511], § 2(a), Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825]; amended [Pub. L. 99–500][/us/pl/99/500], § 101(m) \[title VIII, § 820\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–340, and [Pub. L. 99–591][/us/pl/99/591], § 101(m) \[title VIII, § 820\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–340, related to authorization of appropriations prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
 
  __Change of Name__ 
 
@@ -188,15 +188,15 @@
 [/us/usc/t15/s657/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657%2Fb
 [/us/usc/t15/s657/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657%2Fb
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/107/198/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198%2Fs3%2Fa%2F2
+[/us/pl/107/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198
 [/us/stat/116/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F730
 [/us/pl/107/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198
 [/us/usc/t44/s3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3521
-[/us/pl/96/511/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fa
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2825
-[/us/pl/99/500/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fm
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-308
-[/us/pl/99/591/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fm
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-308
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 

@@ -17,7 +17,7 @@
 
     The Superintendent of Documents may order reprinted, from time to time, public documents required for sale, subject to the approval of the Secretary or head of the department in which the public document originated. The Revolving Fund shall be reimbursed for the cost of reprints from the moneys received by the Superintendent of Documents from the sale of public documents.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1280][/us/stat/82/1280]; [Pub. L. 101–520, title II, § 208][/us/pl/101/520/s208], Nov. 5, 1990, [104 Stat. 2274][/us/stat/104/2274].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1280][/us/stat/82/1280]; [Pub. L. 101–520, title II][/us/pl/101/520/tII], § 208, Nov. 5, 1990, [104 Stat. 2274][/us/stat/104/2274].)
 
  __Historical and Revision Notes__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1280
-[/us/pl/101/520/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs208
+[/us/pl/101/520/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtII
 [/us/stat/104/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2274
 [/us/stat/33/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F584
 [/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520

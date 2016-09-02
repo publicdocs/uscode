@@ -45,7 +45,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964, ed., § 305 ([July 26, 1935, ch. 417, § 5][/us/act/1935-07-26/ch417/s5], [49 Stat. 501][/us/stat/49/501]; [June 25, 1956, ch. 444][/us/act/1956-06-25/ch444], [70 Stat. 337][/us/stat/70/337]).
+    Based on 44 U.S. Code, 1964, ed., § 305 ([July 26, 1935, ch. 417][/us/act/1935-07-26/ch417], § 5, [49 Stat. 501][/us/stat/49/501]; [June 25, 1956, ch. 444][/us/act/1956-06-25/ch444], [70 Stat. 337][/us/stat/70/337]).
 
  __Delegation of Functions__ 
 
@@ -106,7 +106,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1274
-[/us/act/1935-07-26/ch417/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417%2Fs5
+[/us/act/1935-07-26/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417
 [/us/stat/49/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F501
 [/us/act/1956-06-25/ch444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-25%2Fch444
 [/us/stat/70/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F337

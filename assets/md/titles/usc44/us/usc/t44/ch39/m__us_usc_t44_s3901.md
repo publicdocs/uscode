@@ -25,11 +25,11 @@
 
     there is hereby established an Office of Inspector General in the Government Publishing Office.
 
-(Added [Pub. L. 100–504, title II, § 202][/us/pl/100/504/s202], Oct. 18, 1988, [102 Stat. 2530][/us/stat/102/2530]; amended [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+(Added [Pub. L. 100–504, title II][/us/pl/100/504/tII], § 202, Oct. 18, 1988, [102 Stat. 2530][/us/stat/102/2530]; amended [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
-    2014—Par. (3). [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
+    2014—Par. (3). [Pub. L. 113–235][/us/pl/113/235], § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
 
  __Change of Name__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–504, title II, § 206][/us/pl/100/504/s206], Oct. 18, 1988, [102 Stat. 2532][/us/stat/102/2532], provided that: 
+[Pub. L. 100–504, title II][/us/pl/100/504/tII], § 206, Oct. 18, 1988, [102 Stat. 2532][/us/stat/102/2532], provided that: 
 
 > “The provisions of this title and the amendments made by this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\] shall take effect 180 days after the date of the enactment of this title \[Oct. 18, 1988\].”
 
@@ -47,11 +47,11 @@
 
  __Transfer of Office__ 
 
-    [Pub. L. 100–504, title II, § 203][/us/pl/100/504/s203], Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531] transferred the office of the Government Printing Office referred to as the “Office of Inspector General”, and the functions, powers, duties, and certain personnel of that office, to the Office of Inspector General in the Government Printing Office.
+    [Pub. L. 100–504, title II][/us/pl/100/504/tII], § 203, Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531] transferred the office of the Government Printing Office referred to as the “Office of Inspector General”, and the functions, powers, duties, and certain personnel of that office, to the Office of Inspector General in the Government Printing Office.
 
  __Payment Authority Subject to Appropriations__ 
 
-[Pub. L. 100–504, title II, § 205][/us/pl/100/504/s205], Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531], provided that: 
+[Pub. L. 100–504, title II][/us/pl/100/504/tII], § 205, Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531], provided that: 
 
 > “Any authority to make payments under this title \[enacting this chapter and provisions set out as notes under sections 101 and 3901 of this title\] shall be effective only to such extent as provided in appropriations Acts.”
 
@@ -62,21 +62,21 @@
 ----------
 ----------
 
-[/us/pl/100/504/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs202
+[/us/pl/100/504/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtII
 [/us/stat/102/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2530
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
-[/us/pl/100/504/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs206
+[/us/pl/100/504/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtII
 [/us/stat/102/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2532
 [/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
 [/us/pl/100/504/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs201
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
-[/us/pl/100/504/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs203
+[/us/pl/100/504/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtII
 [/us/stat/102/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2531
-[/us/pl/100/504/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs205
+[/us/pl/100/504/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtII
 [/us/stat/102/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2531
 
 

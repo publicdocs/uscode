@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 189a ([June 13, 1934, ch. 483, § 3][/us/act/1934-06-13/ch483/s3], [48 Stat. 948][/us/stat/48/948]).
+    Based on 44 U.S. Code, 1964 ed., § 189a ([June 13, 1934, ch. 483][/us/act/1934-06-13/ch483], § 3, [48 Stat. 948][/us/stat/48/948]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1248
-[/us/act/1934-06-13/ch483/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fch483%2Fs3
+[/us/act/1934-06-13/ch483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fch483
 [/us/stat/48/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F948
 
 

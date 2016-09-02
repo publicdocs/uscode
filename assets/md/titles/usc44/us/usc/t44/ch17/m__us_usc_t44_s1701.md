@@ -19,11 +19,11 @@
 
     This section does not apply to orders, instructions, directions, notices, or circulars of information printed for and issued by an executive department or other Government establishment or to the distribution of public documents by Senators or Members of the House of Representatives or to the Senate Service Department, House of Representatives Publications Distribution Service, and document rooms of the Senate or House of Representatives.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1278][/us/stat/82/1278]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1278][/us/stat/82/1278]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (c), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 95 ([Aug. 23, 1912, ch. 350, § 8][/us/act/1912-08-23/ch350/s8], [37 Stat. 414][/us/stat/37/414]; [July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, § 101, [68 Stat. 397][/us/stat/68/397]).
+    Based on 44 U.S. Code, 1964 ed., § 95 ([Aug. 23, 1912, ch. 350][/us/act/1912-08-23/ch350], § 8, [37 Stat. 414][/us/stat/37/414]; [July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, § 101, [68 Stat. 397][/us/stat/68/397]).
 
     “House of Representatives Publications Distribution Service” is substituted for “House Folding Room” because of the change of name under authority of [Public Law 88–652][/us/pl/88/652].
 
@@ -31,7 +31,7 @@
 
  __Amendments__ 
 
-    [Pub. L. 113–235, § 1301(c)][/us/pl/113/235/s1301/c], substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing in section catchline and text.
+    [Pub. L. 113–235][/us/pl/113/235], § 1301(c), substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing in section catchline and text.
 
  __Change of Name__ 
 
@@ -46,14 +46,14 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1278
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1912-08-23/ch350/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350%2Fs8
+[/us/act/1912-08-23/ch350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350
 [/us/stat/37/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F414
 [/us/act/1954-07-02/ch455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-02%2Fch455
 [/us/stat/68/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F397
 [/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
-[/us/pl/113/235/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 

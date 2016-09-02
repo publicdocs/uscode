@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 321 (R.S. § 79; [June 20, 1874, ch. 328][/us/act/1874-06-20/ch328], [18 Stat. 90][/us/stat/18/90]; [Feb. 18, 1875, ch. 80, § 1][/us/act/1875-02-18/ch80/s1], [18 Stat. 317][/us/stat/18/317]; [July 31, 1876, ch. 246][/us/act/1876-07-31/ch246], [19 Stat. 105][/us/stat/19/105]; [Aug. 2, 1946, ch. 744, § 17(b)][/us/act/1946-08-02/ch744/s17/b], [60 Stat. 811][/us/stat/60/811]; 1950 Reorg. Plan No. 20, § 2(b), eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1272][/us/stat/64/1272]).
+    Based on 44 U.S. Code, 1964 ed., § 321 (R.S. § 79; [June 20, 1874, ch. 328][/us/act/1874-06-20/ch328], [18 Stat. 90][/us/stat/18/90]; [Feb. 18, 1875, ch. 80][/us/act/1875-02-18/ch80], § 1, [18 Stat. 317][/us/stat/18/317]; [July 31, 1876, ch. 246][/us/act/1876-07-31/ch246], [19 Stat. 105][/us/stat/19/105]; [Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744], § 17(b), [60 Stat. 811][/us/stat/60/811]; 1950 Reorg. Plan No. 20, § 2(b), eff. May 24, 1950, 15 F.R. 3178, [64 Stat. 1272][/us/stat/64/1272]).
 
 ----------
 
@@ -34,11 +34,11 @@
 [/us/stat/82/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1305
 [/us/act/1874-06-20/ch328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch328
 [/us/stat/18/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F90
-[/us/act/1875-02-18/ch80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-18%2Fch80%2Fs1
+[/us/act/1875-02-18/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-18%2Fch80
 [/us/stat/18/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F317
 [/us/act/1876-07-31/ch246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-07-31%2Fch246
 [/us/stat/19/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F105
-[/us/act/1946-08-02/ch744/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744%2Fs17%2Fb
+[/us/act/1946-08-02/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744
 [/us/stat/60/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F811
 [/us/stat/64/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1272
 

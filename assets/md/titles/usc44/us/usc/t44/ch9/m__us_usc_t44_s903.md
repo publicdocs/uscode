@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 182a ([Jan. 12, 1895, ch. 23, § 14][/us/act/1895-01-12/ch23/s14], as added [June 20, 1936, ch. 630][/us/act/1936-06-20/ch630], title II, § 2, [49 Stat. 1546][/us/stat/49/1546]).
+    Based on 44 U.S. Code, 1964 ed., § 182a ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 14, as added [June 20, 1936, ch. 630][/us/act/1936-06-20/ch630], title II, § 2, [49 Stat. 1546][/us/stat/49/1546]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1256
-[/us/act/1895-01-12/ch23/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs14
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/act/1936-06-20/ch630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch630
 [/us/stat/49/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1546
 

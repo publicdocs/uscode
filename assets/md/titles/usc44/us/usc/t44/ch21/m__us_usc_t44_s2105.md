@@ -27,11 +27,11 @@
 
     (d) Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], United States Code, the Archivist is authorized to accept and utilize voluntary and uncompensated services.
 
-(Added [Pub. L. 98–497, title I, § 102(a)(2)][/us/pl/98/497/s102/a/2], Oct. 19, 1984, [98 Stat. 2281][/us/stat/98/2281]; amended [Pub. L. 107–67, title VI, § 649][/us/pl/107/67/s649], Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556].)
+(Added [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 102(a)(2), Oct. 19, 1984, [98 Stat. 2281][/us/stat/98/2281]; amended [Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 649, Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556].)
 
  __References in Text__ 
 
-    Paragraph (f)(2) of [section 2203 of this title][/us/usc/t44/s2203], referred to in subsec. (a)(2), was redesignated (g)(2) of [section 2203 of this title][/us/usc/t44/s2203] by [Pub. L. 113–187, § 2(c)(3)][/us/pl/113/187/s2/c/3], Nov. 26, 2014, [128 Stat. 2006][/us/stat/128/2006].
+    Paragraph (f)(2) of [section 2203 of this title][/us/usc/t44/s2203], referred to in subsec. (a)(2), was redesignated (g)(2) of [section 2203 of this title][/us/usc/t44/s2203] by [Pub. L. 113–187][/us/pl/113/187], § 2(c)(3), Nov. 26, 2014, [128 Stat. 2006][/us/stat/128/2006].
 
  __Prior Provisions__ 
 
@@ -57,13 +57,13 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t10/s973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs973
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/98/497/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs102%2Fa%2F2
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2281
-[/us/pl/107/67/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs649
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F556
 [/us/usc/t44/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2203
 [/us/usc/t44/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2203
-[/us/pl/113/187/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fc%2F3
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2006
 [/us/usc/t44/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2109
 [/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67

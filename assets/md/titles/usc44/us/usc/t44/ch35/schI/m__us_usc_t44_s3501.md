@@ -47,15 +47,15 @@
 
     (11) improve the responsibility and accountability of the Office of Management and Budget and all other Federal agencies to Congress and to the public for implementing the information collection review process, information resources management, and related policies and guidelines established under this subchapter.
 
-(Added [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 163][/us/stat/109/163]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1064(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275; [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(3), Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301].)
+(Added [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 163][/us/stat/109/163]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1064(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275; [Pub. L. 107–217][/us/pl/107/217], § 3(l)(3), Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301].)
 
  __References in Text__ 
 
-    [Section 11332 of title 40][/us/usc/t40/s11332], referred to in par. (8)(B), was repealed by [Pub. L. 107–296, title X, § 1005(a)(1)][/us/pl/107/296/s1005/a/1], Nov. 25, 2002, [116 Stat. 2272][/us/stat/116/2272], and [Pub. L. 107–347, title III, § 305(a)][/us/pl/107/347/s305/a], Dec. 17, 2002, [116 Stat. 2960][/us/stat/116/2960].
+    [Section 11332 of title 40][/us/usc/t40/s11332], referred to in par. (8)(B), was repealed by [Pub. L. 107–296, title X][/us/pl/107/296/tX], § 1005(a)(1), Nov. 25, 2002, [116 Stat. 2272][/us/stat/116/2272], and [Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 305(a), Dec. 17, 2002, [116 Stat. 2960][/us/stat/116/2960].
 
  __Prior Provisions__ 
 
-    A prior section 3501, added [Pub. L. 96–511, § 2(a)][/us/pl/96/511/s2/a], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812]; amended [Pub. L. 99–500, § 101(m)][/us/pl/99/500/s101/m] \[title VIII, § 811\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–335, and [Pub. L. 99–591, § 101(m)][/us/pl/99/591/s101/m] \[title VIII, § 811\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
+    A prior section 3501, added [Pub. L. 96–511][/us/pl/96/511], § 2(a), Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812]; amended [Pub. L. 99–500][/us/pl/99/500], § 101(m) \[title VIII, § 811\], Oct. 18, 1986, [100 Stat. 1783–308][/us/stat/100/1783-308], 1783–335, and [Pub. L. 99–591][/us/pl/99/591], § 101(m) \[title VIII, § 811\], Oct. 30, 1986, [100 Stat. 3341–308][/us/stat/100/3341-308], 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by [Pub. L. 104–13][/us/pl/104/13].
 
     Another prior section 3501, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1302][/us/stat/82/1302], related to information for Federal agencies, prior to the general amendment of this chapter by [Pub. L. 96–511][/us/pl/96/511].
 
@@ -71,7 +71,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–13, § 4][/us/pl/104/13/s4], May 22, 1995, [109 Stat. 185][/us/stat/109/185], provided that:
+[Pub. L. 104–13][/us/pl/104/13], § 4, May 22, 1995, [109 Stat. 185][/us/stat/109/185], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __Federal Management and Promotion of Electronic Government Services__ 
 
-[Pub. L. 107–347, title II][/us/pl/107/347], Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–281, § 1][/us/pl/108/281/s1], Aug. 2, 2004, [118 Stat. 889][/us/stat/118/889], provided that:
+[Pub. L. 107–347, title II][/us/pl/107/347/tII], Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–281][/us/pl/108/281], § 1, Aug. 2, 2004, [118 Stat. 889][/us/stat/118/889], provided that:
 
 > “SEC. 201. __DEFINITIONS.__ 
 
@@ -1395,7 +1395,7 @@
 
  __Information Security Responsibilities of Certain Agencies__ 
 
-[Pub. L. 107–347, title III, § 301(c)(1)(A)][/us/pl/107/347/s301/c/1/A], Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955], provided that: 
+[Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 301(c)(1)(A), Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955], provided that: 
 
 > “Nothing in this Act \[see Tables for classification\] (including any amendment made by this Act) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by \[former\] [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2], United States Code \[see now [44 U.S.C. 3552(b)(6)][/us/usc/t44/s3552/b/6]\].”
 
@@ -1403,13 +1403,13 @@
 
  __Atomic Energy Act of 1954__ 
 
-[Pub. L. 107–347, title III, § 301(c)(2)][/us/pl/107/347/s301/c/2], Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955], provided that: 
+[Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 301(c)(2), Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955], provided that: 
 
 > “Nothing in this Act \[see Tables for classification\] shall supersede any requirement made by or under the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.). Restricted data or formerly restricted data shall be handled, protected, classified, downgraded, and declassified in conformity with the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.).”
 
  __Confidential Information Protection and Statistical Efficiency__ 
 
-[Pub. L. 107–347, title V][/us/pl/107/347], Dec. 17, 2002, [116 Stat. 2962][/us/stat/116/2962], provided that:
+[Pub. L. 107–347, title V][/us/pl/107/347/tV], Dec. 17, 2002, [116 Stat. 2962][/us/stat/116/2962], provided that:
 
 > “SEC. 501. __SHORT TITLE.__ 
 
@@ -1703,7 +1703,7 @@
 
  __Waiver of Paperwork Reduction__ 
 
-[Pub. L. 101–508, title IV, § 4711(f)][/us/pl/101/508/s4711/f], Nov. 5, 1990, [104 Stat. 1388–187][/us/stat/104/1388-187], provided that: 
+[Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4711(f), Nov. 5, 1990, [104 Stat. 1388–187][/us/stat/104/1388-187], provided that: 
 
 > “Chapter 35 of title 44, United States Code, and Executive Order 12291 \[formerly set out as a note under [section 601 of Title 5][/us/usc/t5/s601], Government Organization and Employees\] shall not apply to information and regulations required for purposes of carrying out this Act \[see Tables for classification\] and implementing the amendments made by this Act.”
 
@@ -1837,22 +1837,22 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t40/s11332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11332
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F163
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1301
 [/us/usc/t40/s11332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11332
-[/us/pl/107/296/s1005/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1005%2Fa%2F1
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2272
-[/us/pl/107/347/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs305%2Fa
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2960
-[/us/pl/96/511/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fa
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2812
-[/us/pl/99/500/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fm
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-308
-[/us/pl/99/591/s101/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fm
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-308
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
@@ -1866,16 +1866,16 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
-[/us/pl/104/13/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs4
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F185
 [/us/usc/t13/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs91
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 [/us/usc/t13/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs91
-[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2910
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/108/281/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F281%2Fs1
+[/us/pl/108/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F281
 [/us/stat/118/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F889
 [/us/usc/t29/s794d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794d
 [/us/usc/t40/s11103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11103
@@ -1924,17 +1924,17 @@
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
 [/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601
-[/us/pl/107/347/s301/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fc%2F1%2FA
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2955
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/107/347/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fc%2F2
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2955
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtV
 [/us/stat/116/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2962
 [/us/usc/t31/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs102
 [/us/usc/t44/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502
@@ -1960,7 +1960,7 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t15/s176a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs176a
 [/us/usc/t13/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs402
-[/us/pl/101/508/s4711/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4711%2Ff
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-187
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 

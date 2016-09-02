@@ -69,7 +69,7 @@
 
     (f) The Archivist shall not make available any original Presidential records to any individual claiming access to any Presidential record as a designated representative under [section 2205(3) of this title][/us/usc/t44/s2205/3] if that individual has been convicted of a crime relating to the review, retention, removal, or destruction of records of the Archives.
 
-(Added [Pub. L. 95–591, § 2(a)][/us/pl/95/591/s2/a], Nov. 4, 1978, [92 Stat. 2525][/us/stat/92/2525]; amended [Pub. L. 98–497, title I, § 107(b)(7)][/us/pl/98/497/s107/b/7], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 113–187][/us/pl/113/187], §§ 2(a)(2)(A), (d), 8(4), Nov. 26, 2014, [128 Stat. 2005][/us/stat/128/2005], 2006, 2011.)
+(Added [Pub. L. 95–591][/us/pl/95/591], § 2(a), Nov. 4, 1978, [92 Stat. 2525][/us/stat/92/2525]; amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(7), Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 113–187][/us/pl/113/187], §§ 2(a)(2)(A), (d), 8(4), Nov. 26, 2014, [128 Stat. 2005][/us/stat/128/2005], 2006, 2011.)
 
  __References in Text__ 
 
@@ -77,17 +77,17 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–187, § 8(4)(A)(i)][/us/pl/113/187/s8/4/A/i], substituted “a President’s” for “his” in introductory provisions.
+    2014—Subsec. (a). [Pub. L. 113–187][/us/pl/113/187], § 8(4)(A)(i), substituted “a President’s” for “his” in introductory provisions.
 
-    Subsec. (a)(5). [Pub. L. 113–187, § 8(4)(A)(ii)][/us/pl/113/187/s8/4/A/ii], substituted “the President’s” for “his”.
+    Subsec. (a)(5). [Pub. L. 113–187][/us/pl/113/187], § 8(4)(A)(ii), substituted “the President’s” for “his”.
 
-    Subsec. (b)(1)(B). [Pub. L. 113–187, § 8(4)(B)(i)][/us/pl/113/187/s8/4/B/i], substituted “the President’s” for “his”.
+    Subsec. (b)(1)(B). [Pub. L. 113–187][/us/pl/113/187], § 8(4)(B)(i), substituted “the President’s” for “his”.
 
-    Subsec. (b)(3). [Pub. L. 113–187, § 8(4)(B)(ii)][/us/pl/113/187/s8/4/B/ii], substituted “the Archivist’s discretion” for “his discretion” and “the Archivist’s designee” for “his designee”.
+    Subsec. (b)(3). [Pub. L. 113–187][/us/pl/113/187], § 8(4)(B)(ii), substituted “the Archivist’s discretion” for “his discretion” and “the Archivist’s designee” for “his designee”.
 
-    Subsec. (d). [Pub. L. 113–187, § 2(a)(2)(A)][/us/pl/113/187/s2/a/2/A], inserted “, except section 2208,” after “chapter”.
+    Subsec. (d). [Pub. L. 113–187][/us/pl/113/187], § 2(a)(2)(A), inserted “, except section 2208,” after “chapter”.
 
-    Subsec. (f). [Pub. L. 113–187, § 2(d)][/us/pl/113/187/s2/d], added subsec. (f).
+    Subsec. (f). [Pub. L. 113–187][/us/pl/113/187], § 2(d), added subsec. (f).
 
     1984—Subsec. (c)(1). [Pub. L. 98–497][/us/pl/98/497] substituted “National Archives and Records Administration” for “National Archives and Records Service of the General Services Administration”.
 
@@ -166,9 +166,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t44/s2205/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2205%2F3
-[/us/pl/95/591/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fa
+[/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2525
-[/us/pl/98/497/s107/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F7
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
 [/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2005
@@ -176,12 +176,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/92/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2523
 [/us/usc/t44/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2201
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
-[/us/pl/113/187/s8/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F4%2FA%2Fi
-[/us/pl/113/187/s8/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F4%2FA%2Fii
-[/us/pl/113/187/s8/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F4%2FB%2Fi
-[/us/pl/113/187/s8/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F4%2FB%2Fii
-[/us/pl/113/187/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fa%2F2%2FA
-[/us/pl/113/187/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fd
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301

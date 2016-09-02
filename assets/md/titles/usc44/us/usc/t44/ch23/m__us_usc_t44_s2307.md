@@ -17,11 +17,11 @@
 
     The income from trust funds held by the Board and the proceeds from the sale of securities and other personal property, as and when collected, shall be covered into the Treasury of the United States in a trust fund account to be known as the National Archives Trust Fund, subject to disbursement on the basis of certified vouchers of the Archivist of the United States (or his designee) for activities approved by the Board and in the interest of the national archival and records activities administered by the National Archives and Records Administration, including but not restricted to the preparation and publication of special works, and collections of sources and the preparation, duplication, editing, and release of historical photographic materials and sound recordings. The Archivist may sell publications and releases authorized by this section and paid for out of the income derived from trust funds at a price which will cover their cost, plus 10 percent, and moneys received from these sales shall be paid into, administered, and expended as part of the National Archives Trust Fund.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1293][/us/stat/82/1293]; [Pub. L. 98–497, title II, § 202(b)][/us/pl/98/497/s202/b], Oct. 19, 1984, [98 Stat. 2294][/us/stat/98/2294].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1293][/us/stat/82/1293]; [Pub. L. 98–497, title II][/us/pl/98/497/tII], § 202(b), Oct. 19, 1984, [98 Stat. 2294][/us/stat/98/2294].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 300ee ([July 9, 1941, ch. 284, § 5][/us/act/1941-07-09/ch284/s5], [55 Stat. 581][/us/stat/55/581]).
+    Based on 44 U.S. Code, 1964 ed., § 300ee ([July 9, 1941, ch. 284][/us/act/1941-07-09/ch284], § 5, [55 Stat. 581][/us/stat/55/581]).
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1293
-[/us/pl/98/497/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs202%2Fb
+[/us/pl/98/497/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtII
 [/us/stat/98/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2294
-[/us/act/1941-07-09/ch284/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-09%2Fch284%2Fs5
+[/us/act/1941-07-09/ch284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-09%2Fch284
 [/us/stat/55/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F581
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497

@@ -31,11 +31,11 @@
 
     (7) other prominent historical figures, as determined appropriate by the Archivist of the United States.
 
-(Added [Pub. L. 110–404, § 4(a)][/us/pl/110/404/s4/a], Oct. 13, 2008, [122 Stat. 4283][/us/stat/122/4283].)
+(Added [Pub. L. 110–404][/us/pl/110/404], § 4(a), Oct. 13, 2008, [122 Stat. 4283][/us/stat/122/4283].)
 
  __Transfer of Funds__ 
 
-[Pub. L. 110–404, § 4(b)][/us/pl/110/404/s4/b], Oct. 13, 2008, [122 Stat. 4283][/us/stat/122/4283], provided that:
+[Pub. L. 110–404][/us/pl/110/404], § 4(b), Oct. 13, 2008, [122 Stat. 4283][/us/stat/122/4283], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/110/404/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404%2Fs4%2Fa
+[/us/pl/110/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404
 [/us/stat/122/4283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4283
-[/us/pl/110/404/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404%2Fs4%2Fb
+[/us/pl/110/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404
 [/us/stat/122/4283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4283
 [/us/usc/t31/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6305
 [/us/usc/t44/s2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2120

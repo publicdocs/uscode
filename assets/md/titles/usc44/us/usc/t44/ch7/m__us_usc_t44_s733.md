@@ -25,11 +25,11 @@
 
     The Director of the Government Publishing Office shall deposit moneys accruing under this section in the Treasury of the United States to the credit of the appropriation made for the working capital of the Government Publishing Office for the year in which the work is done. He shall account for them in his annual report to Congress.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1253][/us/stat/82/1253]; [Pub. L. 93–191, § 8(a)][/us/pl/93/191/s8/a], Dec. 18, 1973, [87 Stat. 745][/us/stat/87/745]; [Pub. L. 93–255, § 2(b)][/us/pl/93/255/s2/b], Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52]; [Pub. L. 99–87, § 1(c)(2)][/us/pl/99/87/s1/c/2], Aug. 9, 1985, [99 Stat. 291][/us/stat/99/291]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1253][/us/stat/82/1253]; [Pub. L. 93–191][/us/pl/93/191], § 8(a), Dec. 18, 1973, [87 Stat. 745][/us/stat/87/745]; [Pub. L. 93–255][/us/pl/93/255], § 2(b), Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52]; [Pub. L. 99–87][/us/pl/99/87], § 1(c)(2), Aug. 9, 1985, [99 Stat. 291][/us/stat/99/291]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 162 ([Jan. 12, 1895, ch. 23, § 37][/us/act/1895-01-12/ch23/s37], [28 Stat. 606][/us/stat/28/606]; [Mar. 2, 1895, ch. 189, § 1][/us/act/1895-03-02/ch189/s1], [28 Stat. 961][/us/stat/28/961]; [Jan. 30, 1904, ch. 39][/us/act/1904-01-30/ch39], [33 Stat. 9][/us/stat/33/9]; [Mar. 4, 1925, ch. 549, § 1][/us/act/1925-03-04/ch549/s1], [43 Stat. 1300][/us/stat/43/1300]).
+    Based on 44 U.S. Code, 1964 ed., § 162 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 37, [28 Stat. 606][/us/stat/28/606]; [Mar. 2, 1895, ch. 189][/us/act/1895-03-02/ch189], § 1, [28 Stat. 961][/us/stat/28/961]; [Jan. 30, 1904, ch. 39][/us/act/1904-01-30/ch39], [33 Stat. 9][/us/stat/33/9]; [Mar. 4, 1925, ch. 549][/us/act/1925-03-04/ch549], § 1, [43 Stat. 1300][/us/stat/43/1300]).
 
     [Section 893 of Title 48][/us/usc/t48/s893], U.S. Code, provides that: “The Resident Commissioner of Puerto Rico shall . . . be allowed the franking privilege granted Members of Congress.”
 
@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
+    2014—[Pub. L. 113–235][/us/pl/113/235], § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
 
     1985—[Pub. L. 99–87][/us/pl/99/87] inserted “Franks may also contain information relating to missing children as provided in [section 3220 of title 39][/us/usc/t39/s3220].” before “But he may not print” in second par.
 
@@ -65,24 +65,24 @@
 [/us/usc/t39/s3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3220
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1253
-[/us/pl/93/191/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191%2Fs8%2Fa
+[/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/stat/87/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F745
-[/us/pl/93/255/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255%2Fs2%2Fb
+[/us/pl/93/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255
 [/us/stat/88/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F52
-[/us/pl/99/87/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F87%2Fs1%2Fc%2F2
+[/us/pl/99/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F87
 [/us/stat/99/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F291
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1895-01-12/ch23/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs37
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F606
-[/us/act/1895-03-02/ch189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189%2Fs1
+[/us/act/1895-03-02/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189
 [/us/stat/28/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F961
 [/us/act/1904-01-30/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-01-30%2Fch39
 [/us/stat/33/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F9
-[/us/act/1925-03-04/ch549/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch549%2Fs1
+[/us/act/1925-03-04/ch549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch549
 [/us/stat/43/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1300
 [/us/usc/t48/s893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs893
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/99/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F87
 [/us/usc/t39/s3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3220
 [/us/pl/93/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255

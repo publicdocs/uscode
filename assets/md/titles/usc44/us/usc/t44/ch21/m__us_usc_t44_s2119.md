@@ -27,7 +27,7 @@
 
     Not later than December 31st of each year, the Archivist shall submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate a report on the provisions, amount, and duration of each cooperative agreement entered into as authorized by subsection (a) during the preceding fiscal year.
 
-(Added [Pub. L. 108–383, § 5(a)][/us/pl/108/383/s5/a], Oct. 30, 2004, [118 Stat. 2219][/us/stat/118/2219].)
+(Added [Pub. L. 108–383][/us/pl/108/383], § 5(a), Oct. 30, 2004, [118 Stat. 2219][/us/stat/118/2219].)
 
  __Change of Name__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t31/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6305
-[/us/pl/108/383/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383%2Fs5%2Fa
+[/us/pl/108/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383
 [/us/stat/118/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2219
 
 

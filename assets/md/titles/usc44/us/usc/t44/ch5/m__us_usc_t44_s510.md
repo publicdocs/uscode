@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1954 ed., § 6 ([Jan. 12, 1895, ch. 23, § 4][/us/act/1895-01-12/ch23/s4], [28 Stat. 601][/us/stat/28/601]).
+    Based on 44 U.S. Code, 1954 ed., § 6 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 4, [28 Stat. 601][/us/stat/28/601]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1244
-[/us/act/1895-01-12/ch23/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs4
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F601
 
 

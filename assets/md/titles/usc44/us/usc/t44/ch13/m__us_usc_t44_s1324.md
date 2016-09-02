@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 270 ([Mar. 2, 1895, ch. 177, § 1][/us/act/1895-03-02/ch177/s1], [28 Stat. 805][/us/stat/28/805]; [June 4, 1897, ch. 2, § 1][/us/act/1897-06-04/ch2/s1], [30 Stat. 61][/us/stat/30/61]; [June 6, 1900, ch. 791, § 1][/us/act/1900-06-06/ch791/s1], [31 Stat. 644][/us/stat/31/644]; [Mar. 4, 1913, ch. 141, § 3][/us/act/1913-03-04/ch141/s3], [37 Stat. 737][/us/stat/37/737]).
+    Based on 44 U.S. Code, 1964 ed., § 270 ([Mar. 2, 1895, ch. 177][/us/act/1895-03-02/ch177], § 1, [28 Stat. 805][/us/stat/28/805]; [June 4, 1897, ch. 2][/us/act/1897-06-04/ch2], § 1, [30 Stat. 61][/us/stat/30/61]; [June 6, 1900, ch. 791][/us/act/1900-06-06/ch791], § 1, [31 Stat. 644][/us/stat/31/644]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 3, [37 Stat. 737][/us/stat/37/737]).
 
 ----------
 
@@ -33,13 +33,13 @@
 [/us/usc/t29/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs5
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1269
-[/us/act/1895-03-02/ch177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177%2Fs1
+[/us/act/1895-03-02/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177
 [/us/stat/28/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F805
-[/us/act/1897-06-04/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2%2Fs1
+[/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F61
-[/us/act/1900-06-06/ch791/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch791%2Fs1
+[/us/act/1900-06-06/ch791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch791
 [/us/stat/31/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F644
-[/us/act/1913-03-04/ch141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs3
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
 
 

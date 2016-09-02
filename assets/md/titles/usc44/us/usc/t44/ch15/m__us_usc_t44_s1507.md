@@ -31,7 +31,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 307 ([July 26, 1935, ch. 417, § 7][/us/act/1935-07-26/ch417/s7], [49 Stat. 502][/us/stat/49/502]).
+    Based on 44 U.S. Code, 1964 ed., § 307 ([July 26, 1935, ch. 417][/us/act/1935-07-26/ch417], § 7, [49 Stat. 502][/us/stat/49/502]).
 
 ----------
 
@@ -45,7 +45,7 @@
 [/us/usc/t44/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1505
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1276
-[/us/act/1935-07-26/ch417/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417%2Fs7
+[/us/act/1935-07-26/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417
 [/us/stat/49/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F502
 
 

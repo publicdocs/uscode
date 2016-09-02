@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 85 (part) ([Mar. 1, 1907, ch. 2284, § 4][/us/act/1907-03-01/ch2284/s4], [34 Stat. 1014][/us/stat/34/1014]; [June 25, 1938, ch. 708][/us/act/1938-06-25/ch708], [52 Stat. 1206][/us/stat/52/1206]; Aug. 9, 1962, [Pub. L. 87–579][/us/pl/87/579], [76 Stat. 354][/us/stat/76/354]).
+    Based on 44 U.S. Code, 1964 ed., § 85 (part) ([Mar. 1, 1907, ch. 2284][/us/act/1907-03-01/ch2284], § 4, [34 Stat. 1014][/us/stat/34/1014]; [June 25, 1938, ch. 708][/us/act/1938-06-25/ch708], [52 Stat. 1206][/us/stat/52/1206]; Aug. 9, 1962, [Pub. L. 87–579][/us/pl/87/579], [76 Stat. 354][/us/stat/76/354]).
 
     This section is from the last paragraph of former section 85; the remainder of that section will be found in section 1903 of the revision.
 
@@ -34,7 +34,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1284
-[/us/act/1907-03-01/ch2284/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-01%2Fch2284%2Fs4
+[/us/act/1907-03-01/ch2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-01%2Fch2284
 [/us/stat/34/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1014
 [/us/act/1938-06-25/ch708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch708
 [/us/stat/52/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1206

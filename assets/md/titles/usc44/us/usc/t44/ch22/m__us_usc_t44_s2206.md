@@ -25,11 +25,11 @@
 
     (4) provisions for establishing procedures for consultation between the Archivist and appropriate Federal agencies regarding materials which may be subject to [section 552(b)(7) of title 5][/us/usc/t5/s552/b/7], United States Code.
 
-(Added [Pub. L. 95–591, § 2(a)][/us/pl/95/591/s2/a], Nov. 4, 1978, [92 Stat. 2527][/us/stat/92/2527].)
+(Added [Pub. L. 95–591][/us/pl/95/591], § 2(a), Nov. 4, 1978, [92 Stat. 2527][/us/stat/92/2527].)
 
  __References in Text__ 
 
-    Section 2203(f)(3), referred to in par. (1), was redesignated [section 2203(g)(3) of this title][/us/usc/t44/s2203/g/3] by [Pub. L. 113–187, § 2(c)(3)][/us/pl/113/187/s2/c/3], Nov. 26, 2014, [128 Stat. 2006][/us/stat/128/2006].
+    Section 2203(f)(3), referred to in par. (1), was redesignated [section 2203(g)(3) of this title][/us/usc/t44/s2203/g/3] by [Pub. L. 113–187][/us/pl/113/187], § 2(c)(3), Nov. 26, 2014, [128 Stat. 2006][/us/stat/128/2006], and subsequently redesignated [section 2203(g)(4) of this title][/us/usc/t44/s2203/g/4] by [Pub. L. 114–136][/us/pl/114/136], § 3(1), Mar. 18, 2016, [130 Stat. 305][/us/stat/130/305].
 
 ----------
 
@@ -40,10 +40,13 @@
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s552/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F7
-[/us/pl/95/591/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fa
+[/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2527
 [/us/usc/t44/s2203/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2203%2Fg%2F3
-[/us/pl/113/187/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fc%2F3
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2006
+[/us/usc/t44/s2203/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2203%2Fg%2F4
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
+[/us/stat/130/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F305
 
 

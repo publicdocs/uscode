@@ -73,11 +73,11 @@
 
     (15) the term “Administrator” means the Administrator of General Services.
 
-(Added [Pub. L. 94–575, § 2(a)(1)][/us/pl/94/575/s2/a/1], Oct. 21, 1976, [90 Stat. 2723][/us/stat/90/2723]; amended [Pub. L. 98–497, title I, § 107(b)(13)][/us/pl/98/497/s107/b/13], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(2), Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301]; [Pub. L. 113–187, § 8(6)][/us/pl/113/187/s8/6], Nov. 26, 2014, [128 Stat. 2012][/us/stat/128/2012].)
+(Added [Pub. L. 94–575][/us/pl/94/575], § 2(a)(1), Oct. 21, 1976, [90 Stat. 2723][/us/stat/90/2723]; amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(13), Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 107–217][/us/pl/107/217], § 3(l)(2), Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301]; [Pub. L. 113–187][/us/pl/113/187], § 8(6), Nov. 26, 2014, [128 Stat. 2012][/us/stat/128/2012].)
 
  __Prior Provisions__ 
 
-    A prior section 2901, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1295][/us/stat/82/1295], related to definitions, prior to repeal by [Pub. L. 94–575, § 2(a)(1)][/us/pl/94/575/s2/a/1].
+    A prior section 2901, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1295][/us/stat/82/1295], related to definitions, prior to repeal by [Pub. L. 94–575][/us/pl/94/575], § 2(a)(1).
 
  __Amendments__ 
 
@@ -85,17 +85,17 @@
 
     2002—Par. (13). [Pub. L. 107–217][/us/pl/107/217] substituted “[section 102 of title 40][/us/usc/t40/s102]” for “section 3(a) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 472(a)][/us/usc/t40/s472/a])”.
 
-    1984—[Pub. L. 98–497, § 107(b)(13)(A)][/us/pl/98/497/s107/b/13/A], struck out reference to chapter 27 in provisions preceding par. (1).
+    1984—[Pub. L. 98–497][/us/pl/98/497], § 107(b)(13)(A), struck out reference to chapter 27 in provisions preceding par. (1).
 
-    Par. (2). [Pub. L. 98–497, § 107(b)(13)(B)][/us/pl/98/497/s107/b/13/B], inserted “in order to achieve adequate and proper documentation of the policies and transactions of the Federal Government and effective and economical management of agency operations”.
+    Par. (2). [Pub. L. 98–497][/us/pl/98/497], § 107(b)(13)(B), inserted “in order to achieve adequate and proper documentation of the policies and transactions of the Federal Government and effective and economical management of agency operations”.
 
-    Pars. (6), (9), (11). [Pub. L. 98–497, § 107(b)(13)(C)][/us/pl/98/497/s107/b/13/C], substituted “Archivist” for “Administrator”.
+    Pars. (6), (9), (11). [Pub. L. 98–497][/us/pl/98/497], § 107(b)(13)(C), substituted “Archivist” for “Administrator”.
 
-    Par. (12). [Pub. L. 98–497, § 107(b)(13)(D)][/us/pl/98/497/s107/b/13/D], substituted “Archivist” and “Archivist of the United States” for “Administrator” and “Administrator of General Services”, respectively. See par. (15) of this section.
+    Par. (12). [Pub. L. 98–497][/us/pl/98/497], § 107(b)(13)(D), substituted “Archivist” and “Archivist of the United States” for “Administrator” and “Administrator of General Services”, respectively. See par. (15) of this section.
 
-    Par. (13). [Pub. L. 98–497, § 107(b)(13)(D)][/us/pl/98/497/s107/b/13/D], struck out references to “Federal agency” and to subsec. (b) of section 3 of the Federal Property and Administrative Services Act of 1949. See par. (14) of this section.
+    Par. (13). [Pub. L. 98–497][/us/pl/98/497], § 107(b)(13)(D), struck out references to “Federal agency” and to subsec. (b) of section 3 of the Federal Property and Administrative Services Act of 1949. See par. (14) of this section.
 
-    Pars. (14), (15). [Pub. L. 98–497, § 107(b)(13)(D)][/us/pl/98/497/s107/b/13/D], added pars. (14) and (15).
+    Pars. (14), (15). [Pub. L. 98–497][/us/pl/98/497], § 107(b)(13)(D), added pars. (14) and (15).
 
  __Effective Date of 1984 Amendment__ 
 
@@ -103,7 +103,7 @@
 
  __Records Center Revolving Fund__ 
 
-[Pub. L. 106–58, title IV][/us/pl/106/58], \[(a)–(e)\], Sept. 29, 1999, [113 Stat. 460][/us/stat/113/460], 461, as amended by [Pub. L. 108–383, § 3][/us/pl/108/383/s3], Oct. 30, 2004, [118 Stat. 2218][/us/stat/118/2218], provided that:
+[Pub. L. 106–58, title IV][/us/pl/106/58/tIV], \[(a)–(e)\], Sept. 29, 1999, [113 Stat. 460][/us/stat/113/460], 461, as amended by [Pub. L. 108–383][/us/pl/108/383], § 3, Oct. 30, 2004, [118 Stat. 2218][/us/stat/118/2218], provided that:
 
 >     “(a)  __Establishment of Fund__  __.—__ 
 
@@ -131,7 +131,7 @@
 
  __Federal Records Management Provisions Without Effect on Authorities and Responsibilities of Administrator of General Services, Joint Committee, or Government Publishing Office__ 
 
-[Pub. L. 94–575, § 5][/us/pl/94/575/s5], Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727], as amended by [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
+[Pub. L. 94–575][/us/pl/94/575], § 5, Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727], as amended by [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a) The provisions of this Act \[see Short Title of 1976 Amendment note set out under [section 101 of this title][/us/usc/t44/s101]\] relating to the authority of the Administrator of General Services do not limit or repeal additional authorities provided by statute or otherwise recognized by law.
 
@@ -146,37 +146,37 @@
 
 [/us/usc/t44/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3301
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
-[/us/pl/94/575/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F1
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/stat/90/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2723
-[/us/pl/98/497/s107/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F13
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
-[/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1301
-[/us/pl/113/187/s8/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F6
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2012
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1295
-[/us/pl/94/575/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F1
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
 [/us/usc/t40/s472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs472%2Fa
-[/us/pl/98/497/s107/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F13%2FA
-[/us/pl/98/497/s107/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F13%2FB
-[/us/pl/98/497/s107/b/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F13%2FC
-[/us/pl/98/497/s107/b/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F13%2FD
-[/us/pl/98/497/s107/b/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F13%2FD
-[/us/pl/98/497/s107/b/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F13%2FD
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301
 [/us/usc/t44/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2102
-[/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
+[/us/pl/106/58/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtIV
 [/us/stat/113/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F460
-[/us/pl/108/383/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383%2Fs3
+[/us/pl/108/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383
 [/us/stat/118/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2218
-[/us/pl/94/575/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/stat/90/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2727
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 

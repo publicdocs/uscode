@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3314.md) | [Next](./../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_ch35_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch35)
+[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3315...3324.md) | [Next](./../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_ch35_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch35)
 
 ## CHAPTER 35—COORDINATION OF FEDERAL INFORMATION POLICY
 
@@ -311,23 +311,23 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–283, § 2(e)(1)][/us/pl/113/283/s2/e/1], Dec. 18, 2014, [128 Stat. 3086][/us/stat/128/3086], added heading for subchapter II and items 3551 to 3558 and struck out heading for former subchapter II and items 3531 to 3538 and heading for subchapter III and items 3541 to 3549. Prior to amendment, headings for both subchapters II and III read “INFORMATION SECURITY” and items under each subchapter were substantially similar to items 3551 to 3558.
+    2014—[Pub. L. 113–283][/us/pl/113/283], § 2(e)(1), Dec. 18, 2014, [128 Stat. 3086][/us/stat/128/3086], added heading for subchapter II and items 3551 to 3558 and struck out heading for former subchapter II and items 3531 to 3538 and heading for subchapter III and items 3541 to 3549. Prior to amendment, headings for both subchapters II and III read “INFORMATION SECURITY” and items under each subchapter were substantially similar to items 3551 to 3558.
 
-    2002—[Pub. L. 107–347, title III, § 301(b)(2)][/us/pl/107/347/s301/b/2], Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955], added heading for subchapter III and items 3541 to 3549.
+    2002—[Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 301(b)(2), Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955], added heading for subchapter III and items 3541 to 3549.
 
-    [Pub. L. 107–296, title X, § 1001(b)(2)][/us/pl/107/296/s1001/b/2], Nov. 25, 2002, [116 Stat. 2267][/us/stat/116/2267], reenacted items 3531 to 3535 without change, substituted “National security systems” for “Expiration” in item 3536, and added items 3537 and 3538.
+    [Pub. L. 107–296, title X][/us/pl/107/296/tX], § 1001(b)(2), Nov. 25, 2002, [116 Stat. 2267][/us/stat/116/2267], reenacted items 3531 to 3535 without change, substituted “National security systems” for “Expiration” in item 3536, and added items 3537 and 3538.
 
-    [Pub. L. 107–198, § 3(b)][/us/pl/107/198/s3/b], June 28, 2002, [116 Stat. 732][/us/stat/116/732], added item 3520 and renumbered former item 3520 as 3521.
+    [Pub. L. 107–198][/us/pl/107/198], § 3(b), June 28, 2002, [116 Stat. 732][/us/stat/116/732], added item 3520 and renumbered former item 3520 as 3521.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1064(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275, inserted subchapters I and II headings and added items 3531 to 3536.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1064(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–275, inserted subchapters I and II headings and added items 3531 to 3536.
 
-    1995—[Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 163][/us/stat/109/163], amended chapter heading and analysis generally.
+    1995—[Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 163][/us/stat/109/163], amended chapter heading and analysis generally.
 
-    1980—[Pub. L. 96–511, § 2(a)][/us/pl/96/511/s2/a], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], substituted in chapter heading “INFORMATION POLICY” for “REPORTING SERVICES”, and amended analysis generally.
+    1980—[Pub. L. 96–511][/us/pl/96/511], § 2(a), Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], substituted in chapter heading “INFORMATION POLICY” for “REPORTING SERVICES”, and amended analysis generally.
 
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3314.md) | [Next](./../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_ch35_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch35)
+[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3315...3324.md) | [Next](./../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_ch35_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch35)
 
 ----------
 ----------
@@ -341,19 +341,19 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 [/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
-[/us/pl/113/283/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F1
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3086
-[/us/pl/107/347/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fb%2F2
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2955
-[/us/pl/107/296/s1001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fb%2F2
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2267
-[/us/pl/107/198/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198%2Fs3%2Fb
+[/us/pl/107/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F198
 [/us/stat/116/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F732
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F163
-[/us/pl/96/511/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fa
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2812
 
 

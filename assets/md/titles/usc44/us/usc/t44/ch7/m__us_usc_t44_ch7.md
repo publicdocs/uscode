@@ -355,9 +355,9 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in item 710.
+    2014—[Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in item 710.
 
-    1996—[Pub. L. 104–186, title II, § 223(4)(B)][/us/pl/104/186/s223/4/B], Aug. 20, 1996, [110 Stat. 1751][/us/stat/110/1751], substituted “Senators” for “Members of Congress” in item 735.
+    1996—[Pub. L. 104–186, title II][/us/pl/104/186/tII], § 223(4)(B), Aug. 20, 1996, [110 Stat. 1751][/us/stat/110/1751], substituted “Senators” for “Members of Congress” in item 735.
 
  __Federal Records Management Provisions Without Effect on Chapter__ 
 
@@ -370,9 +370,9 @@
 ----------
 ----------
 
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/pl/104/186/s223/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs223%2F4%2FB
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1751
 [/us/pl/94/575/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5%2Fb
 [/us/usc/t44/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2901

@@ -39,7 +39,7 @@
 
     ten copies of each private bill and resolution and fifty copies of the laws in slip form.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1282][/us/stat/82/1282]; [Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e], Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1282][/us/stat/82/1282]; [Pub. L. 97–276][/us/pl/97/276], § 101(e), Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189].)
 
  __Historical and Revision Notes__ 
 
@@ -64,7 +64,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1282
-[/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1189
 [/us/stat/30/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1388
 [/us/stat/31/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1464

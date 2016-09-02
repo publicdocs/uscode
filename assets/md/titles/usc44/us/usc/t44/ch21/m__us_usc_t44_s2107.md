@@ -43,11 +43,11 @@
 
             (C) any shorter period agreed to by the originating Federal agency.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1287][/us/stat/82/1287], § 2103; [Pub. L. 94–575, § 4(a)][/us/pl/94/575/s4/a], Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727]; [Pub. L. 95–416, § 1(a)][/us/pl/95/416/s1/a], Oct. 5, 1978, [92 Stat. 915][/us/stat/92/915]; renumbered § 2107 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(1), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2285; [Pub. L. 113–187, § 3(a)][/us/pl/113/187/s3/a], Nov. 26, 2014, [128 Stat. 2007][/us/stat/128/2007].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1287][/us/stat/82/1287], § 2103; [Pub. L. 94–575][/us/pl/94/575], § 4(a), Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727]; [Pub. L. 95–416][/us/pl/95/416], § 1(a), Oct. 5, 1978, [92 Stat. 915][/us/stat/92/915]; renumbered § 2107 and amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], §§ 102(a)(1), 107(a)(1), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2285; [Pub. L. 113–187][/us/pl/113/187], § 3(a), Nov. 26, 2014, [128 Stat. 2007][/us/stat/128/2007].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 397(a) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 507, as added [Sept. 5, 1950, ch. 849, § 6(d)][/us/act/1950-09-05/ch849/s6/d], [64 Stat. 583][/us/stat/64/583]; and amended [July 12, 1952, ch. 703, § 1][/us/act/1952-07-12/ch703/s1](o), (p), [66 Stat. 594][/us/stat/66/594]; [July 12, 1955, ch. 329][/us/act/1955-07-12/ch329], [69 Stat. 297][/us/stat/69/297]; [Aug. 12, 1955, ch. 859][/us/act/1955-08-12/ch859], [69 Stat. 695][/us/stat/69/695]; [July 3, 1956, ch. 513, § 4][/us/act/1956-07-03/ch513/s4], [70 Stat. 494][/us/stat/70/494]; June 13, 1957, [Pub. L. 85–51][/us/pl/85/51], [71 Stat. 69][/us/stat/71/69]).
+    Based on 44 U.S. Code, 1964 ed., § 397(a) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 507, as added [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(d), [64 Stat. 583][/us/stat/64/583]; and amended [July 12, 1952, ch. 703][/us/act/1952-07-12/ch703], § 1(o), (p), [66 Stat. 594][/us/stat/66/594]; [July 12, 1955, ch. 329][/us/act/1955-07-12/ch329], [69 Stat. 297][/us/stat/69/297]; [Aug. 12, 1955, ch. 859][/us/act/1955-08-12/ch859], [69 Stat. 695][/us/stat/69/695]; [July 3, 1956, ch. 513][/us/act/1956-07-03/ch513], § 4, [70 Stat. 494][/us/stat/70/494]; June 13, 1957, [Pub. L. 85–51][/us/pl/85/51], [71 Stat. 69][/us/stat/71/69]).
 
  __Prior Provisions__ 
 
@@ -57,7 +57,7 @@
 
     2014—[Pub. L. 113–187][/us/pl/113/187] amended section generally. Prior to amendment, section provided for the acceptance of records by and transfer of records to the National Archives for historical preservation.
 
-    1984—[Pub. L. 98–497, § 107(a)(1)][/us/pl/98/497/s107/a/1], substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), substituted “, the Congress, the Architect of the Capitol, or the Supreme Court” for “or of the Congress” in par. (1), substituted “Archivist” for “Administrator” in par. (2), and substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” in par. (4).
+    1984—[Pub. L. 98–497][/us/pl/98/497], § 107(a)(1), substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), substituted “, the Congress, the Architect of the Capitol, or the Supreme Court” for “or of the Congress” in par. (1), substituted “Archivist” for “Administrator” in par. (2), and substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” in par. (4).
 
     1978—Par. (2). [Pub. L. 95–416][/us/pl/95/416] substituted “thirty years” for “fifty years”.
 
@@ -69,13 +69,13 @@
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–345, § 1][/us/pl/103/345/s1], Oct. 6, 1994, [108 Stat. 3128][/us/stat/108/3128], provided that: 
+[Pub. L. 103–345][/us/pl/103/345], § 1, Oct. 6, 1994, [108 Stat. 3128][/us/stat/108/3128], provided that: 
 
 > “This Act \[amending provisions set out as a note below\] may be cited as the ‘President John F. Kennedy Assassination Records Collection Extension Act of 1994’.”
 
  __National Database for Records of Servitude, Emancipation, and Post–Civil War Reconstruction__ 
 
-[Pub. L. 110–404, § 7][/us/pl/110/404/s7], Oct. 13, 2008, [122 Stat. 4285][/us/stat/122/4285], provided that:
+[Pub. L. 110–404][/us/pl/110/404], § 7, Oct. 13, 2008, [122 Stat. 4285][/us/stat/122/4285], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -87,7 +87,7 @@
 
  __President John F. Kennedy Assassination Records Collection__ 
 
-[Pub. L. 102–526][/us/pl/102/526], Oct. 26, 1992, [106 Stat. 3443][/us/stat/106/3443], as amended by [Pub. L. 103–345][/us/pl/103/345], §§ 2–5, Oct. 6, 1994, [108 Stat. 3128–3130][/us/stat/108/3128-3130]; [Pub. L. 105–25, § 1][/us/pl/105/25/s1], July 3, 1997, [111 Stat. 240][/us/stat/111/240]; [Pub. L. 109–313, § 2(c)(1)][/us/pl/109/313/s2/c/1], Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], provided that:
+[Pub. L. 102–526][/us/pl/102/526], Oct. 26, 1992, [106 Stat. 3443][/us/stat/106/3443], as amended by [Pub. L. 103–345][/us/pl/103/345], §§ 2–5, Oct. 6, 1994, [108 Stat. 3128–3130][/us/stat/108/3128-3130]; [Pub. L. 105–25][/us/pl/105/25], § 1, July 3, 1997, [111 Stat. 240][/us/stat/111/240]; [Pub. L. 109–313][/us/pl/109/313], § 2(c)(1), Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -787,46 +787,46 @@
 [/us/usc/t44/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2111
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1287
-[/us/pl/94/575/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs4%2Fa
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/stat/90/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2727
-[/us/pl/95/416/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F416%2Fs1%2Fa
+[/us/pl/95/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F416
 [/us/stat/92/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F915
-[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2280
-[/us/pl/113/187/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs3%2Fa
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2007
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
-[/us/act/1952-07-12/ch703/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch703%2Fs1
+[/us/act/1952-07-12/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch703
 [/us/stat/66/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F594
 [/us/act/1955-07-12/ch329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-12%2Fch329
 [/us/stat/69/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F297
 [/us/act/1955-08-12/ch859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch859
 [/us/stat/69/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F695
-[/us/act/1956-07-03/ch513/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch513%2Fs4
+[/us/act/1956-07-03/ch513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch513
 [/us/stat/70/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F494
 [/us/pl/85/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F51
 [/us/stat/71/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F69
 [/us/usc/t44/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2111
 [/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
-[/us/pl/98/497/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F1
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/95/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F416
 [/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301
 [/us/usc/t44/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2102
-[/us/pl/103/345/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F345%2Fs1
+[/us/pl/103/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F345
 [/us/stat/108/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3128
-[/us/pl/110/404/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404%2Fs7
+[/us/pl/110/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404
 [/us/stat/122/4285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4285
 [/us/pl/102/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F526
 [/us/stat/106/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3443
 [/us/pl/103/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F345
 [/us/stat/108/3128-3130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3128-3130
-[/us/pl/105/25/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F25%2Fs1
+[/us/pl/105/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F25
 [/us/stat/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F240
-[/us/pl/109/313/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs2%2Fc%2F1
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1735
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff

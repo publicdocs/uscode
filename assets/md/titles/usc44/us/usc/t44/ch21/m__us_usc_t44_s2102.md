@@ -17,7 +17,7 @@
 
     There shall be an independent establishment in the executive branch of the Government to be known as the National Archives and Records Administration. The Administration shall be administered under the supervision and direction of the Archivist.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1287][/us/stat/82/1287]; [Pub. L. 98–497, title I, § 101][/us/pl/98/497/s101], Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1287][/us/stat/82/1287]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 101, Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280].)
 
  __Historical and Revision Notes__ 
 
@@ -31,13 +31,13 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–497, title III, § 301][/us/pl/98/497/s301], Oct. 19, 1984, [98 Stat. 2295][/us/stat/98/2295], provided that: 
+[Pub. L. 98–497, title III][/us/pl/98/497/tIII], § 301, Oct. 19, 1984, [98 Stat. 2295][/us/stat/98/2295], provided that: 
 
 > “The provisions of this Act \[enacting sections 2103 to 2106 of this title and provisions set out as notes under this section and [section 101 of this title][/us/usc/t44/s101], redesignating existing sections 2103 to 2114 as sections 2107 to 2118 of this title, amending this section, sections 710, 711, 729, 1501 to 1503, 1506, 1714, 2101, 2107 to 2118, 2204, 2205, 2301 to 2305, 2307, 2501, 2504, 2506, 2901 to 2909, 3102 to 3106, 3302 to 3303a, 3308, 3310, 3311, 3504, and 3513 of this title, provisions set out as a note under [section 2111 of this title][/us/usc/t44/s2111], sections 106a, 106b, 112, 113, and 201 of Title 1, General Provisions, sections 6 and 11 to 13 of Title 3, The President, sections 141 to 145 of Title 4, Flag and Seal, Seat of Government, and the States, sections 552a and 5314 of Title 5, Government Organization and Employees, [section 199a of Title 25][/us/usc/t25/s199a], Indians, and repealing [section 2507 of this title][/us/usc/t44/s2507]\] (including the amendments made by this Act) shall be effective on April 1, 1985.”
 
  __Savings Provision__ 
 
-[Pub. L. 98–497, title I, § 105][/us/pl/98/497/s105], Oct. 19, 1984, [98 Stat. 2284][/us/stat/98/2284], provided that:
+[Pub. L. 98–497, title I][/us/pl/98/497/tI], § 105, Oct. 19, 1984, [98 Stat. 2284][/us/stat/98/2284], provided that:
 
 >     “(a) All orders, determinations, rules, regulations, grants, contracts, agreements, permits, licenses, privileges, and other actions which have been issued, granted, made, undertaken, or entered into in the performance of any function transferred by this Act \[[Pub. L. 98–497][/us/pl/98/497]\] or the amendments made by this Act shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by any authorized official, a court of competent jurisdiction, or by operation of law.
 
@@ -87,13 +87,13 @@ Sections 103, 104 of [Pub. L. 98–497][/us/pl/98/497] provided that:
 
  __Annual Capital Needs Assessment for Funding of Repairs and Restoration__ 
 
-[Pub. L. 111–8, div. D, title V][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 668][/us/stat/123/668], provided that: 
+[Pub. L. 111–8, div. D, title V][/us/pl/111/8/dD/tV], Mar. 11, 2009, [123 Stat. 668][/us/stat/123/668], provided that: 
 
 > “Hereafter, the National Archives and Records Administration shall include in its annual budget submission a comprehensive capital needs assessment for funding provided under the ‘Repairs and Restoration’ appropriations account to be updated yearly: Provided, That funds proposed under the ‘Repairs and Restoration’ appropriations account for each fiscal year shall be allocated to projects on a priority basis established under a comprehensive capital needs assessment.”
 
  __Establishment of Positions of Director of the Center for Legislative Archives and Specialist in Congressional History__ 
 
-[Pub. L. 101–509, title IV, § 1(a)][/us/pl/101/509/s1/a]–(c), Nov. 5, 1990, [104 Stat. 1416][/us/stat/104/1416], 1417, as amended by [Pub. L. 103–329, title V, § 541][/us/pl/103/329/s541], Sept. 30, 1994, [108 Stat. 2415][/us/stat/108/2415], provided that:
+[Pub. L. 101–509, title IV][/us/pl/101/509/tIV], § 1(a)–(c), Nov. 5, 1990, [104 Stat. 1416][/us/stat/104/1416], 1417, as amended by [Pub. L. 103–329, title V][/us/pl/103/329/tV], § 541, Sept. 30, 1994, [108 Stat. 2415][/us/stat/108/2415], provided that:
 
 >     “(a)
 
@@ -107,19 +107,19 @@ Sections 103, 104 of [Pub. L. 98–497][/us/pl/98/497] provided that:
 
  __References in Other Laws__ 
 
-[Pub. L. 98–497, title I, § 106][/us/pl/98/497/s106], Oct. 19, 1984, [98 Stat. 2285][/us/stat/98/2285], provided that: 
+[Pub. L. 98–497, title I][/us/pl/98/497/tI], § 106, Oct. 19, 1984, [98 Stat. 2285][/us/stat/98/2285], provided that: 
 
 > “With respect to any functions transferred by this Act \[[Pub. L. 98–497][/us/pl/98/497]\] or by an amendment made by this Act and exercised after the effective date of this Act \[Apr. 1, 1985\], reference in any other Federal law to the office of the Archivist of the United States as in existence on the date before the effective date of this Act, or the National Archives and Records Service of the General Services Administration, or any office or officer thereof, shall be deemed to refer to the Archivist or the Administration.”
 
  __Spending Authority__ 
 
-[Pub. L. 98–497, title III, § 302][/us/pl/98/497/s302], Oct. 19, 1984, [98 Stat. 2295][/us/stat/98/2295], provided that: 
+[Pub. L. 98–497, title III][/us/pl/98/497/tIII], § 302, Oct. 19, 1984, [98 Stat. 2295][/us/stat/98/2295], provided that: 
 
 > “Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[[2 U.S.C. 651][/us/usc/t2/s651]\]) which is provided under this Act shall be effective for any fiscal year only to the extent or in such amounts as provided in appropriations Acts.”
 
  __Definitions__ 
 
-[Pub. L. 98–497, title I, § 108][/us/pl/98/497/s108], Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292], provided that: 
+[Pub. L. 98–497, title I][/us/pl/98/497/tI], § 108, Oct. 19, 1984, [98 Stat. 2292][/us/stat/98/2292], provided that: 
 
 > “For purposes of sections 103 through 106 \[set out as notes above\]—
 
@@ -138,18 +138,18 @@ Sections 103, 104 of [Pub. L. 98–497][/us/pl/98/497] provided that:
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1287
-[/us/pl/98/497/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs101
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2280
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F381
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
-[/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301
+[/us/pl/98/497/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtIII
 [/us/stat/98/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2295
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 [/us/usc/t44/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2111
 [/us/usc/t25/s199a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs199a
 [/us/usc/t44/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2507
-[/us/pl/98/497/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs105
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2284
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
@@ -173,20 +173,20 @@ Sections 103, 104 of [Pub. L. 98–497][/us/pl/98/497] provided that:
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtV
 [/us/stat/123/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F668
-[/us/pl/101/509/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs1%2Fa
+[/us/pl/101/509/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtIV
 [/us/stat/104/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1416
-[/us/pl/103/329/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs541
+[/us/pl/103/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtV
 [/us/stat/108/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2415
 [/us/usc/t44/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2701
-[/us/pl/98/497/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs106
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2285
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
-[/us/pl/98/497/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs302
+[/us/pl/98/497/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtIII
 [/us/stat/98/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2295
 [/us/usc/t2/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651
-[/us/pl/98/497/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs108
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2292
 [/us/usc/t44/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2103
 

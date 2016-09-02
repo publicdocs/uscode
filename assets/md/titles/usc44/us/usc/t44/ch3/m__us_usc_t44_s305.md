@@ -19,23 +19,23 @@
 
     (b) The Director of the Government Publishing Office may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1240][/us/stat/82/1240]; [Pub. L. 91–167][/us/pl/91/167], Dec. 26, 1969, [83 Stat. 453][/us/stat/83/453]; [Pub. L. 91–369][/us/pl/91/369], July 31, 1970, [84 Stat. 693][/us/stat/84/693]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c), (i)(2), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], 2538.)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1240][/us/stat/82/1240]; [Pub. L. 91–167][/us/pl/91/167], Dec. 26, 1969, [83 Stat. 453][/us/stat/83/453]; [Pub. L. 91–369][/us/pl/91/369], July 31, 1970, [84 Stat. 693][/us/stat/84/693]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (c), (i)(2), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], 2538.)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 40 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], §§ 39, 49, 50, [28 Stat. 607][/us/stat/28/607], 608; [June 6, 1900, ch. 791, § 1][/us/act/1900-06-06/ch791/s1], [31 Stat. 643][/us/stat/31/643]; [Mar. 4, 1909, ch. 299, § 1][/us/act/1909-03-04/ch299/s1], [35 Stat. 1021][/us/stat/35/1021], 1024; [Aug. 24, 1912, ch. 355, § 1][/us/act/1912-08-24/ch355/s1], [37 Stat. 482][/us/stat/37/482]; [July 8, 1918, ch. 139, § 1][/us/act/1918-07-08/ch139/s1], [40 Stat. 836][/us/stat/40/836]; [Aug. 2, 1919, ch. 30][/us/act/1919-08-02/ch30], [41 Stat. 272][/us/stat/41/272]; [Feb. 20, 1923, ch. 98][/us/act/1923-02-20/ch98], [42 Stat. 1278][/us/stat/42/1278]; [June 7, 1924, ch. 354, § 1][/us/act/1924-06-07/ch354/s1], [43 Stat. 658][/us/stat/43/658]).
+    Based on 44 U.S. Code, 1964 ed., § 40 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], §§ 39, 49, 50, [28 Stat. 607][/us/stat/28/607], 608; [June 6, 1900, ch. 791][/us/act/1900-06-06/ch791], § 1, [31 Stat. 643][/us/stat/31/643]; [Mar. 4, 1909, ch. 299][/us/act/1909-03-04/ch299], § 1, [35 Stat. 1021][/us/stat/35/1021], 1024; [Aug. 24, 1912, ch. 355][/us/act/1912-08-24/ch355], § 1, [37 Stat. 482][/us/stat/37/482]; [July 8, 1918, ch. 139][/us/act/1918-07-08/ch139], § 1, [40 Stat. 836][/us/stat/40/836]; [Aug. 2, 1919, ch. 30][/us/act/1919-08-02/ch30], [41 Stat. 272][/us/stat/41/272]; [Feb. 20, 1923, ch. 98][/us/act/1923-02-20/ch98], [42 Stat. 1278][/us/stat/42/1278]; [June 7, 1924, ch. 354][/us/act/1924-06-07/ch354], § 1, [43 Stat. 658][/us/stat/43/658]).
 
     Last sentence of this section was deleted as executed.
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, § 1301(c)(2)][/us/pl/113/235/s1301/c/2], substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline.
+    2014—[Pub. L. 113–235][/us/pl/113/235], § 1301(c)(2), substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–235, § 1301(i)(2)][/us/pl/113/235/s1301/i/2], substituted “the Director considers” for “he considers” and “The Director of the Government Publishing Office may not” for “He may not”.
+    Subsec. (a). [Pub. L. 113–235][/us/pl/113/235], § 1301(i)(2), substituted “the Director considers” for “he considers” and “The Director of the Government Publishing Office may not” for “He may not”.
 
-    [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” in three places.
+    [Pub. L. 113–235][/us/pl/113/235], § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” in three places.
 
-    Subsec. (b). [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
+    Subsec. (b). [Pub. L. 113–235][/us/pl/113/235], § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
 
     1970—[Pub. L. 91–369][/us/pl/91/369] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -51,7 +51,7 @@
 
  __Voluntary Separation Incentives__ 
 
-[Pub. L. 105–275, title III, § 309][/us/pl/105/275/s309], Oct. 21, 1998, [112 Stat. 2454][/us/stat/112/2454], as amended by [Pub. L. 107–68, title II, § 210(a)][/us/pl/107/68/s210/a], Nov. 12, 2001, [115 Stat. 590][/us/stat/115/590]; [Pub. L. 112–10, div. B, title IX, § 1926(a)][/us/pl/112/10/s1926/a], Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
+[Pub. L. 105–275, title III][/us/pl/105/275/tIII], § 309, Oct. 21, 1998, [112 Stat. 2454][/us/stat/112/2454], as amended by [Pub. L. 107–68, title II][/us/pl/107/68/tII], § 210(a), Nov. 12, 2001, [115 Stat. 590][/us/stat/115/590]; [Pub. L. 112–10, div. B, title IX][/us/pl/112/10/dB/tIX], § 1926(a), Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a)  __Severance Pay__  __.—__ 
 
@@ -107,7 +107,7 @@
 
 >                 “(iii) a description of how the Government Publishing Office will operate without the eliminated positions and functions.
 
->         “\[(5) Repealed. [Pub. L. 112–10, div. B, title IX, § 1926(a)][/us/pl/112/10/s1926/a], Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172].\]
+>         “\[(5) Repealed. [Pub. L. 112–10, div. B, title IX][/us/pl/112/10/dB/tIX], § 1926(a), Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172].\]
 
 >         “(6)
 
@@ -173,13 +173,13 @@
 
 >         “(3) Funds to carry out subsection (d) may be expended from any funds made available to the Director of the Government Publishing Office.”
 
-\[[Pub. L. 112–10, div. B, title IX, § 1926(b)][/us/pl/112/10/s1926/b], Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172], provided that: 
+\[[Pub. L. 112–10, div. B, title IX][/us/pl/112/10/dB/tIX], § 1926(b), Apr. 15, 2011, [125 Stat. 172][/us/stat/125/172], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 309 of Pub. L. 105–275][/us/pl/105/275/s309], set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[[Pub. L. 105–275][/us/pl/105/275]\].”
 
 \]
 
-\[[Pub. L. 107–68, title II, § 210(b)][/us/pl/107/68/s210/b], Nov. 12, 2001, [115 Stat. 590][/us/stat/115/590], provided that: 
+\[[Pub. L. 107–68, title II][/us/pl/107/68/tII], § 210(b), Nov. 12, 2001, [115 Stat. 590][/us/stat/115/590], provided that: 
 
 > “The amendments made by this section \[amending [section 309 of Pub. L. 105–275][/us/pl/105/275/s309], set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[[Pub. L. 105–275][/us/pl/105/275]\].”
 
@@ -198,28 +198,28 @@
 [/us/stat/83/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F453
 [/us/pl/91/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F369
 [/us/stat/84/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F693
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F607
-[/us/act/1900-06-06/ch791/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch791%2Fs1
+[/us/act/1900-06-06/ch791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch791
 [/us/stat/31/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F643
-[/us/act/1909-03-04/ch299/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch299%2Fs1
+[/us/act/1909-03-04/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch299
 [/us/stat/35/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1021
-[/us/act/1912-08-24/ch355/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch355%2Fs1
+[/us/act/1912-08-24/ch355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch355
 [/us/stat/37/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F482
-[/us/act/1918-07-08/ch139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-08%2Fch139%2Fs1
+[/us/act/1918-07-08/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-08%2Fch139
 [/us/stat/40/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F836
 [/us/act/1919-08-02/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-08-02%2Fch30
 [/us/stat/41/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F272
 [/us/act/1923-02-20/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-02-20%2Fch98
 [/us/stat/42/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1278
-[/us/act/1924-06-07/ch354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch354%2Fs1
+[/us/act/1924-06-07/ch354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch354
 [/us/stat/43/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F658
-[/us/pl/113/235/s1301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F2
-[/us/pl/113/235/s1301/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fi%2F2
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/91/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F369
 [/us/pl/91/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F167
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
@@ -227,25 +227,25 @@
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/92/392/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs13
 [/us/usc/t5/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5341
-[/us/pl/105/275/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs309
+[/us/pl/105/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtIII
 [/us/stat/112/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2454
-[/us/pl/107/68/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs210%2Fa
+[/us/pl/107/68/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtII
 [/us/stat/115/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F590
-[/us/pl/112/10/s1926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1926%2Fa
+[/us/pl/112/10/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtIX
 [/us/stat/125/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F172
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
 [/us/usc/t5/s5597/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5597%2Fd
-[/us/pl/112/10/s1926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1926%2Fa
+[/us/pl/112/10/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtIX
 [/us/stat/125/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F172
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/112/10/s1926/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1926%2Fb
+[/us/pl/112/10/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtIX
 [/us/stat/125/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F172
 [/us/pl/105/275/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs309
 [/us/pl/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275
-[/us/pl/107/68/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs210%2Fb
+[/us/pl/107/68/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtII
 [/us/stat/115/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F590
 [/us/pl/105/275/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs309
 [/us/pl/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275

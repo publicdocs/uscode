@@ -23,11 +23,11 @@
 
     Within six months after their disposal, the official who directed the disposal shall submit a written report to the Archivist in which he shall describe the character of the records and state when and where he disposed of them.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1301][/us/stat/82/1301]; [Pub. L. 98–497, title I, § 107(b)(23)][/us/pl/98/497/s107/b/23], (25)(C), Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1301][/us/stat/82/1301]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(23), (25)(C), Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 376 ([July 7, 1943, ch. 192, § 11][/us/act/1943-07-07/ch192/s11], [57 Stat. 382][/us/stat/57/382]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(a), [63 Stat. 381][/us/stat/63/381]).
+    Based on 44 U.S. Code, 1964 ed., § 376 ([July 7, 1943, ch. 192][/us/act/1943-07-07/ch192], § 11, [57 Stat. 382][/us/stat/57/382]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 104(a), [63 Stat. 381][/us/stat/63/381]).
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1301
-[/us/pl/98/497/s107/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F23
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2290
-[/us/act/1943-07-07/ch192/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192%2Fs11
+[/us/act/1943-07-07/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192
 [/us/stat/57/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F382
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F381

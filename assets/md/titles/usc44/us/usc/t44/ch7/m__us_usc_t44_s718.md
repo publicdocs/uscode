@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 141 ([Mar. 1, 1907, ch. 2284, § 5][/us/act/1907-03-01/ch2284/s5], [34 Stat. 1014][/us/stat/34/1014]).
+    Based on 44 U.S. Code, 1964 ed., § 141 ([Mar. 1, 1907, ch. 2284][/us/act/1907-03-01/ch2284], § 5, [34 Stat. 1014][/us/stat/34/1014]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1250
-[/us/act/1907-03-01/ch2284/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-01%2Fch2284%2Fs5
+[/us/act/1907-03-01/ch2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-01%2Fch2284
 [/us/stat/34/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1014
 
 

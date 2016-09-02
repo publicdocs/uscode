@@ -59,7 +59,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 189 ([Jan. 12, 1895, ch. 23, § 55][/us/act/1895-01-12/ch23/s55], [28 Stat. 609][/us/stat/28/609]; [Jan. 20, 1905, ch. 50, § 2][/us/act/1905-01-20/ch50/s2], [33 Stat. 611][/us/stat/33/611]).
+    Based on 44 U.S. Code, 1964 ed., § 189 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 55, [28 Stat. 609][/us/stat/28/609]; [Jan. 20, 1905, ch. 50][/us/act/1905-01-20/ch50], § 2, [33 Stat. 611][/us/stat/33/611]).
 
 ----------
 
@@ -70,9 +70,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1248
-[/us/act/1895-01-12/ch23/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs55
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F609
-[/us/act/1905-01-20/ch50/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-20%2Fch50%2Fs2
+[/us/act/1905-01-20/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-20%2Fch50
 [/us/stat/33/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F611
 
 

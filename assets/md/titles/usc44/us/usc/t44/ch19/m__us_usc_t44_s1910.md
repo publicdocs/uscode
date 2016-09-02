@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 84 ([June 23, 1913, ch. 3, § 5][/us/act/1913-06-23/ch3/s5], [38 Stat. 75][/us/stat/38/75]; Aug. 9, 1962, [Pub. L. 87–579, § 4][/us/pl/87/579/s4], [76 Stat. 353][/us/stat/76/353]).
+    Based on 44 U.S. Code, 1964 ed., § 84 ([June 23, 1913, ch. 3][/us/act/1913-06-23/ch3], § 5, [38 Stat. 75][/us/stat/38/75]; Aug. 9, 1962, [Pub. L. 87–579][/us/pl/87/579], § 4, [76 Stat. 353][/us/stat/76/353]).
 
 ----------
 
@@ -33,9 +33,9 @@
 [/us/usc/t44/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1905
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1286
-[/us/act/1913-06-23/ch3/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-06-23%2Fch3%2Fs5
+[/us/act/1913-06-23/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-06-23%2Fch3
 [/us/stat/38/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F75
-[/us/pl/87/579/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579%2Fs4
+[/us/pl/87/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579
 [/us/stat/76/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F353
 
 

@@ -17,11 +17,11 @@
 
     The Director of the Government Publishing Office, upon the requisition of the Superintendent of Documents, shall appoint necessary assistants, furnish blanks, and do the printing and binding required by his office. The Director of the Government Publishing Office shall provide convenient office, storage, and distributing rooms for the use of the Superintendent of Documents.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1279][/us/stat/82/1279]; [Pub. L. 101–520, title II, § 208][/us/pl/101/520/s208], Nov. 5, 1990, [104 Stat. 2274][/us/stat/104/2274]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1279][/us/stat/82/1279]; [Pub. L. 101–520, title II][/us/pl/101/520/tII], § 208, Nov. 5, 1990, [104 Stat. 2274][/us/stat/104/2274]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 74 ([Jan. 12, 1895, ch. 23, § 66][/us/act/1895-01-12/ch23/s66], [28 Stat. 611][/us/stat/28/611]).
+    Based on 44 U.S. Code, 1964 ed., § 74 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 66, [28 Stat. 611][/us/stat/28/611]).
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1279
-[/us/pl/101/520/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs208
+[/us/pl/101/520/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtII
 [/us/stat/104/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2274
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1895-01-12/ch23/s66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs66
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F611
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520

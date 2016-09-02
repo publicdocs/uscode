@@ -25,7 +25,7 @@
 
     (b) The Inspector General, in carrying out the provisions of this chapter, is authorized to select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of this title governing selections, appointments, and employment in the Government Publishing Office (and any regulations thereunder).
 
-(Added [Pub. L. 100–504, title II, § 202][/us/pl/100/504/s202], Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531]; amended [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+(Added [Pub. L. 100–504, title II][/us/pl/100/504/tII], § 202, Oct. 18, 1988, [102 Stat. 2531][/us/stat/102/2531]; amended [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” in introductory provisions and par. (2).
+    2014—Subsec. (a). [Pub. L. 113–235][/us/pl/113/235], § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” in introductory provisions and par. (2).
 
  __Change of Name__ 
 
@@ -47,12 +47,12 @@
 ----------
 
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/100/504/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs202
+[/us/pl/100/504/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtII
 [/us/stat/102/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2531
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 

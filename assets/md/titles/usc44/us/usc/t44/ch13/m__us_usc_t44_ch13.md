@@ -379,21 +379,21 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in item 1340.
+    2014—[Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in item 1340.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(2), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in item 1336.
 
-    2000—[Pub. L. 106–181, title VI, § 606(d)][/us/pl/106/181/s606/d], Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154], struck out “and aeronautical” after “nautical” in item 1307.
+    2000—[Pub. L. 106–181, title VI][/us/pl/106/181/tVI], § 606(d), Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154], struck out “and aeronautical” after “nautical” in item 1307.
 
-    1999—[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(25)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585, struck out items 1337 “Patent Office: publications authorized to be printed” and 1338 “Patent Office: limitations and conditions concerning printing and lithographing”.
+    1999—[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(25)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–585, struck out items 1337 “Patent Office: publications authorized to be printed” and 1338 “Patent Office: limitations and conditions concerning printing and lithographing”.
 
-    1996—[Pub. L. 104–316, title I, § 123(b)(2)][/us/pl/104/316/s123/b/2], Oct. 19, 1996, [110 Stat. 3839][/us/stat/110/3839], struck out item 1311 “Comptroller General: decisions”.
+    1996—[Pub. L. 104–316, title I][/us/pl/104/316/tI], § 123(b)(2), Oct. 19, 1996, [110 Stat. 3839][/us/stat/110/3839], struck out item 1311 “Comptroller General: decisions”.
 
-    [Pub. L. 104–201, div. A, title XI, § 1123(b)(2)][/us/pl/104/201/s1123/b/2], Sept. 23, 1996, [110 Stat. 2688][/us/stat/110/2688], substituted “National Imagery and Mapping Agency” for “Naval Oceanographic Office” in item 1336.
+    [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1123(b)(2), Sept. 23, 1996, [110 Stat. 2688][/us/stat/110/2688], substituted “National Imagery and Mapping Agency” for “Naval Oceanographic Office” in item 1336.
 
-    1986—[Pub. L. 99–272, title VI, § 6011(b)][/us/pl/99/272/s6011/b], Apr. 7, 1986, [100 Stat. 122][/us/stat/100/122], substituted “National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution” for “Environmental Science Service Administration: charts; sale and distribution” in item 1307.
+    1986—[Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6011(b), Apr. 7, 1986, [100 Stat. 122][/us/stat/100/122], substituted “National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution” for “Environmental Science Service Administration: charts; sale and distribution” in item 1307.
 
-    1980—[Pub. L. 96–536, § 101(c)][/us/pl/96/536/s101/c], Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167], added item 1320A.
+    1980—[Pub. L. 96–536][/us/pl/96/536], § 101(c), Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167], added item 1320A.
 
  __Federal Records Management Provisions Without Effect on Chapter__ 
 
@@ -406,21 +406,21 @@
 ----------
 ----------
 
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
-[/us/pl/106/181/s606/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fd
+[/us/pl/106/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVI
 [/us/stat/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F154
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/104/316/s123/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs123%2Fb%2F2
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3839
-[/us/pl/104/201/s1123/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1123%2Fb%2F2
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2688
-[/us/pl/99/272/s6011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6011%2Fb
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F122
-[/us/pl/96/536/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536%2Fs101%2Fc
+[/us/pl/96/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536
 [/us/stat/94/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3167
 [/us/pl/94/575/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5%2Fb
 [/us/usc/t44/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2901

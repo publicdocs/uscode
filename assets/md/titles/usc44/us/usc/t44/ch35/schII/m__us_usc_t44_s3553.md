@@ -227,11 +227,11 @@
 
         (2) the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
 
-(Added [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3075][/us/stat/128/3075]; amended [Pub. L. 114–113, div. N, title II][/us/pl/114/113], §§ 224(e), 229(a), Dec. 18, 2015, [129 Stat. 2967][/us/stat/129/2967], 2972.)
+(Added [Pub. L. 113–283][/us/pl/113/283], § 2(a), Dec. 18, 2014, [128 Stat. 3075][/us/stat/128/3075]; amended [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], §§ 224(e), 229(a), Dec. 18, 2015, [129 Stat. 2967][/us/stat/129/2967], 2972.)
 
  __References in Text__ 
 
-    Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is [section 230(b)(1) of title II of Pub. L. 107–296][/us/pl/107/296/s230/b/1], as added by [Pub. L. 114–113, div. N, title II, § 223(a)(6)][/us/pl/114/113/s223/a/6], Dec. 18, 2015, [129 Stat. 2964][/us/stat/129/2964], which is classified to [section 151(b)(1) of Title 6][/us/usc/t6/s151/b/1], Domestic Security.
+    Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is [section 230(b)(1) of title II of Pub. L. 107–296][/us/pl/107/296/tII/s230/b/1], as added by [Pub. L. 114–113, div. N, title II][/us/pl/114/113/dN/tII], § 223(a)(6), Dec. 18, 2015, [129 Stat. 2964][/us/stat/129/2964], which is classified to [section 151(b)(1) of Title 6][/us/usc/t6/s151/b/1], Domestic Security.
 
  __Prior Provisions__ 
 
@@ -239,13 +239,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(6)(B). [Pub. L. 114–113, § 224(e)][/us/pl/114/113/s224/e], inserted “, operating, and maintaining” after “deploying”.
+    2015—Subsec. (b)(6)(B). [Pub. L. 114–113][/us/pl/114/113], § 224(e), inserted “, operating, and maintaining” after “deploying”.
 
-    Subsecs. (h) to (j). [Pub. L. 114–113, § 229(a)][/us/pl/114/113/s229/a], added subsecs. (h) to (j).
+    Subsecs. (h) to (j). [Pub. L. 114–113][/us/pl/114/113], § 229(a), added subsecs. (h) to (j).
 
  __Breaches__ 
 
-[Pub. L. 113–283, § 2(d)][/us/pl/113/283/s2/d], Dec. 18, 2014, [128 Stat. 3085][/us/stat/128/3085], provided that:
+[Pub. L. 113–283][/us/pl/113/283], § 2(d), Dec. 18, 2014, [128 Stat. 3085][/us/stat/128/3085], provided that:
 
 >     “(1)  __Requirements__  __.—__ 
 
@@ -297,7 +297,7 @@
 
 >     Nothing in paragraph (1) shall be construed to alter any authority of a Federal agency or department.”
 
-    Similar provisions were contained in [Pub. L. 113–282, § 7(b)][/us/pl/113/282/s7/b], Dec. 18, 2014, [128 Stat. 3071][/us/stat/128/3071].
+    Similar provisions were contained in [Pub. L. 113–282][/us/pl/113/282], § 7(b), Dec. 18, 2014, [128 Stat. 3071][/us/stat/128/3071].
 
 ----------
 
@@ -317,25 +317,25 @@
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t40/s11303/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11303%2Fb%2F5
-[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3075
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2967
-[/us/pl/107/296/s230/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs230%2Fb%2F1
-[/us/pl/114/113/s223/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs223%2Fa%2F6
+[/us/pl/107/296/tII/s230/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII%2Fs230%2Fb%2F1
+[/us/pl/114/113/dN/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtII
 [/us/stat/129/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2964
 [/us/usc/t6/s151/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs151%2Fb%2F1
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
-[/us/pl/114/113/s224/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs224%2Fe
-[/us/pl/114/113/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs229%2Fa
-[/us/pl/113/283/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fd
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3085
 [/us/usc/t44/s3554/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3554%2Fc%2F1
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t44/s3553/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3553%2Fc
 [/us/usc/t44/s3553/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3553%2Fb%2F2%2FB
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/113/282/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282%2Fs7%2Fb
+[/us/pl/113/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282
 [/us/stat/128/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3071
 
 

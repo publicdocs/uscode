@@ -17,7 +17,7 @@
 
     The Archivist of the United States shall include in the references in margins of the United States Statutes at Large the number of the bill or joint resolution (designating S. for Senate bill, H.R. for House bill, S.J. Res. for Senate joint resolution and H.J. Res. for House joint resolution, as the case may be) under which each Act was approved and became a law, the reference in the margins to be placed within brackets immediately under the date of the approval of the Act at the beginning of each Act as printed beginning with Volume 32 of the United States Statutes at Large.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1252][/us/stat/82/1252]; [Pub. L. 98–497, title I, § 107(b)(1)][/us/pl/98/497/s107/b/1], Oct. 19, 1984, [98 Stat. 2286][/us/stat/98/2286].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1252][/us/stat/82/1252]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(1), Oct. 19, 1984, [98 Stat. 2286][/us/stat/98/2286].)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1252
-[/us/pl/98/497/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F1
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2286
 [/us/stat/33/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F589
 [/us/stat/64/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1272

@@ -187,11 +187,11 @@
 
                 (iii) The Archivist shall promulgate standards to be used in calculating the dollar amount of any credit to be given, and shall consult with all donors of the endowment before giving any credits. The total dollar amount of credits given under this paragraph may not exceed 20 percent of the additional endowment amount required under paragraph (4).
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1289][/us/stat/82/1289], § 2108; [Pub. L. 94–575, § 4(a)][/us/pl/94/575/s4/a], Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727]; [Pub. L. 95–591, § 2(b)(3)][/us/pl/95/591/s2/b/3], Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528]; renumbered § 2112 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(6), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2286; [Pub. L. 99–323, § 3][/us/pl/99/323/s3], May 27, 1986, [100 Stat. 495][/us/stat/100/495]; [Pub. L. 108–7, div. J, title V, § 513][/us/pl/108/7/s513], Feb. 20, 2003, [117 Stat. 462][/us/stat/117/462]; [Pub. L. 108–383, § 4(a)][/us/pl/108/383/s4/a], Oct. 30, 2004, [118 Stat. 2218][/us/stat/118/2218]; [Pub. L. 110–404, § 6(b)][/us/pl/110/404/s6/b], Oct. 13, 2008, [122 Stat. 4285][/us/stat/122/4285].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1289][/us/stat/82/1289], § 2108; [Pub. L. 94–575][/us/pl/94/575], § 4(a), Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727]; [Pub. L. 95–591][/us/pl/95/591], § 2(b)(3), Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528]; renumbered § 2112 and amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], §§ 102(a)(1), 107(a)(6), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2286; [Pub. L. 99–323][/us/pl/99/323], § 3, May 27, 1986, [100 Stat. 495][/us/stat/100/495]; [Pub. L. 108–7, div. J, title V][/us/pl/108/7/dJ/tV], § 513, Feb. 20, 2003, [117 Stat. 462][/us/stat/117/462]; [Pub. L. 108–383][/us/pl/108/383], § 4(a), Oct. 30, 2004, [118 Stat. 2218][/us/stat/118/2218]; [Pub. L. 110–404][/us/pl/110/404], § 6(b), Oct. 13, 2008, [122 Stat. 4285][/us/stat/122/4285].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 397(f) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 507, as added [Sept. 5, 1950, ch. 849, § 6(d)][/us/act/1950-09-05/ch849/s6/d], [64 Stat. 583][/us/stat/64/583]; and amended [July 12, 1952, ch. 703, § 1][/us/act/1952-07-12/ch703/s1](o), (p), [66 Stat. 594][/us/stat/66/594]; [July 12, 1955, ch. 329][/us/act/1955-07-12/ch329], [69 Stat. 297][/us/stat/69/297]; [Aug. 12, 1955, ch. 859][/us/act/1955-08-12/ch859], [69 Stat. 695][/us/stat/69/695]).
+    Based on 44 U.S. Code, 1964 ed., § 397(f) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 507, as added [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(d), [64 Stat. 583][/us/stat/64/583]; and amended [July 12, 1952, ch. 703][/us/act/1952-07-12/ch703], § 1(o), (p), [66 Stat. 594][/us/stat/66/594]; [July 12, 1955, ch. 329][/us/act/1955-07-12/ch329], [69 Stat. 297][/us/stat/69/297]; [Aug. 12, 1955, ch. 859][/us/act/1955-08-12/ch859], [69 Stat. 695][/us/stat/69/695]).
 
  __Prior Provisions__ 
 
@@ -205,15 +205,15 @@
 
     2003—Subsec. (g)(5). [Pub. L. 108–7][/us/pl/108/7] added par. (5).
 
-    1986—Subsec. (a). [Pub. L. 99–323, § 3(a)][/us/pl/99/323/s3/a], amended subsec. (a) generally, revising and restating as pars. (1) to (5) provisions of former undesignated pars. containing similar subject matter.
+    1986—Subsec. (a). [Pub. L. 99–323][/us/pl/99/323], § 3(a), amended subsec. (a) generally, revising and restating as pars. (1) to (5) provisions of former undesignated pars. containing similar subject matter.
 
-    Subsec. (g). [Pub. L. 99–323, § 3(b)][/us/pl/99/323/s3/b], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “When the Archivist considers it be in the public interest, he may accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historical materials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into the National Archives Trust Fund to be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, including administrative and custodial expenses as the Archivist determines.”
+    Subsec. (g). [Pub. L. 99–323][/us/pl/99/323], § 3(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “When the Archivist considers it be in the public interest, he may accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historical materials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into the National Archives Trust Fund to be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, including administrative and custodial expenses as the Archivist determines.”
 
-    1984—Subsec. (a). [Pub. L. 98–497, § 107(a)(6)][/us/pl/98/497/s107/a/6], substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator” wherever appearing.
+    1984—Subsec. (a). [Pub. L. 98–497][/us/pl/98/497], § 107(a)(6), substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator” wherever appearing.
 
-    Subsecs. (b), (c). [Pub. L. 98–497, § 107(a)(6)][/us/pl/98/497/s107/a/6], substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 98–497][/us/pl/98/497], § 107(a)(6), substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” wherever appearing.
 
-    Subsecs. (d) to (g). [Pub. L. 98–497, § 107(a)(6)][/us/pl/98/497/s107/a/6], substituted “Archivist” for “Administrator” wherever appearing.
+    Subsecs. (d) to (g). [Pub. L. 98–497][/us/pl/98/497], § 107(a)(6), substituted “Archivist” for “Administrator” wherever appearing.
 
     1978—Subsec. (c). [Pub. L. 95–591][/us/pl/95/591] limited application of subsec. (c) when dealing with Presidential records.
 
@@ -235,7 +235,7 @@
 
  __Capital Improvement Plan for Presidential Archival Depositories__ 
 
-[Pub. L. 110–404, § 6(a)][/us/pl/110/404/s6/a], Oct. 13, 2008, [122 Stat. 4284][/us/stat/122/4284], provided that:
+[Pub. L. 110–404][/us/pl/110/404], § 6(a), Oct. 13, 2008, [122 Stat. 4284][/us/stat/122/4284], provided that:
 
 >     “(1)  __Provision of plan__  __.—__ 
 
@@ -288,24 +288,24 @@
 [/us/usc/t44/s2201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2201%2F2
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1289
-[/us/pl/94/575/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs4%2Fa
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/stat/90/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2727
-[/us/pl/95/591/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fb%2F3
+[/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2528
-[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2280
-[/us/pl/99/323/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F323%2Fs3
+[/us/pl/99/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F323
 [/us/stat/100/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F495
-[/us/pl/108/7/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs513
+[/us/pl/108/7/dJ/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtV
 [/us/stat/117/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F462
-[/us/pl/108/383/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383%2Fs4%2Fa
+[/us/pl/108/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383
 [/us/stat/118/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2218
-[/us/pl/110/404/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404%2Fs6%2Fb
+[/us/pl/110/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404
 [/us/stat/122/4285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4285
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
-[/us/act/1952-07-12/ch703/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch703%2Fs1
+[/us/act/1952-07-12/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-12%2Fch703
 [/us/stat/66/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F594
 [/us/act/1955-07-12/ch329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-12%2Fch329
 [/us/stat/69/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F297
@@ -315,11 +315,11 @@
 [/us/pl/110/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404
 [/us/pl/108/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/99/323/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F323%2Fs3%2Fa
-[/us/pl/99/323/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F323%2Fs3%2Fb
-[/us/pl/98/497/s107/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F6
-[/us/pl/98/497/s107/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F6
-[/us/pl/98/497/s107/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F6
+[/us/pl/99/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F323
+[/us/pl/99/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F323
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/pl/99/323/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F323%2Fs4
@@ -330,7 +330,7 @@
 [/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/pl/95/591/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs3
 [/us/usc/t44/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2201
-[/us/pl/110/404/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404%2Fs6%2Fa
+[/us/pl/110/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404
 [/us/stat/122/4284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4284
 [/us/usc/t44/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2101
 [/us/pl/89/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F547

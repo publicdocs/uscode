@@ -139,13 +139,13 @@
 
     (g) The Director shall ensure that the Office of Management and Budget, including the Office of Electronic Government, the Office of Information and Regulatory Affairs, and other relevant offices, have adequate staff and resources to properly fulfill all functions under the E-Government Act of 2002.
 
-(Added [Pub. L. 107–347, title I, § 101(a)][/us/pl/107/347/s101/a], Dec. 17, 2002, [116 Stat. 2902][/us/stat/116/2902].)
+(Added [Pub. L. 107–347, title I][/us/pl/107/347/tI], § 101(a), Dec. 17, 2002, [116 Stat. 2902][/us/stat/116/2902].)
 
  __References in Text__ 
 
     The E-Government Act of 2002, referred to in text, is [Pub. L. 107–347][/us/pl/107/347], Dec. 17, 2002, [116 Stat. 2899][/us/stat/116/2899]. Title II of the Act, including sections 204 and 207(d) of the Act, is set out as a note under [section 3501 of this title][/us/usc/t44/s3501]. For complete classification of this Act to the Code, see Tables.
 
-    The Government Paperwork Elimination Act, referred to in subsec. (d)(4), is title XVII of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–749][/us/stat/112/2681-749], which amended [section 3504 of this title][/us/usc/t44/s3504] and enacted provisions set out as a note under [section 3504 of this title][/us/usc/t44/s3504]. For complete classification of this Act to the Code, see Tables.
+    The Government Paperwork Elimination Act, referred to in subsec. (d)(4), is title XVII of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–749][/us/stat/112/2681-749], which amended [section 3504 of this title][/us/usc/t44/s3504] and enacted provisions set out as a note under [section 3504 of this title][/us/usc/t44/s3504]. For complete classification of this Act to the Code, see Tables.
 
     The Federal Information Security Management Act of 2002, referred to in subsec. (d)(5), probably means title III of [Pub. L. 107–347][/us/pl/107/347], Dec. 17, 2002, [116 Stat. 2946][/us/stat/116/2946], which is classified principally to subchapter III of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under [section 101 of this title][/us/usc/t44/s101] and Tables. Another Federal Information Security Management Act of 2002 is title X of [Pub. L. 107–296][/us/pl/107/296], Nov. 25, [116 Stat. 2259][/us/stat/116/2259]. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
 
@@ -160,12 +160,12 @@
 [/us/usc/t44/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3504
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t29/s794d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794d
-[/us/pl/107/347/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs101%2Fa
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2902
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/stat/116/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2899
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-749
 [/us/usc/t44/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3504
 [/us/usc/t44/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3504

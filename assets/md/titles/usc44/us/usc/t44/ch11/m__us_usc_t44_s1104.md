@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 118 ([Mar. 3, 1905, ch. 1483, § 1][/us/act/1905-03-03/ch1483/s1], [33 Stat. 1213][/us/stat/33/1213]).
+    Based on 44 U.S. Code, 1964 ed., § 118 ([Mar. 3, 1905, ch. 1483][/us/act/1905-03-03/ch1483], § 1, [33 Stat. 1213][/us/stat/33/1213]).
 
     The term “executive department, independent office, or establishment of the Government” is substituted for “executive department or other Government establishment” for uniformity.
 
@@ -34,7 +34,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1261
-[/us/act/1905-03-03/ch1483/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-03-03%2Fch1483%2Fs1
+[/us/act/1905-03-03/ch1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-03-03%2Fch1483
 [/us/stat/33/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F1213
 
 

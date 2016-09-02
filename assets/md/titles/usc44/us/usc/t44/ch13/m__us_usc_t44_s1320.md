@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 262 ([Mar. 3, 1903, ch. 1007, § 1][/us/act/1903-03-03/ch1007/s1], [32 Stat. 1146][/us/stat/32/1146]).
+    Based on 44 U.S. Code, 1964 ed., § 262 ([Mar. 3, 1903, ch. 1007][/us/act/1903-03-03/ch1007], § 1, [32 Stat. 1146][/us/stat/32/1146]).
 
  __Change of Name__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1269
-[/us/act/1903-03-03/ch1007/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-03-03%2Fch1007%2Fs1
+[/us/act/1903-03-03/ch1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-03-03%2Fch1007
 [/us/stat/32/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F1146
 [/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
 [/us/usc/t43/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31

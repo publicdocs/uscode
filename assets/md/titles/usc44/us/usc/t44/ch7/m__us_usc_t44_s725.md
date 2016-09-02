@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 153 ([Mar. 2, 1895, ch. 189, § 1][/us/act/1895-03-02/ch189/s1], [28 Stat. 958][/us/stat/28/958]).
+    Based on 44 U.S. Code, 1964 ed., § 153 ([Mar. 2, 1895, ch. 189][/us/act/1895-03-02/ch189], § 1, [28 Stat. 958][/us/stat/28/958]).
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t2/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs105
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1252
-[/us/act/1895-03-02/ch189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189%2Fs1
+[/us/act/1895-03-02/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189
 [/us/stat/28/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F958
 [/us/usc/t2/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs105
 [/us/usc/t2/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4303

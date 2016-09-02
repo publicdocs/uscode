@@ -43,11 +43,11 @@
 
     (e) For purposes of this section, the term “nautical products” includes all nautical charts, tide and tidal current tables, tidal current charts, coast pilots, water level products, and associated data bases which are created or published by the National Oceanic and Atmospheric Administration.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1266][/us/stat/82/1266]; [Pub. L. 99–272, title VI, § 6011(a)][/us/pl/99/272/s6011/a], Apr. 7, 1986, [100 Stat. 121][/us/stat/100/121]; [Pub. L. 105–362, title II, § 201(a)][/us/pl/105/362/s201/a], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282]; [Pub. L. 106–181, title VI, § 606(a)][/us/pl/106/181/s606/a]–(c), Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1266][/us/stat/82/1266]; [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6011(a), Apr. 7, 1986, [100 Stat. 121][/us/stat/100/121]; [Pub. L. 105–362, title II][/us/pl/105/362/tII], § 201(a), Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282]; [Pub. L. 106–181, title VI][/us/pl/106/181/tVI], § 606(a)–(c), Apr. 5, 2000, [114 Stat. 154][/us/stat/114/154].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 246 ([Jan. 12, 1895, ch. 23, § 76][/us/act/1895-01-12/ch23/s76], [28 Stat. 620][/us/stat/28/620]; [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], §§ 4, 10, [32 Stat. 826][/us/stat/32/826], 829; July 1, 1916 ch. 209, § 1, [39 Stat. 320][/us/stat/39/320]; [June 5, 1920, ch. 235, § 1][/us/act/1920-06-05/ch235/s1], [41 Stat. 929][/us/stat/41/929]; [Oct. 31, 1951, ch. 654, § 3(11)][/us/act/1951-10-31/ch654/s3/11], [65 Stat. 708][/us/stat/65/708]; [July 9, 1956, ch. 528][/us/act/1956-07-09/ch528], [70 Stat. 512][/us/stat/70/512]; Aug. 14, 1964, [Pub. L. 88–441][/us/pl/88/441], [78 Stat. 446][/us/stat/78/446]).
+    Based on 44 U.S. Code, 1964 ed., § 246 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 76, [28 Stat. 620][/us/stat/28/620]; [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], §§ 4, 10, [32 Stat. 826][/us/stat/32/826], 829; July 1, 1916 ch. 209, § 1, [39 Stat. 320][/us/stat/39/320]; [June 5, 1920, ch. 235][/us/act/1920-06-05/ch235], § 1, [41 Stat. 929][/us/stat/41/929]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 3(11), [65 Stat. 708][/us/stat/65/708]; [July 9, 1956, ch. 528][/us/act/1956-07-09/ch528], [70 Stat. 512][/us/stat/70/512]; Aug. 14, 1964, [Pub. L. 88–441][/us/pl/88/441], [78 Stat. 446][/us/stat/78/446]).
 
     The reference to the Environmental Science Service Administration is inserted on the authority of Reorganization Plan No. 2 of 1965.
 
@@ -57,21 +57,21 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–181, § 606(a)(1)][/us/pl/106/181/s606/a/1], struck out “and aeronautical” after “nautical” in section catchline.
+    2000—[Pub. L. 106–181][/us/pl/106/181], § 606(a)(1), struck out “and aeronautical” after “nautical” in section catchline.
 
-    Subsec. (a)(1), (2)(A). [Pub. L. 106–181, § 606(a)(2)][/us/pl/106/181/s606/a/2], struck out “and aeronautical” after “nautical” wherever appearing.
+    Subsec. (a)(1), (2)(A). [Pub. L. 106–181][/us/pl/106/181], § 606(a)(2), struck out “and aeronautical” after “nautical” wherever appearing.
 
-    Subsec. (a)(2)(B). [Pub. L. 106–181, § 606(a)(2)][/us/pl/106/181/s606/a/2], (b), struck out “or aeronautical” after “nautical” and “aviation and” after “impact on”.
+    Subsec. (a)(2)(B). [Pub. L. 106–181][/us/pl/106/181], § 606(a)(2), (b), struck out “or aeronautical” after “nautical” and “aviation and” after “impact on”.
 
-    Subsec. (a)(3), (4). [Pub. L. 106–181, § 606(a)(2)][/us/pl/106/181/s606/a/2], struck out “or aeronautical” after “nautical”.
+    Subsec. (a)(3), (4). [Pub. L. 106–181][/us/pl/106/181], § 606(a)(2), struck out “or aeronautical” after “nautical”.
 
-    Subsec. (b). [Pub. L. 106–181, § 606(a)(2)][/us/pl/106/181/s606/a/2], struck out “or aeronautical” after “nautical”.
+    Subsec. (b). [Pub. L. 106–181][/us/pl/106/181], § 606(a)(2), struck out “or aeronautical” after “nautical”.
 
-    Subsec. (c). [Pub. L. 106–181, § 606(a)(2)][/us/pl/106/181/s606/a/2], struck out “and aeronautical” after “nautical” in introductory provisions.
+    Subsec. (c). [Pub. L. 106–181][/us/pl/106/181], § 606(a)(2), struck out “and aeronautical” after “nautical” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 106–181, § 606(c)][/us/pl/106/181/s606/c], struck out “aeronautical and” after “publishing or distributing”.
+    Subsec. (d). [Pub. L. 106–181][/us/pl/106/181], § 606(c), struck out “aeronautical and” after “publishing or distributing”.
 
-    Subsec. (e). [Pub. L. 106–181, § 606(a)(2)][/us/pl/106/181/s606/a/2], struck out “and aeronautical” after “nautical” in two places.
+    Subsec. (e). [Pub. L. 106–181][/us/pl/106/181], § 606(a)(2), struck out “and aeronautical” after “nautical” in two places.
 
     1998—Subsec. (a)(2)(A). [Pub. L. 105–362][/us/pl/105/362] struck out at end “At the end of such period and every three years thereafter, the Secretary, after consultation with the Secretary of Transportation, shall report to the Congress on the effect of imposing or maintaining such increased prices, including any impact on aviation and marine safety.”
 
@@ -91,17 +91,17 @@
 
  __Sale of Aeronautical Charts: Disposition of Receipts Resulting From Price Increase__ 
 
-[Pub. L. 103–317, title II][/us/pl/103/317], Aug. 26, 1994, [108 Stat. 1741][/us/stat/108/1741], provided in part: 
+[Pub. L. 103–317, title II][/us/pl/103/317/tII], Aug. 26, 1994, [108 Stat. 1741][/us/stat/108/1741], provided in part: 
 
 > “That hereafter all receipts received from the sale of aeronautical charts that result from an increase in the price of individual charts above the level in effect for such charts on September 30, 1993, shall be deposited in this account \[National Oceanic and Atmospheric Administration and operations, research, and facilities\] as an offsetting collection and shall be available for obligation.”
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 103–121, title II][/us/pl/103/121], Oct. 27, 1993, [107 Stat. 1170][/us/stat/107/1170].
+    [Pub. L. 103–121, title II][/us/pl/103/121/tII], Oct. 27, 1993, [107 Stat. 1170][/us/stat/107/1170].
 
  __Price Freeze on Charts and Other Products of NOAA__ 
 
-[Pub. L. 102–567, title IV, § 405][/us/pl/102/567/s405], Oct. 29, 1992, [106 Stat. 4292][/us/stat/106/4292], provided that: 
+[Pub. L. 102–567, title IV][/us/pl/102/567/tIV], § 405, Oct. 29, 1992, [106 Stat. 4292][/us/stat/106/4292], provided that: 
 
 > “Notwithstanding [section 1307 of title 44][/us/usc/t44/s1307], United States Code, the price of nautical charts or other nautical products produced or published by the National Oceanic and Atmospheric Administration and sold after the date of the enactment of this Act \[Oct. 29, 1992\] shall not exceed the price of that type of chart or product on the date of enactment of this Act adjusted for inflation. This section shall not apply after September 30, 1994.”
 
@@ -114,34 +114,34 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1266
-[/us/pl/99/272/s6011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6011%2Fa
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F121
-[/us/pl/105/362/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs201%2Fa
+[/us/pl/105/362/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtII
 [/us/stat/112/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3282
-[/us/pl/106/181/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fa
+[/us/pl/106/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVI
 [/us/stat/114/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F154
-[/us/act/1895-01-12/ch23/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs76
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F620
 [/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
 [/us/stat/39/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F320
-[/us/act/1920-06-05/ch235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch235%2Fs1
+[/us/act/1920-06-05/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch235
 [/us/stat/41/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F929
-[/us/act/1951-10-31/ch654/s3/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs3%2F11
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F708
 [/us/act/1956-07-09/ch528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch528
 [/us/stat/70/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F512
 [/us/pl/88/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F441
 [/us/stat/78/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F446
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
-[/us/pl/106/181/s606/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fa%2F1
-[/us/pl/106/181/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fa%2F2
-[/us/pl/106/181/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fa%2F2
-[/us/pl/106/181/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fa%2F2
-[/us/pl/106/181/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fa%2F2
-[/us/pl/106/181/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fa%2F2
-[/us/pl/106/181/s606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fc
-[/us/pl/106/181/s606/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs606%2Fa%2F2
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
@@ -150,11 +150,11 @@
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/usc/t49/s44721/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44721%2Fc%2F3
-[/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
+[/us/pl/103/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtII
 [/us/stat/108/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1741
-[/us/pl/103/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121
+[/us/pl/103/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2FtII
 [/us/stat/107/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1170
-[/us/pl/102/567/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs405
+[/us/pl/102/567/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIV
 [/us/stat/106/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4292
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
 

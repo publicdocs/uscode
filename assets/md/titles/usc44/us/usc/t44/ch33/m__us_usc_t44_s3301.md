@@ -39,11 +39,11 @@
 
     The Archivist’s determination whether recorded information, regardless of whether it exists in physical, digital, or electronic form, is a record as defined in subsection (a) shall be binding on all Federal agencies.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1299][/us/stat/82/1299]; [Pub. L. 94–575, § 4(c)(2)][/us/pl/94/575/s4/c/2], Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727]; [Pub. L. 113–187, § 5(a)][/us/pl/113/187/s5/a], Nov. 26, 2014, [128 Stat. 2009][/us/stat/128/2009].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1299][/us/stat/82/1299]; [Pub. L. 94–575][/us/pl/94/575], § 4(c)(2), Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727]; [Pub. L. 113–187][/us/pl/113/187], § 5(a), Nov. 26, 2014, [128 Stat. 2009][/us/stat/128/2009].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 366 ([July 7, 1943, ch. 192, § 1][/us/act/1943-07-07/ch192/s1], [57 Stat. 380][/us/stat/57/380]).
+    Based on 44 U.S. Code, 1964 ed., § 366 ([July 7, 1943, ch. 192][/us/act/1943-07-07/ch192], § 1, [57 Stat. 380][/us/stat/57/380]).
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1299
-[/us/pl/94/575/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs4%2Fc%2F2
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/stat/90/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2727
-[/us/pl/113/187/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs5%2Fa
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2009
-[/us/act/1943-07-07/ch192/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192%2Fs1
+[/us/act/1943-07-07/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192
 [/us/stat/57/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F380
 [/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575

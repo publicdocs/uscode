@@ -29,11 +29,11 @@
 
         (2) The liability of such certifying officers or employees shall be enforced in the same manner and to the same extent as provided by law with respect to the enforcement of the liability of disbursing and other accountable officers. Such certifying officers and employees shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1240][/us/stat/82/1240]; [Pub. L. 92–310, title II, § 210(b)][/us/pl/92/310/s210/b], June 6, 1972, [86 Stat. 204][/us/stat/86/204]; [Pub. L. 93–459, § 1(a)][/us/pl/93/459/s1/a], Oct. 20, 1974, [88 Stat. 1384][/us/stat/88/1384]; [Pub. L. 95–473, § 2(a)(5)][/us/pl/95/473/s2/a/5], Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466]; [Pub. L. 97–258, § 3(m)(1)][/us/pl/97/258/s3/m/1], Sept. 13, 1982, [96 Stat. 1066][/us/stat/96/1066]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (c)(1), (i)(4), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], 2538.)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1240][/us/stat/82/1240]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 210(b), June 6, 1972, [86 Stat. 204][/us/stat/86/204]; [Pub. L. 93–459][/us/pl/93/459], § 1(a), Oct. 20, 1974, [88 Stat. 1384][/us/stat/88/1384]; [Pub. L. 95–473][/us/pl/95/473], § 2(a)(5), Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466]; [Pub. L. 97–258][/us/pl/97/258], § 3(m)(1), Sept. 13, 1982, [96 Stat. 1066][/us/stat/96/1066]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (c)(1), (i)(4), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], 2538.)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., §§ 52a, 63, 73 (part) ([June 25, 1910, ch. 384, § 1][/us/act/1910-06-25/ch384/s1], [36 Stat. 770][/us/stat/36/770]; [Feb. 20, 1923, ch. 98][/us/act/1923-02-20/ch98], [42 Stat. 1278][/us/stat/42/1278]; [Pub. L. 86–31][/us/pl/86/31], May 26, 1959, [73 Stat. 60][/us/stat/73/60]).
+    Based on 44 U.S. Code, 1964 ed., §§ 52a, 63, 73 (part) ([June 25, 1910, ch. 384][/us/act/1910-06-25/ch384], § 1, [36 Stat. 770][/us/stat/36/770]; [Feb. 20, 1923, ch. 98][/us/act/1923-02-20/ch98], [42 Stat. 1278][/us/stat/42/1278]; [Pub. L. 86–31][/us/pl/86/31], May 26, 1959, [73 Stat. 60][/us/stat/73/60]).
 
     The last paragraph of this section is from former section 73; the remainder of that section will be found in section 1702 of the revision.
 
@@ -41,17 +41,17 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
+    2014—Subsec. (a). [Pub. L. 113–235][/us/pl/113/235], § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
 
-    Subsec. (b)(1). [Pub. L. 113–235, § 1301(i)(4)(A)][/us/pl/113/235/s1301/i/4/A], substituted “the accounts of the disbursing officer” for “his accounts” and “the name of the disbursing officer” for “his name”.
+    Subsec. (b)(1). [Pub. L. 113–235][/us/pl/113/235], § 1301(i)(4)(A), substituted “the accounts of the disbursing officer” for “his accounts” and “the name of the disbursing officer” for “his name”.
 
-    [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
+    [Pub. L. 113–235][/us/pl/113/235], § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
 
-    Subsec. (b)(2). [Pub. L. 113–235, § 1301(i)(4)(B)][/us/pl/113/235/s1301/i/4/B], substituted “the estate of the disbursing officer” for “his estate”, “to the deputy disbursing officer” for “to him”, and “the service of the deputy disbursing officer” for “his service”.
+    Subsec. (b)(2). [Pub. L. 113–235][/us/pl/113/235], § 1301(i)(4)(B), substituted “the estate of the disbursing officer” for “his estate”, “to the deputy disbursing officer” for “to him”, and “the service of the deputy disbursing officer” for “his service”.
 
-    Subsec. (c)(1). [Pub. L. 113–235, § 1301(i)(4)(C)][/us/pl/113/235/s1301/i/4/C], substituted “by such officer or employee” for “by him”, “the discretion of the Comptroller General” for “his discretion”, and in two places “whenever the Comptroller General” for “whenever he”.
+    Subsec. (c)(1). [Pub. L. 113–235][/us/pl/113/235], § 1301(i)(4)(C), substituted “by such officer or employee” for “by him”, “the discretion of the Comptroller General” for “his discretion”, and in two places “whenever the Comptroller General” for “whenever he”.
 
-    [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
+    [Pub. L. 113–235][/us/pl/113/235], § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
 
     1982—Subsec. (c)(1). [Pub. L. 97–258][/us/pl/97/258] substituted “[section 3726 of title 31][/us/usc/t31/s3726]” for “[section 244 of title 31][/us/usc/t31/s244]”.
 
@@ -83,28 +83,28 @@
 [/us/usc/t31/s3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1240
-[/us/pl/92/310/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs210%2Fb
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F204
-[/us/pl/93/459/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F459%2Fs1%2Fa
+[/us/pl/93/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F459
 [/us/stat/88/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1384
-[/us/pl/95/473/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs2%2Fa%2F5
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
-[/us/pl/97/258/s3/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fm%2F1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1066
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1910-06-25/ch384/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch384%2Fs1
+[/us/act/1910-06-25/ch384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch384
 [/us/stat/36/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F770
 [/us/act/1923-02-20/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-02-20%2Fch98
 [/us/stat/42/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1278
 [/us/pl/86/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F31
 [/us/stat/73/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F60
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
-[/us/pl/113/235/s1301/i/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fi%2F4%2FA
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
-[/us/pl/113/235/s1301/i/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fi%2F4%2FB
-[/us/pl/113/235/s1301/i/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fi%2F4%2FC
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726
 [/us/usc/t31/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs244

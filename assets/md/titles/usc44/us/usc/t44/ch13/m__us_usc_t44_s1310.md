@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 213 (part) ([Jan. 12, 1895, ch. 23, § 89][/us/act/1895-01-12/ch23/s89], [28 Stat. 622][/us/stat/28/622]; Mar. 13, 1896, No. 23, [29 Stat. 466][/us/stat/29/466]; [Mar. 3, 1925, ch. 421, § 4][/us/act/1925-03-03/ch421/s4], [43 Stat. 1106][/us/stat/43/1106]; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, [54 Stat. 1234][/us/stat/54/1234]; Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]).
+    Based on 44 U.S. Code, 1964 ed., § 213 (part) ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 89, [28 Stat. 622][/us/stat/28/622]; Mar. 13, 1896, No. 23, [29 Stat. 466][/us/stat/29/466]; [Mar. 3, 1925, ch. 421][/us/act/1925-03-03/ch421], § 4, [43 Stat. 1106][/us/stat/43/1106]; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, [54 Stat. 1234][/us/stat/54/1234]; Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]).
 
     This section incorporates only parts of former section 213 relating to Coast and Geodetic Survey and Weather Bureau. The balance will be found in sections 1102, 1116, 1302, 1308, 1309, 1336 of the revision.
 
@@ -40,10 +40,10 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1267
-[/us/act/1895-01-12/ch23/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs89
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F622
 [/us/stat/29/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F466
-[/us/act/1925-03-03/ch421/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch421%2Fs4
+[/us/act/1925-03-03/ch421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch421
 [/us/stat/43/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1106
 [/us/stat/54/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1234
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318

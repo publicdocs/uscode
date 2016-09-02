@@ -19,7 +19,7 @@
 
     (b) The Committee may secure directly from any department or agency of the United States such information as the Committee may require to carry out the duties referred to under section 2703. Upon request of the Chairman of the Committee, the head of such department or agency shall furnish such information to the Committee.
 
-(Added [Pub. L. 101–509, title IV, § 1(d)(1)][/us/pl/101/509/s1/d/1], Nov. 5, 1990, [104 Stat. 1418][/us/stat/104/1418].)
+(Added [Pub. L. 101–509, title IV][/us/pl/101/509/tIV], § 1(d)(1), Nov. 5, 1990, [104 Stat. 1418][/us/stat/104/1418].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/101/509/s1/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs1%2Fd%2F1
+[/us/pl/101/509/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtIV
 [/us/stat/104/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1418
 
 

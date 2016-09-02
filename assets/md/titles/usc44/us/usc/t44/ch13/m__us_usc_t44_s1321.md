@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 265 (R.S. § 3686; [Jan. 12, 1895, ch. 23, § 78][/us/act/1895-01-12/ch23/s78], [28 Stat. 621][/us/stat/28/621]).
+    Based on 44 U.S. Code, 1964 ed., § 265 (R.S. § 3686; [Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 78, [28 Stat. 621][/us/stat/28/621]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1269
-[/us/act/1895-01-12/ch23/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs78
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F621
 
 

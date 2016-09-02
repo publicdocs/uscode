@@ -49,25 +49,25 @@
 
     (d) The Archivist shall promulgate regulations requiring all Federal agencies to transfer all digital or electronic records to the National Archives of the United States in digital or electronic form to the greatest extent possible.
 
-(Added [Pub. L. 94–575, § 2(a)(2)][/us/pl/94/575/s2/a/2], Oct. 21, 1976, [90 Stat. 2725][/us/stat/90/2725]; amended [Pub. L. 96–511, § 2(c)(1)][/us/pl/96/511/s2/c/1], Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825]; [Pub. L. 98–497, title I, § 107(b)(16)][/us/pl/98/497/s107/b/16], Oct. 19, 1984, [98 Stat. 2288][/us/stat/98/2288]; [Pub. L. 113–187][/us/pl/113/187], §§ 8(7), 9(c), Nov. 26, 2014, [128 Stat. 2012][/us/stat/128/2012], 2013.)
+(Added [Pub. L. 94–575][/us/pl/94/575], § 2(a)(2), Oct. 21, 1976, [90 Stat. 2725][/us/stat/90/2725]; amended [Pub. L. 96–511][/us/pl/96/511], § 2(c)(1), Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(16), Oct. 19, 1984, [98 Stat. 2288][/us/stat/98/2288]; [Pub. L. 113–187][/us/pl/113/187], §§ 8(7), 9(c), Nov. 26, 2014, [128 Stat. 2012][/us/stat/128/2012], 2013.)
 
  __Prior Provisions__ 
 
-    A prior section 2904, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1296][/us/stat/82/1296], contained provisions similar to those comprising pars. (1) and (2) of this section, prior to repeal by [Pub. L. 94–575, § 2(a)(2)][/us/pl/94/575/s2/a/2].
+    A prior section 2904, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1296][/us/stat/82/1296], contained provisions similar to those comprising pars. (1) and (2) of this section, prior to repeal by [Pub. L. 94–575][/us/pl/94/575], § 2(a)(2).
 
-    Provisions similar to those comprising pars. (8) to (10) of this section were contained in section 2902, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1296][/us/stat/82/1296], prior to repeal by [Pub. L. 94–575, § 2(a)(1)][/us/pl/94/575/s2/a/1].
+    Provisions similar to those comprising pars. (8) to (10) of this section were contained in section 2902, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1296][/us/stat/82/1296], prior to repeal by [Pub. L. 94–575][/us/pl/94/575], § 2(a)(1).
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–187, § 9(c)(1)][/us/pl/113/187/s9/c/1], substituted “The Archivist” for “The Administrator”.
+    2014—Subsec. (b). [Pub. L. 113–187][/us/pl/113/187], § 9(c)(1), substituted “The Archivist” for “The Administrator”.
 
-    Subsec. (c). [Pub. L. 113–187, § 9(c)(2)(A)][/us/pl/113/187/s9/c/2/A], substituted “the responsibilities under subsections (a) and (b), the Archivist shall have” for “their responsibilities under subsection (a) or (b), respectively, the Archivist and the Administrator shall each have” in introductory provisions.
+    Subsec. (c). [Pub. L. 113–187][/us/pl/113/187], § 9(c)(2)(A), substituted “the responsibilities under subsections (a) and (b), the Archivist shall have” for “their responsibilities under subsection (a) or (b), respectively, the Archivist and the Administrator shall each have” in introductory provisions.
 
-    Subsec. (c)(6). [Pub. L. 113–187, § 8(7)][/us/pl/113/187/s8/7], substituted “the Archivist’s” for “his”.
+    Subsec. (c)(6). [Pub. L. 113–187][/us/pl/113/187], § 8(7), substituted “the Archivist’s” for “his”.
 
-    Subsec. (c)(8). [Pub. L. 113–187, § 9(c)(2)(B)][/us/pl/113/187/s9/c/2/B], struck out “or the Administrator (as the case may be)” after “Archivist”.
+    Subsec. (c)(8). [Pub. L. 113–187][/us/pl/113/187], § 9(c)(2)(B), struck out “or the Administrator (as the case may be)” after “Archivist”.
 
-    Subsec. (d). [Pub. L. 113–187, § 9(c)(3)][/us/pl/113/187/s9/c/3], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In addition, the Administrator, in carrying out subsection (b), shall have the responsibility to promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for records management.”
+    Subsec. (d). [Pub. L. 113–187][/us/pl/113/187], § 9(c)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In addition, the Administrator, in carrying out subsection (b), shall have the responsibility to promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for records management.”
 
     1984—[Pub. L. 98–497][/us/pl/98/497] substituted “for records management” for “of Administrator” in section catchline.
 
@@ -105,7 +105,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–511, § 5][/us/pl/96/511/s5], Dec. 11, 1980, [94 Stat. 2826][/us/stat/94/2826], provided: 
+[Pub. L. 96–511][/us/pl/96/511], § 5, Dec. 11, 1980, [94 Stat. 2826][/us/stat/94/2826], provided: 
 
 > “This Act \[enacting chapter 35 of this title, amending this section, [section 2905 of this title][/us/usc/t44/s2905], [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, [section 1221–3 of Title 20][/us/usc/t20/s1221–3], Education, [section 1211 of Title 30][/us/usc/t30/s1211], Mineral Lands and Mining, and [section 292h of Title 42][/us/usc/t42/s292h], The Public Health and Welfare, and enacting provisions set out as notes under sections 101 and 3503 of this title\] shall take effect on April 1, 1981.”
 
@@ -120,25 +120,25 @@
 ----------
 ----------
 
-[/us/pl/94/575/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F2
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/stat/90/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2725
-[/us/pl/96/511/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs2%2Fc%2F1
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2825
-[/us/pl/98/497/s107/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F16
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2288
 [/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2012
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1296
-[/us/pl/94/575/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F2
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1296
-[/us/pl/94/575/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F1
-[/us/pl/113/187/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fc%2F1
-[/us/pl/113/187/s9/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fc%2F2%2FA
-[/us/pl/113/187/s8/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F7
-[/us/pl/113/187/s9/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fc%2F2%2FB
-[/us/pl/113/187/s9/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fc%2F3
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
@@ -157,7 +157,7 @@
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301
 [/us/usc/t44/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2102
-[/us/pl/96/511/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs5
+[/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2826
 [/us/usc/t44/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2905
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315

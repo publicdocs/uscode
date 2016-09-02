@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 219a ([Mar. 3, 1905, ch. 1484, § 1][/us/act/1905-03-03/ch1484/s1], [33 Stat. 1249][/us/stat/33/1249]).
+    Based on 44 U.S. Code, 1964 ed., § 219a ([Mar. 3, 1905, ch. 1484][/us/act/1905-03-03/ch1484], § 1, [33 Stat. 1249][/us/stat/33/1249]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1264
-[/us/act/1905-03-03/ch1484/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-03-03%2Fch1484%2Fs1
+[/us/act/1905-03-03/ch1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-03-03%2Fch1484
 [/us/stat/33/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F1249
 
 

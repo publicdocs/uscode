@@ -17,11 +17,11 @@
 
     Records pertaining to claims and demands by or against the Government of the United States or to accounts in which the Government of the United States is concerned, either as debtor or creditor, may not be disposed of by the head of an agency under authorization granted under this chapter, until the claims, demands, and accounts have been settled and adjusted in the Government Accountability Office, except upon the written approval of the Comptroller General of the United States.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1301][/us/stat/82/1301]; [Pub. L. 91–287, § 2(b)][/us/pl/91/287/s2/b], June 23, 1970, [84 Stat. 321][/us/stat/84/321]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1301][/us/stat/82/1301]; [Pub. L. 91–287][/us/pl/91/287], § 2(b), June 23, 1970, [84 Stat. 321][/us/stat/84/321]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 374 ([July 7, 1943, ch. 192, § 9][/us/act/1943-07-07/ch192/s9], [57 Stat. 382][/us/stat/57/382]).
+    Based on 44 U.S. Code, 1964 ed., § 374 ([July 7, 1943, ch. 192][/us/act/1943-07-07/ch192], § 9, [57 Stat. 382][/us/stat/57/382]).
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1301
-[/us/pl/91/287/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F287%2Fs2%2Fb
+[/us/pl/91/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F287
 [/us/stat/84/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F321
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/act/1943-07-07/ch192/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192%2Fs9
+[/us/act/1943-07-07/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192
 [/us/stat/57/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F382
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/91/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F287

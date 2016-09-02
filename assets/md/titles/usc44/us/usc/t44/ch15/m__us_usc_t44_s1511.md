@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 312 ([July 26, 1935, ch. 417, § 12][/us/act/1935-07-26/ch417/s12], [49 Stat. 503][/us/stat/49/503]).
+    Based on 44 U.S. Code, 1964 ed., § 312 ([July 26, 1935, ch. 417][/us/act/1935-07-26/ch417], § 12, [49 Stat. 503][/us/stat/49/503]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1278
-[/us/act/1935-07-26/ch417/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417%2Fs12
+[/us/act/1935-07-26/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-26%2Fch417
 [/us/stat/49/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F503
 
 

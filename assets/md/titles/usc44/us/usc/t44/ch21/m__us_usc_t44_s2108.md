@@ -19,15 +19,15 @@
 
     (b) With regard to the census and survey rec­ords of the Bureau of the Census containing data identifying individuals enumerated in population censuses, any release pursuant to this section of such identifying information contained in such records shall be made by the Archivist pursuant to the specifications and agreements set forth in the exchange of correspondence on or about the date of October 10, 1952, between the Director of the Bureau of the Census and the Archivist of the United States, together with all amendments thereto, now or hereafter entered into between the Director of the Bureau of the Census and the Archivist of the United States. Such amendments, if any, shall be published in the Register.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1288][/us/stat/82/1288], § 2104; [Pub. L. 95–416, § 1(b)][/us/pl/95/416/s1/b], Oct. 5, 1978, [92 Stat. 915][/us/stat/92/915]; renumbered § 2108 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(2), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2285.)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1288][/us/stat/82/1288], § 2104; [Pub. L. 95–416][/us/pl/95/416], § 1(b), Oct. 5, 1978, [92 Stat. 915][/us/stat/92/915]; renumbered § 2108 and amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], §§ 102(a)(1), 107(a)(2), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2285.)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 397(b) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 507, as added [Sept. 5, 1950, ch. 849, § 6(d)][/us/act/1950-09-05/ch849/s6/d], [64 Stat. 583][/us/stat/64/583]).
+    Based on 44 U.S. Code, 1964 ed., § 397(b) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 507, as added [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(d), [64 Stat. 583][/us/stat/64/583]).
 
  __References in Text__ 
 
-    Section 3 of the National Archives Act, approved June 19, 1934, referred to in subsec. (a), was classified to section 300c of former Title 44, Public Printing and Documents, and was repealed by [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title VI, § 602(a)(32), renumbered and added [Sept. 5, 1950, ch. 849, § 7(d)][/us/act/1950-09-05/ch849/s7/d], [64 Stat. 590][/us/stat/64/590].
+    Section 3 of the National Archives Act, approved June 19, 1934, referred to in subsec. (a), was classified to section 300c of former Title 44, Public Printing and Documents, and was repealed by [act June 30, 1949, ch. 288, title VI][/us/act/1949-06-30/ch288/tVI], § 602(a)(32), renumbered and added [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 7(d), [64 Stat. 590][/us/stat/64/590].
 
  __Prior Provisions__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–497, § 107(a)(2)][/us/pl/98/497/s107/a/2], substituted “the Archivist and to the employees of the National Archives and Records Administration” for “the Administrator, the Archivist of the United States, and to the employees of the General Services Administration”, struck out “and in consultation with the Archivist of the United States” before “impose such restrictions” in third sentence, struck out “the Archivist and” after “having consulted with” in fifth sentence, substituted “Archivist” for “Administrator of General Services” wherever appearing, and substituted “Archivist” for “Administrator” wherever appearing.
+    1984—Subsec. (a). [Pub. L. 98–497][/us/pl/98/497], § 107(a)(2), substituted “the Archivist and to the employees of the National Archives and Records Administration” for “the Administrator, the Archivist of the United States, and to the employees of the General Services Administration”, struck out “and in consultation with the Archivist of the United States” before “impose such restrictions” in third sentence, struck out “the Archivist and” after “having consulted with” in fifth sentence, substituted “Archivist” for “Administrator of General Services” wherever appearing, and substituted “Archivist” for “Administrator” wherever appearing.
 
-    Subsec. (b). [Pub. L. 98–497, § 107(a)(2)(D)][/us/pl/98/497/s107/a/2/D], substituted “Archivist” for “Administrator of General Services”.
+    Subsec. (b). [Pub. L. 98–497][/us/pl/98/497], § 107(a)(2)(D), substituted “Archivist” for “Administrator of General Services”.
 
     1978—[Pub. L. 95–416][/us/pl/95/416] designated existing provisions as subsec. (a), inserted provisions permitting the Administrator to relax, remove, or impose restrictions in the public interest of records of agencies which have been terminated and requiring the Administrator with regard to duration of restrictions to consult with the Archivist and the head of the transferring Federal agency or his successor in function, and substituted “thirty years” for “fifty years”, and added subsec. (b).
 
@@ -47,7 +47,7 @@
 
  __Procedures To Prevent Unauthorized Removal of Classified Records From National Archives__ 
 
-[Pub. L. 113–187, § 6][/us/pl/113/187/s6], Nov. 26, 2014, [128 Stat. 2010][/us/stat/128/2010], provided that:
+[Pub. L. 113–187][/us/pl/113/187], § 6, Nov. 26, 2014, [128 Stat. 2010][/us/stat/128/2010], provided that:
 
 >     “(a)  __Classified Records__  __.—__ 
 
@@ -94,24 +94,24 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1288
-[/us/pl/95/416/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F416%2Fs1%2Fb
+[/us/pl/95/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F416
 [/us/stat/92/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F915
-[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2280
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
-[/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs7%2Fd
+[/us/act/1949-06-30/ch288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288%2FtVI
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F590
 [/us/usc/t44/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2112
-[/us/pl/98/497/s107/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F2
-[/us/pl/98/497/s107/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F2%2FD
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
+[/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/95/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F416
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301
 [/us/usc/t44/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2102
-[/us/pl/113/187/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs6
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2010
 [/us/usc/t44/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3301
 

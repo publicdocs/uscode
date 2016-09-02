@@ -21,15 +21,15 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 82 (R.S. § 501; [Mar. 1, 1907, ch. 2284, § 4][/us/act/1907-03-01/ch2284/s4], [34 Stat. 1014][/us/stat/34/1014]; Aug. 9, 1962, [Pub. L. 87–579, § 2][/us/pl/87/579/s2], [76 Stat. 353][/us/stat/76/353]).
+    Based on 44 U.S. Code, 1964 ed., § 82 (R.S. § 501; [Mar. 1, 1907, ch. 2284][/us/act/1907-03-01/ch2284], § 4, [34 Stat. 1014][/us/stat/34/1014]; Aug. 9, 1962, [Pub. L. 87–579][/us/pl/87/579], § 2, [76 Stat. 353][/us/stat/76/353]).
 
  __Transfer of Functions__ 
 
-    Office of Commissioner of District of Columbia, as established under Reorg. Plan No. 3 of 1967, eff. Nov. 3, 1967 (in part), 32 F.R. 11669, [81 Stat. 948][/us/stat/81/948], abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421].
+    Office of Commissioner of District of Columbia, as established under Reorg. Plan No. 3 of 1967, eff. Nov. 3, 1967 (in part), 32 F.R. 11669, [81 Stat. 948][/us/stat/81/948], abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421].
 
  __Northern Marianas College as Depository__ 
 
-[Pub. L. 101–219, title II, § 202][/us/pl/101/219/s202], Dec. 12, 1989, [103 Stat. 1874][/us/stat/103/1874], provided that: 
+[Pub. L. 101–219, title II][/us/pl/101/219/tII], § 202, Dec. 12, 1989, [103 Stat. 1874][/us/stat/103/1874], provided that: 
 
 > “The Northern Marianas College is hereby constituted a depository to receive Government publications, and the Superintendent of Documents shall supply to the Northern Marianas College one copy of each such publication in the same form as supplied to other designated depositories.”
 
@@ -48,15 +48,15 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1284
-[/us/act/1907-03-01/ch2284/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-01%2Fch2284%2Fs4
+[/us/act/1907-03-01/ch2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-01%2Fch2284
 [/us/stat/34/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1014
-[/us/pl/87/579/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579%2Fs2
+[/us/pl/87/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579
 [/us/stat/76/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F353
 [/us/stat/81/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F948
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
-[/us/pl/101/219/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2Fs202
+[/us/pl/101/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F219%2FtII
 [/us/stat/103/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1874
 [/us/act/1943-09-28/ch243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-09-28%2Fch243
 [/us/stat/57/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F568

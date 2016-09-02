@@ -29,7 +29,7 @@
 
     (6) recognize that the selection of specific technical hardware and software information security solutions should be left to individual agencies from among commercially developed products.
 
-(Added [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073].)
+(Added [Pub. L. 113–283][/us/pl/113/283], § 2(a), Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073].)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 
  __Cybersecurity Improvements to Agency Information Systems__ 
 
-[Pub. L. 114–4, title V, § 547][/us/pl/114/4/s547], Mar. 4, 2015, [129 Stat. 69][/us/stat/129/69], provided that:
+[Pub. L. 114–4, title V][/us/pl/114/4/tV], § 547, Mar. 4, 2015, [129 Stat. 69][/us/stat/129/69], provided that:
 
 >     “(a) Of the amounts made available by this Act \[[Pub. L. 114–4][/us/pl/114/4], see Tables for classification\] for ‘National Protection and Programs Directorate, Infrastructure Protection and Information Security’, $140,525,000 for the Federal Network Security program, project, and activity shall be used to deploy on Federal systems technology to improve the information security of agency information systems covered by \[former\] [section 3543(a) of title 44][/us/usc/t44/s3543/a], United States Code \[see now [44 U.S.C. 3553][/us/usc/t44/s3553]\]: Provided, That funds made available under this section shall be used to assist and support Government-wide and agency-specific efforts to provide adequate, risk-based, and cost-effective cybersecurity to address escalating and rapidly evolving threats to information security, including the acquisition and operation of a continuous monitoring and diagnostics program, in collaboration with departments and agencies, that includes equipment, software, and Department of Homeland Security supplied services: Provided further, That continuous monitoring and diagnostics software procured by the funds made available by this section shall not transmit to the Department of Homeland Security any personally identifiable information or content of network communications of other agencies’ users: Provided further, That such software shall be installed, maintained, and operated in accordance with all applicable privacy laws and agency-specific policies regarding network content.
 
@@ -51,9 +51,9 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–76, div. F, title V, § 554][/us/pl/113/76/s554], Jan. 17, 2014, [128 Stat. 278][/us/stat/128/278].
+    [Pub. L. 113–76, div. F, title V][/us/pl/113/76/dF/tV], § 554, Jan. 17, 2014, [128 Stat. 278][/us/stat/128/278].
 
-    [Pub. L. 113–6, div. D, title V, § 558][/us/pl/113/6/s558], Mar. 26, 2013, [127 Stat. 377][/us/stat/127/377].
+    [Pub. L. 113–6, div. D, title V][/us/pl/113/6/dD/tV], § 558, Mar. 26, 2013, [127 Stat. 377][/us/stat/127/377].
 
 ----------
 
@@ -62,19 +62,19 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
-[/us/pl/114/4/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs547
+[/us/pl/114/4/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2FtV
 [/us/stat/129/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F69
 [/us/pl/114/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4
 [/us/usc/t44/s3543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3543%2Fa
 [/us/usc/t44/s3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3553
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t44/s3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3606
-[/us/pl/113/76/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs554
+[/us/pl/113/76/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdF%2FtV
 [/us/stat/128/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F278
-[/us/pl/113/6/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs558
+[/us/pl/113/6/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdD%2FtV
 [/us/stat/127/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F377
 
 

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 254 ([Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 613][/us/stat/28/613]; May 13, 1902, No. 20, [32 Stat. 740][/us/stat/32/740]; [July 1, 1902, ch. 1368][/us/act/1902-07-01/ch1368], [32 Stat. 678][/us/stat/32/678]).
+    Based on 44 U.S. Code, 1964 ed., § 254 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 613][/us/stat/28/613]; May 13, 1902, No. 20, [32 Stat. 740][/us/stat/32/740]; [July 1, 1902, ch. 1368][/us/act/1902-07-01/ch1368], [32 Stat. 678][/us/stat/32/678]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1267
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F613
 [/us/stat/32/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F740
 [/us/act/1902-07-01/ch1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-07-01%2Fch1368

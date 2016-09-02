@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 379 ([July 7, 1943, ch. 192, § 14][/us/act/1943-07-07/ch192/s14], [57 Stat. 383][/us/stat/57/383]).
+    Based on 44 U.S. Code, 1964 ed., § 379 ([July 7, 1943, ch. 192][/us/act/1943-07-07/ch192], § 14, [57 Stat. 383][/us/stat/57/383]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1302
-[/us/act/1943-07-07/ch192/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192%2Fs14
+[/us/act/1943-07-07/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-07%2Fch192
 [/us/stat/57/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F383
 
 

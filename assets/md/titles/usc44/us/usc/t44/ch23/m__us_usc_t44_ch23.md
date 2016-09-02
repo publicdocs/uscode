@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–497, title II, § 202(c)][/us/pl/98/497/s202/c], Oct. 19, 1984, [98 Stat. 2294][/us/stat/98/2294], amended item 2302 generally.
+    1984—[Pub. L. 98–497, title II][/us/pl/98/497/tII], § 202(c), Oct. 19, 1984, [98 Stat. 2294][/us/stat/98/2294], amended item 2302 generally.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/98/497/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs202%2Fc
+[/us/pl/98/497/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtII
 [/us/stat/98/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2294
 
 

@@ -17,11 +17,11 @@
 
     There shall be one document room of the Senate and one of the House of Representatives, to be designated, respectively, the “Senate and House document room.” Each shall be in charge of a superintendent, who shall be appointed by the Secretary of the Senate and the Clerk of the House, respectively, together with the necessary assistants. The Senate document room shall be under the jurisdiction of the Secretary of the Senate.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1254][/us/stat/82/1254]; [Pub. L. 104–186, title II, § 223(5)][/us/pl/104/186/s223/5], Aug. 20, 1996, [110 Stat. 1751][/us/stat/110/1751].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1254][/us/stat/82/1254]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 223(5), Aug. 20, 1996, [110 Stat. 1751][/us/stat/110/1751].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 165 ([Jan. 12, 1895, ch. 23, § 60][/us/act/1895-01-12/ch23/s60], [28 Stat. 610][/us/stat/28/610]; [Mar. 3, 1901, ch. 830, § 1][/us/act/1901-03-03/ch830/s1], [31 Stat. 962][/us/stat/31/962]).
+    Based on 44 U.S. Code, 1964 ed., § 165 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 60, [28 Stat. 610][/us/stat/28/610]; [Mar. 3, 1901, ch. 830][/us/act/1901-03-03/ch830], § 1, [31 Stat. 962][/us/stat/31/962]).
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1254
-[/us/pl/104/186/s223/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs223%2F5
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1751
-[/us/act/1895-01-12/ch23/s60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs60
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F610
-[/us/act/1901-03-03/ch830/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch830%2Fs1
+[/us/act/1901-03-03/ch830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch830
 [/us/stat/31/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F962
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 

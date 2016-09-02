@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 261 ([Jan. 12, 1895, ch. 23, § 79][/us/act/1895-01-12/ch23/s79], [28 Stat. 621][/us/stat/28/621]; [June 7, 1924, ch. 303][/us/act/1924-06-07/ch303], [43 Stat. 592][/us/stat/43/592]).
+    Based on 44 U.S. Code, 1964 ed., § 261 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 79, [28 Stat. 621][/us/stat/28/621]; [June 7, 1924, ch. 303][/us/act/1924-06-07/ch303], [43 Stat. 592][/us/stat/43/592]).
 
  __Change of Name__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1269
-[/us/act/1895-01-12/ch23/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs79
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F621
 [/us/act/1924-06-07/ch303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch303
 [/us/stat/43/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F592

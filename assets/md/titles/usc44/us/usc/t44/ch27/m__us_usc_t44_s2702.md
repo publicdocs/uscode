@@ -65,7 +65,7 @@
 
         (2) Seven members of the Committee shall constitute a quorum, but a lesser number may hold hearings.
 
-(Added [Pub. L. 101–509, title IV, § 1(d)(1)][/us/pl/101/509/s1/d/1], Nov. 5, 1990, [104 Stat. 1417][/us/stat/104/1417].)
+(Added [Pub. L. 101–509, title IV][/us/pl/101/509/tIV], § 1(d)(1), Nov. 5, 1990, [104 Stat. 1417][/us/stat/104/1417].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/101/509/s1/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs1%2Fd%2F1
+[/us/pl/101/509/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtIV
 [/us/stat/104/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1417
 
 

@@ -17,11 +17,11 @@
 
     The Joint Committee on Printing shall fix upon standards of paper for the different descriptions of public printing and binding, and the Director of the Government Publishing Office, under their direction, shall advertise in six newspapers or trade journals, published in different cities, for sealed proposals to furnish the Government with paper, as specified in the schedule to be furnished applicants by the Director of the Government Publishing Office, setting forth in detail the quality and quantities required for the public printing. The Director of the Government Publishing Office shall furnish samples of the standard of papers fixed upon to applicants who desire to bid.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1244][/us/stat/82/1244]; [Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1244][/us/stat/82/1244]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 5 ([Jan. 12, 1895, ch. 23, § 3][/us/act/1895-01-12/ch23/s3], [28 Stat. 601][/us/stat/28/601]; [Mar. 3, 1925, ch. 421, § 1][/us/act/1925-03-03/ch421/s1], [43 Stat. 1105][/us/stat/43/1105]).
+    Based on 44 U.S. Code, 1964 ed., § 5 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 3, [28 Stat. 601][/us/stat/28/601]; [Mar. 3, 1925, ch. 421][/us/act/1925-03-03/ch421], § 1, [43 Stat. 1105][/us/stat/43/1105]).
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __National Policy on Permanent Papers__ 
 
-[Pub. L. 101–423][/us/pl/101/423], Oct. 12, 1990, [104 Stat. 912][/us/stat/104/912], as amended by [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
+[Pub. L. 101–423][/us/pl/101/423], Oct. 12, 1990, [104 Stat. 912][/us/stat/104/912], as amended by [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), (d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “Whereas it is now widely recognized and scientifically demonstrated that the acidic papers commonly used for more than a century in documents, books, and other publications are self-destructing and will continue to self destruct;
 
@@ -74,16 +74,16 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1244
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/act/1895-01-12/ch23/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs3
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F601
-[/us/act/1925-03-03/ch421/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch421%2Fs1
+[/us/act/1925-03-03/ch421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch421
 [/us/stat/43/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1105
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/101/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F423
 [/us/stat/104/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F912
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 
 

@@ -43,7 +43,7 @@
 
         The term “executive agency” has the meaning given that term in [section 105 of title 5][/us/usc/t5/s105].
 
-(Added [Pub. L. 113–187, § 10(a)][/us/pl/113/187/s10/a], Nov. 26, 2014, [128 Stat. 2014][/us/stat/128/2014].)
+(Added [Pub. L. 113–187][/us/pl/113/187], § 10(a), Nov. 26, 2014, [128 Stat. 2014][/us/stat/128/2014].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/113/187/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs10%2Fa
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2014
 
 

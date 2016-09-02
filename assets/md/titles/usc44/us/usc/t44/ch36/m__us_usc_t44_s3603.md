@@ -77,13 +77,13 @@
 
         (7) Work with the Archivist of the United States to assess how the Federal Records Act can be addressed effectively by Federal information resources management activities.
 
-(Added [Pub. L. 107–347, title I, § 101(a)][/us/pl/107/347/s101/a], Dec. 17, 2002, [116 Stat. 2905][/us/stat/116/2905].)
+(Added [Pub. L. 107–347, title I][/us/pl/107/347/tI], § 101(a), Dec. 17, 2002, [116 Stat. 2905][/us/stat/116/2905].)
 
  __References in Text__ 
 
     The E-Government Act of 2002, referred to in subsec. (f)(4), is [Pub. L. 107–347][/us/pl/107/347], Dec. 17, 2002, [116 Stat. 2899][/us/stat/116/2899]. Title II of the Act, including section 207(d) of the Act, is set out as a note under [section 3501 of this title][/us/usc/t44/s3501]. For complete classification of this Act to the Code, see Tables.
 
-    No act with the name the “Federal Records Act”, referred to in subsec. (f)(7), has been enacted. The Federal Records Act of 1950, which has a similar name, was title V of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], as added [Sept. 5, 1950, ch. 849, § 6(d)][/us/act/1950-09-05/ch849/s6/d], [64 Stat. 583][/us/stat/64/583], which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238], the first section of which enacted this title. For disposition of sections of former Title 44, see Table at the beginning of this title. Title V of act June 30, 1949, was repealed by [Pub. L. 107–217, § 4][/us/pl/107/217/s4], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303].
+    No act with the name the “Federal Records Act”, referred to in subsec. (f)(7), has been enacted. The Federal Records Act of 1950, which has a similar name, was title V of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], as added [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(d), [64 Stat. 583][/us/stat/64/583], which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238], the first section of which enacted this title. For disposition of sections of former Title 44, see Table at the beginning of this title. Title V of act June 30, 1949, was repealed by [Pub. L. 107–217][/us/pl/107/217], § 4, Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303].
 
 ----------
 
@@ -95,17 +95,17 @@
 [/us/usc/t31/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901%2Fb
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
-[/us/pl/107/347/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs101%2Fa
+[/us/pl/107/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtI
 [/us/stat/116/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2905
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/stat/116/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2899
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1238
-[/us/pl/107/217/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs4
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

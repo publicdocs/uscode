@@ -25,11 +25,11 @@
 
     The “usual number” of memorial addresses may not be printed.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1251][/us/stat/82/1251]; [Pub. L. 97–51, § 101(c)][/us/pl/97/51/s101/c], Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1251][/us/stat/82/1251]; [Pub. L. 97–51][/us/pl/97/51], § 101(c), Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964, ed., § 151 ([Aug. 23, 1894, ch. 307][/us/act/1894-08-23/ch307], [28 Stat. 447][/us/stat/28/447]; [Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 616][/us/stat/28/616]; [June 20, 1936, ch. 630][/us/act/1936-06-20/ch630], title I, § 1, [49 Stat. 1545][/us/stat/49/1545]).
+    Based on 44 U.S. Code, 1964, ed., § 151 ([Aug. 23, 1894, ch. 307][/us/act/1894-08-23/ch307], [28 Stat. 447][/us/stat/28/447]; [Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 616][/us/stat/28/616]; [June 20, 1936, ch. 630][/us/act/1936-06-20/ch630], title I, § 1, [49 Stat. 1545][/us/stat/49/1545]).
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Restriction on Number of Bound Eulogies__ 
 
-[Pub. L. 94–59, title VIII][/us/pl/94/59], July 25, 1975, [89 Stat. 296][/us/stat/89/296], provided that: 
+[Pub. L. 94–59, title VIII][/us/pl/94/59/tVIII], July 25, 1975, [89 Stat. 296][/us/stat/89/296], provided that: 
 
 > “Hereafter, appropriations for authorized printing and binding for Congress shall not be available under the authority of [section 723 of title 44][/us/usc/t44/s723] of the United States Code for the printing, publication, and distribution of more than fifty bound eulogies to be delivered to the family of the deceased, and in the case of a deceased Senator or deceased Representative (including Delegates to Congress and the Resident Commissioner from Puerto Rico), there shall be furnished to his successor in office two hundred and fifty copies.”
 
@@ -54,18 +54,18 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1251
-[/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F959
 [/us/act/1894-08-23/ch307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-23%2Fch307
 [/us/stat/28/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F447
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F616
 [/us/act/1936-06-20/ch630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch630
 [/us/stat/49/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1545
 [/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc
 [/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
-[/us/pl/94/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59
+[/us/pl/94/59/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtVIII
 [/us/stat/89/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F296
 [/us/usc/t44/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs723
 

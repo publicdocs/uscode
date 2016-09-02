@@ -31,11 +31,11 @@
 
     The remaining number of the Journals of the Senate and House of Representatives, consisting of twenty-five copies, shall be furnished to the Secretary of the Senate and the Clerk of the House of Representatives, respectively, as the necessities of their respective offices require, as rapidly as signatures are completed for distribution.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1249][/us/stat/82/1249]; [Pub. L. 97–164, title I, § 158][/us/pl/97/164/s158], Apr. 2, 1982, [96 Stat. 47][/us/stat/96/47].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1249][/us/stat/82/1249]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 158, Apr. 2, 1982, [96 Stat. 47][/us/stat/96/47].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 147 ([Jan. 12, 1895, ch. 23, § 57][/us/act/1895-01-12/ch23/s57], [28 Stat. 609][/us/stat/28/609]; Mar. 2, 1901, No. 16, §§ 1, 2, [31 Stat. 1464][/us/stat/31/1464]).
+    Based on 44 U.S. Code, 1964 ed., § 147 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 57, [28 Stat. 609][/us/stat/28/609]; Mar. 2, 1901, No. 16, §§ 1, 2, [31 Stat. 1464][/us/stat/31/1464]).
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1249
-[/us/pl/97/164/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs158
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F47
-[/us/act/1895-01-12/ch23/s57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs57
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F609
 [/us/stat/31/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1464
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164

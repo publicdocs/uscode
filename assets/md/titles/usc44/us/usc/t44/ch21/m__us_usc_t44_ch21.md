@@ -187,13 +187,13 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–187, § 3(c)(2)][/us/pl/113/187/s3/c/2], Nov. 26, 2014, [128 Stat. 2008][/us/stat/128/2008], substituted “Preservation of audio and visual records” for “Preservation of motion-picture films, still pictures, and sound recordings” in item 2114.
+    2014—[Pub. L. 113–187][/us/pl/113/187], § 3(c)(2), Nov. 26, 2014, [128 Stat. 2008][/us/stat/128/2008], substituted “Preservation of audio and visual records” for “Preservation of motion-picture films, still pictures, and sound recordings” in item 2114.
 
-    2008—[Pub. L. 110–404, § 4(c)][/us/pl/110/404/s4/c], Oct. 13, 2008, [122 Stat. 4283][/us/stat/122/4283], added item 2120.
+    2008—[Pub. L. 110–404][/us/pl/110/404], § 4(c), Oct. 13, 2008, [122 Stat. 4283][/us/stat/122/4283], added item 2120.
 
-    2004—[Pub. L. 108–383, § 5(b)][/us/pl/108/383/s5/b], Oct. 30, 2004, [118 Stat. 2219][/us/stat/118/2219], added item 2119.
+    2004—[Pub. L. 108–383][/us/pl/108/383], § 5(b), Oct. 30, 2004, [118 Stat. 2219][/us/stat/118/2219], added item 2119.
 
-    1984—[Pub. L. 98–497, title I, § 102(c)(1)][/us/pl/98/497/s102/c/1], Oct. 19, 1984, [98 Stat. 2282][/us/stat/98/2282], amended analysis generally, substituting “National Archives and Records” in chapter heading, adding items 2102 to 2106 and redesignating former items 2103 to 2114 as 2107 to 2118, respectively.
+    1984—[Pub. L. 98–497, title I][/us/pl/98/497/tI], § 102(c)(1), Oct. 19, 1984, [98 Stat. 2282][/us/stat/98/2282], amended analysis generally, substituting “National Archives and Records” in chapter heading, adding items 2102 to 2106 and redesignating former items 2103 to 2114 as 2107 to 2118, respectively.
 
 ----------
 
@@ -202,13 +202,13 @@
 ----------
 ----------
 
-[/us/pl/113/187/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs3%2Fc%2F2
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2008
-[/us/pl/110/404/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404%2Fs4%2Fc
+[/us/pl/110/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404
 [/us/stat/122/4283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4283
-[/us/pl/108/383/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383%2Fs5%2Fb
+[/us/pl/108/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383
 [/us/stat/118/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2219
-[/us/pl/98/497/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs102%2Fc%2F1
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2282
 
 

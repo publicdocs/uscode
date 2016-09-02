@@ -163,9 +163,9 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, div. H, title I, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in item 502.
+    2014—[Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(c)(1), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], substituted “Director of the Government Publishing Office” for “Public Printer” in item 502.
 
-    1976—[Pub. L. 94–553, § 105(a)(2)][/us/pl/94/553/s105/a/2], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599], struck out “; copyright” after “plates” in item 505.
+    1976—[Pub. L. 94–553][/us/pl/94/553], § 105(a)(2), Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599], struck out “; copyright” after “plates” in item 505.
 
  __Change of Name__ 
 
@@ -182,9 +182,9 @@
 ----------
 ----------
 
-[/us/pl/113/235/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fc%2F1
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/pl/94/553/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs105%2Fa%2F2
+[/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
 [/us/stat/90/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2599
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537

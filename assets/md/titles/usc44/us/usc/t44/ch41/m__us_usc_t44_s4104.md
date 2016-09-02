@@ -17,7 +17,7 @@
 
     As used in this chapter, the term “Federal electronic information” means Federal public information stored electronically.
 
-(Added [Pub. L. 103–40, § 2(a)][/us/pl/103/40/s2/a], June 8, 1993, [107 Stat. 113][/us/stat/107/113].)
+(Added [Pub. L. 103–40][/us/pl/103/40], § 2(a), June 8, 1993, [107 Stat. 113][/us/stat/107/113].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/40/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F40%2Fs2%2Fa
+[/us/pl/103/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F40
 [/us/stat/107/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F113
 
 

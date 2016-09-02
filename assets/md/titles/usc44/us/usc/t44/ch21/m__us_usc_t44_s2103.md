@@ -21,7 +21,7 @@
 
     (c) There shall be in the Administration a Deputy Archivist of the United States, who shall be appointed by and who shall serve at the pleasure of the Archivist. The Deputy Archivist shall be established as a career reserved position in the Senior Executive Service within the meaning of [section 3132(a)(8) of title 5][/us/usc/t5/s3132/a/8]. The Deputy Archivist shall perform such functions as the Archivist shall designate. During any absence or disability of the Archivist, the Deputy Archivist shall act as Archivist. In the event of a vacancy in the office of the Archivist, the Deputy Archivist shall act as Archivist until an Archivist is appointed under subsection (a).
 
-(Added [Pub. L. 98–497, title I, § 102(a)(2)][/us/pl/98/497/s102/a/2], Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280].)
+(Added [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 102(a)(2), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s3132/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F8
-[/us/pl/98/497/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs102%2Fa%2F2
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2280
 [/us/usc/t44/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2107
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301

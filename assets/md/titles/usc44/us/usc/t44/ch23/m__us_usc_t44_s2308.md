@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 300gg ([July 9, 1941, ch. 284, § 7][/us/act/1941-07-09/ch284/s7], [55 Stat. 582][/us/stat/55/582]).
+    Based on 44 U.S. Code, 1964 ed., § 300gg ([July 9, 1941, ch. 284][/us/act/1941-07-09/ch284], § 7, [55 Stat. 582][/us/stat/55/582]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1293
-[/us/act/1941-07-09/ch284/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-09%2Fch284%2Fs7
+[/us/act/1941-07-09/ch284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-09%2Fch284
 [/us/stat/55/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F582
 
 

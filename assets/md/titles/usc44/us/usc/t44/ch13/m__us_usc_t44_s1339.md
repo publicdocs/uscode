@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1336.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1340.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1339)
+[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1337 _us_usc_t44_s1338.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1340.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1339)
 
 ## § 1339. Printing of the President’s Message
 
@@ -23,18 +23,18 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 285 (R.S. § 3810; [Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 615][/us/stat/28/615]).
+    Based on 44 U.S. Code, 1964 ed., § 285 (R.S. § 3810; [Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 615][/us/stat/28/615]).
 
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1336.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1340.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1339)
+[Previous](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1337 _us_usc_t44_s1338.md) | [Next](./../../../..//us/usc/t44/ch13/m__us_usc_t44_s1340.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1339)
 
 ----------
 ----------
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1272
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F615
 
 

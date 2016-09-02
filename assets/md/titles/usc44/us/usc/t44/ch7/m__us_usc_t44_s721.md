@@ -19,11 +19,11 @@
 
     (b) One copy of the Congressional Directory delivered to Members of the Senate and the House of Representatives (including Delegates and the Resident Commissioner) shall be bound in cloth and imprinted on the cover with the name of the Member. Copies of the Congressional Directory delivered to depository libraries may be bound in cloth. All other copies of the Congressional Directory shall be bound in paper and names shall not be imprinted thereon, except that copies printed for sale under section 722 may be bound in cloth.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1251][/us/stat/82/1251]; [Pub. L. 95–94, title IV, § 404][/us/pl/95/94/s404], Aug. 5, 1977, [91 Stat. 682][/us/stat/91/682].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1251][/us/stat/82/1251]; [Pub. L. 95–94, title IV][/us/pl/95/94/tIV], § 404, Aug. 5, 1977, [91 Stat. 682][/us/stat/91/682].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 149 ([Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 617][/us/stat/28/617]; [July 1, 1902, ch. 1351][/us/act/1902-07-01/ch1351], [32 Stat. 583][/us/stat/32/583]).
+    Based on 44 U.S. Code, 1964 ed., § 149 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 617][/us/stat/28/617]; [July 1, 1902, ch. 1351][/us/act/1902-07-01/ch1351], [32 Stat. 583][/us/stat/32/583]).
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1251
-[/us/pl/95/94/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs404
+[/us/pl/95/94/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtIV
 [/us/stat/91/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F682
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F617
 [/us/act/1902-07-01/ch1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-07-01%2Fch1351
 [/us/stat/32/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F583

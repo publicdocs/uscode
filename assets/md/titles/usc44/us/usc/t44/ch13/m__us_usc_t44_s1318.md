@@ -35,7 +35,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 260 ([Jan. 12, 1895, ch. 23, § 73][/us/act/1895-01-12/ch23/s73], [28 Stat. 614][/us/stat/28/614]; [Mar. 2, 1895, ch. 189, § 1][/us/act/1895-03-02/ch189/s1], [28 Stat. 960][/us/stat/28/960]; [June 11, 1896, ch. 420, § 1][/us/act/1896-06-11/ch420/s1], [29 Stat. 453][/us/stat/29/453]; [June 4, 1897, ch. 2, § 1][/us/act/1897-06-04/ch2/s1], [30 Stat. 61][/us/stat/30/61]; Mar. 2, 1901, No. 17, [31 Stat. 1465][/us/stat/31/1465]; May 16, 1902, No. 22, [32 Stat. 741][/us/stat/32/741]; [Mar. 4, 1909, ch. 299, § 1][/us/act/1909-03-04/ch299/s1], [35 Stat. 988][/us/stat/35/988]).
+    Based on 44 U.S. Code, 1964 ed., § 260 ([Jan. 12, 1895, ch. 23][/us/act/1895-01-12/ch23], § 73, [28 Stat. 614][/us/stat/28/614]; [Mar. 2, 1895, ch. 189][/us/act/1895-03-02/ch189], § 1, [28 Stat. 960][/us/stat/28/960]; [June 11, 1896, ch. 420][/us/act/1896-06-11/ch420], § 1, [29 Stat. 453][/us/stat/29/453]; [June 4, 1897, ch. 2][/us/act/1897-06-04/ch2], § 1, [30 Stat. 61][/us/stat/30/61]; Mar. 2, 1901, No. 17, [31 Stat. 1465][/us/stat/31/1465]; May 16, 1902, No. 22, [32 Stat. 741][/us/stat/32/741]; [Mar. 4, 1909, ch. 299][/us/act/1909-03-04/ch299], § 1, [35 Stat. 988][/us/stat/35/988]).
 
  __Change of Name__ 
 
@@ -50,17 +50,17 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1268
-[/us/act/1895-01-12/ch23/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23%2Fs73
+[/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23
 [/us/stat/28/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F614
-[/us/act/1895-03-02/ch189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189%2Fs1
+[/us/act/1895-03-02/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189
 [/us/stat/28/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F960
-[/us/act/1896-06-11/ch420/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-06-11%2Fch420%2Fs1
+[/us/act/1896-06-11/ch420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-06-11%2Fch420
 [/us/stat/29/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F453
-[/us/act/1897-06-04/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2%2Fs1
+[/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F61
 [/us/stat/31/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1465
 [/us/stat/32/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F741
-[/us/act/1909-03-04/ch299/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch299%2Fs1
+[/us/act/1909-03-04/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch299
 [/us/stat/35/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F988
 [/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
 [/us/usc/t43/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31

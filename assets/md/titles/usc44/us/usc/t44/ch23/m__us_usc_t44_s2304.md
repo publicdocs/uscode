@@ -17,11 +17,11 @@
 
     Compensation may not be paid to the members of the Board for their services as members. Costs incurred by the Board in carrying out its duties under this chapter, including the obligations necessarily incurred by the members of the Board in the performance of their duties and the compensation of persons employed by the Board, shall be paid by the Archivist of the United States from trust funds available to the Board for this purpose. The Board, by resolution, may authorize the transfer of funds (including the principal or interest of a gift or bequest) to the National Archives and Records Administration to be expended on an archival or records activity approved by the Board or to accomplish the purpose of a gift or bequest.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1292][/us/stat/82/1292]; [Pub. L. 98–497, title II, § 202(a)][/us/pl/98/497/s202/a], Oct. 19, 1984, [98 Stat. 2293][/us/stat/98/2293].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1292][/us/stat/82/1292]; [Pub. L. 98–497, title II][/us/pl/98/497/tII], § 202(a), Oct. 19, 1984, [98 Stat. 2293][/us/stat/98/2293].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 300ii ([July 9, 1941, ch. 284, § 9][/us/act/1941-07-09/ch284/s9], [55 Stat. 582][/us/stat/55/582]).
+    Based on 44 U.S. Code, 1964 ed., § 300ii ([July 9, 1941, ch. 284][/us/act/1941-07-09/ch284], § 9, [55 Stat. 582][/us/stat/55/582]).
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1292
-[/us/pl/98/497/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs202%2Fa
+[/us/pl/98/497/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtII
 [/us/stat/98/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2293
-[/us/act/1941-07-09/ch284/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-09%2Fch284%2Fs9
+[/us/act/1941-07-09/ch284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-09%2Fch284
 [/us/stat/55/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F582
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497

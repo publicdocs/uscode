@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 84a ([Pub. L. 87–579, § 9][/us/pl/87/579/s9], Aug. 9, 1962, [76 Stat. 355][/us/stat/76/355].)
+    Based on 44 U.S. Code, 1964 ed., § 84a ([Pub. L. 87–579][/us/pl/87/579], § 9, Aug. 9, 1962, [76 Stat. 355][/us/stat/76/355].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1286
-[/us/pl/87/579/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579%2Fs9
+[/us/pl/87/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F579
 [/us/stat/76/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F355
 
 

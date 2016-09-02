@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 85a ([June 27, 1956, ch. 453, § 101][/us/act/1956-06-27/ch453/s101], [70 Stat. 369][/us/stat/70/369]).
+    Based on 44 U.S. Code, 1964 ed., § 85a ([June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], § 101, [70 Stat. 369][/us/stat/70/369]).
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1286
-[/us/act/1956-06-27/ch453/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453%2Fs101
+[/us/act/1956-06-27/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453
 [/us/stat/70/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F369
 
 

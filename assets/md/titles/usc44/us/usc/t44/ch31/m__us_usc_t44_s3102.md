@@ -23,11 +23,11 @@
 
     (3) compliance with sections 2101–2117, 2501–2507, 2901–2909, and 3101–3107, of this title and the regulations issued under them.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1298][/us/stat/82/1298]; [Pub. L. 94–575, § 3(a)(1)][/us/pl/94/575/s3/a/1], (2), Oct. 21, 1976, [90 Stat. 2726][/us/stat/90/2726]; [Pub. L. 98–497, title I, § 107(b)(19)][/us/pl/98/497/s107/b/19], Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290]; [Pub. L. 113–187, § 9(g)][/us/pl/113/187/s9/g], Nov. 26, 2014, [128 Stat. 2014][/us/stat/128/2014].)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1298][/us/stat/82/1298]; [Pub. L. 94–575][/us/pl/94/575], § 3(a)(1), (2), Oct. 21, 1976, [90 Stat. 2726][/us/stat/90/2726]; [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(b)(19), Oct. 19, 1984, [98 Stat. 2290][/us/stat/98/2290]; [Pub. L. 113–187][/us/pl/113/187], § 9(g), Nov. 26, 2014, [128 Stat. 2014][/us/stat/128/2014].)
 
  __Historical and Revision Notes__ 
 
-    Based on 44 U.S. Code, 1964 ed., § 396(b) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 506(b), as added [Sept. 5, 1950, ch. 849, § 6(d)][/us/act/1950-09-05/ch849/s6/d], [64 Stat. 583][/us/stat/64/583]).
+    Based on 44 U.S. Code, 1964 ed., § 396(b) ([June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title V, § 506(b), as added [Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(d), [64 Stat. 583][/us/stat/64/583]).
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
     1984—Pars. (2), (3). [Pub. L. 98–497][/us/pl/98/497] inserted “and the Archivist” after “Administrator of General Services” in par. (2), and substituted “sections 2101–2117” for “sections 2101–2113” and struck out “2701,” before “2901” in par. (3).
 
-    1976—[Pub. L. 94–575, § 3(a)(1)][/us/pl/94/575/s3/a/1], (2), substituted in par. (1) “the creation and over the maintenance” for “the creation, maintenance,” and in par. (3) reference to sections “2901–2909” for “2901, 2903–2909” of this title.
+    1976—[Pub. L. 94–575][/us/pl/94/575], § 3(a)(1), (2), substituted in par. (1) “the creation and over the maintenance” for “the creation, maintenance,” and in par. (3) reference to sections “2901–2909” for “2901, 2903–2909” of this title.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -50,18 +50,18 @@
 
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1298
-[/us/pl/94/575/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs3%2Fa%2F1
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/stat/90/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2726
-[/us/pl/98/497/s107/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F19
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2290
-[/us/pl/113/187/s9/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fg
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/stat/128/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2014
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
 [/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
-[/us/pl/94/575/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs3%2Fa%2F1
+[/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301
 [/us/usc/t44/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2102

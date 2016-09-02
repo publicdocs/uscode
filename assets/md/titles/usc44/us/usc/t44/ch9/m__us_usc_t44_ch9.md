@@ -107,7 +107,7 @@
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–314, § 1(c)][/us/pl/93/314/s1/c], June 8, 1974, [88 Stat. 239][/us/stat/88/239], struck out “; subscription” in item 906, and substituted “subscriptions; sale of current, individual numbers and bound sets; postage rate” for “sale of current numbers and bound sets” in item 910.
+    1974—[Pub. L. 93–314][/us/pl/93/314], § 1(c), June 8, 1974, [88 Stat. 239][/us/stat/88/239], struck out “; subscription” in item 906, and substituted “subscriptions; sale of current, individual numbers and bound sets; postage rate” for “sale of current numbers and bound sets” in item 910.
 
  __Federal Records Management Provisions Without Effect on Chapter__ 
 
@@ -120,7 +120,7 @@
 ----------
 ----------
 
-[/us/pl/93/314/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F314%2Fs1%2Fc
+[/us/pl/93/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F314
 [/us/stat/88/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F239
 [/us/pl/94/575/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs5%2Fb
 [/us/usc/t44/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2901
