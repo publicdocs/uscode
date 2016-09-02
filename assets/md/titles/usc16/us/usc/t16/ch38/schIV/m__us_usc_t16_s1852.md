@@ -417,6 +417,8 @@
 
  __References in Text__ 
 
+    The General Schedule, referred to in subsec. (d), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
+
     This chapter, referred to in subsecs. (f)(2), (6), (g)(2), (h), (k)(1)(E), and (l), was in the original “this Act”, meaning [Pub. L. 94–265][/us/pl/94/265], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t16/s1801] and Tables.
 
     Section 515 of the Treasury and General Government Appropriations Act for Fiscal year 2001, referred to in subsec. (g)(1)(E), is section 1(a)(3) \[title V, § 515\] of [Pub. L. 106–554][/us/pl/106/554], which is set out as a note under [section 3516 of Title 44][/us/usc/t44/s3516], Public Printing and Documents.
@@ -692,6 +694,7 @@
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3579
+[/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801

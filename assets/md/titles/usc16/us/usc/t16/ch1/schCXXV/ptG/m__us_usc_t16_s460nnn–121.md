@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 106–399][/us/pl/106/399], Oct. 30, 2000, [114 Stat. 1655][/us/stat/114/1655], which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460nnn of this title][/us/usc/t16/s460nnn] and Tables.
+    This subchapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 106–399][/us/pl/106/399], Oct. 30, 2000, [114 Stat. 1655][/us/stat/114/1655], known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460nnn of this title][/us/usc/t16/s460nnn] and Tables.
 
 ----------
 

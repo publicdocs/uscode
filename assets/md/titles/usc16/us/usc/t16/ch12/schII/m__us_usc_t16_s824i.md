@@ -35,7 +35,7 @@
 
     Upon receipt of an application under subsection (a) of this section, the Commission shall—
 
-        (1) issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public.
+        (1) issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup> 
 
         (2) afford an opportunity for an evidentiary hearing, and
 

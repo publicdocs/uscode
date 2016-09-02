@@ -131,6 +131,8 @@
 
  __References in Text__ 
 
+    This chapter, referred to in subsecs. (a)(1)(G), (2)(E), (c)(2), (e), and (f)(1), was in the original “this Act”, meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
+
     [Section 668cc–4 of this title][/us/usc/t16/s668cc–4], referred to in subsec. (f)(2), was repealed by [Pub. L. 93–205, § 14][/us/pl/93/205/s14], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903].
 
  __Amendments__ 
@@ -192,6 +194,9 @@
 [/us/stat/102/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2308
 [/us/pl/100/653/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs905
 [/us/stat/102/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3835
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
+[/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
+[/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s668cc–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668cc%E2%80%934
 [/us/pl/93/205/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs14
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903

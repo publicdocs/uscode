@@ -159,9 +159,7 @@ Sec. 2. General administration. The Secretary of Agriculture shall have the foll
 
                               Dwight D. Eisenhower.
 
- __Transfer of Functions__ 
-
-    Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget, referred to in Ex. Ord. No. 10654, transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085], set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget.
+    \[Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget, referred to in Ex. Ord. No. 10654, transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085], set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget.\]
 
 ----------
 

@@ -39,6 +39,10 @@
 
 ([Pub. L. 100–348, § 4][/us/pl/100/348/s4], June 27, 1988, [102 Stat. 656][/us/stat/102/656]; [Pub. L. 103–437, § 6(d)(11)][/us/pl/103/437/s6/d/11], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
+ __References in Text__ 
+
+    This subchapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning [Pub. L. 100–348][/us/pl/100/348], June 27, 1988, [102 Stat. 654][/us/stat/102/654], known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 410nn of this title][/us/usc/t16/s410nn] and Tables.
+
  __Amendments__ 
 
     1994—Subsec. (d)(1). [Pub. L. 103–437][/us/pl/103/437] substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
@@ -55,6 +59,9 @@
 [/us/stat/102/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F656
 [/us/pl/103/437/s6/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F11
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
+[/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
+[/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654
+[/us/usc/t16/s410nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410nn
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 
 

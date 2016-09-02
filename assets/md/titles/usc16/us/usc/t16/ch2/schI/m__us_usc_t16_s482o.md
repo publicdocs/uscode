@@ -35,10 +35,6 @@
 
 ([July 12, 1951, ch. 222, § 1][/us/act/1951-07-12/ch222/s1], [65 Stat. 118][/us/stat/65/118].)
 
- __References in Text__ 
-
-    The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s482n–3.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s482p.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs482o)

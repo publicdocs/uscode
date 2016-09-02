@@ -263,6 +263,8 @@
 
  __References in Text__ 
 
+    This chapter, referred to in text, was in the original “this Act”, except for “the Act” in subsec. (f)(6)(B), meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
+
     [Section 668cc–3 of this title][/us/usc/t16/s668cc–3], referred to in subsec. (b), was repealed by [Pub. L. 93–205, § 14][/us/pl/93/205/s14], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903].
 
     Subsec. (f) of [section 1533 of this title][/us/usc/t16/s1533], referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of [section 1533 of this title][/us/usc/t16/s1533], was redesignated as subsec. (f), by [Pub. L. 97–304, § 2(a)(4)(B)][/us/pl/97/304/s2/a/4/B], (C), Oct. 13, 1982, [96 Stat. 1415][/us/stat/96/1415]. For provisions relating to promulgation of regulations, see subsecs. (b) and (h) of [section 1533 of this title][/us/usc/t16/s1533].
@@ -361,6 +363,9 @@
 [/us/stat/96/1422-1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1422-1424
 [/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
 [/us/stat/102/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2314
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
+[/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
+[/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s668cc–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668cc%E2%80%933
 [/us/pl/93/205/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs14
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903

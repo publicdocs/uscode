@@ -33,10 +33,6 @@
 
 ([Pub. L. 100–691, § 9][/us/pl/100/691/s9], Nov. 18, 1988, [102 Stat. 4550][/us/stat/102/4550].)
 
- __References in Text__ 
-
-    The mining laws and mineral leasing laws of the United States, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch63/m__us_usc_t16_s4307.md) | [Next](./../../../..//us/usc/t16/ch63/m__us_usc_t16_s4309.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4308)

@@ -35,6 +35,10 @@
 
 ([Pub. L. 93–205, § 15][/us/pl/93/205/s15], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903]; [Pub. L. 94–325][/us/pl/94/325], June 30, 1976, [90 Stat. 724][/us/stat/90/724]; [Pub. L. 95–632, § 9][/us/pl/95/632/s9], Nov. 10, 1978, [92 Stat. 3762][/us/stat/92/3762]; [Pub. L. 96–159, § 8][/us/pl/96/159/s8], Dec. 28, 1979, [93 Stat. 1230][/us/stat/93/1230]; [Pub. L. 97–304, § 8][/us/pl/97/304/s8]\[(a)\], Oct. 13, 1982, [96 Stat. 1425][/us/stat/96/1425]; [Pub. L. 100–478, title I, § 1009][/us/pl/100/478/s1009], Oct. 7, 1988, [102 Stat. 2312][/us/stat/102/2312].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
+
  __Amendments__ 
 
     1988—[Pub. L. 100–478][/us/pl/100/478] amended section generally, substituting provisions authorizing appropriations for fiscal years 1988 through 1992 for provisions authorizing appropriations for fiscal years 1983 through 1985.
@@ -77,6 +81,9 @@
 [/us/stat/96/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1425
 [/us/pl/100/478/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1009
 [/us/stat/102/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2312
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
+[/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
+[/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
 [/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304

@@ -21,8 +21,6 @@
 
  __References in Text__ 
 
-    The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
     Act of June 11, 1906, referred to in text, means [act June 11, 1906, ch. 3074][/us/act/1906-06-11/ch3074], [34 Stat. 233][/us/stat/34/233], which was classified to sections 506 to 508 and 509 of this title, and was repealed by [Pub. L. 87–869, § 4][/us/pl/87/869/s4], Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157].
 
 ----------

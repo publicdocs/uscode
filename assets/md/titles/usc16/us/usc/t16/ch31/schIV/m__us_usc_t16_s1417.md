@@ -21,7 +21,7 @@
 
         (1) for any person to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product unless the tuna or tuna product is either dolphin safe or has been harvested in compliance with the International Dolphin Conservation Program by a country that is a member of the Inter-American Tropical Tuna Commission or has initiated and within 6 months thereafter completed all steps required of applicant nations in accordance with Article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
 
-        (2) except as provided for in sub[section 1371(d) of this title][/us/usc/t16/s1371/d], for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “and” probably should not appear. </sup></sup> 
+        (2) except as provided for in subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “and” probably should not appear. </sup></sup> 
 
         (3) for any person to import any yellowfin tuna or yellowfin tuna product or any other fish or fish product in violation of a ban on importation imposed under [section 1371(a)(2) of this title][/us/usc/t16/s1371/a/2];
 
@@ -96,7 +96,6 @@
 ----------
 ----------
 
-[/us/usc/t16/s1371/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fd
 [/us/usc/t16/s1371/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fa%2F2
 [/us/usc/t16/s1375/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1375%2Fa
 [/us/usc/t16/s1375/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1375%2Fb

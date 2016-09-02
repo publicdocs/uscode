@@ -19,10 +19,6 @@
 
 ([June 24, 1948, ch. 611, § 1][/us/act/1948-06-24/ch611/s1], [62 Stat. 580][/us/stat/62/580]; [Oct. 6, 1949, ch. 620, § 1][/us/act/1949-10-06/ch620/s1], [63 Stat. 708][/us/stat/63/708].)
 
- __References in Text__ 
-
-    The general mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
  __Change of Name__ 
 
     “Custer State Park Game Sanctuary” changed to “Norbeck Wildlife Preserve” by act Oct. 6, 1949.

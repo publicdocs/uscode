@@ -79,11 +79,15 @@
 
  __References in Text__ 
 
+    This subchapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning [Pub. L. 101–612][/us/pl/101/612], Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209], which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460bbb of this title][/us/usc/t16/s460bbb] and Tables.
+
     The Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.), referred to in subsec. (b)(2)(H), is [Pub. L. 88–577][/us/pl/88/577], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title][/us/usc/t16/s1131] and Tables.
 
     Section 10(b) of this Act, referred to in subsec. (c), is [section 10(b) of Pub. L. 101–612][/us/pl/101/612/s10/b], Nov. 16, 1990, [104 Stat. 3215][/us/stat/104/3215], which amended [section 1274 of this title][/us/usc/t16/s1274].
 
     The Wild and Scenic Rivers Act, referred to in subsec. (c), is [Pub. L. 90–542][/us/pl/90/542], Oct. 2, 1968, [82 Stat. 906][/us/stat/82/906], as amended, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title][/us/usc/t16/s1271] and Tables.
+
+    These Acts, referred to in subsec. (c), mean the Wild and Scenic Rivers Act and this subchapter, which was in the original “this Act”. See References in Text notes above.
 
 ----------
 
@@ -99,6 +103,9 @@
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
 [/us/pl/101/612/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs5
 [/us/stat/104/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3210
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
+[/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209
+[/us/usc/t16/s460bbb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

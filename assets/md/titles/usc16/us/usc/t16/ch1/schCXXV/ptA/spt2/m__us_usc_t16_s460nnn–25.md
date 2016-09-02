@@ -23,6 +23,8 @@
 
     The Wilderness Act, referred to in text, is [Pub. L. 88–577][/us/pl/88/577], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title][/us/usc/t16/s1131] and Tables.
 
+    This subchapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 106–399][/us/pl/106/399], Oct. 30, 2000, [114 Stat. 1655][/us/stat/114/1655], known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460nnn of this title][/us/usc/t16/s460nnn] and Tables.
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t16/ch1/schCXXV/ptA/spt2/m__us_usc_t16_s460nnn–24.md) | [Next](./../../../../../../..//us/usc/t16/ch1/schCXXV/ptA/spt3/m__us_usc_t16_ch1_schCXXV_ptA_spt3.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9325)
@@ -36,5 +38,8 @@
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
+[/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
+[/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655
+[/us/usc/t16/s460nnn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn
 
 

@@ -119,6 +119,10 @@
 
 ([Pub. L. 101–612, § 11][/us/pl/101/612/s11], Nov. 16, 1990, [104 Stat. 3219][/us/stat/104/3219].)
 
+ __References in Text__ 
+
+    This subchapter, referred to in subsec. (d), was in the original “this Act”, meaning [Pub. L. 101–612][/us/pl/101/612], Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209], which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460bbb of this title][/us/usc/t16/s460bbb] and Tables.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schCXIII/m__us_usc_t16_s460bbb–7.md) | [Next](./../../../../..//us/usc/t16/ch1/schCXIII/m__us_usc_t16_s460bbb–9.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb%E2%80%938)
@@ -131,5 +135,8 @@
 [/us/usc/t16/s460bbb–3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb%E2%80%933%2Fa%2F7
 [/us/pl/101/612/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs11
 [/us/stat/104/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3219
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
+[/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209
+[/us/usc/t16/s460bbb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb
 
 

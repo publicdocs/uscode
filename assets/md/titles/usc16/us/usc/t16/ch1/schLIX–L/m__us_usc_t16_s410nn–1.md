@@ -47,6 +47,8 @@
 
  __References in Text__ 
 
+    This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [Pub. L. 100–348][/us/pl/100/348], June 27, 1988, [102 Stat. 654][/us/stat/102/654], known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 410nn of this title][/us/usc/t16/s410nn] and Tables.
+
     The National Historic Preservation Act, referred to in subsec. (a), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see [section 470(a) of this title][/us/usc/t16/s470/a] and Tables.
 
  __Change of Name__ 
@@ -65,6 +67,9 @@
 [/us/usc/t16/s460bb–3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%933%2Ff
 [/us/pl/100/348/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348%2Fs3
 [/us/stat/102/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F655
+[/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
+[/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654
+[/us/usc/t16/s410nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410nn
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
 [/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa

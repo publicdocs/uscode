@@ -19,6 +19,10 @@
 
 ([Pub. L. 101–612, § 9][/us/pl/101/612/s9], Nov. 16, 1990, [104 Stat. 3214][/us/stat/104/3214].)
 
+ __References in Text__ 
+
+    This subchapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 101–612][/us/pl/101/612], Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209], which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460bbb of this title][/us/usc/t16/s460bbb] and Tables.
+
  __Management__ 
 
 [Pub. L. 101–612, § 10(c)][/us/pl/101/612/s10/c], Nov. 16, 1990, [104 Stat. 3219][/us/stat/104/3219], provided that: 
@@ -36,6 +40,9 @@
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
 [/us/pl/101/612/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs9
 [/us/stat/104/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3214
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
+[/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209
+[/us/usc/t16/s460bbb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb
 [/us/pl/101/612/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs10%2Fc
 [/us/stat/104/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3219
 [/us/usc/t16/s1274/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274%2Fd%2F1

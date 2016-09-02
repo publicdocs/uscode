@@ -23,9 +23,9 @@
 
     (c) “range” means the amount of land necessary to sustain an existing herd or herds of wild free-roaming horses and burros, which does not exceed their known territorial limits, and which is devoted principally but not necessarily exclusively to their welfare in keeping with the multiple-use management concept for the public lands;
 
-    (d) “herd” means one or more stallions and his mares; and
+    (d) “herd” means one or more stallions and his mares; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “and” probably should not appear. </sup></sup> 
 
-    (e) “public lands” means any lands administered by the Secretary of the Interior through the Bureau of Land Management or by the Secretary of Agriculture through the Forest Service.
+    (e) “public lands” means any lands administered by the Secretary of the Interior through the Bureau of Land Management or by the Secretary of Agriculture through the Forest Service. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be “; and”. </sup></sup> 
 
     (f) “excess animals” means wild free-roaming horses or burros (1) which have been removed from an area by the Secretary pursuant to applicable law or, (2) which must be removed from an area in order to preserve and maintain a thriving natural ecological balance and multiple-use relationship in that area.
 

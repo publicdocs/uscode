@@ -95,6 +95,10 @@
 
 ([Pub. L. 106–399, title I, § 113][/us/pl/106/399/s113], Oct. 30, 2000, [114 Stat. 1661][/us/stat/114/1661].)
 
+ __References in Text__ 
+
+    This subchapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning [Pub. L. 106–399][/us/pl/106/399], Oct. 30, 2000, [114 Stat. 1655][/us/stat/114/1655], known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460nnn of this title][/us/usc/t16/s460nnn] and Tables.
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t16/ch1/schCXXV/ptA/spt2/m__us_usc_t16_s460nnn–22.md) | [Next](./../../../../../../..//us/usc/t16/ch1/schCXXV/ptA/spt2/m__us_usc_t16_s460nnn–24.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9323)
@@ -107,5 +111,8 @@
 [/us/usc/t16/s460nnn–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9312
 [/us/pl/106/399/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs113
 [/us/stat/114/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1661
+[/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
+[/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655
+[/us/usc/t16/s460nnn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn
 
 

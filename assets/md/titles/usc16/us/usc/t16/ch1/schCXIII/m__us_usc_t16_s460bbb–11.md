@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 101–612][/us/pl/101/612], Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209], which enacted this subchapter and amended [section 1274 of this title][/us/usc/t16/s1274]. For complete classification of this Act to the Code, see Short Title note set out under [section 460bbb of this title][/us/usc/t16/s460bbb] and Tables.
+    This subchapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 101–612][/us/pl/101/612], Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209], which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460bbb of this title][/us/usc/t16/s460bbb] and Tables.
 
 ----------
 
@@ -34,7 +34,6 @@
 [/us/stat/104/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3222
 [/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209
-[/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
 [/us/usc/t16/s460bbb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb
 
 

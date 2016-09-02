@@ -59,7 +59,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (b) and (c)(1), was in the original “this Act”, meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], as amended, known as the “Endangered Species Act of 1973”, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+    This chapter, referred to in subsecs. (b) and (c)(1), was in the original “this Act”, meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
  __Amendments__ 
 

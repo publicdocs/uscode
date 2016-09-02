@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], as amended, known as the “Endangered Species Act of 1973”, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
 
     The Marine Mammal Protection Act of 1972, referred to in text, is [Pub. L. 92–522][/us/pl/92/522], Oct. 21, 1972, [86 Stat. 1027][/us/stat/86/1027], as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title][/us/usc/t16/s1361] and Tables.
 

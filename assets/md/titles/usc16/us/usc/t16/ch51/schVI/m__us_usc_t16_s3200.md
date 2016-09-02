@@ -39,8 +39,6 @@
 
  __References in Text__ 
 
-    The mining laws and the mineral leasing laws of the United States, referred to in subsec. (a), are classified generally to Title 30, Mineral Lands and Mining.
-
     GS–15, referred to in subsec. (b), is contained in the General Schedule, which is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
 
 ----------

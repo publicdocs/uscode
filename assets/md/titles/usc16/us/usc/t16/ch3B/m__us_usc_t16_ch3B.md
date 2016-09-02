@@ -67,7 +67,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590f" data-uslm-ref="/us/usc/t16/s590f">590f.</a>  </td>
 
-    <td> Authorization of appropriation.  </td>
+    <td> Authorization of appropriations and conservation technical assistance funds.  </td>
 
   </tr>
 

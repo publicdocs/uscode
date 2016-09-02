@@ -59,6 +59,8 @@
 
  __References in Text__ 
 
+    This subchapter, referred to in subsecs. (a) and (e), was in the original “this Act”, meaning [Pub. L. 100–348][/us/pl/100/348], June 27, 1988, [102 Stat. 654][/us/stat/102/654], known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 410nn of this title][/us/usc/t16/s410nn] and Tables.
+
     The Federal Advisory Committee Act, referred to in subsecs. (d) and (e), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 ----------
@@ -72,6 +74,9 @@
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
 [/us/pl/100/348/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348%2Fs5
 [/us/stat/102/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F656
+[/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
+[/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654
+[/us/usc/t16/s410nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410nn
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 

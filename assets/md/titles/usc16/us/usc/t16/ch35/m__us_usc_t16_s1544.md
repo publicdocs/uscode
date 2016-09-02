@@ -23,6 +23,10 @@
 
 ([Pub. L. 93–205, § 18][/us/pl/93/205/s18], as added [Pub. L. 100–478, title I, § 1012][/us/pl/100/478/s1012], Oct. 7, 1988, [102 Stat. 2314][/us/stat/102/2314]; amended [Pub. L. 106–201, § 1(a)][/us/pl/106/201/s1/a], May 18, 2000, [114 Stat. 307][/us/stat/114/307].)
 
+ __References in Text__ 
+
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
+
  __Amendments__ 
 
     2000—[Pub. L. 106–201][/us/pl/106/201], in introductory provisions, substituted “Notwithstanding [section 3003 of Public Law 104–66][/us/pl/104/66/s3003] ([31 U.S.C. 1113][/us/usc/t31/s1113] note; [109 Stat. 734][/us/stat/109/734]), on” for “On”.
@@ -53,6 +57,9 @@
 [/us/stat/102/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2314
 [/us/pl/106/201/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F201%2Fs1%2Fa
 [/us/stat/114/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F307
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
+[/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
+[/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/pl/106/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F201
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

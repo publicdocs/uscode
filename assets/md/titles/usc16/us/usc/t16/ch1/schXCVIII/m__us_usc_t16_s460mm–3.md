@@ -43,8 +43,6 @@
 
  __References in Text__ 
 
-    The mining laws of the United States, referred to in subsecs. (a) to (d), are classified generally to Title 30, Mineral Lands and Mining.
-
     This Act, referred to in subsec. (b), is [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t16/s3101] and Tables.
 
 ----------

@@ -135,6 +135,8 @@
 
  __References in Text__ 
 
+    This chapter, referred to in text, was in the original “this Act” or “This Act”, meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
+
     The Sport Fishing Restoration Account established under [section 1016 of the Act of July 18, 1984][/us/act/1984-07-18/s1016], referred to in subsec. (i)(1), probably means the Sport Fish Restoration Account established by [section 9504(a)(2)(A) of Title 26][/us/usc/t26/s9504/a/2/A], Internal Revenue Code, which section was enacted by [section 1016(a) of Pub. L. 98–369][/us/pl/98/369/s1016/a], div. A, title X, July 18, 1984, [98 Stat. 1019][/us/stat/98/1019].
 
  __Amendments__ 
@@ -200,6 +202,9 @@
 [/us/stat/96/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1416
 [/us/pl/100/478/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1005
 [/us/stat/102/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2307
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
+[/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
+[/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/act/1984-07-18/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1984-07-18%2Fs1016
 [/us/usc/t26/s9504/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9504%2Fa%2F2%2FA
 [/us/pl/98/369/s1016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1016%2Fa

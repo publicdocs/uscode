@@ -41,6 +41,8 @@
 
  __References in Text__ 
 
+    This subchapter, referred to in subsecs. (a) to (d), was in the original “this Act”, meaning [Pub. L. 101–612][/us/pl/101/612], Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209], which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460bbb of this title][/us/usc/t16/s460bbb] and Tables.
+
     Act of May 23, 1908 (chapter 193; [35 Stat. 251][/us/stat/35/251]; [16 U.S.C. 500][/us/usc/t16/s500]), referred to in subsec. (e), probably means [act May 23, 1908, ch. 192][/us/act/1908-05-23/ch192], [35 Stat. 260][/us/stat/35/260], which is classified to [section 500 of this title][/us/usc/t16/s500].
 
 ----------
@@ -54,6 +56,9 @@
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/pl/101/612/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs13
 [/us/stat/104/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3222
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
+[/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209
+[/us/usc/t16/s460bbb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb
 [/us/stat/35/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F251
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/act/1908-05-23/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-23%2Fch192
