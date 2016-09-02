@@ -27,7 +27,7 @@
 
             (A) A distribution license, authorizing exports of goods to approved distributors or users of the goods in countries other than controlled countries, except that the Secretary may establish a type of distribution license appropriate for consignees in the People’s Republic of China. The Secretary shall grant the distribution license primarily on the basis of the reliability of the applicant and foreign consignees with respect to the prevention of diversion of goods to controlled countries. The Secretary shall have the responsibility of determining, with the assistance of all appropriate agencies, the reliability of applicants and their immediate consignees. The Secretary’s determination shall be based on appropriate investigations of each applicant and periodic reviews of licensees and their compliance with the terms of licenses issued under this chapter. Factors such as the applicant’s products or volume of business, or the consignees’ geographic location, sales distribution area, or degree of foreign ownership, which may be relevant with respect to individual cases, shall not be determinative in creating categories or general criteria for the denial of applications or withdrawal of a distribution license.
 
-            (B) A comprehensive operations license, authorizing exports and reexports of technology and related goods, including items from the list of militarily critical technologies developed pursuant to [section 4604(d) of this title][/us/usc/t50/s4604/d] which are included on the control list in accordance with that section, from a domestic concern to and among its foreign subsidiaries, affiliates, joint venturers, and licensees that have long-term, contractually defined relations with the exporter, are located in countries other than controlled countries (except the People’s Republic of China), and are approved by the Secretary. The Secretary shall grant the license to manufacturing, laboratory, or related operations on the basis of approval of the exporter’s systems of control, including internal proprietary controls, applicable to the technology and related goods to be exported rather than approval of individual export transactions. The Secretary and the Commissioner of Customs, consistent with their authorities under [section 4614(a) of this title][/us/usc/t50/s4614/a] and with the assistance of all appropriate agencies, shall periodically, but not less frequently than annually, perform audits of licensing procedures under this subparagraph in order to assure the integrity and effectiveness of those procedures.
+            (B) A comprehensive operations license, authorizing exports and reexports of technology and related goods, including items from the list of militarily critical technologies developed pursuant to [section 4604(d) of this title][/us/usc/t50/s4604/d] which are included on the control list in accordance with that section, from a domestic concern to and among its foreign subsidiaries, affiliates, joint venturers, and licensees that have long-term, contractually defined relations with the exporter, are located in countries other than controlled countries (except the People’s Republic of China), and are approved by the Secretary. The Secretary shall grant the license to manufacturing, laboratory, or related operations on the basis of approval of the exporter’s systems of control, including internal proprietary controls, applicable to the technology and related goods to be exported rather than approval of individual export transactions. The Secretary and the Commissioner of U.S. Customs and Border Protection, consistent with their authorities under [section 4614(a) of this title][/us/usc/t50/s4614/a] and with the assistance of all appropriate agencies, shall periodically, but not less frequently than annually, perform audits of licensing procedures under this subparagraph in order to assure the integrity and effectiveness of those procedures.
 
             (C) A project license, authorizing exports of goods or technology for a specified activity.
 
@@ -61,7 +61,7 @@
 
         No fee may be charged in connection with the submission or processing of an export license application.
 
-([Pub. L. 96–72][/us/pl/96/72], § 4, Sept. 29, 1979, [93 Stat. 505][/us/stat/93/505]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 104, July 12, 1985, [99 Stat. 122][/us/stat/99/122]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], §§ 2411, 2412, Aug. 23, 1988, [102 Stat. 1347][/us/stat/102/1347].)
+([Pub. L. 96–72][/us/pl/96/72], § 4, Sept. 29, 1979, [93 Stat. 505][/us/stat/93/505]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 104, July 12, 1985, [99 Stat. 122][/us/stat/99/122]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], §§ 2411, 2412, Aug. 23, 1988, [102 Stat. 1347][/us/stat/102/1347]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Termination Date__ 
 
@@ -92,6 +92,10 @@
     Subsec. (c). [Pub. L. 99–64][/us/pl/99/64], § 104(c), substituted “sufficient” for “significant”, inserted “so as to render the controls ineffective in achieving their purposes”, and inserted provisions directing that, in complying with the provisions of this subsection, the President shall give strong emphasis to bilateral or multilateral negotiations to eliminate foreign availability, and that the Secretary and the Secretary of Defense shall cooperate in gathering information relating to foreign availability, including the establishment and maintenance of a jointly operated computer system.
 
     Subsec. (f). [Pub. L. 99–64][/us/pl/99/64], § 104(d), amended subsec. (f) generally, substituting “representatives of a broad spectrum of enterprises, labor organizations, and citizens interested in or affected by export controls, in order to obtain their views on United States export control policy and the foreign availability of goods and technology” for “representatives of the business sector in order to obtain their views on export control policy and the foreign availability of goods and technology”.
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a)(2)(B) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -281,6 +285,8 @@ Section 1. Treatment of Encryption Products. In order to provide for appropriate
 [/us/stat/99/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F122
 [/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1347
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
@@ -309,6 +315,8 @@ Section 1. Treatment of Encryption Products. In order to provide for appropriate
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/usc/t50/s4603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603%2Fe

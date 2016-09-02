@@ -405,7 +405,7 @@
 
     (n) __Security measures__ 
 
-        The Secretary and the Commissioner of Customs, consistent with their authorities under [section 4614(a) of this title][/us/usc/t50/s4614/a], and in consultation with the Director of the Federal Bureau of Investigation, shall provide advice and technical assistance to persons engaged in the manufacture or handling of goods or technology subject to export controls under this section to develop security systems to prevent violations or evasions of those export controls.
+        The Secretary and the Commissioner of U.S. Customs and Border Protection, consistent with their authorities under [section 4614(a) of this title][/us/usc/t50/s4614/a], and in consultation with the Director of the Federal Bureau of Investigation, shall provide advice and technical assistance to persons engaged in the manufacture or handling of goods or technology subject to export controls under this section to develop security systems to prevent violations or evasions of those export controls.
 
     (o) __Recordkeeping__ 
 
@@ -419,7 +419,7 @@
 
         This section does not authorize export controls on agricultural commodities, including fats, oils, and animal hides and skins.
 
-([Pub. L. 96–72][/us/pl/96/72], § 5, Sept. 29, 1979, [93 Stat. 506][/us/stat/93/506]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], §§ 105(a)–(c)(1), (d)–(j), 106, 107, July 12, 1985, [99 Stat. 123–129][/us/stat/99/123-129]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], §§ 2413–2418(b), 2419, 2420(a), 2421, 2422, 2446, Aug. 23, 1988, [102 Stat. 1347–1358][/us/stat/102/1347-1358], 1369.)
+([Pub. L. 96–72][/us/pl/96/72], § 5, Sept. 29, 1979, [93 Stat. 506][/us/stat/93/506]; [Pub. L. 99–64, title I][/us/pl/99/64/tI], §§ 105(a)–(c)(1), (d)–(j), 106, 107, July 12, 1985, [99 Stat. 123–129][/us/stat/99/123-129]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], §§ 2413–2418(b), 2419, 2420(a), 2421, 2422, 2446, Aug. 23, 1988, [102 Stat. 1347–1358][/us/stat/102/1347-1358], 1369; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Termination Date__ 
 
@@ -552,6 +552,10 @@
     “(2) As used in this subsection, the terms ‘diversion to significant military use’ and ‘significant military use’ means the use of United States goods or technology to design or produce any item on the United States Munitions List.”
 
     Subsecs. (m) to (q). [Pub. L. 99–64][/us/pl/99/64], § 105(j), added subsecs. (m) to (q).
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (n) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 1985 Amendment__ 
 
@@ -937,6 +941,8 @@
 [/us/stat/99/123-129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F123-129
 [/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1347-1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1347-1358
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/usc/t50/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4622
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
@@ -1002,6 +1008,8 @@
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F125
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

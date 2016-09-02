@@ -17,7 +17,7 @@
 
     (a) __Secretary of Defense responsibility__ 
 
-        The Secretary of Defense, in consultation and cooperation with the Commissioner of Customs, shall carry out programs for assisting customs officials and border guard officials in the independent states of the former Soviet Union, the Baltic states, and other countries of Eastern Europe in preventing unauthorized transfer and transportation of nuclear, biological, and chemical weapons and related materials. Training, expert advice, maintenance of equipment, loan of equipment, and audits may be provided under or in connection with the programs.
+        The Secretary of Defense, in consultation and cooperation with the Commissioner of U.S. Customs and Border Protection, shall carry out programs for assisting customs officials and border guard officials in the independent states of the former Soviet Union, the Baltic states, and other countries of Eastern Europe in preventing unauthorized transfer and transportation of nuclear, biological, and chemical weapons and related materials. Training, expert advice, maintenance of equipment, loan of equipment, and audits may be provided under or in connection with the programs.
 
     (b) __Other countries__ 
 
@@ -27,11 +27,15 @@
 
         Assistance under programs referred to in subsection (a) of this section may (notwithstanding any provision of law prohibiting the extension of foreign assistance to any of the newly independent states of the former Soviet Union) be extended to include an independent state of the former Soviet Union if the President certifies to Congress that it is in the national interest of the United States to extend assistance under this section to that state.
 
-([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1424, Sept. 23, 1996, [110 Stat. 2726][/us/stat/110/2726]; [Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1211(a), Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087].)
+([Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1424, Sept. 23, 1996, [110 Stat. 2726][/us/stat/110/2726]; [Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1211(a), Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Amendments__ 
 
     2004—Subsec. (b). [Pub. L. 108–375][/us/pl/108/375] amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Of the total amount authorized to be appropriated by section 301, $15,000,000 is available for carrying out the programs referred to in subsection (a) of this section.”
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -60,7 +64,11 @@
 [/us/stat/110/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2726
 [/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2087
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

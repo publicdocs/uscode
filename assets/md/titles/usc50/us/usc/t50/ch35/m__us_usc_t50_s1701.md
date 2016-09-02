@@ -5125,6 +5125,10 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Ex. Ord. No. 13651, Aug. 6, 2013, 78 F.R. 48793.
 
+ __Burundi__ 
+
+    Ex. Ord. No. 13712, Nov. 22, 2015, 80 F.R. 73633.
+
  __Central African Republic__ 
 
     Ex. Ord. No. 13667, May 12, 2014, 79 F.R. 28387.
@@ -5303,6 +5307,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 12938 were contained in the following:
 
+    Notice of President of the United States, dated Nov. 12, 2015, 80 F.R. 70667.
+
     Notice of President of the United States, dated Nov. 7, 2014, 79 F.R. 67035.
 
     Notice of President of the United States, dated Nov. 7, 2013, 78 F.R. 67289.
@@ -5478,6 +5484,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 12170, Nov. 14, 1979, 44 F.R. 65729.
 
     Continuations of national emergency declared by Ex. Ord. No. 12170 were contained in the following:
+
+    Notice of President of the United States, dated Nov. 10, 2015, 80 F.R. 70663.
 
     Notice of President of the United States, dated Nov. 12, 2014, 79 F.R. 68091.
 
@@ -5747,7 +5755,7 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
 
-    Ex. Ord. No. 13348, July 22, 2004, 69 F.R. 44885.
+    Ex. Ord. No. 13348, July 22, 2004, 69 F.R. 44885, revoked by Ex. Ord. No. 13710, Nov. 12, 2015, 80 F.R. 71679.
 
     Continuations of national emergency declared by Ex. Ord. No. 13348 were contained in the following:
 
@@ -5772,6 +5780,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Notice of President of the United States, dated July 18, 2006, 71 F.R. 41093.
 
     Notice of President of the United States, dated July 19, 2005, 70 F.R. 41935.
+
+    Ex. Ord. No. 13710, Nov. 12, 2015, 80 F.R. 71679.
 
  __Libya__ 
 
