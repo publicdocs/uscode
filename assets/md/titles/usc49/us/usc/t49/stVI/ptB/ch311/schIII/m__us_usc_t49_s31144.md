@@ -119,7 +119,7 @@
 
             (B)  __Set aside__  __.—__ 
 
-            The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year and up to $4,459,016 for the period beginning on October 1, 2015, and ending on November 20, 2015, for audits of new entrant motor carriers conducted pursuant to this paragraph.
+            The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year and up to $5,683,060 for the period beginning on October 1, 2015, and ending on December 4, 2015, for audits of new entrant motor carriers conducted pursuant to this paragraph.
 
             (C)  __Determination__  __.—__ 
 
@@ -175,7 +175,7 @@
 
             (B) annually assess the safety fitness of certain motor carriers of passengers that serve primarily urban areas with high passenger loads.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1012][/us/stat/108/1012]; [Pub. L. 104–88, title I, § 104(g)][/us/pl/104/88/s104/g], Dec. 29, 1995, [109 Stat. 920][/us/stat/109/920]; [Pub. L. 105–178, title IV, § 4009(a)][/us/pl/105/178/s4009/a], June 9, 1998, [112 Stat. 405][/us/stat/112/405]; [Pub. L. 106–159, title II, § 210(a)][/us/pl/106/159/s210/a], Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4107(b), 4114, title VII, § 7112(b), (c), Aug. 10, 2005, [119 Stat. 1720][/us/stat/119/1720], 1725, 1899; [Pub. L. 110–244, title III, § 301(b)][/us/pl/110/244/s301/b], (c), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV, § 422(e)][/us/pl/111/147/s422/e], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(e)][/us/pl/111/322/s2202/e], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(e)][/us/pl/112/5/s202/e], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(e)][/us/pl/112/30/s122/e], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(e)][/us/pl/112/102/s202/e], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(e)][/us/pl/112/140/s202/e], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, § 112002(d), July 6, 2012, [126 Stat. 778][/us/stat/126/778], 784, 808, 813, 828, 983; [Pub. L. 113–159, title I, § 1102(e)][/us/pl/113/159/s1102/e], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I, § 1102(e)][/us/pl/114/21/s1102/e], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1102(e)][/us/pl/114/41/s1102/e], July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I, § 1102(e)][/us/pl/114/73/s1102/e], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1012][/us/stat/108/1012]; [Pub. L. 104–88, title I, § 104(g)][/us/pl/104/88/s104/g], Dec. 29, 1995, [109 Stat. 920][/us/stat/109/920]; [Pub. L. 105–178, title IV, § 4009(a)][/us/pl/105/178/s4009/a], June 9, 1998, [112 Stat. 405][/us/stat/112/405]; [Pub. L. 106–159, title II, § 210(a)][/us/pl/106/159/s210/a], Dec. 9, 1999, [113 Stat. 1764][/us/stat/113/1764]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4107(b), 4114, title VII, § 7112(b), (c), Aug. 10, 2005, [119 Stat. 1720][/us/stat/119/1720], 1725, 1899; [Pub. L. 110–244, title III, § 301(b)][/us/pl/110/244/s301/b], (c), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV, § 422(e)][/us/pl/111/147/s422/e], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(e)][/us/pl/111/322/s2202/e], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(e)][/us/pl/112/5/s202/e], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(e)][/us/pl/112/30/s122/e], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(e)][/us/pl/112/102/s202/e], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(e)][/us/pl/112/140/s202/e], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, § 112002(d), July 6, 2012, [126 Stat. 778][/us/stat/126/778], 784, 808, 813, 828, 983; [Pub. L. 113–159, title I, § 1102(e)][/us/pl/113/159/s1102/e], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I, § 1102(e)][/us/pl/114/21/s1102/e], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1102(e)][/us/pl/114/41/s1102/e], July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I, § 1102(e)][/us/pl/114/73/s1102/e], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1102(e)][/us/pl/114/87/s1102/e], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681].)
 
 <table>
 
@@ -261,7 +261,9 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 
  __Amendments__ 
 
-    2015—Subsec. (g)(5)(B). [Pub. L. 114–73][/us/pl/114/73] substituted “and up to $4,459,016 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and up to $2,535,519 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+    2015—Subsec. (g)(5)(B). [Pub. L. 114–87][/us/pl/114/87] substituted “and up to $5,683,060 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and up to $4,459,016 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
+
+    [Pub. L. 114–73][/us/pl/114/73] substituted “and up to $4,459,016 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and up to $2,535,519 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
 
     [Pub. L. 114–41][/us/pl/114/41] substituted “per fiscal year and up to $2,535,519 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “per fiscal year and up to $26,652,055 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
@@ -422,7 +424,10 @@ Oct. 30, 1984, Pub. L. 98–554, § 215, 98 Stat. 2844.  </td>
 [/us/stat/129/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F449
 [/us/pl/114/73/s1102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fe
 [/us/stat/129/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F572
+[/us/pl/114/87/s1102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fe
+[/us/stat/129/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F681
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
 [/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
