@@ -35,11 +35,11 @@
 
     (b) __Availability__ 
 
-        Funds from the sources described in subsection (a) of this section shall be available notwithstanding section 11, 14, 15, or 29 \[[16 U.S.C. 831j][/us/usc/t16/s831j], 831m, 831n, 831bb\] or any other provision of the Tennessee Valley Authority Act of 1933 ([16 U.S.C. 831][/us/usc/t16/s831] et seq.) or any provisions of the covenants contained in any power bonds issued by the Tennessee Valley Authority.
+        Funds from the sources described in subsection (a) shall be available notwithstanding section 11, 14, 15, or 29 \[[16 U.S.C. 831j][/us/usc/t16/s831j], 831m, 831n, 831bb\] or any other provision of the Tennessee Valley Authority Act of 1933 ([16 U.S.C. 831][/us/usc/t16/s831] et seq.) or any provisions of the covenants contained in any power bonds issued by the Tennessee Valley Authority.
 
     (c) __Sufficiency of savings__ 
 
-        The savings from and the revenue adjustment to the budget of the Tennessee Valley Authority for the first fiscal year of the transfer and each fiscal year thereafter shall be sufficient so that the net spending authority and resulting outlays to carry out activities with funding described in subsection (a) of this section shall not exceed $0 for the first fiscal year of the transfer and each fiscal year thereafter.
+        The savings from and the revenue adjustment to the budget of the Tennessee Valley Authority for the first fiscal year of the transfer and each fiscal year thereafter shall be sufficient so that the net spending authority and resulting outlays to carry out activities with funding described in subsection (a) shall not exceed $0 for the first fiscal year of the transfer and each fiscal year thereafter.
 
     (d) __Itemized list of reductions and increased receipts__ 
 

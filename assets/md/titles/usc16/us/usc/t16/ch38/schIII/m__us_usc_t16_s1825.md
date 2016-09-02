@@ -39,7 +39,7 @@
 
     (b) __Prohibitions__ 
 
-    Upon receipt of any certification from the Secretary of State under subsection (a) of this section, the Secretary of the Treasury shall immediately take such action as may be necessary and appropriate to prohibit the importation into the United States—
+    Upon receipt of any certification from the Secretary of State under subsection (a), the Secretary of the Treasury shall immediately take such action as may be necessary and appropriate to prohibit the importation into the United States—
 
         (1) of all fish and fish products from the fishery involved, if any; and
 

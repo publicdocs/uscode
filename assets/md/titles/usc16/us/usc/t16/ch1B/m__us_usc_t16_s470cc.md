@@ -21,7 +21,7 @@
 
     (b) __Determinations by Federal land manager prerequisite to issuance of permit__ 
 
-    A permit may be issued pursuant to an application under subsection (a) of this section if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
+    A permit may be issued pursuant to an application under subsection (a) if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
 
         (1) the applicant is qualified, to carry out the permitted activity,
 

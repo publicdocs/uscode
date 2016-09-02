@@ -37,7 +37,7 @@
 
     (c) __Availability of funds__ 
 
-        Funds appropriated under subsections (a)(2) and (b) of this section shall not be made available for any county which does not have in effect a land use ordinance which has been found to be consistent by the Commission, and concurred on by the Secretary as consistent with the management plan pursuant to [section 544f of this title][/us/usc/t16/s544f].
+        Funds appropriated under subsections (a)(2) and (b) shall not be made available for any county which does not have in effect a land use ordinance which has been found to be consistent by the Commission, and concurred on by the Secretary as consistent with the management plan pursuant to [section 544f of this title][/us/usc/t16/s544f].
 
 ([Pub. L. 99–663, § 16][/us/pl/99/663/s16], Nov. 17, 1986, [100 Stat. 4300][/us/stat/100/4300]; [Pub. L. 113–287, § 5(d)(17)][/us/pl/113/287/s5/d/17], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
 

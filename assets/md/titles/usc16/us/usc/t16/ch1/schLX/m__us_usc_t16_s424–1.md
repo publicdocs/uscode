@@ -21,11 +21,11 @@
 
     (b) __Limitation__ 
 
-        Land, easements, and buildings described in subsection (a) of this section may be acquired only from willing sellers.
+        Land, easements, and buildings described in subsection (a) may be acquired only from willing sellers.
 
     (c) __Administration__ 
 
-        Land, easements, and buildings acquired by the Secretary under subsection (a) of this section shall be administered by the Secretary as part of the park.
+        Land, easements, and buildings acquired by the Secretary under subsection (a) shall be administered by the Secretary as part of the park.
 
 ([Aug. 19, 1890, ch. 806, § 12][/us/act/1890-08-19/ch806/s12], as added [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 138\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–266.)
 

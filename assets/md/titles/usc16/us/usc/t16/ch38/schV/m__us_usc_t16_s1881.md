@@ -75,7 +75,7 @@
 
     (e) __Public comment__ 
 
-    Within one year after October 11, 1996, the Secretary shall publish in the Federal Register for a 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c) of this section. The proposal shall include—
+    Within one year after October 11, 1996, the Secretary shall publish in the Federal Register for a 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c). The proposal shall include—
 
         (1) a description of the arrangements of the Secretary for consultation and cooperation with the department in which the Coast Guard is operating, the States, the Councils, Marine Fisheries Commissions, the fishing industry and other interested parties; and
 
@@ -83,11 +83,11 @@
 
     (f) __Congressional transmittal__ 
 
-    Within 60 days after the end of the comment period and after consideration of comments received under subsection (e) of this section, the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
+    Within 60 days after the end of the comment period and after consideration of comments received under subsection (e), the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
 
         (1) any modifications made after comment and consultation;
 
-        (2) a proposed implementation schedule, including a schedule for the proposed cooperative agreements required under subsection (a)(4) of this section; and
+        (2) a proposed implementation schedule, including a schedule for the proposed cooperative agreements required under subsection (a)(4); and
 
         (3) recommendations for any such additional legislation as the Secretary considers necessary or desirable to implement the proposed system.
 

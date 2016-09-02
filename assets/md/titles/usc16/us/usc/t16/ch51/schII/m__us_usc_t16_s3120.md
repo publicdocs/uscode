@@ -27,7 +27,7 @@
 
     (b) __Environmental impact statement__ 
 
-        If the Secretary is required to prepare an environmental impact statement pursuant to [section 4332(2)(C) of title 42][/us/usc/t42/s4332/2/C], he shall provide the notice and hearing and include the findings required by subsection (a) of this section as part of such environmental impact statement.
+        If the Secretary is required to prepare an environmental impact statement pursuant to [section 4332(2)(C) of title 42][/us/usc/t42/s4332/2/C], he shall provide the notice and hearing and include the findings required by subsection (a) as part of such environmental impact statement.
 
     (c) __State or Native Corporation land selections and conveyances__ 
 

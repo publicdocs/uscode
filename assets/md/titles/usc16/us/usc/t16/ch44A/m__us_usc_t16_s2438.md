@@ -21,11 +21,11 @@
 
     (b) __Punishment__ 
 
-        Any offense described in subsection (a) of this section is punishable by a fine of $50,000, or imprisonment for not more than ten years, or both.
+        Any offense described in subsection (a) is punishable by a fine of $50,000, or imprisonment for not more than ten years, or both.
 
     (c) __Offenses under other laws__ 
 
-        A conviction under subsection (a) of this section for any act shall not be deemed to preclude a conviction for such act under any other law.
+        A conviction under subsection (a) for any act shall not be deemed to preclude a conviction for such act under any other law.
 
 ([Pub. L. 98–623, title III, § 309][/us/pl/98/623/s309], Nov. 8, 1984, [98 Stat. 3403][/us/stat/98/3403].)
 

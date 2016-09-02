@@ -29,7 +29,7 @@
 
     (c) __Boundary revision__ 
 
-        Upon acquisition of the properties referred to in subsections (a) and (b) of this section, the Secretary shall, after the publication of notice in the Federal Register, revise the boundary of Vicksburg National Military Park (hereinafter in sections 430h–6 to 430h–9 of this title referred to as the “park”) to reflect the inclusion of such properties within the park.
+        Upon acquisition of the properties referred to in subsections (a) and (b), the Secretary shall, after the publication of notice in the Federal Register, revise the boundary of Vicksburg National Military Park (hereinafter in sections 430h–6 to 430h–9 of this title referred to as the “park”) to reflect the inclusion of such properties within the park.
 
 ([Pub. L. 101–442, title I, § 101][/us/pl/101/442/s101], Oct. 18, 1990, [104 Stat. 1019][/us/stat/104/1019].)
 

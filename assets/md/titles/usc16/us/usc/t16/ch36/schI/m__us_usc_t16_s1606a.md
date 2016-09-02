@@ -17,7 +17,7 @@
 
     (a) __Establishment; source of funds__ 
 
-        There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to the Trust Fund under subsection (b)(1) of this section and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2) of this section.
+        There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to the Trust Fund under subsection (b)(1) and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2).
 
     (b) __Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates__ 
 

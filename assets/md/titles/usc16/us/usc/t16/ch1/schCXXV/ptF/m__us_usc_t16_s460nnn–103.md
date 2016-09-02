@@ -17,11 +17,11 @@
 
     (a) __Exchange authorized__ 
 
-        For the purpose of protecting and consolidating Federal lands within the Wilderness Area, the Secretary may carry out a land exchange with Tom J. Davis Livestock, Incorporated, to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in [section 460nnn–105(a) of this title][/us/usc/t16/s460nnn–105/a], consisting of a total of approximately 5,340 acres in exchange for the private lands described in subsection (b) of this section.
+        For the purpose of protecting and consolidating Federal lands within the Wilderness Area, the Secretary may carry out a land exchange with Tom J. Davis Livestock, Incorporated, to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in [section 460nnn–105(a) of this title][/us/usc/t16/s460nnn–105/a], consisting of a total of approximately 5,340 acres in exchange for the private lands described in subsection (b).
 
     (b) __Receipt of non-Federal lands__ 
 
-        As consideration for the conveyance of the Federal lands referred to in subsection (a) of this section and the disbursement referred to in subsection (c) of this section, Tom J. Davis Livestock, Incorporated, shall convey to the Secretary a parcel of land consisting of approximately 5,103 acres, as depicted on the map referred to in [section 460nnn–105(a) of this title][/us/usc/t16/s460nnn–105/a], for inclusion in the Wilderness Area.
+        As consideration for the conveyance of the Federal lands referred to in subsection (a) and the disbursement referred to in subsection (c), Tom J. Davis Livestock, Incorporated, shall convey to the Secretary a parcel of land consisting of approximately 5,103 acres, as depicted on the map referred to in [section 460nnn–105(a) of this title][/us/usc/t16/s460nnn–105/a], for inclusion in the Wilderness Area.
 
     (c) __Disbursement__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Completion of conveyance__ 
 
-        The Secretary shall complete the conveyance of the Federal lands under subsection (a) of this section within 70 days after the Secretary accepts the lands described in subsection (b) of this section.
+        The Secretary shall complete the conveyance of the Federal lands under subsection (a) within 70 days after the Secretary accepts the lands described in subsection (b).
 
 ([Pub. L. 106–399, title VI, § 603][/us/pl/106/399/s603], Oct. 30, 2000, [114 Stat. 1672][/us/stat/114/1672].)
 

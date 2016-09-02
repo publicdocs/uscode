@@ -33,7 +33,7 @@
 
         (3) The Director shall issue such regulations as are necessary and appropriate to implement Article 15 of the Protocol with respect to land areas and ice shelves in Antarctica.
 
-        (4) The Director shall issue such additional regulations as are necessary and appropriate to implement the Protocol and this chapter, except as provided in subsection (b) of this section.
+        (4) The Director shall issue such additional regulations as are necessary and appropriate to implement the Protocol and this chapter, except as provided in subsection (b).
 
     (b) __Regulations to be issued by Secretary of Department in which Coast Guard is operating__ 
 

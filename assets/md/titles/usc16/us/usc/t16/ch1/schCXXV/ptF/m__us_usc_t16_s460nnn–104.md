@@ -17,11 +17,11 @@
 
     (a) __Exchange authorized__ 
 
-        For the purpose of protecting and consolidating Federal lands within the Cooperative Management and Protection Area, the Secretary may carry out a land exchange with the Lowther (Clemens) Ranch to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in [section 460nnn–105(a) of this title][/us/usc/t16/s460nnn–105/a], consisting of a total of approximately 11,796 acres in exchange for the private lands described in subsection (b) of this section.
+        For the purpose of protecting and consolidating Federal lands within the Cooperative Management and Protection Area, the Secretary may carry out a land exchange with the Lowther (Clemens) Ranch to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in [section 460nnn–105(a) of this title][/us/usc/t16/s460nnn–105/a], consisting of a total of approximately 11,796 acres in exchange for the private lands described in subsection (b).
 
     (b) __Receipt of non-Federal lands__ 
 
-        As consideration for the conveyance of the Federal lands referred to in subsection (a) of this section and the disbursement referred to in subsection (d) of this section, the Lowther (Clemens) Ranch shall convey to the Secretary a parcel of land consisting of approximately 1,078 acres, as depicted on the map referred to in [section 460nnn–105(a) of this title][/us/usc/t16/s460nnn–105/a], for inclusion in the Cooperative Management and Protection Area.
+        As consideration for the conveyance of the Federal lands referred to in subsection (a) and the disbursement referred to in subsection (d), the Lowther (Clemens) Ranch shall convey to the Secretary a parcel of land consisting of approximately 1,078 acres, as depicted on the map referred to in [section 460nnn–105(a) of this title][/us/usc/t16/s460nnn–105/a], for inclusion in the Cooperative Management and Protection Area.
 
     (c) __Treatment of grazing__ 
 
@@ -33,7 +33,7 @@
 
     (e) __Completion of conveyance__ 
 
-        The Secretary shall complete the conveyance of the Federal lands under subsection (a) of this section within 70 days after the Secretary accepts the lands described in subsection (b) of this section.
+        The Secretary shall complete the conveyance of the Federal lands under subsection (a) within 70 days after the Secretary accepts the lands described in subsection (b).
 
 ([Pub. L. 106–399, title VI, § 604][/us/pl/106/399/s604], Oct. 30, 2000, [114 Stat. 1672][/us/stat/114/1672].)
 

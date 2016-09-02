@@ -17,13 +17,13 @@
 
     (a) __Consideration and determination__ 
 
-        Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) of this section and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c) of this section, and for purposes of any review of such consideration and determination in any court in accordance with [section 2633 of this title][/us/usc/t16/s2633], the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
+        Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c), and for purposes of any review of such consideration and determination in any court in accordance with [section 2633 of this title][/us/usc/t16/s2633], the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
     (b) __Procedural requirements for consideration and determination__ 
 
         (1)
 
-         The consideration referred to in subsection (a) of this section shall be made after public notice and hearing. The determination referred to in subsection (a) of this section shall be—
+         The consideration referred to in subsection (a) shall be made after public notice and hearing. The determination referred to in subsection (a) shall be—
 
             (A) in writing,
 
@@ -31,7 +31,7 @@
 
             (C) available to the public.
 
-        (2) Except as otherwise provided in paragraph (1), in the second sentence of [section 2622(a) of this title][/us/usc/t16/s2622/a], and in sections 2631 and 2632 of this title, the procedures for the consideration and determination referred to in subsection (a) of this section shall be those established by the State regulatory authority or the nonregulated electric utility.
+        (2) Except as otherwise provided in paragraph (1), in the second sentence of [section 2622(a) of this title][/us/usc/t16/s2622/a], and in sections 2631 and 2632 of this title, the procedures for the consideration and determination referred to in subsection (a) shall be those established by the State regulatory authority or the nonregulated electric utility.
 
     (c) __Implementation__ 
 
@@ -39,15 +39,15 @@
 
          The State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility may, to the extent consistent with otherwise applicable State law—
 
-            (A) implement any such standard determined under subsection (a) of this section to be appropriate to carry out the purposes of this chapter, or
+            (A) implement any such standard determined under subsection (a) to be appropriate to carry out the purposes of this chapter, or
 
             (B) decline to implement any such standard.
 
-        (2) If a State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility declines to implement any standard established by subsection (d) of this section which is determined under subsection (a) of this section to be appropriate to carry out the purposes of this chapter, such authority or nonregulated electric utility shall state in writing the reasons therefor. Such statement of reasons shall be available to the public.
+        (2) If a State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility declines to implement any standard established by subsection (d) which is determined under subsection (a) to be appropriate to carry out the purposes of this chapter, such authority or nonregulated electric utility shall state in writing the reasons therefor. Such statement of reasons shall be available to the public.
 
         (3)
 
-         If a State regulatory authority implements a standard established by subsection (d)(7) or (8) of this section, such authority shall—
+         If a State regulatory authority implements a standard established by subsection (d)(7) or (8), such authority shall—
 
             (A) consider the impact that implementation of such standard would have on small businesses engaged in the design, sale, supply, installation or servicing of energy conservation, energy efficiency or other demand side management measures, and
 

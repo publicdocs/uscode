@@ -21,7 +21,7 @@
 
         (1) __In general__ 
 
-        Subject to the amendment made by subsection (a) of this section, <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup>  nothing in this subchapter affects—
+        Subject to the amendment made by subsection (a), <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup>  nothing in this subchapter affects—
 
             (A) the use, allocation, ownership, or control, in existence on November 22, 2000, of any water, water right, or any other valid existing right;
 
@@ -47,7 +47,7 @@
 
                 (ii) the Closed Basin Division, San Luis Valley Project.
 
-            (D) Except as provided in subsections (c) and (d) of this section, no Federal reservation of water may be claimed or established for the national park or the national preserve.
+            (D) Except as provided in subsections (c) and (d), no Federal reservation of water may be claimed or established for the national park or the national preserve.
 
     (c) __National Forest water rights__ 
 

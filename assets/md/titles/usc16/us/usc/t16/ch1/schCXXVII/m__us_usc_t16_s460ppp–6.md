@@ -49,27 +49,27 @@
 
     (d) __Grazing__ 
 
-        Within the wilderness areas designated under subsection (a) of this section, the grazing of livestock, where established prior to December 21, 2000, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, as long as such regulations, policies, and practices fully conform with and implement the intent of Congress regarding grazing in such areas as such intent is expressed in the Wilderness Act and [section 101(f) of Public Law 101–628][/us/pl/101/628/s101/f].
+        Within the wilderness areas designated under subsection (a), the grazing of livestock, where established prior to December 21, 2000, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, as long as such regulations, policies, and practices fully conform with and implement the intent of Congress regarding grazing in such areas as such intent is expressed in the Wilderness Act and [section 101(f) of Public Law 101–628][/us/pl/101/628/s101/f].
 
     (e) __Hunting, trapping, and fishing__ 
 
         (1) __In general__ 
 
-            Nothing in this subchapter diminishes the jurisdiction of the State of Nevada with respect to fish and wildlife management, including regulation of hunting and fishing on public land in the areas designated as wilderness under subsection (a) of this section.
+            Nothing in this subchapter diminishes the jurisdiction of the State of Nevada with respect to fish and wildlife management, including regulation of hunting and fishing on public land in the areas designated as wilderness under subsection (a).
 
         (2) __Applicable law__ 
 
-            Any action in the areas designated as wilderness under subsection (a) of this section shall be consistent with the Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.).
+            Any action in the areas designated as wilderness under subsection (a) shall be consistent with the Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.).
 
     (f) __Wildland fire protection__ 
 
-        Nothing in this subchapter or the Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.) precludes a Federal, State, or local agency from conducting wildland fire management operations (including prescribed burns) within the areas designated as wilderness under subsection (a) of this section, subject to any conditions that the Secretary considers appropriate.
+        Nothing in this subchapter or the Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.) precludes a Federal, State, or local agency from conducting wildland fire management operations (including prescribed burns) within the areas designated as wilderness under subsection (a), subject to any conditions that the Secretary considers appropriate.
 
     (g) __Wilderness study release__ 
 
     Congress—
 
-        (1) finds that the parcels of land in the wilderness study areas referred to in subsection (a) of this section that are not designated as wilderness by subsection (a) of this section have been adequately studied for wilderness designation under [section 1782 of title 43][/us/usc/t43/s1782]; and
+        (1) finds that the parcels of land in the wilderness study areas referred to in subsection (a) that are not designated as wilderness by subsection (a) have been adequately studied for wilderness designation under [section 1782 of title 43][/us/usc/t43/s1782]; and
 
         (2) declares that those parcels are no longer subject to the requirement of subsection (c) of that section pertaining to the management of wilderness study areas in a manner that does not impair the suitability of such areas for preservation as wilderness.
 

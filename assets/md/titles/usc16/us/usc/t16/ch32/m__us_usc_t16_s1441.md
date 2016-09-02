@@ -25,7 +25,7 @@
 
     (b) __Public notice required__ 
 
-        The Secretary shall provide appropriate public notice before identifying any category of activity subject to a special use permit under subsection (a) of this section.
+        The Secretary shall provide appropriate public notice before identifying any category of activity subject to a special use permit under subsection (a).
 
     (c) __Permit terms__ 
 

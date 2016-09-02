@@ -25,7 +25,7 @@
 
     (c) __Contracts, leases, and cooperative agreements__ 
 
-        The Secretary may enter into such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the purposes of this subchapter or subchapter V of this chapter and on such terms as he deems appropriate with any Federal or State agency, public or private institution, or other person.
+        The Secretary may enter into such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the purposes of this subchapter or subchapter V and on such terms as he deems appropriate with any Federal or State agency, public or private institution, or other person.
 
     (d) __Annual review; suspension of program__ 
 
@@ -43,7 +43,7 @@
 
     Subsec. (e). [Pub. L. 103–238, § 7(a)][/us/pl/103/238/s7/a], added subsec. (e).
 
-    1992—Subsec. (c). [Pub. L. 102–587][/us/pl/102/587] inserted “or subchapter V of this chapter” after “of this subchapter”.
+    1992—Subsec. (c). [Pub. L. 102–587][/us/pl/102/587] inserted “or subchapter V” after “of this subchapter”.
 
     1980—Subsec. (d). [Pub. L. 96–470][/us/pl/96/470] substituted “include in the annual report to the public and the Congress required under [section 1373(f) of this title][/us/usc/t16/s1373/f]” for “forthwith submit to Congress”.
 

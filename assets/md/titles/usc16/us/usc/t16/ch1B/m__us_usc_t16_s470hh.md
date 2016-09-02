@@ -25,7 +25,7 @@
 
     (b) __Request for disclosure by Governors__ 
 
-    Notwithstanding the provisions of subsection (a) of this section, upon the written request of the Governor of any State, which request shall state—
+    Notwithstanding the provisions of subsection (a), upon the written request of the Governor of any State, which request shall state—
 
         (1) the specific site or area for which information is sought,
 

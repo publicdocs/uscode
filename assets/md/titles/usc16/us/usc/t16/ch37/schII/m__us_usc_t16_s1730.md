@@ -21,7 +21,7 @@
 
     (b) __Disaster relief or prevention projects__ 
 
-        Notwithstanding subsection (a) of this section, any amounts made available under that subsection shall be available for disaster prevention or relief projects.
+        Notwithstanding subsection (a), any amounts made available under that subsection shall be available for disaster prevention or relief projects.
 
     (c) __Availability of funds__ 
 

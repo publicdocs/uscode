@@ -21,7 +21,7 @@
 
     (b) __Addition to park__ 
 
-        (1) In addition to subsection (a) of this section, the boundaries of the park shall include the area, comprising approximately 600 acres, which is south of U.S. Route 29, north of Interstate Route 66, east of Route 705, and west of Route 622. Such area shall hereafter in sections 429b to 429b–5 of this title be referred to as the “Addition”.
+        (1) In addition to subsection (a), the boundaries of the park shall include the area, comprising approximately 600 acres, which is south of U.S. Route 29, north of Interstate Route 66, east of Route 705, and west of Route 622. Such area shall hereafter in sections 429b to 429b–5 of this title be referred to as the “Addition”.
 
         (2)
 

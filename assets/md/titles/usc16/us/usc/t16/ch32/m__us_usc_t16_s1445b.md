@@ -39,15 +39,15 @@
 
     (b) __Contract authority__ 
 
-        The Secretary may contract with any person for the creation of symbols or the solicitation of official sponsors under subsection (a) of this section.
+        The Secretary may contract with any person for the creation of symbols or the solicitation of official sponsors under subsection (a).
 
     (c) __Restrictions__ 
 
-        The Secretary may restrict the use of the symbols published under subsection (a) of this section, and the designation of official sponsors of the national marine sanctuary program or of individual national marine sanctuaries to ensure compatibility with the goals of the national marine sanctuary program.
+        The Secretary may restrict the use of the symbols published under subsection (a), and the designation of official sponsors of the national marine sanctuary program or of individual national marine sanctuaries to ensure compatibility with the goals of the national marine sanctuary program.
 
     (d) __Property of United States__ 
 
-        Any symbol which is adopted by the Secretary and published in the Federal Register under subsection (a) of this section is deemed to be the property of the United States.
+        Any symbol which is adopted by the Secretary and published in the Federal Register under subsection (a) is deemed to be the property of the United States.
 
     (e) __Prohibited activities__ 
 
@@ -57,7 +57,7 @@
 
         (2) to represent himself or herself to be an official sponsor absent a designation by the Secretary;
 
-        (3) to manufacture, reproduce, or otherwise use any symbol adopted by the Secretary under subsection (a)(1) of this section, including to sell any item bearing such a symbol, unless authorized by the Secretary under subsection (a)(4) of this section or subsection (f) of this section; or
+        (3) to manufacture, reproduce, or otherwise use any symbol adopted by the Secretary under subsection (a)(1), including to sell any item bearing such a symbol, unless authorized by the Secretary under subsection (a)(4) or subsection (f); or
 
         (4) to violate any regulation promulgated by the Secretary under this section.
 

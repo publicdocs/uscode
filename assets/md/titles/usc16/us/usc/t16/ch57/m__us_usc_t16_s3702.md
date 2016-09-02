@@ -39,7 +39,7 @@
 
             (A) __In general__ 
 
-            Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a) of this section, of whom—
+            Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a), of whom—
 
                 (i) at least six shall be educated or experienced in fish, wildlife, or other natural resource conservation;
 
@@ -107,7 +107,7 @@
 
     (e) __Meetings__ 
 
-        The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b) of this section.
+        The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
 
     (f) __Reimbursement of expenses__ 
 

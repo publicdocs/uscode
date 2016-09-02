@@ -89,7 +89,7 @@
 
                 (i) will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated taking of fish; and
 
-                (ii) will use the grant funds in compliance with subsection (d) of this section.
+                (ii) will use the grant funds in compliance with subsection (d).
 
             (B) __Penalties for certain activities__ 
 

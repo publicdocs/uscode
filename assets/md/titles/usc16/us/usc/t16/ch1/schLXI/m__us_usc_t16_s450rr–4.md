@@ -25,7 +25,7 @@
 
     (b) __Consultation with Administrator__ 
 
-        In carrying out the requirements of subsection (a) of this section, the Secretary shall consult with the Administrator, who shall provide research and technical assistance to the Secretary.
+        In carrying out the requirements of subsection (a), the Secretary shall consult with the Administrator, who shall provide research and technical assistance to the Secretary.
 
     (c) __Reports to Congressional committees on progress of negotiations and consultations__ 
 
@@ -33,7 +33,7 @@
 
     (d) __Notification of agreement and recommendations to Congressional committees__ 
 
-        Upon adoption of an international agreement as described in subsection (a) of this section, the Secretary shall provide notification of the agreement and recommendations for legislation to implement the agreement to the Committee on Merchant Marine and Fisheries and the Committee on Foreign Affairs in the House of Representatives and to the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation in the Senate.
+        Upon adoption of an international agreement as described in subsection (a), the Secretary shall provide notification of the agreement and recommendations for legislation to implement the agreement to the Committee on Merchant Marine and Fisheries and the Committee on Foreign Affairs in the House of Representatives and to the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation in the Senate.
 
 ([Pub. L. 99–513, § 6][/us/pl/99/513/s6], Oct. 21, 1986, [100 Stat. 2083][/us/stat/100/2083].)
 

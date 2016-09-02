@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            Not later than the end of the 160-day period beginning on the date of publication of an initial notice under subsection (a) of this section, except as provided in paragraph (3), the Secretary shall immediately close the decision record and receive no more filings on the appeal.
+            Not later than the end of the 160-day period beginning on the date of publication of an initial notice under subsection (a), except as provided in paragraph (3), the Secretary shall immediately close the decision record and receive no more filings on the appeal.
 
         (2) __Notice__ 
 

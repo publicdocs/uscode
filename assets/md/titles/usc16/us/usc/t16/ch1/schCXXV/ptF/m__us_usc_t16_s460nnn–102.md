@@ -45,7 +45,7 @@
 
     (c) __Completion of conveyance__ 
 
-        The Secretary shall complete the conveyances of the Federal lands under subsections (a) and (b) of this section within 70 days after the Secretary accepts the lands described in such subsections.
+        The Secretary shall complete the conveyances of the Federal lands under subsections (a) and (b) within 70 days after the Secretary accepts the lands described in such subsections.
 
 ([Pub. L. 106–399, title VI, § 602][/us/pl/106/399/s602], Oct. 30, 2000, [114 Stat. 1671][/us/stat/114/1671].)
 

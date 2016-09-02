@@ -27,7 +27,7 @@
 
         (1) __In general__ 
 
-            The Secretary is authorized to enter into contracts and cooperative agreements with any qualified youth or conservation corps to perform appropriate conservation projects referred to in subsection (d) of this section.
+            The Secretary is authorized to enter into contracts and cooperative agreements with any qualified youth or conservation corps to perform appropriate conservation projects referred to in subsection (d).
 
         (2) __Preference__ 
 

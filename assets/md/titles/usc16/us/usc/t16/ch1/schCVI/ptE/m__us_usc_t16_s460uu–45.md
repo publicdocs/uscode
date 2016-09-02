@@ -21,7 +21,7 @@
 
          Upon the request of the Pueblo of Acoma, the Secretary shall acquire by exchange any lands held in trust for the Pueblo of Acoma (hereinafter referred to as “trust lands”) located within the boundary of the conservation area which the Pueblo wishes to exchange pursuant to this section. Such trust lands shall be exchanged either for—
 
-            (A) lands described in subsection (c) of this section (with respect to trust lands west of New Mexico Highway 117); or
+            (A) lands described in subsection (c) (with respect to trust lands west of New Mexico Highway 117); or
 
             (B) public lands of approximately equal value located outside the monument and outside the conservation area but within the boundaries of the State of New Mexico which are selected by the Pueblo of Acoma, so long as such exchange is consistent with applicable law and Bureau of Land Management resource management plans developed pursuant to the Federal Land Policy and Management Act of 1976 \[[43 U.S.C. 1701][/us/usc/t43/s1701] et seq.\].
 
@@ -31,7 +31,7 @@
 
     (b) __Public lands available for exchange__ 
 
-        For purposes of acquiring lands pursuant to subsection (a) of this section, the Secretary, consistent with applicable law and Bureau of Land Management resource management plans described in subsection (a) of this section, shall make public lands within the boundaries of the State of New Mexico available for exchange. Nothing in this subchapter shall be construed as authorizing or requiring revocation of any existing withdrawal or classification of public land except in a manner consistent with applicable law.
+        For purposes of acquiring lands pursuant to subsection (a) of this section, the Secretary, consistent with applicable law and Bureau of Land Management resource management plans described in subsection (a), shall make public lands within the boundaries of the State of New Mexico available for exchange. Nothing in this subchapter shall be construed as authorizing or requiring revocation of any existing withdrawal or classification of public land except in a manner consistent with applicable law.
 
     (c) __Public lands available for transfer; management of lands not exchanged or transferred__ 
 

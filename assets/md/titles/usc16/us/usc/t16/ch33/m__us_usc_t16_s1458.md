@@ -39,11 +39,11 @@
 
     (d) __Withdrawal of approval of program__ 
 
-        The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state has failed to take the actions referred to in subsection (c)(2)(A) of this section.
+        The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state has failed to take the actions referred to in subsection (c)(2)(A).
 
     (e) __Notice and hearing__ 
 
-        Management program approval and financial assistance may not be withdrawn under subsection (d) of this section, unless the Secretary gives the coastal state notice of the proposed withdrawal and an opportunity for a public hearing on the proposed action. Upon the withdrawal of management program approval under this subsection (d) of this section, the Secretary shall provide the coastal state with written specifications of the actions that should be taken, or not engaged in, by the state in order that such withdrawal may be canceled by the Secretary.
+        Management program approval and financial assistance may not be withdrawn under subsection (d), unless the Secretary gives the coastal state notice of the proposed withdrawal and an opportunity for a public hearing on the proposed action. Upon the withdrawal of management program approval under this subsection (d), the Secretary shall provide the coastal state with written specifications of the actions that should be taken, or not engaged in, by the state in order that such withdrawal may be canceled by the Secretary.
 
 ([Pub. L. 89–454, title III, § 312][/us/pl/89/454/s312], formerly § 309, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1287][/us/stat/86/1287], renumbered § 312 and amended [Pub. L. 94–370][/us/pl/94/370], §§ 7, 10, July 26, 1976, [90 Stat. 1019][/us/stat/90/1019], 1029; [Pub. L. 96–464, § 9(a)][/us/pl/96/464/s9/a], Oct. 17, 1980, [94 Stat. 2065][/us/stat/94/2065]; [Pub. L. 99–272, title VI, § 6043(a)][/us/pl/99/272/s6043/a], Apr. 7, 1986, [100 Stat. 124][/us/stat/100/124]; [Pub. L. 101–508, title VI][/us/pl/101/508], §§ 6212, 6216(b), Nov. 5, 1990, [104 Stat. 1388–311][/us/stat/104/1388-311], 1388–314; [Pub. L. 102–587, title II, § 2205(b)(1)(A)][/us/pl/102/587/s2205/b/1/A], (C), Nov. 4, 1992, [106 Stat. 5050][/us/stat/106/5050].)
 

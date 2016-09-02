@@ -27,7 +27,7 @@
 
                 (ii) determining, after an unusual mortality event has begun, if response actions with respect to that event are no longer necessary; and
 
-                (iii) developing the contingency plan in accordance with subsection (b) of this section, to assist the Secretary in responding to unusual mortality events.
+                (iii) developing the contingency plan in accordance with subsection (b), to assist the Secretary in responding to unusual mortality events.
 
             (B) The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
 
@@ -45,7 +45,7 @@
 
                 (ii) inform the stranding network participant of that determination; and
 
-                (iii) if the Secretary has determined an unusual mortality event is occurring, designate an Onsite Coordinator for the event, in accordance with subsection (c) of this section.
+                (iii) if the Secretary has determined an unusual mortality event is occurring, designate an Onsite Coordinator for the event, in accordance with subsection (c).
 
     (b) __Contingency plan__ 
 
@@ -89,7 +89,7 @@
 
             (A)
 
-             An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b) of this section, except that—
+             An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b), except that—
 
                 (i) with respect to any matter that is not covered by the contingency plan, an Onsite Coordinator shall use his or her best professional judgment; and
 

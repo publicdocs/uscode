@@ -65,7 +65,7 @@
 
         (2)
 
-         Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (b)”. </sup></sup>  of this section—
+         Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (b)—”. </sup></sup> 
 
             (A) two shall be appointed for terms of one year;
 

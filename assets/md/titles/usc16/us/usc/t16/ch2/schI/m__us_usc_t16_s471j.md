@@ -21,7 +21,7 @@
 
     (b) __Effective period of authorization__ 
 
-    The authorization in subsection (a) of this section expires March 1, 1999 and shall become effective only—
+    The authorization in subsection (a) expires March 1, 1999 and shall become effective only—
 
         (1) when the State of California provides a $130,000,000 contribution for the transaction;
 
@@ -41,7 +41,7 @@
 
     (c) __Acquisition__ 
 
-        Notwithstanding any other provision of law, the amount paid by the United States to acquire identified lands and interests in lands referred to in subsection (a) of this section may differ from the value contained in the appraisal required by subsection (b)(5) of this section if the Secretary of the Interior certifies, in writing, to Congress that such action is in the best interest of the United States.
+        Notwithstanding any other provision of law, the amount paid by the United States to acquire identified lands and interests in lands referred to in subsection (a) may differ from the value contained in the appraisal required by subsection (b)(5) if the Secretary of the Interior certifies, in writing, to Congress that such action is in the best interest of the United States.
 
     (d) __Habitat conservation plan__ 
 
@@ -51,7 +51,7 @@
 
         (2) __Report__ 
 
-            If the Pacific Lumber Company submits an application for an incidental take permit under section 10(a) of the Endangered Species Act \[[16 U.S.C. 1539(a)][/us/usc/t16/s1539/a]\] for the transaction authorized by subsection (a) of this section, and the permit is not issued, then the United States Fish and Wildlife Service and the National Marine Fisheries Service shall set forth the substantive rationale or rationales for why the measures proposed by the applicant for such permit did not meet the issuance criteria for the species at issue. Such report shall be submitted to the Congress within 60 days of the decision not to issue such permit or by May 1, 1999, whichever is earlier.
+            If the Pacific Lumber Company submits an application for an incidental take permit under section 10(a) of the Endangered Species Act \[[16 U.S.C. 1539(a)][/us/usc/t16/s1539/a]\] for the transaction authorized by subsection (a), and the permit is not issued, then the United States Fish and Wildlife Service and the National Marine Fisheries Service shall set forth the substantive rationale or rationales for why the measures proposed by the applicant for such permit did not meet the issuance criteria for the species at issue. Such report shall be submitted to the Congress within 60 days of the decision not to issue such permit or by May 1, 1999, whichever is earlier.
 
         (3) __HCP standards__ 
 
@@ -67,13 +67,13 @@
 
     (g) __Out-year budget limitations__ 
 
-    The following funding limitations and parameters shall apply to the Headwaters Forest acquired under subsection (a) of this section—
+    The following funding limitations and parameters shall apply to the Headwaters Forest acquired under subsection (a)—
 
         (1) At least 50 percent of the total funds for management of such lands above the annual level of $100,000 shall (with the exception of law enforcement activities and emergency activities) be from non-Federal sources.
 
         (2) Subject to appropriations, the authorized annual Federal funding for management of such land is $300,000 (with the exception of law enforcement activities and emergency activities).
 
-        (3) The Secretary of the Interior or the Headwaters Forest Management Trust referenced in subsection (h) of this section is authorized to accept and use donations of funds and personal property from the State of California, private individuals, and other nongovernmental entities for the purpose of management of the Headwaters Forest.
+        (3) The Secretary of the Interior or the Headwaters Forest Management Trust referenced in subsection (h) is authorized to accept and use donations of funds and personal property from the State of California, private individuals, and other nongovernmental entities for the purpose of management of the Headwaters Forest.
 
     (h) __Headwaters Forest Management Trust__ 
 
@@ -91,7 +91,7 @@
 
         (1) __In general__ 
 
-        A concise management plan for the Headwaters Forest shall be developed and periodically amended as necessary by the Secretary of the Interior in consultation with the State of California (and in the case that the authority provided in subsection (h) of this section is exercised, the trustees shall develop and periodically amend the management plan), and shall meet the following requirements:
+        A concise management plan for the Headwaters Forest shall be developed and periodically amended as necessary by the Secretary of the Interior in consultation with the State of California (and in the case that the authority provided in subsection (h) is exercised, the trustees shall develop and periodically amend the management plan), and shall meet the following requirements:
 
             (A) Management goals for the plan shall be to conserve and study the land, fish, wildlife, and forests occurring on such land while providing public recreation opportunities and other management needs.
 

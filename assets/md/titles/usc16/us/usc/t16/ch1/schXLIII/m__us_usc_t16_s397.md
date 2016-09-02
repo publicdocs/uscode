@@ -115,7 +115,7 @@ parcel 3
 
     (c) __Acquisition__ 
 
-        The Secretary of the Interior is authorized to acquire approximately 159 acres of lands and interests therein within the area identified as “Parcel B” on the map referenced in subsection (b) of this section. Upon the acquisition of such lands or interests therein, the Secretary shall modify the boundaries of Puʻuhonua o Ho̅naunau National Historical Park to include such lands or interests therein.
+        The Secretary of the Interior is authorized to acquire approximately 159 acres of lands and interests therein within the area identified as “Parcel B” on the map referenced in subsection (b). Upon the acquisition of such lands or interests therein, the Secretary shall modify the boundaries of Puʻuhonua o Ho̅naunau National Historical Park to include such lands or interests therein.
 
 ([July 26, 1955, ch. 385, § 1][/us/act/1955-07-26/ch385/s1], [69 Stat. 376][/us/stat/69/376]; [Pub. L. 95–625, title III, § 305][/us/pl/95/625/s305], Nov. 10, 1978, [92 Stat. 3477][/us/stat/92/3477]; [Pub. L. 106–510, § 3(d)(1)][/us/pl/106/510/s3/d/1], Nov. 13, 2000, [114 Stat. 2364][/us/stat/114/2364]; [Pub. L. 107–340, § 2][/us/pl/107/340/s2], Dec. 16, 2002, [116 Stat. 2889][/us/stat/116/2889].)
 

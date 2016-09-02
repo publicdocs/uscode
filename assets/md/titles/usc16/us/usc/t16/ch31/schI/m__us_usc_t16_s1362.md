@@ -57,7 +57,7 @@
 
             (ii) the Secretary of the Interior as to all responsibility, authority, funding, and duties under this chapter with respect to all other marine mammals covered by this chapter.
 
-        (B) in  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  [section 1387 of this title][/us/usc/t16/s1387] and subchapter V of this chapter (other than [section 1421f–1 of this title][/us/usc/t16/s1421f–1]) the term “Secretary” means the Secretary of Commerce.
+        (B) in  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  [section 1387 of this title][/us/usc/t16/s1387] and subchapter V (other than [section 1421f–1 of this title][/us/usc/t16/s1421f–1]) the term “Secretary” means the Secretary of Commerce.
 
     (13) The term “take” means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill any marine mammal.
 
@@ -177,7 +177,7 @@
 
     “(C) The term ‘Level B harassment’ means harassment described in subparagraph (A)(ii).”
 
-    2000—Par. (12)(B). [Pub. L. 106–555][/us/pl/106/555] inserted “(other than [section 1421f–1 of this title][/us/usc/t16/s1421f–1])” after “subchapter V of this chapter”.
+    2000—Par. (12)(B). [Pub. L. 106–555][/us/pl/106/555] inserted “(other than [section 1421f–1 of this title][/us/usc/t16/s1421f–1])” after “subchapter V”.
 
     1997—Pars. (28), (29). [Pub. L. 105–42][/us/pl/105/42] added pars. (28) and (29).
 
@@ -191,7 +191,7 @@
 
     Par. (21). [Pub. L. 104–208][/us/pl/104/208] made technical amendment to reference in original act which appears in text as reference to [section 1852 of this title][/us/usc/t16/s1852].
 
-    1994—Par. (12)(B). [Pub. L. 103–238, § 24(a)(2)][/us/pl/103/238/s24/a/2], substituted “in [section 1387 of this title][/us/usc/t16/s1387] and subchapter V of this chapter” for “in subchapter V of this chapter”.
+    1994—Par. (12)(B). [Pub. L. 103–238, § 24(a)(2)][/us/pl/103/238/s24/a/2], substituted “in [section 1387 of this title][/us/usc/t16/s1387] and subchapter V” for “in subchapter V”.
 
     Pars. (15) to (17). [Pub. L. 103–238, § 16(a)][/us/pl/103/238/s16/a], redesignated par. (15) defining “fishery”, and par. (16), as pars. (16) and (17), respectively, and struck out former par. (17) which defined “intermediary nation”.
 

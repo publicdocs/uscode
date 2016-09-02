@@ -19,11 +19,11 @@
 
     The Secretary of State—
 
-        (1) shall renegotiate treaties as provided for in subsection (b) of this section;
+        (1) shall renegotiate treaties as provided for in subsection (b);
 
         (2) shall negotiate governing international fishery agreements described in [section 1821(c) of this title][/us/usc/t16/s1821/c];
 
-        (3) may negotiate boundary agreements as provided for in subsection (d) of this section;
+        (3) may negotiate boundary agreements as provided for in subsection (d);
 
         (4)
 
@@ -33,7 +33,7 @@
 
             (B) which provide for the conservation and management of anadromous species and highly migratory species; and
 
-        (5) may enter into such other negotiations, not prohibited by subsection (c) of this section, as may be necessary and appropriate to further the purposes, policy, and provisions of this chapter.
+        (5) may enter into such other negotiations, not prohibited by subsection (c), as may be necessary and appropriate to further the purposes, policy, and provisions of this chapter.
 
     (b) __Treaty renegotiation__ 
 

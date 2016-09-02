@@ -21,7 +21,7 @@
 
         (1) each estuarine sanctuary designated under this section as in effect before April 7, 1986; and
 
-        (2) each estuarine area designated as a national estuarine reserve under subsection (b) of this section.
+        (2) each estuarine area designated as a national estuarine reserve under subsection (b).
 
         Each estuarine sanctuary referred to in paragraph (1) is hereby designated as a national estuarine reserve.
 
@@ -55,7 +55,7 @@
 
         (4) the establishment of performance standards upon which the effectiveness of the research efforts and the value of reserves within the System in addressing the coastal management issues identified in paragraph (1) may be measured; and
 
-        (5) the consideration of additional sources of funds for estuarine research than the funds authorized under this chapter, and strategies for encouraging the use of such funds within the System, with particular emphasis on mechanisms established under subsection (d) of this section.
+        (5) the consideration of additional sources of funds for estuarine research than the funds authorized under this chapter, and strategies for encouraging the use of such funds within the System, with particular emphasis on mechanisms established under subsection (d).
 
         In developing the guidelines under this section, the Secretary shall consult with prominent members of the estuarine research community.
 
@@ -83,7 +83,7 @@
 
                 (iii) for purposes of conducting educational or interpretive activities; and
 
-            (B) to any coastal state or public or private person for purposes of supporting research and monitoring within a national estuarine reserve that are consistent with the research guidelines developed under subsection (c) of this section.
+            (B) to any coastal state or public or private person for purposes of supporting research and monitoring within a national estuarine reserve that are consistent with the research guidelines developed under subsection (c).
 
         (2) Financial assistance provided under paragraph (1) shall be subject to such terms and conditions as the Secretary considers necessary or appropriate to protect the interests of the United States, including requiring coastal states to execute suitable title documents setting forth the property interest or interests of the United States in any lands and waters acquired in whole or part with such financial assistance.
 
@@ -99,15 +99,15 @@
 
         (1) The Secretary shall periodically evaluate the operation and management of each national estuarine reserve, including education and interpretive activities, and the research being conducted within the reserve.
 
-        (2) If evaluation under paragraph (1) reveals that the operation and management of the reserve is deficient, or that the research being conducted within the reserve is not consistent with the research guidelines developed under subsection (c) of this section, the Secretary may suspend the eligibility of that reserve for financial assistance under subsection (e) of this section until the deficiency or inconsistency is remedied.
+        (2) If evaluation under paragraph (1) reveals that the operation and management of the reserve is deficient, or that the research being conducted within the reserve is not consistent with the research guidelines developed under subsection (c), the Secretary may suspend the eligibility of that reserve for financial assistance under subsection (e) until the deficiency or inconsistency is remedied.
 
         (3)
 
          The Secretary may withdraw the designation of an estuarine area as a national estuarine reserve if evaluation under paragraph (1) reveals that—
 
-            (A) the basis for any one or more of the findings made under subsection (b)(2) of this section regarding that area no longer exists; or
+            (A) the basis for any one or more of the findings made under subsection (b)(2) regarding that area no longer exists; or
 
-            (B) a substantial portion of the research conducted within the area, over a period of years, has not been consistent with the research guidelines developed under subsection (c) of this section.
+            (B) a substantial portion of the research conducted within the area, over a period of years, has not been consistent with the research guidelines developed under subsection (c).
 
     (g) __Report__ 
 
@@ -119,7 +119,7 @@
 
         (3) the status of the research program being conducted within the System; and
 
-        (4) a summary of the evaluations made under subsection (f) of this section.
+        (4) a summary of the evaluations made under subsection (f).
 
 ([Pub. L. 89–454, title III, § 315][/us/pl/89/454/s315], formerly § 312, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1288][/us/stat/86/1288]; renumbered § 315 and amended [Pub. L. 94–370][/us/pl/94/370], §§ 7, 12, July 26, 1976, [90 Stat. 1019][/us/stat/90/1019], 1030; [Pub. L. 96–464, § 11][/us/pl/96/464/s11], Oct. 17, 1980, [94 Stat. 2067][/us/stat/94/2067]; [Pub. L. 99–272, title VI, § 6044][/us/pl/99/272/s6044], Apr. 7, 1986, [100 Stat. 125][/us/stat/100/125]; [Pub. L. 101–508, title VI, § 6214][/us/pl/101/508/s6214], Nov. 5, 1990, [104 Stat. 1388–313][/us/stat/104/1388-313]; [Pub. L. 102–587, title II, § 2205(b)(1)(A)][/us/pl/102/587/s2205/b/1/A], (B), (21), (22), Nov. 4, 1992, [106 Stat. 5050][/us/stat/106/5050], 5052; [Pub. L. 104–150, § 6][/us/pl/104/150/s6], June 3, 1996, [110 Stat. 1381][/us/stat/110/1381].)
 

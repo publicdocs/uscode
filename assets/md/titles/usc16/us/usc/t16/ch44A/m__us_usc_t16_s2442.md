@@ -21,7 +21,7 @@
 
     (b) __Application of more restrictive provisions__ 
 
-        Nothing in this section shall be construed to prevent the application of provisions of the Convention, conservation measures adopted by the Commission pursuant to article IX of the Convention, or regulations promulgated under this chapter, which are more restrictive than the provisions of, measures adopted under, or regulations promulgated under, the treaties or statutes described in subsection (a) of this section.
+        Nothing in this section shall be construed to prevent the application of provisions of the Convention, conservation measures adopted by the Commission pursuant to article IX of the Convention, or regulations promulgated under this chapter, which are more restrictive than the provisions of, measures adopted under, or regulations promulgated under, the treaties or statutes described in subsection (a).
 
 ([Pub. L. 98–623, title III, § 313][/us/pl/98/623/s313], Nov. 8, 1984, [98 Stat. 3406][/us/stat/98/3406].)
 

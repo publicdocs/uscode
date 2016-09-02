@@ -21,7 +21,7 @@
 
     (b) __Powers of authorized officers__ 
 
-    Any officer who is authorized (by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with the Director or any such Secretary under subsection (a) of this section) to enforce the provisions of this chapter and of any regulation or permit issued under this chapter may—
+    Any officer who is authorized (by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with the Director or any such Secretary under subsection (a)) to enforce the provisions of this chapter and of any regulation or permit issued under this chapter may—
 
         (1) secure, execute, and serve any order, warrant, subpena, or other process, which is issued under the authority of the United States;
 
@@ -39,7 +39,7 @@
 
     (c) __Seizure__ 
 
-        Any property or item seized pursuant to subsection (b) of this section shall be held by any person authorized by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, or the Secretary of the department in which the Coast Guard is operating pending the disposition of civil or criminal proceedings, or the institution of an action in rem for forfeiture of such property or item; except that such authorized person may, in lieu of holding such property or item, permit the owner or consignee thereof to post a bond or other satisfactory surety.
+        Any property or item seized pursuant to subsection (b) shall be held by any person authorized by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, or the Secretary of the department in which the Coast Guard is operating pending the disposition of civil or criminal proceedings, or the institution of an action in rem for forfeiture of such property or item; except that such authorized person may, in lieu of holding such property or item, permit the owner or consignee thereof to post a bond or other satisfactory surety.
 
     (d) __Forfeiture__ 
 

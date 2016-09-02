@@ -21,7 +21,7 @@
 
     (b) __Referral to committees__ 
 
-        Any document described in subsection (a) of this section shall be immediately referred in the House of Representatives to the Committee on Merchant Marine and Fisheries, and in the Senate to the Committees on Commerce, Science, and Transportation and on Foreign Relations.
+        Any document described in subsection (a) shall be immediately referred in the House of Representatives to the Committee on Merchant Marine and Fisheries, and in the Senate to the Committees on Commerce, Science, and Transportation and on Foreign Relations.
 
     (c) __Congressional procedures__ 
 
@@ -37,9 +37,9 @@
 
         For purposes of this subsection, the term “fishery agreement resolution” refers to a joint resolution of either House of Congress—
 
-            (A) the effect of which is to prohibit the entering into force and effect of any governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement the text of which is transmitted to the Congress pursuant to subsection (a) of this section; and
+            (A) the effect of which is to prohibit the entering into force and effect of any governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement the text of which is transmitted to the Congress pursuant to subsection (a); and
 
-            (B) which is reported from the Committee on Merchant Marine and Fisheries of the House of Representatives or the Committee on Commerce, Science, and Transportation or the Committee on Foreign Relations of the Senate, not later than 45 days after the date on which the document described in subsection (a) of this section relating to that agreement is transmitted to the Congress.
+            (B) which is reported from the Committee on Merchant Marine and Fisheries of the House of Representatives or the Committee on Commerce, Science, and Transportation or the Committee on Foreign Relations of the Senate, not later than 45 days after the date on which the document described in subsection (a) relating to that agreement is transmitted to the Congress.
 
         (3) __Placement on calendar__ 
 

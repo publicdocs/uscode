@@ -19,7 +19,7 @@
 
     (1) __Advisory council__ 
 
-        The term “advisory council” means the Steens Mountain Advisory Council established by part D of this subchapter. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        The term “advisory council” means the Steens Mountain Advisory Council established by part D. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (2) __Cooperative management agreement__ 
 
@@ -27,7 +27,7 @@
 
     (3) __Cooperative Management and Protection Area__ 
 
-        The term “Cooperative Management and Protection Area” means the Steens Mountain Cooperative Management and Protection Area designated by part A of this subchapter.
+        The term “Cooperative Management and Protection Area” means the Steens Mountain Cooperative Management and Protection Area designated by part A.
 
     (4) __Easements__ 
 
@@ -69,7 +69,7 @@
 
     (10) __Wilderness Area__ 
 
-        The term “Wilderness Area” means the Steens Mountain Wilderness Area designated by part B of this subchapter.
+        The term “Wilderness Area” means the Steens Mountain Wilderness Area designated by part B.
 
 ([Pub. L. 106–399, § 2][/us/pl/106/399/s2], Oct. 30, 2000, [114 Stat. 1656][/us/stat/114/1656].)
 
@@ -77,7 +77,7 @@
 
     This subchapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 106–399][/us/pl/106/399], Oct. 30, 2000, [114 Stat. 1655][/us/stat/114/1655], which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-    Part D of this subchapter, referred to in par. (1), probably should be a reference to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
+    Part D, referred to in par. (1), was in the original “title IV”, meaning title IV of [Pub. L. 106–399][/us/pl/106/399], but probably should have been a reference to subtitle D of title I of that Act, which is classified generally to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
 
  __Short Title__ 
 
@@ -131,6 +131,7 @@
 [/us/stat/114/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1656
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655
+[/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/pl/106/399/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs1%2Fa
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132

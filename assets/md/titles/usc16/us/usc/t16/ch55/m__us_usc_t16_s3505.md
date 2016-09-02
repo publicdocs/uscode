@@ -49,11 +49,11 @@
 
     (b) __Existing Federal navigation channels__ 
 
-        For purposes of subsection (a)(2) of this section, a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System.
+        For purposes of subsection (a)(2), a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System.
 
     (c) __Expansion of highways in Michigan__ 
 
-    The limitations on the use of Federal expenditures or financial assistance within the System under subsection (a)(3) of this section shall not apply to a highway—
+    The limitations on the use of Federal expenditures or financial assistance within the System under subsection (a)(3) shall not apply to a highway—
 
         (1) located in a unit of the System in Michigan; and
 

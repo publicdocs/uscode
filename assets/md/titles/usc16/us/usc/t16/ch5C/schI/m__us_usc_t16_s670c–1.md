@@ -25,7 +25,7 @@
 
     (b) __Multiyear agreements__ 
 
-        (1) Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) of this section or through an agency agreement under [section 1535 of title 31][/us/usc/t31/s1535] during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
+        (1) Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) or through an agency agreement under [section 1535 of title 31][/us/usc/t31/s1535] during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
 
         (2)
 

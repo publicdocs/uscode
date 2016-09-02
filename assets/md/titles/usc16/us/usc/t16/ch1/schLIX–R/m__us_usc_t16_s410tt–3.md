@@ -39,7 +39,7 @@
 
             (D) Proposals for assessing the potential operation and supply of park concessions by qualified Virgin Islands-owned businesses.
 
-            (E) Plans for the training of personnel in accordance with subsection (e)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be subsection “(d)”. </sup></sup>  of this section.
+            (E) Plans for the training of personnel in accordance with subsection (e). <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “subsection (d).” </sup></sup> 
 
     (d) __Training assistance__ 
 

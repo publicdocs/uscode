@@ -41,7 +41,7 @@
 
         (1) __Factors__ 
 
-        For purposes of determining if an area of the marine environment meets the standards set forth in subsection (a) of this section, the Secretary shall consider—
+        For purposes of determining if an area of the marine environment meets the standards set forth in subsection (a), the Secretary shall consider—
 
             (A) the area’s natural resource and ecological qualities, including its contribution to biological productivity, maintenance of ecosystem structure, maintenance of ecologically or commercially important or threatened species or species assemblages, maintenance of critical habitat of endangered species, and the biogeographic representation of the site;
 

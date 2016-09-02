@@ -21,7 +21,7 @@
 
     (b) __Term of use__ 
 
-        Amounts appropriated pursuant to the authorization of appropriations in subsection (a) of this section shall remain available until expended.
+        Amounts appropriated pursuant to the authorization of appropriations in subsection (a) shall remain available until expended.
 
 ([Pub. L. 106–399, title VII, § 702][/us/pl/106/399/s702], Oct. 30, 2000, [114 Stat. 1673][/us/stat/114/1673]; [Pub. L. 113–287, § 5(d)(5)][/us/pl/113/287/s5/d/5], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 

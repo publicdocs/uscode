@@ -17,11 +17,11 @@
 
     (a) __Establishment__ 
 
-        The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) shall establish a competitive forestry, natural resources, and environmental grant program to award grants for the conduct of research as described in subsection (c) of this section.
+        The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) shall establish a competitive forestry, natural resources, and environmental grant program to award grants for the conduct of research as described in subsection (c).
 
     (b) __Eligible entities__ 
 
-    To be eligible to receive a grant under subsection (a) of this section, an entity shall—
+    To be eligible to receive a grant under subsection (a), an entity shall—
 
         (1) be a State agricultural experiment station, a college or university, a research institution or organization, a Federal agency, a private organization, or a corporation that has a demonstrable capacity to conduct forestry, natural resources, and environmental research as determined by the Secretary; and
 
@@ -29,7 +29,7 @@
 
     (c) __Use__ 
 
-    In awarding the initial grants under subsection (a) of this section the Secretary shall give priority to applicants who will use such grants for research concerning—
+    In awarding the initial grants under subsection (a) the Secretary shall give priority to applicants who will use such grants for research concerning—
 
         (1) the biology of forest organisms, including physiology, genetic mechanisms, and biotechnology;
 
@@ -63,7 +63,7 @@
 
     (e) __Recommendations__ 
 
-        The Secretary shall request the Cooperative Forestry Research Council referred to in subsection (d)(2) of this section to provide recommendations regarding grant priorities.
+        The Secretary shall request the Cooperative Forestry Research Council referred to in subsection (d)(2) to provide recommendations regarding grant priorities.
 
     (f) __Term__ 
 

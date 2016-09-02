@@ -25,7 +25,7 @@
 
     (c) __Transfer of certain areas by the Bureau of Land Management__ 
 
-        The Federal lands within the administrative jurisdiction of the Bureau of Land Management and within the areas referred to as E–2 and GL–3 on the map referred to in subsection (a) of this section shall be transferred to Rocky Mountain National Park without transfer of funds.
+        The Federal lands within the administrative jurisdiction of the Bureau of Land Management and within the areas referred to as E–2 and GL–3 on the map referred to in subsection (a) shall be transferred to Rocky Mountain National Park without transfer of funds.
 
     (d) __City of Longmont, Colorado; retention of certain areas for the development of a reservoir__ 
 
@@ -33,11 +33,11 @@
 
     (e) __Old McGregor Ranch; retention by owners__ 
 
-        If after the completion of two complete fiscal years following December 22, 1980, the Secretary of the Interior has not purchased interests in the lands of approximately one thousand two hundred acres known as the Old McGregor Ranch located within the area referred to as E–2 on the map referred to in subsection (a) of this section, and the owner of such lands petitions the Secretary to exclude such lands from Rocky Mountain National Park, the Secretary shall by publication of a revised boundary description in the Federal Register return the boundary of Rocky Mountain National Park in such area E–2 to the boundary as it existed before December 22, 1980.
+        If after the completion of two complete fiscal years following December 22, 1980, the Secretary of the Interior has not purchased interests in the lands of approximately one thousand two hundred acres known as the Old McGregor Ranch located within the area referred to as E–2 on the map referred to in subsection (a), and the owner of such lands petitions the Secretary to exclude such lands from Rocky Mountain National Park, the Secretary shall by publication of a revised boundary description in the Federal Register return the boundary of Rocky Mountain National Park in such area E–2 to the boundary as it existed before December 22, 1980.
 
     (f) __City of Grand Lake, Colorado; conveyance of land by the Secretary__ 
 
-        The Secretary of the Interior shall convey, to the city of Grand Lake, Colorado, without compensation or consideration, the lands, not to exceed two acres, within the area referred to as GL–5 on the map referred to in subsection (a) of this section.
+        The Secretary of the Interior shall convey, to the city of Grand Lake, Colorado, without compensation or consideration, the lands, not to exceed two acres, within the area referred to as GL–5 on the map referred to in subsection (a).
 
     (g) __Use of snowmobiles in certain areas__ 
 

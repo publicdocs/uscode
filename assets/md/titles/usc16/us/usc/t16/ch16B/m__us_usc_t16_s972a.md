@@ -25,7 +25,7 @@
 
     (b) __Qualification__ 
 
-        An individual is not eligible for appointment as, or to serve as, the United States representative under subsection (a)(1) of this section unless the individual is an officer or employee of the United States Government.
+        An individual is not eligible for appointment as, or to serve as, the United States representative under subsection (a)(1) unless the individual is an officer or employee of the United States Government.
 
     (c) __Compensation__ 
 

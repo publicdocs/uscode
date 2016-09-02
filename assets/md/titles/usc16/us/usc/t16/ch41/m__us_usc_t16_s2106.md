@@ -59,7 +59,7 @@
 
             (A)
 
-             There are hereby authorized to be appropriated annually $70,000,000 to carry out subsection (b)(4) of this section. Of the total amount appropriated to carry out subsection (b)(4) of this section—
+             There are hereby authorized to be appropriated annually $70,000,000 to carry out subsection (b)(4). Of the total amount appropriated to carry out subsection (b)(4)—
 
                 (i) one-half shall be available only for State foresters or equivalent State officials, and through them to other agencies and individuals, of which not less than $100,000 shall be made available to each State; and
 

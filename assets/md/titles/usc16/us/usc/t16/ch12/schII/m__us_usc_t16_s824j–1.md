@@ -43,11 +43,11 @@
 
     (d) __Local distribution facilities__ 
 
-        The requirements of subsection (b) of this section shall not apply to facilities used in local distribution.
+        The requirements of subsection (b) shall not apply to facilities used in local distribution.
 
     (e) __Exemption termination__ 
 
-        If the Commission, after an evidentiary hearing held on a complaint and after giving consideration to reliability standards established under section 824o of this title, finds on the basis of a preponderance of the evidence that any exemption granted pursuant to subsection (c) of this section unreasonably impairs the continued reliability of an interconnected transmission system, the Commission shall revoke the exemption granted to the transmitting utility.
+        If the Commission, after an evidentiary hearing held on a complaint and after giving consideration to reliability standards established under section 824o of this title, finds on the basis of a preponderance of the evidence that any exemption granted pursuant to subsection (c) unreasonably impairs the continued reliability of an interconnected transmission system, the Commission shall revoke the exemption granted to the transmitting utility.
 
     (f) __Application to unregulated transmitting utilities__ 
 
@@ -55,11 +55,11 @@
 
     (g) __Remand__ 
 
-        In exercising authority under subsection (b)(1) of this section, the Commission may remand transmission rates to an unregulated transmitting utility for review and revision if necessary to meet the requirements of subsection (b) of this section.
+        In exercising authority under subsection (b)(1), the Commission may remand transmission rates to an unregulated transmitting utility for review and revision if necessary to meet the requirements of subsection (b).
 
     (h) __Other requests__ 
 
-        The provision of transmission services under subsection (b) of this section does not preclude a request for transmission services under [section 824j of this title][/us/usc/t16/s824j].
+        The provision of transmission services under subsection (b) does not preclude a request for transmission services under [section 824j of this title][/us/usc/t16/s824j].
 
     (i) __Limitation__ 
 

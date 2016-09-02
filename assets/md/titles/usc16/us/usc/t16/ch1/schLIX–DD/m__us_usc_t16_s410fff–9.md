@@ -21,7 +21,7 @@
 
     (b) __Purpose of study__ 
 
-    The study required to be completed under subsection (a) of this section shall—
+    The study required to be completed under subsection (a) shall—
 
         (1) assess the natural, cultural, recreational and scenic resource value and character of the land within and surrounding the Curecanti National Recreation Area (including open vistas, wildlife habitat, and other public benefits);
 
@@ -35,9 +35,9 @@
 
     Not later than 3 years from October 21, 1999, the Secretary shall submit a report to Congress that—
 
-        (1) contains the findings of the study required by subsection (a) of this section;
+        (1) contains the findings of the study required by subsection (a);
 
-        (2) makes recommendations to Congress with respect to the findings of the study required by subsection (a) of this section; and
+        (2) makes recommendations to Congress with respect to the findings of the study required by subsection (a); and
 
         (3) makes recommendations to Congress regarding action that may be taken with respect to the land described in the report.
 
@@ -45,7 +45,7 @@
 
         (1) __In general__ 
 
-            Prior to the completion of the study required by subsection (a) of this section, the Secretary may acquire certain private land or interests in land as depicted on the Map entitled “Proposed Additions to the Curecanti National Recreation Area”, dated 01/25/99, totaling approximately 1,065 acres and entitled “Hall and Fitti properties”.
+            Prior to the completion of the study required by subsection (a), the Secretary may acquire certain private land or interests in land as depicted on the Map entitled “Proposed Additions to the Curecanti National Recreation Area”, dated 01/25/99, totaling approximately 1,065 acres and entitled “Hall and Fitti properties”.
 
         (2) __Method of acquisition__ 
 

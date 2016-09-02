@@ -21,7 +21,7 @@
 
     (b) __Interim measures__ 
 
-        Pending completion of the developments and improvements referred to in subsection (a) of this section, the Secretary shall permit the motorized towing of whitewater rafts in the section of the national river between Thurmond and Cunard when the volume of flow in the river is less than three thousand cubic feet per second.
+        Pending completion of the developments and improvements referred to in subsection (a), the Secretary shall permit the motorized towing of whitewater rafts in the section of the national river between Thurmond and Cunard when the volume of flow in the river is less than three thousand cubic feet per second.
 
 ([Pub. L. 95–625, title XI, § 1114][/us/pl/95/625/s1114], as added [Pub. L. 100–534, title I, § 103][/us/pl/100/534/s103], Oct. 26, 1988, [102 Stat. 2700][/us/stat/102/2700].)
 

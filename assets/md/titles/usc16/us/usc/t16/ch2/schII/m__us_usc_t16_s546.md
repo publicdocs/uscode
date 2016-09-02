@@ -25,11 +25,11 @@
 
     (b) __Establishment__ 
 
-        For the purposes described in subsection (a) of this section, there shall be established the Saint Helena Island National Scenic Area (in sections 546 to 546a–5 of this title referred to as the “scenic area”).
+        For the purposes described in subsection (a), there shall be established the Saint Helena Island National Scenic Area (in sections 546 to 546a–5 of this title referred to as the “scenic area”).
 
     (c) __Effective upon conveyance__ 
 
-        Subsection (b) of this section shall be effective upon conveyance of satisfactory title to the United States of the whole of Saint Helena Island, except that portion conveyed to the Great Lakes Lighthouse Keepers Association pursuant to section 1001 of the Coast Guard Authorization Act of 1996 ([Public Law 104–324][/us/pl/104/324]; [110 Stat. 3948][/us/stat/110/3948]).
+        Subsection (b) shall be effective upon conveyance of satisfactory title to the United States of the whole of Saint Helena Island, except that portion conveyed to the Great Lakes Lighthouse Keepers Association pursuant to section 1001 of the Coast Guard Authorization Act of 1996 ([Public Law 104–324][/us/pl/104/324]; [110 Stat. 3948][/us/stat/110/3948]).
 
 ([Pub. L. 106–431, § 2][/us/pl/106/431/s2], Nov. 6, 2000, [114 Stat. 1905][/us/stat/114/1905].)
 

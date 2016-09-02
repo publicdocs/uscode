@@ -39,11 +39,11 @@
 
         (2) __Facilities adjacent to dam__ 
 
-            In order to accommodate visitation to the recreation area, the Secretary shall construct such facilities as necessary to enhance and improve access, vehicle parking and related facilities, and provide river access for whitewater recreation and for other recreational activities, immediately downstream of the Summersville Dam, to the extent that such facilities are not provided pursuant to [section 460ww–4 of this title][/us/usc/t16/s460ww–4] and such facilities are within the boundaries of the recreation area. Such construction shall be subject to the memorandum of understanding referred to in subsection (f) of this section.
+            In order to accommodate visitation to the recreation area, the Secretary shall construct such facilities as necessary to enhance and improve access, vehicle parking and related facilities, and provide river access for whitewater recreation and for other recreational activities, immediately downstream of the Summersville Dam, to the extent that such facilities are not provided pursuant to [section 460ww–4 of this title][/us/usc/t16/s460ww–4] and such facilities are within the boundaries of the recreation area. Such construction shall be subject to the memorandum of understanding referred to in subsection (f).
 
         (3) __Other locations__ 
 
-            In addition, in order to provide reasonable public access and vehicle parking for public use and enjoyment of the recreation area, consistent with the preservation and enhancement of the natural and scenic values of the recreation area, the Secretary may, with the consent of the owner thereof, acquire such lands and interests in lands to construct such parking and related facilities at other appropriate locations outside the boundaries of, but within one mile of the recreation area as may be necessary and appropriate. Any such lands shall be managed in accordance with the management provisions for the recreation area as defined in subsection (a) of this section.
+            In addition, in order to provide reasonable public access and vehicle parking for public use and enjoyment of the recreation area, consistent with the preservation and enhancement of the natural and scenic values of the recreation area, the Secretary may, with the consent of the owner thereof, acquire such lands and interests in lands to construct such parking and related facilities at other appropriate locations outside the boundaries of, but within one mile of the recreation area as may be necessary and appropriate. Any such lands shall be managed in accordance with the management provisions for the recreation area as defined in subsection (a).
 
         (4) __Access to river__ 
 

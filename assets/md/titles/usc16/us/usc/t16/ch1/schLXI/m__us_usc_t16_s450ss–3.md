@@ -33,11 +33,11 @@
 
     (b) __Assumption of Trust obligations__ 
 
-        Any obligations of the Trust relating to the Memorial that have been approved by the Trust before the date on which the property is transferred under subsection (a) of this section shall become the responsibility of the Foundation on the date of the transfer.
+        Any obligations of the Trust relating to the Memorial that have been approved by the Trust before the date on which the property is transferred under subsection (a) shall become the responsibility of the Foundation on the date of the transfer.
 
     (c) __Dissolution of Trust__ 
 
-    Not later than 30 days after the transfer under subsection (a) of this section is completed—
+    Not later than 30 days after the transfer under subsection (a) is completed—
 
         (1) the Trust shall be dissolved; and
 

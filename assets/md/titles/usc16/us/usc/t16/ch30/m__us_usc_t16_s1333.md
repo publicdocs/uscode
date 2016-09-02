@@ -43,7 +43,7 @@
 
     Wild free-roaming horses and burros or their remains shall lose their status as wild free-roaming horses or burros and shall no longer be considered as falling within the purview of this chapter—
 
-        (1) upon passage of title pursuant to subsection (c) of this section except for the limitation of subsection (c)(1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)”. </sup></sup>  of this section; or
+        (1) upon passage of title pursuant to subsection (c) except for the limitation of subsection (c)(1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)”. </sup></sup>  of this section; or
 
         (2) if they have been transferred for private maintenance or adoption pursuant to this chapter and die of natural causes before passage of title; or
 

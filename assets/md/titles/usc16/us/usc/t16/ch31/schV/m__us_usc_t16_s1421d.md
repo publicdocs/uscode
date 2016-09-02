@@ -17,7 +17,7 @@
 
     (a) __Establishment of Fund__ 
 
-        There is established in the Treasury an interest bearing fund to be known as the “Marine Mammal Unusual Mortality Event Fund”, which shall consist of amounts deposited into the Fund under subsection (c) of this section.
+        There is established in the Treasury an interest bearing fund to be known as the “Marine Mammal Unusual Mortality Event Fund”, which shall consist of amounts deposited into the Fund under subsection (c).
 
     (b) __Uses__ 
 
@@ -49,7 +49,7 @@
 
         (2) other amounts appropriated to the Secretary for use with respect to unusual mortality events; and
 
-        (3) amounts received by the United States in the form of gifts, devises, and bequests under subsection (d) of this section.
+        (3) amounts received by the United States in the form of gifts, devises, and bequests under subsection (d).
 
     (d) __Acceptance of donations__ 
 

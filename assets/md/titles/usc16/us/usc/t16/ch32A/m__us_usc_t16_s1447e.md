@@ -27,7 +27,7 @@
 
     (b) __Transmittal to Congress__ 
 
-        Upon receipt of a report prepared by a Board under subsection (a) of this section, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall transmit a copy of such report to the Committees on Commerce, Science, and Transportation and on Environment and Public Works of the Senate and to the Committee on Merchant Marine and Fisheries of the House of Representatives.
+        Upon receipt of a report prepared by a Board under subsection (a), the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall transmit a copy of such report to the Committees on Commerce, Science, and Transportation and on Environment and Public Works of the Senate and to the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
 ([Pub. L. 92–532, title IV, § 406][/us/pl/92/532/s406], as added [Pub. L. 101–593, title III, § 301][/us/pl/101/593/s301], Nov. 16, 1990, [104 Stat. 2969][/us/stat/104/2969].)
 

@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-    There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f) of this section, operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
+    There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f), operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
 
         (1) The Secretary of Agriculture, who shall be the permanent chairman of the coordinating group.
 
@@ -71,7 +71,7 @@
 
     (e) __Functions if Federal Council terminated__ 
 
-        If at any time after September 26, 1980, the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) of this section and the reports required under subsection (c) of this section shall be made to the Director.
+        If at any time after September 26, 1980, the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) and the reports required under subsection (c) shall be made to the Director.
 
 ([Pub. L. 96–362, § 6][/us/pl/96/362/s6], Sept. 26, 1980, [94 Stat. 1203][/us/stat/94/1203]; [Pub. L. 99–198, title XVII, § 1736][/us/pl/99/198/s1736], Dec. 23, 1985, [99 Stat. 1643][/us/stat/99/1643].)
 
@@ -83,7 +83,7 @@
 
     1985—Subsec. (a)(1). [Pub. L. 99–198, § 1736(1)][/us/pl/99/198/s1736/1], inserted “, who shall be the permanent chairman of the coordinating group”.
 
-    Subsecs. (c) to (f). [Pub. L. 99–198, § 1736(2)][/us/pl/99/198/s1736/2]–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c) of this section” for “subsection (d) of this section”.
+    Subsecs. (c) to (f). [Pub. L. 99–198, § 1736(2)][/us/pl/99/198/s1736/2]–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c)” for “subsection (d)”.
 
 ----------
 

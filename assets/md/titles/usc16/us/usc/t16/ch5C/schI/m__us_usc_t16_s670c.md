@@ -37,7 +37,7 @@
 
     (c) __Acceptance of donations__ 
 
-    In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) of this section to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
+    In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
 
         (1) the voluntary services of individuals and organizations; and
 
@@ -45,7 +45,7 @@
 
     (d) __Treatment of volunteers__ 
 
-    A volunteer under subsection (c) of this section shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
+    A volunteer under subsection (c) shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
 
         (1) for the purposes of the tort claims provisions of chapter 171 of title 28, the volunteer shall be considered to be a Federal employee; and
 

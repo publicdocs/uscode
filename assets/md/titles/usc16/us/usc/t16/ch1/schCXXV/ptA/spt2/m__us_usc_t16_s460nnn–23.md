@@ -47,7 +47,7 @@
 
         (1) __Continuation of existing law__ 
 
-            Except as otherwise provided in this section and part F of this subchapter, the laws, regulations, and executive orders otherwise applicable to the Bureau of Land Management in issuing and administering grazing leases and permits on lands under its jurisdiction shall apply in regard to the Federal lands included in the Cooperative Management and Protection Area.
+            Except as otherwise provided in this section and part F, the laws, regulations, and executive orders otherwise applicable to the Bureau of Land Management in issuing and administering grazing leases and permits on lands under its jurisdiction shall apply in regard to the Federal lands included in the Cooperative Management and Protection Area.
 
         (2) __Cancellation of certain permits__ 
 

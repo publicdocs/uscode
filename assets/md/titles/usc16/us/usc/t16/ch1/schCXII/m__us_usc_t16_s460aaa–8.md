@@ -21,7 +21,7 @@
 
     (b) __Other purposes__ 
 
-        In addition to the amounts authorized to be appropriated under subsection (a) of this section, there are authorized to be appropriated not more than $5,000,000 for development to carry out the other purposes of this subchapter.
+        In addition to the amounts authorized to be appropriated under subsection (a), there are authorized to be appropriated not more than $5,000,000 for development to carry out the other purposes of this subchapter.
 
 ([Pub. L. 101–292, § 9][/us/pl/101/292/s9], May 17, 1990, [104 Stat. 190][/us/stat/104/190].)
 

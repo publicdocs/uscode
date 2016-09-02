@@ -29,7 +29,7 @@
 
     (c) __Recommendations__ 
 
-        Prior to selecting advisory panel members, the Secretary shall, with respect to panel members described in subsection (b)(1) of this section, solicit recommendations from the National Academy of Sciences.
+        Prior to selecting advisory panel members, the Secretary shall, with respect to panel members described in subsection (b)(1), solicit recommendations from the National Academy of Sciences.
 
     (d) __Report__ 
 

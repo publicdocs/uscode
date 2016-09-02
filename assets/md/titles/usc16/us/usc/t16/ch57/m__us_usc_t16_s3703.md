@@ -39,7 +39,7 @@
 
         (1) to accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
 
-        (2) to acquire by purchase or exchange any real or personal property or interest therein, subject to subsection (e) of this section;
+        (2) to acquire by purchase or exchange any real or personal property or interest therein, subject to subsection (e);
 
         (3) to invest any funds provided to the Foundation by the Federal Government in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States;
 
@@ -113,7 +113,7 @@
 
             (A)
 
-             In a manner consistent with subsection (c)(1) of this section, the Foundation may—
+             In a manner consistent with subsection (c)(1), the Foundation may—
 
                 (i) accept, receive, solicit, hold, administer, and use any gift, devise, or bequest made to the Foundation for the express purpose of supporting whale conservation; and
 
@@ -137,7 +137,7 @@
 
     (g) __Consultation__ 
 
-        In carrying out any action on the part of the Foundation under subsection (f) of this section, the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
+        In carrying out any action on the part of the Foundation under subsection (f), the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
 
     (h) __Expenditures for printing services or capital equipment__ 
 
@@ -181,7 +181,7 @@
 
     1988—Subsec. (a)(2). [Pub. L. 100–240, § 1(b)][/us/pl/100/240/s1/b], inserted “and abroad” after “United States”.
 
-    Subsec. (c)(2). [Pub. L. 100–240, § 2(b)][/us/pl/100/240/s2/b], inserted “, subject to subsection (e) of this section” after “therein”.
+    Subsec. (c)(2). [Pub. L. 100–240, § 2(b)][/us/pl/100/240/s2/b], inserted “, subject to subsection (e)” after “therein”.
 
     Subsec. (e). [Pub. L. 100–240, § 2(a)][/us/pl/100/240/s2/a], added subsec. (e).
 

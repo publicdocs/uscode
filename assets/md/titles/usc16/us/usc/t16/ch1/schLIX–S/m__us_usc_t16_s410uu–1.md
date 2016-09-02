@@ -31,15 +31,15 @@
 
     (b) __Public inspection of maps__ 
 
-        Each map described in subsection (a) of this section shall be on file and available for public inspection in the office of the Director of the National Park Service, Department of the Interior.
+        Each map described in subsection (a) shall be on file and available for public inspection in the office of the Director of the National Park Service, Department of the Interior.
 
     (c) __Adjustment of boundaries__ 
 
-        The Secretary of the Interior (referred to as the “Secretary”) may, by notice in the Federal Register after receipt of public comment, make minor adjustments in the boundaries of areas added to the park by subsection (a) of this section and other areas of the park: Provided, That any such minor boundary adjustments cumulatively shall not cause the total acreage of the park to increase more than 10 per centum above the existing acreage of Mound City Group National Monument, plus the acreage of the inclusions authorized under subsection (a) of this section.
+        The Secretary of the Interior (referred to as the “Secretary”) may, by notice in the Federal Register after receipt of public comment, make minor adjustments in the boundaries of areas added to the park by subsection (a) and other areas of the park: Provided, That any such minor boundary adjustments cumulatively shall not cause the total acreage of the park to increase more than 10 per centum above the existing acreage of Mound City Group National Monument, plus the acreage of the inclusions authorized under subsection (a).
 
     (d) __Acquisition of lands__ 
 
-        (1) Subject to paragraph (2), the Secretary may acquire lands and interests in land within the areas added to the park by subsection (a) of this section by donation, purchase with donated or appropriated funds, or exchange.
+        (1) Subject to paragraph (2), the Secretary may acquire lands and interests in land within the areas added to the park by subsection (a) by donation, purchase with donated or appropriated funds, or exchange.
 
         (2)
 

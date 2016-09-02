@@ -27,17 +27,17 @@
 
     (b) __Rates for purchases by electric utilities__ 
 
-    The rules prescribed under subsection (a) of this section shall insure that, in requiring any electric utility to offer to purchase electric energy from any qualifying cogeneration facility or qualifying small power production facility, the rates for such purchase—
+    The rules prescribed under subsection (a) shall insure that, in requiring any electric utility to offer to purchase electric energy from any qualifying cogeneration facility or qualifying small power production facility, the rates for such purchase—
 
         (1) shall be just and reasonable to the electric consumers of the electric utility and in the public interest, and
 
         (2) shall not discriminate against qualifying cogenerators or qualifying small power producers.
 
-        No such rule prescribed under subsection (a) of this section shall provide for a rate which exceeds the incremental cost to the electric utility of alternative electric energy.
+        No such rule prescribed under subsection (a) shall provide for a rate which exceeds the incremental cost to the electric utility of alternative electric energy.
 
     (c) __Rates for sales by utilities__ 
 
-    The rules prescribed under subsection (a) of this section shall insure that, in requiring any electric utility to offer to sell electric energy to any qualifying cogeneration facility or qualifying small power production facility, the rates for such sale—
+    The rules prescribed under subsection (a) shall insure that, in requiring any electric utility to offer to sell electric energy to any qualifying cogeneration facility or qualifying small power production facility, the rates for such sale—
 
         (1) shall be just and reasonable and in the public interest, and
 
@@ -57,7 +57,7 @@
 
          No qualifying small power production facility or qualifying cogeneration facility may be exempted under this subsection from—
 
-            (A) any State law or regulation in effect in a State pursuant to subsection (f) of this section,
+            (A) any State law or regulation in effect in a State pursuant to subsection (f),
 
             (B) the provisions of section 210, 211, or 212 of the Federal Power Act \[[16 U.S.C. 824i][/us/usc/t16/s824i], 824j, or 824k\] or the necessary authorities for enforcement of any such provision under the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], or
 
@@ -65,31 +65,31 @@
 
     (f) __Implementation of rules for qualifying cogeneration and qualifying small power production facilities__ 
 
-        (1) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each State regulatory authority shall, after notice and opportunity for public hearing, implement such rule (or revised rule) for each electric utility for which it has ratemaking authority.
+        (1) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) or revised under such subsection, each State regulatory authority shall, after notice and opportunity for public hearing, implement such rule (or revised rule) for each electric utility for which it has ratemaking authority.
 
-        (2) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
+        (2) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
 
     (g) __Judicial review and enforcement__ 
 
-        (1) Judicial review may be obtained respecting any proceeding conducted by a State regulatory authority or nonregulated electric utility for purposes of implementing any requirement of a rule under subsection (a) of this section in the same manner, and under the same requirements, as judicial review may be obtained under [section 2633 of this title][/us/usc/t16/s2633] in the case of a proceeding to which [section 2633 of this title][/us/usc/t16/s2633] applies.
+        (1) Judicial review may be obtained respecting any proceeding conducted by a State regulatory authority or nonregulated electric utility for purposes of implementing any requirement of a rule under subsection (a) in the same manner, and under the same requirements, as judicial review may be obtained under [section 2633 of this title][/us/usc/t16/s2633] in the case of a proceeding to which [section 2633 of this title][/us/usc/t16/s2633] applies.
 
-        (2) Any person (including the Secretary) may bring an action against any electric utility, qualifying small power producer, or qualifying cogenerator to enforce any requirement established by a State regulatory authority or nonregulated electric utility pursuant to subsection (f) of this section. Any such action shall be brought only in the manner, and under the requirements, as provided under [section 2633 of this title][/us/usc/t16/s2633] with respect to an action to which [section 2633 of this title][/us/usc/t16/s2633] applies.
+        (2) Any person (including the Secretary) may bring an action against any electric utility, qualifying small power producer, or qualifying cogenerator to enforce any requirement established by a State regulatory authority or nonregulated electric utility pursuant to subsection (f). Any such action shall be brought only in the manner, and under the requirements, as provided under [section 2633 of this title][/us/usc/t16/s2633] with respect to an action to which [section 2633 of this title][/us/usc/t16/s2633] applies.
 
     (h) __Commission enforcement__ 
 
-        (1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) of this section with respect to any operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act \[[16 U.S.C. 824][/us/usc/t16/s824] et seq.\], such rule shall be treated as a rule under the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\]. Nothing in subsection (g) of this section shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
+        (1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) with respect to any operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act \[[16 U.S.C. 824][/us/usc/t16/s824] et seq.\], such rule shall be treated as a rule under the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\]. Nothing in subsection (g) shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
 
         (2)
 
             (A)
 
-             The Commission may enforce the requirements of subsection (f) of this section against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) of this section shall be treated as a rule enforceable under the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
+             The Commission may enforce the requirements of subsection (f) against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) shall be treated as a rule enforceable under the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
 
-                (i) an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) of this section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a comma. </sup></sup>  or
+                (i) an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a comma. </sup></sup>  or
 
                 (ii) an action under paragraph (1).
 
-            (B) Any electric utility, qualifying cogenerator, or qualifying small power producer may petition the Commission to enforce the requirements of subsection (f) of this section as provided in subparagraph (A) of this paragraph. If the Commission does not initiate an enforcement action under subparagraph (A) against a State regulatory authority or nonregulated electric utility within 60 days following the date on which a petition is filed under this subparagraph with respect to such authority, the petitioner may bring an action in the appropriate United States district court to require such State regulatory authority or nonregulated electric utility to comply with such requirements, and such court may issue such injunctive or other relief as may be appropriate. The Commission may intervene as a matter of right in any such action.
+            (B) Any electric utility, qualifying cogenerator, or qualifying small power producer may petition the Commission to enforce the requirements of subsection (f) as provided in subparagraph (A) of this paragraph. If the Commission does not initiate an enforcement action under subparagraph (A) against a State regulatory authority or nonregulated electric utility within 60 days following the date on which a petition is filed under this subparagraph with respect to such authority, the petitioner may bring an action in the appropriate United States district court to require such State regulatory authority or nonregulated electric utility to comply with such requirements, and such court may issue such injunctive or other relief as may be appropriate. The Commission may intervene as a matter of right in any such action.
 
     (i) __Federal contracts__ 
 
@@ -141,7 +141,7 @@
 
         (2) __Revised purchase and sale obligation for new facilities__ 
 
-            (A) After August 8, 2005, no electric utility shall be required pursuant to this section to enter into a new contract or obligation to purchase from or sell electric energy to a facility that is not an existing qualifying cogeneration facility unless the facility meets the criteria for qualifying cogeneration facilities established by the Commission pursuant to the rulemaking required by subsection (n) of this section.
+            (A) After August 8, 2005, no electric utility shall be required pursuant to this section to enter into a new contract or obligation to purchase from or sell electric energy to a facility that is not an existing qualifying cogeneration facility unless the facility meets the criteria for qualifying cogeneration facilities established by the Commission pursuant to the rulemaking required by subsection (n).
 
             (B)
 
@@ -149,7 +149,7 @@
 
                 (i) was a qualifying cogeneration facility on August 8, 2005; or
 
-                (ii) had filed with the Commission a notice of self-certification, self recertification or an application for Commission certification under 18 CFR 292.207 prior to the date on which the Commission issues the final rule required by subsection (n) of this section.
+                (ii) had filed with the Commission a notice of self-certification, self recertification or an application for Commission certification under 18 CFR 292.207 prior to the date on which the Commission issues the final rule required by subsection (n).
 
         (3) __Commission review__ 
 
@@ -191,7 +191,7 @@
 
                 (iii) continuing progress in the development of efficient electric energy generating technology.
 
-            (B) The rule issued pursuant to paragraph (1)(A) of this subsection shall be applicable only to facilities that seek to sell electric energy pursuant to this section. For all other purposes, except as specifically provided in subsection (m)(2)(A) of this section, qualifying facility status shall be determined in accordance with the rules and regulations of this Act.
+            (B) The rule issued pursuant to paragraph (1)(A) of this subsection shall be applicable only to facilities that seek to sell electric energy pursuant to this section. For all other purposes, except as specifically provided in subsection (m)(2)(A), qualifying facility status shall be determined in accordance with the rules and regulations of this Act.
 
         (2)
 

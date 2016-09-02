@@ -21,7 +21,7 @@
 
     (b) __Stipulations and conditions__ 
 
-        In providing temporary access pursuant to subsection (a) of this section, the Secretary may include such stipulations and conditions he deems necessary to insure that the private use of public lands is accomplished in a manner that is not inconsistent with the purposes for which the public lands are reserved and which insures that no permanent harm will result to the resources of the unit, area, Reserve or lands.
+        In providing temporary access pursuant to subsection (a), the Secretary may include such stipulations and conditions he deems necessary to insure that the private use of public lands is accomplished in a manner that is not inconsistent with the purposes for which the public lands are reserved and which insures that no permanent harm will result to the resources of the unit, area, Reserve or lands.
 
 ([Pub. L. 96–487, title XI, § 1111][/us/pl/96/487/s1111], Dec. 2, 1980, [94 Stat. 2465][/us/stat/94/2465].)
 

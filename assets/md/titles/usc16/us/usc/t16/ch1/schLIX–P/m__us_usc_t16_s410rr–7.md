@@ -29,7 +29,7 @@
 
     (d) __Transfer__ 
 
-        Lands identified on the maps referred to in subsection (a) of this section as being within unit number 26 in the “Historic Zone” are hereby transferred from the administration of the Secretary of Agriculture to the administration of the Secretary of the Interior, to be managed in accordance with the provisions of this section.
+        Lands identified on the maps referred to in subsection (a) as being within unit number 26 in the “Historic Zone” are hereby transferred from the administration of the Secretary of Agriculture to the administration of the Secretary of the Interior, to be managed in accordance with the provisions of this section.
 
     (e) __Management plan__ 
 

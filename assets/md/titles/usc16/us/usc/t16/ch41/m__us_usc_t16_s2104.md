@@ -33,7 +33,7 @@
 
     (b) __Activities__ 
 
-    Subject to subsections (c), (d), and (e) of this section and to such other conditions the Secretary may prescribe, the Secretary may, directly on the National Forest System, in cooperation with other Federal departments on other Federal lands, and in cooperation with State foresters, or equivalent State officials, subdivisions of States, agencies, institutions, organizations, or individuals on non-Federal lands—
+    Subject to subsections (c), (d), and (e) and to such other conditions the Secretary may prescribe, the Secretary may, directly on the National Forest System, in cooperation with other Federal departments on other Federal lands, and in cooperation with State foresters, or equivalent State officials, subdivisions of States, agencies, institutions, organizations, or individuals on non-Federal lands—
 
         (1) conduct surveys to detect and appraise insect infestations and disease conditions and man-made stresses affecting trees and establish a monitoring system throughout the forests of the United States to determine detrimental changes or improvements that occur over time, and report annually concerning such surveys and monitoring;
 
@@ -81,13 +81,13 @@
 
     (h) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated annually such sums as may be necessary to carry out subsections (a) through (g) of this section.
+        There are authorized to be appropriated annually such sums as may be necessary to carry out subsections (a) through (g).
 
     (i) __Integrated pest management__ 
 
         (1) __In general__ 
 
-        Subject to the provisions of subsections (c) and (e) of this section, the Secretary shall, in cooperation with State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the “cooperator”)—
+        Subject to the provisions of subsections (c) and (e), the Secretary shall, in cooperation with State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the “cooperator”)—
 
             (A) provide cost-share assistance to such cooperators who have established an acceptable integrated pest management strategy, as determined by the Secretary, that will prevent, retard, control, or suppress gypsy moth, southern pine beetle, spruce budworm infestations, or other major insect infestations in an amount no less than 50 percent nor greater than 75 percent of the cost of implementing such strategy; and
 

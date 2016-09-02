@@ -21,7 +21,7 @@
 
     (b) __Arrest, search and inspection, seizure; execution of warrants or other process__ 
 
-    Any officer who is authorized by the Secretary, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with such Secretaries under subsection (a) of this section to enforce the Convention, this subchapter or any regulation adopted under this subchapter may—
+    Any officer who is authorized by the Secretary, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with such Secretaries under subsection (a) to enforce the Convention, this subchapter or any regulation adopted under this subchapter may—
 
         (1)
 
@@ -45,7 +45,7 @@
 
     (c) __Citation of owner or operator of offending vessel__ 
 
-        If any officer authorized to enforce this subchapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in the commission of an act prohibited by [section 773e of this title][/us/usc/t16/s773e], such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this subchapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+        If any officer authorized to enforce this subchapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in the commission of an act prohibited by [section 773e of this title][/us/usc/t16/s773e], such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b). If a permit has been issued pursuant to this subchapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
     (d) __United States district court jurisdiction__ 
 

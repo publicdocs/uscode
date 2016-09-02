@@ -21,15 +21,15 @@
 
     (b) __Surplus quantities and species available for export; public hearing; administrative finding__ 
 
-        After public hearing and a finding by the appropriate Secretary of the department administering Federal lands referred to in subsection (a) of this section that specific quantities and species of unprocessed timber are surplus to the needs of domestic users and processors, such quantities and species may be designated by the said Secretary as available for export from the United States in addition to that quantity stated in subsection (a) of this section.
+        After public hearing and a finding by the appropriate Secretary of the department administering Federal lands referred to in subsection (a) that specific quantities and species of unprocessed timber are surplus to the needs of domestic users and processors, such quantities and species may be designated by the said Secretary as available for export from the United States in addition to that quantity stated in subsection (a).
 
     (c) __Rules and regulations; prevention of substitution of Federal for non-Federal timber__ 
 
-        The Secretaries of the departments administering lands referred to in subsection (a) of this section may issue rules and regulations to carry out the purposes of this section, including the prevention of substitution of timber restricted from export by this section for exported non-Federal timber.
+        The Secretaries of the departments administering lands referred to in subsection (a) may issue rules and regulations to carry out the purposes of this section, including the prevention of substitution of timber restricted from export by this section for exported non-Federal timber.
 
     (d) __Limitations inapplicable to sales of prescribed minimum value__ 
 
-        In issuing rules and regulations pursuant to subsection (c) of this section, the appropriate Secretaries may include therein provisions authorizing the said Secretaries, in their discretion, to exclude from the limitations imposed by this section sales having an appraised value of less than $2,000.
+        In issuing rules and regulations pursuant to subsection (c), the appropriate Secretaries may include therein provisions authorizing the said Secretaries, in their discretion, to exclude from the limitations imposed by this section sales having an appraised value of less than $2,000.
 
 ([Apr. 12, 1926, ch. 117, § 2][/us/act/1926-04-12/ch117/s2], as added [Pub. L. 90–554][/us/pl/90/554], pt. IV, § 401, Oct. 8, 1968, [82 Stat. 966][/us/stat/82/966]; amended [Pub. L. 91–609, title IX, § 921][/us/pl/91/609/s921], Dec. 31, 1970, [84 Stat. 1817][/us/stat/84/1817].)
 

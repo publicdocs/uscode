@@ -25,7 +25,7 @@
 
             (A) necessary and appropriate for the conservation and management of the fishery, to prevent overfishing and rebuild overfished stocks, and to protect, restore, and promote the long-term health and stability of the fishery;
 
-            (B) described in this subsection or subsection (b) of this section, or both; and
+            (B) described in this subsection or subsection (b), or both; and
 
             (C) consistent with the national standards, the other provisions of this chapter, regulations implementing recommendations by international organizations in which the United States participates (including but not limited to closed areas, quotas, and size limits), and any other applicable law;
 

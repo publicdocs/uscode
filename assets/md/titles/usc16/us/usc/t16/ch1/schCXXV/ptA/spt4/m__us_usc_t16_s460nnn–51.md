@@ -45,7 +45,7 @@
 
     (c) __Consultation__ 
 
-        In reviewing nominees submitted under subsection (b) of this section for possible appointment to the advisory council, the Secretary shall consult with the respective community of interest that the nominees are to represent to ensure that the nominees have the support of their community of interest.
+        In reviewing nominees submitted under subsection (b) for possible appointment to the advisory council, the Secretary shall consult with the respective community of interest that the nominees are to represent to ensure that the nominees have the support of their community of interest.
 
     (d)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subsecs. (d) have been enacted.__  __ </sup></sup> __  __Terms__ 
 

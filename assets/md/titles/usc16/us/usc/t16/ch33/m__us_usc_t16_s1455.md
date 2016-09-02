@@ -25,7 +25,7 @@
 
     (b) __Grants to coastal states; requirements__ 
 
-        The Secretary may make a grant to a coastal state under subsection (a) of this section only if the Secretary finds that the management program of the coastal state meets all applicable requirements of this chapter and has been approved in accordance with subsection (d) of this section.
+        The Secretary may make a grant to a coastal state under subsection (a) only if the Secretary finds that the management program of the coastal state meets all applicable requirements of this chapter and has been approved in accordance with subsection (d).
 
     (c) __Allocation of grants to coastal states__ 
 

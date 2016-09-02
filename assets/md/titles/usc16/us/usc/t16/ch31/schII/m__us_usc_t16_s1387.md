@@ -21,7 +21,7 @@
 
         (2) In the case of the incidental taking of marine mammals from species or stocks designated under this chapter as depleted on the basis of their listing as threatened species or endangered species under the Endangered Species Act of 1973 ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.), both this section and [section 1371(a)(5)(E) of this title][/us/usc/t16/s1371/a/5/E] shall apply.
 
-        (3) Sections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Section”. </sup></sup>  1374(h) of this title and subchapter IV of this chapter, and not this section, shall govern the taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean.
+        (3) Sections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Section”. </sup></sup>  1374(h) of this title and subchapter IV, and not this section, shall govern the taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean.
 
         (4) This section shall not govern the incidental taking of California sea otters and shall not be deemed to amend or repeal the Act of November 7, 1986 ([Public Law 99–625][/us/pl/99/625]; [100 Stat. 3500][/us/stat/100/3500]).
 
@@ -37,7 +37,7 @@
 
         (3) Three years after April 30, 1994, the Secretary shall review the progress of all commercial fisheries, by fishery, toward reducing incidental mortality and serious injury to insignificant levels approaching a zero rate. The Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a report setting forth the results of such review within 1 year after commencement of the review. The Secretary shall note any commercial fishery for which additional information is required to accurately assess the level of incidental mortality and serious injury of marine mammals in the fishery.
 
-        (4) If the Secretary determines after review under paragraph (3) that the rate of incidental mortality and serious injury of marine mammals in a commercial fishery is not consistent with paragraph (1), then the Secretary shall take appropriate action under subsection (f) of this section.
+        (4) If the Secretary determines after review under paragraph (3) that the rate of incidental mortality and serious injury of marine mammals in a commercial fishery is not consistent with paragraph (1), then the Secretary shall take appropriate action under subsection (f).
 
     (c) __Registration and authorization__ 
 
@@ -71,7 +71,7 @@
 
                 (ii) has a valid fishing permit issued by the Secretary in accordance with [section 1824(b) of this title][/us/usc/t16/s1824/b].
 
-            (C) Except as provided in subsection (a) of this section, an authorization granted under this section shall allow the incidental taking of all species and stocks of marine mammals to which this chapter applies.
+            (C) Except as provided in subsection (a), an authorization granted under this section shall allow the incidental taking of all species and stocks of marine mammals to which this chapter applies.
 
         (3)
 
@@ -83,7 +83,7 @@
 
                 (ii) ensure that a decal or such other physical evidence of a current and valid authorization as the Secretary may require is displayed on or is in the possession of the master of each such vessel;
 
-                (iii) report as required by subsection (e) of this section; and
+                (iii) report as required by subsection (e); and
 
                 (iv) comply with any applicable take reduction plan and emergency regulations issued under this section.
 
@@ -103,11 +103,11 @@
 
             (D) If the owner of a vessel has obtained and maintains a current and valid authorization from the Secretary under this section and meets the requirements set forth in this section, including compliance with any regulations to implement a take reduction plan under this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the authorization applies.
 
-            (E) Each owner of a vessel engaged in any fishery not listed under paragraph (1)(A)(i) or (ii), and the master and crew members of such a vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals if such owner reports to the Secretary, in the form and manner required under subsection (e) of this section, instances of incidental mortality or injury of marine mammals in the course of that fishery.
+            (E) Each owner of a vessel engaged in any fishery not listed under paragraph (1)(A)(i) or (ii), and the master and crew members of such a vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals if such owner reports to the Secretary, in the form and manner required under subsection (e), instances of incidental mortality or injury of marine mammals in the course of that fishery.
 
         (4)
 
-            (A) The Secretary shall suspend or revoke an authorization granted under this section and shall not issue a decal or other physical evidence of the authorization for any vessel until the owner of such vessel complies with the reporting requirements under subsection (e) of this section and such requirements to take on board an observer under paragraph (3)(B) as are applicable to such vessel. Previous failure to comply with the requirements of [section 1383a of this title][/us/usc/t16/s1383a] shall not bar authorization under this section for an owner who complies with the requirements of this section.
+            (A) The Secretary shall suspend or revoke an authorization granted under this section and shall not issue a decal or other physical evidence of the authorization for any vessel until the owner of such vessel complies with the reporting requirements under subsection (e) and such requirements to take on board an observer under paragraph (3)(B) as are applicable to such vessel. Previous failure to comply with the requirements of [section 1383a of this title][/us/usc/t16/s1383a] shall not bar authorization under this section for an owner who complies with the requirements of this section.
 
             (B) The Secretary may suspend or revoke an authorization granted under this subsection, and may not issue a decal or other physical evidence of the authorization for any vessel which fails to comply with a take reduction plan or emergency regulations issued under this section.
 
@@ -129,7 +129,7 @@
 
             (A) obtain statistically reliable estimates of incidental mortality and serious injury;
 
-            (B) determine the reliability of reports of incidental mortality and serious injury under subsection (e) of this section; and
+            (B) determine the reliability of reports of incidental mortality and serious injury under subsection (e); and
 
             (C) identify changes in fishing methods or technology that may increase or decrease incidental mortality and serious injury.
 
@@ -177,7 +177,7 @@
 
             (C) for reasons beyond the control of the Secretary, an observer is not available.
 
-        (7) The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not listed under subsection (c)(1)(A)(i) or (ii) of this section.
+        (7) The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not listed under subsection (c)(1)(A)(i) or (ii).
 
         (8)
 
@@ -207,11 +207,11 @@
 
     (f) __Take reduction plans__ 
 
-        (1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
+        (1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii), and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
 
         (2) The immediate goal of a take reduction plan for a strategic stock shall be to reduce, within 6 months of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to levels less than the potential biological removal level established for that stock under [section 1386 of this title][/us/usc/t16/s1386]. The long-term goal of the plan shall be to reduce, within 5 years of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to insignificant levels approaching a zero mortality and serious injury rate, taking into account the economics of the fishery, the availability of existing technology, and existing State or regional fishery management plans.
 
-        (3) If there is insufficient funding available to develop and implement a take reduction plan for all such stocks that interact with commercial fisheries listed under subsection (c)(1)(A)(i) or (ii) of this section, the Secretary shall give highest priority to the development and implementation of take reduction plans for species or stocks whose level of incidental mortality and serious injury exceeds the potential biological removal level, those that have a small population size, and those which are declining most rapidly.
+        (3) If there is insufficient funding available to develop and implement a take reduction plan for all such stocks that interact with commercial fisheries listed under subsection (c)(1)(A)(i) or (ii), the Secretary shall give highest priority to the development and implementation of take reduction plans for species or stocks whose level of incidental mortality and serious injury exceeds the potential biological removal level, those that have a small population size, and those which are declining most rapidly.
 
         (4)
 
@@ -235,7 +235,7 @@
 
             (A)
 
-             At the earliest possible time (not later than 30 days) after the Secretary issues a final stock assessment under [section 1386(b) of this title][/us/usc/t16/s1386/b] for a strategic stock, the Secretary shall, and for stocks that interact with a fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the Secretary may—
+             At the earliest possible time (not later than 30 days) after the Secretary issues a final stock assessment under [section 1386(b) of this title][/us/usc/t16/s1386/b] for a strategic stock, the Secretary shall, and for stocks that interact with a fishery listed under subsection (c)(1)(A)(i) for which the Secretary has made a determination under paragraph (1), the Secretary may—
 
                 (i) establish a take reduction team for such stock and appoint the members of such team in accordance with subparagraph (C); and
 
@@ -251,7 +251,7 @@
 
         (7)
 
-         Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under [section 1386 of this title][/us/usc/t16/s1386] for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, the following procedures shall apply in the development of the take reduction plan for the stock:
+         Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under [section 1386 of this title][/us/usc/t16/s1386] for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), the following procedures shall apply in the development of the take reduction plan for the stock:
 
             (A)
 
@@ -275,7 +275,7 @@
 
         (8)
 
-         Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under [section 1386 of this title][/us/usc/t16/s1386] for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
+         Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under [section 1386 of this title][/us/usc/t16/s1386] for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
 
             (A)
 
@@ -307,7 +307,7 @@
 
             (C) educate commercial fishermen, through workshops and other means, on the importance of reducing the incidental mortality and serious injury of marine mammals in affected commercial fisheries; and
 
-            (D) monitor, in accordance with subsection (d) of this section, the effectiveness of measures taken to reduce the level of incidental mortality and serious injury of marine mammals in the course of commercial fishing operations.
+            (D) monitor, in accordance with subsection (d), the effectiveness of measures taken to reduce the level of incidental mortality and serious injury of marine mammals in the course of commercial fishing operations.
 
         (10)
 
@@ -347,13 +347,13 @@
 
             (C)
 
-             In the case of a stock or species for which a take reduction plan does not exist and is not being developed, or in the case of a commercial fishery listed under subsection (c)(1)(A)(iii) of this section which the Secretary believes may be contributing to such adverse impact, the Secretary shall—
+             In the case of a stock or species for which a take reduction plan does not exist and is not being developed, or in the case of a commercial fishery listed under subsection (c)(1)(A)(iii) which the Secretary believes may be contributing to such adverse impact, the Secretary shall—
 
                 (i) prescribe emergency regulations to reduce such incidental mortality and serious injury in that fishery, to the extent necessary to mitigate such adverse impact;
 
                 (ii) immediately review the stock assessment for such stock or species and the classification of such commercial fishery under this section to determine if a take reduction team should be established; and
 
-                (iii) may, where necessary to address such adverse impact on a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.), place observers on vessels in a commercial fishery listed under subsection (c)(1)(A)(iii) of this section, if the Secretary has reason to believe such vessels may be causing the incidental mortality and serious injury to marine mammals from such stock.
+                (iii) may, where necessary to address such adverse impact on a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.), place observers on vessels in a commercial fishery listed under subsection (c)(1)(A)(iii), if the Secretary has reason to believe such vessels may be causing the incidental mortality and serious injury to marine mammals from such stock.
 
         (2) Prior to taking action under paragraph (1)(A), (B), or (C), the Secretary shall consult with the Marine Mammal Commission, all appropriate Regional Fishery Management Councils, State fishery managers, and the appropriate take reduction team (if established).
 
@@ -371,7 +371,7 @@
 
     (h) __Penalties__ 
 
-        Except as provided in subsection (c) of this section, any person who violates this section shall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to [section 1376 of this title][/us/usc/t16/s1376] as the Secretary shall establish by regulations.
+        Except as provided in subsection (c), any person who violates this section shall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to [section 1376 of this title][/us/usc/t16/s1376] as the Secretary shall establish by regulations.
 
     (i) __Assistance__ 
 

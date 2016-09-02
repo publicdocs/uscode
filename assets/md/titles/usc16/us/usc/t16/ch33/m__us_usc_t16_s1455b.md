@@ -19,7 +19,7 @@
 
         (1) __Program development__ 
 
-            Not later than 30 months after the date of the publication of final guidance under subsection (g) of this section, each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 \[[16 U.S.C. 1455][/us/usc/t16/s1455]\] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant to this section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
+            Not later than 30 months after the date of the publication of final guidance under subsection (g), each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 \[[16 U.S.C. 1455][/us/usc/t16/s1455]\] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant to this section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
 
         (2) __Program coordination__ 
 
@@ -27,7 +27,7 @@
 
     (b) __Program contents__ 
 
-    Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g) of this section, to protect coastal waters generally, and shall also contain the following:
+    Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g), to protect coastal waters generally, and shall also contain the following:
 
         (1) __Identifying land uses__ 
 
@@ -39,7 +39,7 @@
 
         (2) __Identifying critical coastal areas__ 
 
-            The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
+            The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
 
         (3) __Management measures__ 
 
@@ -59,7 +59,7 @@
 
         (7) __State coastal zone boundary modification__ 
 
-            A proposal to modify the boundaries of the State coastal zone as the coastal management agency of the State determines is necessary to implement the recommendations made pursuant to subsection (e) of this section. If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
+            A proposal to modify the boundaries of the State coastal zone as the coastal management agency of the State determines is necessary to implement the recommendations made pursuant to subsection (e). If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
 
     (c) __Program submission, approval, and implementation__ 
 
@@ -73,7 +73,7 @@
 
         (2) __Implementation of approved program__ 
 
-        If the program of a State is approved in accordance with paragraph (1), the State shall implement the program, including the management measures included in the program pursuant to subsection (b) of this section, through—
+        If the program of a State is approved in accordance with paragraph (1), the State shall implement the program, including the management measures included in the program pursuant to subsection (b), through—
 
             (A) changes to the State plan for control of nonpoint source pollution approved under [section 1329 of title 33][/us/usc/t33/s1329]; and
 
@@ -193,11 +193,11 @@
 
         (2) __Secretary__ 
 
-            (A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f) of this section.
+            (A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
 
             (B)
 
-             There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) of this section not more than—
+             There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
 
                 (i) $6,000,000 for fiscal year 1992;
 

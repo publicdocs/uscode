@@ -41,7 +41,7 @@
 
         (5) __Pro rata distribution of assistance__ 
 
-            In any fiscal year for which less than all of the funds authorized under subsection (c)(1) of this section are appropriated, such funds shall be distributed under this subsection on a pro rata basis among the entities referred to in subsection (c)(1) of this section in the same proportions in which amounts are authorized by that subsection for grants to those entities.
+            In any fiscal year for which less than all of the funds authorized under subsection (c)(1) are appropriated, such funds shall be distributed under this subsection on a pro rata basis among the entities referred to in subsection (c)(1) in the same proportions in which amounts are authorized by that subsection for grants to those entities.
 
     (b) __Solid waste assistance__ 
 
@@ -63,7 +63,7 @@
 
         (1)
 
-         for assistance under subsection (a) of this section, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007 a total not to exceed—
+         for assistance under subsection (a), for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007 a total not to exceed—
 
             (A) $9,000,000, for grants to the City of St. Paul;
 
@@ -79,7 +79,7 @@
 
         (2)
 
-         for assistance under subsection (b) of this section, for fiscal years 2001, 2002, 2003, 2004, and 2005 a total not to exceed—
+         for assistance under subsection (b), for fiscal years 2001, 2002, 2003, 2004, and 2005 a total not to exceed—
 
             (A) $6,500,000 for the City of St. Paul; and
 
@@ -93,17 +93,17 @@
 
     Neither the United States nor any of its agencies, officers, or employees shall have any liability under this chapter or any other law associated with or resulting from the designing, locating, contracting for, redeveloping, permitting, certifying, operating, or maintaining any solid waste management facility on the Pribilof Islands as a consequence of—
 
-        (1) having provided assistance to the State of Alaska under subsection (b) of this section; or
+        (1) having provided assistance to the State of Alaska under subsection (b); or
 
-        (2) providing funds for, or planning, constructing, or operating, any interim solid waste management facilities that may be required by the State of Alaska before permanent solid waste management facilities constructed with assistance provided under subsection (b) of this section are complete and operational.
+        (2) providing funds for, or planning, constructing, or operating, any interim solid waste management facilities that may be required by the State of Alaska before permanent solid waste management facilities constructed with assistance provided under subsection (b) are complete and operational.
 
     (f) __Report on expenditures__ 
 
-        Each entity which receives assistance authorized under subsection (c) of this section shall submit an audited statement listing the expenditure of that assistance to the Committee on Appropriations and the Committee on Resources of the House of Representatives and the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate, on the last day of fiscal years 2002, 2004, and 2006.
+        Each entity which receives assistance authorized under subsection (c) shall submit an audited statement listing the expenditure of that assistance to the Committee on Appropriations and the Committee on Resources of the House of Representatives and the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate, on the last day of fiscal years 2002, 2004, and 2006.
 
     (g) __Congressional intent__ 
 
-        Amounts authorized under subsection (c) of this section are intended by Congress to be provided in addition to the base funding appropriated to the National Oceanic and Atmospheric Administration in fiscal year 2000.
+        Amounts authorized under subsection (c) are intended by Congress to be provided in addition to the base funding appropriated to the National Oceanic and Atmospheric Administration in fiscal year 2000.
 
 ([Pub. L. 89–702, title II, § 206][/us/pl/89/702/s206], Nov. 2, 1966, [80 Stat. 1094][/us/stat/80/1094]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 840][/us/stat/97/840]; [Pub. L. 100–711, § 9][/us/pl/100/711/s9], Nov. 23, 1988, [102 Stat. 4772][/us/stat/102/4772]; [Pub. L. 101–512, title I][/us/pl/101/512], Nov. 5, 1990, [104 Stat. 1931][/us/stat/104/1931]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–244; [Pub. L. 106–562, title I, § 103][/us/pl/106/562/s103], Dec. 23, 2000, [114 Stat. 2794][/us/stat/114/2794]; [Pub. L. 109–59, title IV, § 4403][/us/pl/109/59/s4403], Aug. 10, 2005, [119 Stat. 1775][/us/stat/119/1775].)
 
@@ -115,7 +115,7 @@
 
     2005—Subsec. (c). [Pub. L. 109–59, § 4403(1)][/us/pl/109/59/s4403/1], struck out “for fiscal years 2001, 2002, 2003, 2004, and 2005” after “Secretary” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 109–59, § 4403(2)][/us/pl/109/59/s4403/2], inserted “, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007” after “subsection (a) of this section” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 109–59, § 4403(2)][/us/pl/109/59/s4403/2], inserted “, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007” after “subsection (a)” in introductory provisions.
 
     2000—[Pub. L. 106–562][/us/pl/106/562] amended section generally, inserting section catchline and subsec. and par. headings and reenacting substantially identical text.
 

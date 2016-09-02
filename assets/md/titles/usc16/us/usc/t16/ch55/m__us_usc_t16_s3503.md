@@ -19,7 +19,7 @@
 
     There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled “Coastal Barrier Resources System”, dated October 24, 1990, as those maps may be modified, revised, or corrected under—
 
-        (1) subsection (f)(3) of this section;
+        (1) subsection (f)(3);
 
         (2) section 4 of the Coastal Barrier Improvement Act of 1990 ([16 U.S.C. 3503][/us/usc/t16/s3503] note; [Public Law 101–591][/us/pl/101/591]); or
 
@@ -27,11 +27,11 @@
 
     (b) __System maps__ 
 
-        The Secretary shall keep the maps referred to in subsection (a) of this section on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
+        The Secretary shall keep the maps referred to in subsection (a) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
 
     (c) __Boundary review and modification__ 
 
-        At least once every 5 years, the Secretary shall review the maps referred to in subsection (a) of this section and shall make, in consultation with the appropriate State, local, and Federal officials, such minor and technical modifications to the boundaries of System units as are necessary solely to reflect changes that have occurred in the size or location of any System unit as a result of natural forces.
+        At least once every 5 years, the Secretary shall review the maps referred to in subsection (a) and shall make, in consultation with the appropriate State, local, and Federal officials, such minor and technical modifications to the boundaries of System units as are necessary solely to reflect changes that have occurred in the size or location of any System unit as a result of natural forces.
 
     (d) __Additions to System__ 
 
@@ -59,7 +59,7 @@
 
     The Secretary shall—
 
-        (1) keep a map showing the location of each boundary modification made under subsection (c) of this section and of each parcel of real property added to the System under subsection (d) or (e) of this section on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
+        (1) keep a map showing the location of each boundary modification made under subsection (c) and of each parcel of real property added to the System under subsection (d) or (e) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
 
         (2)
 
@@ -71,7 +71,7 @@
 
             (C) the Federal Emergency Management Agency; and
 
-        (3) revise the maps referred to in subsection (a) of this section to reflect each boundary modification under subsection (c) of this section and each addition of real property to the System under subsection (d) or (e) of this section, after publishing in the Federal Register a notice of any such proposed revision.
+        (3) revise the maps referred to in subsection (a) to reflect each boundary modification under subsection (c) and each addition of real property to the System under subsection (d) or (e), after publishing in the Federal Register a notice of any such proposed revision.
 
     (g) __Guidelines for certain recommendations and determinations__ 
 
@@ -103,7 +103,7 @@
 
         (3) __Savings clause__ 
 
-            Nothing in this subsection supersedes the official maps referred to in subsection (a) of this section.
+            Nothing in this subsection supersedes the official maps referred to in subsection (a).
 
 ([Pub. L. 97–348, § 4][/us/pl/97/348/s4], Oct. 18, 1982, [96 Stat. 1654][/us/stat/96/1654]; [Pub. L. 97–396, § 8][/us/pl/97/396/s8], Dec. 31, 1982, [96 Stat. 2007][/us/stat/96/2007]; [Pub. L. 100–707, title II, § 204(b)][/us/pl/100/707/s204/b], Nov. 23, 1988, [102 Stat. 4713][/us/stat/102/4713]; [Pub. L. 101–591, § 3][/us/pl/101/591/s3], Nov. 16, 1990, [104 Stat. 2931][/us/stat/104/2931]; [Pub. L. 106–167, § 3(c)(3)][/us/pl/106/167/s3/c/3], Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804]; [Pub. L. 106–514][/us/pl/106/514], §§ 2–3(b)(1), (c), (d), Nov. 13, 2000, [114 Stat. 2394][/us/stat/114/2394], 2395.)
 

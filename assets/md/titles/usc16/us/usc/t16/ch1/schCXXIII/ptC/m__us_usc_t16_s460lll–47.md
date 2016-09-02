@@ -53,7 +53,7 @@
 
         (1) __In general__ 
 
-            Subject to subsection (b) of this section, in filling personnel positions within the Recreation Area, the Secretary shall follow all laws (including regulations) and policies applicable to the Department of Agriculture.
+            Subject to subsection (b), in filling personnel positions within the Recreation Area, the Secretary shall follow all laws (including regulations) and policies applicable to the Department of Agriculture.
 
         (2) __Notification and hiring__ 
 

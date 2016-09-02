@@ -67,7 +67,7 @@
 
     (c) __Exception for emergencies__ 
 
-        No act described in subsection (a)(1), (2), (3), (4), (5), (7), (12), or (13) of this section or in subsection (b) of this section shall be unlawful if the person committing the act reasonably believed that the act was committed under emergency circumstances involving the safety of human life or of ships, aircraft, or equipment or facilities of high value, or the protection of the environment.
+        No act described in subsection (a)(1), (2), (3), (4), (5), (7), (12), or (13) or in subsection (b) shall be unlawful if the person committing the act reasonably believed that the act was committed under emergency circumstances involving the safety of human life or of ships, aircraft, or equipment or facilities of high value, or the protection of the environment.
 
 ([Pub. L. 95–541, § 4][/us/pl/95/541/s4], Oct. 28, 1978, [92 Stat. 2049][/us/stat/92/2049]; [Pub. L. 104–227, title I, § 103][/us/pl/104/227/s103], Oct. 2, 1996, [110 Stat. 3036][/us/stat/110/3036].)
 

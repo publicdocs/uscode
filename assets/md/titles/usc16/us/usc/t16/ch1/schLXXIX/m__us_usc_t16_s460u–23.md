@@ -17,11 +17,11 @@
 
     (a) __Public access requirements__ 
 
-        The Secretary may acquire only such interest in that portion of area VII–A which is described in subsection (b) of this section as the Secretary determines is necessary to assure public access over said portion of area VII–A.
+        The Secretary may acquire only such interest in that portion of area VII–A which is described in subsection (b) as the Secretary determines is necessary to assure public access over said portion of area VII–A.
 
     (b) __Portion of area VII–A subject to acquisition__ 
 
-    The portion of area VII–A, as designated on the map referred to in [section 460u of this title][/us/usc/t16/s460u], to which subsection (a) of this section applies is a parcel of land bounded—
+    The portion of area VII–A, as designated on the map referred to in [section 460u of this title][/us/usc/t16/s460u], to which subsection (a) applies is a parcel of land bounded—
 
         (1) on the east by a line three hundred feet east of the electrical transmission line crossing area VII–A on January 1, 1979;
 

@@ -21,7 +21,7 @@
 
     (b) __Boundary revision__ 
 
-        The boundary of the Lakeshore is revised to include the public land transferred under subsection (a) of this section.
+        The boundary of the Lakeshore is revised to include the public land transferred under subsection (a).
 
     (c) __Availability of map__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Administration__ 
 
-    The Secretary may administer the public land transferred under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a) of this section—
+    The Secretary may administer the public land transferred under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a)—
 
         (1) as part of the Lakeshore; and
 
@@ -61,7 +61,7 @@
 
     (g) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to the Secretary $225,000 to restore, preserve, and maintain the public land transferred under subsection (a) of this section.
+        There are authorized to be appropriated to the Secretary $225,000 to restore, preserve, and maintain the public land transferred under subsection (a).
 
 ([Pub. L. 107–295, title IV, § 437][/us/pl/107/295/s437], Nov. 25, 2002, [116 Stat. 2129][/us/stat/116/2129].)
 

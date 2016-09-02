@@ -25,7 +25,7 @@
 
     (b) __Punishment__ 
 
-        Any offense described in subsection (a)(1) of this section is punishable by a fine of not more than $100,000, or imprisonment for not more than 6 months, or both; except that if in the commission of any such offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any observer described in [section 1857(1)(L) of this title][/us/usc/t16/s1857/1/L] or any officer authorized to enforce the provisions of this chapter (as provided for in [section 1861 of this title][/us/usc/t16/s1861]), or places any such observer or officer in fear of imminent bodily injury, the offense is punishable by a fine of not more than $200,000, or imprisonment for not more than 10 years, or both. Any offense described in subsection (a)(2) of this section is punishable by a fine of not more than $200,000.
+        Any offense described in subsection (a)(1) is punishable by a fine of not more than $100,000, or imprisonment for not more than 6 months, or both; except that if in the commission of any such offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any observer described in [section 1857(1)(L) of this title][/us/usc/t16/s1857/1/L] or any officer authorized to enforce the provisions of this chapter (as provided for in [section 1861 of this title][/us/usc/t16/s1861]), or places any such observer or officer in fear of imminent bodily injury, the offense is punishable by a fine of not more than $200,000, or imprisonment for not more than 10 years, or both. Any offense described in subsection (a)(2) is punishable by a fine of not more than $200,000.
 
     (c) __Jurisdiction__ 
 
@@ -47,7 +47,7 @@
 
     1986—Subsec. (a)(1). [Pub. L. 99–659][/us/pl/99/659] substituted “(H), or (J)” for “or (H)”.
 
-    1983—Subsec. (b). [Pub. L. 97–453][/us/pl/97/453] struck out “, or imprisonment for not more than 1 year, or both” after “subsection (a)(2) of this section is punishable by a fine of not more than $100,000”.
+    1983—Subsec. (b). [Pub. L. 97–453][/us/pl/97/453] struck out “, or imprisonment for not more than 1 year, or both” after “subsection (a)(2) is punishable by a fine of not more than $100,000”.
 
  __Effective Date of 1983 Amendment__ 
 

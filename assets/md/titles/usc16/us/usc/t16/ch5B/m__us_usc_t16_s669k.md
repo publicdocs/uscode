@@ -63,7 +63,7 @@
 
     (e) __Limitation on delegation__ 
 
-        The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) of this section to any person except the Assistant Secretary for Fish and Wildlife and Parks.
+        The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) to any person except the Assistant Secretary for Fish and Wildlife and Parks.
 
 ([Pub. L. 106–408, title I, § 133][/us/pl/106/408/s133], Nov. 1, 2000, [114 Stat. 1775][/us/stat/114/1775].)
 

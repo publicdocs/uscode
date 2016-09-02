@@ -71,7 +71,7 @@
 
     (c) __Description of annual results of discussions; proposals for further action__ 
 
-        The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B) of this section, as well as any proposals for further action to achieve the purposes of that subsection, in the report required under [section 1373(f) of this title][/us/usc/t16/s1373/f].
+        The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B), as well as any proposals for further action to achieve the purposes of that subsection, in the report required under [section 1373(f) of this title][/us/usc/t16/s1373/f].
 
 ([Pub. L. 92–522, title I, § 108][/us/pl/92/522/s108], Oct. 21, 1972, [86 Stat. 1038][/us/stat/86/1038]; [Pub. L. 100–711, § 4(b)][/us/pl/100/711/s4/b], (c), Nov. 23, 1988, [102 Stat. 4766][/us/stat/102/4766], 4767; [Pub. L. 105–42, § 4(e)][/us/pl/105/42/s4/e], Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125].)
 

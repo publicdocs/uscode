@@ -21,7 +21,7 @@
 
         The Congress finds that—
 
-            (A) the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2) of this section, including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of Historic Places as historic sites associated with the history of whaling in the United States;
+            (A) the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2), including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of Historic Places as historic sites associated with the history of whaling in the United States;
 
             (B) the city of New Bedford was the 19th century capital of the world’s whaling industry and retains significant architectural features, archival materials, and museum collections illustrative of this period;
 
@@ -35,7 +35,7 @@
 
         The purposes of this section are—
 
-            (A) to help preserve, protect, and interpret the resources within the areas described in subsection (c)(2) of this section, including architecture, setting, and associated archival and museum collections;
+            (A) to help preserve, protect, and interpret the resources within the areas described in subsection (c)(2), including architecture, setting, and associated archival and museum collections;
 
             (B) to collaborate with the city of New Bedford and with associated historical, cultural, and preservation organizations to further the purposes of the park established under this section; and
 
@@ -45,7 +45,7 @@
 
     For the purposes of this section—
 
-        (1) the term “park” means the New Bedford Whaling National Historical Park established by subsection (c) of this section; and
+        (1) the term “park” means the New Bedford Whaling National Historical Park established by subsection (c); and
 
         (2) the term “Secretary” means the Secretary of the Interior.
 
@@ -131,7 +131,7 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d) of this section.
+            Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d).
 
         (2) __Exceptions__ 
 
@@ -141,7 +141,7 @@
 
             (B) none of the funds authorized to be appropriated by this section may be used for the operation or maintenance of the Schooner Ernestina; and
 
-            (C) not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2) of this section.
+            (C) not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2).
 
 ([Pub. L. 104–333, div. I, title V, § 511][/us/pl/104/333/s511], Nov. 12, 1996, [110 Stat. 4159][/us/stat/110/4159]; [Pub. L. 106–176, title I, § 111(a)][/us/pl/106/176/s111/a], Mar. 10, 2000, [114 Stat. 26][/us/stat/114/26]; [Pub. L. 108–7, div. F, title I, § 154][/us/pl/108/7/s154], Feb. 20, 2003, [117 Stat. 246][/us/stat/117/246].)
 
@@ -171,9 +171,9 @@
 
     Subsec. (g). [Pub. L. 106–176, § 111(a)(4)][/us/pl/106/176/s111/a/4], redesignated subsec. (f) as (g).
 
-    Subsec. (g)(1). [Pub. L. 106–176, § 111(a)(5)(A)][/us/pl/106/176/s111/a/5/A], substituted “subsection (d) of this section.” for “section 3(D).”
+    Subsec. (g)(1). [Pub. L. 106–176, § 111(a)(5)(A)][/us/pl/106/176/s111/a/5/A], substituted “subsection (d).” for “section 3(D).”
 
-    Subsec. (g)(2)(C). [Pub. L. 106–176, § 111(a)(5)(B)][/us/pl/106/176/s111/a/5/B], substituted “cooperative agreements under subsection (e)(2) of this section” for “cooperative grants under subsection (d)(2) of this section”.
+    Subsec. (g)(2)(C). [Pub. L. 106–176, § 111(a)(5)(B)][/us/pl/106/176/s111/a/5/B], substituted “cooperative agreements under subsection (e)(2)” for “cooperative grants under subsection (d)(2)”.
 
  __Change of Name__ 
 

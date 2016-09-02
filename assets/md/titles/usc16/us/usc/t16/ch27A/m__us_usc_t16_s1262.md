@@ -53,11 +53,11 @@
 
     (c) __Chairman__ 
 
-        The Chair of the advisory committee shall be the government official referenced in subsection (b)(3) of this section, who shall serve as a non-voting member.
+        The Chair of the advisory committee shall be the government official referenced in subsection (b)(3), who shall serve as a non-voting member.
 
     (d) __Support for committee action__ 
 
-        Any action, recommendation, or policy of the advisory committee must be supported by at least five of the members appointed under subsection (b)(1) of this section.
+        Any action, recommendation, or policy of the advisory committee must be supported by at least five of the members appointed under subsection (b)(1).
 
     (e) __Terms__ 
 

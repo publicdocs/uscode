@@ -17,7 +17,7 @@
 
     (a) __Compensation for costs of participation or intervention__ 
 
-        (1) If no alternative means for assuring representation of electric consumers is adopted in accordance with subsection (b) of this section and if an electric consumer of an electric utility substantially contributed to the approval, in whole or in part, of a position advocated by such consumer in a proceeding concerning such utility, and relating to any standard set forth in subchapter II, such utility shall be liable to compensate such consumer (pursuant to paragraph (2)) for reasonable attorneys’ fees, expert witness fees, and other reasonable costs incurred in preparation and advocacy of such position in such proceeding (including fees and costs of obtaining judicial review of any determination made in such proceeding with respect to such position).
+        (1) If no alternative means for assuring representation of electric consumers is adopted in accordance with subsection (b) and if an electric consumer of an electric utility substantially contributed to the approval, in whole or in part, of a position advocated by such consumer in a proceeding concerning such utility, and relating to any standard set forth in subchapter II, such utility shall be liable to compensate such consumer (pursuant to paragraph (2)) for reasonable attorneys’ fees, expert witness fees, and other reasonable costs incurred in preparation and advocacy of such position in such proceeding (including fees and costs of obtaining judicial review of any determination made in such proceeding with respect to such position).
 
         (2)
 
@@ -37,7 +37,7 @@
 
     (b) __Alternative means__ 
 
-    Compensation shall not be required under subsection (a) of this section if the State, the State regulatory authority (in the case of a proceeding concerning a State regulated electric utility), or the nonregulated electric utility (in the case of a proceeding concerning such nonregulated electric utility) has provided an alternative means for providing adequate compensation to persons—
+    Compensation shall not be required under subsection (a) if the State, the State regulatory authority (in the case of a proceeding concerning a State regulated electric utility), or the nonregulated electric utility (in the case of a proceeding concerning such nonregulated electric utility) has provided an alternative means for providing adequate compensation to persons—
 
         (1)
 

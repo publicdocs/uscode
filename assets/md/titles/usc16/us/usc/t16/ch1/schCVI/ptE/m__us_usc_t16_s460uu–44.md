@@ -17,7 +17,7 @@
 
     (a) __Authorization; matters considered__ 
 
-    The Secretary is authorized and directed to exchange the Federal mineral interests in the lands described in subsection (b) of this section for the private mineral interests in the lands described in subsection (c) of this section, if—
+    The Secretary is authorized and directed to exchange the Federal mineral interests in the lands described in subsection (b) for the private mineral interests in the lands described in subsection (c), if—
 
         (1) the owner of such private mineral interests has made available to the Secretary all information requested by the Secretary as to the respective values of the private and Federal mineral interests to be exchanged; and
 
@@ -33,11 +33,11 @@
 
     (b) __Location of Federal mineral interests__ 
 
-        The Federal mineral interests to be exchanged under this section underlie the lands, comprising approximately 15,008 acres, depicted as “Proposed for transfer to Santa Fe Pacific” on the map referenced in subsection (d) of this section.
+        The Federal mineral interests to be exchanged under this section underlie the lands, comprising approximately 15,008 acres, depicted as “Proposed for transfer to Santa Fe Pacific” on the map referenced in subsection (d).
 
     (c) __Location of private mineral interests__ 
 
-        The private mineral interests to be exchanged pursuant to this section underlie the lands, comprising approximately 15,141 acres, depicted as “Proposed for transfer to U.S.” on the map referenced in subsection (d) of this section.
+        The private mineral interests to be exchanged pursuant to this section underlie the lands, comprising approximately 15,141 acres, depicted as “Proposed for transfer to U.S.” on the map referenced in subsection (d).
 
     (d) __Identification of mineral interests; legal description__ 
 

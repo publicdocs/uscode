@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Subject to valid existing rights and except as provided in subsection (b) of this section, all Federal lands within the Recreation Area are withdrawn from—
+    Subject to valid existing rights and except as provided in subsection (b), all Federal lands within the Recreation Area are withdrawn from—
 
         (1) all forms of entry, appropriation, or disposal under the public land laws;
 

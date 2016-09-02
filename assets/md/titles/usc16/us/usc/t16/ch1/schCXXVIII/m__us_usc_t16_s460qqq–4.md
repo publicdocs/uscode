@@ -21,7 +21,7 @@
 
     (b) __Disposition of proceeds__ 
 
-    Of the gross proceeds from the conveyance of land under subsection (a) of this section—
+    Of the gross proceeds from the conveyance of land under subsection (a)—
 
         (1) 5 percent shall be available to the State for use in the general education program of the State; and
 

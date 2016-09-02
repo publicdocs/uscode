@@ -21,7 +21,7 @@
 
     (b) __Extension__ 
 
-        The Commission may petition to be extended for a period of not more than 5 years beginning on the day referred to in subsection (a) of this section, provided the Commission determines a critical need to fulfill the purposes of this subchapter; and the Commission obtains approval from the Secretary, in consultation with the Governor of Louisiana.
+        The Commission may petition to be extended for a period of not more than 5 years beginning on the day referred to in subsection (a), provided the Commission determines a critical need to fulfill the purposes of this subchapter; and the Commission obtains approval from the Secretary, in consultation with the Governor of Louisiana.
 
     (c) __Heritage area management following termination of Commission__ 
 

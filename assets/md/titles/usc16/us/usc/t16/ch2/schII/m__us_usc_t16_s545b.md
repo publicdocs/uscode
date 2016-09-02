@@ -29,7 +29,7 @@
 
         (3) __Scenic Recreation Area__ 
 
-            The term “Scenic Recreation Area” means the Opal Creek Scenic Recreation Area, comprising approximately 13,000 acres, as generally depicted on the map entitled “Proposed Opal Creek Wilderness and Scenic Recreation Area”, dated July 1996 and established under subsection (c)(1)(C) of this section.
+            The term “Scenic Recreation Area” means the Opal Creek Scenic Recreation Area, comprising approximately 13,000 acres, as generally depicted on the map entitled “Proposed Opal Creek Wilderness and Scenic Recreation Area”, dated July 1996 and established under subsection (c)(1)(C).
 
         (4) __Secretary__ 
 
@@ -51,11 +51,11 @@
 
         On a determination by the Secretary under paragraph (2)—
 
-            (A) the Opal Creek Wilderness, as depicted on the map described in subsection (a)(2) of this section, is hereby designated as wilderness, subject to the provisions of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\], shall become a component of the National Wilderness System, and shall be known as the Opal Creek Wilderness;
+            (A) the Opal Creek Wilderness, as depicted on the map described in subsection (a)(2), is hereby designated as wilderness, subject to the provisions of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\], shall become a component of the National Wilderness System, and shall be known as the Opal Creek Wilderness;
 
             (B) the part of the Bull of the Woods Wilderness that is located in the Willamette National Forest shall be incorporated into the Opal Creek Wilderness; and
 
-            (C) the Secretary shall establish the Opal Creek Scenic Recreation Area in the Willamette National Forest in the State of Oregon, comprising approximately 13,000 acres, as generally depicted on the map described in subsection (a)(3) of this section.
+            (C) the Secretary shall establish the Opal Creek Scenic Recreation Area in the Willamette National Forest in the State of Oregon, comprising approximately 13,000 acres, as generally depicted on the map described in subsection (a)(3).
 
         (2) __Conditions__ 
 
@@ -105,7 +105,7 @@
 
             (A) __In general__ 
 
-                Not later than 2 years after the date of establishment of the Scenic Recreation Area, the Secretary, in consultation with the advisory committee established under subsection (e)(1) of this section, shall prepare a comprehensive Opal Creek Management Plan (Management Plan) for the Scenic Recreation Area.
+                Not later than 2 years after the date of establishment of the Scenic Recreation Area, the Secretary, in consultation with the advisory committee established under subsection (e)(1), shall prepare a comprehensive Opal Creek Management Plan (Management Plan) for the Scenic Recreation Area.
 
             (B) __Incorporation in land and resource management__ 
 
@@ -147,11 +147,11 @@
 
                 (iii) considers the access needs of persons with disabilities in preparing the transportation plan for the Scenic Recreation Area;
 
-                (iv) allows forest road 2209 beyond the gate to the Scenic Recreation Area, as depicted on the map described in subsection (a)(2) of this section, to be used by motorized vehicles only for administrative purposes and for access by private inholders, subject to such terms and conditions as the Secretary may determine to be necessary; and
+                (iv) allows forest road 2209 beyond the gate to the Scenic Recreation Area, as depicted on the map described in subsection (a)(2), to be used by motorized vehicles only for administrative purposes and for access by private inholders, subject to such terms and conditions as the Secretary may determine to be necessary; and
 
                 (v) restricts construction or improvement of forest road 2209 beyond the gate to the Scenic Recreation Area to maintaining the character of the road as it existed upon November 12, 1996, which shall not include paving or widening.
 
-            In order to comply with subsection (f)(2) of this section, the Secretary may make improvements to forest road 2209 and its bridge structures consistent with the character of the road as it existed on November 12, 1996.
+            In order to comply with subsection (f)(2), the Secretary may make improvements to forest road 2209 and its bridge structures consistent with the character of the road as it existed on November 12, 1996.
 
         (5) __Hunting and fishing__ 
 
@@ -203,7 +203,7 @@
 
         (8) __Bornite Project__ 
 
-            (A) Nothing in this section shall be construed to interfere with or approve any exploration, mining, or mining-related activity in the Bornite Project Area, depicted on the map described in subsection (a)(3) of this section, conducted in accordance with applicable laws.
+            (A) Nothing in this section shall be construed to interfere with or approve any exploration, mining, or mining-related activity in the Bornite Project Area, depicted on the map described in subsection (a)(3), conducted in accordance with applicable laws.
 
             (B) Nothing in this section shall be construed to interfere with the ability of the Secretary to approve and issue, or deny, special use permits in connection with exploration, mining, and mining-related activities in the Bornite Project Area.
 
@@ -239,7 +239,7 @@
 
             (A) __Advisory council__ 
 
-                The Secretary shall consult on a periodic and regular basis with the advisory council established under subsection (e) of this section with respect to matters relating to management of the Scenic Recreation Area.
+                The Secretary shall consult on a periodic and regular basis with the advisory council established under subsection (e) with respect to matters relating to management of the Scenic Recreation Area.
 
             (B) __Public participation__ 
 
@@ -307,7 +307,7 @@
 
                 (i) the nature of land use has changed significantly, or the landowner has demonstrated intent to change the land use significantly, from the use that existed on November 12, 1996; and
 
-                (ii) acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “section”. </sup></sup>  or the management plan prepared under subsection (d)(2) of this section.
+                (ii) acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “section”. </sup></sup>  or the management plan prepared under subsection (d)(2).
 
             (D) __Construction__ 
 

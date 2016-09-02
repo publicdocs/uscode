@@ -21,7 +21,7 @@
 
     (b) __Cooperation where national forests or lands are used by permittees__ 
 
-        Cooperation and assistance on the same basis as that authorized in subsection (a) of this section is authorized also in the performance of any such kinds of work in connection with the occupancy or use of the national forests or other lands administered by the Forest Service.
+        Cooperation and assistance on the same basis as that authorized in subsection (a) is authorized also in the performance of any such kinds of work in connection with the occupancy or use of the national forests or other lands administered by the Forest Service.
 
     (c) __Disposition and availability of moneys; advancements; adjustments__ 
 

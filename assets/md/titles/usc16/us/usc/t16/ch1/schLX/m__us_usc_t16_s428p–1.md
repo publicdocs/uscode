@@ -17,19 +17,19 @@
 
     (a) __Acquisition authority__ 
 
-        Subject to subsections (b) and (c) of this section, the Secretary of the Interior may acquire land, interests in land, and improvements thereon for inclusion in the Fort Donelson National Battlefield. Such land, interests in land, and improvements may be acquired by the Secretary only by purchase from willing sellers with appropriated or donated funds, by donation, or by exchange with willing owners.
+        Subject to subsections (b) and (c), the Secretary of the Interior may acquire land, interests in land, and improvements thereon for inclusion in the Fort Donelson National Battlefield. Such land, interests in land, and improvements may be acquired by the Secretary only by purchase from willing sellers with appropriated or donated funds, by donation, or by exchange with willing owners.
 
     (b) __Land eligible for acquisition__ 
 
-    The Secretary of the Interior may acquire land, interests in land, and improvements thereon under subsection (a) of this section—
+    The Secretary of the Interior may acquire land, interests in land, and improvements thereon under subsection (a)—
 
         (1) within the boundaries of the Fort Donelson National Battlefield described in [section 428p(b) of this title][/us/usc/t16/s428p/b]; and
 
-        (2) outside such boundaries if the land has been identified by the American Battlefield Protection Program as part of the battlefield associated with Fort Donelson or if the Secretary otherwise determines that acquisition under subsection (a) of this section will protect critical resources associated with the Battle of Fort Donelson in 1862 and the Union campaign that resulted in the capture of Fort Donelson.
+        (2) outside such boundaries if the land has been identified by the American Battlefield Protection Program as part of the battlefield associated with Fort Donelson or if the Secretary otherwise determines that acquisition under subsection (a) will protect critical resources associated with the Battle of Fort Donelson in 1862 and the Union campaign that resulted in the capture of Fort Donelson.
 
     (c) __Boundary revision__ 
 
-        Upon acquisition of land or interests in land described in subsection (b)(2) of this section, the Secretary of the Interior shall revise the boundaries of the Fort Donelson National Battlefield to include the acquired property.
+        Upon acquisition of land or interests in land described in subsection (b)(2), the Secretary of the Interior shall revise the boundaries of the Fort Donelson National Battlefield to include the acquired property.
 
     (d) __Limitation on total acreage of park__ 
 

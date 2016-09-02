@@ -29,11 +29,11 @@
 
     (d) __Presidio of San Francisco; use and occupation of certain acreage by Secretary__ 
 
-        Upon enactment, the Secretary of the Army shall grant to the Secretary the irrevocable use and occupancy of one hundred acres of the Baker Beach area of the Presidio of San Francisco, as depicted on the map referred to in subsection (b) of this section.
+        Upon enactment, the Secretary of the Army shall grant to the Secretary the irrevocable use and occupancy of one hundred acres of the Baker Beach area of the Presidio of San Francisco, as depicted on the map referred to in subsection (b).
 
     (e) __Use and occupancy of airfield acreage by Secretary__ 
 
-        The Secretary of the Army shall grant to the Secretary within a reasonable time, the irrevocable use and occupancy of forty-five acres of the Crissy Army Airfield of the Presidio, as depicted on the map referred to in subsection (b) of this section.
+        The Secretary of the Army shall grant to the Secretary within a reasonable time, the irrevocable use and occupancy of forty-five acres of the Crissy Army Airfield of the Presidio, as depicted on the map referred to in subsection (b).
 
     (f) __Transfer of remainder to administrative jurisdiction of Secretary; use and occupancy by Coast Guard under permit from Secretary__ 
 

@@ -43,7 +43,7 @@
 
         (1) __In general__ 
 
-            In addition to conducting the research described in subsection (a) of this section, the Secretary shall, in consultation with the Marine Mammal Commission and in cooperation with the nations participating in the International Dolphin Conservation Program and the Inter-American Tropical Tuna Commission, undertake or support appropriate scientific research to further the goals of the International Dolphin Conservation Program.
+            In addition to conducting the research described in subsection (a), the Secretary shall, in consultation with the Marine Mammal Commission and in cooperation with the nations participating in the International Dolphin Conservation Program and the Inter-American Tropical Tuna Commission, undertake or support appropriate scientific research to further the goals of the International Dolphin Conservation Program.
 
         (2) __Specific areas of research__ 
 
@@ -61,7 +61,7 @@
 
         (1)
 
-         There are authorized to be appropriated to the Secretary the following amounts, to be used by the Secretary to carry out the research described in subsection (a) of this section:
+         There are authorized to be appropriated to the Secretary the following amounts, to be used by the Secretary to carry out the research described in subsection (a):
 
             (A) $4,000,000 for fiscal year 1998.
 

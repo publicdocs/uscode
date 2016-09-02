@@ -35,7 +35,7 @@
 
     (d) __Liability__ 
 
-        The revision of the boundaries of the Wilson’s Creek National Battlefield by subsection (b) of this section shall not be considered to create any liability for, or to have any effect on any liability under any other law of, any owner of private property with respect to any person injured on that private property.
+        The revision of the boundaries of the Wilson’s Creek National Battlefield by subsection (b) shall not be considered to create any liability for, or to have any effect on any liability under any other law of, any owner of private property with respect to any person injured on that private property.
 
     (e) __Recognition of authority to control land use__ 
 
@@ -47,7 +47,7 @@
 
     (g) __Effect of expansion__ 
 
-        The boundaries of the Wilson’s Creek National Battlefield, as revised by subsection (b) of this section, represent the area within which Federal funds appropriated for the purpose of sections 430kk to 430mm of this title may be expended. The boundary revision shall not be construed to provide any nonexisting regulatory authority on land use within the National Battlefield or its viewshed by the Secretary or the National Park Service.
+        The boundaries of the Wilson’s Creek National Battlefield, as revised by subsection (b), represent the area within which Federal funds appropriated for the purpose of sections 430kk to 430mm of this title may be expended. The boundary revision shall not be construed to provide any nonexisting regulatory authority on land use within the National Battlefield or its viewshed by the Secretary or the National Park Service.
 
 ([Pub. L. 86–434, § 1][/us/pl/86/434/s1], Apr. 22, 1960, [74 Stat. 76][/us/stat/74/76]; [Pub. L. 108–394, § 2(a)][/us/pl/108/394/s2/a], Oct. 30, 2004, [118 Stat. 2247][/us/stat/118/2247].)
 

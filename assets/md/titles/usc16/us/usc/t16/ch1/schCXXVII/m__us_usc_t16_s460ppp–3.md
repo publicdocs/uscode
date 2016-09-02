@@ -41,11 +41,11 @@
 
         (2) __Off-highway vehicle use__ 
 
-            Except where needed for administrative purposes or to respond to an emergency, use of motorized vehicles in the conservation area shall be permitted only on roads and trails and in other areas designated for use of motorized vehicles as part of the management plan prepared pursuant to subsection (e) of this section.
+            Except where needed for administrative purposes or to respond to an emergency, use of motorized vehicles in the conservation area shall be permitted only on roads and trails and in other areas designated for use of motorized vehicles as part of the management plan prepared pursuant to subsection (e).
 
         (3) __Permitted events__ 
 
-            The Secretary may continue to permit large-scale events in defined, low impact areas of the Black Rock Desert playa in the conservation area in accordance with the management plan prepared pursuant to subsection (e) of this section.
+            The Secretary may continue to permit large-scale events in defined, low impact areas of the Black Rock Desert playa in the conservation area in accordance with the management plan prepared pursuant to subsection (e).
 
     (d) __Hunting, trapping, and fishing__ 
 

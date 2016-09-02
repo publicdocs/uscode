@@ -25,7 +25,7 @@
 
     (c) __Eligibility__ 
 
-    The Secretary shall ensure that students concentrating in the following studies shall be eligible for assistance under subsection (b) of this section:
+    The Secretary shall ensure that students concentrating in the following studies shall be eligible for assistance under subsection (b):
 
         (1) Forestry.
 

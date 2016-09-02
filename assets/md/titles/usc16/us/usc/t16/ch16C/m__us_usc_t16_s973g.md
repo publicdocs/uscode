@@ -63,7 +63,7 @@
 
         (3) sections 1374(h)(2) and 1416(a) of this title—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The dash probably should be a semicolon. </sup></sup> 
 
-        any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) of this section may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.
+        any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.
 
 ([Pub. L. 100–330, § 9][/us/pl/100/330/s9], June 7, 1988, [102 Stat. 596][/us/stat/102/596]; [Pub. L. 104–43, title VIII, § 801][/us/pl/104/43/s801], Nov. 3, 1995, [109 Stat. 395][/us/stat/109/395].)
 

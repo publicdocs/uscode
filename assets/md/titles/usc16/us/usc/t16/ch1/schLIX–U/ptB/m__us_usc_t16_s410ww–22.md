@@ -21,9 +21,9 @@
 
     (b) __Contents of plan__ 
 
-    The plan referred to in subsection (a) of this section shall—
+    The plan referred to in subsection (a) shall—
 
-        (1) set detailed goals for the preservation, protection, enhancement, and utilization of the resources of sites referred to in subsection (a) of this section;
+        (1) set detailed goals for the preservation, protection, enhancement, and utilization of the resources of sites referred to in subsection (a);
 
         (2) identify properties which should be preserved, restored, developed, maintained, or acquired;
 

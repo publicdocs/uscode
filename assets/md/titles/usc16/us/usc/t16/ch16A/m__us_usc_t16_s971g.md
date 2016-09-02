@@ -43,7 +43,7 @@
 
     (e) __Continuing review of State laws and regulations__ 
 
-        To insure that the purposes of subsection (d) of this section are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) of this section applies or may apply and the extent to which such laws and regulations are enforced.
+        To insure that the purposes of subsection (d) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) applies or may apply and the extent to which such laws and regulations are enforced.
 
 ([Pub. L. 94–70, § 9][/us/pl/94/70/s9], Aug. 5, 1975, [89 Stat. 392][/us/stat/89/392].)
 

@@ -17,11 +17,11 @@
 
     (a) __Adoption of standards__ 
 
-    Not later than two years after November 9, 1978, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) of this section and, on the basis of such hearing, shall—
+    Not later than two years after November 9, 1978, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) and, on the basis of such hearing, shall—
 
-        (1) adopt the standards established by subsection (b) of this section (other than paragraph (4) thereof) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and
+        (1) adopt the standards established by subsection (b) (other than paragraph (4) thereof) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and
 
-        (2) adopt the standard established by subsection (b)(4) of this section if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.
+        (2) adopt the standard established by subsection (b)(4) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.
 
         For purposes of any determination under paragraphs (1) or (2) and any review of such determination in any court in accordance with [section 2633 of this title][/us/usc/t16/s2633], the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to adopt any such standard, pursuant to its authority under otherwise applicable State law.
 
@@ -51,7 +51,7 @@
 
     (c) __Procedural requirements__ 
 
-        Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a) of this section, shall (1) adopt, pursuant to subsection (a) of this section, each of the standards established by subsection (b) of this section, or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
+        Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a), shall (1) adopt, pursuant to subsection (a), each of the standards established by subsection (b) or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
 
 ([Pub. L. 95–617, title I, § 113][/us/pl/95/617/s113], Nov. 9, 1978, [92 Stat. 3123][/us/stat/92/3123].)
 

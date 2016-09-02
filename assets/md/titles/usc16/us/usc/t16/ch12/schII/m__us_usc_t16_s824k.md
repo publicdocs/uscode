@@ -121,7 +121,7 @@
 
         (1) __Rates__ 
 
-            Any order under [section 824j of this title][/us/usc/t16/s824j] requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a) of this section, on the transmission ratemaking methodology used by the Public Utility Commission of Texas.
+            Any order under [section 824j of this title][/us/usc/t16/s824j] requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a), on the transmission ratemaking methodology used by the Public Utility Commission of Texas.
 
         (2) __Definitions__ 
 

@@ -55,7 +55,7 @@
 
     (c) __Civil actions for response costs and damages__ 
 
-        (1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
+        (1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
 
         (2)
 
@@ -95,7 +95,7 @@
 
     (e) __Statute of limitations__ 
 
-        An action for response costs or damages under subsection (c) of this section shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
+        An action for response costs or damages under subsection (c) shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
 
 ([Pub. L. 92–532, title III, § 312][/us/pl/92/532/s312], as added [Pub. L. 100–627, title II, § 204(a)][/us/pl/100/627/s204/a], Nov. 7, 1988, [102 Stat. 3215][/us/stat/102/3215]; amended [Pub. L. 102–587, title II][/us/pl/102/587], §§ 2107(d), 2110, Nov. 4, 1992, [106 Stat. 5044][/us/stat/106/5044], 5045; [Pub. L. 104–283, § 9(e)][/us/pl/104/283/s9/e], Oct. 11, 1996, [110 Stat. 3367][/us/stat/110/3367]; [Pub. L. 106–513][/us/pl/106/513], §§ 13, 19(c), Nov. 13, 2000, [114 Stat. 2389][/us/stat/114/2389], 2393.)
 

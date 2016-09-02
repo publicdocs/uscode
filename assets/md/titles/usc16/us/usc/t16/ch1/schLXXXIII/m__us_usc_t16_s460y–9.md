@@ -19,7 +19,7 @@
 
     (b)
 
-     In addition to any amounts authorized to be appropriated under subsection (a) of this section, there are authorized to be appropriated for fiscal years beginning on or after October 1, 1979, for the acquisition of lands and interests in lands under this subchapter—
+     In addition to any amounts authorized to be appropriated under subsection (a), there are authorized to be appropriated for fiscal years beginning on or after October 1, 1979, for the acquisition of lands and interests in lands under this subchapter—
 
         (1) from the Land and Water Conservation Fund (established under the Land and Water Conservation Fund Act of 1965)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  not to exceed $5,000,000, and
 

@@ -51,11 +51,11 @@
 
     There are authorized to be appropriated to the Director—
 
-        (1) $5,000,000 per year for fiscal years 1991, 1992, 1993, 1994, and 1995 to implement fishery resource restoration plans and programs, except for activities related to the design and construction of fish passage facilities, as directed by subsection (c) of this section;
+        (1) $5,000,000 per year for fiscal years 1991, 1992, 1993, 1994, and 1995 to implement fishery resource restoration plans and programs, except for activities related to the design and construction of fish passage facilities, as directed by subsection (c);
 
-        (2) $500,000 per year for fiscal years 1991, 1992, and 1993 to conduct the study required under subsection (d) of this section; and
+        (2) $500,000 per year for fiscal years 1991, 1992, and 1993 to conduct the study required under subsection (d); and
 
-        (3) $500,000 to conduct the inventory and assessment required under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (e) of this section.
+        (3) $500,000 to conduct the inventory and assessment required under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (e).
 
 ([Pub. L. 101–593, title I, § 111][/us/pl/101/593/s111], Nov. 16, 1990, [104 Stat. 2960][/us/stat/104/2960].)
 

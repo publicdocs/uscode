@@ -19,7 +19,7 @@
 
         (1)
 
-         The Secretary shall by regulation promulgated in accordance with subsection (b) of this section determine whether any species is an endangered species or a threatened species because of any of the following factors:
+         The Secretary shall by regulation promulgated in accordance with subsection (b) determine whether any species is an endangered species or a threatened species because of any of the following factors:
 
             (A) the present or threatened destruction, modification, or curtailment of its habitat or range;
 
@@ -61,7 +61,7 @@
 
             (A)
 
-             The Secretary, by regulation promulgated in accordance with subsection (b) of this section and to the maximum extent prudent and determinable—
+             The Secretary, by regulation promulgated in accordance with subsection (b) and to the maximum extent prudent and determinable—
 
                 (i) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species, designate any habitat of such species which is then considered to be critical habitat; and
 
@@ -79,7 +79,7 @@
 
         (1)
 
-            (A) The Secretary shall make determinations required by subsection (a)(1) of this section solely on the basis of the best scientific and commercial data available to him after conducting a review of the status of the species and after taking into account those efforts, if any, being made by any State or foreign nation, or any political subdivision of a State or foreign nation, to protect such species, whether by predator control, protection of habitat and food supply, or other conservation practices, within any area under its jurisdiction; or on the high seas.
+            (A) The Secretary shall make determinations required by subsection (a)(1) solely on the basis of the best scientific and commercial data available to him after conducting a review of the status of the species and after taking into account those efforts, if any, being made by any State or foreign nation, or any political subdivision of a State or foreign nation, to protect such species, whether by predator control, protection of habitat and food supply, or other conservation practices, within any area under its jurisdiction; or on the high seas.
 
             (B)
 
@@ -89,11 +89,11 @@
 
                 (ii) identified as in danger of extinction, or likely to become so within the foreseeable future, by any State agency or by any agency of a foreign nation that is responsible for the conservation of fish or wildlife or plants.
 
-        (2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) of this section on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
+        (2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
 
         (3)
 
-            (A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under [section 553(e) of title 5][/us/usc/t5/s553/e], to add a species to, or to remove a species from, either of the lists published under subsection (c) of this section, the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
+            (A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under [section 553(e) of title 5][/us/usc/t5/s553/e], to add a species to, or to remove a species from, either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
 
             (B)
 
@@ -109,7 +109,7 @@
 
                     (I) the immediate proposal and timely promulgation of a final regulation implementing the petitioned action in accordance with paragraphs (5) and (6) is precluded by pending proposals to determine whether any species is an endangered species or a threatened species, and
 
-                    (II) expeditious progress is being made to add qualified species to either of the lists published under subsection (c) of this section and to remove from such lists species for which the protections of this chapter are no longer necessary,
+                    (II) expeditious progress is being made to add qualified species to either of the lists published under subsection (c) and to remove from such lists species for which the protections of this chapter are no longer necessary,
 
                     in which case the Secretary shall promptly publish such finding in the Federal Register, together with a description and evaluation of the reasons and data on which the finding is based.
 
@@ -131,7 +131,7 @@
 
         (5)
 
-         With respect to any regulation proposed by the Secretary to implement a determination, designation, or revision referred to in subsection (a)(1) or (3) of this section, the Secretary shall—
+         With respect to any regulation proposed by the Secretary to implement a determination, designation, or revision referred to in subsection (a)(1) or (3), the Secretary shall—
 
             (A)
 
@@ -205,7 +205,7 @@
 
     (c) __Lists__ 
 
-        (1) The Secretary of the Interior shall publish in the Federal Register a list of all species determined by him or the Secretary of Commerce to be endangered species and a list of all species determined by him or the Secretary of Commerce to be threatened species. Each list shall refer to the species contained therein by scientific and common name or names, if any, specify with respect to each such species over what portion of its range it is endangered or threatened, and specify any critical habitat within such range. The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b) of this section.
+        (1) The Secretary of the Interior shall publish in the Federal Register a list of all species determined by him or the Secretary of Commerce to be endangered species and a list of all species determined by him or the Secretary of Commerce to be threatened species. Each list shall refer to the species contained therein by scientific and common name or names, if any, specify with respect to each such species over what portion of its range it is endangered or threatened, and specify any critical habitat within such range. The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b).
 
         (2)
 
@@ -223,7 +223,7 @@
 
                 (iii) be changed in status from a threatened species to an endangered species.
 
-            Each determination under subparagraph (B) shall be made in accordance with the provisions of subsections (a) and (b) of this section.
+            Each determination under subparagraph (B) shall be made in accordance with the provisions of subsections (a) and (b).
 
     (d) __Protective regulations__ 
 
@@ -267,7 +267,7 @@
 
     (g) __Monitoring__ 
 
-        (1) The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c) of this section.
+        (1) The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c).
 
         (2) The Secretary shall make prompt use of the authority under paragraph 7  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be paragraph “(7)”. </sup></sup>  of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
 
@@ -287,7 +287,7 @@
 
     (i) __Submission to State agency of justification for regulations inconsistent with State agency’s comments or petition__ 
 
-        If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency’s comments or petition.
+        If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency’s comments or petition.
 
 ([Pub. L. 93–205, § 4][/us/pl/93/205/s4], Dec. 28, 1973, [87 Stat. 886][/us/stat/87/886]; [Pub. L. 94–359, § 1][/us/pl/94/359/s1], July 12, 1976, [90 Stat. 911][/us/stat/90/911]; [Pub. L. 95–632][/us/pl/95/632], §§ 11, 13, Nov. 10, 1978, [92 Stat. 3764][/us/stat/92/3764], 3766; [Pub. L. 96–159, § 3][/us/pl/96/159/s3], Dec. 28, 1979, [93 Stat. 1225][/us/stat/93/1225]; [Pub. L. 97–304, § 2(a)][/us/pl/97/304/s2/a], Oct. 13, 1982, [96 Stat. 1411][/us/stat/96/1411]; [Pub. L. 100–478, title I][/us/pl/100/478], §§ 1002–1004, Oct. 7, 1988, [102 Stat. 2306][/us/stat/102/2306], 2307; [Pub. L. 108–136, div. A, title III, § 318][/us/pl/108/136/s318], Nov. 24, 2003, [117 Stat. 1433][/us/stat/117/1433].)
 
@@ -313,7 +313,7 @@
 
     Subsecs. (g) to (i). [Pub. L. 100–478, § 1004][/us/pl/100/478/s1004], added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-    1982—Subsec. (a)(1). [Pub. L. 97–304, § 2(a)(1)(B)][/us/pl/97/304/s2/a/1/B], (D), inserted “promulgated in accordance with subsection (b) of this section” after “shall by regulation” in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
+    1982—Subsec. (a)(1). [Pub. L. 97–304, § 2(a)(1)(B)][/us/pl/97/304/s2/a/1/B], (D), inserted “promulgated in accordance with subsection (b)” after “shall by regulation” in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
 
     Subsec. (a)(1)(A). [Pub. L. 97–304, § 2(a)(1)(A)][/us/pl/97/304/s2/a/1/A], redesignated subpar. (1) as (A).
 
@@ -325,7 +325,7 @@
 
     Subsec. (b). [Pub. L. 97–304, § 2(a)(2)][/us/pl/97/304/s2/a/2], completely revised subsec. (b) by, among other changes, requiring the Secretary to base determinations regarding the listing or delisting of species “solely” on the basis of the best scientific and commercial data available, streamlining the listing process by reducing the time periods for rulemaking, consolidating public meetings and hearing requirements, and establishing virtually identical procedures for the listing and delisting of species and for the designation of critical habitat, and altering the evidentiary standard which petitioners must satisfy to warrant a status review of the species proposed for listing or delisting.
 
-    Subsec. (c)(1). [Pub. L. 97–304, § 2(a)(3)(A)][/us/pl/97/304/s2/a/3/A], struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted provision directing the Secretary to revise from time to time each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b) of this section.
+    Subsec. (c)(1). [Pub. L. 97–304, § 2(a)(3)(A)][/us/pl/97/304/s2/a/3/A], struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted at end “The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b).”
 
     Subsec. (c)(2). [Pub. L. 97–304, § 2(a)(3)(B)][/us/pl/97/304/s2/a/3/B], (C), redesignated par. (4) as (2). Former par. (2), directing the Secretary, within 90 days of the receipt of the petition of an interested person under [section 553(e) of title 5][/us/usc/t5/s553/e], to conduct and publish in the Federal Register a review of the status of any listed or unlisted species proposed to be removed from or added to either of the lists published pursuant to paragraph (1) of this subsection, but only if he made and published a finding that such person had presented substantial evidence which in his judgment warranted such a review, was struck out.
 

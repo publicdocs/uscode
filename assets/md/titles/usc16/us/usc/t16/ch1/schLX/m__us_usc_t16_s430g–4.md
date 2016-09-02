@@ -21,7 +21,7 @@
 
     (b) __Additional land__ 
 
-    In addition to the land identified in subsection (a) of this section, the park shall also include—
+    In addition to the land identified in subsection (a), the park shall also include—
 
         (1) the property commonly known as the Wills House located in the Borough of Gettysburg and identified as Tract P02–1 on the map entitled “Gettysburg National Military Park” numbered MARO 305/80,011 Segment 2, and dated April 1981, revised May 14, 1999; and
 
@@ -35,7 +35,7 @@
 
     (c) __Lands excluded from park__ 
 
-        Lands and interests in lands outside of the boundary so depicted as “Park Boundary” on the maps referred to in subsections (a) and (b) of this section are hereby excluded from the park and shall be disposed of in accordance with the provisions of [section 430g–5(c) of this title][/us/usc/t16/s430g–5/c].
+        Lands and interests in lands outside of the boundary so depicted as “Park Boundary” on the maps referred to in subsections (a) and (b) are hereby excluded from the park and shall be disposed of in accordance with the provisions of [section 430g–5(c) of this title][/us/usc/t16/s430g–5/c].
 
 ([Pub. L. 101–377, § 1][/us/pl/101/377/s1], Aug. 17, 1990, [104 Stat. 464][/us/stat/104/464]; [Pub. L. 106–290, § 1][/us/pl/106/290/s1], Oct. 10, 2000, [114 Stat. 921][/us/stat/114/921]; [Pub. L. 113–291, div. B, title XXX, § 3034(a)][/us/pl/113/291/s3034/a], Dec. 19, 2014, [128 Stat. 3777][/us/stat/128/3777].)
 
@@ -45,7 +45,7 @@
 
     2000—Subsec. (b). [Pub. L. 106–290, § 1(2)][/us/pl/106/290/s1/2], added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 106–290, § 1(1)][/us/pl/106/290/s1/1], (3), redesignated subsec. (b) as (c) and substituted “maps referred to in subsections (a) and (b) of this section” for “map referred to in subsection (a) of this section”.
+    Subsec. (c). [Pub. L. 106–290, § 1(1)][/us/pl/106/290/s1/1], (3), redesignated subsec. (b) as (c) and substituted “maps referred to in subsections (a) and (b)” for “map referred to in subsection (a)”.
 
 ----------
 

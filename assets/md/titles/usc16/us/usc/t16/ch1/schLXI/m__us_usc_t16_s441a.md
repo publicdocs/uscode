@@ -41,11 +41,7 @@
 
  __Extension of Boundaries__ 
 
-    [Act June 26, 1936, ch. 842][/us/act/1936-06-26/ch842], title II, § 1, [49 Stat. 1979][/us/stat/49/1979], provided that the boundaries of the Badlands National Monument as established by this section shall be “extended to include such lands adjacent or contiguous thereto, in the State of South Dakota, including, but not being restricted to, lands designated as submarginal by the Resettlement Administration, as may be determined by the President, by proclamation, within five years following the approval of this Act, to be necessary for the proper rounding out of the boundaries of said Monument or the administration thereof, providing the entire area of such Monument shall not exceed 250,000 acres.”
-
- __Laws Applicable__ 
-
-    The provisions of former sections 1, 2, 3, and 4 of this title were made applicable to the above added lands by [act June 26, 1936, ch. 842][/us/act/1936-06-26/ch842], title II, § 2, [49 Stat. 1979][/us/stat/49/1979]. For disposition of sections 1, 2, 3, and 4, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+    [Act June 26, 1936, ch. 842][/us/act/1936-06-26/ch842], title II, [49 Stat. 1979][/us/stat/49/1979], provided that the boundaries of the Badlands National Monument as established by this section shall be “extended to include such lands adjacent or contiguous thereto, in the State of South Dakota, including, but not being restricted to, lands designated as submarginal by the Resettlement Administration, as may be determined by the President, by proclamation, within five years following the approval of this Act, to be necessary for the proper rounding out of the boundaries of said Monument or the administration thereof, providing the entire area of such Monument shall not exceed 250,000 acres”, and that the provisions of [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], known as the National Park Service Organic Act (see Tables for classification), were applicable to the lands that were added to the Monument under such authority.
 
 ----------
 
@@ -62,8 +58,7 @@
 [/us/usc/t16/s441e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441e%E2%80%931
 [/us/act/1936-06-26/ch842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch842
 [/us/stat/49/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1979
-[/us/act/1936-06-26/ch842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch842
-[/us/stat/49/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1979
-[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 
 

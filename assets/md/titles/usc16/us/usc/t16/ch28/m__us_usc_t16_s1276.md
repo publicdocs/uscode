@@ -499,21 +499,21 @@
 
         (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
-        (3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
+        (3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) shall be completed not later than three years after October 30, 1986.
 
-        (4) For the purposes of conducting the studies of rivers named in subsection (a) of this section, there are authorized to be appropriated such sums as necessary.
+        (4) For the purposes of conducting the studies of rivers named in subsection (a), there are authorized to be appropriated such sums as necessary.
 
         (5) The studies of the rivers in paragraphs (77) through (88) shall be completed and reports transmitted thereon not later than three full fiscal years from December 2, 1980. For the rivers listed in paragraphs (77), (78), and (79) the studies prepared and transmitted to the Congress pursuant to [section 6505(c) of title 42][/us/usc/t42/s6505/c] shall satisfy the requirements of this section.
 
         (6) Studies of rivers listed in paragraphs (80) and (81) shall be completed, and reports submitted within and not later than the time when the Bristol Bay Cooperative Region Plan is submitted to Congress in accordance with section 3183  <sup>\[3\]</sup>  <sup><sup> 3 See Codification note below. </sup></sup>  of this title.
 
-        (7) The study of the West Branch of the Farmington River identified in paragraph (92) of subsection (a) of this section shall be completed and the report submitted thereon not later than the end of the third fiscal year beginning after October 30, 1986. Such report shall include a discussion of management alternatives for the river if it were to be included in the national wild and scenic river system.
+        (7) The study of the West Branch of the Farmington River identified in paragraph (92) of subsection (a) shall be completed and the report submitted thereon not later than the end of the third fiscal year beginning after October 30, 1986. Such report shall include a discussion of management alternatives for the river if it were to be included in the national wild and scenic river system.
 
         (8) The study of the Merrimack River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
 
         (9) The study of the Pemigewasset River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
 
-        (10) The study of the river named in paragraph (106)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “(108)”. </sup></sup>  of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
+        (10) The study of the river named in paragraph (106)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “(108)”. </sup></sup>  of subsection (a) shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
 
         (11) The study of the Lamprey River, New Hampshire, shall be completed by the Secretary of the Interior and the report thereon submitted not later than 3 years after December 11, 1991.
 
@@ -525,7 +525,7 @@
 
             (C) The Secretary shall prepare the study, including the recommended management plan, in cooperation and consultation with appropriate State and local governments, and affected landowners.
 
-        (13) The study of segments of the Brule, Carp, Little Manistee, White, Paint, Presque Isle, Ontonagon, Sturgeon (Hiawatha), Sturgeon (Ottawa), Whitefish, and Tahquamenon Rivers in Michigan under subsection (a) of this section shall be completed by the Secretary of Agriculture and the report submitted thereon not later than at the end of the third fiscal year beginning after March 3, 1992. For purposes of such river studies, the Secretary shall consult with each River Study Committee authorized under section 5 of the Michigan Scenic Rivers Act of 1990, <sup>\[5\]</sup>  <sup><sup> 5 See References in Text note below. </sup></sup>  and shall encourage public participation and involvement through hearings, workshops, and such other means as are necessary to be effective.
+        (13) The study of segments of the Brule, Carp, Little Manistee, White, Paint, Presque Isle, Ontonagon, Sturgeon (Hiawatha), Sturgeon (Ottawa), Whitefish, and Tahquamenon Rivers in Michigan under subsection (a) shall be completed by the Secretary of Agriculture and the report submitted thereon not later than at the end of the third fiscal year beginning after March 3, 1992. For purposes of such river studies, the Secretary shall consult with each River Study Committee authorized under section 5 of the Michigan Scenic Rivers Act of 1990, <sup>\[5\]</sup>  <sup><sup> 5 See References in Text note below. </sup></sup>  and shall encourage public participation and involvement through hearings, workshops, and such other means as are necessary to be effective.
 
         (14)
 
@@ -543,7 +543,7 @@
 
         (15) The study of the Rio Grande in New Mexico shall be completed and the report submitted not later than 3 years after May 4, 1994.
 
-        (16) The study of the Wekiva River and the tributaries designated in paragraph (136) of subsection (a) of this section shall be completed and the report transmitted to Congress not later than two years after October 19, 1996.
+        (16) The study of the Wekiva River and the tributaries designated in paragraph (136) of subsection (a) shall be completed and the report transmitted to Congress not later than two years after October 19, 1996.
 
         (17)  __Taunton River, Massachusetts__  __.—__ 
 
@@ -553,7 +553,7 @@
 
             (B) shall submit to Congress a report describing the results of the study.
 
-        (18) The study of the Eightmile River, Connecticut, named in paragraph (138) of subsection (a) of this section shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after November 6, 2001.
+        (18) The study of the Eightmile River, Connecticut, named in paragraph (138) of subsection (a) shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after November 6, 2001.
 
         (19)  __Missisquoi and trout rivers, vermont__  __.—__ 
 

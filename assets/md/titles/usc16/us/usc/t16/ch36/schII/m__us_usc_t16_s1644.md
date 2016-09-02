@@ -29,7 +29,7 @@
 
     (d) __Priorities__ 
 
-    In making grants under subsections (b) and (c) of this section, the Secretary shall give priority to research proposals under which—
+    In making grants under subsections (b) and (c), the Secretary shall give priority to research proposals under which—
 
         (1) the proposed research will be collaborative research organized through a center of scientific excellence;
 

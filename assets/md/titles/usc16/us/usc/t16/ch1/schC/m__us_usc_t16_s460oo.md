@@ -25,7 +25,7 @@
 
     (c) __Management plan__ 
 
-    The recreation area shall be managed in accordance with plans prepared in subsection (g) of this section to:
+    The recreation area shall be managed in accordance with plans prepared in subsection (g) to:
 
         (1) provide a range of recreation opportunities from primitive to full service developed campgrounds;
 

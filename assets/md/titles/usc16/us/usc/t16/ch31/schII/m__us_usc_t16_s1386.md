@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Not later than August 1, 1994, the Secretary shall, in consultation with the appropriate regional scientific review group established under subsection (d) of this section, prepare a draft stock assessment for each marine mammal stock which occurs in waters under the jurisdiction of the United States. Each draft stock assessment, based on the best scientific information available, shall—
+    Not later than August 1, 1994, the Secretary shall, in consultation with the appropriate regional scientific review group established under subsection (d), prepare a draft stock assessment for each marine mammal stock which occurs in waters under the jurisdiction of the United States. Each draft stock assessment, based on the best scientific information available, shall—
 
         (1) describe the geographic range of the affected stock, including any seasonal or temporal variation in such range;
 
@@ -55,7 +55,7 @@
 
         (3)
 
-         After consideration of the best scientific information available, the advice of the appropriate regional scientific review group established under subsection (d) of this section, and the comments of the general public, the Secretary shall publish in the Federal Register a notice of availability and a summary of the final stock assessment or any revision thereof, not later than 90 days after—
+         After consideration of the best scientific information available, the advice of the appropriate regional scientific review group established under subsection (d), and the comments of the general public, the Secretary shall publish in the Federal Register a notice of availability and a summary of the final stock assessment or any revision thereof, not later than 90 days after—
 
             (A) the close of the public comment period on a draft stock assessment or revision thereof; or
 
@@ -73,7 +73,7 @@
 
             (C) at least once every 3 years for all other stocks.
 
-        (2) If the review under paragraph (1) indicates that the status of the stock has changed or can be more accurately determined, the Secretary shall revise the stock assessment in accordance with subsection (b) of this section.
+        (2) If the review under paragraph (1) indicates that the status of the stock has changed or can be more accurately determined, the Secretary shall revise the stock assessment in accordance with subsection (b).
 
     (d) __Regional scientific review groups__ 
 

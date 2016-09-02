@@ -37,7 +37,7 @@
 
         (2)
 
-         Within four months after receiving all notification referred to in paragraph (1) and after considering such notifications, any environmental impact statement prepared pursuant to [section 3164(e) of this title][/us/usc/t16/s3164/e], and the comments of the public and Federal agencies received during the preparation of such statement, the President shall decide whether or not the application for the system concerned should be approved. If the President denies an application the applicant shall be deemed to have exhausted his administrative remedies, and may file suit in any appropriate Federal court to challenge such decision. If the President approves the application, he shall submit to Congress his recommendation for approval of the transportation or utility system covered, whereupon the Congress shall consider the application as provided in subsection (c) of this section. The President shall include with his recommendation to Congress—
+         Within four months after receiving all notification referred to in paragraph (1) and after considering such notifications, any environmental impact statement prepared pursuant to [section 3164(e) of this title][/us/usc/t16/s3164/e], and the comments of the public and Federal agencies received during the preparation of such statement, the President shall decide whether or not the application for the system concerned should be approved. If the President denies an application the applicant shall be deemed to have exhausted his administrative remedies, and may file suit in any appropriate Federal court to challenge such decision. If the President approves the application, he shall submit to Congress his recommendation for approval of the transportation or utility system covered, whereupon the Congress shall consider the application as provided in subsection (c). The President shall include with his recommendation to Congress—
 
             (A) the application which is the subject of his recommendation;
 
@@ -49,7 +49,7 @@
 
     (c) __Congressional approval__ 
 
-        (1) No application for any transportation or utility system with respect to which the President makes a recommendation for approval under subsection (b) of this section shall be approved unless the Senate and House of Representatives approve a resolution described in paragraph (4) within the first period of one hundred and twenty calendar days of continuous session of the Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such recommendation.
+        (1) No application for any transportation or utility system with respect to which the President makes a recommendation for approval under subsection (b) shall be approved unless the Senate and House of Representatives approve a resolution described in paragraph (4) within the first period of one hundred and twenty calendar days of continuous session of the Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such recommendation.
 
         (2)
 
@@ -71,7 +71,7 @@
 
         (5) Except as otherwise provided in this subsection, the provisions of [section 719f(d) of title 15][/us/usc/t15/s719f/d] shall apply to the consideration of the resolution.
 
-        (6) After an application for a transportation or utility system has been approved under subsection (a) of this section, the appropriate Federal agencies shall issue appropriate authorizations in accordance with applicable law. In any case in which an application for a transportation or utility system has been approved pursuant to subsection (b) of this section, the appropriate Federal agencies shall issue appropriate authorizations in accordance with title V of the Federal Lands Policy Management Act \[[43 U.S.C. 1761][/us/usc/t43/s1761] et seq.\] or other applicable law. After issuance pursuant to this subsection, the appropriate land managing agency shall administer the right-of-way in accordance with relevant management authorities of the land managing agency and title V of the Federal Lands Policy Management Act.
+        (6) After an application for a transportation or utility system has been approved under subsection (a), the appropriate Federal agencies shall issue appropriate authorizations in accordance with applicable law. In any case in which an application for a transportation or utility system has been approved pursuant to subsection (b), the appropriate Federal agencies shall issue appropriate authorizations in accordance with title V of the Federal Lands Policy Management Act \[[43 U.S.C. 1761][/us/usc/t43/s1761] et seq.\] or other applicable law. After issuance pursuant to this subsection, the appropriate land managing agency shall administer the right-of-way in accordance with relevant management authorities of the land managing agency and title V of the Federal Lands Policy Management Act.
 
 ([Pub. L. 96–487, title XI, § 1106][/us/pl/96/487/s1106], Dec. 2, 1980, [94 Stat. 2461][/us/stat/94/2461].)
 

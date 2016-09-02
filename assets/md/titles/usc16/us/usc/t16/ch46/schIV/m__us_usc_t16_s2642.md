@@ -35,7 +35,7 @@
 
     (c) __Appropriations__ 
 
-        There are authorized to be appropriated to carry out the purposes of subsection (b) of this section not to exceed $1,000,000 for each of the fiscal years 1979 and 1980.
+        There are authorized to be appropriated to carry out the purposes of subsection (b) not to exceed $1,000,000 for each of the fiscal years 1979 and 1980.
 
     (d) __Demand response__ 
 

@@ -55,7 +55,7 @@
 
             (C)
 
-             in the case of grants made for objectives described in subsection (b)(2) of this section—
+             in the case of grants made for objectives described in subsection (b)(2)—
 
                 (i) the rehabilitation or acquisition of piers to provide increased public use, including compatible commercial activity,
 

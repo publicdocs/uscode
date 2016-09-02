@@ -19,7 +19,7 @@
 
         (1) Within eighteen months after September 26, 1980, the Secretaries shall establish the National Aquaculture Development Plan.
 
-        (2) In developing the Plan, and revisions thereto under subsection (d) of this section, beginning not later than six months after September 26, 1980, the Secretary shall consult with the Secretary of Commerce and the Secretary of the Interior, other appropriate Federal officers, States, regional fishery management councils established under [section 1852 of this title][/us/usc/t16/s1852], and representatives of the aquaculture industry. In addition, the Secretary shall give interested persons and organizations an opportunity to comment during the development of the Plan.
+        (2) In developing the Plan, and revisions thereto under subsection (d), beginning not later than six months after September 26, 1980, the Secretary shall consult with the Secretary of Commerce and the Secretary of the Interior, other appropriate Federal officers, States, regional fishery management councils established under [section 1852 of this title][/us/usc/t16/s1852], and representatives of the aquaculture industry. In addition, the Secretary shall give interested persons and organizations an opportunity to comment during the development of the Plan.
 
     (b) __Contents of Plan__ 
 
@@ -75,7 +75,7 @@
 
     (d) __Revision of Plan__ 
 
-    The Secretaries shall undertake periodic reviews of the operation and effectiveness of the Plan. If as a result of any such review, or the aquaculture assessment required under subsection (e) of this section, the Secretaries determine that—
+    The Secretaries shall undertake periodic reviews of the operation and effectiveness of the Plan. If as a result of any such review, or the aquaculture assessment required under subsection (e), the Secretaries determine that—
 
         (1) any aquatic species not currently identified in the Plan has significant potential for aquaculture;
 

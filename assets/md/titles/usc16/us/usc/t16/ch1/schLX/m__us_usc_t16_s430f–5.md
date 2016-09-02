@@ -31,7 +31,7 @@
 
         (1) __Interpretive center__ 
 
-            The Secretary shall construct, operate, and maintain on the property acquired under subsection (b) of this section a center for the interpretation of the Siege and Battle of Corinth and associated historical events for the benefit of the public.
+            The Secretary shall construct, operate, and maintain on the property acquired under subsection (b) a center for the interpretation of the Siege and Battle of Corinth and associated historical events for the benefit of the public.
 
         (2) __Marking__ 
 

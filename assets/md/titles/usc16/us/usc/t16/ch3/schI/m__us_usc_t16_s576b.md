@@ -19,7 +19,7 @@
 
     (c)
 
-  <sup>\[1\]</sup>  <sup><sup> 1 See 2004 Amendment notes below. </sup></sup>  Any portion of the balance at the end of a fiscal year in the special fund established pursuant to this section that the Secretary of Agriculture determines to be in excess of the cost of doing work described in subsection (a) of this section (as well as any portion of the balance in the special fund that the Secretary determined, before October 1, 2004, to be excess of the cost of doing work described in subsection (a) of this section, but which has not been transferred by that date) shall be transferred to miscellaneous receipts, National Forest Fund, as a National Forest receipt, but only if the Secretary also determines that—
+  <sup>\[1\]</sup>  <sup><sup> 1 See 2004 Amendment notes below. </sup></sup>  Any portion of the balance at the end of a fiscal year in the special fund established pursuant to this section that the Secretary of Agriculture determines to be in excess of the cost of doing work described in subsection (a) (as well as any portion of the balance in the special fund that the Secretary determined, before October 1, 2004, to be excess of the cost of doing work described in subsection (a), but which has not been transferred by that date) shall be transferred to miscellaneous receipts, National Forest Fund, as a National Forest receipt, but only if the Secretary also determines that—
 
         (1) the excess amounts will not be needed for emergency wildfire suppression during the fiscal year in which the transfer would be made; and
 
@@ -33,7 +33,7 @@
 
     2004—[Pub. L. 108–447, § 318(1)][/us/pl/108/447/s318/1], which directed the amendment of this section “by striking ‘The Secretary of Agriculture may, when in his’ and inserting ‘(a) The Secretary of Agriculture may, when in his or her’;
 
-    ‘(b) Amounts deposited under subsection (a) of this section’ ”,
+    ‘(b) Amounts deposited under subsection (a)’ ”,
 
     was partially executed by designating existing text as subsec. (a) and substituting “The Secretary of Agriculture may, when in his or her” for “The Secretary of Agriculture may, when in his”. However, the provisions relating to subsec. (b) were not inserted, because of missing directory language.
 

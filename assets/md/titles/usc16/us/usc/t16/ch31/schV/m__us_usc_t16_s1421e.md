@@ -33,7 +33,7 @@
 
     (b) __Limitation__ 
 
-        Subsection (a) of this section does not apply to actions of a person described in that subsection that are grossly negligent or that constitute willful misconduct.
+        Subsection (a) does not apply to actions of a person described in that subsection that are grossly negligent or that constitute willful misconduct.
 
 ([Pub. L. 92–522, title IV, § 406][/us/pl/92/522/s406], formerly title III, § 306, as added [Pub. L. 102–587, title III, § 3003(a)][/us/pl/102/587/s3003/a], Nov. 4, 1992, [106 Stat. 5064][/us/stat/106/5064]; renumbered title IV, § 406, and amended [Pub. L. 103–238, § 24(b)][/us/pl/103/238/s24/b], (c)(3), (4), Apr. 30, 1994, [108 Stat. 565][/us/stat/108/565], 566.)
 

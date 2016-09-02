@@ -17,7 +17,7 @@
 
     (a) __Pemberton’s Headquarters__ 
 
-        The Secretary of the Interior is authorized to acquire the properties described in [section 430h–10 of this title][/us/usc/t16/s430h–10] and subsection (b) of this section by purchase, donation, or exchange, except that each property may only be acquired with the consent of the owner thereof.
+        The Secretary of the Interior is authorized to acquire the properties described in [section 430h–10 of this title][/us/usc/t16/s430h–10] and subsection (b) by purchase, donation, or exchange, except that each property may only be acquired with the consent of the owner thereof.
 
     (b) __Parking__ 
 

@@ -25,7 +25,7 @@
 
     (c) __Reproduction__ 
 
-    Notwithstanding the provisions of subsection (b) of this section, or the prohibition in [section 474 of title 18][/us/usc/t18/s474], or other provisions of law, the Secretary may authorize, with the concurrence of the Secretary of the Treasury,
+    Notwithstanding the provisions of subsection (b), or the prohibition in [section 474 of title 18][/us/usc/t18/s474], or other provisions of law, the Secretary may authorize, with the concurrence of the Secretary of the Treasury,
 
         (1) the color reproduction, or
 

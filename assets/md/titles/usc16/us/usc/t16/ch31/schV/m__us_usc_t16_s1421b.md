@@ -21,7 +21,7 @@
 
     (b) __Required provision__ 
 
-    An agreement authorized by subsection (a) of this section shall—
+    An agreement authorized by subsection (a) shall—
 
         (1) specify each person who is authorized to perform activities under the agreement; and
 

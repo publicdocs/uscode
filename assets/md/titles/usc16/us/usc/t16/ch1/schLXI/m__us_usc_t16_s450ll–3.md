@@ -21,11 +21,11 @@
 
     (b) __Acquisition of additional lands__ 
 
-        The Secretary of the Interior is authorized to acquire from willing owners the land or interests in land described in subsection (a) of this section by donation, purchase with donated or appropriated funds, or exchange.
+        The Secretary of the Interior is authorized to acquire from willing owners the land or interests in land described in subsection (a) by donation, purchase with donated or appropriated funds, or exchange.
 
     (c) __Administration of additional lands__ 
 
-        Lands added to the Booker T. Washington National Monument by subsection (a) of this section shall be administered by the Secretary of the Interior as part of the monument in accordance with applicable laws and regulations.
+        Lands added to the Booker T. Washington National Monument by subsection (a) shall be administered by the Secretary of the Interior as part of the monument in accordance with applicable laws and regulations.
 
 ([Apr. 2, 1956, ch. 158, § 5][/us/act/1956-04-02/ch158/s5], as added [Pub. L. 107–215, § 2][/us/pl/107/215/s2], Aug. 21, 2002, [116 Stat. 1054][/us/stat/116/1054].)
 

@@ -21,7 +21,7 @@
 
     (b) __Findings__ 
 
-    A recommendation may be transmitted to the Congress under subsection (a) of this section if the President finds that, based on the information available to him—
+    A recommendation may be transmitted to the Congress under subsection (a) if the President finds that, based on the information available to him—
 
         (1) there is an urgent national need for the mineral activity; and
 
@@ -39,7 +39,7 @@
 
     (d) __Approval__ 
 
-        Any recommendation under this section shall take effect only upon enactment of a joint resolution approving such recommendation within the first period of one hundred and twenty calendar days of continuous session of Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such recommendation. Any recommendation of the President submitted to Congress under subsection (a) of this section shall be considered received by both Houses for purposes of this section on the first day on which both are in session occurring after such recommendation is submitted.
+        Any recommendation under this section shall take effect only upon enactment of a joint resolution approving such recommendation within the first period of one hundred and twenty calendar days of continuous session of Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such recommendation. Any recommendation of the President submitted to Congress under subsection (a) shall be considered received by both Houses for purposes of this section on the first day on which both are in session occurring after such recommendation is submitted.
 
     (e) __One-hundred-and-twenty-day computation__ 
 

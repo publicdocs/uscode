@@ -33,7 +33,7 @@
 
     Nothing in this chapter shall be construed as—
 
-        (1) repealing, superseding, or modifying any provision of Federal law other than those specified in subsection (b) of this section;
+        (1) repealing, superseding, or modifying any provision of Federal law other than those specified in subsection (b);
 
         (2) repealing, superseding, or modifying any right, privilege, or immunity granted, reserved, or established pursuant to treaty, statute, or executive order pertaining to any Indian tribe, band, or community; or
 

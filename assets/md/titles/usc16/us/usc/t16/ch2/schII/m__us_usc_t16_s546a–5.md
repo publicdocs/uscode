@@ -21,7 +21,7 @@
 
     (b) __Other purposes__ 
 
-        In addition to the amounts authorized to be appropriated under subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for the development and implementation of the management plan under [section 546a–1(b) of this title][/us/usc/t16/s546a–1/b].
+        In addition to the amounts authorized to be appropriated under subsection (a), there are authorized to be appropriated such sums as may be necessary for the development and implementation of the management plan under [section 546a–1(b) of this title][/us/usc/t16/s546a–1/b].
 
 ([Pub. L. 106–431, § 8][/us/pl/106/431/s8], Nov. 6, 2000, [114 Stat. 1907][/us/stat/114/1907].)
 

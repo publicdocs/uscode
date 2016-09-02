@@ -17,17 +17,17 @@
 
     (a) __Violations__ 
 
-        It shall be unlawful for any person to violate any provision of subchapter II of this chapter or any rule or order issued under any such provision.
+        It shall be unlawful for any person to violate any provision of subchapter II or any rule or order issued under any such provision.
 
     (b) __Civil penalties__ 
 
-        Any person who violates any provision of subchapter II of this chapter or any provision of any rule or order thereunder shall be subject to a civil penalty of not more than $1,000,000 for each day that such violation continues. Such penalty shall be assessed by the Commission, after notice and opportunity for public hearing, in accordance with the same provisions as are applicable under [section 823b(d) of this title][/us/usc/t16/s823b/d] in the case of civil penalties assessed under [section 823b of this title][/us/usc/t16/s823b]. In determining the amount of a proposed penalty, the Commission shall take into consideration the seriousness of the violation and the efforts of such person to remedy the violation in a timely manner.
+        Any person who violates any provision of subchapter II or any provision of any rule or order thereunder shall be subject to a civil penalty of not more than $1,000,000 for each day that such violation continues. Such penalty shall be assessed by the Commission, after notice and opportunity for public hearing, in accordance with the same provisions as are applicable under [section 823b(d) of this title][/us/usc/t16/s823b/d] in the case of civil penalties assessed under [section 823b of this title][/us/usc/t16/s823b]. In determining the amount of a proposed penalty, the Commission shall take into consideration the seriousness of the violation and the efforts of such person to remedy the violation in a timely manner.
 
 ([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 316A, as added [Pub. L. 102–486, title VII, § 725(b)][/us/pl/102/486/s725/b], Oct. 24, 1992, [106 Stat. 2920][/us/stat/106/2920]; amended [Pub. L. 109–58, title XII, § 1284(e)][/us/pl/109/58/s1284/e], Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980].)
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–58][/us/pl/109/58] substituted “subchapter II of this chapter” for “section 824j, 824k, 824l, or 824m of this title” in subsecs. (a) and (b) and “$1,000,000” for “$10,000” in subsec. (b).
+    2005—[Pub. L. 109–58][/us/pl/109/58] substituted “subchapter II” for “section 824j, 824k, 824l, or 824m of this title” in subsecs. (a) and (b) and “$1,000,000” for “$10,000” in subsec. (b).
 
  __State Authorities; Construction__ 
 

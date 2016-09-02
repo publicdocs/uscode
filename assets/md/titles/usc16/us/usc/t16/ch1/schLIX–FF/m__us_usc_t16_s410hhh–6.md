@@ -23,13 +23,13 @@
 
     (b) __Boundary adjustment__ 
 
-        As soon as practicable after the acquisition of any land or interest under this section, the Secretary shall modify the boundary of the unit to which the land is transferred pursuant to subsection (b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (c)”. </sup></sup>  of this section to include any land or interest acquired.
+        As soon as practicable after the acquisition of any land or interest under this section, the Secretary shall modify the boundary of the unit to which the land is transferred pursuant to subsection (b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (c)”. </sup></sup>  to include any land or interest acquired.
 
     (c) __Administration of acquired lands__ 
 
         (1) __General authority__ 
 
-        Upon acquisition of lands under subsection (a) of this section, the Secretary shall, as appropriate—
+        Upon acquisition of lands under subsection (a), the Secretary shall, as appropriate—
 
             (A)
 

@@ -35,7 +35,7 @@
 
         In awarding grants under paragraph (1), the Secretary shall give priority to projects that—
 
-            (A) consist of the construction, renovation, or maintenance of facilities for transient nontrailerable recreational vessels in accordance with a plan submitted by a State under subsection (c) of this section;
+            (A) consist of the construction, renovation, or maintenance of facilities for transient nontrailerable recreational vessels in accordance with a plan submitted by a State under subsection (c);
 
             (B) provide for public/private partnership efforts to develop, maintain, and operate facilities for transient nontrailerable recreational vessels; and
 

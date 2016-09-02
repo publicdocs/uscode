@@ -21,7 +21,7 @@
 
     (b) __Regulations__ 
 
-    Activities carried out in conservation system units under subsection (a) of this section shall be subject to regulations promulgated by the Secretary. Such regulations shall ensure that such activities are carried out in an environmentally sound manner—
+    Activities carried out in conservation system units under subsection (a) shall be subject to regulations promulgated by the Secretary. Such regulations shall ensure that such activities are carried out in an environmentally sound manner—
 
         (1) which does not result in lasting environmental impacts which appreciably alter the natural character of the units or biological or ecological systems in the units; and
 

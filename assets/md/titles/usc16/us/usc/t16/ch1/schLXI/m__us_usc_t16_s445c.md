@@ -25,7 +25,7 @@
 
     (c) __Quarry rights of Indians__ 
 
-        The quarrying of the red pipestone in the lands described in subsection (a) of this section is expressly reserved to Indians of all tribes, under regulations to be prescribed by the Secretary of the Interior.
+        The quarrying of the red pipestone in the lands described in subsection (a) is expressly reserved to Indians of all tribes, under regulations to be prescribed by the Secretary of the Interior.
 
 ([Aug. 25, 1937, ch. 768][/us/act/1937-08-25/ch768], §§ 1–3, [50 Stat. 804][/us/stat/50/804], 805.)
 

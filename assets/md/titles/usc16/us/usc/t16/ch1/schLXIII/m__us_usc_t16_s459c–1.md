@@ -23,7 +23,7 @@
 
     (b) __Bear Valley Ranch right-of-way__ 
 
-        The area referred to in subsection (a) of this section shall also include a right-of-way to the aforesaid tract in the general vicinity of the northwesterly portion of the property known as “Bear Valley Ranch”, to be selected by the Secretary, of not more than four hundred feet in width, together with such adjoining lands as would be deprived of access by reason of the acquisition of such right-of-way.
+        The area referred to in subsection (a) shall also include a right-of-way to the aforesaid tract in the general vicinity of the northwesterly portion of the property known as “Bear Valley Ranch”, to be selected by the Secretary, of not more than four hundred feet in width, together with such adjoining lands as would be deprived of access by reason of the acquisition of such right-of-way.
 
 ([Pub. L. 87–657, § 2][/us/pl/87/657/s2], Sept. 13, 1962, [76 Stat. 538][/us/stat/76/538]; [Pub. L. 89–666, § 1(a)][/us/pl/89/666/s1/a], Oct. 15, 1966, [80 Stat. 919][/us/stat/80/919]; [Pub. L. 93–550, title II, § 201][/us/pl/93/550/s201], Dec. 26, 1974, [88 Stat. 1744][/us/stat/88/1744]; [Pub. L. 95–625, title III, § 318(a)][/us/pl/95/625/s318/a], Nov. 10, 1978, [92 Stat. 3486][/us/stat/92/3486]; [Pub. L. 96–199, title I, § 101(a)(1)][/us/pl/96/199/s101/a/1], Mar. 5, 1980, [94 Stat. 67][/us/stat/94/67]; [Pub. L. 103–437, § 6(d)(16)][/us/pl/103/437/s6/d/16], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 

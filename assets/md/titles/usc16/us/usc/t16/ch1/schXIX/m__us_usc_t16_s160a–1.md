@@ -23,7 +23,7 @@
 
         (1)
 
-         In addition to such revisions as the Secretary may make in the boundaries of the park from time to time pursuant to other provisions of law, the Secretary may, according to the provisions of subsection (a) of this section—
+         In addition to such revisions as the Secretary may make in the boundaries of the park from time to time pursuant to other provisions of law, the Secretary may, according to the provisions of subsection (a)—
 
             (A) delete approximately 782 acres in the Neil Point area of the park;
 

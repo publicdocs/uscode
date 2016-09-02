@@ -29,7 +29,7 @@
 
     (c) __Recommendations__ 
 
-        Following completion of the report in subsection (b) of this section, the Secretary, in cooperation with other affected agencies, shall prepare and submit a report by May 1, 1997 to the Committee on Energy and Natural Resources of the United States Senate, the Committee on Natural Resources of the United States House of Representatives, and any other relevant committees, which shall contain recommendations which the Secretary deems appropriate for implementing the congressional intent outlined in subsection (a) of this section.
+        Following completion of the report in subsection (b), the Secretary, in cooperation with other affected agencies, shall prepare and submit a report by May 1, 1997 to the Committee on Energy and Natural Resources of the United States Senate, the Committee on Natural Resources of the United States House of Representatives, and any other relevant committees, which shall contain recommendations which the Secretary deems appropriate for implementing the congressional intent outlined in subsection (a).
 
 ([Pub. L. 103–433, title VII, § 709][/us/pl/103/433/s709], Oct. 31, 1994, [108 Stat. 4500][/us/stat/108/4500].)
 

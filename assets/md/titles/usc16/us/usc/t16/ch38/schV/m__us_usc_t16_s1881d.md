@@ -21,11 +21,11 @@
 
     (b) __Identification of stock__ 
 
-        The program concluded pursuant to subsection (a) of this section shall provide for the identification of stocks of fish which are subject to significant incidental harvest in the course of normal shrimp trawl fishing activity.
+        The program concluded pursuant to subsection (a) shall provide for the identification of stocks of fish which are subject to significant incidental harvest in the course of normal shrimp trawl fishing activity.
 
     (c) __Collection and assessment of specific stock information__ 
 
-    For stocks of fish identified pursuant to subsection (b) of this section, with priority given to stocks which (based upon the best available scientific information) are considered to be overfished, the Secretary shall conduct—
+    For stocks of fish identified pursuant to subsection (b), with priority given to stocks which (based upon the best available scientific information) are considered to be overfished, the Secretary shall conduct—
 
         (1) a program to collect and evaluate information on the nature and extent (including the spatial and temporal distribution) of incidental mortality of such stocks as a direct result of shrimp trawl fishing activities;
 

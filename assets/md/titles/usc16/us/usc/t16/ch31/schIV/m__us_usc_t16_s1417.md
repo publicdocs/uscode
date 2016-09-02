@@ -35,11 +35,11 @@
 
         (1) __Civil penalty__ 
 
-            A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of this section shall be subject to a civil penalty under [section 1375(a) of this title][/us/usc/t16/s1375/a].
+            A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) shall be subject to a civil penalty under [section 1375(a) of this title][/us/usc/t16/s1375/a].
 
         (2) __Criminal penalty__ 
 
-            A person that knowingly and willfully violates subsection (a)(5) or (a)(6) of this section shall be subject to a criminal penalty under [section 1375(b) of this title][/us/usc/t16/s1375/b].
+            A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall be subject to a criminal penalty under [section 1375(b) of this title][/us/usc/t16/s1375/b].
 
     (c) __Civil forfeitures__ 
 

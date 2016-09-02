@@ -53,7 +53,7 @@
 
     (g) __Public participation in development of management plan__ 
 
-        In conducting the reviews and preparing the comprehensive management plan required by subsection (d)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(f)”. </sup></sup>  of this section, the Secretary shall provide for full public participation, and shall consider the views of all interested agencies, organizations, and individuals.
+        In conducting the reviews and preparing the comprehensive management plan required by subsection (d), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (f),”. </sup></sup>  the Secretary shall provide for full public participation, and shall consider the views of all interested agencies, organizations, and individuals.
 
 ([Pub. L. 99–504, title II, § 203][/us/pl/99/504/s203], Oct. 20, 1986, [100 Stat. 1804][/us/stat/100/1804].)
 

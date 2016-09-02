@@ -21,7 +21,7 @@
 
     (b) __Plan of land use, development, and management__ 
 
-    The policy set forth in subsection (a) of this section implies—
+    The policy set forth in subsection (a) implies—
 
         (1) that there will be a comprehensive, balanced, and coordinated plan of land use, development, and management of the Area, and that such plan will be based on an inventory and evaluation of the available resources and requirements for such resources, and on the topography and other features of the Area.
 

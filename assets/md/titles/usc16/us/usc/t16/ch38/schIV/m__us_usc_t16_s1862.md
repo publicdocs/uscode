@@ -109,7 +109,7 @@
 
                 (i) such allocations may not be transferred for monetary consideration and are made only on an annual basis; and
 
-                (ii) any such conservation and management measures will meet the requirements of subsection (h) of this section and will result in an actual reduction in regulatory discards in the fishery.
+                (ii) any such conservation and management measures will meet the requirements of subsection (h) and will result in an actual reduction in regulatory discards in the fishery.
 
             (B) The North Pacific Council may submit restrictions in addition to the restriction imposed by clause (i) of subparagraph (A) on the transferability of any such allocations, and the Secretary may approve such recommendation.
 

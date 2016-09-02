@@ -33,9 +33,9 @@
 
     Nothing in this chapter confers on the Commission the authority to require an electric utility or person to convert to tradable or financial rights—
 
-        (1) firm transmission rights described in subsection (a) of this section; or
+        (1) firm transmission rights described in subsection (a); or
 
-        (2) firm transmission rights obtained by exercising contract or tariff rights associated with the firm transmission rights described in subsection (a) of this section.
+        (2) firm transmission rights obtained by exercising contract or tariff rights associated with the firm transmission rights described in subsection (a).
 
 ([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 218, as added [Pub. L. 109–58, title XII, § 1235][/us/pl/109/58/s1235], Aug. 8, 2005, [119 Stat. 960][/us/stat/119/960].)
 

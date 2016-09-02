@@ -69,7 +69,7 @@
 
     (d) __Resources outside the Unit__ 
 
-        Nothing in subsection (c)(2) of this section authorizes the Secretary to own or manage any resource outside the Unit.
+        Nothing in subsection (c)(2) authorizes the Secretary to own or manage any resource outside the Unit.
 
 ([Pub. L. 106–271, § 6][/us/pl/106/271/s6], Sept. 22, 2000, [114 Stat. 794][/us/stat/114/794].)
 

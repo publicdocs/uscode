@@ -27,11 +27,11 @@
 
             (C) Recommend to the Congress that legislation be enacted to forgive the loan.
 
-        (2) Loan repayments made pursuant to this subsection shall be retained by the Secretary as offsetting collections, and shall be deposited into the Coastal Zone Management Fund established under subsection (b) of this section.
+        (2) Loan repayments made pursuant to this subsection shall be retained by the Secretary as offsetting collections, and shall be deposited into the Coastal Zone Management Fund established under subsection (b).
 
     (b)
 
-        (1) The Secretary shall establish and maintain a fund, to be known as the “Coastal Zone Management Fund”, which shall consist of amounts retained and deposited into the Fund under subsection (a) of this section and fees deposited into the Fund under [section 1456(i)(3) of this title][/us/usc/t16/s1456/i/3].
+        (1) The Secretary shall establish and maintain a fund, to be known as the “Coastal Zone Management Fund”, which shall consist of amounts retained and deposited into the Fund under subsection (a) and fees deposited into the Fund under [section 1456(i)(3) of this title][/us/usc/t16/s1456/i/3].
 
         (2)
 
@@ -89,7 +89,7 @@
 
     [Pub. L. 102–587, § 2205(b)(1)(A)][/us/pl/102/587/s2205/b/1/A], substituted “coastal state” for “coastal State” in two places.
 
-    Subsec. (b)(1). [Pub. L. 102–587, § 2205(b)(17)][/us/pl/102/587/s2205/b/17], (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under [section 1456(i)(3) of this title][/us/usc/t16/s1456/i/3]” after “subsection (a) of this section”.
+    Subsec. (b)(1). [Pub. L. 102–587, § 2205(b)(17)][/us/pl/102/587/s2205/b/17], (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under [section 1456(i)(3) of this title][/us/usc/t16/s1456/i/3]” after “subsection (a)”.
 
     Subsec. (b)(2)(B)(vi). [Pub. L. 102–587, § 2205(b)(1)(B)][/us/pl/102/587/s2205/b/1/B], substituted “coastal states” for “coastal States”.
 

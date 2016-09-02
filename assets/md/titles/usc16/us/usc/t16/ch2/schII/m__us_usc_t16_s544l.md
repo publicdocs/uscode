@@ -33,7 +33,7 @@
 
          Paragraph (1) of this subsection shall not apply—
 
-            (A) to any amount paid by the Secretary of the Treasury under the provisions of law referred to in subsection (b)(1) of this section at the end of any fiscal year ending before November 17, 1986; or
+            (A) to any amount paid by the Secretary of the Treasury under the provisions of law referred to in subsection (b)(1) at the end of any fiscal year ending before November 17, 1986; or
 
             (B) for a particular county, if the county does not have in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to [section 544f of this title][/us/usc/t16/s544f].
 
@@ -55,7 +55,7 @@
 
     (d) __Federal consistency__ 
 
-        Except as otherwise provided in subsection (e) of this section or in section 544o of this title, Federal agencies having responsibilities within the scenic area shall exercise such responsibilities consistent with the provisions of sections 544 to 544p of this title as determined by the Secretary.
+        Except as otherwise provided in subsection (e) or in section 544o of this title, Federal agencies having responsibilities within the scenic area shall exercise such responsibilities consistent with the provisions of sections 544 to 544p of this title as determined by the Secretary.
 
     (e) __Limitations on Federal expenditures affecting the scenic area__ 
 

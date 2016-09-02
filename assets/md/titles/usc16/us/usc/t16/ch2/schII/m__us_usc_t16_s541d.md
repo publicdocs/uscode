@@ -17,7 +17,7 @@
 
     (a) __Acquisition of lands, waters and interests by donation, purchase, etc.__ 
 
-        Subject to the provisions of subsection (b) of this section, the Secretary is authorized to acquire lands, waters, or interests therein within the Area by donation, purchase, exchange, or otherwise.
+        Subject to the provisions of subsection (b) of this subsection, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section,”. </sup></sup>  the Secretary is authorized to acquire lands, waters, or interests therein within the Area by donation, purchase, exchange, or otherwise.
 
     (b) __Consent of owner for acquisition of lands in sub-areas; exceptions; guidelines for determination of substantial change in land use or maintenance__ 
 

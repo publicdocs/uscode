@@ -17,17 +17,17 @@
 
     (a) __Designation of law enforcement agents__ 
 
-        The Board may designate employees of the corporation to act as law enforcement agents in the area of jurisdiction described in subsection (c) of this section.
+        The Board may designate employees of the corporation to act as law enforcement agents in the area of jurisdiction described in subsection (c).
 
     (b) __Duties and powers__ 
 
         (1) __Duties__ 
 
-            A law enforcement agent designated under subsection (a) of this section shall maintain law and order and protect persons and property in the area of jurisdiction described in subsection (c) of this section and protect property and officials and employees of the corporation outside that area.
+            A law enforcement agent designated under subsection (a) shall maintain law and order and protect persons and property in the area of jurisdiction described in subsection (c) and protect property and officials and employees of the corporation outside that area.
 
         (2) __Powers__ 
 
-        In the performance of duties described in paragraph (1), a law enforcement agent designated under subsection (a) of this section may—
+        In the performance of duties described in paragraph (1), a law enforcement agent designated under subsection (a) may—
 
             (A) make arrests without warrant for any offense against the United States committed in the agent’s presence, or for any felony cognizable under the laws of the United States if the agent has probable cause to believe that the person to be arrested has committed or is committing such a felony;
 
@@ -39,9 +39,9 @@
 
     (c) __Area of jurisdiction__ 
 
-    A law enforcement agent designated under subsection (a) of this section shall be authorized to exercise the law enforcement duties and powers described in subsection (b) of this section—
+    A law enforcement agent designated under subsection (a) shall be authorized to exercise the law enforcement duties and powers described in subsection (b)—
 
-        (1) on any lands or facilities owned or leased by the corporation or within such adjoining areas in the vicinities of such lands or facilities as may be determined by the Board under subsection (e) of this section; and
+        (1) on any lands or facilities owned or leased by the corporation or within such adjoining areas in the vicinities of such lands or facilities as may be determined by the Board under subsection (e); and
 
         (2)
 
@@ -65,7 +65,7 @@
 
         (1) __In general__ 
 
-            The Board shall determine and may from time-to-time modify the adjoining areas for each facility or particular area of land, or for individual categories of such facilities or lands, for the purposes of subsection (c)(1) of this section.
+            The Board shall determine and may from time-to-time modify the adjoining areas for each facility or particular area of land, or for individual categories of such facilities or lands, for the purposes of subsection (c)(1).
 
         (2) __Notice__ 
 
@@ -73,15 +73,15 @@
 
     (f) __Qualifications and training__ 
 
-        The Board, in consultation with the Attorney General, shall adopt qualification and training standards for law enforcement agents designated under subsection (a) of this section.
+        The Board, in consultation with the Attorney General, shall adopt qualification and training standards for law enforcement agents designated under subsection (a).
 
     (g) __Relation to other law__ 
 
-        A law enforcement agent designated under subsection (a) of this section shall not be considered to be a law enforcement officer of the United States for the purposes of any other law, and no law enforcement agent designated under subsection (a) of this section or other employee of the corporation shall receive an increase in compensation solely on account of this section.
+        A law enforcement agent designated under subsection (a) shall not be considered to be a law enforcement officer of the United States for the purposes of any other law, and no law enforcement agent designated under subsection (a) or other employee of the corporation shall receive an increase in compensation solely on account of this section.
 
     (h) __Relationship with Attorney General__ 
 
-        The duties and powers of law enforcement agents designated under subsection (a) of this section that are described in subsection (b) of this section shall be exercised in accordance with guidelines approved by the Attorney General.
+        The duties and powers of law enforcement agents designated under subsection (a) that are described in subsection (b) shall be exercised in accordance with guidelines approved by the Attorney General.
 
 ([May 18, 1933, ch. 32, § 4A][/us/act/1933-05-18/ch32/s4A], as added [Pub. L. 103–322, title XXXII, § 320929][/us/pl/103/322/s320929], Sept. 13, 1994, [108 Stat. 2133][/us/stat/108/2133]; [Pub. L. 108–447, div. C, title VI, § 603(a)(2)][/us/pl/108/447/s603/a/2], Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
 

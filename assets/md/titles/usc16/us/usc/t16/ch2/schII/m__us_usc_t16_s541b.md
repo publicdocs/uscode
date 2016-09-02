@@ -21,7 +21,7 @@
 
     (b) __Management plan; development; time; contents__ 
 
-        As soon as practicable after December 22, 1974, the Secretary shall, with provisions for appropriate public participation in the planning process, develop a comprehensive management plan for the Area. Said plan shall prescribe specific management objectives and management controls necessary for the protection, management, and development of the Area and each of the subareas established pursuant to subsection (c) of this section.
+        As soon as practicable after December 22, 1974, the Secretary shall, with provisions for appropriate public participation in the planning process, develop a comprehensive management plan for the Area. Said plan shall prescribe specific management objectives and management controls necessary for the protection, management, and development of the Area and each of the subareas established pursuant to subsection (c) hereof.
 
     (c) __Subareas; establishment; management objectives__ 
 

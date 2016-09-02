@@ -21,11 +21,11 @@
 
     (b) __Preservation in primitive state; recreational activities exception__ 
 
-        Except for certain portions of the seashore deemed to be especially adaptable for recreational uses, particularly swimming, boating, fishing, hiking, horseback riding, and other recreational activities of similar nature, which shall be developed for such uses as needed, the seashore shall be permanently preserved in its primitive state, and, except as provided in subsection (c) of this section, no development of the project or plan for the convenience of visitors shall be undertaken which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions not  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “now”. </sup></sup>  prevailing, nor shall any road or causeway connecting Cumberland Island to the mainland be constructed.
+        Except for certain portions of the seashore deemed to be especially adaptable for recreational uses, particularly swimming, boating, fishing, hiking, horseback riding, and other recreational activities of similar nature, which shall be developed for such uses as needed, the seashore shall be permanently preserved in its primitive state, and, except as provided in subsection (c), no development of the project or plan for the convenience of visitors shall be undertaken which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions not  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “now”. </sup></sup>  prevailing, nor shall any road or causeway connecting Cumberland Island to the mainland be constructed.
 
     (c) __Tours of the seashore__ 
 
-    Notwithstanding subsection (b) of this section, the Secretary may enter into not more than 3 concession contracts, as the Secretary determines appropriate, for the provision of tours for visitors to the seashore that are consistent with—
+    Notwithstanding subsection (b), the Secretary may enter into not more than 3 concession contracts, as the Secretary determines appropriate, for the provision of tours for visitors to the seashore that are consistent with—
 
         (1) sections 459i to 459i–9 of this title;
 
@@ -45,7 +45,7 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b). [Pub. L. 108–447, § 145(b)(1)][/us/pl/108/447/s145/b/1], inserted “, except as provided in subsection (c) of this section,” before “no development of the project”.
+    2004—Subsec. (b). [Pub. L. 108–447, § 145(b)(1)][/us/pl/108/447/s145/b/1], inserted “, except as provided in subsection (c),” before “no development of the project”.
 
     Subsec. (c). [Pub. L. 108–447, § 145(b)(2)][/us/pl/108/447/s145/b/2], added subsec. (c).
 

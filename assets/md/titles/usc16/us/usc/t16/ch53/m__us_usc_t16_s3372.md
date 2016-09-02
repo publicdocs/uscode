@@ -47,7 +47,7 @@
 
                 (iii) taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants; or
 
-            (C) any prohibited wildlife species (subject to subsection (e) of this section);
+            (C) any prohibited wildlife species (subject to subsection (e));
 
         (3)
 
@@ -115,7 +115,7 @@
 
         (1) __In general__ 
 
-            Subsection (a)(2)(C) of this section does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
+            Subsection (a)(2)(C) does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
 
         (2) __Persons described__ 
 
@@ -149,7 +149,7 @@
 
         (5) __Authorization of appropriations__ 
 
-            There is authorized to be appropriated to carry out subsection (a)(2)(C) of this section $3,000,000 for each of fiscal years 2004 through 2008.
+            There is authorized to be appropriated to carry out subsection (a)(2)(C) $3,000,000 for each of fiscal years 2004 through 2008.
 
     (f) __Plant declarations__ 
 

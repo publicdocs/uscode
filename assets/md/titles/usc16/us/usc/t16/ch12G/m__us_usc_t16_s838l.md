@@ -65,7 +65,7 @@
 
         (2) __Determination__ 
 
-            With the approval of the Secretary of the Treasury based solely on consistency with this section, the Administrator shall determine the new principal amounts under subsection (b) of this section and the assignment of interest rates to the new principal amounts under subsection (c) of this section.
+            With the approval of the Secretary of the Treasury based solely on consistency with this section, the Administrator shall determine the new principal amounts under subsection (b) and the assignment of interest rates to the new principal amounts under subsection (c).
 
         (3) __Old payment amounts__ 
 
@@ -89,15 +89,15 @@
 
     (c) __Interest rate for new principal amounts__ 
 
-        As of October 1, 1996, the unpaid balance on the new principal amount established for an old capital investment under subsection (b) of this section bears interest annually at the Treasury rate for the old capital investment until the earlier of the date that the new principal amount is repaid or the repayment date for the new principal amount.
+        As of October 1, 1996, the unpaid balance on the new principal amount established for an old capital investment under subsection (b) bears interest annually at the Treasury rate for the old capital investment until the earlier of the date that the new principal amount is repaid or the repayment date for the new principal amount.
 
     (d) __Repayment dates__ 
 
-        As of October 1, 1996, the repayment date for the new principal amount established for an old capital investment under subsection (b) of this section is no earlier than the repayment date for the old capital investment assumed in subsection (b)(3)(A) of this section.
+        As of October 1, 1996, the repayment date for the new principal amount established for an old capital investment under subsection (b) is no earlier than the repayment date for the old capital investment assumed in subsection (b)(3)(A).
 
     (e) __Prepayment limitations__ 
 
-        During the period October 1, 1996, through September 30, 2001, the total new principal amounts of old capital investments, as established under subsection (b) of this section, that the Administrator may pay before their respective repayment dates shall not exceed $100,000,000.
+        During the period October 1, 1996, through September 30, 2001, the total new principal amounts of old capital investments, as established under subsection (b), that the Administrator may pay before their respective repayment dates shall not exceed $100,000,000.
 
     (f) __Interest rates for new capital investments during construction__ 
 
@@ -111,7 +111,7 @@
 
         (2) __Payment__ 
 
-            The Administrator is not required to pay, during construction of the project, facility, or separable unit or feature, the interest calculated, accrued, and capitalized under subsection (f)(1) of this section.
+            The Administrator is not required to pay, during construction of the project, facility, or separable unit or feature, the interest calculated, accrued, and capitalized under subsection (f)(1).
 
         (3) __One-year rate__ 
 
@@ -131,15 +131,15 @@
 
          the Administrator shall establish rates and charges on the basis that—
 
-            (A) the principal amount of an old capital investment shall be no greater than the new principal amount established under subsection (b) of this section;
+            (A) the principal amount of an old capital investment shall be no greater than the new principal amount established under subsection (b);
 
-            (B) the interest rate applicable to the unpaid balance of the new principal amount of an old capital investment shall be no greater than the interest rate established under subsection (c) of this section;
+            (B) the interest rate applicable to the unpaid balance of the new principal amount of an old capital investment shall be no greater than the interest rate established under subsection (c);
 
             (C) any payment of principal of an old capital investment shall reduce the outstanding principal balance of the old capital investment in the amount of the payment at the time the payment is tendered; and
 
             (D) any payment of interest on the unpaid balance of the new principal amount of an old capital investment shall be a credit against the appropriate interest account in the amount of the payment at the time the payment is tendered;
 
-        (2) apart from charges necessary to repay the new principal amount of an old capital investment as established under subsection (b) of this section and to pay the interest on the principal amount under subsection (c) of this section, no amount may be charged for return to the United States Treasury as repayment for or return on an old capital investment, whether by way of rate, rent, lease payment, assessment, user charge, or any other fee;
+        (2) apart from charges necessary to repay the new principal amount of an old capital investment as established under subsection (b) and to pay the interest on the principal amount under subsection (c), no amount may be charged for return to the United States Treasury as repayment for or return on an old capital investment, whether by way of rate, rent, lease payment, assessment, user charge, or any other fee;
 
         (3) amounts provided under [section 1304 of title 31][/us/usc/t31/s1304] shall be available to pay, and shall be the sole source for payment of, a judgment against or settlement by the Administrator or the United States on a claim for a breach of the contract provisions required by this Part;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section;” or “section”. </sup></sup>  and
 
@@ -165,7 +165,7 @@
 
         (2) __Payment of capital investment__ 
 
-            Except as provided in subsection (e) of this section, this section does not affect the authority of the Administrator to pay all or a portion of the principal amount associated with a capital investment before the repayment date for the principal amount.
+            Except as provided in subsection (e), this section does not affect the authority of the Administrator to pay all or a portion of the principal amount associated with a capital investment before the repayment date for the principal amount.
 
 ([Pub. L. 104–134, title III, § 3201][/us/pl/104/134/s3201], Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350].)
 

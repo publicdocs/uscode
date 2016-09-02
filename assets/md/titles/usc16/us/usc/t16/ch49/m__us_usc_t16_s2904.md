@@ -45,7 +45,7 @@
 
     (b) __Effect of approval of plans__ 
 
-    If the Secretary approves the conservation plan of any State under subsection (a) of this section—
+    If the Secretary approves the conservation plan of any State under subsection (a)—
 
         (1) that portion of such plan that pertains to wildlife conservation shall be deemed to be an approved plan for purposes of [section 6(a)(1) of the Act of September 2, 1937][/us/act/1937-09-02/s6/a/1] ([16 U.S.C. 669e(a)(1)][/us/usc/t16/s669e/a/1]), commonly referred to as the Pittman-Robertson Wildlife Restoration Act \[[16 U.S.C. 669][/us/usc/t16/s669] et seq.\]; and
 
@@ -53,7 +53,7 @@
 
     (c) __Conservation actions__ 
 
-        If the Secretary approves the conservation plan of any State under subsection (a) of this section, those conservation actions set forth in the plan which pertain to nongame fish and wildlife shall be deemed to be eligible as nongame fish and wildlife projects for which reimbursement is available under [section 2905 of this title][/us/usc/t16/s2905].
+        If the Secretary approves the conservation plan of any State under subsection (a), those conservation actions set forth in the plan which pertain to nongame fish and wildlife shall be deemed to be eligible as nongame fish and wildlife projects for which reimbursement is available under [section 2905 of this title][/us/usc/t16/s2905].
 
     (d) __Nongame conservation actions in the absence of an approved plan__ 
 

@@ -53,7 +53,7 @@
 
     (b) __Report to Congress__ 
 
-    Using the information gathered under subsection (a) of this section, the Secretaries of Agriculture and Interior shall, not later than June 1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
+    Using the information gathered under subsection (a), the Secretaries of Agriculture and Interior shall, not later than June 1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
 
         (1) analyze the effects of indirect substitution on market efficiency;
 
@@ -147,7 +147,7 @@
 
     (e) __Exception__ 
 
-        Subsections (c) and (d) of this section do not apply to violations of [section 620i of this title][/us/usc/t16/s620i].
+        Subsections (c) and (d) do not apply to violations of [section 620i of this title][/us/usc/t16/s620i].
 
 ([Pub. L. 101–382, title IV, § 492][/us/pl/101/382/s492], Aug. 20, 1990, [104 Stat. 722][/us/stat/104/722]; [Pub. L. 103–45, § 3][/us/pl/103/45/s3], July 1, 1993, [107 Stat. 226][/us/stat/107/226]; [Pub. L. 105–83, title VI, § 603][/us/pl/105/83/s603], Nov. 14, 1997, [111 Stat. 1620][/us/stat/111/1620].)
 

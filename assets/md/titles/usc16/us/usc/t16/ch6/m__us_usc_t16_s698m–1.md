@@ -33,7 +33,7 @@
 
     (c) __Designation; management__ 
 
-        The area within the boundaries depicted on the map referred to in subsection (b) of this section shall be known as the “Big Cypress National Preserve Addition” and shall be managed in accordance with [section 698i of this title][/us/usc/t16/s698i].
+        The area within the boundaries depicted on the map referred to in subsection (b) shall be known as the “Big Cypress National Preserve Addition” and shall be managed in accordance with [section 698i of this title][/us/usc/t16/s698i].
 
     (d) __Completion of land acquisition; time__ 
 

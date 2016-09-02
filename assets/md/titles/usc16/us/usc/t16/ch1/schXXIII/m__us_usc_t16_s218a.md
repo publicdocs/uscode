@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Upon acquisition of the land known as Knob Creek Farm pursuant to subsection (b) of this section, the boundary of the Abraham Lincoln Birthplace National Historical Park, established by sections 211 to 214 of this title, is revised to include such land. Lands acquired pursuant to this section shall be administered by the Secretary of the Interior as part of the historic site.
+        Upon acquisition of the land known as Knob Creek Farm pursuant to subsection (b), the boundary of the Abraham Lincoln Birthplace National Historical Park, established by sections 211 to 214 of this title, is revised to include such land. Lands acquired pursuant to this section shall be administered by the Secretary of the Interior as part of the historic site.
 
     (b) __Acquisition of Knob Creek Farm__ 
 
@@ -43,7 +43,7 @@
 
     (d) __Authorization__ 
 
-        There are authorized to be appropriated such sums as may be necessary to carry out subsection (c) of this section.
+        There are authorized to be appropriated such sums as may be necessary to carry out subsection (c).
 
 ([Pub. L. 105–355, title V, § 510][/us/pl/105/355/s510], Nov. 6, 1998, [112 Stat. 3265][/us/stat/112/3265]; [Pub. L. 111–11, title VII, § 7114(b)][/us/pl/111/11/s7114/b], Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
 

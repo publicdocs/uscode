@@ -41,7 +41,7 @@
 
         (1) __In general__ 
 
-            In addition to the amounts authorized to be appropriated under subsection (a) of this section, the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.
+            In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.
 
         (2) __Use of funds accepted from Federal agencies__ 
 

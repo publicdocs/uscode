@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1) of this section, and the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([16 U.S.C. 1][/us/usc/t16/s1], 2 through 4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.). <sup>\[1\]</sup> 
+        The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1), and the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([16 U.S.C. 1][/us/usc/t16/s1], 2 through 4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.). <sup>\[1\]</sup> 
 
     (b) __Application of regulations__ 
 
@@ -35,7 +35,7 @@
 
         (2) __Liability of landowners__ 
 
-            (A) The Secretary of the Interior is authorized, under such terms and conditions as he deems appropriate, to include in any cooperative agreement entered into in accordance with subsection (f)(1) of this section an indemnification provision by which the United States agrees to hold harmless, defend and indemnify the landowner in full from and against any suit, claim, demand or action, liability, judgment, cost or other fee arising out of any claim of personal injury or property damage that occurs in connection with the operation of the Preserve under the agreement: Provided however, That indemnification shall not exceed $3 million per claimant per occurrence.
+            (A) The Secretary of the Interior is authorized, under such terms and conditions as he deems appropriate, to include in any cooperative agreement entered into in accordance with subsection (f)(1) an indemnification provision by which the United States agrees to hold harmless, defend and indemnify the landowner in full from and against any suit, claim, demand or action, liability, judgment, cost or other fee arising out of any claim of personal injury or property damage that occurs in connection with the operation of the Preserve under the agreement: Provided however, That indemnification shall not exceed $3 million per claimant per occurrence.
 
             (B) The indemnification provision authorized by subparagraph (A) shall not include claims for personal injury or property damage proximately caused by the wanton or willful misconduct of the landowner.
 

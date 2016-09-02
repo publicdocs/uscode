@@ -99,7 +99,7 @@
 
     (d) __Consultation requirement__ 
 
-        The appointments required under subsection (c) of this section shall be made in consultation with the appropriate users of Area anadromous fish resources.
+        The appointments required under subsection (c) shall be made in consultation with the appropriate users of Area anadromous fish resources.
 
     (e) __Qualifications__ 
 
@@ -123,11 +123,11 @@
 
         (1) __Procedures__ 
 
-        The Council shall establish practices and procedures for the carrying out of its functions under subsection (b) of this section. The procedures shall include requirements that—
+        The Council shall establish practices and procedures for the carrying out of its functions under subsection (b). The procedures shall include requirements that—
 
             (A) a quorum of the Council must be present before business may be transacted; and
 
-            (B) no comprehensive plan or recommendation referred to in subsection (b)(1)(A) or (B) of this section may be adopted by the Council except by the unanimous vote of all members present and voting.
+            (B) no comprehensive plan or recommendation referred to in subsection (b)(1)(A) or (B) may be adopted by the Council except by the unanimous vote of all members present and voting.
 
         (2) __Chairman__ 
 
@@ -149,7 +149,7 @@
 
         (3) __Organization__ 
 
-            The Council shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b) of this section.
+            The Council shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b).
 
     (i) __Federal or State employees__ 
 

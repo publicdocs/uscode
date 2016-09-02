@@ -27,7 +27,7 @@
 
     (b) __Terms and conditions__ 
 
-    Any residential special use permit extended pursuant to subsection (a) of this section shall—
+    Any residential special use permit extended pursuant to subsection (a) shall—
 
         (1) permit the reasonable residential use and occupancy of the property by the individual to whom such permit is granted and such individual’s spouse; and
 

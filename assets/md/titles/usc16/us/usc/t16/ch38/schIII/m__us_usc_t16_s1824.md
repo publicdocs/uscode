@@ -23,7 +23,7 @@
 
         (1) __Eligibility; duration__ 
 
-            Each foreign nation with which the United States has entered into a governing international fishery agreement shall submit an application to the Secretary of State each year for a permit for each of its fishing vessels that wishes to engage in fishing described in subsection (a) of this section. No permit issued under this section may be valid for longer than a year; and [section 558(c) of title 5][/us/usc/t5/s558/c] does not apply to the renewal of any such permit.
+            Each foreign nation with which the United States has entered into a governing international fishery agreement shall submit an application to the Secretary of State each year for a permit for each of its fishing vessels that wishes to engage in fishing described in subsection (a). No permit issued under this section may be valid for longer than a year; and [section 558(c) of title 5][/us/usc/t5/s558/c] does not apply to the renewal of any such permit.
 
         (2) __Forms__ 
 
@@ -77,7 +77,7 @@
 
         (7) __Establishment of conditions and restrictions__ 
 
-        The Secretary shall establish conditions and restrictions which shall be included in each permit issued pursuant to any application approved under paragraph (6) or subsection (d) of this section and which must be complied with by the owner or operator of the fishing vessel for which the permit is issued. Such conditions and restrictions shall include the following:
+        The Secretary shall establish conditions and restrictions which shall be included in each permit issued pursuant to any application approved under paragraph (6) or subsection (d) and which must be complied with by the owner or operator of the fishing vessel for which the permit is issued. Such conditions and restrictions shall include the following:
 
             (A) All of the requirements of any applicable fishery management plan, or preliminary fishery management plan, and any applicable Federal or State fishing regulations.
 
@@ -85,7 +85,7 @@
 
             (C) The requirements described in section 1821(c)(1), (2), and (3) of this title.
 
-            (D) If the permit is issued other than pursuant to an application approved under paragraph (6)(B) or subsection (d) of this section, the restriction that the foreign fishing vessel may not receive at sea United States harvested fish from vessels of the United States.
+            (D) If the permit is issued other than pursuant to an application approved under paragraph (6)(B) or subsection (d), the restriction that the foreign fishing vessel may not receive at sea United States harvested fish from vessels of the United States.
 
             (E) If the permit is issued pursuant to an application approved under paragraph (6)(B), the maximum amount or tonnage of United States harvested fish which may be received at sea from vessels of the United States.
 
@@ -117,7 +117,7 @@
 
     (c) __Registration permits__ 
 
-        The Secretary of State, in cooperation with the Secretary, shall issue annually a registration permit for each fishing vessel of a foreign nation which is a party to an international fishery agreement under which foreign fishing is authorized by [section 1821(b) of this title][/us/usc/t16/s1821/b] and which wishes to engage in fishing described in subsection (a) of this section. Each such permit shall set forth the terms and conditions contained in the agreement that apply with respect to such fishing, and shall include the additional requirement that the owner or operator of the fishing vessel for which the permit is issued shall prominently display such permit in the wheelhouse of such vessel and show it, upon request, to any officer authorized to enforce the provisions of this chapter (as provided for in [section 1861 of this title][/us/usc/t16/s1861]). The Secretary of State, after consultation with the Secretary and the Secretary of the department in which the Coast Guard is operating, shall prescribe the form and manner in which applications for registration permits may be made, and the forms of such permits. The Secretary of State may establish, require the payment of, and collect fees for registration permits; except that the level of such fees shall not exceed the administrative costs incurred by him in issuing such permits.
+        The Secretary of State, in cooperation with the Secretary, shall issue annually a registration permit for each fishing vessel of a foreign nation which is a party to an international fishery agreement under which foreign fishing is authorized by [section 1821(b) of this title][/us/usc/t16/s1821/b] and which wishes to engage in fishing described in subsection (a). Each such permit shall set forth the terms and conditions contained in the agreement that apply with respect to such fishing, and shall include the additional requirement that the owner or operator of the fishing vessel for which the permit is issued shall prominently display such permit in the wheelhouse of such vessel and show it, upon request, to any officer authorized to enforce the provisions of this chapter (as provided for in [section 1861 of this title][/us/usc/t16/s1861]). The Secretary of State, after consultation with the Secretary and the Secretary of the department in which the Coast Guard is operating, shall prescribe the form and manner in which applications for registration permits may be made, and the forms of such permits. The Secretary of State may establish, require the payment of, and collect fees for registration permits; except that the level of such fees shall not exceed the administrative costs incurred by him in issuing such permits.
 
     (d) __Transshipment permits__ 
 
@@ -155,7 +155,7 @@
 
         (6) __Conditions and restrictions__ 
 
-            The Secretary shall establish and include in each permit under this subsection conditions and restrictions, including those conditions and restrictions set forth in subsection (b)(7) of this section, which shall be complied with by the owner and operator of the vessel for which the permit is issued.
+            The Secretary shall establish and include in each permit under this subsection conditions and restrictions, including those conditions and restrictions set forth in subsection (b)(7), which shall be complied with by the owner and operator of the vessel for which the permit is issued.
 
         (7) __Fees__ 
 
@@ -189,7 +189,7 @@
 
         (3) __Permits for foreign fishing__ 
 
-            (A) Application for permits for foreign fishing authorized under a Pacific Insular Areas fishing agreement shall be made, considered and approved or disapproved in accordance with paragraphs (3), (4), (5), (6), (7)(A) and (B), (8), and (9) of subsection (b) of this section, and shall include any conditions and restrictions established by the Secretary in consultation with the Secretary of State, the Secretary of the department in which the Coast Guard is operating, the Governor of the applicable Pacific Insular Area, and the appropriate Council.
+            (A) Application for permits for foreign fishing authorized under a Pacific Insular Areas fishing agreement shall be made, considered and approved or disapproved in accordance with paragraphs (3), (4), (5), (6), (7)(A) and (B), (8), and (9) of subsection (b), and shall include any conditions and restrictions established by the Secretary in consultation with the Secretary of State, the Secretary of the department in which the Coast Guard is operating, the Governor of the applicable Pacific Insular Area, and the appropriate Council.
 
             (B) If a foreign nation notifies the Secretary of State of its acceptance of the requirements of this paragraph, paragraph (2)(F), and paragraph (5), including any conditions and restrictions established under subparagraph (A), the Secretary of State shall promptly transmit such notification to the Secretary. Upon receipt of any payment required under a Pacific Insular Area fishing agreement, the Secretary shall thereupon issue to such foreign nation, through the Secretary of State, permits for the appropriate fishing vessels of that nation. Each permit shall contain a statement of all of the requirements, conditions, and restrictions established under this subsection which apply to the fishing vessel for which the permit is issued.
 
@@ -263,11 +263,11 @@
 
     Subsec. (e)(8). [Pub. L. 109–479, § 6(2)][/us/pl/109/479/s6/2], inserted at end “In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.”
 
-    1996—Subsec. (b)(7). [Pub. L. 104–297, § 105(d)(1)][/us/pl/104/297/s105/d/1], inserted “or subsection (d) of this section” after “under paragraph (6)” in introductory provisions.
+    1996—Subsec. (b)(7). [Pub. L. 104–297, § 105(d)(1)][/us/pl/104/297/s105/d/1], inserted “or subsection (d)” after “under paragraph (6)” in introductory provisions.
 
     Subsec. (b)(7)(A). [Pub. L. 104–297, § 105(d)(2)][/us/pl/104/297/s105/d/2], substituted “any applicable Federal or State fishing regulations” for “the regulations promulgated to implement any such plan”.
 
-    Subsec. (b)(7)(D). [Pub. L. 104–297, § 105(d)(3)][/us/pl/104/297/s105/d/3], inserted “or subsection (d) of this section” after “under paragraph (6)(B)”.
+    Subsec. (b)(7)(D). [Pub. L. 104–297, § 105(d)(3)][/us/pl/104/297/s105/d/3], inserted “or subsection (d)” after “under paragraph (6)(B)”.
 
     Subsecs. (d), (e). [Pub. L. 104–297, § 105(d)(4)][/us/pl/104/297/s105/d/4], added subsecs. (d) and (e).
 

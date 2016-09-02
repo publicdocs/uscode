@@ -27,7 +27,7 @@
 
     (b) __Federal share__ 
 
-    Grants under this section shall not be used to provide more than the following percentages of the cost to the institute of carrying out the activities specified in subsection (a) of this section:
+    Grants under this section shall not be used to provide more than the following percentages of the cost to the institute of carrying out the activities specified in subsection (a):
 
         (1) 80 percent for the fiscal year 1979; and
 

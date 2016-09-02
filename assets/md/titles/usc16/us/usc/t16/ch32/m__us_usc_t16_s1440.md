@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary shall conduct, support, or coordinate research, monitoring, evaluation, and education programs consistent with subsections (b) and (c) of this section and the purposes and policies of this chapter.
+        The Secretary shall conduct, support, or coordinate research, monitoring, evaluation, and education programs consistent with subsections (b) and (c) and the purposes and policies of this chapter.
 
     (b) __Research and monitoring__ 
 
@@ -57,7 +57,7 @@
 
     (e) __Consultation and coordination__ 
 
-        In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) of this section and developing interpretive facilities under subsection (d) of this section, the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.
+        In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) and developing interpretive facilities under subsection (d), the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.
 
 ([Pub. L. 92–532, title III, § 309][/us/pl/92/532/s309], as added [Pub. L. 100–627, title II, § 203(3)][/us/pl/100/627/s203/3], Nov. 7, 1988, [102 Stat. 3214][/us/stat/102/3214]; amended [Pub. L. 102–587, title II, § 2108][/us/pl/102/587/s2108], Nov. 4, 1992, [106 Stat. 5045][/us/stat/106/5045]; [Pub. L. 106–513, § 10][/us/pl/106/513/s10], Nov. 13, 2000, [114 Stat. 2388][/us/stat/114/2388].)
 

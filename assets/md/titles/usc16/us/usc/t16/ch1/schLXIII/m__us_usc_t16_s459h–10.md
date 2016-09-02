@@ -21,7 +21,7 @@
 
     (b) __Authorization for acquisition of land__ 
 
-        In addition to the funds authorized by subsection (a) of this section, there are authorized to be appropriated such sums as are necessary to acquire land and submerged land on and adjacent to Cat Island, Mississippi.
+        In addition to the funds authorized by subsection (a), there are authorized to be appropriated such sums as are necessary to acquire land and submerged land on and adjacent to Cat Island, Mississippi.
 
 ([Pub. L. 91–660, § 11][/us/pl/91/660/s11], Jan. 8, 1971, [84 Stat. 1970][/us/stat/84/1970]; [Pub. L. 92–275, § 1(2)][/us/pl/92/275/s1/2], Apr. 20, 1972, [86 Stat. 123][/us/stat/86/123]; [Pub. L. 94–578, title I, § 101(6)][/us/pl/94/578/s101/6], Oct. 21, 1976, [90 Stat. 2732][/us/stat/90/2732]; [Pub. L. 95–625, title I, § 101(13)][/us/pl/95/625/s101/13], Nov. 10, 1978, [92 Stat. 3471][/us/stat/92/3471]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 137(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–232.)
 

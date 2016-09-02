@@ -31,11 +31,11 @@
 
     (c) __Solicitation of nominations for local government recipients__ 
 
-        In making selections under subsection (b)(2) of this section the Secretary shall solicit nominations from the coastal states, and shall consult with experts in local government planning and land use.
+        In making selections under subsection (b)(2) the Secretary shall solicit nominations from the coastal states, and shall consult with experts in local government planning and land use.
 
     (d) __Solicitation of nominations for graduate student recipients__ 
 
-        In making selections under subsection (b)(3) of this section the Secretary shall solicit nominations from coastal states and the National Sea Grant College Program.
+        In making selections under subsection (b)(3) the Secretary shall solicit nominations from coastal states and the National Sea Grant College Program.
 
     (e) __Funding; types of awards__ 
 

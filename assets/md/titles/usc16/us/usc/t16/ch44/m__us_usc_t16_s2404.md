@@ -45,7 +45,7 @@
 
     (d) __Issuance of permits__ 
 
-        As soon as practicable after receiving any application for a permit under this section, or, in the case of any application to which subsection (c) of this section applies, as soon as practicable after the applicable requirements of such subsection are complied with, the Director shall issue, or deny the issuance of, the permit. Within 10 days after the date of the issuance or denial of a permit under this subsection, the Director shall publish notice of the issuance or denial in the Federal Register.
+        As soon as practicable after receiving any application for a permit under this section, or, in the case of any application to which subsection (c) applies, as soon as practicable after the applicable requirements of such subsection are complied with, the Director shall issue, or deny the issuance of, the permit. Within 10 days after the date of the issuance or denial of a permit under this subsection, the Director shall publish notice of the issuance or denial in the Federal Register.
 
     (e)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Two subsecs. (e) have been enacted.__  __ </sup></sup> __  __Terms and conditions of permits__ 
 
@@ -129,7 +129,7 @@
 
             (C) in any case in which there has been any violation of any term or condition of the permit, any regulation prescribed under this chapter, or any provision of this chapter.
 
-        (2) Whenever the Director proposes any modification, suspension, or revocation of a permit under this subsection, the permittee shall be afforded opportunity, after due notice, for a hearing by the Director with respect to such proposed modification, suspension, or revocation. If a hearing is requested, the action proposed by the Director shall not take effect before a decision is issued by him after the hearing, unless the proposed action is taken by the Director to meet an emergency situation. Any action taken by the Director after such a hearing is subject to judicial review on the same basis as is provided for with respect to permit applications under subsection (e) of this section.
+        (2) Whenever the Director proposes any modification, suspension, or revocation of a permit under this subsection, the permittee shall be afforded opportunity, after due notice, for a hearing by the Director with respect to such proposed modification, suspension, or revocation. If a hearing is requested, the action proposed by the Director shall not take effect before a decision is issued by him after the hearing, unless the proposed action is taken by the Director to meet an emergency situation. Any action taken by the Director after such a hearing is subject to judicial review on the same basis as is provided for with respect to permit applications under subsection (e).
 
         (3) Notice of the modification, suspension, or revocation of any permit by the Director shall be published in the Federal Register within 10 days from the date of the Director’s decision.
 

@@ -25,7 +25,7 @@
 
     (c) __Map and legal description__ 
 
-        As soon as practicable after December 6, 2000, the Secretary shall submit to Congress a map and legal description of the Acquisition Planning District. In case of a conflict between the map referred to in subsection (b) of this section and the map and legal description submitted by the Secretary, the map referred to in subsection (b) of this section shall control. The map and legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, and in the appropriate office of the Bureau of Land Management in Arizona.
+        As soon as practicable after December 6, 2000, the Secretary shall submit to Congress a map and legal description of the Acquisition Planning District. In case of a conflict between the map referred to in subsection (b) and the map and legal description submitted by the Secretary, the map referred to in subsection (b) shall control. The map and legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, and in the appropriate office of the Bureau of Land Management in Arizona.
 
 ([Pub. L. 106–538, § 2][/us/pl/106/538/s2], Dec. 6, 2000, [114 Stat. 2563][/us/stat/114/2563].)
 

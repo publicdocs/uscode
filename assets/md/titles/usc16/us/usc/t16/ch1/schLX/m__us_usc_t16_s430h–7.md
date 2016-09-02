@@ -21,7 +21,7 @@
 
     (b) __Transfer to adjacent owners__ 
 
-        (1) For a period ending four years after October 18, 1990, and subject to the provisions of paragraph (2), the Secretary is authorized to convey title to all or part of the lands referred to in subsection (a) of this section to an owner of property adjacent to such lands, upon the application of such owner.
+        (1) For a period ending four years after October 18, 1990, and subject to the provisions of paragraph (2), the Secretary is authorized to convey title to all or part of the lands referred to in subsection (a) to an owner of property adjacent to such lands, upon the application of such owner.
 
         (2)
 
@@ -33,7 +33,7 @@
 
     (c) __Excess property__ 
 
-        Any lands not conveyed pursuant to subsection (b) of this section shall be reported to the Administrator of General Services as excess to the needs of the Department of the Interior and shall be subject to transfer or disposition in accordance with chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+        Any lands not conveyed pursuant to subsection (b) shall be reported to the Administrator of General Services as excess to the needs of the Department of the Interior and shall be subject to transfer or disposition in accordance with chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 ([Pub. L. 101–442, title I, § 102][/us/pl/101/442/s102], Oct. 18, 1990, [104 Stat. 1019][/us/stat/104/1019].)
 

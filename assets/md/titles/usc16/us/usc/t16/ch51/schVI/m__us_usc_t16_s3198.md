@@ -29,7 +29,7 @@
 
     (b) __Preference eligibles within local hire__ 
 
-        Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in [section 2108(3) of title 5][/us/usc/t5/s2108/3] shall be given an employment preference, consistent with the preference in the excepted service as defined in section 2103 of such title.
+        Notwithstanding the provisions of subsection (a), any individual who is eligible to be selected for a position under the provisions of subsection (a) and is a preference eligible as defined in [section 2108(3) of title 5][/us/usc/t5/s2108/3] shall be given an employment preference, consistent with the preference in the excepted service as defined in section 2103 of such title.
 
     (c) __Payment of expenses after death of an employee__ 
 
@@ -39,7 +39,7 @@
 
         (2) __Payments__ 
 
-        If an employee appointed under the program established by subsection (a) of this section dies in the performance of any assigned duties on or after October 1, 2002, the Secretary may—
+        If an employee appointed under the program established by subsection (a) dies in the performance of any assigned duties on or after October 1, 2002, the Secretary may—
 
             (A) pay or reimburse reasonable expenses, regardless of when those expenses are incurred, for the preparation and transportation of the remains of the deceased employee to a location in the State of Alaska which is selected by the surviving head of household of the deceased employee;
 

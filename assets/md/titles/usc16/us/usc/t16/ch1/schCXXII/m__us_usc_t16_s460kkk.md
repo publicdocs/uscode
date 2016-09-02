@@ -31,7 +31,7 @@
 
     For the purposes of this section—
 
-        (1) the term “recreation area” means the Boston Harbor Islands National Recreation Area established by subsection (c) of this section; and
+        (1) the term “recreation area” means the Boston Harbor Islands National Recreation Area established by subsection (c); and
 
         (2) the term “Secretary” means the Secretary of the Interior.
 
@@ -55,13 +55,13 @@
 
         (3) __Land acquisition__ 
 
-            Notwithstanding subsection (h) of this section, the Secretary is authorized to acquire, in partnership with other entities, a less than fee interest in lands at Thompson Island within the recreation area. The Secretary may acquire the lands only by donation, purchase with donated or appropriated funds, or by exchange.
+            Notwithstanding subsection (h), the Secretary is authorized to acquire, in partnership with other entities, a less than fee interest in lands at Thompson Island within the recreation area. The Secretary may acquire the lands only by donation, purchase with donated or appropriated funds, or by exchange.
 
     (d) __Administration of recreation area__ 
 
         (1) __In general__ 
 
-            The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1], 2, 3, and 4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461–467][/us/usc/t16/s461–467])  <sup>\[1\]</sup>  as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
+            The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1], 2, 3, and 4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461–467][/us/usc/t16/s461–467])  <sup>\[1\]</sup>  as amended and supplemented and in accordance with the integrated management plan specified in subsection (f).
 
         (2) __State and local jurisdiction__ 
 
@@ -141,7 +141,7 @@
 
             (J) One individual, appointed by the Secretary, after consideration of recommendations of the President of the Island Alliance, to represent the Alliance, a nonprofit organization whose sole purpose is to provide financial support for the Boston Harbor Islands National Recreation Area.
 
-            (K) Two individuals, appointed by the Secretary, to represent the Boston Harbor Islands Advisory Council, established in subsection (g) of this section.
+            (K) Two individuals, appointed by the Secretary, to represent the Boston Harbor Islands Advisory Council, established in subsection (g).
 
         (3) __Terms of office; reappointment__ 
 
@@ -197,7 +197,7 @@
 
         (15) __Cooperative agreements__ 
 
-            For purposes of carrying out the plan described in subsection (f) of this section, the Partnership may enter into cooperative agreements with the Commonwealth of Massachusetts, any political subdivision thereof, or with any organization or person.
+            For purposes of carrying out the plan described in subsection (f), the Partnership may enter into cooperative agreements with the Commonwealth of Massachusetts, any political subdivision thereof, or with any organization or person.
 
     (f) __Integrated resource management plan__ 
 
@@ -213,7 +213,7 @@
 
              A program providing for coordinated administration of the recreation area with proposed assignment of responsibilities to the appropriate governmental unit at the Federal, State, and local levels, and nonprofit organizations, including each of the following:
 
-                (i) A plan to finance and support the public improvements and services recommended in the plan, including allocation of non-Federal matching requirements set forth in subsection (h)(2) of this section and a delineation of private-sector roles and responsibilities.
+                (i) A plan to finance and support the public improvements and services recommended in the plan, including allocation of non-Federal matching requirements set forth in subsection (h)(2) and a delineation of private-sector roles and responsibilities.
 
                 (ii) A program for the coordination and consolidation, to the extent feasible, of activities that may be carried out by Federal, State, and local agencies having jurisdiction over land and waters within the recreation area, including planning and regulatory responsibilities.
 
@@ -267,7 +267,7 @@
 
         (1) __Establishment__ 
 
-            The Secretary, acting through the Director of the National Park Service, shall establish an advisory committee to be known as the Boston Harbor Islands Advisory Council. The purpose of the Advisory Council shall be to represent various groups with interests in the recreation area and make recommendations to the Boston Harbor Islands Partnership on issues related to the development and implementation of the integrated resource management plan developed under subsection (f) of this section. The Advisory Council is encouraged to establish committees relating to specific recreation area management issues, including (but not limited to) education, tourism, transportation, natural resources, cultural and historic resources, and revenue-raising activities. Participation on any such committee shall not be limited to members of the Advisory Council.
+            The Secretary, acting through the Director of the National Park Service, shall establish an advisory committee to be known as the Boston Harbor Islands Advisory Council. The purpose of the Advisory Council shall be to represent various groups with interests in the recreation area and make recommendations to the Boston Harbor Islands Partnership on issues related to the development and implementation of the integrated resource management plan developed under subsection (f). The Advisory Council is encouraged to establish committees relating to specific recreation area management issues, including (but not limited to) education, tourism, transportation, natural resources, cultural and historic resources, and revenue-raising activities. Participation on any such committee shall not be limited to members of the Advisory Council.
 
         (2) __Membership__ 
 

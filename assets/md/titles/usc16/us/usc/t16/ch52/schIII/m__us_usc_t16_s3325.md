@@ -21,11 +21,11 @@
 
     (b) __Steelhead enhancement__ 
 
-        In addition to the amounts authorized under subsection (a) of this section, there are authorized to be appropriated to carry out steelhead enhancement projects under this subchapter (including, but not limited to, operation and maintenance of enhancement facilities) not to exceed $7,000,000 for the ten-year period beginning on October 1, 1982, for the Washington conservation area; and not to exceed $7,000,000 for the ten-year period beginning on such date for the Columbia River conservation area.
+        In addition to the amounts authorized under subsection (a), there are authorized to be appropriated to carry out steelhead enhancement projects under this subchapter (including, but not limited to, operation and maintenance of enhancement facilities) not to exceed $7,000,000 for the ten-year period beginning on October 1, 1982, for the Washington conservation area; and not to exceed $7,000,000 for the ten-year period beginning on such date for the Columbia River conservation area.
 
     (c) __Limitation__ 
 
-        No moneys appropriated pursuant to subsection (a) or (b) of this section may be used for the operation and maintenance of enhancement programs and related facilities as they existed on or before the date of the approval by the Secretary under [section 3321 of this title][/us/usc/t16/s3321] of the enhancement plan for the conservation area concerned.
+        No moneys appropriated pursuant to subsection (a) or (b) may be used for the operation and maintenance of enhancement programs and related facilities as they existed on or before the date of the approval by the Secretary under [section 3321 of this title][/us/usc/t16/s3321] of the enhancement plan for the conservation area concerned.
 
 ([Pub. L. 96–561, title I, § 124][/us/pl/96/561/s124], Dec. 22, 1980, [94 Stat. 3283][/us/stat/94/3283].)
 

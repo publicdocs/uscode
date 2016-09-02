@@ -21,7 +21,7 @@
 
     (b) __Recommendations for legislation__ 
 
-        The report required by subsection (a) of this section shall contain such recommendations for additional legislation as the Secretary deems necessary to achieve the objectives of this chapter and enhance its effective operation.
+        The report required by subsection (a) shall contain such recommendations for additional legislation as the Secretary deems necessary to achieve the objectives of this chapter and enhance its effective operation.
 
     (c) __Review of other Federal programs; report to Congress__ 
 

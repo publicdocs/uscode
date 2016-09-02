@@ -67,7 +67,7 @@
 
     (n) __Report on projected development costs__ 
 
-        Within six months after December 17, 1993, the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections (l) and (m) of this section, including, at a minimum, cost estimates for the design and construction of the monument authorized in section  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subsection”. </sup></sup>  (l) of this section.
+        Within six months after December 17, 1993, the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections (l) and (m), including, at a minimum, cost estimates for the design and construction of the monument authorized in section  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subsection”. </sup></sup>  (l).
 
     (o) __Protection of vintage weapons and fortifications__ 
 

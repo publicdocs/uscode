@@ -21,7 +21,7 @@
 
     (b) __Payments in lieu of taxes__ 
 
-        For the purposes of payments made under chapter 69 of title 31, the real property described in subsection (a) of this section shall be deemed to have been acquired for the purposes specified in section 6904(a) of that title.
+        For the purposes of payments made under chapter 69 of title 31, the real property described in subsection (a) shall be deemed to have been acquired for the purposes specified in section 6904(a) of that title.
 
     (c) __Prohibitions__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Timetable__ 
 
-        The study shall include a reasonable timetable for the engineering, planning, and construction of the road authorized in subsection (a) of this section and the Secretary of the Interior shall adhere to said timetable in every way feasible to him.
+        The study shall include a reasonable timetable for the engineering, planning, and construction of the road authorized in subsection (a) and the Secretary of the Interior shall adhere to said timetable in every way feasible to him.
 
     (c) __Markers and other interpretative devices__ 
 
@@ -29,11 +29,11 @@
 
     (d) __Additional roads__ 
 
-        The study specified in subsection (a) of this section shall designate what additional roads are appropriate and necessary for full utilization of the area for the purposes of this subchapter and to connect with all roads of ingress to, and egress from the recreation area.
+        The study specified in subsection (a) hereof shall designate what additional roads are appropriate and necessary for full utilization of the area for the purposes of this subchapter and to connect with all roads of ingress to, and egress from the recreation area.
 
     (e) __Report to Congress__ 
 
-        The findings and conclusions of the Secretary and the Highway Department of the State of Utah, specified in subsection (a) of this section, shall be submitted to Congress within two years of October 27, 1972, and shall include recommendations for any further legislation necessary to implement the findings and conclusions. It shall specify the funds necessary for appropriation in order to meet the timetable fixed in subsection (b) of this section.
+        The findings and conclusions of the Secretary and the Highway Department of the State of Utah, specified in subsection (a), shall be submitted to Congress within two years of October 27, 1972, and shall include recommendations for any further legislation necessary to implement the findings and conclusions. It shall specify the funds necessary for appropriation in order to meet the timetable fixed in subsection (b).
 
 ([Pub. L. 92–593, § 8][/us/pl/92/593/s8], Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
 

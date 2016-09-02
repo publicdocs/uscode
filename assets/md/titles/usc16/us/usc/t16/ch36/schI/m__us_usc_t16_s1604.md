@@ -37,7 +37,7 @@
 
         (1) provide for multiple use and sustained yield of the products and services obtained therefrom in accordance with the Multiple-Use Sustained-Yield Act of 1960 \[[16 U.S.C. 528–531][/us/usc/t16/s528–531]\], and, in particular, include coordination of outdoor recreation, range, timber, watershed, wildlife and fish, and wilderness; and
 
-        (2) determine forest management systems, harvesting levels, and procedures in the light of all of the uses set forth in subsection (c)(1) of this section, the definition of the terms “multiple use” and “sustained yield” as provided in the Multiple-Use Sustained-Yield Act of 1960, and the availability of lands and their suitability for resource management.
+        (2) determine forest management systems, harvesting levels, and procedures in the light of all of the uses set forth in subsection (c)(1), the definition of the terms “multiple use” and “sustained yield” as provided in the Multiple-Use Sustained-Yield Act of 1960, and the availability of lands and their suitability for resource management.
 
     (f) __Required provisions__ 
 

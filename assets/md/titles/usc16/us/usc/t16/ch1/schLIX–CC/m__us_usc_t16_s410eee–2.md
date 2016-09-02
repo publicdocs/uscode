@@ -29,7 +29,7 @@
 
     (c) __Visitor and administrative sites__ 
 
-        To preserve the historical character and landscape of the main features of the historical park, the Secretary may acquire up to 10 acres for the development of visitor, administrative, museum, curatorial, and maintenance facilities adjacent to or in the general proximity of the property depicted on the map identified in subsection (b)(1)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(b)(1)”. </sup></sup>  of this section.
+        To preserve the historical character and landscape of the main features of the historical park, the Secretary may acquire up to 10 acres for the development of visitor, administrative, museum, curatorial, and maintenance facilities adjacent to or in the general proximity of the property depicted on the map identified in subsection (b)(1)(A). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (b)(1).” </sup></sup> 
 
     (d) __Map__ 
 
