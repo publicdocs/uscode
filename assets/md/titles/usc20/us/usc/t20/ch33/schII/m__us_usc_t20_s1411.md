@@ -577,9 +577,17 @@
 
  __Effect of Reduction__ 
 
-[Pub. L. 113–76, div. H, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 394][/us/stat/128/394], provided in part: 
+[Pub. L. 113–235, div. G, title III][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2499][/us/stat/128/2499], provided in part: 
 
-> “That the amount by which a State’s allocation under section 611(d) of the IDEA \[Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)][/us/usc/t20/s1411/d]\] is reduced under section 612(a)(18)(B) \[[20 U.S.C. 1412(a)(18)(B)][/us/usc/t20/s1412/a/18/B]\] and the amounts distributed to States under the previous provisos \[[128 Stat. 394][/us/stat/128/394], under heading “Special Education”\] in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
+> “That the Secretary may, in any fiscal year in which a State’s allocation under section 611 \[[20 U.S.C. 1411][/us/usc/t20/s1411]\] is reduced in accordance with section 612(a)(18)(B) \[[20 U.S.C. 1412(a)(18)(B)][/us/usc/t20/s1412/a/18/B]\], reduce the amount a State may reserve under section 611(e)(1) \[[20 U.S.C. 1411(e)(1)][/us/usc/t20/s1411/e/1]\] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) \[[20 U.S.C. 1411(d)][/us/usc/t20/s1411/d]\] in the absence of the reduction:  Provided further, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) \[[20 U.S.C. 1412(a)(18)(A)][/us/usc/t20/s1412/a/18/A]\] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act ([20 U.S.C. 1234a][/us/usc/t20/s1234a])”.
+
+[Pub. L. 113–235, div. G, title III][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2499][/us/stat/128/2499], provided in part: 
+
+> “That the amount by which a State’s allocation under section 611(d) of the IDEA \[Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)][/us/usc/t20/s1411/d]\] is reduced under section 612(a)(18)(B) \[[20 U.S.C. 1412(a)(18)(B)][/us/usc/t20/s1412/a/18/B]\] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
+
+    Similar provisions were contained in the following prior appropriation act:
+
+    [Pub. L. 113–76, div. H, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 394][/us/stat/128/394].
 
 ----------
 
@@ -662,10 +670,19 @@
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
 [/us/pl/108/446/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs302%2Fa
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F394
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2499
+[/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
+[/us/usc/t20/s1412/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F18%2FB
+[/us/usc/t20/s1411/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411%2Fe%2F1
+[/us/usc/t20/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411%2Fd
+[/us/usc/t20/s1412/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F18%2FA
+[/us/usc/t20/s1234a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234a
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2499
 [/us/usc/t20/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411%2Fd
 [/us/usc/t20/s1412/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F18%2FB
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F394
 
 

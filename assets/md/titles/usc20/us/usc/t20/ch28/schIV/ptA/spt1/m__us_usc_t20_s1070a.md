@@ -35,7 +35,7 @@
 
                 (i) the maximum Federal Pell Grant, as specified in the last enacted appropriation Act applicable to that award year, plus
 
-                (ii) the amount of the increase calculated under paragraph (7)(B) for that year, less
+                (ii) the amount of the increase calculated under paragraph (7)(B) for that year  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  except that a student eligible only under 1091(d)(1)(A)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup>  of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B), less
 
                 (iii) an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.
 
@@ -221,7 +221,7 @@
 
             No institution may be subject to the terms of this subsection unless the institution has had the opportunity to appeal the institution’s default rate determination under regulations issued by the Secretary for the loan program authorized under part B or C of this subchapter, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or C of this subchapter on October 7, 1998, unless the institution subsequently participates in the loan programs.
 
-([Pub. L. 89–329, title IV, § 401][/us/pl/89/329/s401], formerly § 411, as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1309][/us/stat/100/1309]; amended [Pub. L. 100–50, § 3(a)][/us/pl/100/50/s3/a], June 3, 1987, [101 Stat. 337][/us/stat/101/337]; renumbered § 401 and amended [Pub. L. 102–325, title IV][/us/pl/102/325], §§ 401(a)–(h), 402(a)(3), July 23, 1992, [106 Stat. 479–482][/us/stat/106/479-482]; [Pub. L. 103–208, § 2(b)(1)][/us/pl/103/208/s2/b/1]–(5), (k)(1), Dec. 20, 1993, [107 Stat. 2458][/us/stat/107/2458], 2485; [Pub. L. 103–322, title II, § 20411(a)][/us/pl/103/322/s20411/a], Sept. 13, 1994, [108 Stat. 1828][/us/stat/108/1828]; [Pub. L. 105–244, title IV, § 401(a)][/us/pl/105/244/s401/a]–(f), (g)(3), (4), Oct. 7, 1998, [112 Stat. 1650–1652][/us/stat/112/1650-1652]; [Pub. L. 110–84, title I][/us/pl/110/84], §§ 101(a), 102, Sept. 27, 2007, [121 Stat. 784][/us/stat/121/784]; [Pub. L. 110–315, title I, § 103(b)(3)][/us/pl/110/315/s103/b/3], title IV, § 401(a)(1), (b), (c)(1), Aug. 14, 2008, [122 Stat. 3088][/us/stat/122/3088], 3188, 3189; [Pub. L. 111–5, div. A, title VIII, § 806][/us/pl/111/5/s806], Feb. 17, 2009, [123 Stat. 190][/us/stat/123/190]; [Pub. L. 111–39, title IV, § 401(a)(2)][/us/pl/111/39/s401/a/2], (3), July 1, 2009, [123 Stat. 1938][/us/stat/123/1938]; [Pub. L. 111–152, title II, § 2101(a)][/us/pl/111/152/s2101/a], (b)(1), Mar. 30, 2010, [124 Stat. 1071][/us/stat/124/1071], 1073; [Pub. L. 112–10, div. B, title VIII, § 1860(a)][/us/pl/112/10/s1860/a], Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169]; [Pub. L. 112–25, title V, § 501][/us/pl/112/25/s501], Aug. 2, 2011, [125 Stat. 266][/us/stat/125/266]; [Pub. L. 112–74, div. F, title III, § 309(a)][/us/pl/112/74/s309/a], (f), Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100], 1103.)
+([Pub. L. 89–329, title IV, § 401][/us/pl/89/329/s401], formerly § 411, as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1309][/us/stat/100/1309]; amended [Pub. L. 100–50, § 3(a)][/us/pl/100/50/s3/a], June 3, 1987, [101 Stat. 337][/us/stat/101/337]; renumbered § 401 and amended [Pub. L. 102–325, title IV][/us/pl/102/325], §§ 401(a)–(h), 402(a)(3), July 23, 1992, [106 Stat. 479–482][/us/stat/106/479-482]; [Pub. L. 103–208, § 2(b)(1)][/us/pl/103/208/s2/b/1]–(5), (k)(1), Dec. 20, 1993, [107 Stat. 2458][/us/stat/107/2458], 2485; [Pub. L. 103–322, title II, § 20411(a)][/us/pl/103/322/s20411/a], Sept. 13, 1994, [108 Stat. 1828][/us/stat/108/1828]; [Pub. L. 105–244, title IV, § 401(a)][/us/pl/105/244/s401/a]–(f), (g)(3), (4), Oct. 7, 1998, [112 Stat. 1650–1652][/us/stat/112/1650-1652]; [Pub. L. 110–84, title I][/us/pl/110/84], §§ 101(a), 102, Sept. 27, 2007, [121 Stat. 784][/us/stat/121/784]; [Pub. L. 110–315, title I, § 103(b)(3)][/us/pl/110/315/s103/b/3], title IV, § 401(a)(1), (b), (c)(1), Aug. 14, 2008, [122 Stat. 3088][/us/stat/122/3088], 3188, 3189; [Pub. L. 111–5, div. A, title VIII, § 806][/us/pl/111/5/s806], Feb. 17, 2009, [123 Stat. 190][/us/stat/123/190]; [Pub. L. 111–39, title IV, § 401(a)(2)][/us/pl/111/39/s401/a/2], (3), July 1, 2009, [123 Stat. 1938][/us/stat/123/1938]; [Pub. L. 111–152, title II, § 2101(a)][/us/pl/111/152/s2101/a], (b)(1), Mar. 30, 2010, [124 Stat. 1071][/us/stat/124/1071], 1073; [Pub. L. 112–10, div. B, title VIII, § 1860(a)][/us/pl/112/10/s1860/a], Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169]; [Pub. L. 112–25, title V, § 501][/us/pl/112/25/s501], Aug. 2, 2011, [125 Stat. 266][/us/stat/125/266]; [Pub. L. 112–74, div. F, title III, § 309(a)][/us/pl/112/74/s309/a], (f), Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100], 1103; [Pub. L. 113–235, div. G, title III, § 309(b)][/us/pl/113/235/s309/b], Dec. 16, 2014, [128 Stat. 2506][/us/stat/128/2506].)
 
  __Codification__ 
 
@@ -236,6 +236,8 @@
     Another prior [section 401 of Pub. L. 89–329][/us/pl/89/329/s401], title IV, as added and amended [Pub. L. 92–318, title I, § 131(b)(1)][/us/pl/92/318/s131/b/1], title X, § 1001(c)(1), (2), June 23, 1972, [86 Stat. 247][/us/stat/86/247], 381; [Pub. L. 94–482, title I, § 125][/us/pl/94/482/s125], Oct. 12, 1976, [90 Stat. 2096][/us/stat/90/2096]; [Pub. L. 96–374, title IV, § 401][/us/pl/96/374/s401], title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1401][/us/stat/94/1401], 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to [section 1070 of this title][/us/usc/t20/s1070], prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(A)(ii). [Pub. L. 113–235][/us/pl/113/235] inserted “except that a student eligible only under 1091(d)(1)(A) of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B)” after “year”.
 
     2011—Subsec. (b)(2)(A)(ii). [Pub. L. 112–10, § 1860(a)(1)][/us/pl/112/10/s1860/a/1], substituted “paragraph (7)(B)” for “paragraph (8)(B)”.
 
@@ -571,6 +573,8 @@
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
 
+    [Pub. L. 113–235, div. G, title III][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2501][/us/stat/128/2501].
+
     [Pub. L. 113–76, div. H, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 396][/us/stat/128/396].
 
     [Pub. L. 112–74, div. F, title III][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1097][/us/stat/125/1097].
@@ -670,6 +674,8 @@ Provisions limiting the maximum Pell grant that a student may receive were conta
 [/us/stat/125/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F266
 [/us/pl/112/74/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs309%2Fa
 [/us/stat/125/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1100
+[/us/pl/113/235/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs309%2Fb
+[/us/stat/128/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2506
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
@@ -703,6 +709,7 @@ Provisions limiting the maximum Pell grant that a student may receive were conta
 [/us/stat/94/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1401
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/10/s1860/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1860%2Fa%2F1
 [/us/pl/112/74/s309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs309%2Fa%2F1
 [/us/pl/112/10/s1860/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1860%2Fa%2F4
@@ -844,6 +851,8 @@ Provisions limiting the maximum Pell grant that a student may receive were conta
 [/us/stat/100/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1582
 [/us/pl/105/332/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs6%2Fa
 [/us/stat/112/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3127
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2501
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F396
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74

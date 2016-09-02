@@ -105,7 +105,45 @@
 
     (d) __Students who are not high school graduates__ 
 
-        In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.
+        (1) __Student eligibility__ 
+
+        In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall meet the requirements of one of the following subparagraphs:
+
+            (A)
+
+             The student is enrolled in an eligible career pathway program and meets one of the following standards:
+
+                (i) The student shall take an independently administered examination and shall achieve a score, specified by the Secretary, demonstrating that such student can benefit from the education or training being offered. Such examination shall be approved by the Secretary on the basis of compliance with such standards for development, administration, and scoring as the Secretary may prescribe in regulations.
+
+                (ii) The student shall be determined as having the ability to benefit from the education or training in accordance with such process as the State shall prescribe. Any such process described or approved by a State for the purposes of this section shall be effective 6 months after the date of submission to the Secretary unless the Secretary disapproves such process. In determining whether to approve or disapprove such process, the Secretary shall take into account the effectiveness of such process in enabling students without secondary school diplomas or the equivalent thereof to benefit from the instruction offered by institutions utilizing such process, and shall also take into account the cultural diversity, economic circumstances, and educational preparation of the populations served by the institutions.
+
+                (iii) The student shall be determined by the institution of higher education as having the ability to benefit from the education or training offered by the institution of higher education upon satisfactory completion of 6 credit hours or the equivalent coursework that are applicable toward a degree or certificate offered by the institution of higher education.
+
+            (B) The student has completed a secondary school education in a home school setting that is treated as a home school or private school under State law.
+
+        (2) __Eligible career pathway program__ 
+
+        In this subsection, the term “eligible career pathway program” means a program that—
+
+            (A) concurrently enrolls participants in connected adult education and eligible postsecondary programs;
+
+            (B) provides counseling and supportive services to identify and attain academic and career goals;
+
+            (C)
+
+             provides structured course sequences that—
+
+                (i) are articulated and contextualized; and
+
+                (ii) allow students to advance to higher levels of education and employment;
+
+            (D) provides opportunities for acceleration to attain recognized postsecondary credentials, including degrees, industry relevant certifications, and certificates of completion of apprenticeship programs;
+
+            (E) is organized to meet the needs of adults;
+
+            (F) is aligned with the education and skill needs of the regional economy; and
+
+            (G) has been developed and implemented in collaboration with partners in business, workforce development, and economic development.
 
     (e) __Certification for GSL eligibility__ 
 
@@ -423,7 +461,7 @@
 
             The Secretary shall prepare and submit to the authorizing committees, in each fiscal year, a report describing the results obtained by the establishment and operation of the data system authorized by this subsection.
 
-([Pub. L. 89–329, title IV, § 484][/us/pl/89/329/s484], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1479][/us/stat/100/1479]; amended [Pub. L. 99–603, title I, § 121(a)(3)][/us/pl/99/603/s121/a/3], Nov. 6, 1986, [100 Stat. 3388][/us/stat/100/3388]; [Pub. L. 100–50, § 15(7)][/us/pl/100/50/s15/7]–(9), June 3, 1987, [101 Stat. 356][/us/stat/101/356], 357; [Pub. L. 100–369][/us/pl/100/369], §§ 1, 2, 6, July 18, 1988, [102 Stat. 835][/us/stat/102/835], 836; [Pub. L. 100–525, § 2(g)][/us/pl/100/525/s2/g], Oct. 24, 1988, [102 Stat. 2611][/us/stat/102/2611]; [Pub. L. 101–508, title III, § 3005(a)][/us/pl/101/508/s3005/a], Nov. 5, 1990, [104 Stat. 1388–27][/us/stat/104/1388-27]; [Pub. L. 102–26, § 2(b)][/us/pl/102/26/s2/b], (c)(2), (d)(2)(A), Apr. 9, 1991, [105 Stat. 123][/us/stat/105/123], 124; [Pub. L. 102–73, title VIII, § 801(a)][/us/pl/102/73/s801/a], July 25, 1991, [105 Stat. 359][/us/stat/105/359]; [Pub. L. 102–325, title IV, § 484(a)][/us/pl/102/325/s484/a], (b)(1), (c)–(h), July 23, 1992, [106 Stat. 615–619][/us/stat/106/615-619]; [Pub. L. 103–208, § 2(h)(13)][/us/pl/103/208/s2/h/13]–(25), Dec. 20, 1993, [107 Stat. 2476][/us/stat/107/2476], 2477; [Pub. L. 103–382, title III, § 360A][/us/pl/103/382/s360A], Oct. 20, 1994, [108 Stat. 3969][/us/stat/108/3969]; [Pub. L. 104–208, div. C, title V, § 507(b)][/us/pl/104/208/s507/b], Sept. 30, 1996, [110 Stat. 3009–673][/us/stat/110/3009-673]; [Pub. L. 105–244, title IV, § 483(a)][/us/pl/105/244/s483/a]–(f)(1), Oct. 7, 1998, [112 Stat. 1735][/us/stat/112/1735], 1736; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8020(c), 8021, Feb. 8, 2006, [120 Stat. 178][/us/stat/120/178]; [Pub. L. 109–270, § 2(c)(2)][/us/pl/109/270/s2/c/2], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 110–315, title IV, § 485(a)][/us/pl/110/315/s485/a], Aug. 14, 2008, [122 Stat. 3287][/us/stat/122/3287]; [Pub. L. 111–39, title IV, § 407(b)(4)][/us/pl/111/39/s407/b/4], July 1, 2009, [123 Stat. 1950][/us/stat/123/1950]; [Pub. L. 112–74, div. F, title III, § 309(c)(1)][/us/pl/112/74/s309/c/1], Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100].)
+([Pub. L. 89–329, title IV, § 484][/us/pl/89/329/s484], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1479][/us/stat/100/1479]; amended [Pub. L. 99–603, title I, § 121(a)(3)][/us/pl/99/603/s121/a/3], Nov. 6, 1986, [100 Stat. 3388][/us/stat/100/3388]; [Pub. L. 100–50, § 15(7)][/us/pl/100/50/s15/7]–(9), June 3, 1987, [101 Stat. 356][/us/stat/101/356], 357; [Pub. L. 100–369][/us/pl/100/369], §§ 1, 2, 6, July 18, 1988, [102 Stat. 835][/us/stat/102/835], 836; [Pub. L. 100–525, § 2(g)][/us/pl/100/525/s2/g], Oct. 24, 1988, [102 Stat. 2611][/us/stat/102/2611]; [Pub. L. 101–508, title III, § 3005(a)][/us/pl/101/508/s3005/a], Nov. 5, 1990, [104 Stat. 1388–27][/us/stat/104/1388-27]; [Pub. L. 102–26, § 2(b)][/us/pl/102/26/s2/b], (c)(2), (d)(2)(A), Apr. 9, 1991, [105 Stat. 123][/us/stat/105/123], 124; [Pub. L. 102–73, title VIII, § 801(a)][/us/pl/102/73/s801/a], July 25, 1991, [105 Stat. 359][/us/stat/105/359]; [Pub. L. 102–325, title IV, § 484(a)][/us/pl/102/325/s484/a], (b)(1), (c)–(h), July 23, 1992, [106 Stat. 615–619][/us/stat/106/615-619]; [Pub. L. 103–208, § 2(h)(13)][/us/pl/103/208/s2/h/13]–(25), Dec. 20, 1993, [107 Stat. 2476][/us/stat/107/2476], 2477; [Pub. L. 103–382, title III, § 360A][/us/pl/103/382/s360A], Oct. 20, 1994, [108 Stat. 3969][/us/stat/108/3969]; [Pub. L. 104–208, div. C, title V, § 507(b)][/us/pl/104/208/s507/b], Sept. 30, 1996, [110 Stat. 3009–673][/us/stat/110/3009-673]; [Pub. L. 105–244, title IV, § 483(a)][/us/pl/105/244/s483/a]–(f)(1), Oct. 7, 1998, [112 Stat. 1735][/us/stat/112/1735], 1736; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8020(c), 8021, Feb. 8, 2006, [120 Stat. 178][/us/stat/120/178]; [Pub. L. 109–270, § 2(c)(2)][/us/pl/109/270/s2/c/2], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 110–315, title IV, § 485(a)][/us/pl/110/315/s485/a], Aug. 14, 2008, [122 Stat. 3287][/us/stat/122/3287]; [Pub. L. 111–39, title IV, § 407(b)(4)][/us/pl/111/39/s407/b/4], July 1, 2009, [123 Stat. 1950][/us/stat/123/1950]; [Pub. L. 112–74, div. F, title III, § 309(c)(1)][/us/pl/112/74/s309/c/1], Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100]; [Pub. L. 113–235, div. G, title III, § 309(a)(1)][/us/pl/113/235/s309/a/1], Dec. 16, 2014, [128 Stat. 2504][/us/stat/128/2504].)
 
  __References in Text__ 
 
@@ -438,6 +476,8 @@
     Another prior section 1091, [Pub. L. 89–329, title V, § 501][/us/pl/89/329/s501], Nov. 8, 1965, [79 Stat. 1254][/us/stat/79/1254]; [Pub. L. 90–35, § 2(c)][/us/pl/90/35/s2/c], June 29, 1967, [81 Stat. 82][/us/stat/81/82]; [Pub. L. 92–318, title I, § 141(b)(1)][/us/pl/92/318/s141/b/1], June 23, 1972, [86 Stat. 285][/us/stat/86/285], set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by [Pub. L. 94–482, title I, § 151(a)(2)][/us/pl/94/482/s151/a/2], (b), Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151].
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–235][/us/pl/113/235] amended subsec. (d) generally. Prior to amendment, text read as follows: “In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.”
 
     2011—Subsec. (d). [Pub. L. 112–74][/us/pl/112/74] struck out “meet one of the following standards:” after “the student shall”, substituted “have completed” for “(3) The student has completed”, and struck out pars. (1), (2) and (4), which required students to take an independently administered examination, required a State process, or required an institution of higher education, respectively, to determine ability of students to benefit from education or training.
 
@@ -621,6 +661,12 @@
 
     Subsec. (e). [Pub. L. 99–603][/us/pl/99/603] added subsec. (e) relating to validity of loan guarantees for loan payments made before completion of immigration status verification.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. G, title III, § 309(a)(2)][/us/pl/113/235/s309/a/2], Dec. 16, 2014, [128 Stat. 2506][/us/stat/128/2506], provided that: 
+
+> “The amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment was enacted on June 30, 2014, and shall apply to students who are enrolled or who first enroll in an eligible program of study on or after July 1, 2014.”
+
  __Effective Date of 2011 Amendment__ 
 
 [Pub. L. 112–74, div. F, title III, § 309(c)(2)][/us/pl/112/74/s309/c/2], Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100], provided that: 
@@ -794,6 +840,8 @@
 [/us/stat/123/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1950
 [/us/pl/112/74/s309/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs309%2Fc%2F1
 [/us/stat/125/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1100
+[/us/pl/113/235/s309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs309%2Fa%2F1
+[/us/stat/128/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2504
 [/us/usc/t20/s1078–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%931
 [/us/pl/103/66/s4047/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4047%2Fb
 [/us/stat/107/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F364
@@ -815,6 +863,7 @@
 [/us/stat/86/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F285
 [/us/pl/94/482/s151/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs151%2Fa%2F2
 [/us/stat/90/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2151
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/111/39/s407/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F4%2FA
 [/us/pl/111/39/s407/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F4%2FB
@@ -908,6 +957,8 @@
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
+[/us/pl/113/235/s309/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs309%2Fa%2F2
+[/us/stat/128/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2506
 [/us/pl/112/74/s309/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs309%2Fc%2F2
 [/us/stat/125/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1100
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
