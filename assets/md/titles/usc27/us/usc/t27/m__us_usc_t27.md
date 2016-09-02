@@ -15,7 +15,7 @@
 
 # Title 27—INTOXICATING LIQUORS
 
-Current through 113-185u1
+Current through 113-186
 
 <table>
 
