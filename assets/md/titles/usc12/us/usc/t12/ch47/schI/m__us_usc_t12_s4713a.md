@@ -291,7 +291,7 @@
 
  __Termination of Section__ 
 
-    For delay of termination of section by [Pub. L. 113–235][/us/pl/113/235], see Termination Date note below.
+    For delay of termination of section by [Pub. L. 114–113][/us/pl/114/113], see Termination Date note below.
 
  __References in Text__ 
 
@@ -299,9 +299,13 @@
 
  __Termination Date__ 
 
-[Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2336][/us/stat/128/2336], provided in part: 
+[Pub. L. 114–113, div. E, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2427][/us/stat/129/2427], provided in part: 
 
-> “That such section 114A \[this section\] shall remain in effect until September 30, 2015.”
+> “That such section 114A \[this section\] shall remain in effect until September 30, 2016.”
+
+    Similar provisions were contained in the following prior appropriations act:
+
+    [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2336][/us/stat/128/2336].
 
 ----------
 
@@ -315,10 +319,12 @@
 [/us/pl/103/325/s114A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs114A
 [/us/pl/111/240/s1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1134
 [/us/stat/124/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2515
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/stat/91/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1147
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2427
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2336
 

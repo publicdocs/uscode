@@ -171,13 +171,17 @@
 
         (3) __Backup authority__ 
 
-            Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under [section 5382(a) of this title][/us/usc/t12/s5382/a] with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State.
+            Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under [section 5382(a) of this title][/us/usc/t12/s5382/a] with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State.
 
-([Pub. L. 111–203, title II, § 203][/us/pl/111/203/s203], July 21, 2010, [124 Stat. 1450][/us/stat/124/1450].)
+([Pub. L. 111–203, title II, § 203][/us/pl/111/203/s203], July 21, 2010, [124 Stat. 1450][/us/stat/124/1450]; [Pub. L. 114–113, div. O, title VII, § 706(b)(1)][/us/pl/114/113/s706/b/1], Dec. 18, 2015, [129 Stat. 3029][/us/stat/129/3029].)
 
  __References in Text__ 
 
     This subchapter, referred to in subsecs. (a) to (d), was in the original “this title”, meaning title II of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1442][/us/stat/124/1442], which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (e)(3). [Pub. L. 114–113][/us/pl/114/113] inserted “or rehabilitation” after “orderly liquidation” in two places.
 
 ----------
 
@@ -193,7 +197,10 @@
 [/us/usc/t12/s5382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5382%2Fa
 [/us/pl/111/203/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs203
 [/us/stat/124/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1450
+[/us/pl/114/113/s706/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs706%2Fb%2F1
+[/us/stat/129/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3029
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

@@ -17,7 +17,7 @@
 
     (a) __System confidentiality__ 
 
-        Except as otherwise provided in this section, any requirement under Federal or State law regarding the privacy or confidentiality of any information or material provided to the Nationwide Mortgage Licensing System and Registry or a system established by the Director under [section 5108 of this title][/us/usc/t12/s5108], and any privilege arising under Federal or State law (including the rules of any Federal or State court) with respect to such information or material, shall continue to apply to such information or material after the information or material has been disclosed to the system. Such information and material may be shared with all State and Federal regulatory officials with mortgage industry oversight authority without the loss of privilege or the loss of confidentiality protections provided by Federal and State laws.
+        Except as otherwise provided in this section, any requirement under Federal or State law regarding the privacy or confidentiality of any information or material provided to the Nationwide Mortgage Licensing System and Registry or a system established by the Director under [section 5108 of this title][/us/usc/t12/s5108], and any privilege arising under Federal or State law (including the rules of any Federal or State court) with respect to such information or material, shall continue to apply to such information or material after the information or material has been disclosed to the system. Such information and material may be shared with all State and Federal regulatory officials with mortgage or financial services industry oversight authority without the loss of privilege or the loss of confidentiality protections provided by Federal and State laws.
 
     (b) __Nonapplicability of certain requirements__ 
 
@@ -35,9 +35,11 @@
 
         This section shall not apply with respect to the information or material relating to the employment history of, and publicly adjudicated disciplinary and enforcement actions against, loan originators that is included in Nationwide Mortgage Licensing System and Registry for access by the public.
 
-([Pub. L. 110–289, div. A, title V, § 1512][/us/pl/110/289/s1512], July 30, 2008, [122 Stat. 2820][/us/stat/122/2820]; [Pub. L. 111–203, title X, § 1100(3)][/us/pl/111/203/s1100/3], July 21, 2010, [124 Stat. 2106][/us/stat/124/2106].)
+([Pub. L. 110–289, div. A, title V, § 1512][/us/pl/110/289/s1512], July 30, 2008, [122 Stat. 2820][/us/stat/122/2820]; [Pub. L. 111–203, title X, § 1100(3)][/us/pl/111/203/s1100/3], July 21, 2010, [124 Stat. 2106][/us/stat/124/2106]; [Pub. L. 114–113, div. O, title VII, § 703][/us/pl/114/113/s703], Dec. 18, 2015, [129 Stat. 3025][/us/stat/129/3025].)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–113][/us/pl/114/113] inserted “or financial services” before “industry”.
 
     2010—Subsecs. (a), (b)(2). [Pub. L. 111–203][/us/pl/111/203] substituted “Director” for “Secretary”.
 
@@ -57,6 +59,9 @@
 [/us/stat/122/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2820
 [/us/pl/111/203/s1100/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2F3
 [/us/stat/124/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2106
+[/us/pl/114/113/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs703
+[/us/stat/129/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3025
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

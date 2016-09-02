@@ -321,7 +321,11 @@
 
             (F) work with community organizations, non-profit organizations, and other entities that are involved with educating or assisting seniors (including the National Education and Resource Center on Women and Retirement Planning).
 
-([Pub. L. 111–203, title X, § 1013][/us/pl/111/203/s1013], July 21, 2010, [124 Stat. 1966][/us/stat/124/1966].)
+    (h) __Application of FACA__ 
+
+        Notwithstanding any provision of the Federal Advisory Committee Act (5 U.S.C. App.), such Act shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
+
+([Pub. L. 111–203, title X, § 1013][/us/pl/111/203/s1013], July 21, 2010, [124 Stat. 1966][/us/stat/124/1966]; [Pub. L. 114–113, div. O, title VII, § 704][/us/pl/114/113/s704], Dec. 18, 2015, [129 Stat. 3025][/us/stat/129/3025].)
 
  __References in Text__ 
 
@@ -333,9 +337,15 @@
 
     The Home Mortgage Disclosure Act, referred to in subsec. (c)(2)(A), probably means the Home Mortgage Disclosure Act of 1975, which is title III of [Pub. L. 94–200][/us/pl/94/200], Dec. 31, 1975, [89 Stat. 1125][/us/stat/89/1125], and is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of this title][/us/usc/t12/s2801] and Tables.
 
+    The Federal Advisory Committee Act, referred to in subsec. (h), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
+
  __Codification__ 
 
     Section is comprised of [section 1013 of Pub. L. 111–203][/us/pl/111/203/s1013]. Subsec. (d)(5), (6) of [section 1013 of Pub. L. 111–203][/us/pl/111/203/s1013] amended [section 9702 of Title 20][/us/usc/t20/s9702], Education.
+
+ __Amendments__ 
+
+    2015—Subsec. (h). [Pub. L. 114–113][/us/pl/114/113] added subsec. (h).
 
 ----------
 
@@ -352,6 +362,8 @@
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801
 [/us/pl/111/203/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1013
 [/us/stat/124/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1966
+[/us/pl/114/113/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs704
+[/us/stat/129/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3025
 [/us/usc/t5/s2302/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F11
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
@@ -360,8 +372,11 @@
 [/us/pl/94/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F200
 [/us/stat/89/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1125
 [/us/usc/t12/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2801
+[/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
+[/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/111/203/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1013
 [/us/pl/111/203/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1013
 [/us/usc/t20/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9702
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

@@ -51,17 +51,33 @@
 
         (3) assuming or guaranteeing the obligations of the covered financial company or any covered subsidiary to 1 or more third parties;
 
-        (4) taking a lien on any or all assets of the covered financial company or any covered subsidiary, including a first priority lien on all unencumbered assets of the covered financial company or any covered subsidiary to secure repayment of any transactions conducted under this subsection;
+        (4)
+
+         taking a lien on any or all assets of the covered financial company or any covered subsidiary, including a first priority lien on all unencumbered assets of the covered financial company or any covered subsidiary to secure repayment of any transactions conducted under this subsection, except that, if the covered financial company or covered subsidiary is an insurance company or a subsidiary of an insurance company, the Corporation—
+
+            (A) shall promptly notify the State insurance authority for the insurance company of the intention to take such lien; and
+
+            (B)
+
+             may only take such lien—
+
+                (i) to secure repayment of funds made available to such covered financial company or covered subsidiary; and
+
+                (ii) if the Corporation determines, after consultation with the State insurance authority, that such lien will not unduly impede or delay the liquidation or rehabilitation of the insurance company, or the recovery by its policyholders;
 
         (5) selling or transferring all, or any part, of such acquired assets, liabilities, or obligations of the covered financial company or any covered subsidiary; and
 
         (6) making payments pursuant to subsections (b)(4), (d)(4), and (h)(5)(E) of [section 5390 of this title][/us/usc/t12/s5390].
 
-([Pub. L. 111–203, title II, § 204][/us/pl/111/203/s204], July 21, 2010, [124 Stat. 1454][/us/stat/124/1454].)
+([Pub. L. 111–203, title II, § 204][/us/pl/111/203/s204], July 21, 2010, [124 Stat. 1454][/us/stat/124/1454]; [Pub. L. 114–113, div. O, title VII, § 706(b)(2)][/us/pl/114/113/s706/b/2], Dec. 18, 2015, [129 Stat. 3029][/us/stat/129/3029].)
 
  __References in Text__ 
 
     This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title II of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1442][/us/stat/124/1442], which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (d)(4). [Pub. L. 114–113][/us/pl/114/113] inserted “, except that, if the covered financial company or covered subsidiary is an insurance company or a subsidiary of an insurance company, the Corporation—” and subpars. (A) and (B) before semicolon at end.
 
 ----------
 
@@ -78,7 +94,10 @@
 [/us/usc/t12/s5390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5390
 [/us/pl/111/203/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs204
 [/us/stat/124/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1454
+[/us/pl/114/113/s706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs706%2Fb%2F2
+[/us/stat/129/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3029
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1442
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

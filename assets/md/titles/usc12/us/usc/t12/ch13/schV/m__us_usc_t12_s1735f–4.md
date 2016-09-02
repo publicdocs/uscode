@@ -19,9 +19,13 @@
 
     (b) The Secretary may require that each property, other than a manufactured home, subject to a mortgage insured under this chapter shall, with respect to health and safety, comply with one of the nationally recognized model building codes, or with a State or local building code based on one of the nationally recognized model building codes or their equivalent. The Secretary shall be responsible for determining the comparability of the State and local codes to such model codes and for selecting for compliance purposes an appropriate nationally recognized model building code where no such model code has been duly adopted or where the Secretary determines the adopted code is not comparable.
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 526, as added [Pub. L. 93–383, title III, § 305][/us/pl/93/383/s305], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; amended [Pub. L. 95–619, title II, § 252(a)][/us/pl/95/619/s252/a], Nov. 9, 1978, [92 Stat. 3236][/us/stat/92/3236]; [Pub. L. 96–399, title III, § 326(e)][/us/pl/96/399/s326/e], Oct. 8, 1980, [94 Stat. 1650][/us/stat/94/1650]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 405\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210]; [Pub. L. 98–479, title I, § 104(a)(6)][/us/pl/98/479/s104/a/6], Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225].)
+    (c) The Secretary may establish an exception to any minimum property standard established under this section in order to address alternative water systems, including cisterns, which meet requirements of State and local building codes that ensure health and safety standards.
+
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title V, § 526, as added [Pub. L. 93–383, title III, § 305][/us/pl/93/383/s305], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; amended [Pub. L. 95–619, title II, § 252(a)][/us/pl/95/619/s252/a], Nov. 9, 1978, [92 Stat. 3236][/us/stat/92/3236]; [Pub. L. 96–399, title III, § 326(e)][/us/pl/96/399/s326/e], Oct. 8, 1980, [94 Stat. 1650][/us/stat/94/1650]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 405\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210]; [Pub. L. 98–479, title I, § 104(a)(6)][/us/pl/98/479/s104/a/6], Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225]; [Pub. L. 114–113, div. L, title II, § 238][/us/pl/114/113/s238], Dec. 18, 2015, [129 Stat. 2897][/us/stat/129/2897].)
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113] added subsec. (c).
 
     1984—[Pub. L. 98–479][/us/pl/98/479] substituted “Minimum property standards” for “Promotion of energy saving techniques by Secretary of Housing and Urban Development of insured housing” in section catchline.
 
@@ -49,6 +53,9 @@
 [/us/stat/97/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1210
 [/us/pl/98/479/s104/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs104%2Fa%2F6
 [/us/stat/98/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2225
+[/us/pl/114/113/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs238
+[/us/stat/129/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2897
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
