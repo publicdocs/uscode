@@ -101,7 +101,7 @@
 
          Such regulations shall include provisions for—
 
-            (A) the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.); and
+            (A) the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
 
             (B) consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
 
@@ -113,7 +113,7 @@
 
     The date of the enactment of this Act, referred to in subsec. (k)(1), probably means the date of enactment of [Pub. L. 103–94][/us/pl/103/94], which enacted this section and was approved Oct. 6, 1993.
 
-    The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50][/us/usc/t50/s501], Appendix, and Tables.
+    The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as chapter 50 (§ 3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -200,7 +200,6 @@
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/usc/t50/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs501
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271

@@ -199,7 +199,7 @@
 
     Section 802 of the Victims of Terrorism Compensation Act \[[Pub. L. 99–399][/us/pl/99/399]\], referred to in subsec. (d)(2), is set out as a note below.
 
-    The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. Titles IV and V of the Act are classified to sections 541 et seq. and 561 et seq., respectively, of Title 50, Appendix. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 514, 515, 516, 561, 570, and 592, respectively, of Title 50, Appendix. For complete classification of this Act to the Code, see [section 501 of Title 50][/us/usc/t50/s501], Appendix, and Tables.
+    The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], which is classified to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. Titles IV and V of the Act are classified to subchapters IV (§ 3971 et seq.) and V (§ 3991 et seq.), respectively, of chapter 50 of Title 50. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 3914, 3915, 3917, 3991, 4000, and 4022, respectively, of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -303,7 +303,6 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/usc/t50/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs501
 [/us/pl/108/189/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs2%2Fb%2F2%2FA
 [/us/pl/108/189/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs2%2Fb%2F2%2FB
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83

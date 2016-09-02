@@ -93,7 +93,7 @@ July 4, 1966, Pub. L. 89–488, § 14 “Sec. 43(a), (b)”, 80 Stat. 256.  </
 
     [Public Law 84–879][/us/pl/84/879] (August 1, 1956), which extended coverage to certain members of the Reserve Officers Training Corps of the Army, Navy, and Air Force, was classified to section 802 of former Title 5, Executive Departments and Government Officers and Employees.
 
-    [Public Law 80–896][/us/pl/80/896] (July 3, 1948), which extended coverage to certain persons entitled to war claims, is [act July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], [62 Stat. 1240][/us/stat/62/1240], as amended, popularly known as the War Claims Act of 1948, which is classified generally to section 2001 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50][/us/usc/t50/s2001], Appendix, and Tables.
+    [Public Law 80–896][/us/pl/80/896] (July 3, 1948), which extended coverage to certain persons entitled to war claims, is [act July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], [62 Stat. 1240][/us/stat/62/1240], popularly known as the War Claims Act of 1948, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     Act of September 8, 1959 ([73 Stat. 469][/us/stat/73/469]) which transferred from the Department of Commerce to the Department of Labor certain functions in respect to insurance benefits and disability payments to seamen for W.W. II service-connected injuries, death, or disability, was not classified to the Code.
 
@@ -160,7 +160,6 @@ July 4, 1966, Pub. L. 89–488, § 14 “Sec. 43(a), (b)”, 80 Stat. 256.  </
 [/us/pl/80/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F80%2F896
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240
-[/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001
 [/us/stat/73/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F469
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
 [/us/pl/93/416/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F416%2Fs21

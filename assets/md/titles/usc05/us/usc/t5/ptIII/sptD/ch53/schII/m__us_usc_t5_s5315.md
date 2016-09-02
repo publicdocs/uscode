@@ -1079,7 +1079,7 @@ Feb. 19, 1966, Pub. L. 89–355, § 3(a) (1st sentence, less 1st 20 words), 80
 
 [Pub. L. 110–49, § 12][/us/pl/110/49/s12], July 26, 2007, [121 Stat. 260][/us/stat/121/260], provided that: 
 
-> “The amendments made by this Act \[amending this section, [section 301 of Title 31][/us/usc/t31/s301], Money and Finance, and section 2170 of the Appendix to Title 50, War and National Defense\] shall apply after the end of the 90-day period beginning on the date of enactment of this Act \[July 26, 2007\].”
+> “The amendments made by this Act \[amending this section, [section 301 of Title 31][/us/usc/t31/s301], Money and Finance, and [section 4565 of Title 50][/us/usc/t50/s4565], War and National Defense\] shall apply after the end of the 90-day period beginning on the date of enactment of this Act \[July 26, 2007\].”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -1969,6 +1969,7 @@ Section 101(f) \[title VI, § 662(c)(1)\] of [Pub. L. 104–208][/us/pl/104/20
 [/us/pl/110/49/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F49%2Fs12
 [/us/stat/121/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F260
 [/us/usc/t31/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301
+[/us/usc/t50/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565
 [/us/pl/109/364/s942/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs942%2Fa
 [/us/pl/109/364/s942/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs942%2Fc
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314

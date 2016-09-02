@@ -291,7 +291,7 @@ Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21.  </td>
 
 [Pub. L. 105–85, div. A, title VI, § 603(e)][/us/pl/105/85/s603/e], Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783], provided that: 
 
-> “This section \[amending this section, sections 708, 2830, 2882, 7572, and 7573 of Title 10, Armed Forces, [section 107 of Title 32][/us/usc/t32/s107], National Guard, sections 101, 403, 405, 406, 420, 427, 551, and 1014 of Title 37, Pay and Allowances of the Uniformed Services, and [section 454 of Title 50][/us/usc/t50/s454], Appendix, War and National Defense, repealing [section 403a of Title 37][/us/usc/t37/s403a], and enacting provisions set out as a note under [section 403 of Title 37][/us/usc/t37/s403]\] and the amendments made by this section shall take effect on January 1, 1998.”
+> “This section \[amending this section, sections 708, 2830, 2882, 7572, and 7573 of Title 10, Armed Forces, [section 107 of Title 32][/us/usc/t32/s107], National Guard, sections 101, 403, 405, 406, 420, 427, 551, and 1014 of Title 37, Pay and Allowances of the Uniformed Services, and [section 3803 of Title 50][/us/usc/t50/s3803], War and National Defense, repealing [section 403a of Title 37][/us/usc/t37/s403a], and enacting provisions set out as a note under [section 403 of Title 37][/us/usc/t37/s403]\] and the amendments made by this section shall take effect on January 1, 1998.”
 
  __Accounting for Civilian Employees and Contractors of United States__ 
 
@@ -329,7 +329,7 @@ Apr. 4, 1953, ch. 17, § 1(e), 67 Stat. 21.  </td>
 [/us/pl/105/85/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fe
 [/us/stat/111/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1783
 [/us/usc/t32/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs107
-[/us/usc/t50/s454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs454
+[/us/usc/t50/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803
 [/us/usc/t37/s403a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403a
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/pl/104/106/s569/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fe

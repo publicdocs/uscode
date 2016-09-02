@@ -805,7 +805,7 @@ Sept. 9, 1965, Pub. L. 89–174, § 4(a) (as applicable to compensation of Und
 
 [Pub. L. 99–64, title I, § 116(d)][/us/pl/99/64/s116/d], July 12, 1985, [99 Stat. 153][/us/stat/99/153], as amended by [Pub. L. 99–441, § 5][/us/pl/99/441/s5], Oct. 3, 1986, [100 Stat. 1118][/us/stat/100/1118], provided that: 
 
-> “The provisions of section 15(a) of the Export Administration Act of 1979 \[50 U.S.C. App. 2414(a)\], as amended by subsection (a) of this section, and the amendments made by subsections (b) and (c) of this section \[amending sections 5314 and 5315 of this title\] shall take effect on October 1, 1987.”
+> “The provisions of section 15(a) of the Export Administration Act of 1979 \[[50 U.S.C. 4617(a)][/us/usc/t50/s4617/a]\], as amended by subsection (a) of this section, and the amendments made by subsections (b) and (c) of this section \[amending sections 5314 and 5315 of this title\] shall take effect on October 1, 1987.”
 
  __Effective Date of 1984 Amendments__ 
 
@@ -1431,6 +1431,7 @@ Section 6(a), formerly section 6(a)(1), of [Pub. L. 94–123][/us/pl/94/123], as
 [/us/stat/99/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F153
 [/us/pl/99/441/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F441%2Fs5
 [/us/stat/100/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1118
+[/us/usc/t50/s4617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4617%2Fa
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301
 [/us/usc/t44/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2102

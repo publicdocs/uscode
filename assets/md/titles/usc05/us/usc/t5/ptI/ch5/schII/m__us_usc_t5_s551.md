@@ -37,7 +37,7 @@
 
         (G) military authority exercised in the field in time of war or in occupied territory; or
 
-        (H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix;
+        (H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix;  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (2) “person” includes an individual, partnership, corporation, association, or public or private organization other than an agency;
 
@@ -249,6 +249,10 @@ June 11, 1946, ch. 324, § 2 (less (a)), 60 Stat. 237.  </td>
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+ __References in Text__ 
+
+    Sections 1884 and 1891–1902 of title 50, appendix, referred to in par. (1)(H), were a part of the various Housing and Rent Acts which were classified to section 1881 et seq. of the former Appendix to Title 50, War and National Defense, and had been repealed or omitted from the Code as executed prior to the elimination of the Appendix to Title 50. See Elimination of Title 50, Appendix note preceding [section 1 of Title 50][/us/usc/t50/s1]. [Section 1641 of title 50][/us/usc/t50/s1641], appendix, referred to in par. (1)(H), was repealed by [Pub. L. 87–256, § 111(a)(1)][/us/pl/87/256/s111/a/1], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538]. See Historical and Revision Note above.
+
  __Codification__ 
 
     Section 551 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to [section 2242 of Title 7][/us/usc/t7/s2242], Agriculture.
@@ -314,6 +318,10 @@ June 11, 1946, ch. 324, § 2 (less (a)), 60 Stat. 237.  </td>
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
+[/us/usc/t50/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1641
+[/us/pl/87/256/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fa%2F1
+[/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
 [/us/usc/t7/s2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2242
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272

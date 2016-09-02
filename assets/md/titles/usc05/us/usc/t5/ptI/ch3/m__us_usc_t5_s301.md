@@ -405,6 +405,12 @@ The words “or military department” are inserted to preserve the application 
 
     [Pub. L. 104–208, div. C, title VI, § 656][/us/pl/104/208/s656], Sept. 30, 1996, [110 Stat. 3009–716][/us/stat/110/3009-716], as amended by [Pub. L. 106–69, title III, § 355][/us/pl/106/69/s355], Oct. 9, 1999, [113 Stat. 1027][/us/stat/113/1027], which related to standards for acceptance of birth certificates by Federal agencies for any official purpose, required the Secretary of Health and Human Services to make grants to States for assistance in meeting Federal standards and in matching birth and death records and for demonstration projects, and required the Secretary to submit a report to the Congress on ways to reduce the fraudulent obtaining and use of birth certificates, was repealed by [Pub. L. 108–458, title VII, § 7211(e)][/us/pl/108/458/s7211/e], Dec. 17, 2004, [118 Stat. 3827][/us/stat/118/3827].
 
+ __Modification or Cancellation of Certain License Agreements Granted to Government During World War II__ 
+
+[Act Aug. 16, 1950, ch. 716][/us/act/1950-08-16/ch716], [64 Stat. 448][/us/stat/64/448], provided that: 
+
+> “Notwithstanding any other provision of law, the head of any department or other agency in the executive branch of the Government which subsequent to September 9, 1939, entered into any contract or agreement with the holder of any privately owned patent or any right thereunder whereby such holder granted to the United States, without payment of royalty or with reduction or limitation of royalty, any license under such patent or right, is authorized, upon application of the grantor of such license, to enter into such supplemental contract or agreement for the cancellation of the contract or agreement by which such license was granted as the head of such department or agency shall deem to be warranted by equities existing by reason of changes in circumstances occurring since the granting of such license.”
+
  __Equal Opportunity in Federal Employment__ 
 
     Establishment of equal employment opportunity programs by heads of Executive departments and agencies, see Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319 and Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, set out as notes under [section 2000e of Title 42][/us/usc/t42/s2000e], The Public Health and Welfare.
@@ -443,6 +449,8 @@ The words “or military department” are inserted to preserve the application 
 [/us/stat/113/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1027
 [/us/pl/108/458/s7211/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7211%2Fe
 [/us/stat/118/3827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3827
+[/us/act/1950-08-16/ch716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-16%2Fch716
+[/us/stat/64/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F448
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
 
 

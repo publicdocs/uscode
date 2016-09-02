@@ -679,7 +679,7 @@ June 9, 1966, Pub. L. 89–444, § 4, 80 Stat. 198.  </td>
 
  __Effective Date of 1973 Amendment__ 
 
-    Amendment by [Pub. L. 93–176][/us/pl/93/176] effective not later than beginning of first pay period which begins on or after 90th day following Dec. 5, 1973, see [section 4 of Pub. L. 93–176][/us/pl/93/176/s4], set out as a note under section 460 of the Appendix to Title 50, War and National Defense.
+    Amendment by [Pub. L. 93–176][/us/pl/93/176] effective not later than beginning of first pay period which begins on or after 90th day following Dec. 5, 1973, see [section 4 of Pub. L. 93–176][/us/pl/93/176/s4], set out as a note under [section 3809 of Title 50][/us/usc/t50/s3809], War and National Defense.
 
  __Effective Date of 1970 Amendments__ 
 
@@ -971,6 +971,7 @@ June 9, 1966, Pub. L. 89–444, § 4, 80 Stat. 198.  </td>
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/93/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F176
 [/us/pl/93/176/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F176%2Fs4
+[/us/usc/t50/s3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101

@@ -69,7 +69,7 @@
 
         (viii) an employee of the Tennessee Valley Authority;
 
-        (ix) an individual to whom [section 1291(a) of title 50][/us/usc/t50/s1291/a], appendix, applies;
+        (ix) an individual to whom section 1291(a)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 50, appendix, applies;
 
         (x) an employee of a Federal land bank, a Federal intermediate credit bank, or a bank for cooperatives;
 
@@ -255,6 +255,10 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (as applicable to the Federal Employe
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+ __References in Text__ 
+
+    [Section 1291(a) of title 50][/us/usc/t50/s1291/a], appendix, referred to in par. (2)(C)(ix), is section 1(a) of [act Mar. 24, 1943, ch. 26][/us/act/1943-03-24/ch26], [57 Stat. 45][/us/stat/57/45], which was classified to section 1291(a) of the former Appendix to Title 50, War and National Defense, related to certain seamen employed on vessels through the War Shipping Administration, and has been omitted from the Code.
+
  __Amendments__ 
 
     2010—Par. (2)(iv)(II). [Pub. L. 111–282][/us/pl/111/282] struck out “a member of the United States Secret Service Uniformed Division,” before “a member of the United States Park Police”.
@@ -403,7 +407,6 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (as applicable to the Federal Employe
 [/us/usc/t5/s5351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5351
 [/us/pl/91/375/s6/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fc%2F16
 [/us/stat/84/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F776
-[/us/usc/t50/s1291/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1291%2Fa
 [/us/usc/t20/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs901
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F485
@@ -446,6 +449,9 @@ July 17, 1959, Pub. L. 86–91, § 10(a) (as applicable to the Federal Employe
 [/us/usc/t20/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs901
 [/us/pl/88/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F67
 [/us/stat/77/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F81
+[/us/usc/t50/s1291/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1291%2Fa
+[/us/act/1943-03-24/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-24%2Fch26
+[/us/stat/57/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F45
 [/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
