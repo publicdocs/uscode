@@ -5071,6 +5071,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13441 were contained in the following:
 
+    Notice of President of the United States, dated July 29, 2013, 78 F.R. 46489.
+
     Notice of President of the United States, dated July 24, 2012, 77 F.R. 43707.
 
     Notice of President of the United States, dated July 28, 2011, 76 F.R. 45653.
@@ -5090,6 +5092,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13348, July 22, 2004, 69 F.R. 44885.
 
     Continuations of national emergency declared by Ex. Ord. No. 13348 were contained in the following:
+
+    Notice of President of the United States, dated July 17, 2013, 78 F.R. 43751.
 
     Notice of President of the United States, dated July 17, 2012, 77 F.R. 42415, 45469.
 
@@ -5363,7 +5367,9 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Ex. Ord. No. 13581, July 24, 2011, 76 F.R. 44757.
 
-    Continuation of national emergency declared by Ex. Ord. No. 13581 was contained in the following:
+    Continuations of national emergency declared by Ex. Ord. No. 13581 were contained in the following:
+
+    Notice of President of the United States, dated July 19, 2013, 78 F.R. 44417.
 
     Notice of President of the United States, dated July 18, 2012, 77 F.R. 42619.
 
