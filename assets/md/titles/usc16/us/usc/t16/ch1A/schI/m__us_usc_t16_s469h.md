@@ -35,7 +35,7 @@
 
  __References in Text__ 
 
-    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which was classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of title 54.
+    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which was classified principally to former part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 13, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
  __Amendments__ 
 
@@ -58,6 +58,9 @@
 [/us/stat/94/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F69
 [/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199
 [/us/pl/91/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F483
 

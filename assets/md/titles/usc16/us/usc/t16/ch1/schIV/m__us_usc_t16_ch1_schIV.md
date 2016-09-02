@@ -35,12 +35,6 @@
 
     Sections 20 to 20g were popularly known as the National Park System Concessions Policy Act.
 
- __Repeal of National Park Service Concessions Policy Act; Savings Provision__ 
-
-[Pub. L. 105–391, title IV, § 415(a)][/us/pl/105/391/s415/a], Nov. 13, 1998, [112 Stat. 3515][/us/stat/112/3515], provided that: 
-
-> “[Public Law 89–249][/us/pl/89/249] (commonly known as the National Park Service Concessions Policy Act; [16 U.S.C. 20][/us/usc/t16/s20] et seq.) is repealed. The repeal of such Act shall not affect the validity of any concessions contract or permit entered into under such Act, but the provisions of this title \[see Tables for classification\] shall apply to any such contract or permit except to the extent such provisions are inconsistent with the terms and conditions of any such contract or permit. References in this title to concessions contracts awarded under authority of such Act also apply to concessions permits awarded under such authority.”
-
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schIII–B/m__us_usc_t16_s19jj–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schV/m__us_usc_t16_ch1_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschIV)
@@ -66,9 +60,5 @@
 [/us/stat/79/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F971
 [/us/pl/89/249/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F249%2Fs9
 [/us/stat/79/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F971
-[/us/pl/105/391/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391%2Fs415%2Fa
-[/us/stat/112/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3515
-[/us/pl/89/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F249
-[/us/usc/t16/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs20
 
 

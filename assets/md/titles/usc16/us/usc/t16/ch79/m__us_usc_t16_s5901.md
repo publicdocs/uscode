@@ -15,7 +15,7 @@
 
 ## § 5901. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 105–391, § 2][/us/pl/105/391/s2], Nov. 13, 1998, [112 Stat. 3498][/us/stat/112/3498], related to definition of “Secretary”. See [section 100102 of Title 54][/us/usc/t54/s100102], National Park Service and Related Programs.
+    Section, [Pub. L. 105–391, § 2][/us/pl/105/391/s2], Nov. 13, 1998, [112 Stat. 3498][/us/stat/112/3498], defined “Secretary” for this chapter.
 
 ----------
 
@@ -28,6 +28,5 @@
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/105/391/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391%2Fs2
 [/us/stat/112/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3498
-[/us/usc/t54/s100102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100102
 
 

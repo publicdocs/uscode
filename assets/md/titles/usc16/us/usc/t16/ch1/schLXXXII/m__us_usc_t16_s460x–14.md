@@ -33,7 +33,7 @@
 
 [Pub. L. 97–361, § 7][/us/pl/97/361/s7], Oct. 22, 1982, [96 Stat. 1725][/us/stat/96/1725], provided that: 
 
-> “For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9(a)(3)) \[now [54 U.S.C. 200306(a)(4)][/us/usc/t54/s200306/a/4]\], the statutory ceilings on appropriations established by the amendments made by this Act \[enacting section 460x–15 and amending sections 460x–9, 460x–11 and 460x–14 of this title\] shall be deemed to be statutory ceilings contained in a provision of law enacted prior to the convening of the Ninety-fifth Congress.”
+> “For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9(a)(3)) \[see [54 U.S.C. 200306(a)(4)][/us/usc/t54/s200306/a/4]\], the statutory ceilings on appropriations established by the amendments made by this Act \[enacting section 460x–15 and amending sections 460x–9, 460x–11 and 460x–14 of this title\] shall be deemed to be statutory ceilings contained in a provision of law enacted prior to the convening of the Ninety-fifth Congress.”
 
 ----------
 

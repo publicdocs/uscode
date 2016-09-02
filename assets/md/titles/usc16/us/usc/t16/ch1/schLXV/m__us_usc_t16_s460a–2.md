@@ -15,17 +15,17 @@
 
 ## § 460a–2. Blue Ridge Parkway; establishment; administration and maintenance
 
-    All lands and easements heretofore or hereafter conveyed to the United States by the States of Virginia and North Carolina for the right-of-way for the projected parkway between the Shenandoah and Great Smoky Mountains National Parks, together with sites acquired or to be acquired for recreational areas in connection therewith, and a right-of-way for said parkway of a width sufficient to include the highway and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum of two hundred feet through Government-owned lands (except that where small parcels of Government-owned lands would otherwise be isolated, or where topographic conditions or scenic requirements are such that bridges, ditches, cuts, fills, parking overlooks, landscape development, recreational and other facilities requisite to public use of said parkway could not reasonably be confined to a width of two hundred feet, the said maximum may be increased to such width as may be necessary, with the written approval of the department or agency having jurisdiction over such lands) as designated on maps heretofore or hereafter approved by the Secretary of the Interior, shall be known as the Blue Ridge Parkway and shall be administered and maintained by the Secretary of the Interior through the National Park Service, subject to the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the provisions of which sections, as amended and supplemented, are extended over and made applicable to said parkway: Provided, That the Secretary of Agriculture is authorized, with the concurrence of the Secretary of the Interior, to connect with the parkway such roads and trails as may be necessary for the protection, administration, or utilization of adjacent and nearby national forests and the resources thereof: And provided further, That the Forest Service and the National Park Service shall, insofar as practicable, coordinate and correlate such recreational development as each may plan, construct, or permit to be constructed, on lands within their respective jurisdictions which, by mutual agreement, should be given special treatment for recreational purposes.
+    All lands and easements heretofore or hereafter conveyed to the United States by the States of Virginia and North Carolina for the right-of-way for the projected parkway between the Shenandoah and Great Smoky Mountains National Parks, together with sites acquired or to be acquired for recreational areas in connection therewith, and a right-of-way for said parkway of a width sufficient to include the highway and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum of two hundred feet through Government-owned lands (except that where small parcels of Government-owned lands would otherwise be isolated, or where topographic conditions or scenic requirements are such that bridges, ditches, cuts, fills, parking overlooks, landscape development, recreational and other facilities requisite to public use of said parkway could not reasonably be confined to a width of two hundred feet, the said maximum may be increased to such width as may be necessary, with the written approval of the department or agency having jurisdiction over such lands) as designated on maps heretofore or hereafter approved by the Secretary of the Interior, shall be known as the Blue Ridge Parkway and shall be administered and maintained by the Secretary of the Interior through the National Park Service, subject to the provisions of the Act of Congress approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), entitled “An Act to establish a National Park Service, and for other purposes”, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the provisions of which Act, as amended and supplemented, are extended over and made applicable to said parkway: Provided, That the Secretary of Agriculture is authorized, with the concurrence of the Secretary of the Interior, to connect with the parkway such roads and trails as may be necessary for the protection, administration, or utilization of adjacent and nearby national forests and the resources thereof: And provided further, That the Forest Service and the National Park Service shall, insofar as practicable, coordinate and correlate such recreational development as each may plan, construct, or permit to be constructed, on lands within their respective jurisdictions which, by mutual agreement, should be given special treatment for recreational purposes.
 
 ([June 30, 1936, ch. 883, § 1][/us/act/1936-06-30/ch883/s1], [49 Stat. 2041][/us/stat/49/2041]; [June 8, 1940, ch. 277][/us/act/1940-06-08/ch277], [54 Stat. 249][/us/stat/54/249].)
 
  __References in Text__ 
 
-    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+    The Act of Congress approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), entitled “An Act to establish a National Park Service, and for other purposes”, referred to in text, is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and [section 1457 of Title 43][/us/usc/t43/s1457], Public Lands, and enacted provisions set out as a note under [section 1 of this title][/us/usc/t16/s1]. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
  __Amendments__ 
 
-    1940—Act June 8, 1940, inserted exceptions set out in parenthesis.
+    1940—Act June 8, 1940, inserted exceptions set out in parentheses.
 
  __Transfer of Functions__ 
 
@@ -48,12 +48,19 @@
 ----------
 ----------
 
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1936-06-30/ch883/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-30%2Fch883%2Fs1
 [/us/stat/49/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2041
 [/us/act/1940-06-08/ch277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch277
 [/us/stat/54/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F249
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
-[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/stat/63/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1070

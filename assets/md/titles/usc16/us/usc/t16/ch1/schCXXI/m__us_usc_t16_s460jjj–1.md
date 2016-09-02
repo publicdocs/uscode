@@ -97,7 +97,7 @@
 
     The Archaeological Resources Protection Act of 1979, referred to in subsec. (c), is [Pub. L. 96–95][/us/pl/96/95], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721], which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title][/us/usc/t16/s470aa] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (c), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.
+    The National Historic Preservation Act, referred to in subsec. (c), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
     The American Indian Religious Freedom Act, referred to in subsecs. (c) and (d)(1), is [Pub. L. 95–341][/us/pl/95/341], Aug. 11, 1978, [92 Stat. 469][/us/stat/92/469], as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42][/us/usc/t42/s1996] and Tables.
 
@@ -122,7 +122,9 @@
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/stat/92/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F469
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996

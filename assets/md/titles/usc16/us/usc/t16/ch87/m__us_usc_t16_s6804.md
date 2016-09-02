@@ -107,6 +107,8 @@
 
     [Section 6805 of this title][/us/usc/t16/s6805], referred to in subsec. (a)(6)(B), was in the original a reference to section 6, and was translated as meaning [section 806 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/s806], to reflect the probable intent of Congress.
 
+    The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is [Pub. L. 105–391][/us/pl/105/391], Nov. 13, 1998, [112 Stat. 3497][/us/stat/112/3497]. Title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by [Pub. L. 108–447, div. J, title VIII, § 813(d)(2)][/us/pl/108/447/s813/d/2], Dec. 8, 2004, [118 Stat. 3391][/us/stat/118/3391]. For complete classification of this Act to the Code, see Tables.
+
  __Codification__ 
 
     In subsec. (f), “[section 100904 of title 54][/us/usc/t54/s100904]” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
@@ -141,6 +143,10 @@
 [/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/usc/t16/s6805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6805
 [/us/pl/108/447/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs806
+[/us/pl/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391
+[/us/stat/112/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3497
+[/us/pl/108/447/s813/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs813%2Fd%2F2
+[/us/stat/118/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3391
 [/us/usc/t54/s100904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904
 [/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272

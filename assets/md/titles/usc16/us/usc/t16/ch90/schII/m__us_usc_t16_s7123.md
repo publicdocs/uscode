@@ -19,7 +19,7 @@
 
         (1) __Projects funded using project funds__ 
 
-            Not later than September 30 for fiscal year 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2013, each resource advisory committee shall submit to the Secretary concerned a description of any projects that the resource advisory committee proposes the Secretary undertake using any project funds reserved by eligible counties in the area in which the resource advisory committee has geographic jurisdiction.
+            Not later than September 30 of each fiscal year (or a later date specified by the Secretary concerned for the fiscal year), each resource advisory committee shall submit to the Secretary concerned a description of any projects that the resource advisory committee proposes the Secretary undertake using any project funds reserved by eligible counties in the area in which the resource advisory committee has geographic jurisdiction.
 
         (2) __Projects funded using other funds__ 
 
@@ -67,13 +67,15 @@
 
         Projects proposed under subsection (a) shall be consistent with [section 7101 of this title][/us/usc/t16/s7101].
 
-([Pub. L. 106–393, title II, § 203][/us/pl/106/393/s203], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3901][/us/stat/122/3901]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], July 6, 2012, [126 Stat. 905][/us/stat/126/905]; [Pub. L. 113–40, § 10(a)(2)(A)][/us/pl/113/40/s10/a/2/A], Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545].)
+([Pub. L. 106–393, title II, § 203][/us/pl/106/393/s203], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3901][/us/stat/122/3901]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], July 6, 2012, [126 Stat. 905][/us/stat/126/905]; [Pub. L. 113–40, § 10(a)(2)(A)][/us/pl/113/40/s10/a/2/A], Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545]; [Pub. L. 114–10, title V, § 524(c)(1)][/us/pl/114/10/s524/c/1], Apr. 16, 2015, [129 Stat. 180][/us/stat/129/180].)
 
  __Prior Provisions__ 
 
     A prior [section 203 of Pub. L. 106–393][/us/pl/106/393/s203] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–10][/us/pl/114/10] substituted “September 30 of each fiscal year (or a later date specified by the Secretary concerned for the fiscal year)” for “September 30 for fiscal year 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2013”.
 
     2013—Subsec. (a)(1). [Pub. L. 113–40][/us/pl/113/40] substituted “2013” for “2012”.
 
@@ -95,10 +97,13 @@
 [/us/stat/126/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F905
 [/us/pl/113/40/s10/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F2%2FA
 [/us/stat/127/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F545
+[/us/pl/114/10/s524/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fc%2F1
+[/us/stat/129/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F180
 [/us/pl/106/393/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs203
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 

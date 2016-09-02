@@ -493,7 +493,7 @@ Big Maria Mountains Wilderness, California Desert Conservation Area and Yuma Dis
 
     <td> 
 
-Big Rocks Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(13), Nov. 30, 2004, 118 Stat. 2408.  </td>
+Big Rocks Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(13), Nov. 30, 2004, 118 Stat. 2408.  </td>
 
   </tr>
 
@@ -1269,7 +1269,7 @@ Cloud Peak Wilderness, Bighorn National Forest, Wyoming.—Pub. L. 98–550, tit
 
     <td> 
 
-Clover Mountains Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(4), Nov. 30, 2004, 118 Stat. 2407.  </td>
+Clover Mountains Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(4), Nov. 30, 2004, 118 Stat. 2407.  </td>
 
   </tr>
 
@@ -1509,7 +1509,7 @@ Deep Creek Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §�
 
     <td> 
 
-Delamar Mountains Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(3), Nov. 30, 2004, 118 Stat. 2407.  </td>
+Delamar Mountains Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(3), Nov. 30, 2004, 118 Stat. 2407.  </td>
 
   </tr>
 
@@ -1781,7 +1781,7 @@ Escudilla Wilderness, Apache-Sitgreaves National Forest, Arizona.—Pub. L. 98�
 
     <td> 
 
-Far South Egans Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(11), Nov. 30, 2004, 118 Stat. 2408.  </td>
+Far South Egans Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(11), Nov. 30, 2004, 118 Stat. 2408.  </td>
 
   </tr>
 
@@ -1869,7 +1869,7 @@ Fort Niobrara Wilderness, Fort Niobrara National Wildlife Refuge, Nebraska.—Pu
 
     <td> 
 
-Fortification Range Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(10), Nov. 30, 2004, 118 Stat. 2408.  </td>
+Fortification Range Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(10), Nov. 30, 2004, 118 Stat. 2408.  </td>
 
   </tr>
 
@@ -3301,7 +3301,7 @@ McCormick Wilderness, Ottawa National Forest, Michigan.—Pub. L. 100–184, §�
 
     <td> 
 
-Meadow Valley Range Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(2), Nov. 30, 2004, 118 Stat. 2407.  </td>
+Meadow Valley Range Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(2), Nov. 30, 2004, 118 Stat. 2407.  </td>
 
   </tr>
 
@@ -3477,7 +3477,7 @@ Moosehorn Wilderness (Baring Unit), Moosehorn National Wildlife Refuge, Maine.�
 
     <td> 
 
-Mormon Mountains Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(1), Nov. 30, 2004, 118 Stat. 2407.  </td>
+Mormon Mountains Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(1), Nov. 30, 2004, 118 Stat. 2407.  </td>
 
   </tr>
 
@@ -3541,7 +3541,7 @@ Mount Hood Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 88–577, �
 
     <td> 
 
-Mt. Irish Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(14), Nov. 30, 2004, 118 Stat. 2408.  </td>
+Mt. Irish Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(14), Nov. 30, 2004, 118 Stat. 2408.  </td>
 
   </tr>
 
@@ -4149,7 +4149,7 @@ Paria Canyon-Vermilion Cliffs Wilderness, Arizona Strip District, Arizona, and C
 
     <td> 
 
-Parsnip Peak Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(8), Nov. 30, 2004, 118 Stat. 2407.  </td>
+Parsnip Peak Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(8), Nov. 30, 2004, 118 Stat. 2407.  </td>
 
   </tr>
 
@@ -5293,7 +5293,7 @@ South Nopah Range Wilderness, California Desert Conservation Area, of Bureau of 
 
     <td> 
 
-South Pahroc Range Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(5), Nov. 30, 2004, 118 Stat. 2407.  </td>
+South Pahroc Range Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(5), Nov. 30, 2004, 118 Stat. 2407.  </td>
 
   </tr>
 
@@ -5685,7 +5685,7 @@ Trinity Alps Wilderness, Ukiah District Conservation Area, of Bureau of Land Man
 
     <td> 
 
-Tunnel Spring Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(12), Nov. 30, 2004, 118 Stat. 2408.  </td>
+Tunnel Spring Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(12), Nov. 30, 2004, 118 Stat. 2408.  </td>
 
   </tr>
 
@@ -5877,7 +5877,7 @@ Wee Thump Joshua Tree Wilderness, of Bureau of Land Management, Nevada.—Pub. L
 
     <td> 
 
-Weepah Spring Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(7), Nov. 30, 2004, 118 Stat. 2407.  </td>
+Weepah Spring Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(7), Nov. 30, 2004, 118 Stat. 2407.  </td>
 
   </tr>
 

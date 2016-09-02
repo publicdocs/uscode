@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], [31 Stat. 790][/us/stat/31/790]; [Feb. 1, 1905, ch. 288, § 1][/us/act/1905-02-01/ch288/s1], [33 Stat. 628][/us/stat/33/628], insofar as it relates to rights-of-way through public lands, forests, and reservations, and the Yosemite, Sequoia, and General Grant National Parks is set out as [section 79 of this title][/us/usc/t16/s79] and [section 959 of Title 43][/us/usc/t43/s959], Public Lands, and insofar as it related to rights-of-way through national forests was set out as this section. [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, repealed this section insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
+    Section, [act Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], [31 Stat. 790][/us/stat/31/790]; [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793]; [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which authorized the Secretary of the Interior to permit the use of rights-of-way through the public lands, forest and other reservations of the United States, and the Yosemite, Sequoia, and General Grant national parks, California, for various public utility purposes, was omitted in view of the repeal of its provisions insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System by [Pub. L. 94–579][/us/pl/94/579]. Act Feb. 15, 1901 is also classified to [section 959 of Title 43][/us/usc/t43/s959], Public Lands, and was also classified to [section 79 of this title][/us/usc/t16/s79] prior to its omission from the Code.
 
 ----------
 
@@ -28,11 +28,12 @@
 
 [/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
 [/us/stat/31/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F790
-[/us/act/1905-02-01/ch288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288%2Fs1
-[/us/stat/33/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F628
-[/us/usc/t16/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79
-[/us/usc/t43/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs959
 [/us/pl/94/579/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs706%2Fa
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
+[/us/usc/t43/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs959
+[/us/usc/t16/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79
 
 

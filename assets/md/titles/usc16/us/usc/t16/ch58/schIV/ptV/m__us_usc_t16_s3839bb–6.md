@@ -175,7 +175,7 @@
 
         (2) __Commodity Credit Corporation__ 
 
-            As soon as practicable after February 7, 2014, the Secretary shall transfer to the ‘Bureau of Reclamation—Water and Related Resources’ account $150,000,000 from the funds of the Commodity Credit Corporation to carry out subsection (d), to remain available until expended.
+            As soon as practicable after February 7, 2014, the Secretary shall transfer to the “Bureau of Reclamation—Water and Related Resources” account $150,000,000 from the funds of the Commodity Credit Corporation to carry out subsection (d), to remain available until expended.
 
 ([Pub. L. 107–171, title II, § 2507][/us/pl/107/171/s2507], May 13, 2002, [116 Stat. 275][/us/stat/116/275], as amended by [Pub. L. 110–234, title II, § 2807][/us/pl/110/234/s2807], May 22, 2008, [122 Stat. 1090][/us/stat/122/1090]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2807, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1818; [Pub. L. 111–85, title II, § 207][/us/pl/111/85/s207], Oct. 28, 2009, [123 Stat. 2858][/us/stat/123/2858]; [Pub. L. 112–74, div. B, title II, § 208(a)][/us/pl/112/74/s208/a], Dec. 23, 2011, [125 Stat. 866][/us/stat/125/866]; [Pub. L. 113–79, title II, § 2507][/us/pl/113/79/s2507], Feb. 7, 2014, [128 Stat. 753][/us/stat/128/753].)
 

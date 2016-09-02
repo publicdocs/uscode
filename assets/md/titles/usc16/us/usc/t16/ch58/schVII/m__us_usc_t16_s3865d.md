@@ -83,7 +83,7 @@
 
  __References in Text__ 
 
-    Agricultural Act of 2014, referred to in subsec. (d)(2), is [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649]. Subtitle H of title II of the Act, is subtitle H (§§ 2701–2713) of title II of [Pub. L. 113–79][/us/pl/113/79]. For complete classification of subtitle H to the Code, see Tables.
+    The Agricultural Act of 2014, referred to in subsec. (d)(2), is [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649]. Subtitle H of title II of the Act, is subtitle H (§§ 2701–2713) of title II of [Pub. L. 113–79][/us/pl/113/79]. For complete classification of subtitle H to the Code, see Tables.
 
 ----------
 

@@ -109,7 +109,7 @@
 
                 <td> 
 
-             26 percent  </td>
+            26 percent  </td>
 
                 <td> 
 
@@ -125,7 +125,7 @@
 
                 <td> 
 
-             22 percent  </td>
+            22 percent  </td>
 
                 <td> 
 
@@ -141,7 +141,7 @@
 
                 <td> 
 
-             10 percent  </td>
+            10 percent  </td>
 
                 <td> 
 
@@ -173,7 +173,7 @@
 
                 <td> 
 
-             5 percent  </td>
+            5 percent  </td>
 
                 <td> 
 
@@ -189,7 +189,7 @@
 
                 <td> 
 
-             3 percent  </td>
+            3 percent  </td>
 
                 <td> 
 
@@ -205,7 +205,7 @@
 
                 <td> 
 
-             3 percent  </td>
+            3 percent  </td>
 
                 <td> 
 
@@ -221,7 +221,7 @@
 
                 <td> 
 
-             3 percent  </td>
+            3 percent  </td>
 
                 <td> 
 
@@ -241,7 +241,7 @@
 
                 <td> 
 
-            $5,650.  </td>
+            $5,650.    </td>
 
   </tr>
 

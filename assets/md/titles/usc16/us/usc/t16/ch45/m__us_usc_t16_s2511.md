@@ -15,7 +15,7 @@
 
 ## § 2511. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 95–625, title X, § 1012][/us/pl/95/625/s1012], Nov. 10, 1978, [92 Stat. 3543][/us/stat/92/3543], related to recordkeeping; audit and examination; access to books and records. See [section 200509 of Title 54][/us/usc/t54/s200509], National Park Service and Related Programs.
+    Section, [Pub. L. 95–625, title X, § 1012][/us/pl/95/625/s1012], Nov. 10, 1978, [92 Stat. 3543][/us/stat/92/3543], related to recordkeeping, audit and examination, and access to books and records. See [section 200509 of Title 54][/us/usc/t54/s200509], National Park Service and Related Programs.
 
 ----------
 

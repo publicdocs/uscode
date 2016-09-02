@@ -49,15 +49,15 @@
 
     (g) __Excavation or removal by Indian tribes or tribe members; excavation or removal of resources located on Indian lands__ 
 
-        (1) No permit shall be required under this section or under the Act of June 8, 1906, for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
+        (1) No permit shall be required under this section or under the Act of June 8, 1906, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
 
-        (2) In the case of any permits for the excavation or removal of any archaelogical  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “archaeological”. </sup></sup>  resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
+        (2) In the case of any permits for the excavation or removal of any archaelogical  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “archaeological”. </sup></sup>  resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 
     (h) __Permits issued under chapter 3203 of title 54__ 
 
-        (1) No permit or other permission shall be required under chapter 3203 of title 54, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should not appear. </sup></sup>  for any activity for which a permit is issued under this section.
+        (1) No permit or other permission shall be required under chapter 3203 of title 54, <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should not appear. </sup></sup>  for any activity for which a permit is issued under this section.
 
-        (2) Any permit issued under chapter 3203 of title 54,2 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,2 before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
+        (2) Any permit issued under chapter 3203 of title 54,3 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,3 before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 
     (i) __Compliance with provisions relating to undertakings on property listed in the National Register not required__ 
 
@@ -71,7 +71,7 @@
 
  __References in Text__ 
 
-    The Antiquities Act of 1906, referred to in subsec. (g)(1), is [act June 8, 1906, ch. 3060][/us/act/1906-06-08/ch3060], [34 Stat. 225][/us/stat/34/225], also known as the National Monument Act, which was classified generally to sections 431, 432, and 433 of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs by [Pub. L. 113–287][/us/pl/113/287], Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094]. See chapter 3203 of Title 54.
+    The Act of June 8, 1906, referred to in subsec. (g)(1), is [act June 8, 1906, ch. 3060][/us/act/1906-06-08/ch3060], [34 Stat. 225][/us/stat/34/225], known as the Antiquities Act of 1906, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as [section 1866(b) of Title 18][/us/usc/t18/s1866/b], Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
     Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of [Pub. L. 96–95][/us/pl/96/95], approved Oct. 31, 1979.
 
@@ -101,8 +101,10 @@
 [/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
 [/us/act/1906-06-08/ch3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fch3060
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
+[/us/usc/t18/s1866/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1866%2Fb
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/pl/113/287/s5/d/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F6%2FA%2Fi
 [/us/usc/t16/s431–433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431%E2%80%93433

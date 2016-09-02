@@ -15,7 +15,7 @@
 
 ## § 470b–1. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–754, title VI, § 603][/us/pl/89/754/s603], Nov. 3, 1966, [80 Stat. 1278][/us/stat/80/1278], related to grants to National Trust for Historic Preservation. See [section 302903 of Title 54][/us/usc/t54/s302903], National Park Service and Related Programs.
+    Section, [Pub. L. 89–754, title VI, § 603][/us/pl/89/754/s603], Nov. 3, 1966, [80 Stat. 1278][/us/stat/80/1278], related to grants to National Trust for Historic Preservation. See [section 302903(b) of Title 54][/us/usc/t54/s302903/b], National Park Service and Related Programs.
 
 ----------
 
@@ -28,6 +28,6 @@
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/89/754/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs603
 [/us/stat/80/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1278
-[/us/usc/t54/s302903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs302903
+[/us/usc/t54/s302903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs302903%2Fb
 
 

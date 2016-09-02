@@ -819,7 +819,7 @@ SUBCHAPTER VI—SEQUOIA AND YOSEMITE NATIONAL PARKS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs79" data-uslm-ref="/us/usc/t16/s79">79.</a>  </td>
 
-    <td> Rights-of-way for public utilities.  </td>
+    <td> Omitted.  </td>
 
   </tr>
 

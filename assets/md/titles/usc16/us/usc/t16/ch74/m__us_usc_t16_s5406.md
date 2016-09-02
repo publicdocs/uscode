@@ -15,7 +15,7 @@
 
 ## § 5406. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 103–451, § 7][/us/pl/103/451/s7], Nov. 2, 1994, [108 Stat. 4777][/us/stat/108/4777], related to definitions. See [section 308702 of Title 54][/us/usc/t54/s308702], National Park Service and Related Programs.
+    Section, [Pub. L. 103–451, § 7][/us/pl/103/451/s7], Nov. 2, 1994, [108 Stat. 4777][/us/stat/108/4777], provided definitions for this chapter. See [section 308702 of Title 54][/us/usc/t54/s308702], National Park Service and Related Programs.
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 470q. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, title II, § 209][/us/pl/89/665/s209], as added [Pub. L. 94–422, title II, § 201(9)][/us/pl/94/422/s201/9], Sept. 28, 1976, [90 Stat. 1322][/us/stat/90/1322], related to operations of Council and exemption. See [section 304105 of Title 54][/us/usc/t54/s304105], National Park Service and Related Programs.
+    Section, [Pub. L. 89–665, title II, § 209][/us/pl/89/665/s209], as added [Pub. L. 94–422, title II, § 201(9)][/us/pl/94/422/s201/9], Sept. 28, 1976, [90 Stat. 1322][/us/stat/90/1322], related to operations of Council and exemption. See section 304105(i), (j) of Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -29,6 +29,5 @@
 [/us/pl/89/665/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2Fs209
 [/us/pl/94/422/s201/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F422%2Fs201%2F9
 [/us/stat/90/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1322
-[/us/usc/t54/s304105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs304105
 
 

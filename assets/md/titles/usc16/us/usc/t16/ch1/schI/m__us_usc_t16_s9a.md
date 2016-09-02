@@ -15,7 +15,7 @@
 
 ## § 9a. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act Mar. 2, 1933, ch. 180, § 1][/us/act/1933-03-02/ch180/s1], [47 Stat. 1420][/us/stat/47/1420]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501], related to government of parks, etc.; violation of regulations as misdemeanor.
+    Section, acts [Mar. 2, 1933, ch. 180, § 1][/us/act/1933-03-02/ch180/s1], [47 Stat. 1420][/us/stat/47/1420]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501], related to government of parks, etc.; violation of regulations as misdemeanor.
 
 §§ 10, 10a. __Repealed.__  __[__  __Pub. L. 91–383, § 10(a)(2)__  __][/us/pl/91/383/s10/a/2]__  __, (3), as added__  __[__  __Pub. L. 94–458, § 2__  __][/us/pl/94/458/s2]__  __,__  __Oct. 7, 1976__  __,__  __[__  __90 Stat. 1941__  __][/us/stat/90/1941]__ 
 

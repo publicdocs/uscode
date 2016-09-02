@@ -35,7 +35,7 @@
 
         The Federal Energy Regulatory Commission and all other Federal agencies shall, promptly upon enactment of this chapter, inform the Secretary of the Interior and, where national forest lands are involved, the Secretary of Agriculture, of any proceedings, studies, or other activities within their jurisdiction which are now in progress and which affect or may affect any of the rivers specified in [section 1276(a) of this title][/us/usc/t16/s1276/a]. They shall likewise inform him of any such proceedings, studies, or other activities which are hereafter commenced or resumed before they are commenced or resumed.
 
-    (d) __Grants under Land and Water Conservation Fund Act of 1965__ 
+    (d) __Grants under chapter 2003 of title 54__ 
 
         Nothing in this section with respect to the making of a loan or grant shall apply to grants made under chapter 2003 of title 54.
 

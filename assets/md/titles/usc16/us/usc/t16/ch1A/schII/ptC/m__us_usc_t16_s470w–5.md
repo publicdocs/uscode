@@ -15,7 +15,7 @@
 
 ## § 470w–5. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, title III, § 306][/us/pl/89/665/s306], as added [Pub. L. 96–515, title V, § 501][/us/pl/96/515/s501], Dec. 12, 1980, [94 Stat. 3002][/us/stat/94/3002], related to National Museum for the Building Arts. See chapter 3055 of Title 54, National Park Service and Related Programs.
+    Section, [Pub. L. 89–665, title III, § 306][/us/pl/89/665/s306], as added [Pub. L. 96–515, title V, § 501][/us/pl/96/515/s501], Dec. 12, 1980, [94 Stat. 3002][/us/stat/94/3002], related to National Museum for the Building Arts. Subsecs. (a) to (c), (e), and (f) were repealed and restated in sections 305501 to 305505 of Title 54, National Park Service and Related Programs. Subsec. (d), which provided for renovation of the site of the Museum, was repealed as obsolete.
 
 ----------
 

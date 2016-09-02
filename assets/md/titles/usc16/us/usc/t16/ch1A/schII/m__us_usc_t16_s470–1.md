@@ -15,7 +15,7 @@
 
 ## § 470–1. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, § 2][/us/pl/89/665/s2], as added [Pub. L. 96–515, title I, § 101(a)][/us/pl/96/515/s101/a], Dec. 12, 1980, [94 Stat. 2988][/us/stat/94/2988]; amended [Pub. L. 102–575, title XL, § 4002][/us/pl/102/575/s4002], Oct. 30, 1992, [106 Stat. 4753][/us/stat/106/4753], related to declaration of policy of the Federal Government. See [section 300101 of Title 54][/us/usc/t54/s300101], National Park Service and Related Programs.
+    Section, [Pub. L. 89–665, § 2][/us/pl/89/665/s2], as added [Pub. L. 96–515, title I, § 101(a)][/us/pl/96/515/s101/a], Dec. 12, 1980, [94 Stat. 2988][/us/stat/94/2988]; amended [Pub. L. 102–575, title XL, § 4002][/us/pl/102/575/s4002], Oct. 30, 1992, [106 Stat. 4753][/us/stat/106/4753], related to declaration of policy of the Federal Government regarding historic preservation. See [section 300101 of Title 54][/us/usc/t54/s300101], National Park Service and Related Programs.
 
 ----------
 

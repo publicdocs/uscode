@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, is [Pub. L. 95–625][/us/pl/95/625], Nov. 10, 1978, [92 Stat. 3467][/us/stat/92/3467], known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Act note set out under [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs, and Tables.
+    This Act, referred to in text, is [Pub. L. 95–625][/us/pl/95/625], Nov. 10, 1978, [92 Stat. 3467][/us/stat/92/3467], known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -50,7 +50,6 @@
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/stat/92/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3467
-[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 [/us/pl/108/108/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs150

@@ -285,7 +285,7 @@
 
     Subsec. (f)(1)(A). [Pub. L. 113–79, § 2301(b)(2)(A)(i)][/us/pl/113/79/s2301/b/2/A/i], substituted “conservation reserve program established under subpart B of part I of subchapter IV and wetland reserve easements under [section 3865c of this title][/us/usc/t16/s3865c]” for “programs administered under subparts B and C of part I of subchapter IV”.
 
-    Subsec. (f)(1)(B). [Pub. L. 113–79, § 2606(3)(A)][/us/pl/113/79/s2606/3/A], substituteed “county” for “country”.
+    Subsec. (f)(1)(B). [Pub. L. 113–79, § 2606(3)(A)][/us/pl/113/79/s2606/3/A], substituted “county” for “country”.
 
     [Pub. L. 113–79, § 2301(b)(2)(A)(ii)][/us/pl/113/79/s2301/b/2/A/ii], substituted “a wetland reserve easement under [section 3865c of this title][/us/usc/t16/s3865c]” for “an easement acquired under subpart C of part I of subchapter IV”.
 

@@ -29,7 +29,7 @@
 
             (B) proposals for public facilities to be developed, expanded, or improved for the Recreation Area, including one or more visitor centers to accommodate both local and out-of-State visitors;
 
-            (C) plans for the management of natural and cultural resources in the Recreation Area, with emphasis on the preservation and long-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 ([16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.) and the National Historic Preservation Act <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  within the Recreation Area;
+            (C) plans for the management of natural and cultural resources in the Recreation Area, with emphasis on the preservation and long-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 ([16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.) and the National Historic Preservation Act  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  within the Recreation Area;
 
             (D) wildlife and fish resource management plans for the Recreation Area prepared in consultation with appropriate departments of the State of Nevada and using other available studies of the Recreation Area;
 
@@ -41,7 +41,7 @@
 
         (3) __Consultation__ 
 
-            The plans for the management of natural and cultural resources described in paragraph (2)(C) shall be prepared in consultation with the Advisory Council on Historic Preservation established by title II of the National Historic Preservation Act2 and the Nevada State Department of Conservation and Natural Resources, Division of Historic Preservation and Archaeology.
+            The plans for the management of natural and cultural resources described in paragraph (2)(C) shall be prepared in consultation with the Advisory Council on Historic Preservation established by chapter 3041 of title 54 and the Nevada State Department of Conservation and Natural Resources, Division of Historic Preservation and Archaeology.
 
     (b) __Wilderness study areas__ 
 
@@ -59,7 +59,11 @@
 
     The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is [Pub. L. 96–95][/us/pl/96/95], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721], as amended, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title][/us/usc/t16/s470aa] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (a)(2)(C) and (3), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq. Title II of the Act was classified generally to part B (§ 470i et seq.) of subchapter II of chapter 1A of this chapter. See [54 U.S.C. 304101][/us/usc/t54/s304101] et seq.
+    The National Historic Preservation Act, referred to in subsec. (a)(2)(C), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
+ __Codification__ 
+
+    In subsec. (a)(3), “chapter 3041 of title 54” substituted for “title II of the National Historic Preservation Act ([16 U.S.C. 470i][/us/usc/t16/s470i] et seq.)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -77,7 +81,11 @@
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
-[/us/usc/t54/s304101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs304101
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/usc/t16/s470i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470i
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

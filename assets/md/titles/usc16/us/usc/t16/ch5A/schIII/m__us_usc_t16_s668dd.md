@@ -889,7 +889,7 @@ Blackwater National Wildlife Refuge, Maryland.—Pub. L. 108–131, Nov. 22, 200
 
     <td> 
 
-Bogue Chitto National Wildlife Refuge, Louisiana-Mississippi.—Pub. L. 96–288, June 28, 1980, 94 Stat. 603; Pub. L. 99–191, § 3, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 101–233, § 17, Dec. 13, 1989, 103 Stat. 1978.  </td>
+Bogue Chitto National Wildlife Refuge, Louisiana and Mississippi.—Pub. L. 96–288, June 28, 1980, 94 Stat. 603; Pub. L. 99–191, § 3, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 101–233, § 17, Dec. 13, 1989, 103 Stat. 1978.  </td>
 
   </tr>
 

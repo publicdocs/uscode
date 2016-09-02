@@ -15,7 +15,7 @@
 
 ## § 469c–1. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 86–523, § 8][/us/pl/86/523/s8], as added [Pub. L. 96–205, title VI, § 608(b)(2)][/us/pl/96/205/s608/b/2], Mar. 12, 1980, [94 Stat. 92][/us/stat/94/92], defined term “State”. See [section 312501 of Title 54][/us/usc/t54/s312501], National Park Service and Related Programs.
+    Section, [Pub. L. 86–523, § 8][/us/pl/86/523/s8], as added [Pub. L. 96–205, title VI, § 608(b)(2)][/us/pl/96/205/s608/b/2], Mar. 12, 1980, [94 Stat. 92][/us/stat/94/92], defined “State” for former sections 469 to 469c–1 of this title. See [section 312501 of Title 54][/us/usc/t54/s312501], National Park Service and Related Programs.
 
 ----------
 

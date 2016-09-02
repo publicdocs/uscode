@@ -15,7 +15,7 @@
 
 ## § 431. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act June 8, 1906, ch. 3060, § 2][/us/act/1906-06-08/ch3060/s2], [34 Stat. 225][/us/stat/34/225], authorized declaration of national monuments. See section 320301(a)–(c) of Title 54, National Park Service and Related Programs.
+    Section, [act June 8, 1906, ch. 3060, § 2][/us/act/1906-06-08/ch3060/s2], [34 Stat. 225][/us/stat/34/225], authorized declaration of national monuments. See section 320301(a) to (c) of Title 54, National Park Service and Related Programs.
 
 ----------
 

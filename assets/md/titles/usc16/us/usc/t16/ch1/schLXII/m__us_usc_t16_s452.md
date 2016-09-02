@@ -15,7 +15,7 @@
 
 ## § 452. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act June 12, 1917, ch. 27, § 1][/us/act/1917-06-12/ch27/s1], [40 Stat. 153][/us/stat/40/153]; [May 24, 1922, ch. 199][/us/act/1922-05-24/ch199], [42 Stat. 590][/us/stat/42/590]; [Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], title III, § 301(95), [64 Stat. 844][/us/stat/64/844], related to revenues of national parks covered into Treasury.
+    Section, acts [June 12, 1917, ch. 27, § 1][/us/act/1917-06-12/ch27/s1], [40 Stat. 153][/us/stat/40/153]; [May 24, 1922, ch. 199][/us/act/1922-05-24/ch199], [42 Stat. 590][/us/stat/42/590]; [Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], title III, § 301(95), [64 Stat. 844][/us/stat/64/844], related to revenues of national parks covered into Treasury.
 
 ----------
 

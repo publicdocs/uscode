@@ -19,6 +19,8 @@
 
 §§ 1903 to 1906. __Repealed.__  __[__  __Pub. L. 113–287, § 7__  __][/us/pl/113/287/s7]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 3272__  __][/us/stat/128/3272]__ 
 
+    Sections 1903 to 1906 had been omitted from the Code prior to repeal by [Pub. L. 113–287][/us/pl/113/287].
+
     Section 1903, [Pub. L. 94–429, § 4][/us/pl/94/429/s4], Sept. 28, 1976, [90 Stat. 1343][/us/stat/90/1343], provided for a 4-year cessation of certain mining operations within the boundaries of Death Valley National Monument, Mount McKinley National Park, and Organ Pipe Cactus National Monument, subject to exceptions.
 
     Section 1904, [Pub. L. 94–429, § 5][/us/pl/94/429/s5], Sept. 28, 1976, [90 Stat. 1343][/us/stat/90/1343], provided for inapplicability of requirements for annual expenditures on mining claims to mining operations during the 4-year period under section 1903.
@@ -41,6 +43,7 @@
 [/us/usc/t54/s100732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100732
 [/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/94/429/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429%2Fs4
 [/us/stat/90/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1343
 [/us/pl/94/429/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429%2Fs5

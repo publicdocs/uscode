@@ -23,8 +23,6 @@
 
     Herein, referred to in text, means act Feb. 26, 1919, which is classified to sections 221, 222 to 228, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
-    The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
-
  __Codification__ 
 
     The words “prior to February 26, 1919,” were in the original “existing”, and refer to the date of enactment of act Feb. 26, 1919.

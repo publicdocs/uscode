@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section 411, [act May 15, 1896, ch. 182, § 1][/us/act/1896-05-15/ch182/s1], [29 Stat. 120][/us/stat/29/120]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501], related to military maneuvers. See [section 103301 of Title 54][/us/usc/t54/s103301], National Park Service and Related Programs.
+    Section, [act May 15, 1896, ch. 182, § 1][/us/act/1896-05-15/ch182/s1], [29 Stat. 120][/us/stat/29/120]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501], related to military maneuvers. See [section 103301 of Title 54][/us/usc/t54/s103301], National Park Service and Related Programs.
 
 ----------
 

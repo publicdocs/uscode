@@ -33,7 +33,7 @@
 
     (e) __Status of acquired land__ 
 
-        Until further action by the Congress, the lands acquired by or transferred to the Secretary of the Interior hereunder shall not become a part of Yosemite National Park, nor be subject to the laws and regulations governing said park, but the Secretary of the Interior shall have supervision, management, and control of the area and shall make and publish such rules and regulations as he may deem necessary and proper for its use and management: Provided, That he may grant nonexclusive privileges, leases, and permits for the use of land in the area and enter into contracts relating to the same, subject to the limitations and conditions applying to the similar authority provided in section 3  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
+        Until further action by the Congress, the lands acquired by or transferred to the Secretary of the Interior hereunder shall not become a part of Yosemite National Park, nor be subject to the laws and regulations governing said park, but the Secretary of the Interior shall have supervision, management, and control of the area and shall make and publish such rules and regulations as he may deem necessary and proper for its use and management: Provided, That he may grant nonexclusive privileges, leases, and permits for the use of land in the area and enter into contracts relating to the same, subject to the limitations and conditions applying to the similar authority provided in [section 3 of the Act of August 25, 1916][/us/act/1916-08-25/s3] ([39 Stat. 535][/us/stat/39/535]), as amended ([45 Stat. 235][/us/stat/45/235], 16 U.S.C., 1952 edition, sec. 3). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (f) __Availability of funds__ 
 
@@ -45,7 +45,7 @@
 
     Week’s law, referred to in subsec. (c), is [act Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], [36 Stat. 961][/us/stat/36/961], which is classified to sections 480, 500, 513 to 519, 521, 552 and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title][/us/usc/t16/s552] and Tables.
 
-    [Section 3 of this title][/us/usc/t16/s3], referred to in subsec. (e), was repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. See [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs.
+    [Section 3 of the Act of August 25, 1916][/us/act/1916-08-25/s3] ([39 Stat. 535][/us/stat/39/535]), as amended ([45 Stat. 235][/us/stat/45/235], 16 U.S.C., 1952 edition, sec. 3), referred to in subsec. (e), is section 3 of [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], which enacted [section 3 of this title][/us/usc/t16/s3]. Section 3 of the Act was repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272.
 
  __Codification__ 
 
@@ -62,15 +62,23 @@
 ----------
 ----------
 
+[/us/act/1916-08-25/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fs3
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/stat/45/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F235
 [/us/pl/85/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F922
 [/us/stat/72/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1772
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961
 [/us/usc/t16/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs552
+[/us/act/1916-08-25/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fs3
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/stat/45/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F235
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
-[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/pl/85/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F922
 [/us/pl/105/363/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F363%2Fs4
 [/us/stat/112/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3298

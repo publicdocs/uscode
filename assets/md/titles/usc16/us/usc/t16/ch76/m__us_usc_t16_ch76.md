@@ -105,9 +105,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5611.Repealed" data-uslm-ref="/us/usc/t16/s5611.Repealed">5611.Repealed.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5611" data-uslm-ref="/us/usc/t16/s5611">5611.</a>  </td>
 
-    <td>   </td>
+    <td> Repealed.  </td>
 
   </tr>
 

@@ -15,7 +15,7 @@
 
 ## § 5960. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 105–391, title IV, § 411][/us/pl/105/391/s411], Nov. 13, 1998, [112 Stat. 3514][/us/stat/112/3514], related to multiple contracts within park. See [section 101921 of Title 54][/us/usc/t54/s101921], National Park Service and Related Programs.
+    Section, [Pub. L. 105–391, title IV, § 411][/us/pl/105/391/s411], Nov. 13, 1998, [112 Stat. 3514][/us/stat/112/3514], related to multiple contracts within a park. See [section 101921 of Title 54][/us/usc/t54/s101921], National Park Service and Related Programs.
 
 ----------
 

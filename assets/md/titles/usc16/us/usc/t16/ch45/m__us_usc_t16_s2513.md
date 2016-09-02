@@ -15,7 +15,7 @@
 
 ## § 2513. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 95–625, title X, § 1014][/us/pl/95/625/s1014], Nov. 10, 1978, [92 Stat. 3544][/us/stat/92/3544], related to limitation of use of funds. See [section 200511 of Title 54][/us/usc/t54/s200511], National Park Service and Related Programs.
+    Section, [Pub. L. 95–625, title X, § 1014][/us/pl/95/625/s1014], Nov. 10, 1978, [92 Stat. 3544][/us/stat/92/3544], related to limitation of use of funds. See [section 200511(e) of Title 54][/us/usc/t54/s200511/e], National Park Service and Related Programs.
 
 ----------
 
@@ -28,6 +28,6 @@
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/95/625/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1014
 [/us/stat/92/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3544
-[/us/usc/t54/s200511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200511
+[/us/usc/t54/s200511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200511%2Fe
 
 

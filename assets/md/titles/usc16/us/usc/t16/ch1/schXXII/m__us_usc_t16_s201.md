@@ -19,10 +19,6 @@
 
 ([Aug. 9, 1916, ch. 302, § 1][/us/act/1916-08-09/ch302/s1], [39 Stat. 442][/us/stat/39/442]; [Jan. 26, 1931, ch. 47, § 4][/us/act/1931-01-26/ch47/s4], [46 Stat. 1043][/us/stat/46/1043]; [Pub. L. 92–510, § 4][/us/pl/92/510/s4], Oct. 19, 1972, [86 Stat. 918][/us/stat/86/918].)
 
- __References in Text__ 
-
-    The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
-
  __Amendments__ 
 
     1972—[Pub. L. 92–510][/us/pl/92/510] struck out provision that “The United States Reclamation Service may enter upon and utilize for flowage or other purposes any area within said park which may be necessary for the development and maintenance of a Government reclamation project.”

@@ -15,7 +15,7 @@
 
 ## § 5952. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 105–391, title IV, § 403][/us/pl/105/391/s403], Nov. 13, 1998, [112 Stat. 3504][/us/stat/112/3504], related to award of concessions contracts. See sections 101911 and 101913 of Title 54, National Park Service and Related Programs.
+    Section, [Pub. L. 105–391, title IV, § 403][/us/pl/105/391/s403], Nov. 13, 1998, [112 Stat. 3504][/us/stat/112/3504], related to award of concessions contracts. See sections 101911(2) and 101913 of Title 54, National Park Service and Related Programs.
 
 ----------
 

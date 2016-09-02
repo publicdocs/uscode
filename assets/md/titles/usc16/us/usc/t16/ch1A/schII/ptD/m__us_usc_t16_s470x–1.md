@@ -15,7 +15,7 @@
 
 ## § 470x–1. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, title IV, § 402][/us/pl/89/665/s402], as added [Pub. L. 102–575, title XL, § 4022][/us/pl/102/575/s4022], Oct. 30, 1992, [106 Stat. 4766][/us/stat/106/4766], related to definitions. See [section 305301 of Title 54][/us/usc/t54/s305301], National Park Service and Related Programs.
+    Section, [Pub. L. 89–665, title IV, § 402][/us/pl/89/665/s402], as added [Pub. L. 102–575, title XL, § 4022][/us/pl/102/575/s4022], Oct. 30, 1992, [106 Stat. 4766][/us/stat/106/4766], provided definitions for this part. See [section 305301 of Title 54][/us/usc/t54/s305301], National Park Service and Related Programs.
 
 ----------
 

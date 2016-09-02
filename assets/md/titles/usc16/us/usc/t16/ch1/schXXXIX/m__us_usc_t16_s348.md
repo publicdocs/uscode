@@ -23,8 +23,6 @@
 
     Herein, referred to in text, is act Feb. 26, 1917, which is classified to sections 347 to 350, 351 to 353, and 354 of this title. For complete classification of this Act to the Code, see Tables.
 
-    The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
-
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schXXXIX/m__us_usc_t16_s347.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXXIX/m__us_usc_t16_s349.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs348)

@@ -15,7 +15,7 @@
 
 ## § 5951. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 105–391, title IV, § 402][/us/pl/105/391/s402], Nov. 13, 1998, [112 Stat. 3503][/us/stat/112/3503], related to Congressional findings and statement of policy. See [section 101912 of Title 54][/us/usc/t54/s101912], National Park Service and Related Programs.
+    Section, [Pub. L. 105–391, title IV, § 402][/us/pl/105/391/s402], Nov. 13, 1998, [112 Stat. 3503][/us/stat/112/3503], related to congressional findings and statement of policy. See [section 101912 of Title 54][/us/usc/t54/s101912], National Park Service and Related Programs.
 
 ----------
 

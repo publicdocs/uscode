@@ -15,7 +15,7 @@
 
 ## § 6011. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 105–391, title VIII, § 801][/us/pl/105/391/s801], Nov. 13, 1998, [112 Stat. 3521][/us/stat/112/3521], related to United States Park Police.
+    Section, [Pub. L. 105–391, title VIII, § 801][/us/pl/105/391/s801], Nov. 13, 1998, [112 Stat. 3521][/us/stat/112/3521], related to evaluations of law enforcement programs in the National Park Service and of the United States Park Police.
 
 ----------
 

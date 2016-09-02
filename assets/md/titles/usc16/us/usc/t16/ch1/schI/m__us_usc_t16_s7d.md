@@ -15,7 +15,7 @@
 
 ## § 7d. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act Mar. 18, 1950, ch. 72, § 4][/us/act/1950-03-18/ch72/s4], [64 Stat. 28][/us/stat/64/28], related to Jurisdiction over airports; public operation. See [section 101501(e) of Title 54][/us/usc/t54/s101501/e], National Park Service and Related Programs.
+    Section, [act Mar. 18, 1950, ch. 72, § 4][/us/act/1950-03-18/ch72/s4], [64 Stat. 28][/us/stat/64/28], related to jurisdiction over airports; public operation. See [section 101501(e) of Title 54][/us/usc/t54/s101501/e], National Park Service and Related Programs.
 
 ----------
 

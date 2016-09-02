@@ -15,7 +15,7 @@
 
 ## § 12. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act July 3, 1926, ch. 792, § 1][/us/act/1926-07-03/ch792/s1], [44 Stat. 900][/us/stat/44/900], related to aid to visitors in emergencies. See section 102712(a) of Title.
+    Section, [act July 3, 1926, ch. 792, § 1][/us/act/1926-07-03/ch792/s1], [44 Stat. 900][/us/stat/44/900], related to aid to visitors in emergencies. See [section 102712(a) of Title 54][/us/usc/t54/s102712/a], National Park Service and Related Programs.
 
 ----------
 
@@ -28,5 +28,6 @@
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1926-07-03/ch792/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch792%2Fs1
 [/us/stat/44/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F900
+[/us/usc/t54/s102712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102712%2Fa
 
 

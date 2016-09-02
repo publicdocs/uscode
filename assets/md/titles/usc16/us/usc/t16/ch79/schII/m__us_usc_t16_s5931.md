@@ -15,7 +15,7 @@
 
 ## § 5931. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 105–391, title II, § 201][/us/pl/105/391/s201], Nov. 13, 1998, [112 Stat. 3499][/us/stat/112/3499], related to subchapter purposes.
+    Section, [Pub. L. 105–391, title II, § 201][/us/pl/105/391/s201], Nov. 13, 1998, [112 Stat. 3499][/us/stat/112/3499], related to purposes of this subchapter.
 
 ----------
 

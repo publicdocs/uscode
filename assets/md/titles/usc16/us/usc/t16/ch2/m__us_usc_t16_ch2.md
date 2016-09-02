@@ -595,7 +595,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs497e" data-uslm-ref="/us/usc/t16/s497e">497e.</a>  </td>
 
-    <td> . Enhancing Forest Service administration of rights-of-way and land uses.  </td>
+    <td> Enhancing Forest Service administration of rights-of-way and land uses.  </td>
 
   </tr>
 

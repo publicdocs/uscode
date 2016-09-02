@@ -15,7 +15,7 @@
 
 ## § 469a–2. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 86–523, § 4][/us/pl/86/523/s4], as added [Pub. L. 93–291, § 1(3)][/us/pl/93/291/s1/3], May 24, 1974, [88 Stat. 174][/us/stat/88/174], related to Survey by Secretary of the Interior. See [section 312503 of Title 54][/us/usc/t54/s312503], National Park Service and Related Programs.
+    Section, [Pub. L. 86–523, § 4][/us/pl/86/523/s4], as added [Pub. L. 93–291, § 1(3)][/us/pl/93/291/s1/3], May 24, 1974, [88 Stat. 174][/us/stat/88/174], related to survey by Secretary of the Interior for preservation of data. See [section 312503 of Title 54][/us/usc/t54/s312503], National Park Service and Related Programs.
 
 ----------
 

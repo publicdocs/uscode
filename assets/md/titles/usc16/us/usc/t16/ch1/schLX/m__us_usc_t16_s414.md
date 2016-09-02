@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 3, 1897, ch. 372][/us/act/1897-03-03/ch372], §§ 2, 5, [29 Stat. 621][/us/stat/29/621], 622, related to trespassing for hunting, or shooting. See [section 1865(d) of Title 18][/us/usc/t18/s1865/d], Crimes and Criminal Procedure.
+    Section, [act Mar. 3, 1897, ch. 372][/us/act/1897-03-03/ch372], §§ 2, 5, [29 Stat. 621][/us/stat/29/621], 622, related to trespassing for hunting or shooting. See [section 1865(d) of Title 18][/us/usc/t18/s1865/d], Crimes and Criminal Procedure.
 
 ----------
 

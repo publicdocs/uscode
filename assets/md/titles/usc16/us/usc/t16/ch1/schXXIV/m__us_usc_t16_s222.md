@@ -15,13 +15,13 @@
 
 ## § 222. Administration, concessions, and privileges; contracts for sale of water
 
-    The administration, protection, and promotion of Grand Canyon National Park shall be exercised under the direction of the Secretary of the Interior, by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title. All concessions for hotels, camps, transportation, and other privileges of every kind and nature for the accommodation or entertainment of visitors shall be let at public bidding to the best and most responsible bidder. Under such terms and conditions as he deems advisable and consistent with the requirements of [section 9701 of title 31][/us/usc/t31/s9701], the Secretary is authorized, without derogation of any of the water rights of the United States and notwithstanding any provision of law to the contrary, to sell by contract water located within Grand Canyon National Park for the use of customers within Tusayan, Arizona, to a nonprofit entity authorized to receive and distribute water within Tusayan, Arizona by the laws of the State of Arizona, upon his determination that such sale is not detrimental to the protection of the resources of Grand Canyon National Park or its visitors and that appropriate measures to provide for such protection, including a right of immediate termination, are included in the transaction.
+    The administration, protection, and promotion of Grand Canyon National Park shall be exercised under the direction of the Secretary of the Interior, by the National Park Service, subject to the provisions of the Act of August twenty-fifth, nineteen hundred and sixteen, entitled “An Act to establish a National Park Service, and for other purposes”. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  All concessions for hotels, camps, transportation, and other privileges of every kind and nature for the accommodation or entertainment of visitors shall be let at public bidding to the best and most responsible bidder. Under such terms and conditions as he deems advisable and consistent with the requirements of [section 9701 of title 31][/us/usc/t31/s9701], the Secretary is authorized, without derogation of any of the water rights of the United States and notwithstanding any provision of law to the contrary, to sell by contract water located within Grand Canyon National Park for the use of customers within Tusayan, Arizona, to a nonprofit entity authorized to receive and distribute water within Tusayan, Arizona by the laws of the State of Arizona, upon his determination that such sale is not detrimental to the protection of the resources of Grand Canyon National Park or its visitors and that appropriate measures to provide for such protection, including a right of immediate termination, are included in the transaction.
 
 ([Feb. 26, 1919, ch. 44, § 2][/us/act/1919-02-26/ch44/s2], [40 Stat. 1177][/us/stat/40/1177]; [Pub. L. 95–586, title XII][/us/pl/95/586], Nov. 3, 1978, [92 Stat. 2495][/us/stat/92/2495].)
 
  __References in Text__ 
 
-    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+    The Act of August twenty-fifth, nineteen hundred and sixteen, entitled “An Act to establish a National Park Service, and for other purposes”, referred to in text, is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and [section 1457 of Title 43][/us/usc/t43/s1457], Public Lands, and enacted provisions set out as a note under [section 1 of this title][/us/usc/t16/s1]. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
  __Codification__ 
 
@@ -51,8 +51,13 @@
 [/us/stat/40/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1177
 [/us/pl/95/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F586
 [/us/stat/92/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2495
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
-[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t31/s483a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs483a

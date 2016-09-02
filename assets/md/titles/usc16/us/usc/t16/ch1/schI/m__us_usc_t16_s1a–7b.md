@@ -15,7 +15,7 @@
 
 ## § 1a–7b. Protection of right of individuals to bear arms
 
-    (a)  __Congressional Findings__  __.—__ 
+    (a) __Congressional findings__ 
 
     Congress finds the following:
 
@@ -45,7 +45,7 @@
 
         (7) Federal laws should make it clear that the 2d amendment rights of an individual at a unit of the National Wildlife Refuge System should not be infringed.
 
-    (b)  __Protection of Right of Individuals To Bear arms in Units of the National Wildlife Refuge System__  __.—__ 
+    (b) __Protection of right of individuals to bear arms in units of the National Wildlife Refuge System__ 
 
     The Secretary shall not promulgate or enforce any regulation that prohibits an individual from possessing a firearm, including an assembled or functional firearm, in any unit of the National Wildlife Refuge System if—
 
@@ -57,7 +57,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–287, § 7][/us/pl/113/287/s7], which directed repeal of this section insofar as it related to the National Park System, could not be executed in light of the general amendment by [Pub. L. 113–287, § 4(d)][/us/pl/113/287/s4/d]. See below.
+    2014—[Pub. L. 113–287, § 7][/us/pl/113/287/s7], which directed repeal of this section insofar as it related to the National Park System, could not be executed because of the general amendment by [Pub. L. 113–287, § 4(d)][/us/pl/113/287/s4/d], which made section applicable only to the National Wildlife Refuge System. See below. For provisions related to the National Park System, see [section 104906 of Title 54][/us/usc/t54/s104906], National Park Service and Related Programs.
 
     [Pub. L. 113–287, § 4(d)][/us/pl/113/287/s4/d], amended section generally. Prior to amendment, section related to the right of Americans to exercise their Second Amendment rights in the National Park System and the National Wildlife Refuge System.
 
@@ -78,6 +78,7 @@
 [/us/stat/128/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3263
 [/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
 [/us/pl/113/287/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fd
+[/us/usc/t54/s104906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs104906
 [/us/pl/113/287/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fd
 [/us/pl/111/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs3
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602

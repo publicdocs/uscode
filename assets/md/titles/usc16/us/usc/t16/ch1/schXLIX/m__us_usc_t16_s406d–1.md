@@ -15,13 +15,13 @@
 
 ## § 406d–1. Establishment; boundaries; administration
 
-    For the purpose of including in one national park, for public benefit and enjoyment, the lands within the present Grand Teton National Park and a portion of the lands within the Jackson Hole National Monument, there is established a new “Grand Teton National Park”. The park shall comprise, subject to valid existing rights, all of the present Grand Teton National Park and all lands of the Jackson Hole National Monument that are not otherwise expressly provided for in this subchapter and sections 431a, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  451a, <sup>\[1\]</sup>  482m, 673b, and 673c of this title, and an order setting forth the boundaries of the park shall be prepared by the Secretary of the Interior and published in the Federal Register. The national park so established shall, so far as consistent with the provisions of this subchapter and said sections, be administered in accordance with the general statutes governing national parks, and shall supersede the present Grand Teton National Park and the Jackson Hole National Monument.
+    For the purpose of including in one national park, for public benefit and enjoyment, the lands within the present Grand Teton National Park and a portion of the lands within the Jackson Hole National Monument, there is established a new “Grand Teton National Park”. The park shall comprise, subject to valid existing rights, all of the present Grand Teton National Park and all lands of the Jackson Hole National Monument that are not otherwise expressly provided for in this Act, and an order setting forth the boundaries of the park shall be prepared by the Secretary of the Interior and published in the Federal Register. The national park so established shall, so far as consistent with the provisions of this Act, be administered in accordance with the general statutes governing national parks, and shall supersede the present Grand Teton National Park and the Jackson Hole National Monument.
 
 ([Sept. 14, 1950, ch. 950, § 1][/us/act/1950-09-14/ch950/s1], [64 Stat. 849][/us/stat/64/849].)
 
  __References in Text__ 
 
-    Sections 431a and 451a of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. See sections 320301(d) and 104907, respectively, of Title 54, National Park Service and Related Programs.
+    This Act, referred to in text, is [act Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], [64 Stat. 849][/us/stat/64/849], which enacted this section, sections 406d–2 to 406d–5, 431a, 451a, 482m, 673b, and 673c of this title, and provisions set out as notes below. Section 1 of the Act was partially repealed and restated as sections 104907 and 320301 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272. For complete classification of this Act to the Code, see Tables.
 
     The Jackson Hole National Monument, referred to in text, was created in Wyoming by Presidential Proc. No. 2578, Mar. 15, 1943, [57 Stat. 731][/us/stat/57/731]. For provisions transferring other lands of such former national monument, see sections 482m and 673b of this title.
 
@@ -29,7 +29,7 @@
 
  __Codification__ 
 
-    Section comprises all of section 1 of [act Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], [64 Stat. 849][/us/stat/64/849], except the final sentence, which repealed sections 406 to 406d of this title relating to the former Grand Teton National Park of Wyoming, and a proviso, formerly classified to sections 431a and 451a of this title, which stated that no further extension or establishment of national parks or monuments in Wyoming could be undertaken except by express authorization of Congress. See sections 104907 and 320301(d) of Title 54, National Park Service and Related Programs.
+    Section comprises all of section 1 of act Sept. 14, 1950, except the final sentence thereof. The final sentence repealed sections 406 to 406d of this title which established, and related to, the former “Grand Teton National Park of Wyoming”. It also contained a proviso, which was classified to sections 431a and 451a of this title and was repealed and restated as sections 104907 and 320301 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287]. See References in Text note above.
 
  __Grand Teton National Park Extension__ 
 
@@ -175,7 +175,7 @@
 
 > “SEC. 5. __ADMINISTRATION OF STATE LANDS ACQUIRED BY THE UNITED STATES.__ 
 
->     “The State lands conveyed to the United States under section 3(a) shall become part of Grand Teton National Park. The Secretary shall manage such lands under the Act of August 25, 1916 (commonly known as the ‘National Park Service Organic Act’) \[see Short Title of 1916 Act note under [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs\], and other laws, rules, and regulations applicable to Grand Teton National Park.
+>     “The State lands conveyed to the United States under section 3(a) shall become part of Grand Teton National Park. The Secretary shall manage such lands under the Act of August 25, 1916 (commonly known as the ‘National Park Service Organic Act’) \[[act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], see Tables for classification\], and other laws, rules, and regulations applicable to Grand Teton National Park.
 
 > “SEC. 6. __AUTHORIZATION FOR APPROPRIATIONS.__ 
 
@@ -191,19 +191,19 @@
 
 The third sentence of [act Sept. 14, 1950, ch. 950, § 9][/us/act/1950-09-14/ch950/s9], [64 Stat. 853][/us/stat/64/853], provided that: 
 
-> “The remaining unexpended balance of any funds appropriated for the present Grand Teton National Park and the Jackson Hole National Monument shall be available for expenditure in connection with the administration of the Grand Teton National Park established by this Act \[this subchapter, former sections 431a and 451a of this title, and sections 482m, 673b, and 673c of this title\]”.
+> “The remaining unexpended balance of any funds appropriated for the present Grand Teton National Park and the Jackson Hole National Monument shall be available for expenditure in connection with the administration of the Grand Teton National Park established by this Act \[see References in Text note above\]”.
 
  __Revocation of Temporary Withdrawals of Public Lands__ 
 
 [Act Sept. 14, 1950, ch. 950, § 8][/us/act/1950-09-14/ch950/s8], [64 Stat. 853][/us/stat/64/853], provided that: 
 
-> “All temporary withdrawals of public lands made by Executive order in aid of legislation pertaining to parks, monuments, or recreational areas, adjacent to the Grand Teton National Park as established by this Act \[this subchapter, sections 431a and 451a of this title, and sections 482m, 673b, and 673c of this title\] are hereby revoked.”
+> “All temporary withdrawals of public lands made by Executive order in aid of legislation pertaining to parks, monuments, or recreational areas, adjacent to the Grand Teton National Park as established by this Act \[see References in Text note above\] are hereby revoked.”
 
  __Repeal of Inconsistent Laws__ 
 
 The second sentence of [act Sept. 14, 1950, ch. 950, § 9][/us/act/1950-09-14/ch950/s9], [64 Stat. 853][/us/stat/64/853], provided: 
 
-> “All provisions of law inconsistent with the provisions of this act \[this subchapter, sections 431a and 451a of this title, and sections 482m, 673b, and 673c of this title\] are hereby repealed to the extent of such inconsistency”.
+> “All provisions of law inconsistent with the provisions of this act \[see References in Text note above\] are hereby repealed to the extent of such inconsistency”.
 
 ----------
 
@@ -214,18 +214,19 @@ The second sentence of [act Sept. 14, 1950, ch. 950, § 9][/us/act/1950-09-14/
 
 [/us/act/1950-09-14/ch950/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs1
 [/us/stat/64/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F849
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
-[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/stat/57/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F731
 [/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F849
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/stat/57/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F731
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/110/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F47
 [/us/stat/121/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F241
 [/us/pl/108/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F32
 [/us/stat/117/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F779
 [/us/usc/t43/s1702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1702%2Fe
 [/us/usc/t43/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1712
-[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/act/1955-08-09/ch635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch635
 [/us/stat/69/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F555
 [/us/act/1950-09-14/ch950/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs9

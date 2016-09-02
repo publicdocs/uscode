@@ -15,7 +15,7 @@
 
 ## § 468. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act Oct. 26, 1949, ch. 755, § 1][/us/act/1949-10-26/ch755/s1], [63 Stat. 927][/us/stat/63/927], established the National Trust for Historic Preservation in the United States. See [section 312102 of Title 54][/us/usc/t54/s312102], National Park Service and Related Programs.’
+    Section, [act Oct. 26, 1949, ch. 755, § 1][/us/act/1949-10-26/ch755/s1], [63 Stat. 927][/us/stat/63/927], established the National Trust for Historic Preservation in the United States. See [section 312102 of Title 54][/us/usc/t54/s312102], National Park Service and Related Programs.
 
 ----------
 

@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    The Act entitled “An Act to authorize the establishment of Pecos National Monument in the State of New Mexico, and for other purposes” approved June 28, 1965, referred to in subsec. (c), is [Pub. L. 89–54][/us/pl/89/54], June 28, 1965, [79 Stat. 195][/us/stat/79/195], which enacted provisions listed in a Miscellaneous National Monuments table set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs.
+    The Act entitled “An Act to authorize the establishment of Pecos National Monument in the State of New Mexico, and for other purposes” approved June 28, 1965 ([79 Stat. 195][/us/stat/79/195]), referred to in subsec. (c), is [Pub. L. 89–54][/us/pl/89/54], June 28, 1965, [79 Stat. 195][/us/stat/79/195], which enacted provisions listed in a Miscellaneous National Monuments table set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs.
 
  __Codification__ 
 
@@ -48,6 +48,7 @@
 [/us/stat/79/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F195
 [/us/pl/101/313/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2Fs202
 [/us/stat/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F278
+[/us/stat/79/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F195
 [/us/pl/89/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F54
 [/us/stat/79/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F195
 [/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301

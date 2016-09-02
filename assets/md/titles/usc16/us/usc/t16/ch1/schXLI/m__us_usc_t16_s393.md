@@ -15,7 +15,7 @@
 
 ## § 393. Entries under land laws; rights-of-way; lands excluded
 
-    Nothing herein contained shall affect any valid claim, location, or entry existing under the land laws of the United States prior to August 1, 1916, whether for homestead, mineral, right-of-way, or any other purpose whatsoever, or shall affect the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land. Whenever consistent with the primary purposes of the park, [section 79 of this title][/us/usc/t16/s79] shall be applicable to the lands included within the park. The Secretary of the Interior may, in his discretion and upon such conditions as he may deem wise, grant easements or rights-of-way for steam, electric, or similar transportation upon or across the park. No lands located within the park boundaries held in private or municipal ownership prior to August 1, 1916, shall be affected by or subject to the provisions of this section and sections 391 and 394 of this title.
+    Nothing herein contained shall affect any valid claim, location, or entry existing under the land laws of the United States prior to August 1, 1916, whether for homestead, mineral, right-of-way, or any other purpose whatsoever, or shall affect the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land. Whenever consistent with the primary purposes of the park the Act of February fifteenth, nineteen hundred and one, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  applicable to the location of rights of way in certain national parks and the national forests for irrigation and other purposes, shall be and remain applicable to the lands included within the park. The Secretary of the Interior may, in his discretion and upon such conditions as he may deem wise, grant easements or rights-of-way for steam, electric, or similar transportation upon or across the park. No lands located within the park boundaries held in private or municipal ownership prior to August 1, 1916, shall be affected by or subject to the provisions of this section and sections 391 and 394 of this title.
 
 ([Aug. 1, 1916, ch. 264][/us/act/1916-08-01/ch264], §§ 2, 3, [39 Stat. 433][/us/stat/39/433], 434.)
 
@@ -23,9 +23,7 @@
 
     Herein, referred to in text, means act Aug. 1, 1916, which is classified to sections 391, 393 and 394 of this title. For complete classification of this Act to the Code, see Tables.
 
-    The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
-
-    [Section 79 of this title][/us/usc/t16/s79], referred to in text, was in the original a reference to [act Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], [31 Stat. 790][/us/stat/31/790]. For further details, see Codification note set out under [section 79 of this title][/us/usc/t16/s79].
+    The Act of February fifteenth, nineteen hundred and one, referred to in text, is [act Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], [31 Stat. 790][/us/stat/31/790], which is classified to [section 959 of Title 43][/us/usc/t43/s959], Public Lands. The Act, insofar as it related to National Park System units, was repealed and restated as [section 100902(a) of Title 54][/us/usc/t54/s100902/a], National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272.
 
  __Codification__ 
 
@@ -42,13 +40,14 @@
 ----------
 ----------
 
-[/us/usc/t16/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79
 [/us/act/1916-08-01/ch264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-01%2Fch264
 [/us/stat/39/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F433
-[/us/usc/t16/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79
 [/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
 [/us/stat/31/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F790
-[/us/usc/t16/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79
+[/us/usc/t43/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs959
+[/us/usc/t54/s100902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100902%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t16/s396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396b
 
 

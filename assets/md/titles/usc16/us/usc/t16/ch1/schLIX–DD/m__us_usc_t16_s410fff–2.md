@@ -23,7 +23,7 @@
 
     (b) __Administration__ 
 
-        Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park  <sup>\[1\]</sup>  in accordance with this subchapter and laws generally applicable to units of the National Park System, including sections 1, 2, 3, 4,2 and 461 to 467 2 of this title.
+        Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park 1 to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park 1 in accordance with this subchapter and laws generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([16 U.S.C. 1][/us/usc/t16/s1], 2–4), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  and the Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes, <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by closing quotation marks. </sup></sup>  approved August 21, 1935 ([16 U.S.C. 461][/us/usc/t16/s461] et seq.). <sup>\[2\]</sup> 
 
     (c) __Maps and legal description__ 
 
@@ -65,9 +65,9 @@
 
     Upon enactment of this subchapter, referred to in subsec. (b), was in the original “upon enactment of this title”, which was translated as reading “upon enactment of this act”, meaning upon enactment of [Pub. L. 106–76][/us/pl/106/76], which was approved Oct. 21, 1999, to reflect the probable intent of Congress.
 
-    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (b), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+    The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([16 U.S.C. 1][/us/usc/t16/s1], 2–4), referred to in subsec. (b), is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and [section 1457 of Title 43][/us/usc/t43/s1457], Public Lands, and enacted provisions set out as a note under [section 1 of this title][/us/usc/t16/s1]. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
-    Sections 461 to 467 of this title, referred to in subsec. (b), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+    The Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes, approved August 21, 1935 ([16 U.S.C. 461][/us/usc/t16/s461] et seq.), referred to in subsec. (b), is [act Aug. 21, 1935, ch. 593][/us/act/1935-08-21/ch593], [49 Stat. 666][/us/stat/49/666], known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18][/us/usc/t18/s1866/a], Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
     The Wilderness Act, referred to in subsec. (e)(2), is [Pub. L. 88–577][/us/pl/88/577], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title][/us/usc/t16/s1131] and Tables.
 
@@ -107,6 +107,8 @@
 ----------
 
 [/us/usc/t16/s410fff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410fff%E2%80%931
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/usc/t16/s410fff–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410fff%E2%80%933%2Fa
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/pl/106/76/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs4
@@ -114,11 +116,21 @@
 [/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
 [/us/stat/117/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1355
 [/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
-[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
-[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
+[/us/act/1935-08-21/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch593
+[/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
+[/us/usc/t18/s1866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1866%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

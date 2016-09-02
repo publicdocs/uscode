@@ -179,14 +179,6 @@ Cordell Bank National Marine Sanctuary.—54 F.R. 22417, May 24, 1989; 15 C.F.R.
 
     <td> 
 
-Fagatele Bay National Marine Sanctuary.—51 F.R. 15878, Apr. 29, 1986; 15 C.F.R. part 922, subpart J.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
 Florida Keys National Marine Sanctuary.—15 C.F.R. part 922, subpart P; Pub. L. 101–605, Nov. 16, 1990, 104 Stat. 3089, as amended by Pub. L. 102–587, title II, §§ 2206, 2209, Nov. 4, 1992, 106 Stat. 5053, 5054.  </td>
 
   </tr>
@@ -244,6 +236,14 @@ MONITOR National Marine Sanctuary.—40 F.R. 5349, Feb. 5, 1975; 40 F.R. 21706, 
     <td> 
 
 Monterey Bay National Marine Sanctuary.—57 F.R. 43310, Sept. 18, 1992; 15 C.F.R. part 922, subpart M; Pub. L. 100–627, title II, § 205(a)(3), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–368, title I, § 102, Sept. 23, 1992, 106 Stat. 1119; Pub. L. 102–587, title II, § 2203, Nov. 4, 1992, 106 Stat. 5048.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+National Marine Sanctuary of American Samoa (former Fagatele Bay National Marine Sanctuary).—51 F.R. 15878, Apr. 29, 1986; 15 C.F.R. part 922, subpart J; 77 F.R. 43942, July 26, 2012, effective Oct. 15, 2012 (see 77 F.R. 65815).  </td>
 
   </tr>
 

@@ -15,9 +15,9 @@
 
 ## § 460l–6d. Commercial filming
 
-    (a) __Commercial Filming Fee.—__ 
+    (a) __Commercial filming fee__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general__ 
 
         The Secretary of the Interior or the Secretary of Agriculture (hereafter individually referred to as the “Secretary” with respect to land (except land in a System unit as defined in [section 100102 of title 54][/us/usc/t54/s100102]) under their respective jurisdictions) shall require a permit and shall establish a reasonable fee for commercial filming activities or similar projects on Federal land administered by the Secretary. The fee shall provide a fair return to the United States and shall be based on the following criteria:
 
@@ -27,25 +27,25 @@
 
             (C) The amount and type of equipment present.
 
-        (2)  __Other factors__  __.—__ 
+        (2) __Other factors__ 
 
-        The Secretary may include other factors in determining an appropriate fee as the Secretary considers necessary.
+            The Secretary may include other factors in determining an appropriate fee as the Secretary considers necessary.
 
-    (b)  __Recovery of Costs__  __.—__ 
+    (b) __Recovery of costs__ 
 
-    The Secretary shall collect any costs incurred as a result of filming activities or similar project, including administrative and personnel costs. All costs recovered shall be in addition to the fee assessed in subsection (a).
+        The Secretary shall collect any costs incurred as a result of filming activities or similar project, including administrative and personnel costs. All costs recovered shall be in addition to the fee assessed in subsection (a).
 
-    (c) __Still Photography.—__ 
+    (c) __Still photography__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general__ 
 
-        Except as provided in paragraph (2), the Secretary shall not require a permit nor assess a fee for still photography on land administered by the Secretary if such photography takes place where members of the public are generally allowed. The Secretary may require a permit, fee, or both, if such photography takes place at other locations where members of the public are generally not allowed, or where additional administrative costs are likely.
+            Except as provided in paragraph (2), the Secretary shall not require a permit nor assess a fee for still photography on land administered by the Secretary if such photography takes place where members of the public are generally allowed. The Secretary may require a permit, fee, or both, if such photography takes place at other locations where members of the public are generally not allowed, or where additional administrative costs are likely.
 
-        (2)  __Exception__  __.—__ 
+        (2) __Exception__ 
 
-        The Secretary shall require and shall establish a reasonable fee for still photography that uses models or props which are not a part of the site’s natural or cultural resources or administrative facilities.
+            The Secretary shall require and shall establish a reasonable fee for still photography that uses models or props which are not a part of the site’s natural or cultural resources or administrative facilities.
 
-    (d)  __Protection of Resources__  __.—__ 
+    (d) __Protection of resources__ 
 
     The Secretary shall not permit any filming, still photography or other related activity if the Secretary determines that—
 
@@ -55,19 +55,19 @@
 
         (3) the activity poses health or safety risks to the public.
 
-    (e) __Use of Proceeds.—__ 
+    (e) __Use of proceeds__ 
 
-        (1)  __Fees__  __.—__ 
+        (1) __Fees__ 
 
-        All fees collected under this section shall be available for expenditure by the Secretary, without further appropriation and shall remain available until expended.
+            All fees collected under this section shall be available for expenditure by the Secretary, without further appropriation and shall remain available until expended.
 
-        (2)  __Costs__  __.—__ 
+        (2) __Costs__ 
 
-        All costs recovered under this section shall be available for expenditure by the Secretary, without further appropriation, at the site where the costs are collected and shall remain available until expended.
+            All costs recovered under this section shall be available for expenditure by the Secretary, without further appropriation, at the site where the costs are collected and shall remain available until expended.
 
-    (f)  __Processing of Permit Applications__  __.—__ 
+    (f) __Processing of permit applications__ 
 
-    The Secretary shall establish a process to ensure that the Secretary responds in a timely manner to permit applicants for commercial filming, still photography, or other activity.
+        The Secretary shall establish a process to ensure that the Secretary responds in a timely manner to permit applicants for commercial filming, still photography, or other activity.
 
 ([Pub. L. 106–206, § 1][/us/pl/106/206/s1], May 26, 2000, [114 Stat. 314][/us/stat/114/314]; [Pub. L. 113–287, § 4(c)][/us/pl/113/287/s4/c], Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261].)
 
@@ -77,7 +77,7 @@
 
  __Codification__ 
 
-    Section was not enacted as part of the Land and Water Conservation Fund Act of 1965 which comprises this part.
+    Section was not enacted as part of the Land and Water Conservation Fund Act of 1965.
 
  __Amendments__ 
 

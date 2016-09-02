@@ -15,7 +15,7 @@
 
 ## § 2305. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 95–344, title III, § 305][/us/pl/95/344/s305], Aug. 15, 1978, [92 Stat. 479][/us/stat/92/479], related to report to Congress.
+    Section, [Pub. L. 95–344, title III, § 305][/us/pl/95/344/s305], Aug. 15, 1978, [92 Stat. 479][/us/stat/92/479], required a report to Congress within 3 years of Aug. 15, 1978.
 
 ----------
 

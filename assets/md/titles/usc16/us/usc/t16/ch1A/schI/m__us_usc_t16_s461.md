@@ -15,7 +15,7 @@
 
 ## § 461. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act Aug. 21, 1935, ch. 593, § 1][/us/act/1935-08-21/ch593/s1], [49 Stat. 666][/us/stat/49/666], declared national policy with respect to historic sites. See [section 320101 of Title 54][/us/usc/t54/s320101], National Park Service and Related Programs.
+    Section, [act Aug. 21, 1935, ch. 593, § 1][/us/act/1935-08-21/ch593/s1], [49 Stat. 666][/us/stat/49/666], declared national policy with respect to historic sites, buildings, and objects of national significance. See [section 320101 of Title 54][/us/usc/t54/s320101], National Park Service and Related Programs.
 
 ----------
 

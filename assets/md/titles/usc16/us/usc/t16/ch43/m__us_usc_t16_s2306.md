@@ -15,7 +15,7 @@
 
 ## § 2306. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 95–344, title III, § 306][/us/pl/95/344/s306], Aug. 15, 1978, [92 Stat. 480][/us/stat/92/480], related to authorization of appropriations; availability of amounts.
+    Section, [Pub. L. 95–344, title III, § 306][/us/pl/95/344/s306], Aug. 15, 1978, [92 Stat. 480][/us/stat/92/480], related to authorizations of appropriations for fiscal years 1979 to 1981 and availability of amounts.
 
 ----------
 

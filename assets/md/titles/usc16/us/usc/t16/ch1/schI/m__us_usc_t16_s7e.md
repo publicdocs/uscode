@@ -15,7 +15,7 @@
 
 ## § 7e. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act Mar. 18, 1950, ch. 72, § 5][/us/act/1950-03-18/ch72/s5], [64 Stat. 28][/us/stat/64/28], provided definitions. See [section 101501(a) of Title 54][/us/usc/t54/s101501/a], National Park Service and Related Programs.
+    Section, [act Mar. 18, 1950, ch. 72, § 5][/us/act/1950-03-18/ch72/s5], [64 Stat. 28][/us/stat/64/28], provided definitions for sections 7a to 7e. See [section 101501(a) of Title 54][/us/usc/t54/s101501/a], National Park Service and Related Programs.
 
 ----------
 

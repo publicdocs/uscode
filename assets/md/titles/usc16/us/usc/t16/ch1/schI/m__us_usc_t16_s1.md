@@ -15,7 +15,7 @@
 
 ## § 1. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act Aug. 25, 1916, ch. 408, § 1][/us/act/1916-08-25/ch408/s1], [39 Stat. 535][/us/stat/39/535]; Ex. Ord. No. 6166, § 2, June 10, 1933; [Mar. 2, 1934, ch. 38, § 1][/us/act/1934-03-02/ch38/s1], [48 Stat. 389][/us/stat/48/389]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 104–333, div. I, title VIII, § 814(e)(1)][/us/pl/104/333/s814/e/1], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196], related to creation of National Park Service. See sections 100101, 100301, and 100302 of Title 54, National Park Service and Related Programs.
+    Section, [act Aug. 25, 1916, ch. 408, § 1][/us/act/1916-08-25/ch408/s1], [39 Stat. 535][/us/stat/39/535]; Ex. Ord. No. 6166, § 2, June 10, 1933; [Mar. 2, 1934, ch. 38, § 1][/us/act/1934-03-02/ch38/s1], [48 Stat. 389][/us/stat/48/389]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 104–333, div. I, title VIII, § 814(e)(1)][/us/pl/104/333/s814/e/1], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196], related to creation of National Park Service. See sections 100101(a), 100301, and 100302(a)(1), (2), (b), (c) of Title 54, National Park Service and Related Programs.
 
  __Short Title of 2008 Amendment__ 
 
@@ -35,7 +35,7 @@
 
 > “This Act \[amending [section 460kk of this title][/us/usc/t16/s460kk]\] may be cited as the ‘Santa Monica Mountains National Recreation Area Boundary Adjustment Act’.”
 
- __Short Title of 2000 Amendments__ 
+ __Short Title of 2000 Amendment__ 
 
 [Pub. L. 106–510, § 1][/us/pl/106/510/s1], Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that: 
 

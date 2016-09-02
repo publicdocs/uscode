@@ -107,7 +107,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>l–1 to 469l–3.  </td>
 
-    <td> Repealed.  </td>
+    <td> Transferred or Repealed.  </td>
 
   </tr>
 

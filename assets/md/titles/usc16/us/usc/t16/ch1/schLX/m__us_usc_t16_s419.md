@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], [31 Stat. 790][/us/stat/31/790], which related to rights-of-way for electrical plants, was transferred to [section 79 of this title][/us/usc/t16/s79].
+    Section, [act Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], [31 Stat. 790][/us/stat/31/790], which related to rights-of-way for electrical plants, was transferred to [section 79 of this title][/us/usc/t16/s79] and subsequently omitted from the Code. [Act Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], is also classified to [section 959 of Title 43][/us/usc/t43/s959], Public Lands.
 
 ----------
 
@@ -29,5 +29,7 @@
 [/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
 [/us/stat/31/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F790
 [/us/usc/t16/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79
+[/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
+[/us/usc/t43/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs959
 
 

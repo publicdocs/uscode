@@ -373,7 +373,7 @@
 
 >         “(1)  __Report to plum creek__  __.—__ 
 
->         No later than 180 days after enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete determinations and consultation under division A of subtitle III of title 54, United States Code, and submit a report to Plum Creek and other consulting parties under the National Historic Preservation Act listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required.
+>         No later than 180 days after enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete determinations and consultation under division A of subtitle III of title 54, United States Code, and submit a report to Plum Creek and other consulting parties under the National Historic Preservation Act \[probably should be “division A of subtitle III of title 54”\] listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required.
 
 >         “(2)  __Plum creek response__  __.—__ 
 

@@ -15,7 +15,7 @@
 
 ## § 470m. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, title II, § 205][/us/pl/89/665/s205], Oct. 15, 1966, [80 Stat. 919][/us/stat/80/919]; [Pub. L. 91–243, § 1(g)][/us/pl/91/243/s1/g], May 9, 1970, [84 Stat. 204][/us/stat/84/204]; [Pub. L. 94–422, title II, § 201(7)][/us/pl/94/422/s201/7], Sept. 28, 1976, [90 Stat. 1321][/us/stat/90/1321]; [Pub. L. 96–515, title III, § 301(i)][/us/pl/96/515/s301/i], (j), Dec. 12, 1980, [94 Stat. 2999][/us/stat/94/2999]; [Pub. L. 104–333, div. I, title V, § 509(c)(4)][/us/pl/104/333/s509/c/4], Nov. 12, 1996, [110 Stat. 4158][/us/stat/110/4158]; [Pub. L. 106–176, title I, § 109][/us/pl/106/176/s109], Mar. 10, 2000, [114 Stat. 26][/us/stat/114/26]; [Pub. L. 109–453, § 1(e)][/us/pl/109/453/s1/e], Dec. 22, 2006, [120 Stat. 3367][/us/stat/120/3367], related to administration. See [section 304105 of Title 54][/us/usc/t54/s304105], National Park Service and Related Programs.
+    Section, [Pub. L. 89–665, title II, § 205][/us/pl/89/665/s205], Oct. 15, 1966, [80 Stat. 919][/us/stat/80/919]; [Pub. L. 91–243, § 1(g)][/us/pl/91/243/s1/g], May 9, 1970, [84 Stat. 204][/us/stat/84/204]; [Pub. L. 94–422, title II, § 201(7)][/us/pl/94/422/s201/7], Sept. 28, 1976, [90 Stat. 1321][/us/stat/90/1321]; [Pub. L. 96–515, title III, § 301(i)][/us/pl/96/515/s301/i], (j), Dec. 12, 1980, [94 Stat. 2999][/us/stat/94/2999]; [Pub. L. 104–333, div. I, title V, § 509(c)(4)][/us/pl/104/333/s509/c/4], Nov. 12, 1996, [110 Stat. 4158][/us/stat/110/4158]; [Pub. L. 106–176, title I, § 109][/us/pl/106/176/s109], Mar. 10, 2000, [114 Stat. 26][/us/stat/114/26]; [Pub. L. 109–453, § 1(e)][/us/pl/109/453/s1/e], Dec. 22, 2006, [120 Stat. 3367][/us/stat/120/3367], related to administration of the Council. See section 304105(a) to (g) of Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -40,6 +40,5 @@
 [/us/stat/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F26
 [/us/pl/109/453/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F453%2Fs1%2Fe
 [/us/stat/120/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3367
-[/us/usc/t54/s304105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs304105
 
 

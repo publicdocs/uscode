@@ -15,7 +15,7 @@
 
 ## § 470x–5. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, title IV, § 406][/us/pl/89/665/s406], as added [Pub. L. 102–575, title XL, § 4022][/us/pl/102/575/s4022], Oct. 30, 1992, [106 Stat. 4767][/us/stat/106/4767], related to general provisions. See [section 305305 of Title 54][/us/usc/t54/s305305], National Park Service and Related Programs.
+    Section, [Pub. L. 89–665, title IV, § 406][/us/pl/89/665/s406], as added [Pub. L. 102–575, title XL, § 4022][/us/pl/102/575/s4022], Oct. 30, 1992, [106 Stat. 4767][/us/stat/106/4767], related to grants and transfers, contracts and cooperative agreements, and appropriations. See [section 305305 of Title 54][/us/usc/t54/s305305], National Park Service and Related Programs.
 
 ----------
 

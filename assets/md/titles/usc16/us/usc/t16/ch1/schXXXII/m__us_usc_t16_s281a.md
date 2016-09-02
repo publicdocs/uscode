@@ -23,7 +23,7 @@
 
     (3) Buffalo Eddy, Washington and Idaho;
 
-    (4) Traditional Crossing Near Doug Bar, Oregon and Idaho;
+    (4) Traditional Crossing Near Doug  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Dug”. </sup></sup>  Bar, Oregon and Idaho;
 
     (5) Camas Meadows Battle Sites, Idaho;
 

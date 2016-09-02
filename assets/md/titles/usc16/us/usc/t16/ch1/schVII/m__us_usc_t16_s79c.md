@@ -45,7 +45,7 @@
 
  __References in Text__ 
 
-    Section 4(b) of the Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(2), probably means section 5(b), formerly section 4(b), of [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 900][/us/stat/78/900], which was classified to section 460l–7(b) of this title and which related to advance appropriations, prior to the general amendment of [section 5 of Pub. L. 88–578][/us/pl/88/578/s5] by [Pub. L. 94–422, title I, § 101(2)][/us/pl/94/422/s101/2], Sept. 28, 1976, [90 Stat. 1314][/us/stat/90/1314].
+    Section 4(b) of the Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(2), probably means section 5(b), formerly section 4(b), of [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 900][/us/stat/78/900], which was classified to section 460l–7(b) of this title and which related to advance appropriations. Section 5(b) was repealed by [Pub. L. 94–422, title I][/us/pl/94/422], §101(2), Sept. 28, 1976, [90 Stat. 1314][/us/stat/90/1314]. The remainder of section 5 was repealed and restated as [section 200304 of Title 54][/us/usc/t54/s200304], National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272.
 
     [Section 79b(a) of this title][/us/usc/t16/s79b/a], referred to in subsec. (b)(2), was in the original “section 101(a)(2) of this amendment”, meaning [section 101(a)(2) of Pub. L. 95–250][/us/pl/95/250/s101/a/2], which amended [section 79b(a) of this title][/us/usc/t16/s79b/a].
 
@@ -85,9 +85,11 @@
 [/us/stat/92/163-165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F163-165
 [/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
 [/us/stat/78/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F900
-[/us/pl/88/578/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578%2Fs5
-[/us/pl/94/422/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F422%2Fs101%2F2
+[/us/pl/94/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F422
 [/us/stat/90/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1314
+[/us/usc/t54/s200304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200304
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t16/s79b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79b%2Fa
 [/us/pl/95/250/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101%2Fa%2F2
 [/us/usc/t16/s79b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79b%2Fa
