@@ -37,7 +37,7 @@
 
         The Secretary shall not require a public housing agency to carry out a local program under subsection (a) of this section if the public housing agency provides certification (as such term is defined under title I of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12701][/us/usc/t42/s12701] et seq.\]) to the Secretary, that the establishment and operation of the program is not feasible because of local circumstances, which may include—
 
-            (A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or the Job Opportunities and Basic Skills Training Program under part F  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title IV of the Social Security Act;
+            (A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] or the Job Opportunities and Basic Skills Training Program under part F  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title IV of the Social Security Act;
 
             (B) lack of funding for reasonable administrative costs;
 
@@ -141,7 +141,7 @@
 
         (2) __Membership__ 
 
-            The program coordinating committee may consist of representatives of the public housing agency, the unit of general local government, the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or the Job Opportunities and Basic Skills Training Program under part F  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title IV of the Social Security Act, and other organizations, such as other State and local welfare and employment agencies, public and private education or training institutions, nonprofit service providers, and private businesses. The public housing agency may, in consultation with the chief executive officer of the unit of general local government, utilize an existing entity as the program coordinating committee if it meets the requirements of this subsection.
+            The program coordinating committee may consist of representatives of the public housing agency, the unit of general local government, the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] or the Job Opportunities and Basic Skills Training Program under part F 1 of title IV of the Social Security Act, and other organizations, such as other State and local welfare and employment agencies, public and private education or training institutions, nonprofit service providers, and private businesses. The public housing agency may, in consultation with the chief executive officer of the unit of general local government, utilize an existing entity as the program coordinating committee if it meets the requirements of this subsection.
 
     (g) __Action plan__ 
 
@@ -151,7 +151,7 @@
 
         (2) __Development of plan__ 
 
-            In developing the plan, the public housing agency shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (f) of this section, representatives of residents of the public housing, any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or the Job Opportunities and Basic Skills Training Program under part F 2 of title IV of the Social Security Act, other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
+            In developing the plan, the public housing agency shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (f) of this section, representatives of residents of the public housing, any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] or the Job Opportunities and Basic Skills Training Program under part F 1 of title IV of the Social Security Act, other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
 
         (3) __Contents of plan__ 
 
@@ -171,7 +171,7 @@
 
             (G) a timetable for implementation of the local program;
 
-            (H) assurances satisfactory to the Secretary that development of the services and activities under the local program has been coordinated with the Job Opportunities and Basic Skills Training Program under part F 2 of title IV of the Social Security Act and programs under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] and any other relevant employment, child care, transportation, training, and education programs in the applicable area, and that implementation will continue to be coordinated, in order to avoid duplication of services and activities; and
+            (H) assurances satisfactory to the Secretary that development of the services and activities under the local program has been coordinated with the Job Opportunities and Basic Skills Training Program under part F 1 of title IV of the Social Security Act and programs under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] and any other relevant employment, child care, transportation, training, and education programs in the applicable area, and that implementation will continue to be coordinated, in order to avoid duplication of services and activities; and
 
             (I) assurances satisfactory to the Secretary that nonparticipating families will retain their rights to public housing or section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] assistance notwithstanding the provisions of this section.
 
@@ -179,7 +179,7 @@
 
         (1) __Fees under section 1437f__ 
 
-            The Secretary shall establish a fee under [section 1437f(q) of this title][/us/usc/t42/s1437f/q] for the costs incurred in administering the provision of certificate and voucher assistance under [section 1437f of this title][/us/usc/t42/s1437f] through the self-sufficiency program under this section. The fee shall be the fee in effect under such section on June 1, 1990, except that for purposes of the fee under this paragraph the applicable dollar amount for preliminary expenses under section 1437f(q)(2)(A)(i) 2 of this title shall, subject to approval in appropriations Acts, be $300. Upon the submission by the Comptroller General of the United States of the report required under section 554(b) of the Cranston-Gonzalez National Affordable Housing Act, the Secretary shall revise the fee under this paragraph, taking into consideration the report of the Comptroller General.
+            The Secretary shall establish a fee under [section 1437f(q) of this title][/us/usc/t42/s1437f/q] for the costs incurred in administering the provision of certificate and voucher assistance under [section 1437f of this title][/us/usc/t42/s1437f] through the self-sufficiency program under this section. The fee shall be the fee in effect under such section on June 1, 1990, except that for purposes of the fee under this paragraph the applicable dollar amount for preliminary expenses under section 1437f(q)(2)(A)(i) 1 of this title shall, subject to approval in appropriations Acts, be $300. Upon the submission by the Comptroller General of the United States of the report required under section 554(b) of the Cranston-Gonzalez National Affordable Housing Act, the Secretary shall revise the fee under this paragraph, taking into consideration the report of the Comptroller General.
 
         (2) __Performance funding system__ 
 
@@ -193,7 +193,7 @@
 
         (2) __Criteria__ 
 
-            The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “performance”. </sup></sup>  criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
+            The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “performance”. </sup></sup>  criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
 
         (3) __Use__ 
 
@@ -259,27 +259,11 @@
 
 ([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 23, as added [Pub. L. 101–625, title V, § 554(a)][/us/pl/101/625/s554/a], Nov. 28, 1990, [104 Stat. 4225][/us/stat/104/4225]; amended [Pub. L. 102–550, title I][/us/pl/102/550], §§ 106, 185(b), Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684], 3747; [Pub. L. 104–316, title I, § 122][/us/pl/104/316/s122](l), Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837]; [Pub. L. 104–330, title V, § 501(b)(8)][/us/pl/104/330/s501/b/8], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V, § 509(a)][/us/pl/105/276/s509/a], Oct. 21, 1998, [112 Stat. 2530][/us/stat/112/2530]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(31), (f)(23)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 113–128, title V, § 512(ii)][/us/pl/113/128/s512/ii], July 22, 2014, [128 Stat. 1721][/us/stat/128/1721].)
 
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(ii), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1721, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
-
-    (1) in subsection (b)(2)(A), by striking “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998” and inserting “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act”;
-
-    (2) in subsection (f)(2), by striking “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,” and inserting “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,”; and
-
-    (3) in subsection (g):
-
-    (A) in paragraph (2), by striking “any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act” and inserting “any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act”; and
-
-    (B) in paragraph (3)(H), by striking “programs under title I of the Workforce Investment Act of 1998 and any other relevant employment, child care, transportation, training, and education programs in the applicable area” and inserting “programs under title I of the Workforce Innovation and Opportunity Act and any other relevant employment, child care, transportation, training, and education programs in the applicable area”.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
     The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(2), is [Pub. L. 101–625][/us/pl/101/625], Nov. 28, 1990, [104 Stat. 4079][/us/stat/104/4079]. Title I of the Act is classified generally to subchapter I (§ 12701 et seq.) of chapter 130 of this title. Section 554(b) of the Act is set out below. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title][/us/usc/t42/s12701] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Social Security Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of this title, prior to repeal by [Pub. L. 104–193, title I, § 108(e)][/us/pl/104/193/s108/e], Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167]. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -371,7 +355,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendments__ 
 
@@ -399,7 +383,7 @@
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
@@ -408,10 +392,10 @@
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fq
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
@@ -445,14 +429,12 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/113/128/s512/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii
 [/us/stat/128/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1721
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/pl/104/193/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs108%2Fe

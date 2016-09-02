@@ -57,7 +57,7 @@
 
     (e) __Collaboration with academic institutions and the one-stop delivery system__ 
 
-        The Secretary shall encourage community health worker programs receiving funds under this section to collaborate with academic institutions and one-stop delivery systems under [section 2864(c) of title 29][/us/usc/t29/s2864/c]. Nothing in this section shall be construed to require such collaboration.
+        The Secretary shall encourage community health worker programs receiving funds under this section to collaborate with academic institutions and one-stop delivery systems under [section 3151(e) of title 29][/us/usc/t29/s3151/e]. Nothing in this section shall be construed to require such collaboration.
 
     (f) __Evidence-based interventions__ 
 
@@ -119,10 +119,6 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V, as added and amended [Pub. L. 111–148, title V, § 5313(a)][/us/pl/111/148/s5313/a], title X, § 10501(c), Mar. 23, 2010, [124 Stat. 633][/us/stat/124/633], 994; [Pub. L. 113–128, title V, § 512(z)(1)][/us/pl/113/128/s512/z/1], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
 
- __Amendment of Subsection (e)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(z)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (e) of this section is amended by striking “one-stop delivery systems under [section 2864(c) of title 29][/us/usc/t29/s2864/c]” and inserting “one-stop delivery systems under [section 3151(e) of title 29][/us/usc/t29/s3151/e]”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (b)(3), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
@@ -137,7 +133,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -149,7 +145,7 @@
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t42/s1395x/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa
 [/us/usc/t42/s254b/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b%2Fb%2F3
 [/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
@@ -158,10 +154,6 @@
 [/us/stat/124/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F633
 [/us/pl/113/128/s512/z/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fz%2F1
 [/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305

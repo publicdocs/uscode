@@ -15,7 +15,7 @@
 
 ## § 6873. Availability of labor
 
-    The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] and the Older American Community Service Employment Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[[42 U.S.C. 6861][/us/usc/t42/s6861] et seq.\], section 222(a)(12)  <sup>\[1\]</sup>  of the Economic Opportunity Act of 1964 \[[42 U.S.C. 2809(a)(12)][/us/usc/t42/s2809/a/12]\], and section 504 of the Housing Act of 1949 \[[42 U.S.C. 1474][/us/usc/t42/s1474]\]:
+    The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] and the Community Service Senior Opportunities Act \[[42 U.S.C. 3056][/us/usc/t42/s3056] et seq.\], available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[[42 U.S.C. 6861][/us/usc/t42/s6861] et seq.\], section 222(a)(12)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Economic Opportunity Act of 1964 \[[42 U.S.C. 2809(a)(12)][/us/usc/t42/s2809/a/12]\], and section 504 of the Housing Act of 1949 \[[42 U.S.C. 1474][/us/usc/t42/s1474]\]:
 
     (1) First, the Secretary of Energy (in consultation with the Director of the Community Services Administration, the Secretary of Agriculture, and the Secretary of Labor) shall determine the number of individuals needed to supply sufficient labor to carry out such weatherization programs in the various areas of the country.
 
@@ -25,15 +25,11 @@
 
 ([Pub. L. 95–619, title II, § 233][/us/pl/95/619/s233], Nov. 9, 1978, [92 Stat. 3227][/us/stat/92/3227]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(39), (f)(30)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 113–128, title V, § 512(v)][/us/pl/113/128/s512/v], July 22, 2014, [128 Stat. 1713][/us/stat/128/1713].)
 
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(v), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1713, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended by striking “a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 and the Older American Community Service Employment Act” and inserting “a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act and the Community Service Senior Opportunities Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in text, is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in text, is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
-    The Older American Community Service Employment Act, referred to in text, was title V of [Pub. L. 89–73][/us/pl/89/73], as added [Pub. L. 94–135, title I, § 113(a)][/us/pl/94/135/s113/a], Nov. 28, 1975, [89 Stat. 720][/us/stat/89/720]. Title V of [Pub. L. 89–73][/us/pl/89/73] was amended generally and renamed the Community Service Senior Opportunities Act by [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, 120 Stat 2563, and is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
+    The Community Service Senior Opportunities Act, referred to in text, is title V of [Pub. L. 89–73][/us/pl/89/73], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563], which is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
     The Energy Conservation in Existing Buildings Act of 1976, referred to in text, is title IV of [Pub. L. 94–385][/us/pl/94/385], Aug. 14, 1976, [90 Stat. 1150][/us/stat/90/1150], as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§ 6861 et seq.) of subchapter III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title][/us/usc/t42/s6801] and Tables.
 
@@ -53,7 +49,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -70,7 +66,8 @@
 ----------
 ----------
 
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
+[/us/usc/t42/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056
 [/us/usc/t42/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6861
 [/us/usc/t42/s2809/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F12
 [/us/usc/t42/s1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1474
@@ -81,15 +78,11 @@
 [/us/pl/113/128/s512/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fv
 [/us/stat/128/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1713
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
-[/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
-[/us/pl/94/135/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs113%2Fa
-[/us/stat/89/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F720
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/stat/120/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2563
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/stat/90/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1150

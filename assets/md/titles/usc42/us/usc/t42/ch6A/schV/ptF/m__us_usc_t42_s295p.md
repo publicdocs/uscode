@@ -155,7 +155,7 @@
 
     (23)  __One-stop delivery system center__  __.—__ 
 
-    The term “one-stop delivery system” means a one-stop delivery system described in [section 2864(c) of title 29][/us/usc/t29/s2864/c].
+    The term “one-stop delivery system” means a one-stop delivery system described in [section 3151(e) of title 29][/us/usc/t29/s3151/e].
 
     (24)  __Paraprofessional child and adolescent mental health worker__  __.—__ 
 
@@ -170,10 +170,6 @@
     The term “rural health clinic” has the meaning given that term in [section 1395x(aa) of this title][/us/usc/t42/s1395x/aa].
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 799B, formerly § 799, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2066][/us/stat/106/2066]; renumbered § 799B and amended [Pub. L. 105–392, title I][/us/pl/105/392], §§ 106(a)(2)(E), 108, Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557], 3560; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 111–148, title V, § 5002(b)][/us/pl/111/148/s5002/b], Mar. 23, 2010, [124 Stat. 590][/us/stat/124/590]; [Pub. L. 113–128, title V, § 512(z)(3)][/us/pl/113/128/s512/z/3], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
-
- __Amendment of Paragraph (23)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(z)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (23) of this section is amended by striking “one-stop delivery system described in [section 2864(c) of title 29][/us/usc/t29/s2864/c]” and inserting “one-stop delivery system described in [section 3151(e) of title 29][/us/usc/t29/s3151/e]”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -211,7 +207,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center__ 
 
@@ -239,7 +235,7 @@
 [/us/usc/t42/s300u–6/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%936%2Fd%2F3
 [/us/usc/t42/s1395x/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa
 [/us/usc/t42/s299a–1/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299a%E2%80%931%2Fd%2F1
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t42/s300u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%936
 [/us/usc/t42/s1395x/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
@@ -253,10 +249,6 @@
 [/us/stat/124/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F590
 [/us/pl/113/128/s512/z/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fz%2F3
 [/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t42/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c
 [/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2

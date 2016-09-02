@@ -93,7 +93,7 @@
 
         (4) an assurance that eligible entities in the State will provide, on an emergency basis, for the provision of such supplies and services, nutritious foods, and related services, as may be necessary to counteract conditions of starvation and malnutrition among low-income individuals;
 
-        (5) an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 101  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of such Act \[[29 U.S.C. 2801][/us/usc/t29/s2801]\], in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998;
+        (5) an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\], in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act;
 
         (6) an assurance that the State will ensure coordination between antipoverty programs in each community in the State, and ensure, where appropriate, that emergency energy crisis intervention programs under title XXVI \[[42 U.S.C. 8621][/us/usc/t42/s8621] et seq.\] (relating to low-income home energy assistance) are conducted in such community;
 
@@ -153,17 +153,11 @@
 
 ([Pub. L. 97–35, title VI, § 676][/us/pl/97/35/s676], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2735][/us/stat/112/2735]; amended [Pub. L. 113–128, title V, § 512(f)][/us/pl/113/128/s512/f], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
 
- __Amendment of Subsection (b)(5)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(f), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(5) of this section is amended by striking “the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 of such Act, in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998” and inserting “the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act, in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (b)(1)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
-    Section 101 of such Act, referred to in subsec. (b)(5), is probably a reference to section 101 of the Workforce Investment Act of 1998, [Pub. L. 105–220][/us/pl/105/220], which is classified to [section 2801 of Title 29][/us/usc/t29/s2801], Labor.
-
-    The Workforce Investment Act of 1998, referred to in subsec. (b)(5), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     Title XXVI, referred to in subsec. (b)(6), is title XXVI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 893][/us/stat/95/893], as amended, known as the Low-Income Home Energy Assistance Act of 1981, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8621 of this title][/us/usc/t42/s8621] and Tables.
 
@@ -179,7 +173,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -193,7 +187,7 @@
 [/us/usc/t42/s9907/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9907%2Fb
 [/us/usc/t42/s9907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9907%2Fa
 [/us/usc/t42/s9907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9907%2Fa
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
 [/us/usc/t42/s9916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9916
 [/us/usc/t42/s9915/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9915%2Fb
@@ -205,16 +199,12 @@
 [/us/stat/112/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2735
 [/us/pl/113/128/s512/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Ff
 [/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F893
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621

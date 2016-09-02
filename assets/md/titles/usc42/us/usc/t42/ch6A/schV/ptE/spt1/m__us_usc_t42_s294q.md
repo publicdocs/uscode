@@ -143,7 +143,7 @@
 
             (C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] et seq\[., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\]);
 
-            (D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] et seq.\[, [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\]), and any other Federal health care workforce programs;
+            (D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] et seq.\[, [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\]), and any other Federal health care workforce programs;
 
             (E) the health care workforce needs of special populations, such as minorities, rural populations, medically underserved populations, gender specific needs, individuals with disabilities, and geriatric and pediatric populations with recommendations for new and existing Federal policies to meet the needs of these special populations; and
 
@@ -295,10 +295,6 @@
 
 ([Pub. L. 111–148, title V, § 5101][/us/pl/111/148/s5101], title X, § 10501(a), Mar. 23, 2010, [124 Stat. 592][/us/stat/124/592], 993; [Pub. L. 113–128, title V, § 512(y)][/us/pl/113/128/s512/y], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
 
- __Amendment of Subsection (d)(3)(D)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(y), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d)(3)(D) of this section is amended by striking “other health care workforce programs, including those supported through the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.),” and inserting “other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act,”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     Section 5 of the Federal Advisory Committee Act, referred to in subsec. (c)(1), is [section 5 of Pub. L. 92–463][/us/pl/92/463/s5], which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -309,7 +305,7 @@
 
     The Higher Education Act of 1965, referred to in subsec. (d)(3)(C), (D), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], which is classified principally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
-    The Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), referred to in subsec. (d)(3)(D), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(3)(D), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(3)(D), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
@@ -347,7 +343,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Purpose__ 
 
@@ -407,11 +403,11 @@
 
 >         “(A)  __Low-income individual__  __.—__ 
 
->         The term ‘low-income individual’ has the meaning given that term in section 101 of the Workforce investment \[sic\] Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]).
+>         The term ‘low-income individual’ has the meaning given that term in section 101 of the Workforce investment \[sic\] Act of 1998 (\[former\] [29 U.S.C. 2801][/us/usc/t29/s2801]).
 
 >         “(B)  __State workforce investment board; local workforce investment board__  __.—__ 
 
->         The terms ‘State workforce investment board’ and ‘local workforce investment board’, \[sic\] refer to a State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821][/us/usc/t29/s2821]) and a local workforce investment board established under section 117 of such Act ([29 U.S.C. 2832][/us/usc/t29/s2832]), respectively.
+>         The terms ‘State workforce investment board’ and ‘local workforce investment board’, \[sic\] refer to a State workforce investment board established under \[former\] section 111 of the Workforce Investment Act of 1998 (\[former\] [29 U.S.C. 2821][/us/usc/t29/s2821]) and a local workforce investment board established under \[former\] section 117 of such Act (\[former\] [29 U.S.C. 2832][/us/usc/t29/s2832]), respectively.
 
 >     “(5)  __Postsecondary education__  __.—__ 
 
@@ -437,7 +433,6 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
@@ -450,9 +445,6 @@
 [/us/stat/124/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F592
 [/us/pl/113/128/s512/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fy
 [/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/92/463/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs5
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
@@ -463,10 +455,9 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb

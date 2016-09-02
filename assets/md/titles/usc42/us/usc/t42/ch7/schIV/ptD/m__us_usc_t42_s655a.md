@@ -39,7 +39,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-    Amendment by [Pub. L. 105–220][/us/pl/105/220] effective July 1, 1999, see [section 311 of Pub. L. 105–220][/us/pl/105/220/s311], set out as a note under [section 49a of Title 29][/us/usc/t29/s49a], Labor.
+    Amendment by [Pub. L. 105–220][/us/pl/105/220] effective July 1, 1999, see [section 311 of Pub. L. 105–220][/us/pl/105/220/s311], formerly set out as a note under [section 49a of Title 29][/us/usc/t29/s49a], Labor.
 
  __Effective Date of 1996 Amendment__ 
 

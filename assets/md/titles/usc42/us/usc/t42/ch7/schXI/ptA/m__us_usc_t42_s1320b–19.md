@@ -133,7 +133,7 @@
 
             (B) __One-stop delivery systems__ 
 
-                An employment network serving under the Program may consist of a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.).
+                An employment network serving under the Program may consist of a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e].
 
             (C) __Compliance with selection criteria__ 
 
@@ -329,15 +329,9 @@
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1148, as added [Pub. L. 106–170, title I, § 101(a)][/us/pl/106/170/s101/a], Dec. 17, 1999, [113 Stat. 1863][/us/stat/113/1863]; amended [Pub. L. 108–203, title IV, § 405(a)][/us/pl/108/203/s405/a], Mar. 2, 2004, [118 Stat. 526][/us/stat/118/526]; [Pub. L. 113–128, title V, § 512(dd)(2)][/us/pl/113/128/s512/dd/2], July 22, 2014, [128 Stat. 1718][/us/stat/128/1718].)
 
- __Amendment of Subsection (f)(1)(B)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(dd)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1718, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (f)(1)(B) of this section is amended by striking “a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.)” and inserting “a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
-
-    The Workforce Investment Act of 1998, referred to in subsec. (f)(1)(B), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§ 2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
 
     The Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified generally to Title 26, Internal Revenue Code.
 
@@ -351,7 +345,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -713,7 +707,7 @@
 [/us/usc/t42/s1382d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382d
 [/us/usc/t29/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720
 [/us/usc/t42/s422/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fd%2F2
-[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t42/s1320b–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9321
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
@@ -734,16 +728,9 @@
 [/us/stat/118/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F526
 [/us/pl/113/128/s512/dd/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F2
 [/us/stat/128/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1718
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
-[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
 [/us/pl/106/170/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Ff
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe

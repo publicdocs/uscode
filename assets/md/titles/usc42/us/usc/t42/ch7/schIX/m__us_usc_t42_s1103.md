@@ -241,7 +241,7 @@
 
             (C)
 
-                (i) Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998, except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
+                (i) Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
 
                 (ii) Each State-approved training program or job training program referred to in clause (i) shall prepare individuals who have been separated from a declining occupation, or who have been involuntarily and indefinitely separated from employment as a result of a permanent reduction of operations at the individual’s place of employment, for entry into a high-demand occupation.
 
@@ -313,7 +313,7 @@
 
     [Section 5402 of Public Law 105–33][/us/pl/105/33/s5402], referred to in subsec. (d)(2)(A)(i)(II), is [section 5402 of Pub. L. 105–33][/us/pl/105/33/s5402], title V, Aug. 5, 1997, [111 Stat. 603][/us/stat/111/603], which amended [section 1102 of this title][/us/usc/t42/s1102] and enacted provisions set out as a note under [section 1102 of this title][/us/usc/t42/s1102].
 
-    The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
     Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(7), is [section 205 of Pub. L. 91–373][/us/pl/91/373/s205], which is set out as a note under [section 3304 of Title 26][/us/usc/t26/s3304], Internal Revenue Code.
 
@@ -480,7 +480,8 @@
 [/us/usc/t42/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1102
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/91/373/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs205
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531

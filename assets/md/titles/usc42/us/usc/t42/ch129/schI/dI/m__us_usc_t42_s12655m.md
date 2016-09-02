@@ -17,7 +17,7 @@
 
     (a) __Development__ 
 
-        The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]).
+        The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\]).
 
     (b) __Standards__ 
 
@@ -33,13 +33,9 @@
 
 ([Pub. L. 101–610, title I, § 199L][/us/pl/101/610/s199L], formerly § 134, Nov. 16, 1990, [104 Stat. 3148][/us/stat/104/3148]; renumbered § 199N, renumbered § 199L, and amended [Pub. L. 103–82, title I, § 101(a)][/us/pl/103/82/s101/a], (e)(1), (8)(B), Sept. 21, 1993, [107 Stat. 788][/us/stat/107/788], 815, 816; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(42)(C), (f)(33)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–428, 2681–434; [Pub. L. 113–128, title V, § 512(u)(2)][/us/pl/113/128/s512/u/2], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
 
- __Amendment of Subsection (a)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(u)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a) of this section is amended by striking “coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Investment Act of 1998)” and inserting “coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Innovation and Opportunity Act)”. See 2014 Amendment note below.
-
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
  __Codification__ 
 
@@ -61,7 +57,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -78,7 +74,7 @@
 ----------
 ----------
 
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/pl/101/610/s199L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199L
 [/us/stat/104/3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3148
 [/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
@@ -88,10 +84,8 @@
 [/us/pl/113/128/s512/u/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fu%2F2
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/usc/t42/s12554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12554
 [/us/pl/103/82/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fa
 [/us/pl/101/610/s199L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs199L

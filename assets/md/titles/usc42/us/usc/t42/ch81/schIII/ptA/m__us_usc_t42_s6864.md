@@ -35,7 +35,7 @@
 
         (2) established priorities to govern the provision of weatherization assistance to low-income persons, including methods to provide priority to elderly and handicapped low-income persons, and such priority as the applicant determines is appropriate for single-family or other high-energy-consuming dwelling units;
 
-        (3) established policies and procedures designed to assure that financial assistance provided under this part will be used to supplement, and not to supplant, State or local funds, and, to the extent practicable, to increase the amounts of such funds that would be made available in the absence of Federal funds for carrying out the purpose of this part, including plans and procedures (A) for securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], to work under the supervision of qualified supervisors and foremen, (B) for using Federal financial assistance under this part to increase the portion of low-income weatherization assistance that the State obtains from non-Federal sources, including private sources, and (C) for complying with the limitations set forth in [section 6865 of this title][/us/usc/t42/s6865]; and
+        (3) established policies and procedures designed to assure that financial assistance provided under this part will be used to supplement, and not to supplant, State or local funds, and, to the extent practicable, to increase the amounts of such funds that would be made available in the absence of Federal funds for carrying out the purpose of this part, including plans and procedures (A) for securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\], to work under the supervision of qualified supervisors and foremen, (B) for using Federal financial assistance under this part to increase the portion of low-income weatherization assistance that the State obtains from non-Federal sources, including private sources, and (C) for complying with the limitations set forth in [section 6865 of this title][/us/usc/t42/s6865]; and
 
         (4) selected on the basis of public comment received during a public hearing conducted pursuant to [section 6865(b)(1) of this title][/us/usc/t42/s6865/b/1], and other appropriate findings, community action agencies or other public or nonprofit entities to undertake the weatherization activities authorized by this subchapter: Provided, Such selection shall be based on the agency’s experience and performance in weatherization or housing renovation activities, experience in assisting low-income persons in the area to be served, and the capacity to undertake a timely and effective weatherization program: Provided further, That in making such selection preference shall be given to any community action agency or other public or nonprofit entity which has, or is currently administering, an effective program under this subchapter or under title II of the Economic Opportunity Act of 1964 \[[42 U.S.C. 2781][/us/usc/t42/s2781] et seq.\].
 
@@ -45,13 +45,9 @@
 
 ([Pub. L. 94–385, title IV, § 414][/us/pl/94/385/s414], Aug. 14, 1976, [90 Stat. 1154][/us/stat/90/1154]; [Pub. L. 96–294, title V][/us/pl/96/294], §§ 573(c), 577(2), June 30, 1980, [94 Stat. 759][/us/stat/94/759], 760; [Pub. L. 101–440, § 7(c)][/us/pl/101/440/s7/c], (g), Oct. 18, 1990, [104 Stat. 1012][/us/stat/104/1012], 1014; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(38), (f)(29)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 113–128, title V, § 512(k)][/us/pl/113/128/s512/k], July 22, 2014, [128 Stat. 1709][/us/stat/128/1709].)
 
- __Amendment of Subsection (b)(3)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(k), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1709, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(3) of this section is amended by striking “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Investment Act of 1998” and inserting “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsec. (b)(3), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(3), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Economic Opportunity Act of 1964, referred to in subsec. (b)(4), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
 
@@ -75,7 +71,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -89,7 +85,7 @@
 ----------
 
 [/us/usc/t42/s6863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6863
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t42/s6865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6865
 [/us/usc/t42/s6865/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6865%2Fb%2F1
 [/us/usc/t42/s2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2781
@@ -104,10 +100,8 @@
 [/us/pl/113/128/s512/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fk
 [/us/stat/128/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1709
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
 [/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa

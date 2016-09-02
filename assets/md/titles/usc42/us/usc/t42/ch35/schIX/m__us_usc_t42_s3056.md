@@ -63,7 +63,7 @@
 
                 (iv) will not employ or continue to employ any eligible individual to perform the same work or substantially the same work as that performed by any other individual who is on layoff;
 
-            (H) will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved to recruit eligible individuals to ensure that the maximum number of eligible individuals will have an opportunity to participate in the project;
+            (H) will coordinate activities with training and other services provided under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\], including utilizing the one-stop delivery system of the local workforce development areas involved to recruit eligible individuals to ensure that the maximum number of eligible individuals will have an opportunity to participate in the project;
 
             (I) will include such training (such as work experience, on-the-job training, and classroom training) as may be necessary to make the most effective use of the skills and talents of those individuals who are participating, and will provide for the payment of the reasonable expenses of individuals being trained, including a reasonable subsistence allowance equivalent to the wage described in subparagraph (J);
 
@@ -85,13 +85,13 @@
 
             (N)
 
-                (i) will prepare an assessment of the participants’ skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), or part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.)) and will prepare a related service strategy;
+                (i) will prepare an assessment of the participants’ skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.) <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below </sup></sup> , the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), or part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.)) and will prepare a related service strategy;
 
                 (ii) will provide training and employment counseling to eligible individuals based on strategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment and service strategy provided for in clause (i), and provide other appropriate information regarding such project; and
 
                 (iii) will provide counseling to participants on their progress in meeting such objectives and satisfying their need for supportive services;
 
-            (O) will provide appropriate services for participants, or refer the participants to appropriate services, through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 ([29 U.S.C. 2864(c)][/us/usc/t29/s2864/c]), and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act ([29 U.S.C. 2841(c)][/us/usc/t29/s2841/c]);
+            (O) will provide appropriate services for participants, or refer the participants to appropriate services, through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3151(e)][/us/usc/t29/s3151/e]\], and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act \[[29 U.S.C. 3151(c)][/us/usc/t29/s3151/c]\];
 
             (P)
 
@@ -105,9 +105,9 @@
 
              will provide to the Secretary the description and information described in—
 
-                (i) paragraph (8), relating to coordination with other Federal programs, of section 112(b) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)][/us/usc/t29/s2822/b]); and
+                (i) clauses (ii) and (viii) of paragraph (2)(B), relating to coordination with other Federal programs, of section 102(b) of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3112(b)][/us/usc/t29/s3112/b]\]; and
 
-                (ii) paragraph (14), relating to implementation of one-stop delivery systems, of section 112(b) of the Workforce Investment Act of 1998; and
+                (ii) paragraph (2)(C)(i), relating to implementation of one-stop delivery systems, of section 102(b) of the Workforce Innovation and Opportunity Act; and
 
             (R) will ensure that entities that carry out activities under the project (including State agencies, local entities, subgrantees, and subcontractors) and affiliates of such entities receive an amount of the administrative cost allocation determined by the Secretary, in consultation with grantees, to be sufficient.
 
@@ -119,11 +119,11 @@
 
             (A) __Prepared under this chapter__ 
 
-                An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.), in order to determine whether such eligible individual also qualifies for intensive or training services described in section 134(d) of such Act ([29 U.S.C. 2864(d)][/us/usc/t29/s2864/d]).
+                An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3151][/us/usc/t29/s3151] et seq.\], in order to determine whether such eligible individual also qualifies for career or training services described in section 134(c) of such Act \[[29 U.S.C. 3174(c)][/us/usc/t29/s3174/c]\].
 
-            (B) __Prepared under Workforce Investment Act of 1998__ 
+            (B) __Prepared under Workforce Innovation and Opportunity Act__ 
 
-                An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.) for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
+                An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3151][/us/usc/t29/s3151] et seq.\] for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
 
     (c) __Federal share and use of funds__ 
 
@@ -279,7 +279,7 @@
 
                 (i) attract more eligible individuals into the labor force;
 
-                (ii) improve the provision of services to eligible individuals under one-stop delivery systems established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.);
+                (ii) improve the provision of services to eligible individuals under one-stop delivery systems established under section 121(e) of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3151(e)][/us/usc/t29/s3151/e]\];
 
                 (iii) enhance the technological skills of eligible individuals; and
 
@@ -299,39 +299,13 @@
 
 ([Pub. L. 89–73, title V, § 502][/us/pl/89/73/s502], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563]; amended [Pub. L. 113–128, title V, § 512(w)(3)][/us/pl/113/128/s512/w/3], July 22, 2014, [128 Stat. 1713][/us/stat/128/1713].)
 
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(w)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1713, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
-
-    (1) in subsection (b):
-
-    (A) in paragraph (1):
-
-    (i) in subparagraph (H), by striking “will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved” and inserting “will coordinate activities with training and other services provided under title I of the Workforce Innovation and Opportunity Act, including utilizing the one-stop delivery system of the local workforce development areas involved”;
-
-    (ii) in subparagraph (O), by striking “through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 ([29 U.S.C. 2864(c)][/us/usc/t29/s2864/c]),” and inserting “through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act,” and by striking “and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act ([29 U.S.C. 2841(c)][/us/usc/t29/s2841/c])” and inserting “and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act”; and
-
-    (iii) in subparagraph (Q)—
-
-    (I) in clause (i), by striking “paragraph (8), relating to coordination with other Federal programs, of section 112(b) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)][/us/usc/t29/s2822/b])” and inserting “clauses (ii) and (viii) of paragraph (2)(B), relating to coordination with other Federal programs, of section 102(b) of the Workforce Innovation and Opportunity Act”; and
-
-    (II) in clause (ii), by striking “paragraph (14), relating to implementation of one-stop delivery systems, of section 112(b) of the Workforce Investment Act of 1998” and inserting “paragraph (2)(C)(i), relating to implementation of one-stop delivery systems, of section 102(b) of the Workforce Innovation and Opportunity Act”; and
-
-    (B) in paragraph (3):
-
-    (i) in subparagraph (A), by striking “An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.), in order to determine whether such eligible individual also qualifies for intensive or training services described in section 134(d) of such Act ([29 U.S.C. 2864(d)][/us/usc/t29/s2864/d]).” and inserting “An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Innovation and Opportunity Act, in order to determine whether such eligible individual also qualifies for career or training services described in section 134(c) of such Act.”; and
-
-    (ii) in subparagraph (B), in the subparagraph heading, by striking “Workforce Investment Act of 1998” and inserting “Workforce Innovation and Opportunity Act” and by striking “An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.)” and inserting “An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Innovation and Opportunity Act”; and
-
-    (2) in subsection (e)(2)(B)(ii), by striking “one-stop delivery systems established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “one-stop delivery systems established under section 121(e) of the Workforce Innovation and Opportunity Act”.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsecs. (b)(1)(H), (N)(i), (3) and (e)(2)(B)(ii), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], which enacted chapter 73 (§ 9201 et seq.) of Title 20, Education, and chapter 30 (§ 2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 of Title 29. Subtitle B of title I of the Act is classified generally to subchapter II (§ 2811 et seq.) of chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (3), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is [act June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], [52 Stat. 1060][/us/stat/52/1060], which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29][/us/usc/t29/s201] and Tables.
+
+    The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(N)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by Pub. L. 113—128, title V, §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t42/s3101] and Tables.
 
     The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
@@ -363,7 +337,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date__ 
 
@@ -398,42 +372,39 @@
 [/us/usc/t25/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3501
 [/us/usc/t42/s3056k/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056k%2Fa%2F2%2FD
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/usc/t29/s2841/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841%2Fc
-[/us/usc/t29/s2822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2822%2Fb
-[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
-[/us/usc/t29/s2864/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fd
-[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
+[/us/usc/t29/s3151/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fc
+[/us/usc/t29/s3112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112%2Fb
+[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
+[/us/usc/t29/s3174/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174%2Fc
+[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
 [/us/usc/t42/s3056d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056d%2Fa%2F1
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/pl/89/73/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs502
 [/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
 [/us/stat/120/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2563
 [/us/pl/113/128/s512/w/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F3
 [/us/stat/128/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1713
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/usc/t29/s2841/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841%2Fc
-[/us/usc/t29/s2822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2822%2Fb
-[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
-[/us/usc/t29/s2864/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fd
-[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t42/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3101
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb

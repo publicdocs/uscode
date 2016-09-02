@@ -55,7 +55,7 @@
 
         (3) __Coordination with other programs__ 
 
-            The responsibilities of the Commissioner established under this section shall be coordinated with other public and private programs that provide information and assistance regarding rehabilitation services and independent living supports and benefits planning for disabled beneficiaries including the program under [section 1382h of this title][/us/usc/t42/s1382h], the plans for achieving self-support program (PASS), and any other Federal or State work incentives programs that are designed to assist disabled beneficiaries, including educational agencies that provide information and assistance regarding rehabilitation, school-to-work programs, transition services (as defined in, and provided in accordance with, the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.)), a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.), and other services.
+            The responsibilities of the Commissioner established under this section shall be coordinated with other public and private programs that provide information and assistance regarding rehabilitation services and independent living supports and benefits planning for disabled beneficiaries including the program under [section 1382h of this title][/us/usc/t42/s1382h], the plans for achieving self-support program (PASS), and any other Federal or State work incentives programs that are designed to assist disabled beneficiaries, including educational agencies that provide information and assistance regarding rehabilitation, school-to-work programs, transition services (as defined in, and provided in accordance with, the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.)), a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e], and other services.
 
     (b) __Conditions__ 
 
@@ -153,17 +153,11 @@
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1149, as added [Pub. L. 106–170, title I, § 121][/us/pl/106/170/s121], Dec. 17, 1999, [113 Stat. 1887][/us/stat/113/1887]; amended [Pub. L. 108–203, title IV][/us/pl/108/203], §§ 404(a)(1), 407(a), Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525], 527; [Pub. L. 111–63, § 2][/us/pl/111/63/s2], Sept. 18, 2009, [123 Stat. 2001][/us/stat/123/2001]; [Pub. L. 111–280][/us/pl/111/280], §§ 2(a), 3(a), (b)(1), Oct. 13, 2010, [124 Stat. 2903][/us/stat/124/2903]; [Pub. L. 113–128, title V, § 512(dd)(3)][/us/pl/113/128/s512/dd/3], July 22, 2014, [128 Stat. 1718][/us/stat/128/1718].)
 
- __Amendment of Subsection (a)(3)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(dd)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1718, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(3) of this section is amended by striking “a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.)” and inserting “a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, referred to in subsec. (a)(1), is [section 101(f) of Pub. L. 106–170][/us/pl/106/170/s101/f], which is set out as a note under [section 1320b–19 of this title][/us/usc/t42/s1320b–19].
 
     The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
-
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. Subtitle B of title I of the Act is classified generally to subchapter II (§ 2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
 
     The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355]. Title VII of the Act is classified generally to subchapter VII (§ 796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
 
@@ -193,7 +187,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -218,7 +212,7 @@
 [/us/usc/t42/s1382h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382h
 [/us/usc/t42/s1382h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382h
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t29/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
 [/us/usc/t42/s1320b–19/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fk%2F2
@@ -239,18 +233,11 @@
 [/us/stat/124/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2903
 [/us/pl/113/128/s512/dd/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F3
 [/us/stat/128/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1718
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
-[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/pl/106/170/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Ff
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701

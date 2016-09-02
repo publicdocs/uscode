@@ -21,11 +21,7 @@
 
  __Effective Date of Repeal__ 
 
-[Pub. L. 105–220, title I, § 199(c)(2)(A)][/us/pl/105/220/s199/c/2/A], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], provided that: 
-
-> “The repeal made by subsection (b)(1) \[repealing sections 11421, 11461 to 11466, 11471, and 11472 of this title\] shall take effect on July 1, 1999.”
-
-    \[[Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], [section 199(c)(2)(A) of Pub. L. 105–220][/us/pl/105/220/s199/c/2/A], set out above, is repealed.\]
+    [Pub. L. 105–220, title I, § 199(c)(2)(A)][/us/pl/105/220/s199/c/2/A], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], which provided that the repeal made by subsection (b)(1) (repealing sections 11421, 11461 to 11466, 11471, and 11472 of this title) would take effect on July 1, 1999, was repealed by [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
 
 ----------
 
@@ -50,8 +46,7 @@
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/105/220/s199/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FA
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220/s199/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FA
+[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
 
 

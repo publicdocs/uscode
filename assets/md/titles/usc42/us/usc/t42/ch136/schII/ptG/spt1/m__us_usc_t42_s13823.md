@@ -45,7 +45,7 @@
 
             (B) individuals who are unemployed or underemployed;
 
-            (C) individuals who are participating or have participated in job training programs authorized under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or the Family Support Act of 1988 ([Public Law 100–485][/us/pl/100/485]);
+            (C) individuals who are participating or have participated in job training programs authorized under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] or the Family Support Act of 1988 ([Public Law 100–485][/us/pl/100/485]);
 
             (D) individuals whose jobs may be retained as a result of the provision of financing available under this subpart; or
 
@@ -63,13 +63,9 @@
 
 ([Pub. L. 103–322, title III, § 31113][/us/pl/103/322/s31113], Sept. 13, 1994, [108 Stat. 1883][/us/stat/108/1883]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(44), (f)(35)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–428, 2681–434; [Pub. L. 113–128, title V, § 512(jj)][/us/pl/113/128/s512/jj], July 22, 2014, [128 Stat. 1722][/us/stat/128/1722].)
 
- __Amendment of Subsection (a)(4)(C)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(jj), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1722, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(4)(C) of this section is amended by striking “job training programs authorized under title I of the Workforce Investment Act of 1998 or the Family Support Act of 1988 ([Public Law 100–485][/us/pl/100/485])” and inserting “job training programs authorized under title I of the Workforce Innovation and Opportunity Act or the Family Support Act of 1988 ([Public Law 100–485][/us/pl/100/485])”. See 2014 Amendment note below.
-
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(4)(C), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4)(C), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Family Support Act of 1988, referred to in subsec. (a)(4)(C), is [Pub. L. 100–485][/us/pl/100/485], Oct. 13, 1988, [102 Stat. 2343][/us/stat/102/2343], as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -83,7 +79,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -97,7 +93,7 @@
 ----------
 
 [/us/usc/t42/s13822/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13822%2Fb%2F2%2FB
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/103/322/s31113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31113
 [/us/stat/108/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1883
@@ -106,12 +102,8 @@
 [/us/pl/113/128/s512/jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fjj
 [/us/stat/128/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1722
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/stat/102/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2343
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305

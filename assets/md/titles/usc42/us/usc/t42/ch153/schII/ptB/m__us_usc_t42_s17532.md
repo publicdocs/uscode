@@ -53,7 +53,7 @@
 
             (A) mentoring eligible offenders, including the provision of support, guidance, and assistance in the community and the workplace to address the challenges faced by such offenders;
 
-            (B) providing job training and job placement services to eligible offenders, including work readiness activities, job referrals, basic skills remediation, educational services, occupational skills training, on-the-job training, work experience, and post-placement support, in coordination with the one-stop partners and one-stop operators (as such terms are defined in [section 2801 of title 29][/us/usc/t29/s2801]) that provide services at any center operated under a one-stop delivery system established under [section 2864(c) of title 29][/us/usc/t29/s2864/c], businesses, and educational institutions; and
+            (B) providing job training and job placement services to eligible offenders, including work readiness activities, job referrals, basic skills remediation, educational services, occupational skills training, on-the-job training, work experience, and post-placement support, in coordination with the one-stop partners and one-stop operators (as such terms are defined in [section 3102 of title 29][/us/usc/t29/s3102]) that provide services at any center operated under a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e], businesses, and educational institutions; and
 
             (C) providing outreach, orientation, intake, assessments, counseling, case management, and other transitional services to eligible offenders, including prerelease outreach and orientation.
 
@@ -83,7 +83,7 @@
 
                 (ii) a description of the mentoring, job training and job placement, and other services to be provided;
 
-                (iii) a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under [section 3797w of this title][/us/usc/t42/s3797w], as amended by this Act, where applicable), the local workforce investment boards established under [section 2832 of title 29][/us/usc/t29/s2832]), <sup>\[1\]</sup>  <sup><sup> 1 So in original. The closing parenthesis probably should not appear. </sup></sup>  and housing authorities that will be used to assist in carrying out grant activities under this section; and
+                (iii) a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under [section 3797w of this title][/us/usc/t42/s3797w], as amended by this Act, where applicable), the local workforce development boards established under [section 3122 of title 29][/us/usc/t29/s3122], and housing authorities that will be used to assist in carrying out grant activities under this section; and
 
                 (iv) a description of how other Federal, State, local, or private funding will be leveraged to provide support services that are not directly funded under this section, such as mental health and substance abuse treatment and housing.
 
@@ -129,16 +129,6 @@
 
 ([Pub. L. 110–199, title II, § 212][/us/pl/110/199/s212], Apr. 9, 2008, [122 Stat. 680][/us/stat/122/680]; [Pub. L. 113–128, title V, § 512(bb)(1)][/us/pl/113/128/s512/bb/1], July 22, 2014, [128 Stat. 1717][/us/stat/128/1717].)
 
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(bb)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1717, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
-
-    (1) in subsection (c)(1)(B), by striking “in coordination with the one-stop partners and one-stop operators (as such terms are defined in [section 2801 of title 29][/us/usc/t29/s2801]) that provide services at any center operated under a one-stop delivery system established under [section 2864(c) of title 29][/us/usc/t29/s2864/c],” and inserting “in coordination with the one-stop partners and one-stop operators (as such terms are defined in [section 3102 of title 29][/us/usc/t29/s3102]) that provide services at any center operated under a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e],”; and
-
-    (2) in subsection (d)(1)(B)(iii), by striking “the local workforce investment boards established under [section 2832 of title 29][/us/usc/t29/s2832]),” and inserting “the local workforce development boards established under [section 3122 of title 29][/us/usc/t29/s3122],”.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
     [Section 3797w of this title][/us/usc/t42/s3797w], as amended by this Act, referred to in subsec. (d)(1)(B)(iii), is [section 3797w of this title][/us/usc/t42/s3797w], as amended by [Pub. L. 110–199][/us/pl/110/199].
@@ -151,7 +141,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -160,22 +150,14 @@
 ----------
 ----------
 
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t42/s3797w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797w
-[/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
+[/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/pl/110/199/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs212
 [/us/stat/122/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F680
 [/us/pl/113/128/s512/bb/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fbb%2F1
 [/us/stat/128/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1717
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
-[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
-[/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
-[/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/usc/t42/s3797w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797w
 [/us/usc/t42/s3797w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797w
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199

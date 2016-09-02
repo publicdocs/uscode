@@ -63,7 +63,7 @@
 
             (A) the salaries and benefits of service-learning coordinators; or
 
-            (B) the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under [section 5001 of this title][/us/usc/t42/s5001], or who may participate in a Youthbuild program under [section 2918a of title 29][/us/usc/t29/s2918a],
+            (B) the recruitment, training and professional development, supervision, and placement of service-learning coordinators who may be participants in a program under division C or receive a national service educational award under division D, who may be participants in a project under [section 5001 of this title][/us/usc/t42/s5001], or who may participate in a Youthbuild program under [section 3226 of title 29][/us/usc/t29/s3226],
 
             who will identify the community partners described in paragraph (2)(B) and assist in the design and implementation of a program described in paragraph (2);
 
@@ -125,10 +125,6 @@
 
 ([Pub. L. 101–610, title I, § 112][/us/pl/101/610/s112], as added [Pub. L. 111–13, title I, § 1201][/us/pl/111/13/s1201], Apr. 21, 2009, [123 Stat. 1468][/us/stat/123/1468]; amended [Pub. L. 113–128, title V, § 512(u)(1)][/us/pl/113/128/s512/u/1], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
 
- __Amendment of Subsection (a)(3)(B)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(u)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(3)(B) of this section is amended by striking “or who may participate in a Youthbuild program under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “or who may participate in a Youthbuild program under [section 3226 of title 29][/us/usc/t29/s3226]”. See 2014 Amendment note below.
-
  __Prior Provisions__ 
 
     A prior section 12523, [Pub. L. 101–610, title I, § 111B][/us/pl/101/610/s111B], as added [Pub. L. 103–82, title I, § 103(a)(2)][/us/pl/103/82/s103/a/2], Sept. 21, 1993, [107 Stat. 827][/us/stat/107/827], granted the Corporation authority to assist public or private nonprofit organizations, prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
@@ -145,7 +141,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -157,7 +153,7 @@
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
 [/us/usc/t42/s12525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12525
 [/us/usc/t42/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5001
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t42/s12522/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12522%2F2%2FA
 [/us/usc/t42/s12681/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12681%2Fa%2F6
 [/us/pl/101/610/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs112
@@ -165,10 +161,6 @@
 [/us/stat/123/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1468
 [/us/pl/113/128/s512/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fu%2F1
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/pl/101/610/s111B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs111B
 [/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
 [/us/stat/107/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F827

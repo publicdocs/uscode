@@ -41,7 +41,7 @@
 
  __Transfer of Functions__ 
 
-    All functions which the Secretary of Housing and Urban Development exercised before Sept. 22, 2006, relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12899][/us/usc/t42/s12899] et seq.) transferred to the Department of Labor, see [section 3(b) of Pub. L. 109–281][/us/pl/109/281/s3/b], set out as a Transfer of Functions and Savings Provisions note under [section 2918a of Title 29][/us/usc/t29/s2918a], Labor.
+    All functions which the Secretary of Housing and Urban Development exercised before Sept. 22, 2006, relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12899][/us/usc/t42/s12899] et seq.) transferred to the Department of Labor, see [section 3(b) of Pub. L. 109–281][/us/pl/109/281/s3/b], set out as a Transfer of Functions and Savings Provisions note under [section 3226 of Title 29][/us/usc/t29/s3226], Labor.
 
 ----------
 
@@ -109,6 +109,6 @@
 [/us/stat/110/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4043
 [/us/usc/t42/s12899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12899
 [/us/pl/109/281/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281%2Fs3%2Fb
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 
 

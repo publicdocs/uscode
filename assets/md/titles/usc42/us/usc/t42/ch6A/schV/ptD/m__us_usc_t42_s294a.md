@@ -49,7 +49,7 @@
 
         An eligible entity shall use amounts awarded under a grant under subsection (a)(1) or (a)(2) to carry out the following activities:
 
-            (A) Develop and implement strategies, in coordination with the applicable one-stop delivery system under [section 2864(c) of title 29][/us/usc/t29/s2864/c], to recruit individuals from underrepresented minority populations or from disadvantaged or rural backgrounds into health professions, and support such individuals in attaining such careers.
+            (A) Develop and implement strategies, in coordination with the applicable one-stop delivery system under [section 3151(e) of title 29][/us/usc/t29/s3151/e], to recruit individuals from underrepresented minority populations or from disadvantaged or rural backgrounds into health professions, and support such individuals in attaining such careers.
 
             (B) Develop and implement strategies to foster and provide community-based training and education to individuals seeking careers in health professions within underserved areas for the purpose of developing and maintaining a diverse health care workforce that is prepared to deliver high-quality care, with an emphasis on primary care, in underserved areas or for health disparity populations, in collaboration with other Federal and State health care workforce development programs, the State workforce agency, and local workforce investment boards, and in health care safety net sites.
 
@@ -165,10 +165,6 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 751, as added [Pub. L. 105–392, title I, § 103][/us/pl/105/392/s103], Nov. 13, 1998, [112 Stat. 3541][/us/stat/112/3541]; amended [Pub. L. 111–148, title V, § 5403(a)][/us/pl/111/148/s5403/a], Mar. 23, 2010, [124 Stat. 644][/us/stat/124/644]; [Pub. L. 113–128, title V, § 512(z)(2)][/us/pl/113/128/s512/z/2], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
 
- __Amendment of Subsection (c)(1)(A)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(z)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(1)(A) of this section is amended by striking “the applicable one-stop delivery system under [section 2864(c) of title 29][/us/usc/t29/s2864/c],” and inserting “the applicable one-stop delivery system under [section 3151(e) of title 29][/us/usc/t29/s3151/e],”. See 2014 Amendment note below.
-
  __Prior Provisions__ 
 
     A prior section 294a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 762, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2046][/us/stat/106/2046], authorized grants and contracts for public health special projects, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
@@ -191,7 +187,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Waiver of Requirements__ 
 
@@ -210,7 +206,7 @@
 ----------
 ----------
 
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t42/s295j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295j%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/105/392/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs103
@@ -219,10 +215,6 @@
 [/us/stat/124/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F644
 [/us/pl/113/128/s512/z/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fz%2F2
 [/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
 [/us/stat/106/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2046

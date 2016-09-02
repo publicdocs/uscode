@@ -17,7 +17,7 @@
 
     (a) __Technical assistance to environmental agencies__ 
 
-        Notwithstanding any other provision of law relating to Federal grants and cooperative agreements, the Administrator of the Environmental Protection Agency is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 \[[42 U.S.C. 3056][/us/usc/t42/s3056] et seq.\] to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Administrator (and consistent with such provisions of law) in providing technical assistance to Federal, State, and local environmental agencies for projects of pollution prevention, abatement, and control. Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and subtitle D of title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2911][/us/usc/t29/s2911] et seq.\].
+        Notwithstanding any other provision of law relating to Federal grants and cooperative agreements, the Administrator of the Environmental Protection Agency is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 \[[42 U.S.C. 3056][/us/usc/t42/s3056] et seq.\] to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Administrator (and consistent with such provisions of law) in providing technical assistance to Federal, State, and local environmental agencies for projects of pollution prevention, abatement, and control. Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and subtitle D of title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3221][/us/usc/t29/s3221] et seq.\].
 
     (b) __Pre-award certifications__ 
 
@@ -35,15 +35,11 @@
 
 ([Pub. L. 98–313, § 2][/us/pl/98/313/s2], June 12, 1984, [98 Stat. 235][/us/stat/98/235]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(35), (f)(27)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–426, 2681–434; [Pub. L. 113–128, title V, § 512(j)][/us/pl/113/128/s512/j], July 22, 2014, [128 Stat. 1709][/us/stat/128/1709].)
 
- __Amendment of Subsection (a)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(j), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1709, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a) of this section is amended by striking “Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and subtitle D of title I of the Workforce Investment Act of 1998” and inserting “Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and subtitle D of title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     The Older Americans Act of 1965, referred to in subsec. (a), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], which is classified generally to chapter 35 (§ 3001 et seq.) of this title. Title V of the Act, known as the “Community Service Senior Opportunities Act”, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Subtitle D of title I of the Act is classified generally to subchapter IV (§ 2911 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Subsection D of title I of the Act is classified generally to part D (§ 3221 et seq.) of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
  __Codification__ 
 
@@ -59,7 +55,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -79,21 +75,19 @@
 ----------
 
 [/us/usc/t42/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056
-[/us/usc/t29/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2911
+[/us/usc/t29/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3221
 [/us/pl/98/313/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F313%2Fs2
 [/us/stat/98/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F235
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/113/128/s512/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fj
 [/us/stat/128/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1709
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff

@@ -31,7 +31,7 @@
 
         (6) to provide a written transitional living plan to each youth based on an assessment of such youth’s needs, designed to help the transition from supervised participation in such project to independent living or another appropriate living arrangement;
 
-        (7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Investment Act of 1998), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
+        (7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Innovation and Opportunity Act), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
 
         (8) to provide for the establishment of outreach programs designed to attract individuals who are eligible to participate in the project;
 
@@ -65,13 +65,9 @@
 
 ([Pub. L. 93–415, title III, § 322][/us/pl/93/415/s322], as added [Pub. L. 100–690, title VII, § 7273(f)][/us/pl/100/690/s7273/f], Nov. 18, 1988, [102 Stat. 4456][/us/stat/102/4456]; amended [Pub. L. 102–586, § 3(f)][/us/pl/102/586/s3/f], Nov. 4, 1992, [106 Stat. 5022][/us/stat/106/5022]; [Pub. L. 106–71, § 3(f)][/us/pl/106/71/s3/f], Oct. 12, 1999, [113 Stat. 1038][/us/stat/113/1038]; [Pub. L. 108–96, title I][/us/pl/108/96], §§ 107, 108, 110, 111, Oct. 10, 2003, [117 Stat. 1168][/us/stat/117/1168], 1169; [Pub. L. 110–378, § 4][/us/pl/110/378/s4], Oct. 8, 2008, [122 Stat. 4069][/us/stat/122/4069]; [Pub. L. 113–128, title V, § 512(aa)][/us/pl/113/128/s512/aa], July 22, 2014, [128 Stat. 1717][/us/stat/128/1717].)
 
- __Amendment of Subsection (a)(7)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(aa), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1717, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(7) of this section is amended by striking “(including services and programs for youth available under the Workforce Investment Act of 1998)” and inserting “(including services and programs for youth available under the Workforce Innovation and Opportunity Act)”. See 2014 Amendment note below.
-
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(7), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(7), is [Pub. L. 104–193][/us/pl/104/193], Aug. 22, 1996, [110 Stat. 2105][/us/stat/110/2105], as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -107,7 +103,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date__ 
 
@@ -136,10 +132,8 @@
 [/us/pl/113/128/s512/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Faa
 [/us/stat/128/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1717
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2105
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305

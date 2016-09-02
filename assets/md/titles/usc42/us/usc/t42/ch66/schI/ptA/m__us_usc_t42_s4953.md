@@ -109,7 +109,7 @@
 
     (d) __Provision of plans to volunteers for job advancement; coordination with private industry councils or local workforce investment boards__ 
 
-        The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under [section 2832 of title 29][/us/usc/t29/s2832].
+        The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29][/us/usc/t29/s3122].
 
     (e) __Educational and vocational counseling for volunteers; Director to provide__ 
 
@@ -132,10 +132,6 @@
         The Director may enter into agreements under which public and private nonprofit organizations, with sufficient financial capacity and size, pay for all or a portion of the costs of supporting the service of volunteers under this part.
 
 ([Pub. L. 93–113, title I, § 103][/us/pl/93/113/s103], Oct. 1, 1973, [87 Stat. 396][/us/stat/87/396]; [Pub. L. 96–143, § 2][/us/pl/96/143/s2], Dec. 13, 1979, [93 Stat. 1074][/us/stat/93/1074]; [Pub. L. 98–288, § 4(a)][/us/pl/98/288/s4/a]–(c)(1), (d), May 21, 1984, [98 Stat. 189][/us/stat/98/189], 190; [Pub. L. 99–551, § 3(a)][/us/pl/99/551/s3/a], Oct. 27, 1986, [100 Stat. 3071][/us/stat/100/3071]; [Pub. L. 101–204, title I, § 101(a)][/us/pl/101/204/s101/a], (b), (d)(2), title VII, § 701, Dec. 7, 1989, [103 Stat. 1807][/us/stat/103/1807], 1809, 1811, 1820; [Pub. L. 103–82, title III, § 323][/us/pl/103/82/s323], title IV, § 405(a)(2)–(4), Sept. 21, 1993, [107 Stat. 899][/us/stat/107/899], 920; [Pub. L. 103–304, § 3(b)(7)][/us/pl/103/304/s3/b/7], (8), Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 111–13, title II, § 2102][/us/pl/111/13/s2102], Apr. 21, 2009, [123 Stat. 1582][/us/stat/123/1582]; [Pub. L. 113–128, title V, § 512(h)][/us/pl/113/128/s512/h], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
-
- __Amendment of Subsection (d)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(h), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d) of this section is amended by striking “employment.” and all that follows and inserting the following: “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29][/us/usc/t29/s3122].”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -289,7 +285,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -335,7 +331,7 @@
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/usc/t20/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1071
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
-[/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
+[/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
 [/us/pl/93/113/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs103
 [/us/stat/87/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F396
@@ -357,9 +353,6 @@
 [/us/stat/123/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1582
 [/us/pl/113/128/s512/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fh
 [/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

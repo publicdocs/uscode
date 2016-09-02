@@ -843,7 +843,7 @@ SUBCHAPTER IX—COMMUNITY SERVICE SENIOR OPPORTUNITIES  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3056i" data-uslm-ref="/us/usc/t42/s3056i">3056i.</a>  </td>
 
-    <td> Coordination with the Workforce Investment Act of 1998.  </td>
+    <td> Coordination with the Workforce Innovation and Opportunity Act.  </td>
 
   </tr>
 

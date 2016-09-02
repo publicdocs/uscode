@@ -25,7 +25,7 @@
 
         In developing the State plan prior to its submission to the Secretary, the Governor shall seek the advice and recommendations of—
 
-            (A) individuals representing the State agency and the area agencies on aging in the State, and the State and local workforce investment boards established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.);
+            (A) individuals representing the State agency and the area agencies on aging in the State, and the State and local workforce development boards established under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\];
 
             (B) individuals representing public and nonprofit private agencies and organizations providing employment services, including each grantee operating a project under this subchapter in the State; and
 
@@ -59,7 +59,7 @@
 
             (E) the localities and populations for which projects of the type authorized by this subchapter are most needed; and
 
-            (F) plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.).
+            (F) plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\].
 
         (5) __Governor’s recommendations__ 
 
@@ -99,13 +99,13 @@
 
             (A) __In general__ 
 
-                The Secretary shall coordinate programs carried out under this subchapter with the program carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), the Community Services Block Grant Act ([42 U.S.C. 9901][/us/usc/t42/s9901] et seq.), the Rehabilitation Act of 1973 ([29 U.S.C. 701][/us/usc/t29/s701] et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), the National and Community Service Act of 1990 ([42 U.S.C. 12501][/us/usc/t42/s12501] et seq.), and the Domestic Volunteer Service Act of 1973 ([42 U.S.C. 4950][/us/usc/t42/s4950] et seq.). The Secretary shall coordinate the administration of this subchapter with the administration of other subchapters of this chapter by the Assistant Secretary to increase the likelihood that eligible individuals for whom employment opportunities under this subchapter are available and who need services under such subchapters receive such services.
+                The Secretary shall coordinate programs carried out under this subchapter with the program carried out under the Workforce Innovation and Opportunity Act, the Community Services Block Grant Act ([42 U.S.C. 9901][/us/usc/t42/s9901] et seq.), the Rehabilitation Act of 1973 ([29 U.S.C. 701][/us/usc/t29/s701] et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.), the National and Community Service Act of 1990 ([42 U.S.C. 12501][/us/usc/t42/s12501] et seq.), and the Domestic Volunteer Service Act of 1973 ([42 U.S.C. 4950][/us/usc/t42/s4950] et seq.). The Secretary shall coordinate the administration of this subchapter with the administration of other subchapters of this chapter by the Assistant Secretary to increase the likelihood that eligible individuals for whom employment opportunities under this subchapter are available and who need services under such subchapters receive such services.
 
             (B) __Use of funds__ 
 
                 (i) __Prohibition__ 
 
-                    Funds appropriated to carry out this subchapter may not be used to carry out any program under the Workforce Investment Act of 1998, the Community Services Block Grant Act, the Rehabilitation Act of 1973, the Carl D. Perkins Career and Technical Education Act of 2006, the National and Community Service Act of 1990, or the Domestic Volunteer Service Act of 1973.
+                    Funds appropriated to carry out this subchapter may not be used to carry out any program under the Workforce Investment Act of 1998, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Community Services Block Grant Act, the Rehabilitation Act of 1973, the Carl D. Perkins Career and Technical Education Act of 2006, the National and Community Service Act of 1990, or the Domestic Volunteer Service Act of 1973.
 
                 (ii) __Joint activities__ 
 
@@ -157,23 +157,9 @@
 
 ([Pub. L. 89–73, title V, § 503][/us/pl/89/73/s503], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2571][/us/stat/120/2571]; amended [Pub. L. 113–128, title V, § 512(w)(4)][/us/pl/113/128/s512/w/4], July 22, 2014, [128 Stat. 1715][/us/stat/128/1715].)
 
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(w)(4), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1715, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
-
-    (1) in subsection (a):
-
-    (A) in paragraph (2)(A), by striking “the State and local workforce investment boards established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “the State and local workforce development boards established under title I of the Workforce Innovation and Opportunity Act”; and
-
-    (B) in paragraph (4)(F), by striking “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act”; and
-
-    (2) in subsection (b)(2)(A), by striking “with the program carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “with the program carried out under the Workforce Innovation and Opportunity Act”.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsecs. (a)(2)(A), (4)(F) and (b)(2)(A), (B)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], which enacted chapter 73 (§ 9201 et seq.) of Title 20, Education, and chapter 30 (§ 2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(2)(A), (4)(F) and (b)(2)(A), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Community Services Block Grant Act, referred to in subsec. (b)(2)(A), (B)(i), is subtitle B (§ 671 et seq.) of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 511][/us/stat/95/511], which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title][/us/usc/t42/s9901] and Tables.
 
@@ -183,7 +169,9 @@
 
     The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A), (B)(i), is [Pub. L. 101–610][/us/pl/101/610], Nov. 16, 1990, [104 Stat. 3127][/us/stat/104/3127], which is classified principally to chapter 129 (§ 12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title][/us/usc/t42/s12501] and Tables.
 
-    The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394], which is classified principally to chapter 66 (§ 4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title][/us/usc/t42/s4950] and Tables
+    The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394], which is classified principally to chapter 66 (§ 4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title][/us/usc/t42/s4950] and Tables.
+
+    The Workforce Investment Act of 1998, referred to in subsec. (b)(2)(B)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by Pub. L. 113—128, title V, §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classificaiton of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is [Pub. L. 90–202][/us/pl/90/202], Dec. 15, 1967, [81 Stat. 602][/us/stat/81/602], which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 29][/us/usc/t29/s621] and Tables.
 
@@ -205,7 +193,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -215,10 +203,9 @@
 ----------
 
 [/us/usc/t42/s3056d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056d
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t42/s3056d/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056d%2Fa%2F3
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
@@ -233,13 +220,8 @@
 [/us/pl/113/128/s512/w/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F4
 [/us/stat/128/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1715
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F511
 [/us/usc/t42/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9901
@@ -257,6 +239,13 @@
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F602
 [/us/usc/t29/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs621

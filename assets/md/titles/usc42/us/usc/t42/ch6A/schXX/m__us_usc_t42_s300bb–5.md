@@ -109,7 +109,7 @@
 
  __Construction of 2002 Amendment__ 
 
-    Nothing in amendment by [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a note under [section 2918 of Title 29][/us/usc/t29/s2918], Labor.
+    Nothing in amendment by [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a Construction note under [section 35 of Title 26][/us/usc/t26/s35], Internal Revenue Code.
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 
@@ -152,7 +152,7 @@
 [/us/usc/t26/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs203%2Ff
-[/us/usc/t29/s2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918
+[/us/usc/t26/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs35
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

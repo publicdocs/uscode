@@ -387,7 +387,7 @@
 
                     (I) __Private industry councils__ 
 
-                        The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as defined in section 101 of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801]\]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
+                        The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
 
                     (II) __Enforcement of coordination of expenditures with other expenditures under this part__ 
 
@@ -593,7 +593,7 @@
 
                 (ii) __Private industry council__ 
 
-                    As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to title I of the Workforce Investment Area  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “Act”. </sup></sup>  of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], as appropriate.
+                    As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce development board established for the local workforce development area pursuant to title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\], as appropriate.
 
                 (iii) __Service delivery area__ 
 
@@ -853,16 +853,6 @@
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 403, as added [Pub. L. 104–193, title I, § 103(a)(1)][/us/pl/104/193/s103/a/1], Aug. 22, 1996, [110 Stat. 2115][/us/stat/110/2115]; amended [Pub. L. 104–327, § 1(b)][/us/pl/104/327/s1/b], Oct. 19, 1996, [110 Stat. 4002][/us/stat/110/4002]; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5001(a)(1), 5502, 5514(c), Aug. 5, 1997, [111 Stat. 577][/us/stat/111/577], 606, 620; [Pub. L. 105–78, title VI, § 608][/us/pl/105/78/s608], Nov. 13, 1997, [111 Stat. 1522][/us/stat/111/1522]; [Pub. L. 105–89, title IV, § 404(a)][/us/pl/105/89/s404/a], (b), Nov. 19, 1997, [111 Stat. 2134][/us/stat/111/2134]; [Pub. L. 105–200, title IV, § 408][/us/pl/105/200/s408], July 16, 1998, [112 Stat. 672][/us/stat/112/672]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title I, § 102, title VIII, § 405(d)(30), (f)(22)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–346, 2681–425, 2681–432; [Pub. L. 105–306, § 6(a)][/us/pl/105/306/s6/a], Oct. 28, 1998, [112 Stat. 2928][/us/stat/112/2928]; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title VIII, §§ 801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–280, 1501A–281, 1501A–283 to 1501A–286; [Pub. L. 106–246, div. B, title II, § 2402][/us/pl/106/246/s2402], July 13, 2000, [114 Stat. 555][/us/stat/114/555]; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title I, §§ 103, 107(a)–(b)(4), (c), title V, § 513\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–11, 2763A–12, 2763A–71; [Pub. L. 107–147, title VI][/us/pl/107/147], §§ 616, 617, Mar. 9, 2002, [116 Stat. 62][/us/stat/116/62]; [Pub. L. 108–40, § 3(a)][/us/pl/108/40/s3/a], (c)–(e), June 30, 2003, [117 Stat. 836][/us/stat/117/836], 837; [Pub. L. 108–89, title I, § 101(b)(1)][/us/pl/108/89/s101/b/1], (2), Oct. 1, 2003, [117 Stat. 1131][/us/stat/117/1131]; [Pub. L. 108–210, § 2(b)][/us/pl/108/210/s2/b], Mar. 31, 2004, [118 Stat. 564][/us/stat/118/564]; [Pub. L. 108–262, § 2(b)][/us/pl/108/262/s2/b], June 30, 2004, [118 Stat. 696][/us/stat/118/696]; [Pub. L. 108–308, § 2(b)(1)][/us/pl/108/308/s2/b/1], (2), Sept. 30, 2004, [118 Stat. 1135][/us/stat/118/1135]; [Pub. L. 109–4, § 2(b)][/us/pl/109/4/s2/b], Mar. 25, 2005, [119 Stat. 17][/us/stat/119/17]; [Pub. L. 109–19, § 2(b)][/us/pl/109/19/s2/b], July 1, 2005, [119 Stat. 344][/us/stat/119/344]; [Pub. L. 109–68, § 2(b)(2)(A)][/us/pl/109/68/s2/b/2/A], (B), Sept. 21, 2005, [119 Stat. 2003][/us/stat/119/2003]; [Pub. L. 109–161, § 2(b)][/us/pl/109/161/s2/b], Dec. 30, 2005, [119 Stat. 2958][/us/stat/119/2958]; [Pub. L. 109–171, title VII][/us/pl/109/171], §§ 7101(b)(1), (2), 7103(a), Feb. 8, 2006, [120 Stat. 135][/us/stat/120/135], 138; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(V), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 110–275, title III, § 301(b)][/us/pl/110/275/s301/b], July 15, 2008, [122 Stat. 2594][/us/stat/122/2594]; [Pub. L. 111–5, div. B, title II][/us/pl/111/5], §§ 2101(a), 2102(b), Feb. 17, 2009, [123 Stat. 446][/us/stat/123/446], 449; [Pub. L. 111–242, § 131(b)(1)][/us/pl/111/242/s131/b/1], (2), Sept. 30, 2010, [124 Stat. 2612][/us/stat/124/2612]; [Pub. L. 111–291, title VIII, § 811(b)][/us/pl/111/291/s811/b]–(d), Dec. 8, 2010, [124 Stat. 3159][/us/stat/124/3159]; [Pub. L. 112–96, title IV, § 4002(a)][/us/pl/112/96/s4002/a], (b), Feb. 22, 2012, [126 Stat. 194][/us/stat/126/194], 195; [Pub. L. 112–275, § 9(a)][/us/pl/112/275/s9/a], Jan. 14, 2013, [126 Stat. 2465][/us/stat/126/2465]; [Pub. L. 113–128, title V, § 512(dd)(1)][/us/pl/113/128/s512/dd/1], July 22, 2014, [128 Stat. 1717][/us/stat/128/1717].)
 
- __Amendment of Subsection (a)(5)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(dd)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1717, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(5) of this section is amended as follows:
-
-    (1) in subparagraph (A)(vii)(I), by striking “chief elected official (as defined in section 101 of the Workforce Investment Act of 1998)” and inserting “chief elected official (as defined in section 3 of the Workforce Innovation and Opportunity Act)”; and
-
-    (2) in subparagraph (D)(ii), by striking “local workforce investment board established for the service delivery area pursuant to title I of the Workforce Investment Act of 1998, as appropriate” and inserting “local workforce development board established for the local workforce development area pursuant to title I of the Workforce Innovation and Opportunity Act, as appropriate”.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
     [Section 603(a)(5)(K) of this title][/us/usc/t42/s603/a/5/K], referred to in subsec. (a)(5)(A)(ii)(I)(ff), was redesignated as section 603(a)(5)(J) by [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title I, § 107(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–12.
@@ -871,9 +861,9 @@
 
     The Food and Nutrition Act of 2008, referred to in subsec. (a)(5)(C)(iii)(II)(dd), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
 
-    The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(iii), is [Pub. L. 97–300][/us/pl/97/300], Oct. 13, 1982, [96 Stat. 1322][/us/stat/96/1322], which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, prior to repeal by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(5)(D)(ii), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(D)(ii), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(iii), is [Pub. L. 97–300][/us/pl/97/300], Oct. 13, 1982, [96 Stat. 1322][/us/stat/96/1322], which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29][/us/usc/t29/s2940/b], references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables.
 
     The Protect our Kids Act of 2012, referred to in subsec. (b)(2), is [Pub. L. 112–275][/us/pl/112/275], Jan. 14, 2013, [126 Stat. 2460][/us/stat/126/2460]. Section 3 of the Act, which established the Commission to Eliminate Child Abuse and Neglect Fatalities, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -1137,7 +1127,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -1243,7 +1233,7 @@
 [/us/usc/t42/s613/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs613%2Fj
 [/us/usc/t42/s609/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs609%2Fa%2F7
 [/us/usc/t42/s609/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs609%2Fa%2F7
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t42/s608/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs608%2Fa%2F7%2FC
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t42/s675/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F4
@@ -1254,7 +1244,7 @@
 [/us/usc/t42/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs605
 [/us/usc/t42/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs616
 [/us/usc/t42/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs618
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t42/s612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs612%2Fa%2F3
 [/us/usc/t42/s613/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs613%2Fj
 [/us/usc/t42/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs710
@@ -1330,8 +1320,6 @@
 [/us/stat/126/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2465
 [/us/pl/113/128/s512/dd/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F1
 [/us/stat/128/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1717
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t42/s603/a/5/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603%2Fa%2F5%2FK
 [/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
@@ -1339,13 +1327,18 @@
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
 [/us/stat/96/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1322
 [/us/pl/105/220/s199/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F2
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
+[/us/usc/t29/s2940/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2940%2Fb
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/112/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F275
 [/us/stat/126/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2460
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
