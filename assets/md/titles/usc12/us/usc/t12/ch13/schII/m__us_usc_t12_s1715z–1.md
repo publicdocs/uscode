@@ -629,9 +629,7 @@
 
  __Uncommitted Balances of Excess Rental Charges__ 
 
-[Pub. L. 110–161, div. K, title II][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2425][/us/stat/121/2425], provided in part that: 
-
-> “From the Rental Housing Assistance Fund, all uncommitted balances of excess rental charges as of September 30, 2007, and any collections made during fiscal year 2008 and all subsequent fiscal years, shall be transferred to the Flexible Subsidy Fund, as authorized by section 236(g) of the National Housing Act \[[12 U.S.C. 1715z–1(g)][/us/usc/t12/s1715z–1/g]\].”
+    [Pub. L. 110–161, div. K, title II][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2425][/us/stat/121/2425], which provided in part for transfer from the Rental Housing Assistance Fund of all uncommitted balances of excess rental charges as of Sept. 30, 2007, and any collections made during fiscal year 2008 and all subsequent fiscal years, to the Flexible Subsidy Fund, was repealed by [Pub. L. 113–76, div. L, title II, § 232][/us/pl/113/76/s232], Jan. 17, 2014, [128 Stat. 634][/us/stat/128/634].
 
 Similar provisions were contained in the following prior appropriations acts:
 
@@ -958,7 +956,8 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t12/s1715z–1/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931%2Ff%2F3
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/stat/121/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2425
-[/us/usc/t12/s1715z–1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931%2Fg
+[/us/pl/113/76/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs232
+[/us/stat/128/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F634
 [/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
 [/us/stat/119/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2453
 [/us/pl/112/55/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs235

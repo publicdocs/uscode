@@ -95,21 +95,33 @@
 
             (A)
 
-             In issuing a capital advance under this subsection for any project for which financing for the purposes described in the last two sentences of subsection (b) is provided by a combination of a capital advance under subsection (c)(1) and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—
+             The Secretary shall establish procedures to delegate the award, review and processing of projects, selected by the Secretary in a national competition, to a State or local housing agency that—
 
                 (i) is in geographic proximity to the property;
 
                 (ii) has demonstrated experience in and capacity for underwriting multifamily housing loans that provide housing and supportive services;
 
-                (iii) may or may not be providing low-income housing tax credits in combination with the capital advance under this section, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup>  and
+                (iii) may or may not be providing low-income housing tax credits in combination with the funding under this section;
 
                 (iv) agrees to issue a firm commitment within 12 months of delegation.
 
-            (B) The Secretary shall retain the authority to process capital advances in cases in which no State or local housing agency has applied to provide delegated processing pursuant to this paragraph or no such agency has entered into an agreement with the Secretary to serve as a delegated processing agency.
+            (B) The Secretary shall retain the authority to process funding under this section in cases in which no State or local housing agency has applied to provide delegated processing pursuant to this paragraph or no such agency has entered into an agreement with the Secretary to serve as a delegated processing agency.
 
-            (C) An agency to which review and processing is delegated pursuant to subparagraph (A) may assess a reasonable fee which shall be included in the capital advance amounts and may recommend project rental assistance amounts in excess of those initially awarded by the Secretary. The Secretary shall develop a schedule for reasonable fees under this subparagraph to be paid to delegated processing agencies, which shall take into consideration any other fees to be paid to the agency for other funding provided to the project by the agency, including bonds, tax credits, and other gap funding.
+            (C) The Secretary shall develop a schedule for reasonable fees under this subparagraph to be paid to delegated processing agencies, which shall take into consideration any other fees to be paid to the agency for other funding provided to the project by the agency, including bonds, tax credits, and other gap funding.
 
-            (D) Under such delegated system, the Secretary shall retain the authority to approve rents and development costs and to execute a capital advance within 60 days of receipt of the commitment from the State or local agency. The Secretary shall provide to such agency and the project sponsor, in writing, the reasons for any reduction in capital advance amounts or project rental assistance and such reductions shall be subject to appeal.
+            (D)
+
+             Assistance under subsection (c)(2) may be provided for projects which identify in the application for assistance a defined health and other supportive services program including sources of financing the services for eligible residents and memoranda of understanding with service provision agencies and organizations to provide such services for eligible residents at their request. Such supportive services plan and memoranda of understating shall—
+
+                (i) identify the target populations to be served by the project;
+
+                (ii) set forth methods for outreach and referral;
+
+                (iii) identify the health and other supportive services to be provided; and
+
+                (iv) identify the terms under which such services will be made available to residents of the project.
+
+            (E) Under such delegated system, the Secretary shall retain the authority to approve rents and development costs and to execute funding under this section within 60 days of receipt of the commitment from the State or local agency. The Secretary shall provide to such agency and the project sponsor, in writing, the reasons for any reduction in funding under this section and such reductions shall be subject to appeal.
 
     (g) __Provisions of services__ 
 
@@ -329,7 +341,7 @@
 
         There are authorized to be appropriated for providing assistance under this section such sums as may be necessary for each of fiscal years 2001, 2002, and 2003.
 
-([Pub. L. 86–372, title II, § 202][/us/pl/86/372/s202], Sept. 23, 1959, [73 Stat. 667][/us/stat/73/667]; [Pub. L. 87–70, title II, § 201][/us/pl/87/70/s201], June 30, 1961, [75 Stat. 162][/us/stat/75/162]; [Pub. L. 87–723, § 3][/us/pl/87/723/s3], Sept. 28, 1962, [76 Stat. 670][/us/stat/76/670]; [Pub. L. 88–158][/us/pl/88/158], Oct. 24, 1963, [77 Stat. 278][/us/stat/77/278]; [Pub. L. 88–560, title II][/us/pl/88/560], §§ 201, 203(a)(2), Sept. 2, 1964, [78 Stat. 783][/us/stat/78/783]; [Pub. L. 89–117, title I, § 105(a)][/us/pl/89/117/s105/a], (b)(1), formerly § 105, Aug. 10, 1965, [79 Stat. 457][/us/stat/79/457], renumbered [Pub. L. 89–754, title X, § 1001(1)][/us/pl/89/754/s1001/1], (2), Nov. 3, 1966, [80 Stat. 1284][/us/stat/80/1284]; [Pub. L. 90–19, § 16(a)][/us/pl/90/19/s16/a], May 25, 1967, [81 Stat. 25][/us/stat/81/25]; [Pub. L. 90–448, title XVII, § 1706][/us/pl/90/448/s1706], Aug. 1, 1968, [82 Stat. 605][/us/stat/82/605]; [Pub. L. 91–152, title II, § 218][/us/pl/91/152/s218], Dec. 24, 1969, [83 Stat. 390][/us/stat/83/390]; [Pub. L. 93–383, title II, § 210(a)][/us/pl/93/383/s210/a]–(f), Aug. 22, 1974, [88 Stat. 669–671][/us/stat/88/669-671]; [Pub. L. 94–375, § 11][/us/pl/94/375/s11], Aug. 3, 1976, [90 Stat. 1074][/us/stat/90/1074]; [Pub. L. 95–128, title II, § 202][/us/pl/95/128/s202], Oct. 12, 1977, [91 Stat. 1129][/us/stat/91/1129]; [Pub. L. 95–557, title II, § 205][/us/pl/95/557/s205], Oct. 31, 1978, [92 Stat. 2090][/us/stat/92/2090]; [Pub. L. 96–153, title III, § 306(a)][/us/pl/96/153/s306/a]–(d), Dec. 21, 1979, [93 Stat. 1112][/us/stat/93/1112], 1113; [Pub. L. 96–399, title III, § 319][/us/pl/96/399/s319], Oct. 8, 1980, [94 Stat. 1646][/us/stat/94/1646]; [Pub. L. 97–35, title III, § 336][/us/pl/97/35/s336], Aug. 13, 1981, [95 Stat. 414][/us/stat/95/414]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 223(a)(1), (b)–(e)\], Nov. 30, 1983, [97 Stat. 1189][/us/stat/97/1189], 1190; [Pub. L. 98–479, title I, § 102(c)][/us/pl/98/479/s102/c], title II, §§ 201(e), 203(h), Oct. 17, 1984, [98 Stat. 2222][/us/stat/98/2222], 2228, 2230; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, [101 Stat. 1855–1857][/us/stat/101/1855-1857], 1859, 1867; [Pub. L. 101–625, title VIII][/us/pl/101/625], §§ 801(a), (e), 804(a)–(c), 805, 807, 808, title IX, § 955(c), Nov. 28, 1990, [104 Stat. 4297][/us/stat/104/4297], 4304, 4322–4324, 4421; [Pub. L. 102–139, title II][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756]; [Pub. L. 102–242, title II, § 241(c)(2)][/us/pl/102/242/s241/c/2], Dec. 19, 1991, [105 Stat. 2331][/us/stat/105/2331]; [Pub. L. 102–550, title VI][/us/pl/102/550], §§ 601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, § 913(a), title XVI, § 1604(c)(3), Oct. 28, 1992, [106 Stat. 3802–3805][/us/stat/106/3802-3805], 3829, 3831, 3876, 4083; [Pub. L. 106–74, title V, § 511][/us/pl/106/74/s511], Oct. 20, 1999, [113 Stat. 1101][/us/stat/113/1101]; [Pub. L. 106–569, title VIII][/us/pl/106/569], §§ 821, 831–835, 851(c)(1), Dec. 27, 2000, [114 Stat. 3020–3022][/us/stat/114/3020-3022], 3024; [Pub. L. 110–289, div. B, title VIII, § 2835(b)][/us/pl/110/289/s2835/b], July 30, 2008, [122 Stat. 2873][/us/stat/122/2873]; [Pub. L. 111–372, title I][/us/pl/111/372], §§ 101–105, Jan. 4, 2011, [124 Stat. 4077–4079][/us/stat/124/4077-4079].)
+([Pub. L. 86–372, title II, § 202][/us/pl/86/372/s202], Sept. 23, 1959, [73 Stat. 667][/us/stat/73/667]; [Pub. L. 87–70, title II, § 201][/us/pl/87/70/s201], June 30, 1961, [75 Stat. 162][/us/stat/75/162]; [Pub. L. 87–723, § 3][/us/pl/87/723/s3], Sept. 28, 1962, [76 Stat. 670][/us/stat/76/670]; [Pub. L. 88–158][/us/pl/88/158], Oct. 24, 1963, [77 Stat. 278][/us/stat/77/278]; [Pub. L. 88–560, title II][/us/pl/88/560], §§ 201, 203(a)(2), Sept. 2, 1964, [78 Stat. 783][/us/stat/78/783]; [Pub. L. 89–117, title I, § 105(a)][/us/pl/89/117/s105/a], (b)(1), formerly § 105, Aug. 10, 1965, [79 Stat. 457][/us/stat/79/457], renumbered [Pub. L. 89–754, title X, § 1001(1)][/us/pl/89/754/s1001/1], (2), Nov. 3, 1966, [80 Stat. 1284][/us/stat/80/1284]; [Pub. L. 90–19, § 16(a)][/us/pl/90/19/s16/a], May 25, 1967, [81 Stat. 25][/us/stat/81/25]; [Pub. L. 90–448, title XVII, § 1706][/us/pl/90/448/s1706], Aug. 1, 1968, [82 Stat. 605][/us/stat/82/605]; [Pub. L. 91–152, title II, § 218][/us/pl/91/152/s218], Dec. 24, 1969, [83 Stat. 390][/us/stat/83/390]; [Pub. L. 93–383, title II, § 210(a)][/us/pl/93/383/s210/a]–(f), Aug. 22, 1974, [88 Stat. 669–671][/us/stat/88/669-671]; [Pub. L. 94–375, § 11][/us/pl/94/375/s11], Aug. 3, 1976, [90 Stat. 1074][/us/stat/90/1074]; [Pub. L. 95–128, title II, § 202][/us/pl/95/128/s202], Oct. 12, 1977, [91 Stat. 1129][/us/stat/91/1129]; [Pub. L. 95–557, title II, § 205][/us/pl/95/557/s205], Oct. 31, 1978, [92 Stat. 2090][/us/stat/92/2090]; [Pub. L. 96–153, title III, § 306(a)][/us/pl/96/153/s306/a]–(d), Dec. 21, 1979, [93 Stat. 1112][/us/stat/93/1112], 1113; [Pub. L. 96–399, title III, § 319][/us/pl/96/399/s319], Oct. 8, 1980, [94 Stat. 1646][/us/stat/94/1646]; [Pub. L. 97–35, title III, § 336][/us/pl/97/35/s336], Aug. 13, 1981, [95 Stat. 414][/us/stat/95/414]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, § 223(a)(1), (b)–(e)\], Nov. 30, 1983, [97 Stat. 1189][/us/stat/97/1189], 1190; [Pub. L. 98–479, title I, § 102(c)][/us/pl/98/479/s102/c], title II, §§ 201(e), 203(h), Oct. 17, 1984, [98 Stat. 2222][/us/stat/98/2222], 2228, 2230; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, [101 Stat. 1855–1857][/us/stat/101/1855-1857], 1859, 1867; [Pub. L. 101–625, title VIII][/us/pl/101/625], §§ 801(a), (e), 804(a)–(c), 805, 807, 808, title IX, § 955(c), Nov. 28, 1990, [104 Stat. 4297][/us/stat/104/4297], 4304, 4322–4324, 4421; [Pub. L. 102–139, title II][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756]; [Pub. L. 102–242, title II, § 241(c)(2)][/us/pl/102/242/s241/c/2], Dec. 19, 1991, [105 Stat. 2331][/us/stat/105/2331]; [Pub. L. 102–550, title VI][/us/pl/102/550], §§ 601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, § 913(a), title XVI, § 1604(c)(3), Oct. 28, 1992, [106 Stat. 3802–3805][/us/stat/106/3802-3805], 3829, 3831, 3876, 4083; [Pub. L. 106–74, title V, § 511][/us/pl/106/74/s511], Oct. 20, 1999, [113 Stat. 1101][/us/stat/113/1101]; [Pub. L. 106–569, title VIII][/us/pl/106/569], §§ 821, 831–835, 851(c)(1), Dec. 27, 2000, [114 Stat. 3020–3022][/us/stat/114/3020-3022], 3024; [Pub. L. 110–289, div. B, title VIII, § 2835(b)][/us/pl/110/289/s2835/b], July 30, 2008, [122 Stat. 2873][/us/stat/122/2873]; [Pub. L. 111–372, title I][/us/pl/111/372], §§ 101–105, Jan. 4, 2011, [124 Stat. 4077–4079][/us/stat/124/4077-4079]; [Pub. L. 113–76, div. L, title II, § 241][/us/pl/113/76/s241], Jan. 17, 2014, [128 Stat. 636][/us/stat/128/636].)
 
  __References in Text__ 
 
@@ -348,6 +360,16 @@
     Section was enacted as part of the Housing Act of 1959, and not as part of the National Housing Act which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (f)(2)(A). [Pub. L. 113–76, § 241(a)(1)][/us/pl/113/76/s241/a/1], in introductory provisions, substituted “The Secretary shall establish procedures to delegate the award, review and processing of projects, selected by the Secretary in a national competition, to a State or local housing agency that—” for “In issuing a capital advance under this subsection for any project for which financing for the purposes described in the last two sentences of subsection (b) is provided by a combination of a capital advance under subsection (c)(1) and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—”.
+
+    Subsec. (f)(2)(A)(iii). [Pub. L. 113–76, § 241(a)(2)][/us/pl/113/76/s241/a/2], substituted “funding” for “capital advance” and a semicolon for a comma.
+
+    Subsec. (f)(2)(B). [Pub. L. 113–76, § 241(b)][/us/pl/113/76/s241/b], substituted “funding under this section” for “capital advances”.
+
+    Subsec. (f)(2)(C). [Pub. L. 113–76, § 241(c)][/us/pl/113/76/s241/c], struck out first sentence “An agency to which review and processing is delegated pursuant to subparagraph (A) may assess a reasonable fee which shall be included in the capital advance amounts and may recommend project rental assistance amounts in excess of those initially awarded by the Secretary.”
+
+    Subsec. (f)(2)(D), (E). [Pub. L. 113–76, § 241(d)][/us/pl/113/76/s241/d], (e), added subpar. (D), redesignated former subpar. (D) as (E), and in subpar. (E), substituted “funding under this section” for “a capital advance” and “funding under this section” for “capital advance amounts or project rental assistance”
 
     2011—Subsec. (f)(1)(F) to (H). [Pub. L. 111–372, § 101][/us/pl/111/372/s101], added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
 
@@ -910,6 +932,8 @@
 [/us/stat/122/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2873
 [/us/pl/111/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372
 [/us/stat/124/4077-4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4077-4079
+[/us/pl/113/76/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs241
+[/us/stat/128/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F636
 [/us/pl/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F372
 [/us/stat/73/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F654
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
@@ -924,6 +948,11 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
+[/us/pl/113/76/s241/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs241%2Fa%2F1
+[/us/pl/113/76/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs241%2Fa%2F2
+[/us/pl/113/76/s241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs241%2Fb
+[/us/pl/113/76/s241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs241%2Fc
+[/us/pl/113/76/s241/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs241%2Fd
 [/us/pl/111/372/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs101
 [/us/pl/111/372/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs102
 [/us/pl/111/372/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F372%2Fs103

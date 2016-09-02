@@ -1089,13 +1089,15 @@
 
 > “The amendments made by this section \[amending this section\] shall remain in effect during the period beginning on the date of enactment of this Act \[Oct. 31, 1994\] and ending on September 30, 2014.”
 
-\[[Pub. L. 112–74, div. I, title VI][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1191][/us/stat/125/1191], provided in part: 
+\[[Pub. L. 113–76, div. K, title VI][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 489][/us/stat/128/489], provided in part: 
 
-> “That notwithstanding [section 1(c) of Public Law 103–428][/us/pl/103/428/s1/c] \[set out above\], as amended, sections 1(a) and (b) of [Public Law 103–428][/us/pl/103/428] \[amending this section\] shall remain in effect through October 1, 2012”
+> “That notwithstanding [section 1(c) of Public Law 103–428][/us/pl/103/428/s1/c] \[set out above\], as amended, sections 1(a) and (b) of [Public Law 103–428][/us/pl/103/428] \[amending this section\] shall remain in effect through October 1, 2014.”
 
-.\]
+\]
 
 \[Prior similar extensions of section 1(a) and (b) of [Pub. L. 103–428][/us/pl/103/428] were contained in the following acts:
+
+    \[[Pub. L. 112–74, div. I, title VI][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1191][/us/stat/125/1191].
 
     \[[Pub. L. 111–117, div. F, title VI][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3341][/us/stat/123/3341].
 
@@ -1790,11 +1792,13 @@ By the authority vested in me as President of the United States of America by Se
 [/us/stat/126/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F364
 [/us/pl/112/136/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F136%2Fs1
 [/us/stat/126/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F385
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
-[/us/stat/125/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1191
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F489
 [/us/pl/103/428/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428%2Fs1%2Fc
 [/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
 [/us/pl/103/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F428
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/stat/125/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1191
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/stat/123/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3341
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8

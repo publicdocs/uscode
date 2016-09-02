@@ -101,7 +101,7 @@
 
         (1) __In general__ 
 
-            The exemption for critical access hospitals under subsection (b)(1)(B) of this section shall have no effect after July 31, 2011.
+            The exemption for critical access hospitals under subsection (b)(1)(B) of this section shall have no effect after July 31, 2016.
 
         (2) __Report to Congress__ 
 
@@ -111,7 +111,7 @@
 
             (B) the General Insurance Fund established under [section 1735c of this title][/us/usc/t12/s1735c].
 
-([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 242, as added [Pub. L. 90–448, title XV, § 1501][/us/pl/90/448/s1501], Aug. 1, 1968, [82 Stat. 599][/us/stat/82/599]; amended [Pub. L. 91–609, title I][/us/pl/91/609], §§ 109, 110(a), Dec. 31, 1970, [84 Stat. 1772][/us/stat/84/1772]; [Pub. L. 93–383, title III, § 304(i)][/us/pl/93/383/s304/i], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; [Pub. L. 95–128, title III, § 308][/us/pl/95/128/s308], Oct. 12, 1977, [91 Stat. 1135][/us/stat/91/1135]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–153, title III, § 315][/us/pl/96/153/s315], Dec. 21, 1979, [93 Stat. 1117][/us/stat/93/1117]; [Pub. L. 96–399, title III, § 310(h)][/us/pl/96/399/s310/h], Oct. 8, 1980, [94 Stat. 1643][/us/stat/94/1643]; [Pub. L. 97–35, title III, § 339H][/us/pl/97/35/s339H], Aug. 13, 1981, [95 Stat. 418][/us/stat/95/418]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, §§ 404(b)(15), 436\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210], 1222; [Pub. L. 98–479, title II][/us/pl/98/479], §§ 201(a)(1), 204(a)(13), Oct. 17, 1984, [98 Stat. 2227][/us/stat/98/2227], 2232; [Pub. L. 100–242, title IV][/us/pl/100/242], §§ 411(a), 412(a)–(d), Feb. 5, 1988, [101 Stat. 1905][/us/stat/101/1905], 1906; [Pub. L. 108–91][/us/pl/108/91], §§ 2(a), 3(a), Oct. 3, 2003, [117 Stat. 1158][/us/stat/117/1158]; [Pub. L. 109–240, § 2][/us/pl/109/240/s2], July 10, 2006, [120 Stat. 515][/us/stat/120/515].)
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 242, as added [Pub. L. 90–448, title XV, § 1501][/us/pl/90/448/s1501], Aug. 1, 1968, [82 Stat. 599][/us/stat/82/599]; amended [Pub. L. 91–609, title I][/us/pl/91/609], §§ 109, 110(a), Dec. 31, 1970, [84 Stat. 1772][/us/stat/84/1772]; [Pub. L. 93–383, title III, § 304(i)][/us/pl/93/383/s304/i], Aug. 22, 1974, [88 Stat. 678][/us/stat/88/678]; [Pub. L. 95–128, title III, § 308][/us/pl/95/128/s308], Oct. 12, 1977, [91 Stat. 1135][/us/stat/91/1135]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 96–153, title III, § 315][/us/pl/96/153/s315], Dec. 21, 1979, [93 Stat. 1117][/us/stat/93/1117]; [Pub. L. 96–399, title III, § 310(h)][/us/pl/96/399/s310/h], Oct. 8, 1980, [94 Stat. 1643][/us/stat/94/1643]; [Pub. L. 97–35, title III, § 339H][/us/pl/97/35/s339H], Aug. 13, 1981, [95 Stat. 418][/us/stat/95/418]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, §§ 404(b)(15), 436\], Nov. 30, 1983, [97 Stat. 1210][/us/stat/97/1210], 1222; [Pub. L. 98–479, title II][/us/pl/98/479], §§ 201(a)(1), 204(a)(13), Oct. 17, 1984, [98 Stat. 2227][/us/stat/98/2227], 2232; [Pub. L. 100–242, title IV][/us/pl/100/242], §§ 411(a), 412(a)–(d), Feb. 5, 1988, [101 Stat. 1905][/us/stat/101/1905], 1906; [Pub. L. 108–91][/us/pl/108/91], §§ 2(a), 3(a), Oct. 3, 2003, [117 Stat. 1158][/us/stat/117/1158]; [Pub. L. 109–240, § 2][/us/pl/109/240/s2], July 10, 2006, [120 Stat. 515][/us/stat/120/515]; [Pub. L. 113–76, div. L, title II, § 233][/us/pl/113/76/s233], Jan. 17, 2014, [128 Stat. 634][/us/stat/128/634].)
 
  __References in Text__ 
 
@@ -122,6 +122,8 @@
     The Social Security Act, referred to in subsec. (d)(5)(B), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (i)(1). [Pub. L. 113–76][/us/pl/113/76] substituted “July 31, 2016” for “July 31, 2011”.
 
     2006—Subsec. (i)(1). [Pub. L. 109–240][/us/pl/109/240] substituted “July 31, 2011” for “July 31, 2006”.
 
@@ -240,6 +242,8 @@
 [/us/stat/117/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1158
 [/us/pl/109/240/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F240%2Fs2
 [/us/stat/120/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F515
+[/us/pl/113/76/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs233
+[/us/stat/128/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F634
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/act/1956-07-30/ch779/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779%2Fs2
@@ -250,6 +254,7 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/109/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F240
 [/us/pl/108/91/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F91%2Fs3%2Fa%2F1
 [/us/usc/t42/s1395x/mm/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fmm%2F1

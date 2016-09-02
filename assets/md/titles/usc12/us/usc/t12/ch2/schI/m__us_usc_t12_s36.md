@@ -209,7 +209,7 @@
 
     1935—Subsec. (c). Act Aug. 23, 1935, inserted second sentence and substituted “Except as provided in the immediately preceding sentence, no” for “No” in last sentence.
 
-    1933—Subsecs. (c), (d). Act June 16, 1963, amended subsecs. (c) and (d).
+    1933—Subsecs. (c), (d). Act June 16, 1933, amended subsecs. (c) and (d).
 
     1927—Act Feb. 25, 1927, amended section generally.
 
