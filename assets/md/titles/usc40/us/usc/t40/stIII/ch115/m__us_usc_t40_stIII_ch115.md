@@ -33,7 +33,7 @@ SUBCHAPTER I—CONDUCT OF PILOT PROGRAM  </td>
 
   <tr>
 
-    <td> 11501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11501" data-uslm-ref="/us/usc/t40/s11501">11501.</a>  </td>
 
     <td> Authority to conduct pilot program.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CONDUCT OF PILOT PROGRAM  </td>
 
   <tr>
 
-    <td> 11502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11502" data-uslm-ref="/us/usc/t40/s11502">11502.</a>  </td>
 
     <td> Evaluation criteria and plans.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CONDUCT OF PILOT PROGRAM  </td>
 
   <tr>
 
-    <td> 11503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11503" data-uslm-ref="/us/usc/t40/s11503">11503.</a>  </td>
 
     <td> Report.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CONDUCT OF PILOT PROGRAM  </td>
 
   <tr>
 
-    <td> 11504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11504" data-uslm-ref="/us/usc/t40/s11504">11504.</a>  </td>
 
     <td> Recommended legislation.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—CONDUCT OF PILOT PROGRAM  </td>
 
   <tr>
 
-    <td> 11505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11505" data-uslm-ref="/us/usc/t40/s11505">11505.</a>  </td>
 
     <td> Rule of construction.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—SPECIFIC PILOT PROGRAM  </td>
 
   <tr>
 
-    <td> [11521, 11522.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11521" data-uslm-ref="/us/usc/t40/s11521">11521</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11522" data-uslm-ref="/us/usc/t40/s11522">11522.</a>  </td>
 
     <td> Repealed.]  </td>
 

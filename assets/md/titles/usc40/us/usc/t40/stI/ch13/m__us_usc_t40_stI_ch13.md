@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1301" data-uslm-ref="/us/usc/t40/s1301">1301.</a>  </td>
 
     <td> Charge of property transferred to the Federal Government.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1302" data-uslm-ref="/us/usc/t40/s1302">1302.</a>  </td>
 
     <td> Lease of buildings.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1303" data-uslm-ref="/us/usc/t40/s1303">1303.</a>  </td>
 
     <td> Disposition of surplus real property.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1304" data-uslm-ref="/us/usc/t40/s1304">1304.</a>  </td>
 
     <td> Transfer of federal property to States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1305" data-uslm-ref="/us/usc/t40/s1305">1305.</a>  </td>
 
     <td> Disposition of land acquired by devise.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1306" data-uslm-ref="/us/usc/t40/s1306">1306.</a>  </td>
 
     <td> Disposition of abandoned or forfeited personal property.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1307" data-uslm-ref="/us/usc/t40/s1307">1307.</a>  </td>
 
     <td> Disposition of securities.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1308" data-uslm-ref="/us/usc/t40/s1308">1308.</a>  </td>
 
     <td> Disposition of unfit horses and mules.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1309" data-uslm-ref="/us/usc/t40/s1309">1309.</a>  </td>
 
     <td> Preservation, sale, or collection of wrecked, abandoned, or derelict property.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1310" data-uslm-ref="/us/usc/t40/s1310">1310.</a>  </td>
 
     <td> Sale of war supplies, land, and buildings.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1311" data-uslm-ref="/us/usc/t40/s1311">1311.</a>  </td>
 
     <td> Authority of President to obtain release.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1312" data-uslm-ref="/us/usc/t40/s1312">1312.</a>  </td>
 
     <td> Release of real estate in certain cases.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1313" data-uslm-ref="/us/usc/t40/s1313">1313.</a>  </td>
 
     <td> Releasing property from attachment.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1314" data-uslm-ref="/us/usc/t40/s1314">1314.</a>  </td>
 
     <td> Easements.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1315" data-uslm-ref="/us/usc/t40/s1315">1315.</a>  </td>
 
     <td> Law enforcement authority of Secretary of Homeland Security for protection of public property.  </td>
 

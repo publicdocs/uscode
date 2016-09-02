@@ -33,7 +33,7 @@ SUBCHAPTER I—OVERSIGHT AND REGULATION OF PUBLIC BUILDINGS  </td>
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3101" data-uslm-ref="/us/usc/t40/s3101">3101.</a>  </td>
 
     <td> Public buildings under control of Administrator of General Services.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—OVERSIGHT AND REGULATION OF PUBLIC BUILDINGS  </td>
 
   <tr>
 
-    <td> 3102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3102" data-uslm-ref="/us/usc/t40/s3102">3102.</a>  </td>
 
     <td> Naming or designating buildings.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—OVERSIGHT AND REGULATION OF PUBLIC BUILDINGS  </td>
 
   <tr>
 
-    <td> 3103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3103" data-uslm-ref="/us/usc/t40/s3103">3103.</a>  </td>
 
     <td> Admission of guide dogs or other service animals accompanying individuals with disabilities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—OVERSIGHT AND REGULATION OF PUBLIC BUILDINGS  </td>
 
   <tr>
 
-    <td> 3104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3104" data-uslm-ref="/us/usc/t40/s3104">3104.</a>  </td>
 
     <td> Furniture for new buildings.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—OVERSIGHT AND REGULATION OF PUBLIC BUILDINGS  </td>
 
   <tr>
 
-    <td> 3105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3105" data-uslm-ref="/us/usc/t40/s3105">3105.</a>  </td>
 
     <td> Buildings not to be draped in mourning.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—ACQUIRING LAND  </td>
 
   <tr>
 
-    <td> 3111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3111" data-uslm-ref="/us/usc/t40/s3111">3111.</a>  </td>
 
     <td> Approval of sufficiency of title prior to acquisition.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ACQUIRING LAND  </td>
 
   <tr>
 
-    <td> 3112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3112" data-uslm-ref="/us/usc/t40/s3112">3112.</a>  </td>
 
     <td> Federal jurisdiction.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ACQUIRING LAND  </td>
 
   <tr>
 
-    <td> 3113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3113" data-uslm-ref="/us/usc/t40/s3113">3113.</a>  </td>
 
     <td> Acquisition by condemnation.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ACQUIRING LAND  </td>
 
   <tr>
 
-    <td> 3114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3114" data-uslm-ref="/us/usc/t40/s3114">3114.</a>  </td>
 
     <td> Declaration of taking.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ACQUIRING LAND  </td>
 
   <tr>
 
-    <td> 3115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3115" data-uslm-ref="/us/usc/t40/s3115">3115.</a>  </td>
 
     <td> Irrevocable commitment of Federal Government to pay ultimate award when fixed.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ACQUIRING LAND  </td>
 
   <tr>
 
-    <td> 3116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3116" data-uslm-ref="/us/usc/t40/s3116">3116.</a>  </td>
 
     <td> Interest as part of just compensation.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ACQUIRING LAND  </td>
 
   <tr>
 
-    <td> 3117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3117" data-uslm-ref="/us/usc/t40/s3117">3117.</a>  </td>
 
     <td> Exclusion of certain property by stipulation of Attorney General.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ACQUIRING LAND  </td>
 
   <tr>
 
-    <td> 3118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3118" data-uslm-ref="/us/usc/t40/s3118">3118.</a>  </td>
 
     <td> Right of taking as addition to existing rights.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—BONDS  </td>
 
   <tr>
 
-    <td> 3131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3131" data-uslm-ref="/us/usc/t40/s3131">3131.</a>  </td>
 
     <td> Bonds of contractors of public buildings or works.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—BONDS  </td>
 
   <tr>
 
-    <td> 3132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3132" data-uslm-ref="/us/usc/t40/s3132">3132.</a>  </td>
 
     <td> Alternatives to payment bonds provided by Federal Acquisition Regulation.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—BONDS  </td>
 
   <tr>
 
-    <td> 3133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3133" data-uslm-ref="/us/usc/t40/s3133">3133.</a>  </td>
 
     <td> Rights of persons furnishing labor or material.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—BONDS  </td>
 
   <tr>
 
-    <td> 3134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3134" data-uslm-ref="/us/usc/t40/s3134">3134.</a>  </td>
 
     <td> Waivers for certain contracts.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 3141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3141" data-uslm-ref="/us/usc/t40/s3141">3141.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 3142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3142" data-uslm-ref="/us/usc/t40/s3142">3142.</a>  </td>
 
     <td> Rate of wages for laborers and mechanics.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 3143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3143" data-uslm-ref="/us/usc/t40/s3143">3143.</a>  </td>
 
     <td> Termination of work on failure to pay agreed wages.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 3144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3144" data-uslm-ref="/us/usc/t40/s3144">3144.</a>  </td>
 
     <td> Authority of Comptroller General to pay wages and list contractors violating contracts.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 3145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3145" data-uslm-ref="/us/usc/t40/s3145">3145.</a>  </td>
 
     <td> Regulations governing contractors and subcontractors.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 3146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3146" data-uslm-ref="/us/usc/t40/s3146">3146.</a>  </td>
 
     <td> Effect on other federal laws.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 3147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3147" data-uslm-ref="/us/usc/t40/s3147">3147.</a>  </td>
 
     <td> Suspension of this subchapter during a national emergency.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 3148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3148" data-uslm-ref="/us/usc/t40/s3148">3148.</a>  </td>
 
     <td> Application of this subchapter to certain contracts.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER V—VOLUNTEER SERVICES  </td>
 
   <tr>
 
-    <td> 3161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3161" data-uslm-ref="/us/usc/t40/s3161">3161.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER V—VOLUNTEER SERVICES  </td>
 
   <tr>
 
-    <td> 3162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3162" data-uslm-ref="/us/usc/t40/s3162">3162.</a>  </td>
 
     <td> Waiver for individuals who perform volunteer services.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3171" data-uslm-ref="/us/usc/t40/s3171">3171.</a>  </td>
 
     <td> Contract authority when appropriation is for less than full amount.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3172" data-uslm-ref="/us/usc/t40/s3172">3172.</a>  </td>
 
     <td> Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3173" data-uslm-ref="/us/usc/t40/s3173">3173.</a>  </td>
 
     <td> Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F111%2F8" data-uslm-ref="/us/pl/111/8">Pub. L. 111–8</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3174" data-uslm-ref="/us/usc/t40/s3174">3174.</a>  </td>
 
     <td> Operation of public utility communications services serving governmental activities.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3175" data-uslm-ref="/us/usc/t40/s3175">3175.</a>  </td>
 
     <td> Acceptance of gifts of property.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3176.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3176" data-uslm-ref="/us/usc/t40/s3176">3176.</a>  </td>
 
     <td> Administrator of General Services to furnish services in continental United States to international bodies.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 3177.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3177" data-uslm-ref="/us/usc/t40/s3177">3177.</a>  </td>
 
     <td> Use of photovoltaic energy in public buildings. <sup>[2]</sup>  <sup><sup> 2 Editorially supplied. Section 3177 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F58" data-uslm-ref="/us/pl/109/58">Pub. L. 109–58</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 

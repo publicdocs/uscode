@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8501" data-uslm-ref="/us/usc/t40/s8501">8501.</a>  </td>
 
     <td> National Capital Service Area.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8502" data-uslm-ref="/us/usc/t40/s8502">8502.</a>  </td>
 
     <td> National Capital Service Director.  </td>
 

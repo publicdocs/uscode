@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 17101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17101" data-uslm-ref="/us/usc/t40/s17101">17101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 17102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17102" data-uslm-ref="/us/usc/t40/s17102">17102.</a>  </td>
 
     <td> Prohibition on acquisition or purchase of motor vehicles by Federal Government.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 17103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17103" data-uslm-ref="/us/usc/t40/s17103">17103.</a>  </td>
 
     <td> Commercial standards for passenger safety devices.  </td>
 

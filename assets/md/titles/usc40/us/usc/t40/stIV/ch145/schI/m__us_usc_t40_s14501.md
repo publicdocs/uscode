@@ -67,11 +67,9 @@
 
     (g) __Application of Title 23.—__ 
 
-        (1) __Sections 106__ 
+        (1) __Sections 106(a) and 118.—__ 
 
-            (a) __and 118.—__ 
-
-            Sections 106(a) and 118 of title 23 apply to the development highway system and the local access roads.
+        Sections 106(a) and 118 of title 23 apply to the development highway system and the local access roads.
 
         (2) __Construction and maintenance.—__ 
 

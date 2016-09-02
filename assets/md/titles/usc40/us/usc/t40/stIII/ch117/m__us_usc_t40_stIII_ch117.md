@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11701" data-uslm-ref="/us/usc/t40/s11701">11701.</a>  </td>
 
     <td> Identification of excess and surplus computer equipment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 11702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11702" data-uslm-ref="/us/usc/t40/s11702">11702.</a>  </td>
 
     <td> Index of certain information in information systems included in directory established under <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs4101" data-uslm-ref="/us/usc/t44/s4101">section 4101 of title 44</a>.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 11703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11703" data-uslm-ref="/us/usc/t40/s11703">11703.</a>  </td>
 
     <td> Procurement procedures.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [11704.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11704" data-uslm-ref="/us/usc/t40/s11704">11704.</a>  </td>
 
     <td> Renumbered.]  </td>
 

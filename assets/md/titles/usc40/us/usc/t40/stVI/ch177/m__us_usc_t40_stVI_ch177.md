@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 17701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17701" data-uslm-ref="/us/usc/t40/s17701">17701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 17702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17702" data-uslm-ref="/us/usc/t40/s17702">17702.</a>  </td>
 
     <td> Transfer of Government-owned long-lines communication facilities in and to Alaska.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 17703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17703" data-uslm-ref="/us/usc/t40/s17703">17703.</a>  </td>
 
     <td> National defense considerations and qualification of transferee.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 17704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17704" data-uslm-ref="/us/usc/t40/s17704">17704.</a>  </td>
 
     <td> Contents of agreements for transfer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 17705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17705" data-uslm-ref="/us/usc/t40/s17705">17705.</a>  </td>
 
     <td> Approval of Federal Communications Commission.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 17706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17706" data-uslm-ref="/us/usc/t40/s17706">17706.</a>  </td>
 
     <td> Gross proceeds as miscellaneous receipts in the Treasury.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 17707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17707" data-uslm-ref="/us/usc/t40/s17707">17707.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 17708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17708" data-uslm-ref="/us/usc/t40/s17708">17708.</a>  </td>
 
     <td> Nonapplication.  </td>
 

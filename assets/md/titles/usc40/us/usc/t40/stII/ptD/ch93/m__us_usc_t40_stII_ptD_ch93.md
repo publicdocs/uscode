@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9301" data-uslm-ref="/us/usc/t40/s9301">9301.</a>  </td>
 
     <td> Maintenance and administration.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9302" data-uslm-ref="/us/usc/t40/s9302">9302.</a>  </td>
 
     <td> Consent of Theodore Roosevelt Association required for development.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9303" data-uslm-ref="/us/usc/t40/s9303">9303.</a>  </td>
 
     <td> Access to Theodore Roosevelt Island.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9304" data-uslm-ref="/us/usc/t40/s9304">9304.</a>  </td>
 
     <td> Source of appropriations.  </td>
 

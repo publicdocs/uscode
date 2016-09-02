@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11101" data-uslm-ref="/us/usc/t40/s11101">11101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 11102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11102" data-uslm-ref="/us/usc/t40/s11102">11102.</a>  </td>
 
     <td> Sense of Congress.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 11103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11103" data-uslm-ref="/us/usc/t40/s11103">11103.</a>  </td>
 
     <td> Applicability to national security systems.  </td>
 

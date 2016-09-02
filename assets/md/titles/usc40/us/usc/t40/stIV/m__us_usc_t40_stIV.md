@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2FstIV%2Fch141" data-uslm-ref="/us/usc/t40/stIV/ch141">141.</a>  </td>
 
     <td> GENERAL PROVISIONS  </td>
 
-    <td> 14101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14101" data-uslm-ref="/us/usc/t40/s14101">14101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2FstIV%2Fch143" data-uslm-ref="/us/usc/t40/stIV/ch143">143.</a>  </td>
 
     <td> APPALACHIAN REGIONAL COMMISSION  </td>
 
-    <td> 14301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14301" data-uslm-ref="/us/usc/t40/s14301">14301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2FstIV%2Fch145" data-uslm-ref="/us/usc/t40/stIV/ch145">145.</a>  </td>
 
     <td> SPECIAL APPALACHIAN PROGRAMS  </td>
 
-    <td> 14501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14501" data-uslm-ref="/us/usc/t40/s14501">14501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2FstIV%2Fch147" data-uslm-ref="/us/usc/t40/stIV/ch147">147.</a>  </td>
 
     <td> MISCELLANEOUS  </td>
 
-    <td> 14701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14701" data-uslm-ref="/us/usc/t40/s14701">14701</a>  </td>
 
   </tr>
 

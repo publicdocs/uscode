@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 18101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs18101" data-uslm-ref="/us/usc/t40/s18101">18101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 18102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs18102" data-uslm-ref="/us/usc/t40/s18102">18102.</a>  </td>
 
     <td> Federal telecommunications system.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 18103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs18103" data-uslm-ref="/us/usc/t40/s18103">18103.</a>  </td>
 
     <td> Research and development.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 18104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs18104" data-uslm-ref="/us/usc/t40/s18104">18104.</a>  </td>
 
     <td> TTY installation by Congress.  </td>
 

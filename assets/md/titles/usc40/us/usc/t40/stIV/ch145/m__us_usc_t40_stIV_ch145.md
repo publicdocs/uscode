@@ -33,7 +33,7 @@ SUBCHAPTER I—PROGRAMS  </td>
 
   <tr>
 
-    <td> 14501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14501" data-uslm-ref="/us/usc/t40/s14501">14501.</a>  </td>
 
     <td> Appalachian development highway system.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PROGRAMS  </td>
 
   <tr>
 
-    <td> 14502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14502" data-uslm-ref="/us/usc/t40/s14502">14502.</a>  </td>
 
     <td> Demonstration health projects.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PROGRAMS  </td>
 
   <tr>
 
-    <td> 14503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14503" data-uslm-ref="/us/usc/t40/s14503">14503.</a>  </td>
 
     <td> Assistance for proposed low- and middle-income housing projects.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PROGRAMS  </td>
 
   <tr>
 
-    <td> 14504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14504" data-uslm-ref="/us/usc/t40/s14504">14504.</a>  </td>
 
     <td> Telecommunications and technology initiative.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PROGRAMS  </td>
 
   <tr>
 
-    <td> 14505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14505" data-uslm-ref="/us/usc/t40/s14505">14505.</a>  </td>
 
     <td> Entrepreneurship initiative.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PROGRAMS  </td>
 
   <tr>
 
-    <td> 14506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14506" data-uslm-ref="/us/usc/t40/s14506">14506.</a>  </td>
 
     <td> Regional skills partnerships.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—PROGRAMS  </td>
 
   <tr>
 
-    <td> 14507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14507" data-uslm-ref="/us/usc/t40/s14507">14507.</a>  </td>
 
     <td> Supplements to federal grant programs.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—PROGRAMS  </td>
 
   <tr>
 
-    <td> 14508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14508" data-uslm-ref="/us/usc/t40/s14508">14508.</a>  </td>
 
     <td> Economic and energy development initiative.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 14521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14521" data-uslm-ref="/us/usc/t40/s14521">14521.</a>  </td>
 
     <td> Required level of expenditure.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 14522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14522" data-uslm-ref="/us/usc/t40/s14522">14522.</a>  </td>
 
     <td> Consent of States.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 14523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14523" data-uslm-ref="/us/usc/t40/s14523">14523.</a>  </td>
 
     <td> Program implementation.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 14524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14524" data-uslm-ref="/us/usc/t40/s14524">14524.</a>  </td>
 
     <td> Program development criteria.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 14525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14525" data-uslm-ref="/us/usc/t40/s14525">14525.</a>  </td>
 
     <td> State development planning process.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
   <tr>
 
-    <td> 14526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14526" data-uslm-ref="/us/usc/t40/s14526">14526.</a>  </td>
 
     <td> Distressed, at-risk, and economically strong counties.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3501" data-uslm-ref="/us/usc/t40/s3501">3501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3502" data-uslm-ref="/us/usc/t40/s3502">3502.</a>  </td>
 
     <td> Planned public works.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3503" data-uslm-ref="/us/usc/t40/s3503">3503.</a>  </td>
 
     <td> Revolving fund.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3504" data-uslm-ref="/us/usc/t40/s3504">3504.</a>  </td>
 
     <td> Surveys of public works planning.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3505" data-uslm-ref="/us/usc/t40/s3505">3505.</a>  </td>
 
     <td> Forgiveness of outstanding advances.  </td>
 

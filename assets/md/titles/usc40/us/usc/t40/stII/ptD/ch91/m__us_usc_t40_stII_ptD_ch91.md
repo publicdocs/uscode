@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9101" data-uslm-ref="/us/usc/t40/s9101">9101.</a>  </td>
 
     <td> Establishment, composition, and vacancies.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9102" data-uslm-ref="/us/usc/t40/s9102">9102.</a>  </td>
 
     <td> Duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9103" data-uslm-ref="/us/usc/t40/s9103">9103.</a>  </td>
 
     <td> Personnel.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9104" data-uslm-ref="/us/usc/t40/s9104">9104.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

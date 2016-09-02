@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 18301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs18301" data-uslm-ref="/us/usc/t40/s18301">18301.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 18302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs18302" data-uslm-ref="/us/usc/t40/s18302">18302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 18303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs18303" data-uslm-ref="/us/usc/t40/s18303">18303.</a>  </td>
 
     <td> Standards for arbitrators.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 18304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs18304" data-uslm-ref="/us/usc/t40/s18304">18304.</a>  </td>
 
     <td> Procedures for enforcement of awards.  </td>
 

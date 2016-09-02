@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_stI_ch11^extra.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_s1102.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1101)
+[Previous](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_stI_ch11.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_s1102.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1101)
 
 ## § 1101. Policy
 
@@ -69,7 +69,7 @@ June 30, 1949, ch. 288, title IX, § 902, as added Pub. L. 92–582, Oct. 27, 
 
 ----------
 
-[Previous](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_stI_ch11^extra.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_s1102.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1101)
+[Previous](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_stI_ch11.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_s1102.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1101)
 
 ----------
 ----------

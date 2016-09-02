@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6501" data-uslm-ref="/us/usc/t40/s6501">6501.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6502" data-uslm-ref="/us/usc/t40/s6502">6502.</a>  </td>
 
     <td> Thurgood Marshall Federal Judiciary Building.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6503" data-uslm-ref="/us/usc/t40/s6503">6503.</a>  </td>
 
     <td> Commission for the Judiciary Office Building.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6504" data-uslm-ref="/us/usc/t40/s6504">6504.</a>  </td>
 
     <td> Lease of building.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6505" data-uslm-ref="/us/usc/t40/s6505">6505.</a>  </td>
 
     <td> Structural and mechanical care and security.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6506" data-uslm-ref="/us/usc/t40/s6506">6506.</a>  </td>
 
     <td> Allocation of space.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6507" data-uslm-ref="/us/usc/t40/s6507">6507.</a>  </td>
 
     <td> Account in Treasury.  </td>
 

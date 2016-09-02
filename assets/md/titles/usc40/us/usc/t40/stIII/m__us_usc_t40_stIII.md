@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2FstIII%2Fch111" data-uslm-ref="/us/usc/t40/stIII/ch111">111.</a>  </td>
 
     <td> GENERAL  </td>
 
-    <td> 11101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11101" data-uslm-ref="/us/usc/t40/s11101">11101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2FstIII%2Fch113" data-uslm-ref="/us/usc/t40/stIII/ch113">113.</a>  </td>
 
     <td> RESPONSIBILITY FOR ACQUISITIONS OF INFORMATION TECHNOLOGY  </td>
 
-    <td> 11301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11301" data-uslm-ref="/us/usc/t40/s11301">11301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2FstIII%2Fch115" data-uslm-ref="/us/usc/t40/stIII/ch115">115.</a>  </td>
 
     <td> INFORMATION TECHNOLOGY ACQUISITION PILOT PROGRAM  </td>
 
-    <td> 11501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11501" data-uslm-ref="/us/usc/t40/s11501">11501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2FstIII%2Fch117" data-uslm-ref="/us/usc/t40/stIII/ch117">117.</a>  </td>
 
     <td> ADDITIONAL INFORMATION RESOURCES MANAGEMENT MATTERS  </td>
 
-    <td> 11701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11701" data-uslm-ref="/us/usc/t40/s11701">11701</a>  </td>
 
   </tr>
 

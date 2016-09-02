@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3701" data-uslm-ref="/us/usc/t40/s3701">3701.</a>  </td>
 
     <td> Definition and application.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3702" data-uslm-ref="/us/usc/t40/s3702">3702.</a>  </td>
 
     <td> Work hours.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3703" data-uslm-ref="/us/usc/t40/s3703">3703.</a>  </td>
 
     <td> Report of violations and withholding of amounts for unpaid wages and liquidated damages.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3704" data-uslm-ref="/us/usc/t40/s3704">3704.</a>  </td>
 
     <td> Health and safety standards in building trades and construction industry.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3705" data-uslm-ref="/us/usc/t40/s3705">3705.</a>  </td>
 
     <td> Safety programs.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3706" data-uslm-ref="/us/usc/t40/s3706">3706.</a>  </td>
 
     <td> Limitations, variations, tolerances, and exemptions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3707" data-uslm-ref="/us/usc/t40/s3707">3707.</a>  </td>
 
     <td> Contractor certification or contract clause in acquisition of commercial items not required.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3708" data-uslm-ref="/us/usc/t40/s3708">3708.</a>  </td>
 
     <td> Criminal penalties.  </td>
 

@@ -11,19 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t40/stI/m__us_usc_t40_stI.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/schI/m__us_usc_t40_stI_ch11_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2FstI%2Fch11)
+[Previous](./../../../../..//us/usc/t40/stI/ch9/m__us_usc_t40_s905.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_s1101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2FstI%2Fch11)
 
-### CHAPTER 11—GENERAL
+### CHAPTER 11—SELECTION OF ARCHITECTS AND ENGINEERS
 
 <table>
-
-  <tr>
-
-    <td> 
-
-SUBCHAPTER I—PURPOSE AND DEFINITIONS  </td>
-
-  </tr>
 
   <tr>
 
@@ -33,15 +25,15 @@ SUBCHAPTER I—PURPOSE AND DEFINITIONS  </td>
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1101" data-uslm-ref="/us/usc/t40/s1101">1101.</a>  </td>
 
-    <td> Purpose.  </td>
+    <td> Policy.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1102" data-uslm-ref="/us/usc/t40/s1102">1102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,106 +41,28 @@ SUBCHAPTER I—PURPOSE AND DEFINITIONS  </td>
 
   <tr>
 
-    <td> 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1103" data-uslm-ref="/us/usc/t40/s1103">1103.</a>  </td>
 
-SUBCHAPTER II—SCOPE  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 111.  </td>
-
-    <td> Application to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.  </td>
+    <td> Selection procedure.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs1104" data-uslm-ref="/us/usc/t40/s1104">1104.</a>  </td>
 
-    <td> Applicability of certain policies, procedures, and directives in effect on July 1, 1949.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 113.  </td>
-
-    <td> Limitations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-SUBCHAPTER III—ADMINISTRATIVE AND GENERAL  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 121.  </td>
-
-    <td> Administrative.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 122.  </td>
-
-    <td> Prohibition on sex discrimination.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 123.  </td>
-
-    <td> Civil remedies for fraud.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 124.  </td>
-
-    <td> Agency use of amounts for property management.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 125.  </td>
-
-    <td> Library memberships.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 126.  </td>
-
-    <td> Reports to Congress.  </td>
+    <td> Negotiation of contract.  </td>
 
   </tr>
 
 </table>
 
- __Amendments__ 
-
-    2011—[Pub. L. 111–350, § 5][/us/pl/111/350/s5](l)(1), Jan. 4, 2011, [124 Stat. 3850][/us/stat/124/3850], substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Federal Property and Administrative Services Act of 1949” in item 111.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t40/stI/m__us_usc_t40_stI.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/schI/m__us_usc_t40_stI_ch11_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2FstI%2Fch11)
+[Previous](./../../../../..//us/usc/t40/stI/ch9/m__us_usc_t40_s905.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_s1101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2FstI%2Fch11)
 
 ----------
 ----------
 
-[/us/pl/111/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5
-[/us/stat/124/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3850
 
 

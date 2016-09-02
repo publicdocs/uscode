@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8901" data-uslm-ref="/us/usc/t40/s8901">8901.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8902" data-uslm-ref="/us/usc/t40/s8902">8902.</a>  </td>
 
     <td> Definitions and nonapplication.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8903" data-uslm-ref="/us/usc/t40/s8903">8903.</a>  </td>
 
     <td> Congressional authorization of commemorative works.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8904" data-uslm-ref="/us/usc/t40/s8904">8904.</a>  </td>
 
     <td> National Capital Memorial Commission. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F108%2F126" data-uslm-ref="/us/pl/108/126">Pub. L. 108–126</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8905" data-uslm-ref="/us/usc/t40/s8905">8905.</a>  </td>
 
     <td> Site and design approval.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8906" data-uslm-ref="/us/usc/t40/s8906">8906.</a>  </td>
 
     <td> Criteria for issuance of construction permit.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8907" data-uslm-ref="/us/usc/t40/s8907">8907.</a>  </td>
 
     <td> Temporary site designation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8908" data-uslm-ref="/us/usc/t40/s8908">8908.</a>  </td>
 
     <td> Areas I and II.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs8909" data-uslm-ref="/us/usc/t40/s8909">8909.</a>  </td>
 
     <td> Administrative.  </td>
 

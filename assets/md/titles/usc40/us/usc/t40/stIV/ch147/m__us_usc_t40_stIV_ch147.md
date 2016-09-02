@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14701" data-uslm-ref="/us/usc/t40/s14701">14701.</a>  </td>
 
     <td> Applicable labor standards.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14702" data-uslm-ref="/us/usc/t40/s14702">14702.</a>  </td>
 
     <td> Nondiscrimination.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14703" data-uslm-ref="/us/usc/t40/s14703">14703.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14704" data-uslm-ref="/us/usc/t40/s14704">14704.</a>  </td>
 
     <td> Termination.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9501" data-uslm-ref="/us/usc/t40/s9501">9501.</a>  </td>
 
     <td> Chief of Engineers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9502" data-uslm-ref="/us/usc/t40/s9502">9502.</a>  </td>
 
     <td> Authority of Chief of Engineers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9503" data-uslm-ref="/us/usc/t40/s9503">9503.</a>  </td>
 
     <td> Record of property.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9504" data-uslm-ref="/us/usc/t40/s9504">9504.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9505" data-uslm-ref="/us/usc/t40/s9505">9505.</a>  </td>
 
     <td> Paying for main pipes.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9506" data-uslm-ref="/us/usc/t40/s9506">9506.</a>  </td>
 
     <td> Civil penalty.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs9507" data-uslm-ref="/us/usc/t40/s9507">9507.</a>  </td>
 
     <td> Control of expenditures.  </td>
 

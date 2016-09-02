@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14101" data-uslm-ref="/us/usc/t40/s14101">14101.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14102" data-uslm-ref="/us/usc/t40/s14102">14102.</a>  </td>
 
     <td> Definitions.  </td>
 

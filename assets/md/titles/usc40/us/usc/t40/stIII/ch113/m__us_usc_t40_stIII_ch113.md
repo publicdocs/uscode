@@ -33,7 +33,7 @@ SUBCHAPTER I—DIRECTOR OF OFFICE OF MANAGEMENT AND BUDGET  </td>
 
   <tr>
 
-    <td> 11301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11301" data-uslm-ref="/us/usc/t40/s11301">11301.</a>  </td>
 
     <td> Responsibility of Director.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DIRECTOR OF OFFICE OF MANAGEMENT AND BUDGET  </td>
 
   <tr>
 
-    <td> 11302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11302" data-uslm-ref="/us/usc/t40/s11302">11302.</a>  </td>
 
     <td> Capital planning and investment control.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—DIRECTOR OF OFFICE OF MANAGEMENT AND BUDGET  </td>
 
   <tr>
 
-    <td> 11303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11303" data-uslm-ref="/us/usc/t40/s11303">11303.</a>  </td>
 
     <td> Performance-based and results-based management.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—EXECUTIVE AGENCIES  </td>
 
   <tr>
 
-    <td> 11311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11311" data-uslm-ref="/us/usc/t40/s11311">11311.</a>  </td>
 
     <td> Responsibilities.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—EXECUTIVE AGENCIES  </td>
 
   <tr>
 
-    <td> 11312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11312" data-uslm-ref="/us/usc/t40/s11312">11312.</a>  </td>
 
     <td> Capital planning and investment control.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—EXECUTIVE AGENCIES  </td>
 
   <tr>
 
-    <td> 11313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11313" data-uslm-ref="/us/usc/t40/s11313">11313.</a>  </td>
 
     <td> Performance and results-based management.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—EXECUTIVE AGENCIES  </td>
 
   <tr>
 
-    <td> 11314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11314" data-uslm-ref="/us/usc/t40/s11314">11314.</a>  </td>
 
     <td> Authority to acquire and manage information technology.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—EXECUTIVE AGENCIES  </td>
 
   <tr>
 
-    <td> 11315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11315" data-uslm-ref="/us/usc/t40/s11315">11315.</a>  </td>
 
     <td> Agency Chief Information Officer.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—EXECUTIVE AGENCIES  </td>
 
   <tr>
 
-    <td> 11316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11316" data-uslm-ref="/us/usc/t40/s11316">11316.</a>  </td>
 
     <td> Accountability.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—EXECUTIVE AGENCIES  </td>
 
   <tr>
 
-    <td> 11317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11317" data-uslm-ref="/us/usc/t40/s11317">11317.</a>  </td>
 
     <td> Significant deviations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—EXECUTIVE AGENCIES  </td>
 
   <tr>
 
-    <td> 11318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11318" data-uslm-ref="/us/usc/t40/s11318">11318.</a>  </td>
 
     <td> Interagency support.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—OTHER RESPONSIBILITIES  </td>
 
   <tr>
 
-    <td> 11331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11331" data-uslm-ref="/us/usc/t40/s11331">11331.</a>  </td>
 
     <td> Responsibilities for Federal information systems standards.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—OTHER RESPONSIBILITIES  </td>
 
   <tr>
 
-    <td> [11332.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs11332" data-uslm-ref="/us/usc/t40/s11332">11332.</a>  </td>
 
     <td> Repealed.]  </td>
 

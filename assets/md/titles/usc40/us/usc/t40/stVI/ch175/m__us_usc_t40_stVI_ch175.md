@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 17501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17501" data-uslm-ref="/us/usc/t40/s17501">17501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 17502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17502" data-uslm-ref="/us/usc/t40/s17502">17502.</a>  </td>
 
     <td> Monitoring system.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 17503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17503" data-uslm-ref="/us/usc/t40/s17503">17503.</a>  </td>
 
     <td> Data collection.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 17504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17504" data-uslm-ref="/us/usc/t40/s17504">17504.</a>  </td>
 
     <td> Agency statements with respect to motor vehicle use.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 17505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17505" data-uslm-ref="/us/usc/t40/s17505">17505.</a>  </td>
 
     <td> Presidential report.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 17506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17506" data-uslm-ref="/us/usc/t40/s17506">17506.</a>  </td>
 
     <td> Reduction of storage and disposal costs.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 17507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17507" data-uslm-ref="/us/usc/t40/s17507">17507.</a>  </td>
 
     <td> Savings.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 17508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17508" data-uslm-ref="/us/usc/t40/s17508">17508.</a>  </td>
 
     <td> Compliance.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 17509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17509" data-uslm-ref="/us/usc/t40/s17509">17509.</a>  </td>
 
     <td> Applicability.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 17510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17510" data-uslm-ref="/us/usc/t40/s17510">17510.</a>  </td>
 
     <td> Cooperation.  </td>
 

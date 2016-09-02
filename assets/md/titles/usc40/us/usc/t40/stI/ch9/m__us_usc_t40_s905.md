@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t40/stI/ch9/m__us_usc_t40_s904.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_stI_ch11^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs905)
+[Previous](./../../../../..//us/usc/t40/stI/ch9/m__us_usc_t40_s904.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_stI_ch11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs905)
 
 ## § 905. Waiver
 
@@ -67,7 +67,7 @@ June 30, 1949, ch. 288, title VIII, § 805, as added Pub. L. 90–577, title V
 
 ----------
 
-[Previous](./../../../../..//us/usc/t40/stI/ch9/m__us_usc_t40_s904.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_stI_ch11^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs905)
+[Previous](./../../../../..//us/usc/t40/stI/ch9/m__us_usc_t40_s904.md) | [Next](./../../../../..//us/usc/t40/stI/ch11/m__us_usc_t40_stI_ch11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs905)
 
 ----------
 ----------

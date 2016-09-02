@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs701" data-uslm-ref="/us/usc/t40/s701">701.</a>  </td>
 
     <td> Administrative.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs702" data-uslm-ref="/us/usc/t40/s702">702.</a>  </td>
 
     <td> Return of foreign excess property to United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs703" data-uslm-ref="/us/usc/t40/s703">703.</a>  </td>
 
     <td> Donation of medical supplies for use in foreign country.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs704" data-uslm-ref="/us/usc/t40/s704">704.</a>  </td>
 
     <td> Other methods of disposal.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs705" data-uslm-ref="/us/usc/t40/s705">705.</a>  </td>
 
     <td> Handling of proceeds from disposal.  </td>
 

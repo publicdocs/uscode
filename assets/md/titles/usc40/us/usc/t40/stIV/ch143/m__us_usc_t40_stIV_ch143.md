@@ -33,7 +33,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14301" data-uslm-ref="/us/usc/t40/s14301">14301.</a>  </td>
 
     <td> Establishment, membership, and employees.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14302" data-uslm-ref="/us/usc/t40/s14302">14302.</a>  </td>
 
     <td> Decisions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14303" data-uslm-ref="/us/usc/t40/s14303">14303.</a>  </td>
 
     <td> Functions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14304" data-uslm-ref="/us/usc/t40/s14304">14304.</a>  </td>
 
     <td> Recommendations.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14305" data-uslm-ref="/us/usc/t40/s14305">14305.</a>  </td>
 
     <td> Liaison between Federal Government and Commission.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14306" data-uslm-ref="/us/usc/t40/s14306">14306.</a>  </td>
 
     <td> Administrative powers and expenses.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14307" data-uslm-ref="/us/usc/t40/s14307">14307.</a>  </td>
 
     <td> Meetings.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14308" data-uslm-ref="/us/usc/t40/s14308">14308.</a>  </td>
 
     <td> Information.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14309" data-uslm-ref="/us/usc/t40/s14309">14309.</a>  </td>
 
     <td> Personal financial interests.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 14310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14310" data-uslm-ref="/us/usc/t40/s14310">14310.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—FINANCIAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 14321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14321" data-uslm-ref="/us/usc/t40/s14321">14321.</a>  </td>
 
     <td> Grants and other assistance.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—FINANCIAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 14322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs14322" data-uslm-ref="/us/usc/t40/s14322">14322.</a>  </td>
 
     <td> Approval of development plans, strategy statements, and projects.  </td>
 

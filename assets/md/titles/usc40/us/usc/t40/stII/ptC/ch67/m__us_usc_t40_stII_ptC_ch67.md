@@ -33,7 +33,7 @@ SUBCHAPTER I—TRANSFER AND ASSIGNMENT OF RIGHTS, AUTHORITIES, TITLE, AND INTERE
 
   <tr>
 
-    <td> 6701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6701" data-uslm-ref="/us/usc/t40/s6701">6701.</a>  </td>
 
     <td> Transfer of rights and authorities of Pennsylvania Avenue Development Corporation.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—TRANSFER AND ASSIGNMENT OF RIGHTS, AUTHORITIES, TITLE, AND INTERE
 
   <tr>
 
-    <td> 6702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6702" data-uslm-ref="/us/usc/t40/s6702">6702.</a>  </td>
 
     <td> Transfer and assignment of rights, title, and interests in property.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—PENNSYLVANIA AVENUE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6711" data-uslm-ref="/us/usc/t40/s6711">6711.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—PENNSYLVANIA AVENUE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6712" data-uslm-ref="/us/usc/t40/s6712">6712.</a>  </td>
 
     <td> Powers of other agencies and instrumentalities in the development area.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—PENNSYLVANIA AVENUE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6713" data-uslm-ref="/us/usc/t40/s6713">6713.</a>  </td>
 
     <td> Certification of new construction.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—PENNSYLVANIA AVENUE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6714" data-uslm-ref="/us/usc/t40/s6714">6714.</a>  </td>
 
     <td> Relocation services.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—PENNSYLVANIA AVENUE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6715" data-uslm-ref="/us/usc/t40/s6715">6715.</a>  </td>
 
     <td> Coordination with District of Columbia.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—PENNSYLVANIA AVENUE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6716" data-uslm-ref="/us/usc/t40/s6716">6716.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—FEDERAL TRIANGLE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6731" data-uslm-ref="/us/usc/t40/s6731">6731.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—FEDERAL TRIANGLE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6732" data-uslm-ref="/us/usc/t40/s6732">6732.</a>  </td>
 
     <td> Federal Triangle development area.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—FEDERAL TRIANGLE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6733" data-uslm-ref="/us/usc/t40/s6733">6733.</a>  </td>
 
     <td> Federal Triangle property.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—FEDERAL TRIANGLE DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 6734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs6734" data-uslm-ref="/us/usc/t40/s6734">6734.</a>  </td>
 
     <td> Ronald Reagan Building and International Trade Center.  </td>
 

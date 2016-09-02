@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 17901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17901" data-uslm-ref="/us/usc/t40/s17901">17901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 17902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17902" data-uslm-ref="/us/usc/t40/s17902">17902.</a>  </td>
 
     <td> Sale of electric energy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 17903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17903" data-uslm-ref="/us/usc/t40/s17903">17903.</a>  </td>
 
     <td> Purchase of electric power.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 17904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs17904" data-uslm-ref="/us/usc/t40/s17904">17904.</a>  </td>
 
     <td> Implementation powers and limitations.  </td>
 
