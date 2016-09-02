@@ -31,7 +31,7 @@
 
             (C) [Section 953 of title 21][/us/usc/t21/s953] (relating to exportation of controlled substances).
 
-            (D) The Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\].
+            (D) The Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
             (E) [Section 2778 of title 22][/us/usc/t22/s2778].
 
@@ -49,7 +49,7 @@
 
             (A) Monetary instruments, as defined in [section 1956 of title 18][/us/usc/t18/s1956].
 
-            (B) A weapon of mass destruction, as defined in section 2332a(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 18.
+            (B) A weapon of mass destruction, as defined in section 2332a(b) 1 of title 18.
 
             (C) A drug or other substance listed in schedule I, II, III, or IV in [section 812 of title 21][/us/usc/t21/s812].
 
@@ -59,13 +59,13 @@
 
             (F) Merchandise mailed in violation of any provision of chapter 71 (relating to obscenity) or chapter 110 (relating to sexual exploitation and other abuse of children) of title 18.
 
-            (G) Merchandise mailed in violation of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\].
+            (G) Merchandise mailed in violation of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).1
 
             (H) Merchandise mailed in violation of [section 2778 of title 22][/us/usc/t22/s2778].
 
             (I) Merchandise mailed in violation of the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.).
 
-            (J) Merchandise mailed in violation of the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) \[now [50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\].
+            (J) Merchandise mailed in violation of the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.).1
 
             (K) Merchandise subject to any other law enforced by the Customs Service.
 
@@ -91,7 +91,7 @@
 
     [Section 2332a(b) of title 18][/us/usc/t18/s2332a/b], referred to in subsec. (c)(1)(B), does not define the term “weapon of mass destruction”. However, that term is defined elsewhere in that section.
 
-    The Trading with the Enemy Act, referred to in subsec. (c)(1)(J), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which was classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+    The Trading with the Enemy Act, referred to in subsec. (c)(1)(J), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which was classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (c)(2)(A), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -134,15 +134,12 @@
 
 [/us/usc/t31/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5316
 [/us/usc/t21/s953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs953
-[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t18/s1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1956
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
-[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F986

@@ -117,7 +117,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–27][/us/pl/114/27] designated existing provisions as par. (1) and inserted heading; redesignated former par. (1) and subpars. (A) and (B) as subpar. (A) and cls. (i) and (ii), respectively; added par. (2); and redesignated former par. (2) as subpar. (B) of par. (1) and amended it generally. Prior to amendment, subpar. (B) of par. (1) read as follows: “the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation.”
+    2015—Subsec. (a). [Pub. L. 114–27][/us/pl/114/27] designated existing provisions as par. (1) and inserted heading, redesignated former par. (1) and subpars. (A) and (B) as subpar. (A) and cls. (i) and (ii), respectively, added par. (2), and redesignated former par. (2) as subpar. (B) of par. (1) and amended it generally. Prior to amendment, subpar. (B) of par. (1) read as follows: “the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation.”
 
  __Effective Date__ 
 

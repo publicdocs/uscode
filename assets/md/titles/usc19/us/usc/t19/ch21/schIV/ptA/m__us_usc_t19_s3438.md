@@ -39,7 +39,7 @@
 
 [Pub. L. 114–27, title V][/us/pl/114/27/tV], § 507, June 29, 2015, [129 Stat. 387][/us/stat/129/387], provided that: 
 
-> “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act ([19 U.S.C. 3438][/us/usc/t19/s3438]), the amendments made by this title \[amending sections 1677, 1677b, 1677e, and 1677m of this title\] shall apply with respect to goods from Canada and Mexico.”
+> “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act ([19 U.S.C. 3438][/us/usc/t19/s3438]), the amendments made by this title \[see Short Title of 2015 Amendment note set out under [section 1654 of this title][/us/usc/t19/s1654]\] shall apply with respect to goods from Canada and Mexico.”
 
  __Application of Amendments by__  __[__  __Public Law 103–465__  __][/us/pl/103/465]__  __to Goods From Canada and Mexico__ 
 
@@ -73,6 +73,7 @@
 [/us/pl/114/27/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtV
 [/us/stat/129/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F387
 [/us/usc/t19/s3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3438
+[/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4901

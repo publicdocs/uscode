@@ -55,7 +55,7 @@
 
 >     “(b)  __Potential Trade Agreements Report__  __.—__ 
 
->     Not later than 1 year after the date of the enactment of this Act \[June 29, 2015\], and every 5 years thereafter, the United States Trade Representative shall submit to Congress a report that—
+>     Not later than 1 year after the date of the enactment of this Act, and every 5 years thereafter, the United States Trade Representative shall submit to Congress a report that—
 
 >         “(1) identifies sub-Saharan African countries that have a expressed an interest in entering into a free trade agreement with the United States;
 

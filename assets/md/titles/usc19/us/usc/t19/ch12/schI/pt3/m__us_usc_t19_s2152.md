@@ -27,7 +27,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–26][/us/pl/114/26] substituted “[section 4202 of this title][/us/usc/t19/s4202]” for “[section 3803 of this title][/us/usc/t19/s3803]”
+    2015—[Pub. L. 114–26][/us/pl/114/26] substituted “[section 4202 of this title][/us/usc/t19/s4202]” for “[section 3803 of this title][/us/usc/t19/s3803]”.
 
     2002—[Pub. L. 107–210][/us/pl/107/210] substituted “[section 3803 of this title][/us/usc/t19/s3803],” for “[section 2902 of this title][/us/usc/t19/s2902],”.
 

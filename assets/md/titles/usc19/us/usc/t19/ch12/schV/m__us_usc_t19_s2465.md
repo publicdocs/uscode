@@ -65,7 +65,7 @@
 
 >         “(B)  __Requests__  __.—__ 
 
->         A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act \[June 29, 2015\] that contains sufficient information to enable U.S. Customs and Border Protection—
+>         A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act that contains sufficient information to enable U.S. Customs and Border Protection—
 
 >             “(i) to locate the entry; or
 
