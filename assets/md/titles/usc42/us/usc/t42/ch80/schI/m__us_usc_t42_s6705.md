@@ -45,13 +45,13 @@
 
             (B) Subparagraph (A) of this paragraph shall not apply in any case where the Secretary determines it to be inconsistent with the public interest, or the cost to be unreasonable, or if articles, materials, or supplies of the class or kind to be used or the articles, materials, or supplies from which they are manufactured are not mined, produced, or manufactured, as the case may be, in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality.
 
-        (2) Except to the extent that the Secretary determines otherwise, no grant shall be made under this chapter for any local public works project unless the applicant gives satisfactory assurance to the Secretary that at least 10 per centum of the amount of each grant shall be expended for minority business enterprises. For purposes of this paragraph, the term “minority business enterprise” means a business at least 50 per centum of which is owned by minority group members or, in case of a publicly owned business, at least 51 per centum of the stock of which is owned by minority group members. For the purposes of the preceding sentence, minority group members are citizens of the United States who are Negroes, Spanish-speaking, Orientals, Indians, Eskimos, and Aleuts.
+        (2) Except to the extent that the Secretary determines otherwise, no grant shall be made under this chapter for any local public works project unless the applicant gives satisfactory assurance to the Secretary that at least 10 per centum of the amount of each grant shall be expended for minority business enterprises. For purposes of this paragraph, the term “minority business enterprise” means a business at least 50 per centum of which is owned by minority group members or, in case of a publicly owned business, at least 51 per centum of the stock of which is owned by minority group members. For the purposes of the preceding sentence, minority group members are citizens of the United States who are Asian American, Native Hawaiian, Pacific Islanders, African American, Hispanic, Native American, or Alaska Natives.
 
     (g) __Accessibility standards for handicapped and elderly__ 
 
         No grant shall be made under this chapter for any project for which the applicant does not give assurances satisfactory to the Secretary that the project will be designed and constructed in accordance with the standards for accessibility for public buildings and facilities to the handicapped and elderly under the Act entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 ([42 U.S.C. 4151][/us/usc/t42/s4151] et seq.). The Architectural and Transportation Barriers Compliance Board established by the Rehabilitation Act of 1973 ([P.L. 93–112][/us/pl/93/112]) \[[29 U.S.C. 701][/us/usc/t29/s701] et seq.\] is authorized to insure that any construction and renovation done pursuant to any grant made under this chapter complies with the accessibility standards for public bunldings  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “buildings”. </sup></sup>  and facilities issued under the Act of August 12, 1968.
 
-([Pub. L. 94–369, title I][/us/pl/94/369/tI], § 106, July 22, 1976, [90 Stat. 1000][/us/stat/90/1000]; [Pub. L. 95–28, title I][/us/pl/95/28/tI], § 103, May 13, 1977, [91 Stat. 116][/us/stat/91/116].)
+([Pub. L. 94–369, title I][/us/pl/94/369/tI], § 106, July 22, 1976, [90 Stat. 1000][/us/stat/90/1000]; [Pub. L. 95–28, title I][/us/pl/95/28/tI], § 103, May 13, 1977, [91 Stat. 116][/us/stat/91/116]; [Pub. L. 114–157][/us/pl/114/157], § 1(b), May 20, 2016, [130 Stat. 393][/us/stat/130/393].)
 
  __References in Text__ 
 
@@ -62,6 +62,8 @@
     The Rehabilitation Act of 1973, referred to in subsec. (g), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
 
  __Amendments__ 
+
+    2016—Subsec. (f)(2). [Pub. L. 114–157][/us/pl/114/157] substituted “Asian American, Native Hawaiian, Pacific Islanders, African American, Hispanic, Native American, or Alaska Natives” for “Negroes, Spanish-speaking, Orientals, Indians, Eskimos, and Aleuts”.
 
     1977—Subsecs. (e) to (g). [Pub. L. 95–28][/us/pl/95/28] added subsecs. (e) to (g).
 
@@ -80,6 +82,8 @@
 [/us/stat/90/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1000
 [/us/pl/95/28/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28%2FtI
 [/us/stat/91/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F116
+[/us/pl/114/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F157
+[/us/stat/130/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F393
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
@@ -89,6 +93,7 @@
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
+[/us/pl/114/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F157
 [/us/pl/95/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F28
 
 

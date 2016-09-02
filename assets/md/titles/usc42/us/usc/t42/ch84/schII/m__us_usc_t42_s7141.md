@@ -57,7 +57,7 @@
 
     As used in this section, the term—
 
-        (1) “minority” means any individual who is a citizen of the United States and who is a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent;
+        (1) “minority” means any individual who is a citizen of the United States and who is Asian American, Native Hawaiian, a Pacific Islander, African American, Hispanic, Puerto Rican, Native American, or an Alaska Native;
 
         (2) “minority business enterprise” means a firm, corporation, association, or partnership which is at least 50 percent owned or controlled by a minority or group of minorities; and
 
@@ -67,7 +67,11 @@
 
         There is authorized to be appropriated to the Secretary to carry out the functions of the Office not to exceed $3,000,000 for fiscal year 1979, not to exceed $5,000,000 for fiscal year 1980, and not to exceed $6,000,000 for fiscal year 1981. Of the amounts so appropriated each fiscal year, not less than 50 percent shall be available for purposes of financial assistance under subsection (e) of this section.
 
-([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 211, as added [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 641, Nov. 9, 1978, [92 Stat. 3284][/us/stat/92/3284].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 211, as added [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 641, Nov. 9, 1978, [92 Stat. 3284][/us/stat/92/3284]; amended [Pub. L. 114–157][/us/pl/114/157], § 1(a), May 20, 2016, [130 Stat. 393][/us/stat/130/393].)
+
+ __Amendments__ 
+
+    2016—Subsec. (f)(1). [Pub. L. 114–157][/us/pl/114/157] substituted “Asian American, Native Hawaiian, a Pacific Islander, African American, Hispanic, Puerto Rican, Native American, or an Alaska Native” for “a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent”.
 
 ----------
 
@@ -81,5 +85,8 @@
 [/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
 [/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3284
+[/us/pl/114/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F157
+[/us/stat/130/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F393
+[/us/pl/114/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F157
 
 
