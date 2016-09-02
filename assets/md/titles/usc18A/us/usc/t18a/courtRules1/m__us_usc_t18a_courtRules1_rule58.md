@@ -47,9 +47,11 @@
 
                 (ii) the defendant consents to trial, judgment, and sentencing before a magistrate judge;
 
-            (F) the right to a jury trial before either a magistrate judge or a district judge—unless the charge is a petty offense; and
+            (F) the right to a jury trial before either a magistrate judge or a district judge—unless the charge is a petty offense;
 
-            (G) any right to a preliminary hearing under Rule 5.1, and the general circumstances, if any, under which the defendant may secure pretrial release.
+            (G) any right to a preliminary hearing under Rule 5.1, and the general circumstances, if any, under which the defendant may secure pretrial release; and
+
+            (H) that a defendant who is not a United States citizen may request that an attorney for the government or a federal law enforcement official notify a consular officer from the defendant’s country of nationality that the defendant has been arrested—but that even without the defendant’s request, a treaty or other international agreement may require consular notification.
 
         (3)
 
@@ -111,7 +113,7 @@
 
         (3) Stay of Execution and Release Pending Appeal. Rule 38 applies to a stay of a judgment of conviction or sentence. The court may release the defendant pending appeal under the law relating to release pending appeal from a district court to a court of appeals.
 
-(Added May 1, 1990, eff. Dec. 1, 1990; amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(Added May 1, 1990, eff. Dec. 1, 1990; amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1990__ 
 
@@ -168,6 +170,16 @@
  __Committee Notes on Rules—2009 Amendment__ 
 
     The times set in the former rule at 10 days have been revised to 14 days. See the Committee Note to Rule 45(a).
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    Rule 58(b)(2)(H). Article 36 of the Vienna Convention on Consular Relations provides that detained foreign nationals shall be advised that they may have the consulate of their home country notified of their arrest and detention, and bilateral agreements with numerous countries require consular notification whether or not the detained foreign national requests it. Article 36 requires consular notification advice to be given “without delay,” and arresting officers are primarily responsible for providing this advice.
+
+    Providing this advice at the initial appearance is designed, not to relieve law enforcement officers of that responsibility, but to provide additional assurance that U.S. treaty obligations are fulfilled, and to create a judicial record of that action. The Committee concluded that the most effective and efficient method of conveying this information is to provide it to every defendant, without attempting to determine the defendant’s citizenship.
+
+    At the time of this amendment, many questions remain unresolved by the courts concerning Article 36, including whether it creates individual rights that may be invoked in a judicial proceeding and what, if any, remedy may exist for a violation of Article 36. Sanchez-Llamas v. Oregon, 548 U.S. 331 (2006). This amendment does not address those questions. More particularly, it does not create any such rights or remedies. 
+
+    Changes Made After Publication and Comment. In response to public comments the amendment was rephrased to state that the information regarding consular notification should be provided to all defendants who are arraigned. Although it is anticipated that ordinarily only defendants who are held in custody will ask the government to notify a consular official of their arrest, it is appropriate to provide this information to all defendants at the initial appearance. The new phrasing also makes it clear that the advice should be provided to every defendant, without any attempt to determine the defendant’s citizenship. A conforming change was made to the Committee Note.
 
  __References in Text__ 
 

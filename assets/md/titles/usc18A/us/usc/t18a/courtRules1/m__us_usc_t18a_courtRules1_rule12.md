@@ -21,23 +21,47 @@
 
     (b) __Pretrial Motions.__ 
 
-        (1) In General. Rule 47 applies to a pretrial motion.
+        (1) In General. A party may raise by pretrial motion any defense, objection, or request that the court can determine without a trial on the merits. Rule 47 applies to a pretrial motion.
 
-        (2) Motions That May Be Made Before Trial. A party may raise by pretrial motion any defense, objection, or request that the court can determine without a trial of the general issue.
+        (2) Motions That May Be Made at Any Time. A motion that the court lacks jurisdiction may be made at any time while the case is pending.
 
         (3)
 
- Motions That Must Be Made Before Trial. The following must be raised before trial:
+ Motions That Must Be Made Before Trial. The following defenses, objections, and requests must be raised by pretrial motion if the basis for the motion is then reasonably available and the motion can be determined without a trial on the merits:
 
-            (A) a motion alleging a defect in instituting the prosecution;
+            (A)
 
-            (B) a motion alleging a defect in the indictment or information—but at any time while the case is pending, the court may hear a claim that the indictment or information fails to invoke the court’s jurisdiction or to state an offense;
+             a defect in instituting the prosecution, including:
 
-            (C) a motion to suppress evidence;
+                (i) improper venue;
 
-            (D) a Rule 14 motion to sever charges or defendants; and
+                (ii) preindictment delay;
 
-            (E) a Rule 16 motion for discovery.
+                (iii) a violation of the constitutional right to a speedy trial;
+
+                (iv) selective or vindictive prosecution;
+
+                (v) an error in the grand-jury proceeding or preliminary hearing;
+
+            (B)
+
+             a defect in the indictment or information, including:
+
+                (i) joining two or more offenses in the same count (duplicity);
+
+                (ii) charging the same offense in more than one count (multiplicity);
+
+                (iii) lack of specificity;
+
+                (iv) improper joinder; and
+
+                (v) failure to state an offense;
+
+            (C) suppression of evidence;
+
+            (D) severance of charges or defendants under Rule 14; and
+
+            (E) discovery under Rule 16.
 
         (4)
 
@@ -47,17 +71,19 @@
 
             (B) At the Defendant’s Request. At the arraignment or as soon afterward as practicable, the defendant may, in order to have an opportunity to move to suppress evidence under Rule 12(b)(3)(C), request notice of the government’s intent to use (in its evidence-in-chief at trial) any evidence that the defendant may be entitled to discover under Rule 16.
 
-    (c) __Motion Deadline.__ 
+    (c) __Deadline for a Pretrial Motion; Consequences of Not Making a Timely Motion.__ 
 
-     The court may, at the arraignment or as soon afterward as practicable, set a deadline for the parties to make pretrial motions and may also schedule a motion hearing.
+        (1) Setting the Deadline. The court may, at the arraignment or as soon afterward as practicable, set a deadline for the parties to make pretrial motions and may also schedule a motion hearing. If the court does not set one, the deadline is the start of trial.
+
+        (2) Extending or Resetting the Deadline. At any time before trial, the court may extend or reset the deadline for pretrial motions.
+
+        (3) Consequences of Not Making a Timely Motion Under Rule 12(b)(3). If a party does not meet the deadline for making a Rule 12(b)(3) motion, the motion is untimely. But a court may consider the defense, objection, or request if the party shows good cause.
 
     (d) __Ruling on a Motion.__ 
 
      The court must decide every pretrial motion before trial unless it finds good cause to defer a ruling. The court must not defer ruling on a pretrial motion if the deferral will adversely affect a party’s right to appeal. When factual issues are involved in deciding a motion, the court must state its essential findings on the record.
 
-    (e) __Waiver of a Defense, Objection, or Request.__ 
-
-     A party waives any Rule 12(b)(3) defense, objection, or request not raised by the deadline the court sets under Rule 12(c) or by any extension the court provides. For good cause, the court may grant relief from the waiver.
+    (e)  __\[Reserved\]__ 
 
     (f) __Recording the Proceedings.__ 
 
@@ -71,7 +97,7 @@
 
      Rule 26.2 applies at a suppression hearing under Rule 12(b)(3)(C). At a suppression hearing, a law enforcement officer is considered a government witness.
 
-(As amended Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(11)][/us/pl/94/64/s3/11], (12), July 31, 1975, [89 Stat. 372][/us/stat/89/372]; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Apr. 22, 1974, eff. Dec. 1, 1975; [Pub. L. 94–64, § 3(11)][/us/pl/94/64/s3/11], (12), July 31, 1975, [89 Stat. 372][/us/stat/89/372]; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -202,6 +228,32 @@ Subdivision (f) provides that a failure to raise the objections or make the requ
     Moving the language in current Rule 12(d) caused the relettering of the subdivisions following Rule 12(c).
 
     Although amended Rule 12(e) is a revised version of current Rule 12(f), the Committee intends to make no change in the current law regarding waivers of motions or defenses.
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    Rule 12(b)(1). The language formerly in (b)(2), which provided that “any defense, objection, or request that the court can determine without trial of the general issue” may be raised by motion before trial, has been relocated here. The more modern phrase “trial on the merits” is substituted for the more archaic phrase “trial of the general issue.” No change in meaning is intended.
+
+    Rule 12(b)(2). As revised, subdivision (b)(2) states that lack of jurisdiction may be raised at any time the case is pending. This provision was relocated from its previous placement at the end of subsection (b)(3)(B) and restyled. No change in meaning is intended.
+
+    Rule 12(b)(3). The amendment clarifies which motions must be raised before trial.
+
+    The introductory language includes two important limitations. The basis for the motion must be one that is “then reasonably available” and the motion must be one that the court can determine “without trial on the merits.” The types of claims subject to Rule 12(b)(3) generally will be available before trial and they can—and should—be resolved then. The Committee recognized, however, that in some cases, a party may not have access to the information needed to raise particular claims that fall within the general categories subject to Rule 12(b)(3) prior to trial. The “then reasonably available” language is intended to ensure that a claim a party could not have raised on time is not subject to the limitation on review imposed by Rule 12(c)(3). Additionally, only those issues that can be determined “without a trial on the merits” need be raised by motion before trial. Just as in (b)(1), the more modern phrase “trial on the merits” is substituted for the more archaic phrase “trial of the general issue.” No change in meaning is intended.
+
+    The rule’s command that motions alleging “a defect in instituting the prosecution” and “errors in the indictment or information” must be made before trial is unchanged. The amendment adds a nonexclusive list of commonly raised claims under each category to help ensure that such claims are not overlooked. The Rule is not intended to and does not affect or supersede statutory provisions that establish the time to make specific motions, such as motions under the Jury Selection and Service Act, 18 U.S.C. § 1867(a) \[28 U.S.C. § 1867(a)\].
+
+    Rule 12(b)(3)(B) has also been amended to remove language that allowed the court at any time while the case is pending to hear a claim that the “indictment or information fails . . . to state an offense.” This specific charging error was previously considered fatal whenever raised and was excluded from the general requirement that charging deficiencies be raised prior to trial. The Supreme Court abandoned any jurisdictional justification for the exception in United States v. Cotton, 535 U.S. 625, 629-31 (2002) (overruling Ex parte Bain, 121 U.S. 1 (1887), “\[i\]nsofar as it held that a defective indictment deprives a court of jurisdiction”).
+
+    Rule 12(c). As revised, subdivision (c) governs both the deadline for making pretrial motions and the consequences of failing to meet the deadline for motions that must be made before trial under Rule 12(b)(3).
+
+    As amended, subdivision (c) contains three paragraphs. Paragraph (c)(1) retains the existing provisions for establishing the time when pretrial motions must be made, and adds a sentence stating that unless the court sets a deadline, the deadline for pretrial motions is the start of trial, so that motions may be ruled upon before jeopardy attaches. Subdivision (e) of the present rule contains the language “or by any extension the court provides,” which anticipates that a district court has broad discretion to extend, reset, or decline to extend or reset, the deadline for pretrial motions. New paragraph (c)(2) recognizes this discretion explicitly and relocates the Rule’s mention of it to a more logical place—after the provision concerning setting the deadline and before the provision concerning the consequences of not meeting the deadline. No change in meaning is intended.
+
+    New paragraph (c)(3) governs the review of untimely claims, previously addressed in Rule 12(e). Rule 12(e) provided that a party “waives” a defense not raised within the time set under Rule 12(c). Although the term waiver in the context of a criminal case ordinarily refers to the intentional relinquishment of a known right, Rule 12(e) has never required any determination that a party who failed to make a timely motion intended to relinquish a defense, objection, or request that was not raised in a timely fashion. Accordingly, to avoid possible confusion the Committee decided not to employ the term “waiver” in new paragraph (c)(3).
+
+    New paragraph 12(c)(3) retains the existing standard for untimely claims. The party seeking relief must show “good cause” for failure to raise a claim by the deadline, a flexible standard that requires consideration of all interests in the particular case.
+
+    Rule 12(e). The effect of failure to raise issues by a pretrial motion has been relocated from (e) to (c)(3).
+
+    Changes Made After Publication and Comment. Language that had been deleted from Rule 12(b)(2) as unnecessary was restored and relocated in (b)(1). The change begins the Rule’s treatment of pretrial motions with an appropriate general statement and responds to concerns that the deletion might have been perceived as unintentionally restricting the district courts’ authority to rule on pretrial motions. The references to “double jeopardy” and “statute of limitations” were dropped from the nonexclusive list in (b)(3)(A) to permit further debate over the treatment of such claims. New paragraph (c)(2) was added to state explicitly the district court’s authority to extend or reset the deadline for pretrial motions; this authority had been recognized implicitly in language being deleted from Rule 12(e). In subdivision (c), the cross reference to Rule 52 was omitted as unnecessarily controversial. In subparagraph (c)(3), the current language “good cause” was retained for all claims and subparagraph (c)(3)(B) was omitted. Finally, the Committee Note was amended to reflect these post-publication changes and to state explicitly that the rule is not intended to change or supersede statutory deadlines under provisions such as the Jury Selection and Service Act.
 
  __Amendment by Public Law__ 
 

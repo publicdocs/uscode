@@ -105,9 +105,11 @@
 
             (C) the circumstances, if any, under which the defendant may secure pretrial release;
 
-            (D) any right to a preliminary hearing; and
+            (D) any right to a preliminary hearing;
 
-            (E) the defendant’s right not to make a statement, and that any statement made may be used against the defendant.
+            (E) the defendant’s right not to make a statement, and that any statement made may be used against the defendant; and
+
+            (F) that a defendant who is not a United States citizen may request that an attorney for the government or a federal law enforcement official notify a consular officer from the defendant’s country of nationality that the defendant has been arrested—but that even without the defendant’s request, a treaty or other international agreement may require consular notification.
 
         (2) Consulting with Counsel. The judge must allow the defendant reasonable opportunity to consult with counsel.
 
@@ -123,7 +125,7 @@
 
      Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff. Aug. 1, 1982; [Pub. L. 98–473, title II, § 209(a)][/us/pl/98/473/s209/a], Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986]; Mar. 9, 1987, eff. Aug. 1, 1987; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2012, eff. Dec. 1, 2012.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff. Aug. 1, 1982; [Pub. L. 98–473, title II, § 209(a)][/us/pl/98/473/s209/a], Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986]; Mar. 9, 1987, eff. Aug. 1, 1987; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -260,6 +262,16 @@ The amendment of subdivision (b) reflects the recent amendment of 18 U.S.C. §�
     This rule is applicable even if the defendant arrives first in another district. The earlier stages of the extradition process have already fulfilled some of the functions of the initial appearance. During foreign extradition proceedings, the extradited person, assisted by counsel, is afforded an opportunity to review the charging document, U.S. arrest warrant, and supporting evidence. Rule 5(a)(1)(B) requires the person be taken before a magistrate judge without unnecessary delay. Consistent with this obligation, it is preferable not to delay an extradited person’s transportation to hold an initial appearance in the district of arrival, even if the person will be present in that district for some time as a result of connecting flights or logistical difficulties. Interrupting an extradited defendant’s transportation at this point can impair his or her ability to obtain and consult with trial counsel and to prepare his or her defense in the district where the charges are pending.
 
     Changes Made to Proposed Amendment Released for Public Comment. No changes were made in the amendment as published.
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    Rule 5(d)(1)(F). Article 36 of the Vienna Convention on Consular Relations provides that detained foreign nationals shall be advised that they may have the consulate of their home country notified of their arrest and detention, and bilateral agreements with numerous countries require consular notification whether or not the detained foreign national requests it. Article 36 requires consular notification advice to be given “without delay,” and arresting officers are primarily responsible for providing this advice.
+
+    Providing this advice at the initial appearance is designed, not to relieve law enforcement officers of that responsibility, but to provide additional assurance that U.S. treaty obligations are fulfilled, and to create a judicial record of that action. The Committee concluded that the most effective and efficient method of conveying this information is to provide it to every defendant, without attempting to determine the defendant’s citizenship.
+
+    At the time of this amendment, many questions remain unresolved by the courts concerning Article 36, including whether it creates individual rights that may be invoked in a judicial proceeding and what, if any, remedy may exist for a violation of Article 36. Sanchez-Llamas v. Oregon, 548 U.S. 331 (2006). This amendment does not address those questions. More particularly, it does not create any such rights or remedies.
+
+    Changes Made After Publication and Comment. In response to public comments the amendment was rephrased to state that the information regarding consular notification should be provided to all defendants who are arraigned. Although it is anticipated that ordinarily only defendants who are held in custody will ask the government to notify a consular official of their arrest, it is appropriate to provide this information to all defendants at their initial appearance. The new phrasing also makes it clear that the advice should be provided to every defendant, without any attempt to determine the defendant’s citizenship. A conforming change was made to the Committee Note.
 
  __Amendment by Public Law__ 
 

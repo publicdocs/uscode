@@ -85,7 +85,7 @@
 
             (D)
 
-             An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. § 401a  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  ), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official’s duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
+             An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. § 3003), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official’s duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
 
                 (i) Any official who receives information under Rule 6(e)(3)(D) may use the information only as necessary in the conduct of that person’s official duties subject to any limitations on the unauthorized disclosure of such information. Any state, state subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only in a manner consistent with any guidelines issued by the Attorney General and the Director of National Intelligence.
 
@@ -153,7 +153,7 @@
 
      “Indian tribe” means an Indian tribe recognized by the Secretary of the Interior on a list published in the Federal Register under 25 U.S.C. § 479a–1.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; [Pub. L. 95–78, § 2(a)][/us/pl/95/78/s2/a], July 30, 1977, [91 Stat. 319][/us/stat/91/319]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II, § 215(f)][/us/pl/98/473/s215/f], Oct. 12, 1984, [98 Stat. 2016][/us/stat/98/2016]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; [Pub. L. 107–56, title II, § 203(a)][/us/pl/107/56/s203/a], Oct. 26, 2001, [115 Stat. 278][/us/stat/115/278]; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 107–296, title VIII, § 895][/us/pl/107/296/s895], Nov. 25, 2002, [116 Stat. 2256][/us/stat/116/2256]; [Pub. L. 108–458, title VI, § 6501(a)][/us/pl/108/458/s6501/a], Dec. 17, 2004, [118 Stat. 3760][/us/stat/118/3760]; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; [Pub. L. 95–78, § 2(a)][/us/pl/95/78/s2/a], July 30, 1977, [91 Stat. 319][/us/stat/91/319]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; [Pub. L. 98–473, title II, § 215(f)][/us/pl/98/473/s215/f], Oct. 12, 1984, [98 Stat. 2016][/us/stat/98/2016]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; [Pub. L. 107–56, title II, § 203(a)][/us/pl/107/56/s203/a], Oct. 26, 2001, [115 Stat. 278][/us/stat/115/278]; Apr. 29, 2002, eff. Dec. 1, 2002; [Pub. L. 107–296, title VIII, § 895][/us/pl/107/296/s895], Nov. 25, 2002, [116 Stat. 2256][/us/stat/116/2256]; [Pub. L. 108–458, title VI, § 6501(a)][/us/pl/108/458/s6501/a], Dec. 17, 2004, [118 Stat. 3760][/us/stat/118/3760]; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -455,9 +455,11 @@ A recent GAO study established that there is considerable variety in the practic
 
     Changes Made to Proposed Amendment Released for Public Comment. No changes were made in the amendment as published.
 
- __References in Text__ 
+ __Committee Notes on Rules—2014 Amendment__ 
 
-    50 U.S.C. § 401a, referred to in subd. (e)(3)(D), was editorially reclassified as [50 U.S.C. 3003][/us/usc/t50/s3003].
+    Rule 6(e)(3)(D). This technical and conforming amendment updates a citation affected by the editorial reclassification of chapter 15 of title 50, United States Code. The amendment replaces the citation to 50 U.S.C. § 401a with a citation to 50 U.S.C. § 3003. No substantive change is intended.
+
+ __References in Text__ 
 
     The Uniform Code of Military Justice, referred to in subd. (e)(3)(E)(v), is classified to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
 
@@ -579,7 +581,6 @@ A recent GAO study established that there is considerable variety in the practic
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/108/458/s6501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa
 [/us/stat/118/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3760
-[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/108/458/s6501/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FA
 [/us/pl/108/458/s6501/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FB%2Fi
 [/us/pl/108/458/s6501/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fa%2F1%2FB%2Fii

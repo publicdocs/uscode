@@ -17,17 +17,13 @@
 
     (a) __In General.__ 
 
-     Upon the defendant’s motion or on its own, the court must arrest judgment if:
-
-        (1) the indictment or information does not charge an offense; or
-
-        (2) the court does not have jurisdiction of the charged offense.
+     Upon the defendant’s motion or on its own, the court must arrest judgment if the court does not have jurisdiction of the charged offense.
 
     (b) __Time to File.__ 
 
      The defendant must move to arrest judgment within 14 days after the court accepts a verdict or finding of guilty, or after a plea of guilty or nolo contendere.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1944__ 
 
@@ -58,6 +54,12 @@
  __Committee Notes on Rules—2009 Amendment__ 
 
     Former Rules 29, 33, and 34 adopted 7-day periods for their respective motions. This period has been expanded to 14 days. Experience has proved that in many cases it is not possible to prepare a satisfactory motion in 7 days, even under the former rule that excluded intermediate Saturdays, Sundays, and legal holidays. This led to frequent requests for continuances, and the filing of bare bones motions that required later supplementation. The 14-day period—including intermediate Saturdays, Sundays, and legal holidays as provided by Rule 45(a)—sets a more realistic time for the filing of these motions.
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    Rule 34(a). This amendment conforms Rule 34 to Rule 12(b) which has been amended to remove language that the court at any time while the case is pending may hear a claim that the “indictment or information fails . . . to state an offense.” The amended Rule 12 instead requires that such a defect be raised before trial. 
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
 ----------
 
