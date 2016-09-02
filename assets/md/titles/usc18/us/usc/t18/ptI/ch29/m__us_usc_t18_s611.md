@@ -41,7 +41,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 611, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 724][/us/stat/62/724]; Feb. 7, 1972, [Pub. L. 92–225, title II, § 206][/us/pl/92/225/s206], [86 Stat. 10][/us/stat/86/10]; Oct. 15, 1974, [Pub. L. 93–443, title I][/us/pl/93/443], §§ 101(e)(2), 103, [88 Stat. 1267][/us/stat/88/1267], 1272, prohibited campaign contributions by government contractors, prior to repeal by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 441c of Title 2][/us/usc/t2/s441c], The Congress.
+    A prior section 611, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 724][/us/stat/62/724]; Feb. 7, 1972, [Pub. L. 92–225, title II, § 206][/us/pl/92/225/s206], [86 Stat. 10][/us/stat/86/10]; Oct. 15, 1974, [Pub. L. 93–443, title I][/us/pl/93/443], §§ 101(e)(2), 103, [88 Stat. 1267][/us/stat/88/1267], 1272, prohibited campaign contributions by government contractors, prior to repeal by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 30119 of Title 52][/us/usc/t52/s30119], Voting and Elections.
 
  __Amendments__ 
 
@@ -55,17 +55,17 @@
 
 \[§§ 612 to 617. __Repealed.__  __[__  __Pub. L. 94–283, title II, § 201(a)__  __][/us/pl/94/283/s201/a]__  __,__  __May 11, 1976__  __,__  __[__  __90 Stat. 496__  __][/us/stat/90/496]__  __\]__ 
 
-    Section 612, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 724][/us/stat/62/724]; [Aug. 25, 1950, ch. 784, § 2][/us/act/1950-08-25/ch784/s2], [64 Stat. 475][/us/stat/64/475]; Aug. 12, 1970, [Pub. L. 91–375, § 6(j)(7)][/us/pl/91/375/s6/j/7], [84 Stat. 777][/us/stat/84/777], regulated publication and distribution of political statements. See [section 441d of Title 2][/us/usc/t2/s441d], The Congress.
+    Section 612, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 724][/us/stat/62/724]; [Aug. 25, 1950, ch. 784, § 2][/us/act/1950-08-25/ch784/s2], [64 Stat. 475][/us/stat/64/475]; Aug. 12, 1970, [Pub. L. 91–375, § 6(j)(7)][/us/pl/91/375/s6/j/7], [84 Stat. 777][/us/stat/84/777], regulated publication and distribution of political statements. See [section 30120 of Title 52][/us/usc/t52/s30120], Voting and Elections.
 
-    Section 613, added [Pub. L. 89–486, § 8(a)][/us/pl/89/486/s8/a], July 4, 1966, [80 Stat. 248][/us/stat/80/248]; amended [Pub. L. 93–443, title I, § 101(d)(1)][/us/pl/93/443/s101/d/1]–(3), (4)(A), (e)(3), Oct. 15, 1974, [88 Stat. 1267][/us/stat/88/1267], prohibited campaign contributions by foreign nationals. See [section 441e of Title 2][/us/usc/t2/s441e], The Congress.
+    Section 613, added [Pub. L. 89–486, § 8(a)][/us/pl/89/486/s8/a], July 4, 1966, [80 Stat. 248][/us/stat/80/248]; amended [Pub. L. 93–443, title I, § 101(d)(1)][/us/pl/93/443/s101/d/1]–(3), (4)(A), (e)(3), Oct. 15, 1974, [88 Stat. 1267][/us/stat/88/1267], prohibited campaign contributions by foreign nationals. See [section 30121 of Title 52][/us/usc/t52/s30121], Voting and Elections.
 
-    Section 614, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], prohibited making of campaign contributions in the name of another. See [section 441f of Title 2][/us/usc/t2/s441f], The Congress.
+    Section 614, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], prohibited making of campaign contributions in the name of another. See [section 30122 of Title 52][/us/usc/t52/s30122], Voting and Elections.
 
-    Section 615, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], placed limitations on contributions of currency. See [section 441g of Title 2][/us/usc/t2/s441g], The Congress.
+    Section 615, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], placed limitations on contributions of currency. See [section 30123 of Title 52][/us/usc/t52/s30123], Voting and Elections.
 
-    Section 616, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], prohibited acceptance of excessive honorariums. See [section 441i of Title 2][/us/usc/t2/s441i], The Congress.
+    Section 616, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], prohibited acceptance of excessive honorariums.
 
-    Section 617, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], prohibited fraudulent misrepresentation of campaign authority. See [section 441h of Title 2][/us/usc/t2/s441h], The Congress.
+    Section 617, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], prohibited fraudulent misrepresentation of campaign authority. See [section 30124 of Title 52][/us/usc/t52/s30124], Voting and Elections.
 
  __Savings Provision__ 
 
@@ -90,7 +90,7 @@
 [/us/stat/88/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1267
 [/us/pl/94/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs201%2Fa
 [/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
-[/us/usc/t2/s441c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441c
+[/us/usc/t52/s30119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30119
 [/us/pl/106/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F395
 [/us/pl/106/395/s201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F395%2Fs201%2Fd%2F3
 [/us/stat/114/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1636
@@ -107,24 +107,23 @@
 [/us/stat/64/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F475
 [/us/pl/91/375/s6/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F7
 [/us/stat/84/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F777
-[/us/usc/t2/s441d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441d
+[/us/usc/t52/s30120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30120
 [/us/pl/89/486/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs8%2Fa
 [/us/stat/80/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F248
 [/us/pl/93/443/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Fd%2F1
 [/us/stat/88/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1267
-[/us/usc/t2/s441e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441e
+[/us/usc/t52/s30121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30121
 [/us/pl/93/443/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Ff%2F1
 [/us/stat/88/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1268
-[/us/usc/t2/s441f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441f
+[/us/usc/t52/s30122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30122
 [/us/pl/93/443/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Ff%2F1
 [/us/stat/88/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1268
-[/us/usc/t2/s441g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441g
+[/us/usc/t52/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30123
 [/us/pl/93/443/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Ff%2F1
 [/us/stat/88/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1268
-[/us/usc/t2/s441i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441i
 [/us/pl/93/443/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Ff%2F1
 [/us/stat/88/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1268
-[/us/usc/t2/s441h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441h
+[/us/usc/t52/s30124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30124
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/94/283/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs114
 [/us/usc/t2/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441

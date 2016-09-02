@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 610, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 723][/us/stat/62/723]; [May 24, 1949, ch. 139, § 10][/us/act/1949-05-24/ch139/s10], [63 Stat. 90][/us/stat/63/90]; [Oct. 31, 1951, ch. 655, § 20(c)][/us/act/1951-10-31/ch655/s20/c], [65 Stat. 718][/us/stat/65/718]; Feb. 7, 1972, [Pub. L. 92–225, title II, § 205][/us/pl/92/225/s205], [86 Stat. 10][/us/stat/86/10]; Oct. 15, 1974, [Pub. L. 93–443, title I, § 101(e)(1)][/us/pl/93/443/s101/e/1], [88 Stat. 1267][/us/stat/88/1267], prohibited campaign contributions or expenditures by national banks, corporations, and labor organizations, prior to repeal by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 441b of Title 2][/us/usc/t2/s441b], The Congress.
+    A prior section 610, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 723][/us/stat/62/723]; [May 24, 1949, ch. 139, § 10][/us/act/1949-05-24/ch139/s10], [63 Stat. 90][/us/stat/63/90]; [Oct. 31, 1951, ch. 655, § 20(c)][/us/act/1951-10-31/ch655/s20/c], [65 Stat. 718][/us/stat/65/718]; Feb. 7, 1972, [Pub. L. 92–225, title II, § 205][/us/pl/92/225/s205], [86 Stat. 10][/us/stat/86/10]; Oct. 15, 1974, [Pub. L. 93–443, title I, § 101(e)(1)][/us/pl/93/443/s101/e/1], [88 Stat. 1267][/us/stat/88/1267], prohibited campaign contributions or expenditures by national banks, corporations, and labor organizations, prior to repeal by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 30118 of Title 52][/us/usc/t52/s30118], Voting and Elections.
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 [/us/stat/88/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1267
 [/us/pl/94/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs201%2Fa
 [/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
-[/us/usc/t2/s441b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441b
+[/us/usc/t52/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30118
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94

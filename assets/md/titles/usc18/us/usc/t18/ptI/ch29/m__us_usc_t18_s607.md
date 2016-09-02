@@ -41,7 +41,7 @@
 
  __References in Text__ 
 
-    Section 302(e) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 432(e) of Title 2][/us/usc/t2/s432/e].
+    Section 302(e) of the Federal Election Campaign Act of 1971, referred to in subsec. (b), is classified to [section 30102(e) of Title 52][/us/usc/t52/s30102/e], Voting and Elections.
 
  __Amendments__ 
 
@@ -55,11 +55,11 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    Amendment by [Pub. L. 107–155][/us/pl/107/155] effective Nov. 6, 2002, see [section 402 of Pub. L. 107–155][/us/pl/107/155/s402], set out as an Effective Date of 2002 Amendment; Regulations note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 107–155][/us/pl/107/155] effective Nov. 6, 2002, see [section 402 of Pub. L. 107–155][/us/pl/107/155/s402], set out as an Effective Date of 2002 Amendment; Regulations note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
  __Effective Date of 1980 Amendment__ 
 
-    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -79,16 +79,16 @@
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1110
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201
-[/us/usc/t2/s432/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs432%2Fe
+[/us/usc/t52/s30102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30102%2Fe
 [/us/pl/107/155/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs302%2F1
 [/us/pl/107/155/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs302%2F2
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/pl/96/187/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs301%2Fa
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

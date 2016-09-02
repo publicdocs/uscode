@@ -45,7 +45,7 @@
 
  __References in Text__ 
 
-    Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(4), is classified to [section 431(8) of Title 2][/us/usc/t2/s431/8], The Congress.
+    Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(4), is classified to [section 30101(8) of Title 52][/us/usc/t52/s30101/8], Voting and Elections.
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -90,7 +90,7 @@
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201
 [/us/usc/t18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6
 [/us/usc/t18/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs212
-[/us/usc/t2/s431/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F8
+[/us/usc/t52/s30101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F8
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
@@ -103,6 +103,6 @@
 [/us/usc/t5/s7321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7321
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/pl/96/187/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs301%2Fa
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

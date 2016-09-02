@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-    Section applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as a note under [section 1973ff of Title 42][/us/usc/t42/s1973ff], The Public Health and Welfare.
+    Section applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as a note under [section 20301 of Title 52][/us/usc/t52/s20301], Voting and Elections.
 
 ----------
 
@@ -41,6 +41,6 @@
 [/us/pl/92/225/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs204
 [/us/stat/86/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F10
 [/us/pl/99/410/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs204
-[/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
+[/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301
 
 

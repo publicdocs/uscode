@@ -17,7 +17,7 @@
 
     (a)  __Destruction, Concealment, Removal, Confiscation, or Possession of Immigration Documents__  __.—__ 
 
-    It shall be unlawful for any person to knowingly destroy, conceal, remove, confiscate, or possess, an actual or purported passport or other immigration document of another individual —
+    It shall be unlawful for any person to knowingly destroy, conceal, remove, confiscate, or possess, an actual or purported passport or other immigration document of another individual—
 
         (1) in the course of violating [section 1351 of this title][/us/usc/t18/s1351] or section 274 of the Immigration and Nationality Act ([8 U.S.C. 1324][/us/usc/t8/s1324]);
 

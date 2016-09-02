@@ -19,7 +19,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as an Effective Date of 1980 Amendment note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Repeal effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as an Effective Date of 1980 Amendment note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -43,6 +43,6 @@
 [/us/pl/94/283/s115/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs115%2Fg
 [/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
 [/us/pl/96/187/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs301%2Fa
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

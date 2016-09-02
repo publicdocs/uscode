@@ -37,7 +37,7 @@
 
  __Effective Date of 1972 Amendment__ 
 
-    Amendment by [Pub. L. 92–225][/us/pl/92/225] effective Dec. 31, 1971, or sixty days after date of enactment \[Feb. 7, 1972\], whichever is later, see [section 408 of Pub. L. 92–225][/us/pl/92/225/s408], set out as an Effective Date note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 92–225][/us/pl/92/225] effective Dec. 31, 1971, or sixty days after date of enactment \[Feb. 7, 1972\], whichever is later, see [section 408 of Pub. L. 92–225][/us/pl/92/225/s408], set out as an Effective Date note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -60,6 +60,6 @@
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/pl/92/225/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs408
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

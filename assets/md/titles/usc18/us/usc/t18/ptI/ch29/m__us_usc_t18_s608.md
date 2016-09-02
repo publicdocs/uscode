@@ -23,15 +23,15 @@
 
  __References in Text__ 
 
-    The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], as amended, which is classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 
-    A prior section 608, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 723][/us/stat/62/723]; Feb. 7, 1972, [Pub. L. 92–225, title II, § 203][/us/pl/92/225/s203], [86 Stat. 9][/us/stat/86/9]; Oct. 15, 1974, [Pub. L. 93–443, title I, § 101(a)][/us/pl/93/443/s101/a], (b), [88 Stat. 1263][/us/stat/88/1263], 1266, set limitations on campaign contributions and expenditures, prior to repeal by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 441a of Title 2][/us/usc/t2/s441a], The Congress.
+    A prior section 608, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 723][/us/stat/62/723]; Feb. 7, 1972, [Pub. L. 92–225, title II, § 203][/us/pl/92/225/s203], [86 Stat. 9][/us/stat/86/9]; Oct. 15, 1974, [Pub. L. 93–443, title I, § 101(a)][/us/pl/93/443/s101/a], (b), [88 Stat. 1263][/us/stat/88/1263], 1266, set limitations on campaign contributions and expenditures, prior to repeal by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 30116 of Title 52][/us/usc/t52/s30116], Voting and Elections.
 
  __Effective Date__ 
 
-    Section applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as a note under [section 1973ff of Title 42][/us/usc/t42/s1973ff], The Public Health and Welfare.
+    Section applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as a note under [section 20301 of Title 52][/us/usc/t52/s20301], Voting and Elections.
 
 ----------
 
@@ -44,7 +44,6 @@
 [/us/stat/100/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F929
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F723
 [/us/pl/92/225/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs203
@@ -53,8 +52,8 @@
 [/us/stat/88/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1263
 [/us/pl/94/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs201%2Fa
 [/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
-[/us/usc/t2/s441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441a
+[/us/usc/t52/s30116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116
 [/us/pl/99/410/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs204
-[/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
+[/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301
 
 
