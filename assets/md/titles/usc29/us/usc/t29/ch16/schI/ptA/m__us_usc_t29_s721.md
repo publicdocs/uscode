@@ -273,7 +273,7 @@
 
                     (IV) the number of individuals with open cases (disaggregated by those who are receiving training and those who are in postsecondary education), and the type of services the individuals are receiving (including supported employment);
 
-                    (V) the number of students with disabilities who are receiving pre-employment transition services under this subchapter: and
+                    (V) the number of students with disabilities who are receiving pre-employment transition services under this subchapter:  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The colon probably should be a semicolon. </sup></sup>  and
 
                     (VI) the number of individuals referred to State vocational rehabilitation programs by one-stop operators (as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\]), and the number of individuals referred to such one-stop operators by State vocational rehabilitation programs;
 
@@ -575,7 +575,7 @@
 
             (A) the Federal share of the cost of construction for the facilities for a fiscal year will not exceed an amount equal to 10 percent of the State’s allotment under [section 730 of this title][/us/usc/t29/s730] for such year;
 
-            (B) the provisions of section 776  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title (as in effect on the day before August 7, 1998) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
+            (B) the provisions of section 776  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title (as in effect on the day before August 7, 1998) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
 
             (C) there shall be compliance with regulations the Commissioner shall prescribe designed to assure that no State will reduce its efforts in providing other vocational rehabilitation services (other than for the establishment of facilities for community rehabilitation programs) because the plan includes such provisions for construction.
 

@@ -651,19 +651,19 @@
 
                 (ii) the age at which a participant completes the number of years (not less than 30 years) of benefit accrual service specified by the plan.
 
-        A plan shall not fail to be treated as an applicable plan solely because the normal retirement age described in the preceding sentence only applied to certain participants or only applied to employees of certain employers in the case of a plan maintained by more than 1 employer.
+                A plan shall not fail to be treated as an applicable plan solely because the normal retirement age described in the preceding sentence only applied to certain participants or only applied to employees of certain employers in the case of a plan maintained by more than 1 employer.
 
-        (B) __Expanded application__ 
+            (B) __Expanded application__ 
 
-            Subject to subparagraph (C), if, after December 8, 2014, an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
+                Subject to subparagraph (C), if, after December 8, 2014, an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
 
-        (C) __Limitation on expanded application__ 
+            (C) __Limitation on expanded application__ 
 
-        A defined benefit plan shall be an applicable plan only with respect to an individual who—
+            A defined benefit plan shall be an applicable plan only with respect to an individual who—
 
-            (i) is a participant in the plan on or before January 1, 2017, or
+                (i) is a participant in the plan on or before January 1, 2017, or
 
-            (ii) is an employee at any time on or before January 1, 2017, of any employer maintaining the plan, and who becomes a participant in such plan after such date.
+                (ii) is an employee at any time on or before January 1, 2017, of any employer maintaining the plan, and who becomes a participant in such plan after such date.
 
     (l) __Cross reference__ 
 

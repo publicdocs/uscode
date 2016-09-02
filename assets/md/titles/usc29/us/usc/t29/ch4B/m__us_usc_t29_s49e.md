@@ -15,19 +15,19 @@
 
 ## § 49e. Allotment of funds
 
-    (a) From the amounts appropriated pursuant to [section 49d of this title][/us/usc/t29/s49d] for each fiscal year, the Secretary shall first allot to Guam and the Virgin Islands an amount which, in relation to the total amount available for the fiscal year, is equal to the allotment percentage which each received of amounts available under this chapter in fiscal year 1983.
+    (a) From the funds appropriated and (except for Guam) certified under [section 49d of this title][/us/usc/t29/s49d] and made available for allotments under this section for each fiscal year, the Secretary shall first allot to Guam and the Virgin Islands an amount which, in relation to the total amount available for the fiscal year, is equal to the allotment percentage which each received of amounts available under this chapter in fiscal year 1983.
 
     (b)
 
         (1)
 
-         Subject to paragraphs (2), (3), and (4) of this subsection, the Secretary shall allot the remainder of the sums appropriated and certified pursuant to [section 49d of this title][/us/usc/t29/s49d] for each fiscal year among the States as follows:
+         Subject to paragraphs (2), (3), and (4) of this subsection, after making the allotments required by subsection (a), the Secretary shall allot the remainder of the funds described in subsection (a) for each fiscal year among the States as follows:
 
-            (A) two-thirds of such sums shall be allotted on the basis of the relative number of individuals in the civilian labor force in each State as compared to the total number of such individuals in all States; and
+            (A) two-thirds of such remainder shall be allotted on the basis of the relative number of individuals in the civilian labor force in each State as compared to the total number of such individuals in all States; and
 
-            (B) one-third of such sums shall be allotted on the basis of the relative number of unemployed individuals in each State as compared to the total number of such individuals in all States.
+            (B) one-third of such remainder shall be allotted on the basis of the relative number of unemployed individuals in each State as compared to the total number of such individuals in all States.
 
-            For purposes of this paragraph, the number of individuals in the civilian labor force and the number of unemployed individuals shall be based on data for the most recent calendar year available, as determined by the Secretary.
+            For purposes of this paragraph, the number of individuals in the civilian labor force and the number of unemployed individuals shall be based on data for the most recent calendar year available, as determined by the Secretary. For purposes of this paragraph, the term “State” does not include Guam or the Virgin Islands.
 
         (2) No State’s allotment under this section for any fiscal year shall be less than 90 percent of its allotment percentage for the fiscal year preceding the fiscal year for which the determination is made. For the purpose of this section, the Secretary shall determine the allotment percentage for each State (including Guam and the Virgin Islands) for fiscal year 1984 which is the percentage that the State received under this chapter for fiscal year 1983 of the total amounts available for payments to all States for such fiscal year. For each succeeding fiscal year, the allotment percentage for each such State shall be the percentage that the State received under this chapter for the preceding fiscal year of the total amounts available for allotments for all States for such fiscal year.
 
@@ -38,22 +38,6 @@
         (5) The Secretary shall, not later than March 15 of fiscal year 1983 and each succeeding fiscal year, provide preliminary planning estimates and shall, not later than May 15 of each such fiscal year, provide final planning estimates, showing each State’s projected allocation for the following year.
 
 ([June 6, 1933, ch. 49, § 6][/us/act/1933-06-06/ch49/s6], as added [Pub. L. 97–300, title VI, § 601(c)][/us/pl/97/300/s601/c], formerly title V, § 501(c), Oct. 13, 1982, [96 Stat. 1393][/us/stat/96/1393]; renumbered title VI, § 601(c), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; amended [Pub. L. 105–220, title III, § 310][/us/pl/105/220/s310], Aug. 7, 1998, [112 Stat. 1086][/us/stat/112/1086]; [Pub. L. 113–128, title III, § 304][/us/pl/113/128/s304], July 22, 2014, [128 Stat. 1626][/us/stat/128/1626].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title III, § 304][/us/pl/113/128/s304], title V, § 506, July 22, 2014, [128 Stat. 1626][/us/stat/128/1626], 1703, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
-
-    (1) in subsection (a), by striking “amounts appropriated pursuant to [section 49d of this title][/us/usc/t29/s49d]” and inserting “funds appropriated and (except for Guam) certified under [section 49d of this title][/us/usc/t29/s49d] and made available for allotments under this section”; and
-
-    (2) in subsection (b)(1):
-
-    (A) in the matter preceding subparagraph (A), by inserting “after making the allotments required by subsection (a),” before “the Secretary” and by striking “sums” and all that follows through “this title” and inserting “funds described in subsection (a)”;
-
-    (B) in each of subparagraphs (A) and (B), by striking “sums” and inserting “remainder”; and
-
-    (C) by adding at the end “For purposes of this paragraph, the term ‘State’ does not include Guam or the Virgin Islands.”
-
-    See 2014 Amendment notes below.
 
  __Prior Provisions__ 
 
@@ -69,15 +53,19 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 1998 Amendment__ 
 
-    Amendment by [Pub. L. 105–220][/us/pl/105/220] effective July 1, 1999, see [section 311 of Pub. L. 105–220][/us/pl/105/220/s311], set out as a note under [section 49a of this title][/us/usc/t29/s49a].
+    Amendment by [Pub. L. 105–220][/us/pl/105/220] effective July 1, 1999, see [section 311 of Pub. L. 105–220][/us/pl/105/220/s311], formerly set out as a note under [section 49a of this title][/us/usc/t29/s49a].
 
  __Effective Date__ 
 
     Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of section, see [section 181(i) of Pub. L. 97–300][/us/pl/97/300/s181/i], which was formerly classified to [section 1591(i) of this title][/us/usc/t29/s1591/i].
+
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
+
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 
@@ -86,7 +74,6 @@
 ----------
 ----------
 
-[/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
 [/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
 [/us/act/1933-06-06/ch49/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs6
 [/us/pl/97/300/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fc
@@ -97,10 +84,6 @@
 [/us/stat/112/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1086
 [/us/pl/113/128/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs304
 [/us/stat/128/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1626
-[/us/pl/113/128/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs304
-[/us/stat/128/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1626
-[/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
-[/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
 [/us/act/1933-06-06/ch49/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs6
 [/us/stat/48/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F115
 [/us/act/1950-09-08/ch933/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch933%2Fs3
@@ -119,5 +102,8 @@
 [/us/usc/t29/s49a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49a
 [/us/pl/97/300/s181/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs181%2Fi
 [/us/usc/t29/s1591/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1591%2Fi
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

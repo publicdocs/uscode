@@ -163,7 +163,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49" data-uslm-ref="/us/usc/t29/s49">49</a>l–2.  </td>
 
-    <td> Employment statistics.  </td>
+    <td> Workforce and labor market information system.  </td>
 
   </tr>
 

@@ -15,7 +15,7 @@
 
 # Title 29—LABOR
 
-Current through 114-25
+Current through 114-30
 
 <table>
 
@@ -363,7 +363,7 @@ Current through 114-25
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch30" data-uslm-ref="/us/usc/t29/ch30">30.</a>  </td>
 
-    <td> Workforce Investment Systems  </td>
+    <td> Workforce Investment Systems [Repealed, Transferred, or Omitted]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs2801" data-uslm-ref="/us/usc/t29/s2801">2801</a>  </td>
 

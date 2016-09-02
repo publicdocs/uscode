@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch30/schV/m__us_usc_t29_s2945.md) | [Next](./../../../..//us/usc/t29/ch31/m__us_usc_t29_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch31)
+[Previous](./../../../..//us/usc/t29/ch30/schV/m__us_usc_t29_ch30_schV.md) | [Next](./../../../..//us/usc/t29/ch31/m__us_usc_t29_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch31)
 
 ## CHAPTER 31—ASSISTIVE TECHNOLOGY FOR INDIVIDUALS WITH DISABILITIES
 
@@ -91,7 +91,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch30/schV/m__us_usc_t29_s2945.md) | [Next](./../../../..//us/usc/t29/ch31/m__us_usc_t29_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch31)
+[Previous](./../../../..//us/usc/t29/ch30/schV/m__us_usc_t29_ch30_schV.md) | [Next](./../../../..//us/usc/t29/ch31/m__us_usc_t29_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch31)
 
 ----------
 ----------

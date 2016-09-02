@@ -65,7 +65,7 @@
 
             (B) an assurance that the methods included an opportunity for the entities responsible for planning or administering the core programs and the other programs and activities to review and comment on all portions of the combined plan.
 
-    (c) __Approval by the appropriate secretaries__ 
+    (c) __Approval by the appropriate Secretaries__ 
 
         (1) __Jurisdiction__ 
 
@@ -81,7 +81,7 @@
 
                 Except as provided in subparagraphs (B) and (C), a portion of the combined State plan covering the core programs or a program or activity described in subsection (a)(2) shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the plan is submitted.
 
-            (B) __Plan approved by 3 or more appropriate secretaries__ 
+            (B) __Plan approved by 3 or more appropriate Secretaries__ 
 
                 If an appropriate Secretary other than the Secretary of Labor or the Secretary of Education has authority to approve a portion of a combined plan, that portion of the combined plan shall be considered to be approved by the appropriate Secretary at the end of the 120-day period beginning on the day the plan is submitted.
 

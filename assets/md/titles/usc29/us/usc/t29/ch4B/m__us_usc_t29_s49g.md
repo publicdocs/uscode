@@ -15,27 +15,9 @@
 
 ## § 49g. State plans
 
-    (a) __Submission to Secretary__ 
-
-        Any State desiring to receive assistance under this chapter shall submit to the Secretary, as part of the State plan submitted under [section 2822 of this title][/us/usc/t29/s2822], detailed plans for carrying out the provisions of this chapter within such State.
-
-    (b) __Contents of plans__ 
-
-        Such plans shall include provision for the promotion and development of employment opportunities for handicapped persons and for job counseling and placement of such persons, and for the designation of at least one person in each State or Federal employment office, whose duties shall include the effectuation of such purposes. In those States where a State board, department, or agency exists which is charged with the administration of State laws for vocational rehabilitation of physically handicapped persons, such plans shall include provision for cooperation between such board, department, or agency and the agency designated to cooperate with the United States Employment Service under this chapter.
-
-    (c) __Information on coordination of workforce investment activities and one-stop delivery system development__ 
-
-        The part of the State plan described in subsection (a) of this section shall include the information described in paragraphs (8) and (14) of [section 2822(b) of this title][/us/usc/t29/s2822/b].
-
-    (d) __Approval by Secretary__ 
-
-        If such detailed plans are in conformity with the provisions of this chapter and reasonably appropriate and adequate to carry out its purposes, they shall be approved by the Secretary and due notice of such approval shall be given to the State agency.
+    Any State desiring to receive assistance under [section 49e of this title][/us/usc/t29/s49e] shall prepare and submit to, and have approved by, the Secretary and the Secretary of Education, a State plan in accordance with section 3112 or 3113 of this title.
 
 ([June 6, 1933, ch. 49, § 8][/us/act/1933-06-06/ch49/s8], [48 Stat. 115][/us/stat/48/115]; [Aug. 3, 1954, ch. 655, § 6(b)][/us/act/1954-08-03/ch655/s6/b], [68 Stat. 665][/us/stat/68/665]; [Pub. L. 97–300, title VI, § 601(d)][/us/pl/97/300/s601/d], formerly title V, § 501(d), Oct. 13, 1982, [96 Stat. 1395][/us/stat/96/1395]; renumbered title VI, § 601(d), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 105–220, title III, § 306][/us/pl/105/220/s306], Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081]; [Pub. L. 113–128, title III, § 306][/us/pl/113/128/s306], July 22, 2014, [128 Stat. 1627][/us/stat/128/1627].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title III, § 306][/us/pl/113/128/s306], title V, § 506, July 22, 2014, [128 Stat. 1627][/us/stat/128/1627], 1703, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended to read as follows: “Any State desiring to receive assistance under [section 49e of this title][/us/usc/t29/s49e] shall prepare and submit to, and have approved by, the Secretary and the Secretary of Education, a State plan in accordance with section 3112 or 3113 of this title.” See 2014 Amendment note below.
 
  __Amendments__ 
 
@@ -65,11 +47,11 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 1998 Amendment__ 
 
-    Amendment by [Pub. L. 105–220][/us/pl/105/220] effective July 1, 1999, see [section 311 of Pub. L. 105–220][/us/pl/105/220/s311], set out as a note under [section 49a of this title][/us/usc/t29/s49a].
+    Amendment by [Pub. L. 105–220][/us/pl/105/220] effective July 1, 1999, see [section 311 of Pub. L. 105–220][/us/pl/105/220/s311], formerly set out as a note under [section 49a of this title][/us/usc/t29/s49a].
 
  __Effective Date of 1982 Amendment__ 
 
@@ -79,9 +61,9 @@
 
     Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug. 3, 1954, set out as a note under [section 49b of this title][/us/usc/t29/s49b].
 
- __Transfer of Functions__ 
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
 
-    For history of transfer of functions of United States Employment Service to Secretary of Labor, see note set out under [section 49 of this title][/us/usc/t29/s49].
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 
@@ -90,8 +72,7 @@
 ----------
 ----------
 
-[/us/usc/t29/s2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2822
-[/us/usc/t29/s2822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2822%2Fb
+[/us/usc/t29/s49e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49e
 [/us/act/1933-06-06/ch49/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs8
 [/us/stat/48/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F115
 [/us/act/1954-08-03/ch655/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655%2Fs6%2Fb
@@ -104,9 +85,6 @@
 [/us/stat/112/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1081
 [/us/pl/113/128/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs306
 [/us/stat/128/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1627
-[/us/pl/113/128/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs306
-[/us/stat/128/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1627
-[/us/usc/t29/s49e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49e
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/220/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs306%2F1
 [/us/pl/105/220/s306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs306%2F2
@@ -128,6 +106,8 @@
 [/us/pl/97/300/s181/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs181%2Fi
 [/us/usc/t29/s1591/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1591%2Fi
 [/us/usc/t29/s49b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49b
-[/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

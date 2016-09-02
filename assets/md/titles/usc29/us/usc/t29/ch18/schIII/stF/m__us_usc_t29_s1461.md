@@ -67,7 +67,7 @@
 
     (e)
 
-         (1) Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter made by the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980.
+        (1) Except as provided in paragraphs (2), (3), and (4), the amendments to this chapter made by the Multiemployer Pension Plan Amendments Act of 1980 shall take effect on September 26, 1980.
 
         (2)
 

@@ -21,19 +21,15 @@
 
     Section 1502, [Pub. L. 97–300, § 3][/us/pl/97/300/s3], Oct. 13, 1982, [96 Stat. 1324][/us/stat/96/1324]; [Pub. L. 100–418, title VI, § 6303][/us/pl/100/418/s6303], Aug. 23, 1988, [102 Stat. 1538][/us/stat/102/1538]; [Pub. L. 100–628, title VII, § 714(d)][/us/pl/100/628/s714/d], Nov. 7, 1988, [102 Stat. 3256][/us/stat/102/3256]; [Pub. L. 101–549, title XI, § 1101(b)(2)][/us/pl/101/549/s1101/b/2], Nov. 15, 1990, [104 Stat. 2712][/us/stat/104/2712]; [Pub. L. 102–367, title I, § 102(a)][/us/pl/102/367/s102/a], Sept. 7, 1992, [106 Stat. 1023][/us/stat/106/1023], authorized appropriations.
 
-    Section 1503, [Pub. L. 97–300, § 4][/us/pl/97/300/s4], Oct. 13, 1982, [96 Stat. 1325][/us/stat/96/1325]; [Pub. L. 98–524, § 4(a)(1)][/us/pl/98/524/s4/a/1], Oct. 19, 1984, [98 Stat. 2487][/us/stat/98/2487]; [Pub. L. 99–159, title VII, § 713(b)(1)][/us/pl/99/159/s713/b/1], Nov. 22, 1985, [99 Stat. 907][/us/stat/99/907]; [Pub. L. 99–496][/us/pl/99/496], §§ 14(b)(1), 15(a), Oct. 16, 1986, [100 Stat. 1265][/us/stat/100/1265]; [Pub. L. 100–77, title VII, § 740(a)][/us/pl/100/77/s740/a], July 22, 1987, [101 Stat. 531][/us/stat/101/531]; [Pub. L. 102–54, § 13(k)(2)(A)][/us/pl/102/54/s13/k/2/A], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–235, § 3][/us/pl/102/235/s3], Dec. 12, 1991, [105 Stat. 1807][/us/stat/105/1807]; [Pub. L. 102–367, title I, § 103(a)][/us/pl/102/367/s103/a], (b)(1), title VII, § 702(a)(1)–(3), Sept. 7, 1992, [106 Stat. 1024][/us/stat/106/1024], 1026, 1111, 1112; [Pub. L. 103–382, title III, § 391(n)(1)][/us/pl/103/382/s391/n/1], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]; [Pub. L. 104–193, title I, § 110(n)(1)][/us/pl/104/193/s110/n/1], Aug. 22, 1996, [110 Stat. 2174][/us/stat/110/2174], defined terms used in this chapter. See [section 2801 of this title][/us/usc/t29/s2801].
+    Section 1503, [Pub. L. 97–300, § 4][/us/pl/97/300/s4], Oct. 13, 1982, [96 Stat. 1325][/us/stat/96/1325]; [Pub. L. 98–524, § 4(a)(1)][/us/pl/98/524/s4/a/1], Oct. 19, 1984, [98 Stat. 2487][/us/stat/98/2487]; [Pub. L. 99–159, title VII, § 713(b)(1)][/us/pl/99/159/s713/b/1], Nov. 22, 1985, [99 Stat. 907][/us/stat/99/907]; [Pub. L. 99–496][/us/pl/99/496], §§ 14(b)(1), 15(a), Oct. 16, 1986, [100 Stat. 1265][/us/stat/100/1265]; [Pub. L. 100–77, title VII, § 740(a)][/us/pl/100/77/s740/a], July 22, 1987, [101 Stat. 531][/us/stat/101/531]; [Pub. L. 102–54, § 13(k)(2)(A)][/us/pl/102/54/s13/k/2/A], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–235, § 3][/us/pl/102/235/s3], Dec. 12, 1991, [105 Stat. 1807][/us/stat/105/1807]; [Pub. L. 102–367, title I, § 103(a)][/us/pl/102/367/s103/a], (b)(1), title VII, § 702(a)(1)–(3), Sept. 7, 1992, [106 Stat. 1024][/us/stat/106/1024], 1026, 1111, 1112; [Pub. L. 103–382, title III, § 391(n)(1)][/us/pl/103/382/s391/n/1], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]; [Pub. L. 104–193, title I, § 110(n)(1)][/us/pl/104/193/s110/n/1], Aug. 22, 1996, [110 Stat. 2174][/us/stat/110/2174], defined terms used in this chapter.
 
-    Section 1504, [Pub. L. 97–300, title VI, § 604][/us/pl/97/300/s604], formerly title V, § 504, Oct. 13, 1982, [96 Stat. 1399][/us/stat/96/1399]; renumbered title VI, § 604, [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248], related to enforcement of Military Selective Service Act. See [section 2939 of this title][/us/usc/t29/s2939].
+    Section 1504, [Pub. L. 97–300, title VI, § 604][/us/pl/97/300/s604], formerly title V, § 504, Oct. 13, 1982, [96 Stat. 1399][/us/stat/96/1399]; renumbered title VI, § 604, [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248], related to enforcement of Military Selective Service Act.
 
     Section 1505, [Pub. L. 97–300, title VI, § 605][/us/pl/97/300/s605], formerly title V, § 505, as added [Pub. L. 100–418, title VI, § 6307(a)][/us/pl/100/418/s6307/a], Aug. 23, 1988, [102 Stat. 1541][/us/stat/102/1541]; renumbered title VI, § 505, [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; renumbered § 605, [Pub. L. 102–367, title VII, § 702(a)(20)][/us/pl/102/367/s702/a/20], Sept. 7, 1992, [106 Stat. 1113][/us/stat/106/1113], related to State job bank systems.
 
  __Effective Date of Repeal__ 
 
-[Pub. L. 105–220, title I, § 199(c)(2)(B)][/us/pl/105/220/s199/c/2/B], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], provided that: 
-
-> “The repeal made by subsection (b)(2) \[repealing this chapter and provisions set out as a note under [section 801 of this title][/us/usc/t29/s801]\] shall take effect on July 1, 2000.”
-
-    \[[Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], [section 199(c)(2)(B) of Pub. L. 105–220][/us/pl/105/220/s199/c/2/B], set out above, is repealed.\]
+    [Pub. L. 105–220, title I, § 199(c)(2)(B)][/us/pl/105/220/s199/c/2/B], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], which provided that the repeal made by subsection (b)(2) \[repealing this chapter and provisions set out as a note under [section 801 of this title][/us/usc/t29/s801]\] would take effect on July 1, 2000, was repealed by [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
 
  __Short Title of 1992 Amendment__ 
 
@@ -108,12 +104,10 @@
 [/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
 [/us/pl/104/193/s110/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Fn%2F1
 [/us/stat/110/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2174
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/97/300/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs604
 [/us/stat/96/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1399
 [/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
-[/us/usc/t29/s2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2939
 [/us/pl/97/300/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs605
 [/us/pl/100/418/s6307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6307%2Fa
 [/us/stat/102/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1541
@@ -124,9 +118,8 @@
 [/us/pl/105/220/s199/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FB
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
 [/us/usc/t29/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs801
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220/s199/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FB
+[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
 [/us/pl/102/367/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs1
 [/us/stat/106/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1021
 [/us/usc/t7/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014

@@ -193,7 +193,7 @@
 
         (3)
 
-             (A) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in [section 1055 of this title][/us/usc/t29/s1055]).
+            (A) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in [section 1055 of this title][/us/usc/t29/s1055]).
 
             (B)
 
@@ -223,7 +223,7 @@
 
             (E)
 
-                 (i) A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant’s employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multiemployer plan.
+                (i) A right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because the plan provides that benefits accrued as a result of service with the participant’s employer before the employer had an obligation to contribute under the plan may not be payable if the employer ceases contributions to the multiemployer plan.
 
                 (ii)
 
@@ -241,9 +241,9 @@
 
          In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under subsection (a)(2) of this section, all of an employee’s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
 
-            (A) years of service before age 18, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup> 
+            (A) years of service before age 18, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should be a semicolon. </sup></sup> 
 
-            (B) years of service during a period for which the employee declined to contribute to a plan requiring employee contributions,1
+            (B) years of service during a period for which the employee declined to contribute to a plan requiring employee contributions,2
 
             (C) years of service with an employer during any period for which the employer did not maintain the plan or a predecessor plan, defined by the Secretary of the Treasury;
 

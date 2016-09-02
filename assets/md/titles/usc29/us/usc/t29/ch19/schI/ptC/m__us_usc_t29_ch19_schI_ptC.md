@@ -19,11 +19,11 @@
 
     Section 1551, [Pub. L. 97–300, title I, § 141][/us/pl/97/300/s141], Oct. 13, 1982, [96 Stat. 1343][/us/stat/96/1343]; [Pub. L. 97–404, § 1(f)][/us/pl/97/404/s1/f], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 100–77, title VII, § 740(b)][/us/pl/100/77/s740/b], July 22, 1987, [101 Stat. 531][/us/stat/101/531]; [Pub. L. 102–367, title I, § 131][/us/pl/102/367/s131], Sept. 7, 1992, [106 Stat. 1042][/us/stat/106/1042]; [Pub. L. 102–484, div. D, title XLIV, § 4467(f)][/us/pl/102/484/s4467/f], Oct. 23, 1992, [106 Stat. 2751][/us/stat/106/2751]; [Pub. L. 103–160, div. A, title XIII, § 1336][/us/pl/103/160/s1336], Nov. 30, 1993, [107 Stat. 1805][/us/stat/107/1805], related to general program requirements for service delivery system.
 
-    Section 1552, [Pub. L. 97–300, title I, § 142][/us/pl/97/300/s142], Oct. 13, 1982, [96 Stat. 1345][/us/stat/96/1345]; [Pub. L. 97–404, § 1(g)][/us/pl/97/404/s1/g], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 102–367, title I, § 132][/us/pl/102/367/s132], Sept. 7, 1992, [106 Stat. 1045][/us/stat/106/1045], related to benefits for participating individuals. See [section 2931(a) of this title][/us/usc/t29/s2931/a].
+    Section 1552, [Pub. L. 97–300, title I, § 142][/us/pl/97/300/s142], Oct. 13, 1982, [96 Stat. 1345][/us/stat/96/1345]; [Pub. L. 97–404, § 1(g)][/us/pl/97/404/s1/g], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 102–367, title I, § 132][/us/pl/102/367/s132], Sept. 7, 1992, [106 Stat. 1045][/us/stat/106/1045], related to benefits for participating individuals.
 
-    Section 1553, [Pub. L. 97–300, title I, § 143][/us/pl/97/300/s143], Oct. 13, 1982, [96 Stat. 1345][/us/stat/96/1345]; [Pub. L. 97–404, § 1(h)][/us/pl/97/404/s1/h], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 102–367, title I, § 133][/us/pl/102/367/s133], Sept. 7, 1992, [106 Stat. 1045][/us/stat/106/1045], related to labor standards. See [section 2931(b) of this title][/us/usc/t29/s2931/b].
+    Section 1553, [Pub. L. 97–300, title I, § 143][/us/pl/97/300/s143], Oct. 13, 1982, [96 Stat. 1345][/us/stat/96/1345]; [Pub. L. 97–404, § 1(h)][/us/pl/97/404/s1/h], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 102–367, title I, § 133][/us/pl/102/367/s133], Sept. 7, 1992, [106 Stat. 1045][/us/stat/106/1045], related to labor standards.
 
-    Section 1554, [Pub. L. 97–300, title I, § 144][/us/pl/97/300/s144], Oct. 13, 1982, [96 Stat. 1346][/us/stat/96/1346]; [Pub. L. 102–367, title I, § 134(a)][/us/pl/102/367/s134/a], Sept. 7, 1992, [106 Stat. 1045][/us/stat/106/1045], related to grievance procedure. See [section 2931(c) of this title][/us/usc/t29/s2931/c].
+    Section 1554, [Pub. L. 97–300, title I, § 144][/us/pl/97/300/s144], Oct. 13, 1982, [96 Stat. 1346][/us/stat/96/1346]; [Pub. L. 102–367, title I, § 134(a)][/us/pl/102/367/s134/a], Sept. 7, 1992, [106 Stat. 1045][/us/stat/106/1045], related to grievance procedure.
 
     Section 1555, [Pub. L. 97–300, title I, § 145][/us/pl/97/300/s145], Oct. 13, 1982, [96 Stat. 1347][/us/stat/96/1347], prohibited Federal control of education.
 
@@ -58,19 +58,16 @@
 [/us/stat/96/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2026
 [/us/pl/102/367/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs132
 [/us/stat/106/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1045
-[/us/usc/t29/s2931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2931%2Fa
 [/us/pl/97/300/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs143
 [/us/stat/96/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1345
 [/us/pl/97/404/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F404%2Fs1%2Fh
 [/us/stat/96/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2026
 [/us/pl/102/367/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs133
 [/us/stat/106/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1045
-[/us/usc/t29/s2931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2931%2Fb
 [/us/pl/97/300/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs144
 [/us/stat/96/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1346
 [/us/pl/102/367/s134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs134%2Fa
 [/us/stat/106/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1045
-[/us/usc/t29/s2931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2931%2Fc
 [/us/pl/97/300/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs145
 [/us/stat/96/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1347
 [/us/pl/105/220/s199/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FB

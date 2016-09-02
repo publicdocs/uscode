@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptC/m__us_usc_t29_s3192.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptC/m__us_usc_t29_s3194.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3193)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptC/m__us_usc_t29_s3192.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptC/m__us_usc_t29_s3193a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3193)
 
 ## § 3193. Establishment
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptC/m__us_usc_t29_s3192.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptC/m__us_usc_t29_s3194.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3193)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptC/m__us_usc_t29_s3192.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptC/m__us_usc_t29_s3193a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3193)
 
 ----------
 ----------

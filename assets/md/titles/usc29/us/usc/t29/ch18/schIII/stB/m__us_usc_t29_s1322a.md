@@ -27,7 +27,7 @@
 
         (1)
 
-             (A) For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months is not eligible for the corporation’s guarantee. For purposes of this paragraph, any month of any plan year during which the plan was insolvent or terminated (within the meaning of [section 1341a(a)(2) of this title][/us/usc/t29/s1341a/a/2]) shall not be taken into account.
+            (A) For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months is not eligible for the corporation’s guarantee. For purposes of this paragraph, any month of any plan year during which the plan was insolvent or terminated (within the meaning of [section 1341a(a)(2) of this title][/us/usc/t29/s1341a/a/2]) shall not be taken into account.
 
             (B) For purposes of this section, a benefit or benefit increase which has been in effect under a plan for less than 60 months before the first day of the plan year for which an amendment reducing the benefit or the benefit increase is taken into account under section 1425(a)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title in determining the minimum contribution requirement for the plan year under section 1423(b)  <sup>\[1\]</sup>  of this title is not eligible for the corporation’s guarantee.
 

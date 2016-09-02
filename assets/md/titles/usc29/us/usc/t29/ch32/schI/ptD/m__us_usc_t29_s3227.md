@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptE/m__us_usc_t29_ch32_schI_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3227)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226a.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptE/m__us_usc_t29_ch32_schI_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3227)
 
 ## § 3227. Authorization of appropriations
 
@@ -79,7 +79,7 @@
 
         (6) $106,906,000 for fiscal year 2020.
 
-    (e) __Assistance for Veterans__ 
+    (e) __Assistance for veterans__ 
 
         If, as of July 22, 2014, any unobligated funds appropriated to carry out [section 2913 of this title][/us/usc/t29/s2913], as in effect on the day before July 22, 2014, remain available, the Secretary of Labor shall continue to use such funds to carry out such section, as in effect on such day, until all of such funds are expended.
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptE/m__us_usc_t29_ch32_schI_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3227)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226a.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptE/m__us_usc_t29_ch32_schI_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3227)
 
 ----------
 ----------

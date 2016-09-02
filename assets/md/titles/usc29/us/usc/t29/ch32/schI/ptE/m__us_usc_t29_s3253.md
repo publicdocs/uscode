@@ -51,7 +51,7 @@
 
  __References in Text__ 
 
-    The Job Training Partnership Act, referred to in subsec. (b)(2), is [Pub. L. 97–300][/us/pl/97/300], Oct. 13, 1982, [96 Stat. 1322][/us/stat/96/1322], which was classified generally to chapter 19 (§ 1501 et seq.) of this title, prior to repeal by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
+    The Job Training Partnership Act, referred to in subsec. (b)(2), is [Pub. L. 97–300][/us/pl/97/300], Oct. 13, 1982, [96 Stat. 1322][/us/stat/96/1322], which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29][/us/usc/t29/s2940/b], references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables.
 
  __Effective Date__ 
 
@@ -73,6 +73,11 @@
 [/us/stat/96/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1322
 [/us/pl/105/220/s199/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F2
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
+[/us/usc/t29/s2940/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2940%2Fb
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

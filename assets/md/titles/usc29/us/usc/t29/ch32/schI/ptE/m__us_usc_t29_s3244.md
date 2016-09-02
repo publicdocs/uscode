@@ -15,7 +15,7 @@
 
 ## § 3244. Fiscal controls; sanctions
 
-    (a) __Establishment of fiscal controls by states__ 
+    (a) __Establishment of fiscal controls by States__ 
 
         (1) __In general__ 
 
@@ -129,7 +129,7 @@
 
         (3) __Repayment from deduction by State__ 
 
-            If the Secretary requires a State to repay funds as a result of a determination that a local area of the State has expended funds in a manner contrary to the requirements of this subchapter, the Governor of the State may use an amount deducted under paragraph (4) to repay the funds, except as provided under subsection (e). <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
+            If the Secretary requires a State to repay funds as a result of a determination that a local area of the State has expended funds in a manner contrary to the requirements of this subchapter, the Governor of the State may use an amount deducted under paragraph (4) to repay the funds, except as provided under subsection (e). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Subsec. (e) relates to termination or suspension of financial assistance. </sup></sup> 
 
         (4) __Deduction by State__ 
 

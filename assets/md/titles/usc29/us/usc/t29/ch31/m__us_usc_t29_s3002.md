@@ -25,7 +25,7 @@
 
         (B) a program carried out by a center for independent living, such as a center described in part C of title VII of the Rehabilitation Act of 1973 ([29 U.S.C. 796f][/us/usc/t29/s796f] et seq.);
 
-        (C) a program carried out by an employment support agency connected to adult vocational rehabilitation, such as a one-stop partner, as defined in [section 2801 of this title][/us/usc/t29/s2801]; and
+        (C) a program carried out by an employment support agency connected to adult vocational rehabilitation, such as a one-stop partner, as defined in [section 3102 of this title][/us/usc/t29/s3102]; and
 
         (D) a program carried out by another organization or vender licensed or registered by the designated State agency, as defined in section 7 of the Rehabilitation Act of 1973 ([29 U.S.C. 705][/us/usc/t29/s705]).
 
@@ -199,10 +199,6 @@
 
 ([Pub. L. 105–394, § 3][/us/pl/105/394/s3], Nov. 13, 1998, [112 Stat. 3631][/us/stat/112/3631]; [Pub. L. 106–402, title IV, § 401(b)(4)(A)][/us/pl/106/402/s401/b/4/A], Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738]; [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1709][/us/stat/118/1709]; [Pub. L. 110–315, title IX, § 941(k)(2)(K)][/us/pl/110/315/s941/k/2/K], Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467]; [Pub. L. 113–128, title IV, § 491][/us/pl/113/128/s491](o)(1), title V, § 512(b)(1), July 22, 2014, [128 Stat. 1698][/us/stat/128/1698], 1705.)
 
- __Amendment of Paragraph (1)(C)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(b)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (1)(C) of this section is amended by striking “such as a one-stop partner, as defined in [section 2801 of this title][/us/usc/t29/s2801]” and inserting “such as a one-stop partner, as defined in [section 3102 of this title][/us/usc/t29/s3102]”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     The Rehabilitation Act of 1973, referred to in pars. (1)(B) and (16)(C), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355]. Part C of title VII of the Act is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title][/us/usc/t29/s701] and Tables.
@@ -227,7 +223,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [section 512(b)(1) of Pub. L. 113–128][/us/pl/113/128/s512/b/1] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
+    Amendment by [section 512(b)(1) of Pub. L. 113–128][/us/pl/113/128/s512/b/1] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
 ----------
 
@@ -237,7 +233,7 @@
 ----------
 
 [/us/usc/t29/s796f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t29/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705
 [/us/usc/t42/s15002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15002
 [/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
@@ -260,10 +256,6 @@
 [/us/stat/122/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3467
 [/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
 [/us/stat/128/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1698
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701

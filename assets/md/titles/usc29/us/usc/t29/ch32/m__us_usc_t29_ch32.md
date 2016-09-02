@@ -321,6 +321,14 @@ Part C—Job Corps  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3193a" data-uslm-ref="/us/usc/t29/s3193a">3193a.</a>  </td>
+
+    <td> Transfer of administration of Job Corps program to Employment and Training Administration.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3194" data-uslm-ref="/us/usc/t29/s3194">3194.</a>  </td>
 
     <td> Individuals eligible for the Job Corps.  </td>
@@ -513,6 +521,14 @@ Part D—National Programs  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3224a" data-uslm-ref="/us/usc/t29/s3224a">3224a.</a>  </td>
+
+    <td> Job training grants.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3225" data-uslm-ref="/us/usc/t29/s3225">3225.</a>  </td>
 
     <td> National dislocated worker grants.  </td>
@@ -524,6 +540,14 @@ Part D—National Programs  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3226" data-uslm-ref="/us/usc/t29/s3226">3226.</a>  </td>
 
     <td> YouthBuild program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3226a" data-uslm-ref="/us/usc/t29/s3226a">3226a.</a>  </td>
+
+    <td> Re-enrollment in alternative school by high-school dropout.  </td>
 
   </tr>
 
@@ -635,7 +659,7 @@ Part E—Administration  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3252" data-uslm-ref="/us/usc/t29/s3252">3252.</a>  </td>
 
-    <td> Transfer of Federal equity in State employment security agency real property to the states.  </td>
+    <td> Transfer of Federal equity in State employment security agency real property to the States.  </td>
 
   </tr>
 
@@ -732,6 +756,14 @@ Part A—Federal Provisions  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3292" data-uslm-ref="/us/usc/t29/s3292">3292.</a>  </td>
 
     <td> Performance accountability system.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3293" data-uslm-ref="/us/usc/t29/s3293">3293.</a>  </td>
+
+    <td> Educational assistance and training.  </td>
 
   </tr>
 

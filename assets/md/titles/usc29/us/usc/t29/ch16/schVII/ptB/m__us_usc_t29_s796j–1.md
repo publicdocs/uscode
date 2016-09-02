@@ -23,7 +23,9 @@
 
         The Commissioner shall conduct a survey of designated State agencies that receive grants under [section 796k of this title][/us/usc/t29/s796k] regarding training and technical assistance needs in order to determine funding priorities for such training and technical assistance.
 
-    (c) Application for grant    To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Commissioner at such time, in such manner, containing a proposal to provide such training and technical assistance, and containing such additional information, as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the provision of services to older individuals who are blind.
+    (c) __Application for grant__ 
+
+        To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Commissioner at such time, in such manner, containing a proposal to provide such training and technical assistance, and containing such additional information, as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the provision of services to older individuals who are blind.
 
 ([Pub. L. 93–112, title VII, § 751A][/us/pl/93/112/s751A], as added [Pub. L. 113–128, title IV, § 486][/us/pl/113/128/s486], July 22, 2014, [128 Stat. 1693][/us/stat/128/1693].)
 

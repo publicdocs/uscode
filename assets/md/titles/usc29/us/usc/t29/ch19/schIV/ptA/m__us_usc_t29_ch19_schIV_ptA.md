@@ -17,11 +17,11 @@
 
 §§ 1671 to 1673. __Repealed.__  __[__  __Pub. L. 105–220, title I, § 199(b)(2)__  __][/us/pl/105/220/s199/b/2]__  __,__  __Aug. 7, 1998__  __,__  __[__  __112 Stat. 1059__  __][/us/stat/112/1059]__ 
 
-    Section 1671, [Pub. L. 97–300, title IV, § 401][/us/pl/97/300/s401], Oct. 13, 1982, [96 Stat. 1368][/us/stat/96/1368]; [Pub. L. 97–404, § 4(a)][/us/pl/97/404/s4/a], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 102–367, title IV, § 401(a)][/us/pl/102/367/s401/a]–(d), Sept. 7, 1992, [106 Stat. 1074–1076][/us/stat/106/1074-1076], related to Native American employment and training programs. See [section 2911 of this title][/us/usc/t29/s2911].
+    Section 1671, [Pub. L. 97–300, title IV, § 401][/us/pl/97/300/s401], Oct. 13, 1982, [96 Stat. 1368][/us/stat/96/1368]; [Pub. L. 97–404, § 4(a)][/us/pl/97/404/s4/a], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 102–367, title IV, § 401(a)][/us/pl/102/367/s401/a]–(d), Sept. 7, 1992, [106 Stat. 1074–1076][/us/stat/106/1074-1076], related to Native American employment and training programs.
 
-    Section 1672, [Pub. L. 97–300, title IV, § 402][/us/pl/97/300/s402], Oct. 13, 1982, [96 Stat. 1369][/us/stat/96/1369]; [Pub. L. 97–404, § 4(b)][/us/pl/97/404/s4/b], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 102–367, title IV, § 401(e)][/us/pl/102/367/s401/e], (f), Sept. 7, 1992, [106 Stat. 1076][/us/stat/106/1076], related to migrant and seasonal farmworker employment and training programs. See [section 2912 of this title][/us/usc/t29/s2912].
+    Section 1672, [Pub. L. 97–300, title IV, § 402][/us/pl/97/300/s402], Oct. 13, 1982, [96 Stat. 1369][/us/stat/96/1369]; [Pub. L. 97–404, § 4(b)][/us/pl/97/404/s4/b], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 102–367, title IV, § 401(e)][/us/pl/102/367/s401/e], (f), Sept. 7, 1992, [106 Stat. 1076][/us/stat/106/1076], related to migrant and seasonal farmworker employment and training programs.
 
-    Section 1673, [Pub. L. 97–300, title IV, § 403][/us/pl/97/300/s403], as added [Pub. L. 102–367, title IV, § 401(g)][/us/pl/102/367/s401/g], Sept. 7, 1992, [106 Stat. 1076][/us/stat/106/1076], related to grant procedures. See [section 2912(g) of this title][/us/usc/t29/s2912/g].
+    Section 1673, [Pub. L. 97–300, title IV, § 403][/us/pl/97/300/s403], as added [Pub. L. 102–367, title IV, § 401(g)][/us/pl/102/367/s401/g], Sept. 7, 1992, [106 Stat. 1076][/us/stat/106/1076], related to grant procedures.
 
  __Effective Date of Repeal__ 
 
@@ -42,18 +42,15 @@
 [/us/stat/96/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2026
 [/us/pl/102/367/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs401%2Fa
 [/us/stat/106/1074-1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1074-1076
-[/us/usc/t29/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2911
 [/us/pl/97/300/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs402
 [/us/stat/96/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1369
 [/us/pl/97/404/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F404%2Fs4%2Fb
 [/us/stat/96/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2026
 [/us/pl/102/367/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs401%2Fe
 [/us/stat/106/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1076
-[/us/usc/t29/s2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2912
 [/us/pl/97/300/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs403
 [/us/pl/102/367/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs401%2Fg
 [/us/stat/106/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1076
-[/us/usc/t29/s2912/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2912%2Fg
 [/us/pl/105/220/s199/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FB
 [/us/usc/t29/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1501
 

@@ -105,7 +105,7 @@
 
     2014—Subsec. (a)(1)(A) to (C). [Pub. L. 113–128, § 451(1)(B)][/us/pl/113/128/s451/1/B], added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
 
-    “(1)(A) There is established within the Federal Government a National Council on Disability (hereinafter in this subchapter referred to as the “National Council”), which shall be composed of fifteen members appointed by the President.
+    “(1)(A) There is established within the Federal Government a National Council on Disability (hereinafter in this subchapter referred to as the ‘National Council’), which shall be composed of fifteen members appointed by the President.
 
     “(B) The President shall select members of the National Council after soliciting recommendations from representatives of—
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3225.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3227.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3225.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226)
 
 ## § 3226. YouthBuild program
 
@@ -399,9 +399,127 @@
 
     Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as a note under [section 3101 of this title][/us/usc/t29/s3101].
 
+ __Transfer of Functions and Savings Provisions__ 
+
+[Pub. L. 109–281, § 3][/us/pl/109/281/s3], Sept. 22, 2006, [120 Stat. 1182][/us/stat/120/1182], provided that:
+
+>     “(a)  __Definitions__  __.—__ 
+
+>     For purposes of this section, unless otherwise provided or indicated by the context—
+
+>         “(1) the term ‘Federal agency’ has the meaning given to the term ‘agency’ by [section 551(1) of title 5][/us/usc/t5/s551/1], United States Code;
+
+>         “(2) the term ‘function’ means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program; and
+
+>         “(3) the term ‘office’ includes any office, administration, agency, institute, unit, organizational entity, or component thereof.
+
+>     “(b)  __Transfer of Functions__  __.—__ 
+
+>     There are transferred to the Department of Labor all functions which the Secretary of Housing and Urban Development exercised before the effective date of this section (including all related functions of any officer or employee of the Department of Housing and Urban Development) relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12899][/us/usc/t42/s12899] et seq.).
+
+>     “(c)  __Determinations of Certain Functions by the Office of Management and Budget__  __.—__ 
+
+>     If necessary, the Office of Management and Budget shall make any determination of the functions that are transferred under subsection (b).
+
+>     “(d) __Personnel Provisions.—__ 
+
+>         “(1)  __Appointments__  __.—__ 
+
+>         The Secretary of Labor may appoint and fix the compensation of such officers and employees, including investigators, attorneys, and administrative law judges, as may be necessary to carry out the respective functions transferred under this section. Except as otherwise provided by law, such officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with title 5, United States Code.
+
+>         “(2)  __Experts and consultants__  __.—__ 
+
+>         The Secretary of Labor may obtain the services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109], United States Code, and compensate such experts and consultants for each day (including traveltime) at rates not in excess of the rate of pay for level IV of the Executive Schedule under section 5315 of such title. The Secretary of Labor may pay experts and consultants who are serving away from their homes or regular place of business travel expenses and per diem in lieu of subsistence at rates authorized by sections 5702 and 5703 of such title for persons in Government service employed intermittently.
+
+>     “(e)  __Delegation and Assignment__  __.—__ 
+
+>     Except where otherwise expressly prohibited by law or otherwise provided by this section, the Secretary of Labor may delegate any of the functions transferred to the Secretary of Labor by this section and any function transferred or granted to the Secretary of Labor after the effective date of this section to such officers and employees of the Department of Labor as the Secretary of Labor may designate, and may authorize successive redelegations of such functions as may be necessary or appropriate. No delegation of functions by the Secretary of Labor under this subsection or under any other provision of this section shall relieve the Secretary of Labor of responsibility for the administration of such functions.
+
+>     “(f)  __Reorganization__  __.—__ 
+
+>     The Secretary of Labor is authorized to allocate or reallocate any function transferred under subsection (b) among the officers of the Department of Labor, and to establish, consolidate, alter, or discontinue such organizational entities in the Department of Labor as may be necessary or appropriate.
+
+>     “(g)  __Rules__  __.—__ 
+
+>     The Secretary of Labor is authorized to prescribe, in accordance with the provisions of chapters 5 and 6 of title 5, United States Code, such rules and regulations as the Secretary of Labor determines necessary or appropriate to administer and manage the functions of the Department of Labor.
+
+>     “(h)  __Transfer and Allocations of Appropriations__  __.—__ 
+
+>     Except as otherwise provided in this section, the assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with the functions transferred by this section, subject to [section 1531 of title 31][/us/usc/t31/s1531], United States Code, shall be transferred to the Department of Labor. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+
+>     “(i)  __Transfers__  __.—__ 
+
+>     The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this section, and to make such dispositions of assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with such functions, subject to [section 1531 of title 31][/us/usc/t31/s1531], United States Code, as may be necessary to carry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section.
+
+>     “(j) __Savings Provisions.—__ 
+
+>         “(1)  __Continuing effect of legal documents__  __.—__ 
+
+>         All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
+
+>             “(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this section; and
+
+>             “(B) which are in effect at the time this section takes effect, or were final before the effective date of this section and are to become effective on or after the effective date of this section,
+
+>             shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary of Labor or other authorized official, a court of competent jurisdiction, or by operation of law.
+
+>         “(2)  __Proceedings not affected__  __.—__ 
+
+>         The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of Housing and Urban Development at the time this section takes effect, with respect to functions transferred by this section but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
+
+>         “(3)  __Suits not affected__  __.—__ 
+
+>         The provisions of this section shall not affect suits commenced before the effective date of this section, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this section had not been enacted.
+
+>         “(4)  __Nonabatement of actions__  __.—__ 
+
+>         No suit, action, or other proceeding commenced by or against the Department of Housing and Urban Development, or by or against any individual in the official capacity of such individual as an officer of the Department of Housing and Urban Development, shall abate by reason of the enactment of this section.
+
+>         “(5)  __Administrative actions relating to promulgation of regulations__  __.—__ 
+
+>         Any administrative action relating to the preparation or promulgation of a regulation by the Department of Housing and Urban Development relating to a function transferred under this section may be continued by the Department of Labor with the same effect as if this section had not been enacted.
+
+>     “(k)  __Separability__  __.—__ 
+
+>     If a provision of this section or its application to any person or circumstance is held invalid, neither the remainder of this section nor the application of the provision to other persons or circumstances shall be affected.
+
+>     “(l)  __Transition__  __.—__ 
+
+>     The Secretary of Labor is authorized to utilize—
+
+>         “(1) the services of such officers, employees, and other personnel of the Department of Housing and Urban Development with respect to functions transferred to the Department of Labor by this section; and
+
+>         “(2) funds appropriated to such functions for such period of time,
+
+>         as may reasonably be needed to facilitate the orderly implementation of this section.
+
+>     “(m)  __Accomplishing Orderly Transfer__  __.—__ 
+
+>     Consistent with the requirements of this section, the Secretary of Labor and the Secretary of Housing and Urban Development shall take such actions as the Secretaries determine are appropriate to accomplish the orderly transfer of functions as described in subsection (b).
+
+>     “(n)  __Administration of Prior Grants__  __.—__ 
+
+>     Notwithstanding any other provision of this Act \[See Short Title of 2006 Amendment note set out under [section 2801 of this title][/us/usc/t29/s2801]\], grants awarded under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12899][/us/usc/t42/s12899] et seq.) with funds appropriated for fiscal year 2006 or a preceding fiscal year shall be subject to the continuing authority of the Secretary of Housing and Urban Development under the provisions of such subtitle, as in effect on the day before the date of enactment of this Act \[Sept. 22, 2006\], until the authority to expend applicable funds for the grants, as specified by the Secretary of Housing and Urban Development, has expired and the Secretary has completed the administrative responsibilities associated with the grants.
+
+>     “(o)  __References__  __.—__ 
+
+>     A reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to—
+
+>         “(1) the Secretary of Housing and Urban Development with regard to functions transferred under subsection (b), shall be deemed to refer to the Secretary of Labor; and
+
+>         “(2) the Department of Housing and Urban Development with regard to functions transferred under subsection (b), shall be deemed to refer to the Department of Labor.
+
+>     “(p)  __Effective Date__  __.—__ 
+
+>     This section takes effect on the earlier of—
+
+>         “(1) the date of enactment of this Act \[Sept. 22, 2006\]; and
+
+>         “(2) September 30, 2006.”
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3225.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3227.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3225.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226)
 
 ----------
 ----------
@@ -428,5 +546,14 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/109/281/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281%2Fs3
+[/us/stat/120/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1182
+[/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
+[/us/usc/t42/s12899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12899
+[/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
+[/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
+[/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t42/s12899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12899
 
 

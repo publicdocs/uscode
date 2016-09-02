@@ -399,7 +399,7 @@
 
                 (ii) reveal any proprietary information regarding the plan, any contributing employer, or entity providing services to the plan.
 
-            Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B). 1
+            Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B).1
 
         (3) __Limitations__ 
 
@@ -463,7 +463,7 @@
 
     The Cooperative and Small Employer Charity Pension Flexibility Act, referred to in subsec. (f)(2)(E)(ii), is [Pub. L. 113–97][/us/pl/113/97], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101]. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
-    The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by [Pub. L. 113–235, § 111(a)][/us/pl/113/235/s111/a]. See 2014 Amendment note below.
+    The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by [Pub. L. 113–235, § 111(a)][/us/pl/113/235/s111/a]. See 2014 Amendment note below.
 
  __Amendments__ 
 

@@ -15,13 +15,9 @@
 
 ## § 49. United States Employment Service established
 
-    In order to promote the establishment and maintenance of a national system of public employment offices, the United States Employment Service shall be established and maintained within the Department of Labor.
+    In order to promote the establishment and maintenance of a national system of public employment service offices, the United States Employment Service shall be established and maintained within the Department of Labor.
 
 ([June 6, 1933, ch. 49, § 1][/us/act/1933-06-06/ch49/s1], [48 Stat. 113][/us/stat/48/113]; [Pub. L. 97–300, title VI, § 601(a)][/us/pl/97/300/s601/a], formerly title V, § 501(a), Oct. 13, 1982, [96 Stat. 1392][/us/stat/96/1392]; renumbered title VI, § 601(a), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 113–128, title III, § 301][/us/pl/113/128/s301], July 22, 2014, [128 Stat. 1624][/us/stat/128/1624].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title III, § 301][/us/pl/113/128/s301], title V, § 506, July 22, 2014, [128 Stat. 1624][/us/stat/128/1624], 1703, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended by inserting “service” before “offices”. See 2014 Amendment note below.
 
  __Amendments__ 
 
@@ -31,7 +27,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 1982 Amendment__ 
 
@@ -85,6 +81,10 @@
 
 >     “(b) The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen’s Readjustment Act of 1944, as amended ([58 Stat. 295][/us/stat/58/295]).”
 
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
+
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
+
 ----------
 
 [Previous](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_ch4B.md) | [Next](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49)
@@ -98,8 +98,6 @@
 [/us/stat/96/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1392
 [/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
-[/us/pl/113/128/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs301
-[/us/stat/128/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1624
 [/us/pl/113/128/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs301
 [/us/stat/128/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1624
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
@@ -135,5 +133,8 @@
 [/us/stat/61/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F55
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/stat/58/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F295
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

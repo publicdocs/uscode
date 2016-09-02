@@ -113,7 +113,7 @@
 
         (8) conducting research on consumer satisfaction with independent living and vocational rehabilitation services for the purpose of identifying effective independent living and rehabilitation programs and policies that promote the independence of individuals with disabilities and achievement of long-term independent living and employment goals;
 
-        (9) conducting research to examine the relationship between the provision of specific services and successful, sustained employment outcomes, including employment outcomes involving self-employment , supported employment (including customized employment), and telecommuting; and
+        (9) conducting research to examine the relationship between the provision of specific services and successful, sustained employment outcomes, including employment outcomes involving self-employment, supported employment (including customized employment), and telecommuting; and
 
         (10) coordinating activities with the Attorney General regarding the provision of information, training, or technical assistance regarding the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) to ensure consistency with the plan for technical assistance required under section 506  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of such Act ([42 U.S.C. 12206][/us/usc/t42/s12206]).
 

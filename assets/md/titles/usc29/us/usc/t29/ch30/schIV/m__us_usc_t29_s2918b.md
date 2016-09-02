@@ -11,26 +11,21 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2918a.md) | [Next](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2919.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918b)
+[Previous](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2916a.md) | [Next](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2919.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918b)
 
-## § 2918b. Re-enrollment in alternative school by high-school dropout
+## § 2918b. Transferred
 
-    For program year 2010 and each program year thereafter, the YouthBuild program may serve an individual who has dropped out of high school and re-enrolled in an alternative school, if that re-enrollment is part of a sequential service strategy.
-
-([Pub. L. 111–117, div. D, title I][/us/pl/111/117], (2)(E), Dec. 16, 2009, [123 Stat. 3227][/us/stat/123/3227].)
-
- __Codification__ 
-
-    Section was enacted as part of the Department of Labor Appropriations Act, 2010, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2010, and the Consolidated Appropriations Act, 2010, and not as part of title I of the Workforce Investment Act of 1998 which comprises this chapter.
+    Section, [Pub. L. 111–117, div. D, title I][/us/pl/111/117], (2)(E), Dec. 16, 2009, [123 Stat. 3227][/us/stat/123/3227], which related to re-enrollment in alternative school by high-school dropout, was transferred to [section 3226a of this title][/us/usc/t29/s3226a].
 
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2918a.md) | [Next](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2919.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918b)
+[Previous](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2916a.md) | [Next](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2919.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918b)
 
 ----------
 ----------
 
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/stat/123/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3227
+[/us/usc/t29/s3226a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226a
 
 

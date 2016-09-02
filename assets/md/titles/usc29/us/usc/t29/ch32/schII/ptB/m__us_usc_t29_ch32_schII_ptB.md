@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schII/ptA/m__us_usc_t29_s3292.md) | [Next](./../../../../../..//us/usc/t29/ch32/schII/ptB/m__us_usc_t29_s3301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch32%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t29/ch32/schII/ptA/m__us_usc_t29_s3293.md) | [Next](./../../../../../..//us/usc/t29/ch32/schII/ptB/m__us_usc_t29_s3301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch32%2FschII%2FptB)
 
 #### Part B—State Provisions
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schII/ptA/m__us_usc_t29_s3292.md) | [Next](./../../../../../..//us/usc/t29/ch32/schII/ptB/m__us_usc_t29_s3301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch32%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t29/ch32/schII/ptA/m__us_usc_t29_s3293.md) | [Next](./../../../../../..//us/usc/t29/ch32/schII/ptB/m__us_usc_t29_s3301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch32%2FschII%2FptB)
 
 ----------
 ----------

@@ -37,7 +37,7 @@
 
  __Effective Date of Repeal__ 
 
-    [Pub. L. 97–300, title I, § 184(a)][/us/pl/97/300/s184/a], Oct. 13, 1982, [96 Stat. 1357][/us/stat/96/1357], which provided for the repeal of the Comprehensive Employment and Training Act, this chapter, effective Oct. 13, 1982, was itself repealed by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], eff. July 1, 2000.
+    [Pub. L. 97–300, title I, § 184(a)][/us/pl/97/300/s184/a], Oct. 13, 1982, [96 Stat. 1357][/us/stat/96/1357], which provided for the repeal of the Comprehensive Employment and Training Act, this chapter, effective Oct. 13, 1982, was itself repealed by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], as amended, eff. July 1, 2000.
 
 ----------
 

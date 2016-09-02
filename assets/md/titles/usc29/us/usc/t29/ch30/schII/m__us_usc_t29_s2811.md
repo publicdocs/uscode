@@ -13,19 +13,13 @@
 
 [Previous](./../../../../..//us/usc/t29/ch30/schII/m__us_usc_t29_ch30_schII.md) | [Next](./../../../../..//us/usc/t29/ch30/schII/ptA/m__us_usc_t29_ch30_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811)
 
-## § 2811. Purpose
+## § 2811. Repealed. [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705]
 
-    The purpose of this subchapter is to provide workforce investment activities, through statewide and local workforce investment systems, that increase the employment, retention, and earnings of participants, and increase occupational skill attainment by participants, and, as a result, improve the quality of the workforce, reduce welfare dependency, and enhance the productivity and competitiveness of the Nation.
-
-([Pub. L. 105–220, title I, § 106][/us/pl/105/220/s106], Aug. 7, 1998, [112 Stat. 945][/us/stat/112/945].)
-
- __Repeal of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+    Section, [Pub. L. 105–220, title I, § 106][/us/pl/105/220/s106], Aug. 7, 1998, [112 Stat. 945][/us/stat/112/945], stated purpose of this subchapter.
 
  __Effective Date of Repeal__ 
 
-    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
+    Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
 ----------
 
@@ -34,10 +28,10 @@
 ----------
 ----------
 
+[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
 [/us/pl/105/220/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs106
 [/us/stat/112/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F945
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

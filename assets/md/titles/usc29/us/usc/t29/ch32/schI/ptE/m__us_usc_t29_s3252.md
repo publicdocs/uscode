@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t29/ch32/schI/ptE/m__us_usc_t29_s3251.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptE/m__us_usc_t29_s3253.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3252)
 
-## § 3252. Transfer of Federal equity in State employment security agency real property to the states
+## § 3252. Transfer of Federal equity in State employment security agency real property to the States
 
     (a) __Transfer of Federal equity__ 
 

@@ -73,7 +73,7 @@
 
                         Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
 
-                    (II) __Small state minimum allotment__ 
+                    (II) __Small State minimum allotment__ 
 
                     Subject to subclauses (I), (III), and (IV), the Secretary shall ensure that no State shall receive an allotment under this subparagraph that is less than the total of—
 

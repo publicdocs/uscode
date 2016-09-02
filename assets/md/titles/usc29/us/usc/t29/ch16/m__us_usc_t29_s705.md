@@ -639,7 +639,7 @@
 
     (41) __Workforce investment activities__ 
 
-        The term “workforce investment activities” means workforce investment activities,as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\], that are carried out under that Act.
+        The term “workforce investment activities” means workforce investment activities, as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\], that are carried out under that Act.
 
     (42) __Youth with a disability__ 
 

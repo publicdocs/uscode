@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3224.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3225)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3224a.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3225)
 
 ## § 3225. National dislocated worker grants
 
@@ -167,7 +167,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3224.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3225)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3224a.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3226.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3225)
 
 ----------
 ----------

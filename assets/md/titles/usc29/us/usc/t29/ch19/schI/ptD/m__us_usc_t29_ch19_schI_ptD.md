@@ -17,27 +17,27 @@
 
 §§ 1571 to 1583. __Repealed.__  __[__  __Pub. L. 105–220, title I, § 199(b)(2)__  __][/us/pl/105/220/s199/b/2]__  __,__  __Aug. 7, 1998__  __,__  __[__  __112 Stat. 1059__  __][/us/stat/112/1059]__ 
 
-    Section 1571, [Pub. L. 97–300, title I, § 161][/us/pl/97/300/s161], Oct. 13, 1982, [96 Stat. 1347][/us/stat/96/1347]; [Pub. L. 100–495, § 1][/us/pl/100/495/s1], Oct. 17, 1988, [102 Stat. 2454][/us/stat/102/2454]; [Pub. L. 102–367, title VII, § 702(a)(7)][/us/pl/102/367/s702/a/7], (8), Sept. 7, 1992, [106 Stat. 1112][/us/stat/106/1112], related to program year. See [section 2939(g) of this title][/us/usc/t29/s2939/g].
+    Section 1571, [Pub. L. 97–300, title I, § 161][/us/pl/97/300/s161], Oct. 13, 1982, [96 Stat. 1347][/us/stat/96/1347]; [Pub. L. 100–495, § 1][/us/pl/100/495/s1], Oct. 17, 1988, [102 Stat. 2454][/us/stat/102/2454]; [Pub. L. 102–367, title VII, § 702(a)(7)][/us/pl/102/367/s702/a/7], (8), Sept. 7, 1992, [106 Stat. 1112][/us/stat/106/1112], related to program year.
 
-    Section 1572, [Pub. L. 97–300, title I, § 162][/us/pl/97/300/s162], Oct. 13, 1982, [96 Stat. 1347][/us/stat/96/1347]; [Pub. L. 102–367, title I, § 141][/us/pl/102/367/s141], Sept. 7, 1992, [106 Stat. 1046][/us/stat/106/1046], related to prompt allocation of funds. See [section 2932 of this title][/us/usc/t29/s2932].
+    Section 1572, [Pub. L. 97–300, title I, § 162][/us/pl/97/300/s162], Oct. 13, 1982, [96 Stat. 1347][/us/stat/96/1347]; [Pub. L. 102–367, title I, § 141][/us/pl/102/367/s141], Sept. 7, 1992, [106 Stat. 1046][/us/stat/106/1046], related to prompt allocation of funds.
 
-    Section 1573, [Pub. L. 97–300, title I, § 163][/us/pl/97/300/s163], Oct. 13, 1982, [96 Stat. 1348][/us/stat/96/1348], related to monitoring for compliance with chapter. See [section 2933 of this title][/us/usc/t29/s2933].
+    Section 1573, [Pub. L. 97–300, title I, § 163][/us/pl/97/300/s163], Oct. 13, 1982, [96 Stat. 1348][/us/stat/96/1348], related to monitoring for compliance with chapter.
 
-    Section 1574, [Pub. L. 97–300, title I, § 164][/us/pl/97/300/s164], Oct. 13, 1982, [96 Stat. 1348][/us/stat/96/1348]; [Pub. L. 102–367, title I, § 142][/us/pl/102/367/s142], Sept. 7, 1992, [106 Stat. 1046][/us/stat/106/1046], related to fiscal controls and sanctions. See [section 2934 of this title][/us/usc/t29/s2934].
+    Section 1574, [Pub. L. 97–300, title I, § 164][/us/pl/97/300/s164], Oct. 13, 1982, [96 Stat. 1348][/us/stat/96/1348]; [Pub. L. 102–367, title I, § 142][/us/pl/102/367/s142], Sept. 7, 1992, [106 Stat. 1046][/us/stat/106/1046], related to fiscal controls and sanctions.
 
-    Section 1575, [Pub. L. 97–300, title I, § 165][/us/pl/97/300/s165], Oct. 13, 1982, [96 Stat. 1350][/us/stat/96/1350]; [Pub. L. 102–367, title I, § 143][/us/pl/102/367/s143], Sept. 7, 1992, [106 Stat. 1048][/us/stat/106/1048], related to reports, recordkeeping, and investigations. See [section 2935 of this title][/us/usc/t29/s2935].
+    Section 1575, [Pub. L. 97–300, title I, § 165][/us/pl/97/300/s165], Oct. 13, 1982, [96 Stat. 1350][/us/stat/96/1350]; [Pub. L. 102–367, title I, § 143][/us/pl/102/367/s143], Sept. 7, 1992, [106 Stat. 1048][/us/stat/106/1048], related to reports, recordkeeping, and investigations.
 
-    Section 1576, [Pub. L. 97–300, title I, § 166][/us/pl/97/300/s166], Oct. 13, 1982, [96 Stat. 1351][/us/stat/96/1351]; [Pub. L. 102–367, title I, § 134(b)][/us/pl/102/367/s134/b], Sept. 7, 1992, [106 Stat. 1046][/us/stat/106/1046], related to administrative adjudication. See [section 2936 of this title][/us/usc/t29/s2936].
+    Section 1576, [Pub. L. 97–300, title I, § 166][/us/pl/97/300/s166], Oct. 13, 1982, [96 Stat. 1351][/us/stat/96/1351]; [Pub. L. 102–367, title I, § 134(b)][/us/pl/102/367/s134/b], Sept. 7, 1992, [106 Stat. 1046][/us/stat/106/1046], related to administrative adjudication.
 
-    Section 1577, [Pub. L. 97–300, title I, § 167][/us/pl/97/300/s167], Oct. 13, 1982, [96 Stat. 1352][/us/stat/96/1352]; [Pub. L. 102–367, title I][/us/pl/102/367], §§ 103(b)(2), 144, Sept. 7, 1992, [106 Stat. 1026][/us/stat/106/1026], 1051, related to requirements for nondiscrimination. See [section 2938 of this title][/us/usc/t29/s2938].
+    Section 1577, [Pub. L. 97–300, title I, § 167][/us/pl/97/300/s167], Oct. 13, 1982, [96 Stat. 1352][/us/stat/96/1352]; [Pub. L. 102–367, title I][/us/pl/102/367], §§ 103(b)(2), 144, Sept. 7, 1992, [106 Stat. 1026][/us/stat/106/1026], 1051, related to requirements for nondiscrimination.
 
-    Section 1578, [Pub. L. 97–300, title I, § 168][/us/pl/97/300/s168], Oct. 13, 1982, [96 Stat. 1353][/us/stat/96/1353], related to judicial review. See [section 2937 of this title][/us/usc/t29/s2937].
+    Section 1578, [Pub. L. 97–300, title I, § 168][/us/pl/97/300/s168], Oct. 13, 1982, [96 Stat. 1353][/us/stat/96/1353], related to judicial review.
 
-    Section 1579, [Pub. L. 97–300, title I, § 169][/us/pl/97/300/s169], Oct. 13, 1982, [96 Stat. 1353][/us/stat/96/1353], contained administrative provisions. See [section 2939 of this title][/us/usc/t29/s2939].
+    Section 1579, [Pub. L. 97–300, title I, § 169][/us/pl/97/300/s169], Oct. 13, 1982, [96 Stat. 1353][/us/stat/96/1353], contained administrative provisions.
 
-    Section 1580, [Pub. L. 97–300, title I, § 170][/us/pl/97/300/s170], Oct. 13, 1982, [96 Stat. 1354][/us/stat/96/1354]; [Pub. L. 102–367, title I, § 145][/us/pl/102/367/s145], Sept. 7, 1992, [106 Stat. 1052][/us/stat/106/1052], related to utilization of services and facilities. See [section 2939(e) of this title][/us/usc/t29/s2939/e].
+    Section 1580, [Pub. L. 97–300, title I, § 170][/us/pl/97/300/s170], Oct. 13, 1982, [96 Stat. 1354][/us/stat/96/1354]; [Pub. L. 102–367, title I, § 145][/us/pl/102/367/s145], Sept. 7, 1992, [106 Stat. 1052][/us/stat/106/1052], related to utilization of services and facilities.
 
-    Section 1581, [Pub. L. 97–300, title I, § 171][/us/pl/97/300/s171], Oct. 13, 1982, [96 Stat. 1354][/us/stat/96/1354], related to obligational authority. See [section 2939(f) of this title][/us/usc/t29/s2939/f].
+    Section 1581, [Pub. L. 97–300, title I, § 171][/us/pl/97/300/s171], Oct. 13, 1982, [96 Stat. 1354][/us/stat/96/1354], related to obligational authority.
 
     Section 1582, [Pub. L. 97–300, title I, § 172][/us/pl/97/300/s172], as added [Pub. L. 99–496, § 4][/us/pl/99/496/s4], Oct. 16, 1986, [100 Stat. 1261][/us/stat/100/1261], related to Presidential awards for outstanding private sector involvement in job training programs.
 
@@ -62,49 +62,38 @@
 [/us/stat/102/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2454
 [/us/pl/102/367/s702/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs702%2Fa%2F7
 [/us/stat/106/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1112
-[/us/usc/t29/s2939/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2939%2Fg
 [/us/pl/97/300/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs162
 [/us/stat/96/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1347
 [/us/pl/102/367/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs141
 [/us/stat/106/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1046
-[/us/usc/t29/s2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2932
 [/us/pl/97/300/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs163
 [/us/stat/96/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1348
-[/us/usc/t29/s2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2933
 [/us/pl/97/300/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs164
 [/us/stat/96/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1348
 [/us/pl/102/367/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs142
 [/us/stat/106/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1046
-[/us/usc/t29/s2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2934
 [/us/pl/97/300/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs165
 [/us/stat/96/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1350
 [/us/pl/102/367/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs143
 [/us/stat/106/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1048
-[/us/usc/t29/s2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2935
 [/us/pl/97/300/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs166
 [/us/stat/96/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1351
 [/us/pl/102/367/s134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs134%2Fb
 [/us/stat/106/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1046
-[/us/usc/t29/s2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2936
 [/us/pl/97/300/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs167
 [/us/stat/96/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1352
 [/us/pl/102/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367
 [/us/stat/106/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1026
-[/us/usc/t29/s2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2938
 [/us/pl/97/300/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs168
 [/us/stat/96/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1353
-[/us/usc/t29/s2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2937
 [/us/pl/97/300/s169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs169
 [/us/stat/96/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1353
-[/us/usc/t29/s2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2939
 [/us/pl/97/300/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs170
 [/us/stat/96/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1354
 [/us/pl/102/367/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs145
 [/us/stat/106/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1052
-[/us/usc/t29/s2939/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2939%2Fe
 [/us/pl/97/300/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs171
 [/us/stat/96/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1354
-[/us/usc/t29/s2939/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2939%2Ff
 [/us/pl/97/300/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs172
 [/us/pl/99/496/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F496%2Fs4
 [/us/stat/100/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1261

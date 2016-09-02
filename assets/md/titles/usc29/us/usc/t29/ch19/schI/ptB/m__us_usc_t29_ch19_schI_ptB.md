@@ -27,9 +27,9 @@
 
     Section 1535, [Pub. L. 97–300, title I, § 125][/us/pl/97/300/s125], Oct. 13, 1982, [96 Stat. 1342][/us/stat/96/1342]; [Pub. L. 97–404, § 1(e)][/us/pl/97/404/s1/e], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 98–524, § 4(a)(3)][/us/pl/98/524/s4/a/3], Oct. 19, 1984, [98 Stat. 2487][/us/stat/98/2487]; [Pub. L. 102–367, title I, § 124][/us/pl/102/367/s124], title VII, § 702(a)(6), Sept. 7, 1992, [106 Stat. 1041][/us/stat/106/1041], 1112, related to State labor market information programs.
 
-    Section 1536, [Pub. L. 97–300, title I, § 126][/us/pl/97/300/s126], Oct. 13, 1982, [96 Stat. 1343][/us/stat/96/1343], related to authority of State legislature. See [section 2941 of this title][/us/usc/t29/s2941].
+    Section 1536, [Pub. L. 97–300, title I, § 126][/us/pl/97/300/s126], Oct. 13, 1982, [96 Stat. 1343][/us/stat/96/1343], related to authority of State legislature.
 
-    Section 1537, [Pub. L. 97–300, title I, § 127][/us/pl/97/300/s127], Oct. 13, 1982, [96 Stat. 1343][/us/stat/96/1343], related to interstate agreements. See [section 2941 of this title][/us/usc/t29/s2941].
+    Section 1537, [Pub. L. 97–300, title I, § 127][/us/pl/97/300/s127], Oct. 13, 1982, [96 Stat. 1343][/us/stat/96/1343], related to interstate agreements.
 
  __Effective Date of Repeal__ 
 
@@ -100,10 +100,8 @@
 [/us/stat/106/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1041
 [/us/pl/97/300/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs126
 [/us/stat/96/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1343
-[/us/usc/t29/s2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2941
 [/us/pl/97/300/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs127
 [/us/stat/96/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1343
-[/us/usc/t29/s2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2941
 [/us/pl/105/220/s199/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FB
 [/us/usc/t29/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1501
 

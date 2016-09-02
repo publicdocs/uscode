@@ -129,11 +129,7 @@
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–220, title IV, § 401][/us/pl/105/220/s401], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], provided that: 
-
-> “This title \[see Tables for classification\] may be cited as the ‘Rehabilitation Act Amendments of 1998’.”
-
-    \[[Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], [section 401 of Pub. L. 105–220][/us/pl/105/220/s401], set out above, is repealed.\]
+    [Pub. L. 105–220, title IV, § 401][/us/pl/105/220/s401], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], provided that title IV of [Pub. L. 105–220][/us/pl/105/220] could be cited as the “Rehabilitation Act Amendments of 1998”, prior to repeal by [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
 
  __Short Title of 1993 Amendment__ 
 
@@ -269,7 +265,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     (g) All executive agencies that are not members of the Task Force shall: (1) coordinate and cooperate with the Task Force; and (2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shall file a report with the Task Force on the results of its review on November 15, 1998.
 
-    (h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 \[[Pub. L. 105–220][/us/pl/105/220], see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education\]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
+    (h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 \[[Pub. L. 105–220][/us/pl/105/220] repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015\]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
 
     Sec. 3. Cooperation. All efforts taken by executive departments and agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation with public and private sector employers, organizations that represent people with disabilities, organized labor, veteran service organizations, and State and local governments whenever such partnerships and cooperation are possible and would promote the employment and gainful economic activities of individuals with disabilities.
 
@@ -363,9 +359,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/124/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2343
 [/us/pl/105/220/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs401
 [/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs401
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
 [/us/pl/103/73/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs1
 [/us/stat/107/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F718
 [/us/usc/t41/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs46
@@ -439,7 +435,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t41/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8501
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t5/s5701–570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%E2%80%93570
 
 

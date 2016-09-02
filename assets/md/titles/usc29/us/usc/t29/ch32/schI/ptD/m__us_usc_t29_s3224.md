@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3223.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3225.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3223.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3224a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224)
 
 ## § 3224. Evaluations and research
 
@@ -201,7 +201,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3223.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3225.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224)
+[Previous](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3223.md) | [Next](./../../../../../..//us/usc/t29/ch32/schI/ptD/m__us_usc_t29_s3224a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224)
 
 ----------
 ----------

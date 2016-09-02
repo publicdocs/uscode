@@ -41,11 +41,11 @@
 
         The term “graduate” means an individual who has voluntarily applied for, been selected for, and enrolled in the Job Corps program and who, as a result of participation in the Job Corps program, has received a secondary school diploma or recognized equivalent, or completed the requirements of a career and technical education and training program that prepares individuals for employment leading to economic self-sufficiency or entrance into postsecondary education or training.
 
-    (6) __Job corps__ 
+    (6) __Job Corps__ 
 
         The term “Job Corps” means the Job Corps described in [section 3193 of this title][/us/usc/t29/s3193].
 
-    (7) __Job corps center__ 
+    (7) __Job Corps center__ 
 
         The term “Job Corps center” means a center described in [section 3197 of this title][/us/usc/t29/s3197].
 

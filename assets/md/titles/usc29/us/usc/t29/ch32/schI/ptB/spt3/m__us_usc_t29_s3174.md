@@ -31,7 +31,7 @@
 
                 (ii) may be used to carry out any of the statewide employment and training activities described in paragraph (3),
 
-            regardless of whether the funds were allotted to the State under [section 3162(b)(1) of this title][/us/usc/t29/s3162/b/1] or under paragraph (1) or (2) of [section 3172(b) of this title][/us/usc/t29/s3172/b].
+                regardless of whether the funds were allotted to the State under [section 3162(b)(1) of this title][/us/usc/t29/s3162/b/1] or under paragraph (1) or (2) of [section 3172(b) of this title][/us/usc/t29/s3172/b].
 
         (2) __Required statewide employment and training activities__ 
 
@@ -595,7 +595,7 @@
 
                 (i) __Factors__ 
 
-                    Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employees participating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities.
+                    Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employees participating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities. <sup>\[1\]</sup>  <sup><sup> 1 So in original. A closing parenthesis probably should precede the period. </sup></sup> 
 
                 (ii) __Limits__ 
 

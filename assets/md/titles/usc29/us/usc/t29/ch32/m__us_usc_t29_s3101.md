@@ -39,19 +39,17 @@
 
 [Pub. L. 113–128, title V, § 506][/us/pl/113/128/s506], July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], provided that:
 
->     “(a) __In general.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this Act, this Act \[see Tables for classification\], including the amendments made by this Act, shall take effect on the first day of the first full program year after the date of enactment of this Act \[July 22, 2014\].
 
->     “(b)
+>     “(b) __Application Date for Workforce Development Performance Accountability System.—__ 
 
->      Application date for workforce development performance accountability system
-
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Section 136 of the Workforce Investment Act of 1998 ([29 U.S.C. 2871][/us/usc/t29/s2871]), as in effect on the day before the date of enactment of this Act, shall apply in lieu of section 116 of this Act \[[29 U.S.C. 3141][/us/usc/t29/s3141]\], for the first full program year after the date of enactment of this Act.
 
->         “(2) __Special provisions.—__ 
+>         “(2)  __Special provisions__  __.—__ 
 
 >         For purposes of the application described in paragraph (1)—
 
@@ -67,15 +65,13 @@
 
 >             “(F) the Secretary shall use an amount retained, as a result of a reduction in an allotment to a State made under section 136(g)(1)(B) of such Act ([29 U.S.C. 2871(g)(1)(B)][/us/usc/t29/s2871/g/1/B]), to provide technical assistance as described in subsections (f)(1) and (g)(1) of section 116 of this Act \[[29 U.S.C. 3141(f)(1)][/us/usc/t29/s3141/f/1], (g)(1)\], in lieu of incentive grants under section 503 of the Workforce Investment Act of 1998 ([20 U.S.C. 9273][/us/usc/t20/s9273]) as provided in section 136(g)(2) of such Act ([29 U.S.C. 2871(g)(2)][/us/usc/t29/s2871/g/2]).
 
->     “(c)
+>     “(c) __Application Date for State and Local Plan Provisions.—__ 
 
->      Application date for State and local plan provisions
-
->         “(1) __Implementation.—__ 
+>         “(1)  __Implementation__  __.—__ 
 
 >         Sections 112 and 118 of the Workforce Investment Act of 1998 ([29 U.S.C. 2822][/us/usc/t29/s2822], 2833), as in effect on the day before the date of enactment of this Act, shall apply to implementation of State and local plans, in lieu of sections 102 and 103, and section 108, respectively, of this Act \[[29 U.S.C. 3112][/us/usc/t29/s3112], 3113, 3123\], for the first full program year after the date of enactment of this Act.
 
->         “(2) __Special provisions.—__ 
+>         “(2)  __Special provisions__  __.—__ 
 
 >         For purposes of the application described in paragraph (1)—
 
@@ -87,11 +83,11 @@
 
 >             “(D) section 112(b)(18)(D) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)(18)(D)][/us/usc/t29/s2822/b/18/D]) shall not apply.
 
->         “(3) __Submission.—__ 
+>         “(3)  __Submission__  __.—__ 
 
 >         Sections 102, 103, and 108 of this Act shall apply to plans for the second full program year after the date of enactment, including the development, submission, and approval of such plans during the first full program year after such date.
 
->     “(d) __Disability provisions.—__ 
+>     “(d)  __Disability Provisions__  __.—__ 
 
 >     Except as otherwise provided in title IV of this Act, title IV \[see Tables for classification\], and the amendments made by title IV, shall take effect on the date of enactment of this Act.”
 
@@ -112,6 +108,18 @@
 [Pub. L. 113–128, title II, § 201][/us/pl/113/128/s201], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Adult Education and Family Literacy Act’.”
+
+ __Declaration of Policy__ 
+
+[Pub. L. 102–367, title I, § 101(a)][/us/pl/102/367/s101/a], Sept. 7, 1992, [106 Stat. 1022][/us/stat/106/1022], provided that: 
+
+> “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
+
+>     “(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment;
+
+>     “(2) increase the funds available for programs under title II of the Job Training Partnership Act (\[former\] [29 U.S.C. 1601][/us/usc/t29/s1601] et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and
+
+>     “(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels.”
 
 ----------
 
@@ -153,5 +161,8 @@
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/pl/113/128/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs201
 [/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
+[/us/pl/102/367/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs101%2Fa
+[/us/stat/106/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1022
+[/us/usc/t29/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1601
 
 

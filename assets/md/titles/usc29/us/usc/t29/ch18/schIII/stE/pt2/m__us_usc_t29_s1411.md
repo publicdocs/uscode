@@ -39,7 +39,7 @@
 
         A plan to which liabilities are transferred under this section is a successor plan for purposes of [section 1322a(b)(2)(B) of this title][/us/usc/t29/s1322a/b/2/B].
 
-    (e) __Facilitated mergers.__ 
+    (e) __Facilitated mergers__ 
 
         (1) __In general__ 
 
@@ -57,13 +57,13 @@
 
                 (i) such financial assistance will reduce the corporation’s expected long-term loss with respect to the plans involved; and
 
-                (ii)
+                (ii) such financial assistance is necessary for the merged plan to become or remain solvent;
 
-                 such financial assistance is necessary for the merged plan to become or remain solvent;    (C) the corporation certifies that its ability to meet existing financial assistance obligations to other plans will not be impaired by such financial assistance; and
+            (C) the corporation certifies that its ability to meet existing financial assistance obligations to other plans will not be impaired by such financial assistance; and
 
-                    (D) such financial assistance is paid exclusively from the fund for basic benefits guaranteed for multiemployer plans.
+            (D) such financial assistance is paid exclusively from the fund for basic benefits guaranteed for multiemployer plans.
 
-                 Not later than 14 days after the provision of such financial assistance, the corporation shall provide notice of such financial assistance to the Committee on Education and the Workforce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+            Not later than 14 days after the provision of such financial assistance, the corporation shall provide notice of such financial assistance to the Committee on Education and the Workforce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 ([Pub. L. 93–406, title IV, § 4231][/us/pl/93/406/s4231], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1244][/us/stat/94/1244]; amended [Pub. L. 113–235, div. O, title I, § 121(a)][/us/pl/113/235/s121/a], Dec. 16, 2014, [128 Stat. 2794][/us/stat/128/2794].)
 
