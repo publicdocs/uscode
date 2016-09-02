@@ -229,7 +229,7 @@
 
             The Secretary may award grants under this subsection to entities for projects that involve research-based strategies for innovative training for mandated child abuse and neglect reporters.
 
-([Pub. L. 93–247, title I, § 104][/us/pl/93/247/s104], formerly § 6, Jan. 31, 1974, [88 Stat. 7][/us/stat/88/7]; [Pub. L. 95–266, title I, § 105][/us/pl/95/266/s105], Apr. 24, 1978, [92 Stat. 207][/us/stat/92/207]; [Pub. L. 98–457, title I, § 105][/us/pl/98/457/s105], Oct. 9, 1984, [98 Stat. 1751][/us/stat/98/1751]; [Pub. L. 99–401, title I, § 104][/us/pl/99/401/s104], Aug. 27, 1986, [100 Stat. 906][/us/stat/100/906]; [Pub. L. 100–294, title I, § 101][/us/pl/100/294/s101], Apr. 25, 1988, [102 Stat. 106][/us/stat/102/106]; renumbered title I, § 105, and amended [Pub. L. 101–126, § 3(a)(1)][/us/pl/101/126/s3/a/1], (2), (b)(3), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765; [Pub. L. 102–295, title I][/us/pl/102/295], §§ 112, 141(5), May 28, 1992, [106 Stat. 190][/us/stat/106/190], 200; renumbered § 104 and amended [Pub. L. 104–235, title I][/us/pl/104/235], §§ 105, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3067][/us/stat/110/3067], 3079; [Pub. L. 108–36, title I, § 112][/us/pl/108/36/s112], June 25, 2003, [117 Stat. 803][/us/stat/117/803]; [Pub. L. 111–320, title I, § 113][/us/pl/111/320/s113], Dec. 20, 2010, [124 Stat. 3462][/us/stat/124/3462].)
+([Pub. L. 93–247, title I][/us/pl/93/247/tI], § 104, formerly § 6, Jan. 31, 1974, [88 Stat. 7][/us/stat/88/7]; [Pub. L. 95–266, title I][/us/pl/95/266/tI], § 105, Apr. 24, 1978, [92 Stat. 207][/us/stat/92/207]; [Pub. L. 98–457, title I][/us/pl/98/457/tI], § 105, Oct. 9, 1984, [98 Stat. 1751][/us/stat/98/1751]; [Pub. L. 99–401, title I][/us/pl/99/401/tI], § 104, Aug. 27, 1986, [100 Stat. 906][/us/stat/100/906]; [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 106][/us/stat/102/106]; renumbered title I, § 105, and amended [Pub. L. 101–126][/us/pl/101/126], § 3(a)(1), (2), (b)(3), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765; [Pub. L. 102–295, title I][/us/pl/102/295/tI], §§ 112, 141(5), May 28, 1992, [106 Stat. 190][/us/stat/106/190], 200; renumbered § 104 and amended [Pub. L. 104–235, title I][/us/pl/104/235/tI], §§ 105, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3067][/us/stat/110/3067], 3079; [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 112, June 25, 2003, [117 Stat. 803][/us/stat/117/803]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 113, Dec. 20, 2010, [124 Stat. 3462][/us/stat/124/3462].)
 
  __Prior Provisions__ 
 
@@ -237,153 +237,153 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–320, § 113(a)(1)(A)][/us/pl/111/320/s113/a/1/A], substituted “from child abuse or neglect and to improve the well-being of victims of child abuse or neglect” for “from abuse or neglect and to improve the well-being of abused or neglected children” in introductory provisions.
+    2010—Subsec. (a)(1). [Pub. L. 111–320][/us/pl/111/320], § 113(a)(1)(A), substituted “from child abuse or neglect and to improve the well-being of victims of child abuse or neglect” for “from abuse or neglect and to improve the well-being of abused or neglected children” in introductory provisions.
 
-    Subsec. (a)(1)(B). [Pub. L. 111–320, § 113(a)(1)(B)][/us/pl/111/320/s113/a/1/B], substituted “child abuse and neglect on” for “abuse and neglect on”.
+    Subsec. (a)(1)(B). [Pub. L. 111–320][/us/pl/111/320], § 113(a)(1)(B), substituted “child abuse and neglect on” for “abuse and neglect on”.
 
-    Subsec. (a)(1)(C) to (N). [Pub. L. 111–320, § 113(a)(1)(C)][/us/pl/111/320/s113/a/1/C]–(K), added subpars. (C), (G), (I), and (K) to (M), redesignated subpars. (C), (D), (E), (F), (G), and (H) as (D), (E), (F), (H), (J), and (N), respectively, in subpar. (D), inserted “and neglect” before semicolon at end, in subpar. (E), inserted “, including best practices to meet the needs of special populations,” after “best practices” and substituted “(14)” for “(12)”, in subpar. (J), substituted “low-income” for “low income”, and, in subpar. (N), substituted “clauses (i) through (x) of subparagraph (O)” for “clauses (i) through (xi) of subparagraph (H)”. Former subpar. (I) redesignated (O).
+    Subsec. (a)(1)(C) to (N). [Pub. L. 111–320][/us/pl/111/320], § 113(a)(1)(C)–(K), added subpars. (C), (G), (I), and (K) to (M), redesignated subpars. (C), (D), (E), (F), (G), and (H) as (D), (E), (F), (H), (J), and (N), respectively, in subpar. (D), inserted “and neglect” before semicolon at end, in subpar. (E), inserted “, including best practices to meet the needs of special populations,” after “best practices” and substituted “(14)” for “(12)”, in subpar. (J), substituted “low-income” for “low income”, and, in subpar. (N), substituted “clauses (i) through (x) of subparagraph (O)” for “clauses (i) through (xi) of subparagraph (H)”. Former subpar. (I) redesignated (O).
 
-    Subsec. (a)(1)(O). [Pub. L. 111–320, § 113(a)(1)(C)][/us/pl/111/320/s113/a/1/C], (L), redesignated subpar. (I) as (O), in cls. (i) and (ii), inserted “and neglect” after “abuse”, in cl. (v), substituted “child abuse and neglect have” for “child abuse have”, added cl. (x) and redesignated former cl. (x) as (xi), and, in cl. (xi), substituted “child abuse and neglect” for “abuse”.
+    Subsec. (a)(1)(O). [Pub. L. 111–320][/us/pl/111/320], § 113(a)(1)(C), (L), redesignated subpar. (I) as (O), in cls. (i) and (ii), inserted “and neglect” after “abuse”, in cl. (v), substituted “child abuse and neglect have” for “child abuse have”, added cl. (x) and redesignated former cl. (x) as (xi), and, in cl. (xi), substituted “child abuse and neglect” for “abuse”.
 
-    Subsec. (a)(2). [Pub. L. 111–320, § 113(a)(2)][/us/pl/111/320/s113/a/2], substituted “clauses (i) through (xi) of paragraph (1)(O).” for “subparagraphs (i) through (ix) of paragraph (1)(I).”
+    Subsec. (a)(2). [Pub. L. 111–320][/us/pl/111/320], § 113(a)(2), substituted “clauses (i) through (xi) of paragraph (1)(O).” for “subparagraphs (i) through (ix) of paragraph (1)(I).”
 
-    Subsec. (a)(3). [Pub. L. 111–320, § 113(a)(3)][/us/pl/111/320/s113/a/3], substituted “December 20, 2010” for “June 25, 2003”.
+    Subsec. (a)(3). [Pub. L. 111–320][/us/pl/111/320], § 113(a)(3), substituted “December 20, 2010” for “June 25, 2003”.
 
-    Subsec. (a)(4). [Pub. L. 111–320, § 113(a)(5)][/us/pl/111/320/s113/a/5], added par. (4) relating to study on shaken baby syndrome.
+    Subsec. (a)(4). [Pub. L. 111–320][/us/pl/111/320], § 113(a)(5), added par. (4) relating to study on shaken baby syndrome.
 
-    [Pub. L. 111–320, § 113(a)(4)][/us/pl/111/320/s113/a/4], in par. (4) relating to priorities, inserted subpar. headings and, in subpar. (B), substituted “Not later than 1 years after December 20, 2010” for “Not later than 2 years after June 25, 2003”.
+    [Pub. L. 111–320][/us/pl/111/320], § 113(a)(4), in par. (4) relating to priorities, inserted subpar. headings and, in subpar. (B), substituted “Not later than 1 years after December 20, 2010” for “Not later than 2 years after June 25, 2003”.
 
-    Subsec. (b)(1). [Pub. L. 111–320, § 113(b)(1)][/us/pl/111/320/s113/b/1], inserted “and providers of mental health, substance abuse treatment, and domestic violence prevention services” after “disabilities”.
+    Subsec. (b)(1). [Pub. L. 111–320][/us/pl/111/320], § 113(b)(1), inserted “and providers of mental health, substance abuse treatment, and domestic violence prevention services” after “disabilities”.
 
-    Subsec. (b)(3)(B). [Pub. L. 111–320, § 113(b)(2)][/us/pl/111/320/s113/b/2], substituted “child welfare, substance abuse, and domestic violence services personnel” for “and child welfare personnel” and “subjected to, or whom the personnel suspect have been subjected to, child abuse or neglect.” for “subjected to abuse.”
+    Subsec. (b)(3)(B). [Pub. L. 111–320][/us/pl/111/320], § 113(b)(2), substituted “child welfare, substance abuse, and domestic violence services personnel” for “and child welfare personnel” and “subjected to, or whom the personnel suspect have been subjected to, child abuse or neglect.” for “subjected to abuse.”
 
-    Subsec. (d)(1)(A). [Pub. L. 111–320, § 113(c)(1)(A)][/us/pl/111/320/s113/c/1/A], added subpar. (A) and struck out former subpar. (A) which read as follows: “The Secretary shall, in consultation with experts in the field and other federal agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for grants under this section and determining the relative merits of the projects for which such assistance is requested. The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.”
+    Subsec. (d)(1)(A). [Pub. L. 111–320][/us/pl/111/320], § 113(c)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “The Secretary shall, in consultation with experts in the field and other federal agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for grants under this section and determining the relative merits of the projects for which such assistance is requested. The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.”
 
-    Subsec. (d)(1)(B) to (D). [Pub. L. 111–320, § 113(c)(1)(B)][/us/pl/111/320/s113/c/1/B], added subpars. (B) to (D) and struck out former subpar. (B) which read as follows: “In establishing the process required by subparagraph (A), the Secretary shall appoint to the peer review panels only members who are experts in the field of child abuse and neglect or related disciplines, with appropriate expertise in the application to be reviewed, and who are not individuals who are officers or employees of the Administration on Children and Families. The panels shall meet as often as is necessary to facilitate the expeditious review of applications for grants and contracts under this section, but may not meet less than once a year. The Secretary shall ensure that the peer review panel utilizes scientifically valid review criteria and scoring guidelines for review committees.”
+    Subsec. (d)(1)(B) to (D). [Pub. L. 111–320][/us/pl/111/320], § 113(c)(1)(B), added subpars. (B) to (D) and struck out former subpar. (B) which read as follows: “In establishing the process required by subparagraph (A), the Secretary shall appoint to the peer review panels only members who are experts in the field of child abuse and neglect or related disciplines, with appropriate expertise in the application to be reviewed, and who are not individuals who are officers or employees of the Administration on Children and Families. The panels shall meet as often as is necessary to facilitate the expeditious review of applications for grants and contracts under this section, but may not meet less than once a year. The Secretary shall ensure that the peer review panel utilizes scientifically valid review criteria and scoring guidelines for review committees.”
 
-    Subsec. (d)(3). [Pub. L. 111–320, § 113(c)(2)][/us/pl/111/320/s113/c/2], inserted subpar. headings.
+    Subsec. (d)(3). [Pub. L. 111–320][/us/pl/111/320], § 113(c)(2), inserted subpar. headings.
 
-    Subsec. (e). [Pub. L. 111–320, § 113(d)(1)][/us/pl/111/320/s113/d/1], substituted “entities that are States, Indian tribes or tribal organizations, or” for “States or” and “such entities” for “such agencies or organizations” in introductory provisions.
+    Subsec. (e). [Pub. L. 111–320][/us/pl/111/320], § 113(d)(1), substituted “entities that are States, Indian tribes or tribal organizations, or” for “States or” and “such entities” for “such agencies or organizations” in introductory provisions.
 
-    Subsec. (e)(1)(B). [Pub. L. 111–320, § 113(d)(2)][/us/pl/111/320/s113/d/2], substituted “facilitate the safe” for “safely facilitate the”.
+    Subsec. (e)(1)(B). [Pub. L. 111–320][/us/pl/111/320], § 113(d)(2), substituted “facilitate the safe” for “safely facilitate the”.
 
-    Subsec. (e)(2). [Pub. L. 111–320, § 113(d)(3)][/us/pl/111/320/s113/d/3], inserted “child care and early childhood education and care providers,” after “in cooperation with” and substituted “preschools,” for “preschool”.
+    Subsec. (e)(2). [Pub. L. 111–320][/us/pl/111/320], § 113(d)(3), inserted “child care and early childhood education and care providers,” after “in cooperation with” and substituted “preschools,” for “preschool”.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–36, § 112(a)(1)(A)][/us/pl/108/36/s112/a/1/A], inserted “, including longitudinal research,” after “interdisciplinary program of research” in introductory provisions.
+    2003—Subsec. (a)(1). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(1)(A), inserted “, including longitudinal research,” after “interdisciplinary program of research” in introductory provisions.
 
-    Subsec. (a)(1)(B). [Pub. L. 108–36, § 112(a)(1)(B)][/us/pl/108/36/s112/a/1/B], inserted before semicolon “, including the effects of abuse and neglect on a child’s development and the identification of successful early intervention services or other services that are needed”.
+    Subsec. (a)(1)(B). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(1)(B), inserted before semicolon “, including the effects of abuse and neglect on a child’s development and the identification of successful early intervention services or other services that are needed”.
 
-    Subsec. (a)(1)(C). [Pub. L. 108–36, § 112(a)(1)(C)][/us/pl/108/36/s112/a/1/C], substituted “judicial systems, including multidisciplinary, coordinated decisionmaking procedures” for “judicial procedures” and struck out “and” at end.
+    Subsec. (a)(1)(C). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(1)(C), substituted “judicial systems, including multidisciplinary, coordinated decisionmaking procedures” for “judicial procedures” and struck out “and” at end.
 
-    Subsec. (a)(1)(D). [Pub. L. 108–36, § 112(a)(1)(F)][/us/pl/108/36/s112/a/1/F], added subpar. (D). Former subpar. (D) redesignated (I).
+    Subsec. (a)(1)(D). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(1)(F), added subpar. (D). Former subpar. (D) redesignated (I).
 
-    Subsec. (a)(1)(D)(ix), (x). [Pub. L. 108–36, § 112(a)(1)(D)][/us/pl/108/36/s112/a/1/D], added cl. (ix) and redesignated former cl. (ix) as (x).
+    Subsec. (a)(1)(D)(ix), (x). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(1)(D), added cl. (ix) and redesignated former cl. (ix) as (x).
 
-    Subsec. (a)(1)(E) to (H). [Pub. L. 108–36, § 112(a)(1)(F)][/us/pl/108/36/s112/a/1/F], added subpars. (E) to (H).
+    Subsec. (a)(1)(E) to (H). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(1)(F), added subpars. (E) to (H).
 
-    Subsec. (a)(1)(I). [Pub. L. 108–36, § 112(a)(1)(E)][/us/pl/108/36/s112/a/1/E], redesignated subpar. (D) as (I).
+    Subsec. (a)(1)(I). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(1)(E), redesignated subpar. (D) as (I).
 
-    Subsec. (a)(2). [Pub. L. 108–36, § 112(a)(4)][/us/pl/108/36/s112/a/4], added par. (2). Former par. (2) redesignated (4) relating to priorities.
+    Subsec. (a)(2). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(4), added par. (2). Former par. (2) redesignated (4) relating to priorities.
 
-    Subsec. (a)(2)(B). [Pub. L. 108–36, § 112(a)(2)][/us/pl/108/36/s112/a/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “In establishing research priorities as required by subparagraph (A), the Secretary shall—
+    Subsec. (a)(2)(B). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “In establishing research priorities as required by subparagraph (A), the Secretary shall—
 
     “(i) publish proposed priorities in the Federal Register for public comment; and
 
     “(ii) allow not less than 60 days for public comment on such proposed priorities.”
 
-    Subsec. (a)(3). [Pub. L. 108–36, § 112(a)(4)][/us/pl/108/36/s112/a/4], added par. (3).
+    Subsec. (a)(3). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(4), added par. (3).
 
-    Subsec. (a)(4). [Pub. L. 108–36, § 112(a)(3)][/us/pl/108/36/s112/a/3], redesignated par. (2) as (4) relating to priorities.
+    Subsec. (a)(4). [Pub. L. 108–36][/us/pl/108/36], § 112(a)(3), redesignated par. (2) as (4) relating to priorities.
 
-    Subsec. (b)(1). [Pub. L. 108–36, § 112(b)(1)][/us/pl/108/36/s112/b/1], substituted “private agencies and community-based” for “nonprofit private agencies and” and inserted “, including replicating successful program models,” after “programs and activities”.
+    Subsec. (b)(1). [Pub. L. 108–36][/us/pl/108/36], § 112(b)(1), substituted “private agencies and community-based” for “nonprofit private agencies and” and inserted “, including replicating successful program models,” after “programs and activities”.
 
-    Subsec. (b)(2)(D). [Pub. L. 108–36, § 112(b)(2)][/us/pl/108/36/s112/b/2], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 108–36][/us/pl/108/36], § 112(b)(2), added subpar. (D).
 
-    Subsec. (e). [Pub. L. 108–36, § 112(c)][/us/pl/108/36/s112/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–36][/us/pl/108/36], § 112(c), added subsec. (e).
 
-    1996—[Pub. L. 104–235, § 105(f)][/us/pl/104/235/s105/f], struck out “of the National Center on Child Abuse and Neglect” after “activities” in section catchline.
+    1996—[Pub. L. 104–235][/us/pl/104/235], § 105(f), struck out “of the National Center on Child Abuse and Neglect” after “activities” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 104–235, § 105(a)(1)(A)][/us/pl/104/235/s105/a/1/A], in introductory provisions, substituted “, in consultation with other Federal agencies and recognized experts in the field, carry out a continuing interdisciplinary program of research that is designed to provide information needed to better protect children from abuse or neglect and to improve the well-being of abused or neglected children, with at least a portion of such research being field initiated. Such research program may focus on” for “, through the Center, conduct research on”.
+    Subsec. (a)(1). [Pub. L. 104–235][/us/pl/104/235], § 105(a)(1)(A), in introductory provisions, substituted “, in consultation with other Federal agencies and recognized experts in the field, carry out a continuing interdisciplinary program of research that is designed to provide information needed to better protect children from abuse or neglect and to improve the well-being of abused or neglected children, with at least a portion of such research being field initiated. Such research program may focus on” for “, through the Center, conduct research on”.
 
-    Subsec. (a)(1)(A). [Pub. L. 104–235, § 105(a)(1)(C)][/us/pl/104/235/s105/a/1/C], added subpar. (A). Former subpar. (A) redesignated (B).
+    Subsec. (a)(1)(A). [Pub. L. 104–235][/us/pl/104/235], § 105(a)(1)(C), added subpar. (A). Former subpar. (A) redesignated (B).
 
-    Subsec. (a)(1)(B). [Pub. L. 104–235, § 105(a)(1)(B)][/us/pl/104/235/s105/a/1/B], (D), redesignated subpar. (A) as (B) and amended it generally. Prior to amendment, subpar. (B) read as follows: “the causes, prevention, identification,, treatment and cultural distinctions of child abuse and neglect;”. Former subpar. (B) redesignated (C).
+    Subsec. (a)(1)(B). [Pub. L. 104–235][/us/pl/104/235], § 105(a)(1)(B), (D), redesignated subpar. (A) as (B) and amended it generally. Prior to amendment, subpar. (B) read as follows: “the causes, prevention, identification,, treatment and cultural distinctions of child abuse and neglect;”. Former subpar. (B) redesignated (C).
 
-    Subsec. (a)(1)(C). [Pub. L. 104–235, § 105(a)(1)(B)][/us/pl/104/235/s105/a/1/B], redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+    Subsec. (a)(1)(C). [Pub. L. 104–235][/us/pl/104/235], § 105(a)(1)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (a)(1)(D). [Pub. L. 104–235, § 105(a)(1)(B)][/us/pl/104/235/s105/a/1/B], (E), redesignated subpar. (C) as (D), struck out cl. (ii), redesignated cl. (iii) as (ii) and amended it generally, and added cls. (iii) to (ix). Prior to amendment, cls. (ii) and (iii) read as follows:
+    Subsec. (a)(1)(D). [Pub. L. 104–235][/us/pl/104/235], § 105(a)(1)(B), (E), redesignated subpar. (C) as (D), struck out cl. (ii), redesignated cl. (iii) as (ii) and amended it generally, and added cls. (iii) to (ix). Prior to amendment, cls. (ii) and (iii) read as follows:
 
     “(ii) the relationship of child abuse and neglect to nonpayment of child support, cultural diversity, disabilities, and various other factors; and
 
     “(iii) the incidence of substantiated reported child abuse cases that result in civil child protection proceedings or criminal proceedings, including the number of such cases with respect to which the court makes a finding that abuse or neglect exists and the disposition of such cases.”
 
-    Subsec. (a)(2). [Pub. L. 104–235, § 105(a)(2)][/us/pl/104/235/s105/a/2], struck out “and demonstration” after “research”, substituted “paragraph (1)” for “paragraph (1)(A) and activities under [section 5106 of this title][/us/usc/t42/s5106]” in subpar. (A) and struck out “and demonstration” after “research” in introductory provisions of subpar. (B).
+    Subsec. (a)(2). [Pub. L. 104–235][/us/pl/104/235], § 105(a)(2), struck out “and demonstration” after “research”, substituted “paragraph (1)” for “paragraph (1)(A) and activities under [section 5106 of this title][/us/usc/t42/s5106]” in subpar. (A) and struck out “and demonstration” after “research” in introductory provisions of subpar. (B).
 
-    Subsec. (b). [Pub. L. 104–235, § 105(b)][/us/pl/104/235/s105/b], (c), redesignated subsec. (c) as (b)(1), inserted par. heading, struck out “, through the Center,” after “Secretary shall”, inserted “State and local” before “public and nonprofit” and “assessment,” before “identification”, added pars. (2) and (3), and struck out heading and text of former subsec. (b) consisting of pars. (1) to (5) which related to publication and dissemination of information.
+    Subsec. (b). [Pub. L. 104–235][/us/pl/104/235], § 105(b), (c), redesignated subsec. (c) as (b)(1), inserted par. heading, struck out “, through the Center,” after “Secretary shall”, inserted “State and local” before “public and nonprofit” and “assessment,” before “identification”, added pars. (2) and (3), and struck out heading and text of former subsec. (b) consisting of pars. (1) to (5) which related to publication and dissemination of information.
 
-    Subsec. (c). [Pub. L. 104–235, § 105(d)][/us/pl/104/235/s105/d], redesignated subsec. (d) as (c) and in par. (2) struck out at end “The Secretary shall review each such grant at least annually, utilizing peer review mechanisms to assure the quality and progress of research conducted under such grant.” Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 104–235][/us/pl/104/235], § 105(d), redesignated subsec. (d) as (c) and in par. (2) struck out at end “The Secretary shall review each such grant at least annually, utilizing peer review mechanisms to assure the quality and progress of research conducted under such grant.” Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 104–235, § 105(e)][/us/pl/104/235/s105/e], redesignated subsec. (e) as (d), in par. (1)(A) substituted “, in consultation with experts in the field and other federal agencies, establish a formal, rigorous, and meritorious” for “establish a formal”, struck out “and contracts” after “for grants”, and inserted at end “The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.”, in par. (1)(B) substituted “Administration on Children and Families” for “Office of Human Development” and inserted at end “The Secretary shall ensure that the peer review panel utilizes scientifically valid review criteria and scoring guidelines for review committees.”, in par. (2) struck out “, contract, or other financial assistance” after “grant” in introductory provisions and inserted “The Secretary shall award grants under this section on the basis of competitive review.” as concluding provisions, and in par. (3)(B) substituted “paragraph (2)(B)” for “subsection (e)(2)(B) of this section” in two places. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 104–235][/us/pl/104/235], § 105(e), redesignated subsec. (e) as (d), in par. (1)(A) substituted “, in consultation with experts in the field and other federal agencies, establish a formal, rigorous, and meritorious” for “establish a formal”, struck out “and contracts” after “for grants”, and inserted at end “The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.”, in par. (1)(B) substituted “Administration on Children and Families” for “Office of Human Development” and inserted at end “The Secretary shall ensure that the peer review panel utilizes scientifically valid review criteria and scoring guidelines for review committees.”, in par. (2) struck out “, contract, or other financial assistance” after “grant” in introductory provisions and inserted “The Secretary shall award grants under this section on the basis of competitive review.” as concluding provisions, and in par. (3)(B) substituted “paragraph (2)(B)” for “subsection (e)(2)(B) of this section” in two places. Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 104–235, § 105(e)(1)][/us/pl/104/235/s105/e/1], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 104–235][/us/pl/104/235], § 105(e)(1), redesignated subsec. (e) as (d).
 
-    1992—Subsec. (a)(1)(A). [Pub. L. 102–295, § 112(a)(1)][/us/pl/102/295/s112/a/1], substituted “, treatment and cultural distinctions of” for “and treatment of”.
+    1992—Subsec. (a)(1)(A). [Pub. L. 102–295][/us/pl/102/295], § 112(a)(1), substituted “, treatment and cultural distinctions of” for “and treatment of”.
 
-    Subsec. (a)(1)(B). [Pub. L. 102–295, § 112(a)(2)][/us/pl/102/295/s112/a/2], substituted “appropriate, effective and culturally sensitive” for “appropriate and effective”.
+    Subsec. (a)(1)(B). [Pub. L. 102–295][/us/pl/102/295], § 112(a)(2), substituted “appropriate, effective and culturally sensitive” for “appropriate and effective”.
 
     Subsec. (a)(1)(C)(ii). [Pub. L. 102–295][/us/pl/102/295], §§ 112(a)(3), 141(5), substituted “child support, cultural diversity, disabilities” for “child support, handicaps”.
 
-    Subsec. (b)(1). [Pub. L. 102–295, § 112(b)][/us/pl/102/295/s112/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “as a part of research activities establish a national data collection and analysis program, which, to the extent practical, coordinates existing State child abuse and neglect reports and which shall include—
+    Subsec. (b)(1). [Pub. L. 102–295][/us/pl/102/295], § 112(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “as a part of research activities establish a national data collection and analysis program, which, to the extent practical, coordinates existing State child abuse and neglect reports and which shall include—
 
     “(A) standardized data on false, unfounded, or unsubstantiated reports; and
 
     “(B) information on the number of deaths due to child abuse and neglect;”.
 
-    Subsec. (c). [Pub. L. 102–295, § 141(5)][/us/pl/102/295/s141/5], substituted “disabilities” for “handicaps”.
+    Subsec. (c). [Pub. L. 102–295][/us/pl/102/295], § 141(5), substituted “disabilities” for “handicaps”.
 
-    Subsec. (e)(1)(A). [Pub. L. 102–295, § 112(c)(1)(A)][/us/pl/102/295/s112/c/1/A], inserted “and reviewing” after “evaluating”.
+    Subsec. (e)(1)(A). [Pub. L. 102–295][/us/pl/102/295], § 112(c)(1)(A), inserted “and reviewing” after “evaluating”.
 
-    Subsec. (e)(1)(B). [Pub. L. 102–295, § 112(c)(1)(B)][/us/pl/102/295/s112/c/1/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Members of peer review panels shall be appointed by the Secretary from among individuals who are not officers or employees of the Office of Human Development Services. In making appointments to such panels, the Secretary shall include only experts in the field of child abuse and neglect.”
+    Subsec. (e)(1)(B). [Pub. L. 102–295][/us/pl/102/295], § 112(c)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Members of peer review panels shall be appointed by the Secretary from among individuals who are not officers or employees of the Office of Human Development Services. In making appointments to such panels, the Secretary shall include only experts in the field of child abuse and neglect.”
 
-    Subsec. (e)(2)(A). [Pub. L. 102–295, § 112(c)(2)(A)][/us/pl/102/295/s112/c/2/A], inserted “and evaluate” after “determine”.
+    Subsec. (e)(2)(A). [Pub. L. 102–295][/us/pl/102/295], § 112(c)(2)(A), inserted “and evaluate” after “determine”.
 
-    Subsec. (e)(2)(C). [Pub. L. 102–295, § 112(c)(2)(B)][/us/pl/102/295/s112/c/2/B], added subpar. (C).
+    Subsec. (e)(2)(C). [Pub. L. 102–295][/us/pl/102/295], § 112(c)(2)(B), added subpar. (C).
 
-    Subsec. (e)(3)(A). [Pub. L. 102–295, § 112(c)(3)][/us/pl/102/295/s112/c/3], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “At the end of each application process, the Secretary shall make available upon request, no later than 14 days after the request, to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate the list which identifies all applications reviewed by such panel and arranges such applications according to rank determined under paragraph (2) and a list of all applications funded.”
+    Subsec. (e)(3)(A). [Pub. L. 102–295][/us/pl/102/295], § 112(c)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “At the end of each application process, the Secretary shall make available upon request, no later than 14 days after the request, to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate the list which identifies all applications reviewed by such panel and arranges such applications according to rank determined under paragraph (2) and a list of all applications funded.”
 
-    1989—Subsecs. (a)(2)(A), (b)(3). [Pub. L. 101–126, § 3(b)(3)][/us/pl/101/126/s3/b/3], made technical amendments to references to sections 5104, 5106, and 5106c of this title to reflect renumbering of corresponding sections of original act.
+    1989—Subsecs. (a)(2)(A), (b)(3). [Pub. L. 101–126][/us/pl/101/126], § 3(b)(3), made technical amendments to references to sections 5104, 5106, and 5106c of this title to reflect renumbering of corresponding sections of original act.
 
     1988—[Pub. L. 100–294][/us/pl/100/294] amended section generally, substituting provisions relating to research and assistance activities of the National Center on Child Abuse and Neglect for provisions relating to Advisory Board on Child Abuse and Neglect. See [section 5102 of this title][/us/usc/t42/s5102].
 
-    1986—Subsec. (a). [Pub. L. 99–401, § 104(1)][/us/pl/99/401/s104/1], inserted after first sentence “The Advisory Board shall meet at least every six months.”
+    1986—Subsec. (a). [Pub. L. 99–401][/us/pl/99/401], § 104(1), inserted after first sentence “The Advisory Board shall meet at least every six months.”
 
-    [Pub. L. 99–401, § 104(2)][/us/pl/99/401/s104/2], which directed that subsec. (a) be amended by inserting “in order to prevent unnecessary duplication of such programs, to ensure efficient allocation of resources, and to assure that programs effectively address all aspects of the child abuse problem” after “Board” in second sentence, was executed by inserting provision after “Advisory Board” the first time that term appeared in what constituted the second sentence before a new second sentence was added by [section 104(1) of Pub. L. 99–401][/us/pl/99/401/s104/1].
+    [Pub. L. 99–401][/us/pl/99/401], § 104(2), which directed that subsec. (a) be amended by inserting “in order to prevent unnecessary duplication of such programs, to ensure efficient allocation of resources, and to assure that programs effectively address all aspects of the child abuse problem” after “Board” in second sentence, was executed by inserting provision after “Advisory Board” the first time that term appeared in what constituted the second sentence before a new second sentence was added by [section 104(1) of Pub. L. 99–401][/us/pl/99/401/s104/1].
 
-    1984—Subsec. (a). [Pub. L. 98–457, § 105(a)][/us/pl/98/457/s105/a], (b), struck out “, including the Office of Child Development, the Department of Education, the National Institute of Education, the National Institute of Mental Health, the National Institute of Child Health and Human Development, the Social and Rehabilitation Service, and the Health Services Administration,” before “and not less than three members”, and inserted provision that the Advisory Board may be available, at the Secretary’s request, to assist the Secretary in coordinating adoption-related activities of the Federal Government.
+    1984—Subsec. (a). [Pub. L. 98–457][/us/pl/98/457], § 105(a), (b), struck out “, including the Office of Child Development, the Department of Education, the National Institute of Education, the National Institute of Mental Health, the National Institute of Child Health and Human Development, the Social and Rehabilitation Service, and the Health Services Administration,” before “and not less than three members”, and inserted provision that the Advisory Board may be available, at the Secretary’s request, to assist the Secretary in coordinating adoption-related activities of the Federal Government.
 
-    Subsecs. (b), (c). [Pub. L. 98–457, § 105(c)][/us/pl/98/457/s105/c], redesignated subsec. (c) as (b) and struck out former subsec. (b) which required the Board to review the comprehensive plan submitted to it by the Center pursuant to [section 5101(b)(7) of this title][/us/usc/t42/s5101/b/7], make such changes as it deemed appropriate, and submit to the President and the Congress a final such plan not later than eighteen months after April 24, 1978.
+    Subsecs. (b), (c). [Pub. L. 98–457][/us/pl/98/457], § 105(c), redesignated subsec. (c) as (b) and struck out former subsec. (b) which required the Board to review the comprehensive plan submitted to it by the Center pursuant to [section 5101(b)(7) of this title][/us/usc/t42/s5101/b/7], make such changes as it deemed appropriate, and submit to the President and the Congress a final such plan not later than eighteen months after April 24, 1978.
 
-    1978—Subsec. (a). [Pub. L. 95–266, § 105(1)][/us/pl/95/266/s105/1], (2), inserted requirement for representation from the general public, and “planned,” before “administered” in two places.
+    1978—Subsec. (a). [Pub. L. 95–266][/us/pl/95/266], § 105(1), (2), inserted requirement for representation from the general public, and “planned,” before “administered” in two places.
 
-    Subsec. (b). [Pub. L. 95–266, § 105(3)][/us/pl/95/266/s105/3], substituted provisions relating to review of the plan by the Advisory Board and submission to the President and Congress of a final plan, for provisions relating to a report by the Advisory Board on assisted programs, etc., and submission to the President and Congress.
+    Subsec. (b). [Pub. L. 95–266][/us/pl/95/266], § 105(3), substituted provisions relating to review of the plan by the Advisory Board and submission to the President and Congress of a final plan, for provisions relating to a report by the Advisory Board on assisted programs, etc., and submission to the President and Congress.
 
-    Subsec. (c). [Pub. L. 95–266, § 105(3)][/us/pl/95/266/s105/3], substituted provisions setting forth compensation and travel expense allowance authorizations for members of the Board, for provisions authorizing use of appropriated funds for required report.
+    Subsec. (c). [Pub. L. 95–266][/us/pl/95/266], § 105(3), substituted provisions setting forth compensation and travel expense allowance authorizations for members of the Board, for provisions authorizing use of appropriated funds for required report.
 
  __Child Abuse and Disability__ 
 
-    [Pub. L. 100–294, title I, § 102][/us/pl/100/294/s102], Apr. 25, 1988, [102 Stat. 118][/us/stat/102/118], directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse among children with handicaps, including children in out-of-home placements, the relationship between child abuse and children’s handicapping conditions, and incidence of children who have developed handicapping conditions as a result of child abuse or neglect, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent abuse of disabled children.
+    [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 102, Apr. 25, 1988, [102 Stat. 118][/us/stat/102/118], directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse among children with handicaps, including children in out-of-home placements, the relationship between child abuse and children’s handicapping conditions, and incidence of children who have developed handicapping conditions as a result of child abuse or neglect, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent abuse of disabled children.
 
  __Child Abuse and Alcoholic Families__ 
 
-    [Pub. L. 100–294, title I, § 103][/us/pl/100/294/s103], Apr. 25, 1988, [102 Stat. 118][/us/stat/102/118], directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse in alcoholic families and relationship between child abuse and familial alcoholism, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent child abuse in alcoholic families.
+    [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 103, Apr. 25, 1988, [102 Stat. 118][/us/stat/102/118], directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse in alcoholic families and relationship between child abuse and familial alcoholism, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent child abuse in alcoholic families.
 
  __Study of Guardian-Ad-Litem__ 
 
-    [Pub. L. 100–294, title I, § 104][/us/pl/100/294/s104], Apr. 25, 1988, [102 Stat. 118][/us/stat/102/118], directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use of guardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
+    [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 104, Apr. 25, 1988, [102 Stat. 118][/us/stat/102/118], directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use of guardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
 
  __High Risk Study__ 
 
-    [Pub. L. 100–294, title I, § 105][/us/pl/100/294/s105], Apr. 25, 1988, [102 Stat. 118][/us/stat/102/118], directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groups which have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
+    [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 105, Apr. 25, 1988, [102 Stat. 118][/us/stat/102/118], directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groups which have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
 
 ----------
 
@@ -393,99 +393,99 @@
 ----------
 
 [/us/usc/t42/s5106a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fa
-[/us/pl/93/247/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs104
+[/us/pl/93/247/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtI
 [/us/stat/88/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F7
-[/us/pl/95/266/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2Fs105
+[/us/pl/95/266/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2FtI
 [/us/stat/92/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F207
-[/us/pl/98/457/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs105
+[/us/pl/98/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtI
 [/us/stat/98/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1751
-[/us/pl/99/401/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F401%2Fs104
+[/us/pl/99/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F401%2FtI
 [/us/stat/100/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F906
-[/us/pl/100/294/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs101
+[/us/pl/100/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtI
 [/us/stat/102/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F106
-[/us/pl/101/126/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126%2Fs3%2Fa%2F1
+[/us/pl/101/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126
 [/us/stat/103/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F764
-[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtI
 [/us/stat/106/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F190
-[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtI
 [/us/stat/110/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3067
-[/us/pl/108/36/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112
+[/us/pl/108/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtI
 [/us/stat/117/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F803
-[/us/pl/111/320/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113
+[/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3462
 [/us/pl/93/247/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs104
 [/us/usc/t42/s5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5104
-[/us/pl/111/320/s113/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fa%2F1%2FA
-[/us/pl/111/320/s113/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fa%2F1%2FB
-[/us/pl/111/320/s113/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fa%2F1%2FC
-[/us/pl/111/320/s113/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fa%2F1%2FC
-[/us/pl/111/320/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fa%2F2
-[/us/pl/111/320/s113/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fa%2F3
-[/us/pl/111/320/s113/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fa%2F5
-[/us/pl/111/320/s113/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fa%2F4
-[/us/pl/111/320/s113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fb%2F1
-[/us/pl/111/320/s113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fb%2F2
-[/us/pl/111/320/s113/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fc%2F1%2FA
-[/us/pl/111/320/s113/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fc%2F1%2FB
-[/us/pl/111/320/s113/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fc%2F2
-[/us/pl/111/320/s113/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fd%2F1
-[/us/pl/111/320/s113/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fd%2F2
-[/us/pl/111/320/s113/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs113%2Fd%2F3
-[/us/pl/108/36/s112/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F1%2FA
-[/us/pl/108/36/s112/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F1%2FB
-[/us/pl/108/36/s112/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F1%2FC
-[/us/pl/108/36/s112/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F1%2FF
-[/us/pl/108/36/s112/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F1%2FD
-[/us/pl/108/36/s112/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F1%2FF
-[/us/pl/108/36/s112/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F1%2FE
-[/us/pl/108/36/s112/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F4
-[/us/pl/108/36/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F2
-[/us/pl/108/36/s112/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F4
-[/us/pl/108/36/s112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fa%2F3
-[/us/pl/108/36/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fb%2F1
-[/us/pl/108/36/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fb%2F2
-[/us/pl/108/36/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs112%2Fc
-[/us/pl/104/235/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Ff
-[/us/pl/104/235/s105/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fa%2F1%2FA
-[/us/pl/104/235/s105/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fa%2F1%2FC
-[/us/pl/104/235/s105/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fa%2F1%2FB
-[/us/pl/104/235/s105/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fa%2F1%2FB
-[/us/pl/104/235/s105/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fa%2F1%2FB
-[/us/pl/104/235/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fa%2F2
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/108/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
 [/us/usc/t42/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106
-[/us/pl/104/235/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fb
-[/us/pl/104/235/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fd
-[/us/pl/104/235/s105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fe
-[/us/pl/104/235/s105/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs105%2Fe%2F1
-[/us/pl/102/295/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs112%2Fa%2F1
-[/us/pl/102/295/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs112%2Fa%2F2
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
 [/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
-[/us/pl/102/295/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs112%2Fb
-[/us/pl/102/295/s141/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs141%2F5
-[/us/pl/102/295/s112/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs112%2Fc%2F1%2FA
-[/us/pl/102/295/s112/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs112%2Fc%2F1%2FB
-[/us/pl/102/295/s112/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs112%2Fc%2F2%2FA
-[/us/pl/102/295/s112/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs112%2Fc%2F2%2FB
-[/us/pl/102/295/s112/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs112%2Fc%2F3
-[/us/pl/101/126/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126%2Fs3%2Fb%2F3
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/102/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295
+[/us/pl/101/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126
 [/us/pl/100/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294
 [/us/usc/t42/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5102
+[/us/pl/99/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F401
+[/us/pl/99/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F401
 [/us/pl/99/401/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F401%2Fs104%2F1
-[/us/pl/99/401/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F401%2Fs104%2F2
-[/us/pl/99/401/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F401%2Fs104%2F1
-[/us/pl/98/457/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs105%2Fa
-[/us/pl/98/457/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs105%2Fc
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
+[/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
 [/us/usc/t42/s5101/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101%2Fb%2F7
-[/us/pl/95/266/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2Fs105%2F1
-[/us/pl/95/266/s105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2Fs105%2F3
-[/us/pl/95/266/s105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2Fs105%2F3
-[/us/pl/100/294/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs102
+[/us/pl/95/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266
+[/us/pl/95/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266
+[/us/pl/95/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266
+[/us/pl/100/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtI
 [/us/stat/102/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F118
-[/us/pl/100/294/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs103
+[/us/pl/100/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtI
 [/us/stat/102/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F118
-[/us/pl/100/294/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs104
+[/us/pl/100/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtI
 [/us/stat/102/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F118
-[/us/pl/100/294/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs105
+[/us/pl/100/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtI
 [/us/stat/102/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F118
 
 

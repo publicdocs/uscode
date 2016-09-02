@@ -27,7 +27,7 @@
 
         A certifying or disbursing official is not liable for an amount certified or paid by him when recovery of the amount is waived under subsection (b) of this section, or when recovery under subsection (a) of this section is not completed before the death of all individuals against whose benefits deductions are authorized.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3653\], as added [Pub. L. 108–375, div. C, title XXXI, § 3163(c)][/us/pl/108/375/s3163/c], Oct. 28, 2004, [118 Stat. 2187][/us/stat/118/2187].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXVI, § 3653\], as added [Pub. L. 108–375, div. C, title XXXI][/us/pl/108/375/dC/tXXXI], § 3163(c), Oct. 28, 2004, [118 Stat. 2187][/us/stat/118/2187].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/108/375/s3163/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3163%2Fc
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/108/375/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXI
 [/us/stat/118/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2187
 
 

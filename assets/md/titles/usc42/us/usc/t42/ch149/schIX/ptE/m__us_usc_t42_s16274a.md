@@ -29,7 +29,7 @@
 
     (c) Of the amounts authorized to carry out this section, $10,000,000 shall be used by each organization to support university research and development in areas relevant to their respective organization’s mission, and $5,000,000 shall be used by each organization to support a jointly implemented Nuclear Science and Engineering Grant Program that will support multiyear research projects that do not align with programmatic missions but are critical to maintaining the discipline of nuclear science and engineering.
 
-([Pub. L. 111–8, div. C, title III, § 313][/us/pl/111/8/s313], Mar. 11, 2009, [123 Stat. 627][/us/stat/123/627].)
+([Pub. L. 111–8, div. C, title III][/us/pl/111/8/dC/tIII], § 313, Mar. 11, 2009, [123 Stat. 627][/us/stat/123/627].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/8/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs313
+[/us/pl/111/8/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdC%2FtIII
 [/us/stat/123/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F627
 
 

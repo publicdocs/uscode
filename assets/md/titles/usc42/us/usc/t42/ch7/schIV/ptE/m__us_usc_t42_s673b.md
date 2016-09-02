@@ -295,15 +295,15 @@
 
             To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 2004 through 2006.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 473A, as added [Pub. L. 105–89, title II, § 201(a)][/us/pl/105/89/s201/a], Nov. 19, 1997, [111 Stat. 2122][/us/stat/111/2122]; amended [Pub. L. 105–200, title IV, § 410(f)][/us/pl/105/200/s410/f], July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 106–169, title I, § 131][/us/pl/106/169/s131], Dec. 14, 1999, [113 Stat. 1830][/us/stat/113/1830]; [Pub. L. 108–145, § 3(a)][/us/pl/108/145/s3/a], Dec. 2, 2003, [117 Stat. 1879][/us/stat/117/1879]; [Pub. L. 109–288, § 6(f)(7)][/us/pl/109/288/s6/f/7], Sept. 28, 2006, [120 Stat. 1248][/us/stat/120/1248]; [Pub. L. 110–351, title IV, § 401][/us/pl/110/351/s401], Oct. 7, 2008, [122 Stat. 3973][/us/stat/122/3973]; [Pub. L. 113–183, title II][/us/pl/113/183], §§ 201—205, Sept. 29, 2014, [128 Stat. 1935][/us/stat/128/1935]—1939.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 473A, as added [Pub. L. 105–89, title II][/us/pl/105/89/tII], § 201(a), Nov. 19, 1997, [111 Stat. 2122][/us/stat/111/2122]; amended [Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 410(f), July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 106–169, title I][/us/pl/106/169/tI], § 131, Dec. 14, 1999, [113 Stat. 1830][/us/stat/113/1830]; [Pub. L. 108–145][/us/pl/108/145], § 3(a), Dec. 2, 2003, [117 Stat. 1879][/us/stat/117/1879]; [Pub. L. 109–288][/us/pl/109/288], § 6(f)(7), Sept. 28, 2006, [120 Stat. 1248][/us/stat/120/1248]; [Pub. L. 110–351, title IV][/us/pl/110/351/tIV], § 401, Oct. 7, 2008, [122 Stat. 3973][/us/stat/122/3973]; [Pub. L. 113–183, title II][/us/pl/113/183/tII], §§ 201—205, Sept. 29, 2014, [128 Stat. 1935][/us/stat/128/1935]—1939.)
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–183, § 203(a)][/us/pl/113/183/s203/a], amended section catchline generally. Prior to amendment, catchline read as follows: “Adoption incentive payments”.
+    2014—[Pub. L. 113–183][/us/pl/113/183], § 203(a), amended section catchline generally. Prior to amendment, catchline read as follows: “Adoption incentive payments”.
 
-    Subsec. (a). [Pub. L. 113–183, § 203(b)(1)][/us/pl/113/183/s203/b/1], inserted “and legal guardianship” after “adoption”.
+    Subsec. (a). [Pub. L. 113–183][/us/pl/113/183], § 203(b)(1), inserted “and legal guardianship” after “adoption”.
 
-    Subsec. (b)(2) to (4). [Pub. L. 113–183, § 202(a)][/us/pl/113/183/s202/a], redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows:
+    Subsec. (b)(2) to (4). [Pub. L. 113–183][/us/pl/113/183], § 202(a), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows:
 
     “(A) the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 
@@ -311,17 +311,17 @@
 
     “(C) the State’s foster child adoption rate for the fiscal year exceeds the highest ever foster child adoption rate determined for the State;”.
 
-    Subsec. (b)(5). [Pub. L. 113–183, § 202(a)][/us/pl/113/183/s202/a], redesignated par. (5) as (4).
+    Subsec. (b)(5). [Pub. L. 113–183][/us/pl/113/183], § 202(a), redesignated par. (5) as (4).
 
-    [Pub. L. 113–183, § 201(1)][/us/pl/113/183/s201/1], substituted “2013 through 2015” for “2008 through 2012”.
+    [Pub. L. 113–183][/us/pl/113/183], § 201(1), substituted “2013 through 2015” for “2008 through 2012”.
 
-    Subsec. (c)(2). [Pub. L. 113–183, § 202(b)][/us/pl/113/183/s202/b], in heading, substituted “rates of adoptions and guardianships” for “numbers of adoptions” and, in text, substituted “each of the rates required to be determined under this section with respect to a State and a fiscal year,” for “the numbers of foster child adoptions, of special needs adoptions that are not older child adoptions, and of older child adoptions in a State during a fiscal year, and the foster child adoption rate for the State for the fiscal year, for purposes of this section,” and inserted before period at end “, and, with respect to the determination of the rates related to foster child guardianships, on the basis of information reported to the Secretary under paragraph (12) of subsection (g)”.
+    Subsec. (c)(2). [Pub. L. 113–183][/us/pl/113/183], § 202(b), in heading, substituted “rates of adoptions and guardianships” for “numbers of adoptions” and, in text, substituted “each of the rates required to be determined under this section with respect to a State and a fiscal year,” for “the numbers of foster child adoptions, of special needs adoptions that are not older child adoptions, and of older child adoptions in a State during a fiscal year, and the foster child adoption rate for the State for the fiscal year, for purposes of this section,” and inserted before period at end “, and, with respect to the determination of the rates related to foster child guardianships, on the basis of information reported to the Secretary under paragraph (12) of subsection (g)”.
 
-    Subsec. (d). [Pub. L. 113–183, § 203(b)(2)][/us/pl/113/183/s203/b/2], inserted “and legal guardianship” after “Adoption” in heading.
+    Subsec. (d). [Pub. L. 113–183][/us/pl/113/183], § 203(b)(2), inserted “and legal guardianship” after “Adoption” in heading.
 
-    Subsec. (d)(1). [Pub. L. 113–183, § 203(b)(1)][/us/pl/113/183/s203/b/1], inserted “and legal guardianship” after “adoption” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 113–183][/us/pl/113/183], § 203(b)(1), inserted “and legal guardianship” after “adoption” in introductory provisions.
 
-    [Pub. L. 113–183, § 202(c)(1)][/us/pl/113/183/s202/c/1], added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
+    [Pub. L. 113–183][/us/pl/113/183], § 202(c)(1), added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
     “(A) $4,000, multiplied by the amount (if any) by which the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 
@@ -329,101 +329,101 @@
 
     “(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year.”
 
-    Subsec. (d)(2). [Pub. L. 113–183, § 203(b)(1)][/us/pl/113/183/s203/b/1], inserted “and legal guardianship” after “adoption” in subpars. (A) and (B).
+    Subsec. (d)(2). [Pub. L. 113–183][/us/pl/113/183], § 203(b)(1), inserted “and legal guardianship” after “adoption” in subpars. (A) and (B).
 
-    Subsec. (d)(3). [Pub. L. 113–183, § 202(c)(2)][/us/pl/113/183/s202/c/2], added par. (3) and struck out former par. (3) which related to increased incentive payment for exceeding the highest ever foster child adoption rate.
+    Subsec. (d)(3). [Pub. L. 113–183][/us/pl/113/183], § 202(c)(2), added par. (3) and struck out former par. (3) which related to increased incentive payment for exceeding the highest ever foster child adoption rate.
 
-    Subsec. (e). [Pub. L. 113–183, § 205][/us/pl/113/183/s205], substituted “36-month” for “24-month” in heading and text.
+    Subsec. (e). [Pub. L. 113–183][/us/pl/113/183], § 205, substituted “36-month” for “24-month” in heading and text.
 
-    Subsec. (f). [Pub. L. 113–183, § 204][/us/pl/113/183/s204], inserted “, and shall use the amount to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or E” before period in the first sentence.
+    Subsec. (f). [Pub. L. 113–183][/us/pl/113/183], § 204, inserted “, and shall use the amount to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or E” before period in the first sentence.
 
-    Subsec. (g). [Pub. L. 113–183, § 202(d)][/us/pl/113/183/s202/d], added pars. (1) to (12) and struck out former pars. (1) to (8) which defined “foster child adoption”, “special needs adoption”, “base number of foster child adoptions for a State”, “base number of special needs adoptions that are not older child adoptions for a State”, “base number of older child adoptions for a State”, “older child adoptions”, “highest ever foster child adoption rate”, and “foster child adoption rate”, respectively.
+    Subsec. (g). [Pub. L. 113–183][/us/pl/113/183], § 202(d), added pars. (1) to (12) and struck out former pars. (1) to (8) which defined “foster child adoption”, “special needs adoption”, “base number of foster child adoptions for a State”, “base number of special needs adoptions that are not older child adoptions for a State”, “base number of older child adoptions for a State”, “older child adoptions”, “highest ever foster child adoption rate”, and “foster child adoption rate”, respectively.
 
-    Subsec. (h)(1)(D), (2). [Pub. L. 113–183, § 201(2)][/us/pl/113/183/s201/2], substituted “2016” for “2013”.
+    Subsec. (h)(1)(D), (2). [Pub. L. 113–183][/us/pl/113/183], § 201(2), substituted “2016” for “2013”.
 
-    2008—Subsec. (b)(2)(C). [Pub. L. 110–351, § 401(e)(3)(A)][/us/pl/110/351/s401/e/3/A], added subpar. (C).
+    2008—Subsec. (b)(2)(C). [Pub. L. 110–351][/us/pl/110/351], § 401(e)(3)(A), added subpar. (C).
 
-    Subsec. (b)(4). [Pub. L. 110–351, § 401(a)(1)][/us/pl/110/351/s401/a/1], struck out “in the case of fiscal years 2001 through 2007,” before “the State provides”.
+    Subsec. (b)(4). [Pub. L. 110–351][/us/pl/110/351], § 401(a)(1), struck out “in the case of fiscal years 2001 through 2007,” before “the State provides”.
 
-    Subsec. (b)(5). [Pub. L. 110–351, § 401(a)(2)][/us/pl/110/351/s401/a/2], substituted “2008 through 2012” for “1998 through 2007”.
+    Subsec. (b)(5). [Pub. L. 110–351][/us/pl/110/351], § 401(a)(2), substituted “2008 through 2012” for “1998 through 2007”.
 
-    Subsec. (c)(2). [Pub. L. 110–351, § 401(a)(3)][/us/pl/110/351/s401/a/3], (e)(3)(B), substituted “during a fiscal year, and the foster child adoption rate for the State for the fiscal year,” for “during each of fiscal years 2002 through 2007”.
+    Subsec. (c)(2). [Pub. L. 110–351][/us/pl/110/351], § 401(a)(3), (e)(3)(B), substituted “during a fiscal year, and the foster child adoption rate for the State for the fiscal year,” for “during each of fiscal years 2002 through 2007”.
 
-    Subsec. (d)(1). [Pub. L. 110–351, § 401(e)(1)(A)][/us/pl/110/351/s401/e/1/A], substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 110–351][/us/pl/110/351], § 401(e)(1)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
 
-    Subsec. (d)(1)(B). [Pub. L. 110–351, § 401(c)(1)][/us/pl/110/351/s401/c/1], substituted “$4,000” for “$2,000”.
+    Subsec. (d)(1)(B). [Pub. L. 110–351][/us/pl/110/351], § 401(c)(1), substituted “$4,000” for “$2,000”.
 
-    Subsec. (d)(1)(C). [Pub. L. 110–351, § 401(c)(2)][/us/pl/110/351/s401/c/2], substituted “$8,000” for “$4,000”.
+    Subsec. (d)(1)(C). [Pub. L. 110–351][/us/pl/110/351], § 401(c)(2), substituted “$8,000” for “$4,000”.
 
-    Subsec. (d)(2). [Pub. L. 110–351, § 401(e)(1)(B)][/us/pl/110/351/s401/e/1/B], substituted “paragraph (1)” for “this section” wherever appearing.
+    Subsec. (d)(2). [Pub. L. 110–351][/us/pl/110/351], § 401(e)(1)(B), substituted “paragraph (1)” for “this section” wherever appearing.
 
-    Subsec. (d)(3). [Pub. L. 110–351, § 401(e)(1)(C)][/us/pl/110/351/s401/e/1/C], added par. (3).
+    Subsec. (d)(3). [Pub. L. 110–351][/us/pl/110/351], § 401(e)(1)(C), added par. (3).
 
-    Subsec. (e). [Pub. L. 110–351, § 401(d)][/us/pl/110/351/s401/d], substituted “24-month” for “2-year” in heading and “for the 24-month period beginning with the month in which the payments are made” for “through the end of the succeeding fiscal year” in text.
+    Subsec. (e). [Pub. L. 110–351][/us/pl/110/351], § 401(d), substituted “24-month” for “2-year” in heading and “for the 24-month period beginning with the month in which the payments are made” for “through the end of the succeeding fiscal year” in text.
 
-    Subsec. (g)(3). [Pub. L. 110–351, § 401(b)(1)][/us/pl/110/351/s401/b/1], substituted “means, with respect to any fiscal year, the number of foster child adoptions in the State in fiscal year 2007.” for “means—
+    Subsec. (g)(3). [Pub. L. 110–351][/us/pl/110/351], § 401(b)(1), substituted “means, with respect to any fiscal year, the number of foster child adoptions in the State in fiscal year 2007.” for “means—
 
     “(A) with respect to fiscal year 2003, the number of foster child adoptions in the State in fiscal year 2002; and
 
     “(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.”
 
-    Subsec. (g)(4). [Pub. L. 110–351, § 401(b)(2)][/us/pl/110/351/s401/b/2], inserted “that are not older child adoptions” before “for a State” and substituted “means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007.” for “means—
+    Subsec. (g)(4). [Pub. L. 110–351][/us/pl/110/351], § 401(b)(2), inserted “that are not older child adoptions” before “for a State” and substituted “means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007.” for “means—
 
     “(A) with respect to fiscal year 2003, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2002; and
 
     “(B) with respect to any subsequent fiscal year, the number of special needs adoptions that are not older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.”
 
-    Subsec. (g)(5). [Pub. L. 110–351, § 401(b)(3)][/us/pl/110/351/s401/b/3], substituted “means, with respect to any fiscal year, the number of older child adoptions in the State in fiscal year 2007.” for “means—
+    Subsec. (g)(5). [Pub. L. 110–351][/us/pl/110/351], § 401(b)(3), substituted “means, with respect to any fiscal year, the number of older child adoptions in the State in fiscal year 2007.” for “means—
 
     “(A) with respect to fiscal year 2003, the number of older child adoptions in the State in fiscal year 2002; and
 
     “(B) with respect to any subsequent fiscal year, the number of older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.”
 
-    Subsec. (g)(7), (8). [Pub. L. 110–351, § 401(e)(2)][/us/pl/110/351/s401/e/2], added pars. (7) and (8).
+    Subsec. (g)(7), (8). [Pub. L. 110–351][/us/pl/110/351], § 401(e)(2), added pars. (7) and (8).
 
-    Subsec. (h)(1)(D), (2). [Pub. L. 110–351, § 401(a)(4)][/us/pl/110/351/s401/a/4], substituted “2013” for “2008”.
+    Subsec. (h)(1)(D), (2). [Pub. L. 110–351][/us/pl/110/351], § 401(a)(4), substituted “2013” for “2008”.
 
     2006—Subsec. (f). [Pub. L. 109–288][/us/pl/109/288] substituted “624” for “623”.
 
-    2003—Subsec. (b)(2). [Pub. L. 108–145, § 3(a)(1)(A)][/us/pl/108/145/s3/a/1/A], added par. (2) and struck out former par. (2) which read as follows: “the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;”.
+    2003—Subsec. (b)(2). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;”.
 
-    Subsec. (b)(4). [Pub. L. 108–145, § 3(a)(1)(B)][/us/pl/108/145/s3/a/1/B], substituted “through 2007” for “and 2002”.
+    Subsec. (b)(4). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(1)(B), substituted “through 2007” for “and 2002”.
 
-    Subsec. (b)(5). [Pub. L. 108–145, § 3(a)(1)(C)][/us/pl/108/145/s3/a/1/C], substituted “2007” for “2002”.
+    Subsec. (b)(5). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(1)(C), substituted “2007” for “2002”.
 
-    Subsec. (c)(2). [Pub. L. 108–145, § 3(a)(2)][/us/pl/108/145/s3/a/2], added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+    Subsec. (c)(2). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(2), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
     “(A) Determinations based on afcars data.—Except as provided in subparagraph (B), the Secretary shall determine the numbers of foster child adoptions and of special needs adoptions in a State during each of fiscal years 1995 through 2002, for purposes of this section, on the basis of data meeting the requirements of the system established pursuant to [section 679 of this title][/us/usc/t42/s679], as reported by the State and approved by the Secretary by August 1 of the succeeding fiscal year.
 
     “(B) Alternative data sources permitted for fiscal years 1995 through 1997.—For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that the Secretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998.”
 
-    Subsec. (d)(1). [Pub. L. 108–145, § 3(a)(3)][/us/pl/108/145/s3/a/3], inserted “that are not older child adoptions” after “adoptions” in two places in subpar. (B) and added subpar. (C).
+    Subsec. (d)(1). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(3), inserted “that are not older child adoptions” after “adoptions” in two places in subpar. (B) and added subpar. (C).
 
-    2003—Subsec. (g)(3)(A), (B). [Pub. L. 108–145, § 3(a)(4)(A)][/us/pl/108/145/s3/a/4/A], added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+    2003—Subsec. (g)(3)(A), (B). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(4)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) with respect to fiscal year 1998, the average number of foster child adoptions in the State in fiscal years 1995, 1996, and 1997; and
 
     “(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year.”
 
-    Subsec. (g)(4). [Pub. L. 108–145, § 3(a)(4)(B)][/us/pl/108/145/s3/a/4/B], inserted “that are not older child adoptions” after “adoptions” in heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (g)(4). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(4)(B), inserted “that are not older child adoptions” after “adoptions” in heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) with respect to fiscal year 1998, the average number of special needs adoptions in the State in fiscal years 1995, 1996, and 1997; and
 
     “(B) with respect to any subsequent fiscal year, the number of special needs adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year.”
 
-    Subsec. (g)(5), (6). [Pub. L. 108–145, § 3(a)(4)(C)][/us/pl/108/145/s3/a/4/C], added pars. (5) and (6).
+    Subsec. (g)(5), (6). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(4)(C), added pars. (5) and (6).
 
-    Subsec. (h)(1)(D). [Pub. L. 108–145, § 3(a)(5)(A)][/us/pl/108/145/s3/a/5/A], added subpar. (D).
+    Subsec. (h)(1)(D). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(5)(A), added subpar. (D).
 
-    Subsec. (h)(2). [Pub. L. 108–145, § 3(a)(5)(B)][/us/pl/108/145/s3/a/5/B], inserted “, or under any other law for grants under subsection (a) of this section,” after “(1)” and substituted “2008” for “2003”.
+    Subsec. (h)(2). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(5)(B), inserted “, or under any other law for grants under subsection (a) of this section,” after “(1)” and substituted “2008” for “2003”.
 
-    Subsec. (i)(4). [Pub. L. 108–145, § 3(a)(6)][/us/pl/108/145/s3/a/6], substituted “2004 through 2006” for “1998 through 2000”.
+    Subsec. (i)(4). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(6), substituted “2004 through 2006” for “1998 through 2000”.
 
-    Subsec. (j). [Pub. L. 108–145, § 3(a)(7)][/us/pl/108/145/s3/a/7], struck out subsec. (j) which related to supplemental grants.
+    Subsec. (j). [Pub. L. 108–145][/us/pl/108/145], § 3(a)(7), struck out subsec. (j) which related to supplemental grants.
 
-    1999—Subsec. (h)(1). [Pub. L. 106–169, § 131(b)][/us/pl/106/169/s131/b], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 1999 through 2003.”
+    1999—Subsec. (h)(1). [Pub. L. 106–169][/us/pl/106/169], § 131(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 1999 through 2003.”
 
-    Subsec. (j). [Pub. L. 106–169, § 131(a)][/us/pl/106/169/s131/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 106–169][/us/pl/106/169], § 131(a), added subsec. (j).
 
     1998—Subsec. (c)(2)(B). [Pub. L. 105–200][/us/pl/105/200] substituted “April 30, 1998” for “November 30, 1997” and “July 1, 1998” for “March 1, 1998”.
 
@@ -443,7 +443,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–145, § 5][/us/pl/108/145/s5], Dec. 2, 2003, [117 Stat. 1882][/us/stat/117/1882], provided that: 
+[Pub. L. 108–145][/us/pl/108/145], § 5, Dec. 2, 2003, [117 Stat. 1882][/us/stat/117/1882], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 674 of this title][/us/usc/t42/s674]\] shall take effect on October 1, 2003.”
 
@@ -453,7 +453,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–145, § 2][/us/pl/108/145/s2], Dec. 2, 2003, [117 Stat. 1879][/us/stat/117/1879], provided that: 
+[Pub. L. 108–145][/us/pl/108/145], § 2, Dec. 2, 2003, [117 Stat. 1879][/us/stat/117/1879], provided that: 
 
 > “The Congress finds the following:
 
@@ -480,66 +480,66 @@
 [/us/usc/t42/s673/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673%2Fa
 [/us/usc/t42/s673/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/89/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs201%2Fa
+[/us/pl/105/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtII
 [/us/stat/111/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2122
-[/us/pl/105/200/s410/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs410%2Ff
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F673
-[/us/pl/106/169/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs131
+[/us/pl/106/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtI
 [/us/stat/113/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1830
-[/us/pl/108/145/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
 [/us/stat/117/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1879
-[/us/pl/109/288/s6/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Ff%2F7
-[/us/stat/120/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1248
-[/us/pl/110/351/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401
-[/us/stat/122/3973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3973
-[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
-[/us/stat/128/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1935
-[/us/pl/113/183/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs203%2Fa
-[/us/pl/113/183/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs203%2Fb%2F1
-[/us/pl/113/183/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs202%2Fa
-[/us/pl/113/183/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs202%2Fa
-[/us/pl/113/183/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs201%2F1
-[/us/pl/113/183/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs202%2Fb
-[/us/pl/113/183/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs203%2Fb%2F2
-[/us/pl/113/183/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs203%2Fb%2F1
-[/us/pl/113/183/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs202%2Fc%2F1
-[/us/pl/113/183/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs203%2Fb%2F1
-[/us/pl/113/183/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs202%2Fc%2F2
-[/us/pl/113/183/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs205
-[/us/pl/113/183/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs204
-[/us/pl/113/183/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs202%2Fd
-[/us/pl/113/183/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs201%2F2
-[/us/pl/110/351/s401/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fe%2F3%2FA
-[/us/pl/110/351/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fa%2F1
-[/us/pl/110/351/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fa%2F2
-[/us/pl/110/351/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fa%2F3
-[/us/pl/110/351/s401/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fe%2F1%2FA
-[/us/pl/110/351/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fc%2F1
-[/us/pl/110/351/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fc%2F2
-[/us/pl/110/351/s401/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fe%2F1%2FB
-[/us/pl/110/351/s401/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fe%2F1%2FC
-[/us/pl/110/351/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fd
-[/us/pl/110/351/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fb%2F1
-[/us/pl/110/351/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fb%2F2
-[/us/pl/110/351/s401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fb%2F3
-[/us/pl/110/351/s401/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fe%2F2
-[/us/pl/110/351/s401/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs401%2Fa%2F4
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
-[/us/pl/108/145/s3/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F1%2FA
-[/us/pl/108/145/s3/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F1%2FB
-[/us/pl/108/145/s3/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F1%2FC
-[/us/pl/108/145/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F2
+[/us/stat/120/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1248
+[/us/pl/110/351/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2FtIV
+[/us/stat/122/3973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3973
+[/us/pl/113/183/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtII
+[/us/stat/128/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1935
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
 [/us/usc/t42/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679
-[/us/pl/108/145/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F3
-[/us/pl/108/145/s3/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F4%2FA
-[/us/pl/108/145/s3/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F4%2FB
-[/us/pl/108/145/s3/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F4%2FC
-[/us/pl/108/145/s3/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F5%2FA
-[/us/pl/108/145/s3/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F5%2FB
-[/us/pl/108/145/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F6
-[/us/pl/108/145/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs3%2Fa%2F7
-[/us/pl/106/169/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs131%2Fb
-[/us/pl/106/169/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs131%2Fa
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
 [/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/pl/113/183/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs210%2Fa
@@ -553,12 +553,12 @@
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/usc/t42/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs621
-[/us/pl/108/145/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs5
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
 [/us/stat/117/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1882
 [/us/usc/t42/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs674
 [/us/pl/105/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs501
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
-[/us/pl/108/145/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145%2Fs2
+[/us/pl/108/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F145
 [/us/stat/117/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1879
 [/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305

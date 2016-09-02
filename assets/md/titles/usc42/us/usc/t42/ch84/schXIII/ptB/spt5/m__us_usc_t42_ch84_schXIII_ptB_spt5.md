@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–358, title IX, § 901(c)(1)][/us/pl/111/358/s901/c/1], Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044], struck out heading for subpart 5 “NATIONAL ENERGY EDUCATION DEVELOPMENT”.
+    2011—[Pub. L. 111–358, title IX][/us/pl/111/358/tIX], § 901(c)(1), Jan. 4, 2011, [124 Stat. 4044][/us/stat/124/4044], struck out heading for subpart 5 “NATIONAL ENERGY EDUCATION DEVELOPMENT”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s901/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs901%2Fc%2F1
+[/us/pl/111/358/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIX
 [/us/stat/124/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4044
 
 

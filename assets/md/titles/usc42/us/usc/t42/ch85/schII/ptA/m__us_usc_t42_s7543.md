@@ -77,7 +77,7 @@
 
                 The Administrator shall issue regulations to implement this subsection.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 209, formerly § 208, as added [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 501][/us/stat/81/501]; renumbered and amended [Pub. L. 91–604][/us/pl/91/604], §§ 8(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694], 1705, 1713; [Pub. L. 95–95, title II][/us/pl/95/95], §§ 207, 221, Aug. 7, 1977, [91 Stat. 755][/us/stat/91/755], 762; [Pub. L. 101–549, title II, § 222(b)][/us/pl/101/549/s222/b], Nov. 15, 1990, [104 Stat. 2502][/us/stat/104/2502].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 209, formerly § 208, as added [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 501][/us/stat/81/501]; renumbered and amended [Pub. L. 91–604][/us/pl/91/604], §§ 8(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694], 1705, 1713; [Pub. L. 95–95, title II][/us/pl/95/95/tII], §§ 207, 221, Aug. 7, 1977, [91 Stat. 755][/us/stat/91/755], 762; [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 222(b), Nov. 15, 1990, [104 Stat. 2502][/us/stat/104/2502].)
 
  __Codification__ 
 
@@ -85,23 +85,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 209 of act July 14, 1955, as added Nov. 21, 1967, [Pub. L. 90–148, § 2][/us/pl/90/148/s2], [81 Stat. 502][/us/stat/81/502], was renumbered section 210 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7544 of this title][/us/usc/t42/s7544].
+    A prior section 209 of act July 14, 1955, as added Nov. 21, 1967, [Pub. L. 90–148][/us/pl/90/148], § 2, [81 Stat. 502][/us/stat/81/502], was renumbered section 210 by [Pub. L. 91–604][/us/pl/91/604] and is classified to [section 7544 of this title][/us/usc/t42/s7544].
 
-    Another prior section 209 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, as added Oct. 20, 1965, [Pub. L. 89–272, title I, § 101(8)][/us/pl/89/272/s101/8], [79 Stat. 995][/us/stat/79/995], related to appropriations for the fiscal years ending June 30, 1966, 1967, 1968, and 1969, and was classified to [section 1857f–8 of this title][/us/usc/t42/s1857f–8], prior to repeal by [Pub. L. 89–675, § 2(b)][/us/pl/89/675/s2/b], Oct. 15, 1966, [80 Stat. 954][/us/stat/80/954].
+    Another prior section 209 of [act July 14, 1955, ch. 360, title II][/us/act/1955-07-14/ch360/tII], as added Oct. 20, 1965, [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(8), [79 Stat. 995][/us/stat/79/995], related to appropriations for the fiscal years ending June 30, 1966, 1967, 1968, and 1969, and was classified to [section 1857f–8 of this title][/us/usc/t42/s1857f–8], prior to repeal by [Pub. L. 89–675][/us/pl/89/675], § 2(b), Oct. 15, 1966, [80 Stat. 954][/us/stat/80/954].
 
  __Amendments__ 
 
     1990—Subsec. (e). [Pub. L. 101–549][/us/pl/101/549] added subsec. (e).
 
-    1977—Subsec. (b). [Pub. L. 95–95, § 207][/us/pl/95/95/s207], designated existing provisions as par. (1), substituted “March 30, 1966, if the State determines that the State standards will be, in the aggregate, at least as protective of public health and welfare as applicable Federal standards” for “March 30, 1966, unless he finds that such State does not require standards more stringent than applicable Federal standards to meet compelling the extraordinary conditions or that such State standards and accompanying enforcement procedures are not consistent with [section 7521(a) of this title][/us/usc/t42/s7521/a]”, added subpars. (A), (B), and (C), and added pars. (2) and (3).
+    1977—Subsec. (b). [Pub. L. 95–95][/us/pl/95/95], § 207, designated existing provisions as par. (1), substituted “March 30, 1966, if the State determines that the State standards will be, in the aggregate, at least as protective of public health and welfare as applicable Federal standards” for “March 30, 1966, unless he finds that such State does not require standards more stringent than applicable Federal standards to meet compelling the extraordinary conditions or that such State standards and accompanying enforcement procedures are not consistent with [section 7521(a) of this title][/us/usc/t42/s7521/a]”, added subpars. (A), (B), and (C), and added pars. (2) and (3).
 
-    Subsecs. (c), (d). [Pub. L. 95–95, § 221][/us/pl/95/95/s221], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 95–95][/us/pl/95/95], § 221, added subsec. (c) and redesignated former subsec. (c) as (d).
 
-    1970—Subsec. (a). [Pub. L. 91–604, § 11(a)(2)(A)][/us/pl/91/604/s11/a/2/A], substituted “part” for “subchapter”.
+    1970—Subsec. (a). [Pub. L. 91–604][/us/pl/91/604], § 11(a)(2)(A), substituted “part” for “subchapter”.
 
-    Subsec. (b). [Pub. L. 91–604, § 15(c)(2)][/us/pl/91/604/s15/c/2], substituted “Administrator” for “Secretary”.
+    Subsec. (b). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(2), substituted “Administrator” for “Secretary”.
 
-    Subsec. (c). [Pub. L. 91–604, § 11(a)(2)(A)][/us/pl/91/604/s11/a/2/A], substituted “part” for “subchapter”.
+    Subsec. (c). [Pub. L. 91–604][/us/pl/91/604], § 11(a)(2)(A), substituted “part” for “subchapter”.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -121,32 +121,32 @@
 [/us/usc/t42/s7521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fa
 [/us/usc/t42/s7541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7541%2Fa%2F2
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F501
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1694
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F755
-[/us/pl/101/549/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs222%2Fb
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2502
 [/us/usc/t42/s1857f–6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%936a
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F502
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7544
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/89/272/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F8
+[/us/act/1955-07-14/ch360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtII
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F995
 [/us/usc/t42/s1857f–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%938
-[/us/pl/89/675/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F675%2Fs2%2Fb
+[/us/pl/89/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F675
 [/us/stat/80/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F954
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
-[/us/pl/95/95/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs207
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521%2Fa
-[/us/pl/95/95/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs221
-[/us/pl/91/604/s11/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs11%2Fa%2F2%2FA
-[/us/pl/91/604/s15/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F2
-[/us/pl/91/604/s11/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs11%2Fa%2F2%2FA
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

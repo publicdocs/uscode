@@ -53,7 +53,7 @@
 
         The Director of the Office of Management and Budget shall coordinate and monitor the development and implementation by Federal departments and agencies of the efforts required by subsection (b) of this section and shall report to the Congress on such development and implementation and with respect to any provisions of law which unnecessarily prevent such departments and agencies from carrying out the provisions of this section as part of each report required under [Public Law 93–556][/us/pl/93/556]. Such report shall include an estimate of the reduction of the level of paperwork burden hours of the affected agencies as allocated by the Office of Management and Budget.
 
-([Pub. L. 95–557, title IX, § 905][/us/pl/95/557/s905], Oct. 31, 1978, [92 Stat. 2126][/us/stat/92/2126]; [Pub. L. 96–153, title III, § 328][/us/pl/96/153/s328], Dec. 21, 1979, [93 Stat. 1121][/us/stat/93/1121]; [Pub. L. 98–479, title II, § 204(n)(4)][/us/pl/98/479/s204/n/4], Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234]; [Pub. L. 102–54, § 13(q)(10)][/us/pl/102/54/s13/q/10], June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
+([Pub. L. 95–557, title IX][/us/pl/95/557/tIX], § 905, Oct. 31, 1978, [92 Stat. 2126][/us/stat/92/2126]; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 328, Dec. 21, 1979, [93 Stat. 1121][/us/stat/93/1121]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(n)(4), Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(10), June 13, 1991, [105 Stat. 281][/us/stat/105/281].)
 
  __References in Text__ 
 
@@ -86,13 +86,13 @@
 
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
 [/us/pl/93/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F556
-[/us/pl/95/557/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs905
+[/us/pl/95/557/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIX
 [/us/stat/92/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2126
-[/us/pl/96/153/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs328
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1121
-[/us/pl/98/479/s204/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fn%2F4
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2234
-[/us/pl/102/54/s13/q/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F10
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F281
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1724

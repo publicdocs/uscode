@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7704a.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705b)
+[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705 _us_usc_t42_s7705a.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705b)
 
 ## § 7705b. Seismic standards
 
@@ -37,7 +37,7 @@
 
         The Administrator of the Agency, in consultation with the Director of the National Institute of Standards and Technology, shall submit to the Congress, not later than June 30, 1992, a plan, including precise timetables and budget estimates, for developing and adopting, in consultation with appropriate private sector organizations, design and construction standards for lifelines. The plan shall include recommendations of ways Federal regulatory authority could be used to expedite the implementation of such standards.
 
-([Pub. L. 95–124, § 8][/us/pl/95/124/s8], as added [Pub. L. 101–614, § 8(a)][/us/pl/101/614/s8/a], Nov. 16, 1990, [104 Stat. 3237][/us/stat/104/3237]; amended [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+([Pub. L. 95–124][/us/pl/95/124], § 8, as added [Pub. L. 101–614][/us/pl/101/614], § 8(a), Nov. 16, 1990, [104 Stat. 3237][/us/stat/104/3237]; amended [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Report on Vulnerability of Buildings Owned and Leased by Government__ 
 
-    [Pub. L. 101–614, § 8(b)][/us/pl/101/614/s8/b], Nov. 16, 1990, [104 Stat. 3238][/us/stat/104/3238], directed Comptroller General, not later than 18 months after Nov. 16, 1990, to report to Congress on vulnerability of buildings owned and leased by the Federal Government and on efforts of Federal agencies to improve the seismic resistance of buildings they own or lease, and for each such agency, the Comptroller General to enumerate the number of buildings owned or leased by the agency, the seriousness of the seismic risk to such buildings, and the value of the buildings at risk, as well as tabulate the expenditures each such agency had devoted to reducing earthquake damage and estimate the total expenditure necessary to address the problem adequately.
+    [Pub. L. 101–614][/us/pl/101/614], § 8(b), Nov. 16, 1990, [104 Stat. 3238][/us/stat/104/3238], directed Comptroller General, not later than 18 months after Nov. 16, 1990, to report to Congress on vulnerability of buildings owned and leased by the Federal Government and on efforts of Federal agencies to improve the seismic resistance of buildings they own or lease, and for each such agency, the Comptroller General to enumerate the number of buildings owned or leased by the agency, the seriousness of the seismic risk to such buildings, and the value of the buildings at risk, as well as tabulate the expenditures each such agency had devoted to reducing earthquake damage and estimate the total expenditure necessary to address the problem adequately.
 
  __Ex. Ord. No. 12941. Seismic Safety of Existing Federally Owned or Leased Buildings__ 
 
@@ -83,15 +83,15 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7704a.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705b)
+[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705 _us_usc_t42_s7705a.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705b)
 
 ----------
 ----------
 
-[/us/pl/95/124/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs8
-[/us/pl/101/614/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs8%2Fa
+[/us/pl/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3237
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/usc/t42/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7704
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
@@ -101,7 +101,7 @@
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/101/614/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs8%2Fb
+[/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614
 [/us/stat/104/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3238
 [/us/usc/t42/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7701
 [/us/pl/101/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614

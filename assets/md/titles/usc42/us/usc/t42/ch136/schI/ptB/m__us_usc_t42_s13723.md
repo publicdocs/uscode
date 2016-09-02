@@ -27,7 +27,7 @@
 
         For purposes of this section, the terms “expanded” and “expansion” mean any alteration of the physical structure of the prison complex that is made to increase the number of inmates incarcerated at the prison.
 
-([Pub. L. 103–322, title II, § 20410][/us/pl/103/322/s20410], Sept. 13, 1994, [108 Stat. 1828][/us/stat/108/1828]; [Pub. L. 105–33, title XI, § 11717(b)][/us/pl/105/33/s11717/b], Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20410, Sept. 13, 1994, [108 Stat. 1828][/us/stat/108/1828]; [Pub. L. 105–33, title XI][/us/pl/105/33/tXI], § 11717(b), Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786].)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s20410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20410
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1828
-[/us/pl/105/33/s11717/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11717%2Fb
+[/us/pl/105/33/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtXI
 [/us/stat/111/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F786
 [/us/pl/93/198/s446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs446
 [/us/stat/87/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F801

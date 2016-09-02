@@ -101,27 +101,27 @@
 
         The term “university center” means an institution of higher education or a consortium of institutions of higher education established as a University Center for Economic Development under [section 3147(a)(2)(D) of this title][/us/usc/t42/s3147/a/2/D].
 
-([Pub. L. 89–136, § 3][/us/pl/89/136/s3], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3599][/us/stat/112/3599]; amended [Pub. L. 108–373, title I, § 102][/us/pl/108/373/s102], Oct. 27, 2004, [118 Stat. 1758][/us/stat/118/1758].)
+([Pub. L. 89–136][/us/pl/89/136], § 3, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3599][/us/stat/112/3599]; amended [Pub. L. 108–373, title I][/us/pl/108/373/tI], § 102, Oct. 27, 2004, [118 Stat. 1758][/us/stat/118/1758].)
 
  __References in Text__ 
 
-    [Section 3173 of this title][/us/usc/t42/s3173] (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998), referred to in par. (3)(B), means [section 3173 of this title][/us/usc/t42/s3173] prior to its repeal by [Pub. L. 105–393, § 102(a)][/us/pl/105/393/s102/a]. See Prior Provisions note set out under [section 3173 of this title][/us/usc/t42/s3173] and [section 105 of Pub. L. 105–393][/us/pl/105/393/s105], set out as an Effective Date note under [section 3121 of this title][/us/usc/t42/s3121].
+    [Section 3173 of this title][/us/usc/t42/s3173] (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998), referred to in par. (3)(B), means [section 3173 of this title][/us/usc/t42/s3173] prior to its repeal by [Pub. L. 105–393][/us/pl/105/393], § 102(a). See Prior Provisions note set out under [section 3173 of this title][/us/usc/t42/s3173] and [section 105 of Pub. L. 105–393][/us/pl/105/393/s105], set out as an Effective Date note under [section 3121 of this title][/us/usc/t42/s3121].
 
     The Alaska Native Claims Settlement Act, referred to in par. (7), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
     The Consolidated Farm and Rural Development Act, referred to in par. (8)(B), (D), is title III of [Pub. L. 87–128][/us/pl/87/128], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307], as amended. Subtitles F and G of the Act are classified generally to subchapters VI (§ 2009aa et seq.) and VII (§ 2009bb et seq.), respectively, of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of Title 7][/us/usc/t7/s1921] and Tables.
 
-    The Denali Commission Act of 1998, referred to in par. (8)(C), is title III of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681]-637, which is set out as a note under [section 3121 of this title][/us/usc/t42/s3121]. For complete classification of this Act to the Code, see Tables.
+    The Denali Commission Act of 1998, referred to in par. (8)(C), is title III of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681]-637, which is set out as a note under [section 3121 of this title][/us/usc/t42/s3121]. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 
-    A prior section 3122, [Pub. L. 91–524, title IX, § 901][/us/pl/91/524/s901], Nov. 30, 1970, [84 Stat. 1383][/us/stat/84/1383]; [Pub. L. 92–419, title VI, § 601][/us/pl/92/419/s601], Aug. 30, 1972, [86 Stat. 674][/us/stat/86/674]; [Pub. L. 94–273, § 7(3)][/us/pl/94/273/s7/3], Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 96–355, § 6][/us/pl/96/355/s6], Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174], which related to priority to be given to revitalization and development of rural areas, was transferred to [section 2204b–1 of Title 7][/us/usc/t7/s2204b–1], Agriculture.
+    A prior section 3122, [Pub. L. 91–524, title IX][/us/pl/91/524/tIX], § 901, Nov. 30, 1970, [84 Stat. 1383][/us/stat/84/1383]; [Pub. L. 92–419, title VI][/us/pl/92/419/tVI], § 601, Aug. 30, 1972, [86 Stat. 674][/us/stat/86/674]; [Pub. L. 94–273][/us/pl/94/273], § 7(3), Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 96–355][/us/pl/96/355], § 6, Sept. 24, 1980, [94 Stat. 1174][/us/stat/94/1174], which related to priority to be given to revitalization and development of rural areas, was transferred to [section 2204b–1 of Title 7][/us/usc/t7/s2204b–1], Agriculture.
 
  __Amendments__ 
 
-    2004—Par. (4)(A). [Pub. L. 108–373, § 102(a)][/us/pl/108/373/s102/a], redesignated cls. (ii) to (vii) as (i) to (vi), respectively, inserted “, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities,” after “State” in cl. (iv), and struck out cl. (i) which read as follows: “an area described in [section 3161(a) of this title][/us/usc/t42/s3161/a];”.
+    2004—Par. (4)(A). [Pub. L. 108–373][/us/pl/108/373], § 102(a), redesignated cls. (ii) to (vii) as (i) to (vi), respectively, inserted “, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities,” after “State” in cl. (iv), and struck out cl. (i) which read as follows: “an area described in [section 3161(a) of this title][/us/usc/t42/s3161/a];”.
 
-    Pars. (8) to (12). [Pub. L. 108–373, § 102(b)][/us/pl/108/373/s102/b], added pars. (8) and (12) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
+    Pars. (8) to (12). [Pub. L. 108–373][/us/pl/108/373], § 102(b), added pars. (8) and (12) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
 ----------
 
@@ -141,14 +141,14 @@
 [/us/stat/112/2681-637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-637
 [/us/usc/t7/s2009bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009bb
 [/us/usc/t42/s3147/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3147%2Fa%2F2%2FD
-[/us/pl/89/136/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs3
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3599
-[/us/pl/108/373/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs102
+[/us/pl/108/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtI
 [/us/stat/118/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1758
 [/us/usc/t42/s3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3173
 [/us/usc/t42/s3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3173
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/105/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393
 [/us/usc/t42/s3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3173
 [/us/pl/105/393/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs105
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
@@ -158,20 +158,20 @@
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
-[/us/pl/91/524/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs901
+[/us/pl/91/524/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtIX
 [/us/stat/84/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1383
-[/us/pl/92/419/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs601
+[/us/pl/92/419/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtVI
 [/us/stat/86/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F674
-[/us/pl/94/273/s7/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs7%2F3
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F378
-[/us/pl/96/355/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355%2Fs6
+[/us/pl/96/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F355
 [/us/stat/94/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1174
 [/us/usc/t7/s2204b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204b%E2%80%931
-[/us/pl/108/373/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs102%2Fa
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 [/us/usc/t42/s3161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3161%2Fa
-[/us/pl/108/373/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs102%2Fb
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 
 

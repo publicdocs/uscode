@@ -63,7 +63,7 @@
 
         (4) shall make such recommendations as are practical to minimize the complexity of nuclear powerplant systems, including secondary systems, and operations.
 
-([Pub. L. 96–567, § 4][/us/pl/96/567/s4], Dec. 22, 1980, [94 Stat. 3330][/us/stat/94/3330].)
+([Pub. L. 96–567][/us/pl/96/567], § 4, Dec. 22, 1980, [94 Stat. 3330][/us/stat/94/3330].)
 
  __Transfer of Functions__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/96/567/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567%2Fs4
+[/us/pl/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F567
 [/us/stat/94/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3330
 [/us/stat/94/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3585
 [/us/usc/t42/s5841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5841

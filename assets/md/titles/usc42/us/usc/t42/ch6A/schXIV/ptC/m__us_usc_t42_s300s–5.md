@@ -17,11 +17,11 @@
 
     The Secretary shall provide (either through the Department of Health and Human Services or by contract) all necessary technical and other nonfinancial assistance to any public or other entity which is eligible to apply for assistance under this subchapter to assist such entity in developing applications to be submitted to the Secretary under section 300s–1 or 300t–12 of this title. The Secretary shall make every effort to inform eligible applicants of the availability of assistance under this subchapter.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1626, formerly § 1635, as added [Pub. L. 93–641, § 4][/us/pl/93/641/s4], Jan. 4, 1975, [88 Stat. 2273][/us/stat/88/2273]; renumbered § 1626 and amended [Pub. L. 96–79, title II][/us/pl/96/79], §§ 202(b), 203(f), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632], 635; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1626, formerly § 1635, as added [Pub. L. 93–641][/us/pl/93/641], § 4, Jan. 4, 1975, [88 Stat. 2273][/us/stat/88/2273]; renumbered § 1626 and amended [Pub. L. 96–79, title II][/us/pl/96/79/tII], §§ 202(b), 203(f), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632], 635; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–79, § 203(f)][/us/pl/96/79/s203/f], substituted “other entity” for “other nonprofit entity” and “section 300s–1 or 300t–12 of this title” for “section 300o–3 of this title.”
+    1979—[Pub. L. 96–79][/us/pl/96/79], § 203(f), substituted “other entity” for “other nonprofit entity” and “section 300s–1 or 300t–12 of this title” for “section 300o–3 of this title.”
 
  __Change of Name__ 
 
@@ -39,13 +39,13 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2273
-[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F632
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/96/79/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs203%2Ff
+[/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79

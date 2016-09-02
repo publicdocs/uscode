@@ -49,7 +49,7 @@
 
         (4) In other areas, as the Secretary may determine.
 
-([Pub. L. 101–625, title III, § 304][/us/pl/101/625/s304], Nov. 28, 1990, [104 Stat. 4132][/us/stat/104/4132].)
+([Pub. L. 101–625, title III][/us/pl/101/625/tIII], § 304, Nov. 28, 1990, [104 Stat. 4132][/us/stat/104/4132].)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t42/s12857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12857
 [/us/usc/t42/s12857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12857
-[/us/pl/101/625/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs304
+[/us/pl/101/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIII
 [/us/stat/104/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4132
 
 

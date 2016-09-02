@@ -33,7 +33,7 @@
 
         No Federal funds (including amounts appropriated for use by the Organ Procurement and Transplantation Network) may be used for purposes of carrying out this part, including purchasing medals under this part or paying the administrative costs of the Secretary of Health and Human Services or the Secretary of the Treasury in carrying out this part.
 
-([Pub. L. 110–413, § 3][/us/pl/110/413/s3], Oct. 14, 2008, [122 Stat. 4339][/us/stat/122/4339].)
+([Pub. L. 110–413][/us/pl/110/413], § 3, Oct. 14, 2008, [122 Stat. 4339][/us/stat/122/4339].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/110/413/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F413%2Fs3
+[/us/pl/110/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F413
 [/us/stat/122/4339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4339
 
 

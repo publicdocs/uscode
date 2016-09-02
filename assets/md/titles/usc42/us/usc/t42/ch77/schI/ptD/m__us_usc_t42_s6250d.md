@@ -17,7 +17,7 @@
 
     An action taken under this part is not subject to the rulemaking requirements of [section 6393 of this title][/us/usc/t42/s6393], [section 7191 of this title][/us/usc/t42/s7191], or [section 553 of title 5][/us/usc/t5/s553].
 
-([Pub. L. 94–163, title I, § 185][/us/pl/94/163/s185], as added [Pub. L. 106–469, title II, § 201(a)(3)][/us/pl/106/469/s201/a/3], Nov. 9, 2000, [114 Stat. 2036][/us/stat/114/2036].)
+([Pub. L. 94–163, title I][/us/pl/94/163/tI], § 185, as added [Pub. L. 106–469, title II][/us/pl/106/469/tII], § 201(a)(3), Nov. 9, 2000, [114 Stat. 2036][/us/stat/114/2036].)
 
 ----------
 
@@ -29,8 +29,8 @@
 [/us/usc/t42/s6393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6393
 [/us/usc/t42/s7191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7191
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/94/163/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs185
-[/us/pl/106/469/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs201%2Fa%2F3
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
+[/us/pl/106/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtII
 [/us/stat/114/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2036
 
 

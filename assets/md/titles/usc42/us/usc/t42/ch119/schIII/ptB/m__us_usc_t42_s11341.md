@@ -17,7 +17,7 @@
 
     Not later than 30 days following the date on which appropriations become available to carry out this part, the Director shall award a grant for the full amount that the Congress appropriates for the program under this part to the National Board for the purpose of providing emergency food and shelter to needy individuals through private nonprofit organizations and local governments in accordance with [section 11343 of this title][/us/usc/t42/s11343].
 
-([Pub. L. 100–77, title III, § 311][/us/pl/100/77/s311], July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 311, July 22, 1987, [101 Stat. 492][/us/stat/101/492].)
 
  __Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s11343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11343
-[/us/pl/100/77/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs311
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F492
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

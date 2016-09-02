@@ -47,7 +47,7 @@
 
         (13) establish an annual award program to recognize a company or companies which operate outstanding or innovative source reduction programs.
 
-([Pub. L. 101–508, title VI, § 6604][/us/pl/101/508/s6604], Nov. 5, 1990, [104 Stat. 1388–322][/us/stat/104/1388-322].)
+([Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6604, Nov. 5, 1990, [104 Stat. 1388–322][/us/stat/104/1388-322].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/101/508/s6604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6604
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-322
 
 

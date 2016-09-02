@@ -111,13 +111,13 @@
 
         No tenant of a public housing project shall be considered to be displaced for purposes of the Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970 \[[42 U.S.C. 4601][/us/usc/t42/s4601] et seq.\] because of the designation of any existing project or building, or portion thereof, for occupancy as provided under subsection (a) of this section.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 7, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 662][/us/stat/88/662]; amended [Pub. L. 95–557, title IV, § 412][/us/pl/95/557/s412], Oct. 31, 1978, [92 Stat. 2110][/us/stat/92/2110]; [Pub. L. 100–242, title I, § 112(b)(3)][/us/pl/100/242/s112/b/3], Feb. 5, 1988, [101 Stat. 1824][/us/stat/101/1824]; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; amended [Pub. L. 102–550, title VI, § 622(a)][/us/pl/102/550/s622/a], Oct. 28, 1992, [106 Stat. 3813][/us/stat/106/3813]; [Pub. L. 104–99, title IV, § 402(d)(6)(A)(ii)][/us/pl/104/99/s402/d/6/A/ii], Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42]; [Pub. L. 104–120, § 10(a)][/us/pl/104/120/s10/a], Mar. 28, 1996, [110 Stat. 838][/us/stat/110/838]; [Pub. L. 104–330, title V, § 501(b)(4)][/us/pl/104/330/s501/b/4], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V, § 595(d)][/us/pl/105/276/s595/d], Oct. 21, 1998, [112 Stat. 2656][/us/stat/112/2656].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 7, as added [Pub. L. 93–383, title II][/us/pl/93/383/tII], § 201(a), Aug. 22, 1974, [88 Stat. 662][/us/stat/88/662]; amended [Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 412, Oct. 31, 1978, [92 Stat. 2110][/us/stat/92/2110]; [Pub. L. 100–242, title I][/us/pl/100/242/tI], § 112(b)(3), Feb. 5, 1988, [101 Stat. 1824][/us/stat/101/1824]; renumbered title I, [Pub. L. 100–358][/us/pl/100/358], § 5, June 29, 1988, [102 Stat. 681][/us/stat/102/681]; amended [Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 622(a), Oct. 28, 1992, [106 Stat. 3813][/us/stat/106/3813]; [Pub. L. 104–99, title IV][/us/pl/104/99/tIV], § 402(d)(6)(A)(ii), Jan. 26, 1996, [110 Stat. 42][/us/stat/110/42]; [Pub. L. 104–120][/us/pl/104/120], § 10(a), Mar. 28, 1996, [110 Stat. 838][/us/stat/110/838]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(4), Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 595(d), Oct. 21, 1998, [112 Stat. 2656][/us/stat/112/2656].)
 
  __References in Text__ 
 
-    [Section 1437n(e)(1)(B) of this title][/us/usc/t42/s1437n/e/1/B], referred to in subsec. (b), was repealed by [Pub. L. 105–276, title V, § 576(d)(2)][/us/pl/105/276/s576/d/2], Oct. 21, 1998, [112 Stat. 2640][/us/stat/112/2640].
+    [Section 1437n(e)(1)(B) of this title][/us/usc/t42/s1437n/e/1/B], referred to in subsec. (b), was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 576(d)(2), Oct. 21, 1998, [112 Stat. 2640][/us/stat/112/2640].
 
-    [Section 1701q of title 12][/us/usc/t12/s1701q], referred to in subsec. (d)(2)(D), was amended generally by [Pub. L. 101–625, title VIII, § 801(a)][/us/pl/101/625/s801/a], Nov. 28, 1990, [104 Stat. 4297][/us/stat/104/4297], and, as so amended, does not contain a subsec. (d)(8) or a definition of the term “related facilities”.
+    [Section 1701q of title 12][/us/usc/t12/s1701q], referred to in subsec. (d)(2)(D), was amended generally by [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 801(a), Nov. 28, 1990, [104 Stat. 4297][/us/stat/104/4297], and, as so amended, does not contain a subsec. (d)(8) or a definition of the term “related facilities”.
 
     The Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, [Pub. L. 91–646][/us/pl/91/646], Jan. 2, 1971, [84 Stat. 1894][/us/stat/84/1894], as amended, which is classified principally to chapter 61 (§ 4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title][/us/usc/t42/s4601] and Tables.
 
@@ -129,7 +129,7 @@
 
     1998—Subsec. (h). [Pub. L. 105–276][/us/pl/105/276] struck out heading and text of subsec. (h). Text read as follows: “The provisions of this section shall not apply with respect to low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
 
-    1996—[Pub. L. 104–330, § 501(b)(4)][/us/pl/104/330/s501/b/4], which directed amendment of “subsection 7” of the United States Housing Act of 1937, probably meaning this section, by striking subsec. (l), could not be executed because this section does not contain a subsec. (l).
+    1996—[Pub. L. 104–330][/us/pl/104/330], § 501(b)(4), which directed amendment of “subsection 7” of the United States Housing Act of 1937, probably meaning this section, by striking subsec. (l), could not be executed because this section does not contain a subsec. (l).
 
     [Pub. L. 104–120][/us/pl/104/120] amended section generally, restating former subsecs. (a) to (g) relating to designated housing as subsecs. (a) to (h) relating to designated housing for elderly and disabled families.
 
@@ -168,29 +168,29 @@
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/93/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs201%2Fa
+[/us/pl/93/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtII
 [/us/stat/88/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F662
-[/us/pl/95/557/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs412
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2110
-[/us/pl/100/242/s112/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs112%2Fb%2F3
+[/us/pl/100/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtI
 [/us/stat/101/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1824
-[/us/pl/100/358/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358%2Fs5
+[/us/pl/100/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F358
 [/us/stat/102/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F681
-[/us/pl/102/550/s622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs622%2Fa
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3813
-[/us/pl/104/99/s402/d/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs402%2Fd%2F6%2FA%2Fii
+[/us/pl/104/99/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtIV
 [/us/stat/110/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F42
-[/us/pl/104/120/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120%2Fs10%2Fa
+[/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/stat/110/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F838
-[/us/pl/104/330/s501/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F4
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4042
-[/us/pl/105/276/s595/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs595%2Fd
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2656
 [/us/usc/t42/s1437n/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437n%2Fe%2F1%2FB
-[/us/pl/105/276/s576/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs576%2Fd%2F2
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2640
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/101/625/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs801%2Fa
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4297
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
@@ -200,7 +200,7 @@
 [/us/usc/t42/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1407
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/104/330/s501/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F4
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
 [/us/pl/104/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F120

@@ -175,7 +175,7 @@
 
         There are authorized to be appropriated to the Secretary to carry out the program required by this section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
 
-([Pub. L. 102–486, title XII, § 1211][/us/pl/102/486/s1211], Oct. 24, 1992, [106 Stat. 2965][/us/stat/106/2965].)
+([Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1211, Oct. 24, 1992, [106 Stat. 2965][/us/stat/106/2965].)
 
 ----------
 
@@ -185,7 +185,7 @@
 ----------
 
 [/us/usc/t42/s6276/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6276%2Fd
-[/us/pl/102/486/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1211
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2965
 
 

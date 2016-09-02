@@ -45,11 +45,11 @@
 
         The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession over which the United States has jurisdiction.
 
-([Pub. L. 96–510, title IV, § 401][/us/pl/96/510/s401], as added [Pub. L. 99–499, title II, § 210(a)][/us/pl/99/499/s210/a], formerly § 210, Oct. 17, 1986, [100 Stat. 1716][/us/stat/100/1716]; renumbered § 210(a), [Pub. L. 99–563, § 11(c)(1)][/us/pl/99/563/s11/c/1], Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177].)
+([Pub. L. 96–510, title IV][/us/pl/96/510/tIV], § 401, as added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 210(a), formerly § 210, Oct. 17, 1986, [100 Stat. 1716][/us/stat/100/1716]; renumbered § 210(a), [Pub. L. 99–563][/us/pl/99/563], § 11(c)(1), Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177].)
 
  __State Powers and Authorities Under Risk Retention Amendments of 1986__ 
 
-[Pub. L. 99–499, title II, § 210(b)][/us/pl/99/499/s210/b], as added by [Pub. L. 99–563, § 11(c)(1)][/us/pl/99/563/s11/c/1], Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177], provided that: 
+[Pub. L. 99–499, title II][/us/pl/99/499/tII], § 210(b), as added by [Pub. L. 99–563][/us/pl/99/563], § 11(c)(1), Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177], provided that: 
 
 > “For purposes of subsection (a) of this section \[enacting this subchapter\], the powers and authorities of States addressed by the Risk Retention Amendments of 1986 \[[Pub. L. 99–563][/us/pl/99/563], see Short Title of 1986 Amendment note set out under [section 3901 of Title 15][/us/usc/t15/s3901], Commerce and Trade\] are in addition to those of this Act \[see Short Title of 1986 Amendment note set out under [section 9601 of this title][/us/usc/t42/s9601]\].”
 
@@ -60,13 +60,13 @@
 ----------
 ----------
 
-[/us/pl/96/510/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs401
-[/us/pl/99/499/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs210%2Fa
+[/us/pl/96/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIV
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1716
-[/us/pl/99/563/s11/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs11%2Fc%2F1
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3177
-[/us/pl/99/499/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs210%2Fb
-[/us/pl/99/563/s11/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs11%2Fc%2F1
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3177
 [/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/usc/t15/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3901

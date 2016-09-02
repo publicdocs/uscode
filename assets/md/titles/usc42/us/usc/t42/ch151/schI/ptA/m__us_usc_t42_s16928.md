@@ -17,7 +17,7 @@
 
     The Attorney General, in consultation with the Secretary of State and the Secretary of Homeland Security, shall establish and maintain a system for informing the relevant jurisdictions about persons entering the United States who are required to register under this subchapter. The Secretary of State and the Secretary of Homeland Security shall provide such information and carry out such functions as the Attorney General may direct in the operation of the system.
 
-([Pub. L. 109–248, title I, § 128][/us/pl/109/248/s128], July 27, 2006, [120 Stat. 600][/us/stat/120/600].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 128, July 27, 2006, [120 Stat. 600][/us/stat/120/600].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs128
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F600
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

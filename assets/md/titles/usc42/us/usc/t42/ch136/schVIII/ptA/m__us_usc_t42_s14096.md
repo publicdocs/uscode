@@ -87,7 +87,7 @@
 
         An applicant may be admitted into a State Police Corps program either before commencement of or during the applicant’s course of educational study.
 
-([Pub. L. 103–322, title XX, § 200107][/us/pl/103/322/s200107], Sept. 13, 1994, [108 Stat. 2052][/us/stat/108/2052].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200107, Sept. 13, 1994, [108 Stat. 2052][/us/stat/108/2052].)
 
 ----------
 
@@ -99,7 +99,7 @@
 [/us/usc/t42/s14099/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14099%2F5
 [/us/usc/t42/s14098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14098
 [/us/usc/t42/s14098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14098
-[/us/pl/103/322/s200107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200107
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2052
 
 

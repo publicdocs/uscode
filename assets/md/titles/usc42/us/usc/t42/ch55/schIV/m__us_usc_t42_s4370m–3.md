@@ -23,7 +23,7 @@
 
         For the purpose of this subchapter, a regional infrastructure development agency referred to in subsection (a) shall have the same authorities and responsibilities of a State agency.
 
-([Pub. L. 114–94, div. D, title XLI, § 41004][/us/pl/114/94/s41004], Dec. 4, 2015, [129 Stat. 1755][/us/stat/129/1755].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41004, Dec. 4, 2015, [129 Stat. 1755][/us/stat/129/1755].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s4370m–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m%E2%80%935
-[/us/pl/114/94/s41004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41004
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1755
 
 

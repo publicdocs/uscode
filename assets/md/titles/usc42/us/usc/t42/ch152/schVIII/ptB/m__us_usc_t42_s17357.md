@@ -29,7 +29,7 @@
 
             The Foundation shall notify the appropriate congressional committees not less than 15 days prior to an allocation or transfer of funds pursuant to paragraph (1).
 
-([Pub. L. 110–140, title IX, § 927][/us/pl/110/140/s927], Dec. 19, 2007, [121 Stat. 1738][/us/stat/121/1738].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 927, Dec. 19, 2007, [121 Stat. 1738][/us/stat/121/1738].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs927
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1738
 
 

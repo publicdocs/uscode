@@ -63,7 +63,7 @@
 
         Upon the filing of a request therefor as herein prescribed, the Secretary of Housing and Urban Development may (subject to the provisions of this section except the provisions of subsection (d) hereof) relinquish and transfer to any municipality, without monetary consideration other than payment for the land involved as specifically required by subsection (b) hereof, all right, title, and interest of the United States in and with respect to unoccupied temporary housing of masonry construction located in such municipality: Provided, That such housing has been wholly or partially stripped of trim and fixtures prior to April 20, 1950 and the municipality adopts a resolution determining that the structures, with proposed improvements, will be suitable for long-term housing use.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 601, as added [June 28, 1948, ch. 688, § 7][/us/act/1948-06-28/ch688/s7], as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended Ex. Ord. No. 10284, §§ 1, 2, eff. Sept. 4, 1951, 16 F.R. 8971; [Oct. 26, 1951, ch. 577, § 2][/us/act/1951-10-26/ch577/s2], [65 Stat. 648][/us/stat/65/648]; Ex. Ord. No. 10339, eff. Apr. 7, 1952, 17 F.R. 3012; Ex. Ord. No. 10395, eff. Sept. 19, 1952, 17 F.R. 8449; Ex. Ord. No. 10425, eff. Jan. 16, 1953, 18 F.R. 405; [Feb. 15, 1956, ch. 35][/us/act/1956-02-15/ch35], [70 Stat. 15][/us/stat/70/15]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 102–54, § 13(q)(6)(A)][/us/pl/102/54/s13/q/6/A], June 13, 1991, [105 Stat. 280][/us/stat/105/280].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 601, as added [June 28, 1948, ch. 688][/us/act/1948-06-28/ch688], § 7, as added [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title II, § 201, [64 Stat. 59][/us/stat/64/59]; amended Ex. Ord. No. 10284, §§ 1, 2, eff. Sept. 4, 1951, 16 F.R. 8971; [Oct. 26, 1951, ch. 577][/us/act/1951-10-26/ch577], § 2, [65 Stat. 648][/us/stat/65/648]; Ex. Ord. No. 10339, eff. Apr. 7, 1952, 17 F.R. 3012; Ex. Ord. No. 10395, eff. Sept. 19, 1952, 17 F.R. 8449; Ex. Ord. No. 10425, eff. Jan. 16, 1953, 18 F.R. 405; [Feb. 15, 1956, ch. 35][/us/act/1956-02-15/ch35], [70 Stat. 15][/us/stat/70/15]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 102–54][/us/pl/102/54], § 13(q)(6)(A), June 13, 1991, [105 Stat. 280][/us/stat/105/280].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
  __Transfer of Functions__ 
 
-    Functions of Housing and Home Finance Agency and head thereof transferred to Secretary of Housing and Urban Development by [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669], which is classified to [section 3534(a) of this title][/us/usc/t42/s3534/a]. Section 9(c) of such act, set out as a note under [section 3531 of this title][/us/usc/t42/s3531], provided that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
+    Functions of Housing and Home Finance Agency and head thereof transferred to Secretary of Housing and Urban Development by [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669], which is classified to [section 3534(a) of this title][/us/usc/t42/s3534/a]. Section 9(c) of such act, set out as a note under [section 3531 of this title][/us/usc/t42/s3531], provided that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
 
  __Executive Order No. 10284__ 
 
@@ -114,21 +114,21 @@
 [/us/usc/t42/s1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1572
 [/us/usc/t42/s1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1553
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
-[/us/act/1948-06-28/ch688/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688%2Fs7
+[/us/act/1948-06-28/ch688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch688
 [/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
 [/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
-[/us/act/1951-10-26/ch577/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch577%2Fs2
+[/us/act/1951-10-26/ch577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch577
 [/us/stat/65/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F648
 [/us/act/1956-02-15/ch35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-15%2Fch35
 [/us/stat/70/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F15
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
-[/us/pl/102/54/s13/q/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fq%2F6%2FA
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F280
 [/us/usc/t42/s1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1572
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s3534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3534%2Fa
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531

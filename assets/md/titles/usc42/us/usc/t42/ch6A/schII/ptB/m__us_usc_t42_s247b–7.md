@@ -41,15 +41,15 @@
 
         Amounts appropriated for a fiscal year for contracts under subsection (a) of this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were appropriated.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317F, as added [Pub. L. 103–183, title VII, § 703][/us/pl/103/183/s703], Dec. 14, 1993, [107 Stat. 2240][/us/stat/107/2240]; amended [Pub. L. 105–392, title IV, § 406][/us/pl/105/392/s406], Nov. 13, 1998, [112 Stat. 3588][/us/stat/112/3588].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317F, as added [Pub. L. 103–183, title VII][/us/pl/103/183/tVII], § 703, Dec. 14, 1993, [107 Stat. 2240][/us/stat/107/2240]; amended [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 406, Nov. 13, 1998, [112 Stat. 3588][/us/stat/112/3588].)
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1). [Pub. L. 105–392, § 406(1)][/us/pl/105/392/s406/1], substituted “$35,000” for “$20,000”.
+    1998—Subsec. (a)(1). [Pub. L. 105–392][/us/pl/105/392], § 406(1), substituted “$35,000” for “$20,000”.
 
-    Subsec. (c). [Pub. L. 105–392, § 406(2)][/us/pl/105/392/s406/2], substituted “2002” for “1998”.
+    Subsec. (c). [Pub. L. 105–392][/us/pl/105/392], § 406(2), substituted “2002” for “1998”.
 
-    Subsec. (d). [Pub. L. 105–392, § 406(3)][/us/pl/105/392/s406/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–392][/us/pl/105/392], § 406(3), added subsec. (d).
 
 ----------
 
@@ -59,12 +59,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/183/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs703
+[/us/pl/103/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVII
 [/us/stat/107/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2240
-[/us/pl/105/392/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs406
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3588
-[/us/pl/105/392/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs406%2F1
-[/us/pl/105/392/s406/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs406%2F2
-[/us/pl/105/392/s406/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs406%2F3
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 
 

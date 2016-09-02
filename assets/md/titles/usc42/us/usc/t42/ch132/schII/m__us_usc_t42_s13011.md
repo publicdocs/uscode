@@ -21,7 +21,7 @@
 
     (2) in 2003, Court Appointed Special Advocate volunteers represented 288,000 children, more than 50 percent of the estimated 540,000 children in foster care because of substantiated cases of child abuse or neglect.
 
-([Pub. L. 101–647, title II, § 215][/us/pl/101/647/s215], Nov. 29, 1990, [104 Stat. 4794][/us/stat/104/4794]; [Pub. L. 109–162, title I, § 112(a)][/us/pl/109/162/s112/a], Jan. 5, 2006, [119 Stat. 2985][/us/stat/119/2985].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 215, Nov. 29, 1990, [104 Stat. 4794][/us/stat/104/4794]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 112(a), Jan. 5, 2006, [119 Stat. 2985][/us/stat/119/2985].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/101/647/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs215
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4794
-[/us/pl/109/162/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs112%2Fa
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2985
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 

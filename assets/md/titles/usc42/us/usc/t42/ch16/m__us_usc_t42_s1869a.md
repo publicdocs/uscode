@@ -17,7 +17,7 @@
 
     After August 9, 1975, the Director of the National Science Foundation, shall require, as a condition of any award made by the National Science Foundation for the purpose of precollege science or engineering curriculum development activities, that the awardee, and any subcontractors involved in the distribution, marketing, or selling of such science or engineering curricula, shall include in any testing agreement, sales contract, or other comparable legal instrument a provision requiring that all instructional materials, including teacher’s manuals, films, tapes, or other supplementary instructional materials developed or provided under such award, subcontract, or other legal instrument, will be made available within the school district using such materials for inspection by parents or guardians of children engaged in educational programs or projects of that school district. In addition, the Director of the National Science Foundation shall take such action as may be necessary and feasible to modify awards made for the purpose of precollege science or engineering curriculum development and implementation activities on or before August 9, 1975, to include such a provision in all possible cases.
 
-([Pub. L. 94–86, § 2(b)][/us/pl/94/86/s2/b], Aug. 9, 1975, [89 Stat. 428][/us/stat/89/428]; [Pub. L. 99–159, title I, § 110(b)][/us/pl/99/159/s110/b], Nov. 22, 1985, [99 Stat. 892][/us/stat/99/892].)
+([Pub. L. 94–86][/us/pl/94/86], § 2(b), Aug. 9, 1975, [89 Stat. 428][/us/stat/89/428]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 110(b), Nov. 22, 1985, [99 Stat. 892][/us/stat/99/892].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/94/86/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86%2Fs2%2Fb
+[/us/pl/94/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F86
 [/us/stat/89/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F428
-[/us/pl/99/159/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fb
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F892
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 

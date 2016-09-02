@@ -105,7 +105,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 95–216, title III, § 361][/us/pl/95/216/s361], Dec. 20, 1977, [91 Stat. 1556][/us/stat/91/1556]; [Pub. L. 96–265, title V, § 502][/us/pl/96/265/s502], June 9, 1980, [94 Stat. 470][/us/stat/94/470]; [Pub. L. 98–369, div. B, title III, § 2349(b)(3)][/us/pl/98/369/s2349/b/3], July 18, 1984, [98 Stat. 1097][/us/stat/98/1097].)
+([Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 361, Dec. 20, 1977, [91 Stat. 1556][/us/stat/91/1556]; [Pub. L. 96–265, title V][/us/pl/96/265/tV], § 502, June 9, 1980, [94 Stat. 470][/us/stat/94/470]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2349(b)(3), July 18, 1984, [98 Stat. 1097][/us/stat/98/1097].)
 
  __References in Text__ 
 
@@ -119,13 +119,13 @@
 
     1984—Subsec. (i). [Pub. L. 98–369][/us/pl/98/369] struck out subsec. (i) which provided for notice of and attendance at meetings of the Health Insurance Benefits Advisory Council.
 
-    1980—Subsec. (a)(2)(F). [Pub. L. 96–265, § 502(a)][/us/pl/96/265/s502/a], substituted “a term which shall end on April 1, 1981” for “a term of two years”.
+    1980—Subsec. (a)(2)(F). [Pub. L. 96–265][/us/pl/96/265], § 502(a), substituted “a term which shall end on April 1, 1981” for “a term of two years”.
 
-    Subsec. (c)(2). [Pub. L. 96–265, § 502(b)][/us/pl/96/265/s502/b], substituted “and the Commission shall cease to exist on April 1, 1981” for “and upon the submission of such final report the Commission shall cease to exist”.
+    Subsec. (c)(2). [Pub. L. 96–265][/us/pl/96/265], § 502(b), substituted “and the Commission shall cease to exist on April 1, 1981” for “and upon the submission of such final report the Commission shall cease to exist”.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. B, title III, § 2349(c)][/us/pl/98/369/s2349/c], July 18, 1984, [98 Stat. 1097][/us/stat/98/1097], provided that: 
+[Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2349(c), July 18, 1984, [98 Stat. 1097][/us/stat/98/1097], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1395z of this title][/us/usc/t42/s1395z] and [section 231f of Title 45][/us/usc/t45/s231f], Railroads, and repealing [section 1395dd of this title][/us/usc/t42/s1395dd]\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -136,17 +136,17 @@
 ----------
 ----------
 
-[/us/pl/95/216/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs361
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1556
-[/us/pl/96/265/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs502
+[/us/pl/96/265/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtV
 [/us/stat/94/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F470
-[/us/pl/98/369/s2349/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2349%2Fb%2F3
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1097
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/96/265/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs502%2Fa
-[/us/pl/96/265/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs502%2Fb
-[/us/pl/98/369/s2349/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2349%2Fc
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1097
 [/us/usc/t42/s1395z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395z
 [/us/usc/t45/s231f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231f

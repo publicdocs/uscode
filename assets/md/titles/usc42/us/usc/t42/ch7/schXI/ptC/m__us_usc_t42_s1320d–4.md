@@ -63,11 +63,11 @@
 
             (B) receiving standard data elements through a health care clearinghouse.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1175, as added [Pub. L. 104–191, title II, § 262(a)][/us/pl/104/191/s262/a], Aug. 21, 1996, [110 Stat. 2027][/us/stat/110/2027].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1175, as added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 262(a), Aug. 21, 1996, [110 Stat. 2027][/us/stat/110/2027].)
 
  __Extension of Deadline for Covered Entities Submitting Compliance Plans__ 
 
-[Pub. L. 107–105, § 2][/us/pl/107/105/s2], Dec. 27, 2001, [115 Stat. 1003][/us/stat/115/1003], provided that:
+[Pub. L. 107–105][/us/pl/107/105], § 2, Dec. 27, 2001, [115 Stat. 1003][/us/stat/115/1003], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -222,9 +222,9 @@
 
 [/us/usc/t42/s1320d–2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fa%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/191/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs262%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2027
-[/us/pl/107/105/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F105%2Fs2
+[/us/pl/107/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F105
 [/us/stat/115/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1003
 [/us/usc/t42/s1320d–4/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%934%2Fb%2F1%2FA
 [/us/usc/t42/s1320d–1/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%931%2Fc%2F3%2FB

@@ -79,7 +79,7 @@
 
         Beginning in fiscal year 2002, each system established in a State pursuant to this part shall annually prepare and transmit to the Secretary a report that describes the activities, accomplishments, and expenditures of the system during the preceding fiscal year, including a description of the system’s goals, the extent to which the goals were achieved, barriers to their achievement, the process used to obtain public input, the nature of such input, and how such input was used.
 
-([Pub. L. 106–402, title I, § 144][/us/pl/106/402/s144], Oct. 30, 2000, [114 Stat. 1717][/us/stat/114/1717].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 144, Oct. 30, 2000, [114 Stat. 1717][/us/stat/114/1717].)
 
 ----------
 
@@ -91,7 +91,7 @@
 [/us/usc/t42/s15043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15043
 [/us/usc/t42/s15024/c/4/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15024%2Fc%2F4%2FA%2Fii%2FI
 [/us/usc/t42/s14404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14404
-[/us/pl/106/402/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs144
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1717
 
 

@@ -109,7 +109,7 @@
 
         Nothing in this section shall be construed to limit or otherwise supplant any other authorities or responsibilities provided by law to privacy officers or civil liberties officers.
 
-([Pub. L. 108–458, title I, § 1062][/us/pl/108/458/s1062], Dec. 17, 2004, [118 Stat. 3688][/us/stat/118/3688]; [Pub. L. 110–53, title VIII, § 803(a)][/us/pl/110/53/s803/a], Aug. 3, 2007, [121 Stat. 360][/us/stat/121/360]; [Pub. L. 113–126, title III, § 329(b)(4)][/us/pl/113/126/s329/b/4], July 7, 2014, [128 Stat. 1406][/us/stat/128/1406].)
+([Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1062, Dec. 17, 2004, [118 Stat. 3688][/us/stat/118/3688]; [Pub. L. 110–53, title VIII][/us/pl/110/53/tVIII], § 803(a), Aug. 3, 2007, [121 Stat. 360][/us/stat/121/360]; [Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 329(b)(4), July 7, 2014, [128 Stat. 1406][/us/stat/128/1406].)
 
  __Amendments__ 
 
@@ -125,11 +125,11 @@
 ----------
 
 [/us/usc/t42/s2000ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ee
-[/us/pl/108/458/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1062
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3688
-[/us/pl/110/53/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs803%2Fa
+[/us/pl/110/53/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVIII
 [/us/stat/121/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F360
-[/us/pl/113/126/s329/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F4
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1406
 [/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53

@@ -85,7 +85,7 @@
 
         (2) Notwithstanding paragraph (1) the court in any action under this subsection  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “this section”. </sup></sup>  to apply civil penalties shall have discretion to order that such civil penalties, in lieu of being deposited in the fund referred to in paragraph (1), be used in beneficial mitigation projects which are consistent with this chapter and enhance the public health or the environment. The court shall obtain the view of the Administrator in exercising such discretion and selecting any such projects. The amount of any such payment in any such action shall not exceed $100,000.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 304, as added [Pub. L. 91–604, § 12(a)][/us/pl/91/604/s12/a], Dec. 31, 1970, [84 Stat. 1706][/us/stat/84/1706]; amended [Pub. L. 95–95, title III, § 303(a)][/us/pl/95/95/s303/a]–(c), Aug. 7, 1977, [91 Stat. 771][/us/stat/91/771], 772; [Pub. L. 95–190, § 14(a)][/us/pl/95/190/s14/a] (77), (78), Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; [Pub. L. 101–549, title III, § 302(f)][/us/pl/101/549/s302/f], title VII, § 707(a)–(g), Nov. 15, 1990, [104 Stat. 2574][/us/stat/104/2574], 2682, 2683.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 304, as added [Pub. L. 91–604][/us/pl/91/604], § 12(a), Dec. 31, 1970, [84 Stat. 1706][/us/stat/84/1706]; amended [Pub. L. 95–95, title III][/us/pl/95/95/tIII], § 303(a)–(c), Aug. 7, 1977, [91 Stat. 771][/us/stat/91/771], 772; [Pub. L. 95–190][/us/pl/95/190], § 14(a) (77), (78), Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; [Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 302(f), title VII, § 707(a)–(g), Nov. 15, 1990, [104 Stat. 2574][/us/stat/104/2574], 2682, 2683.)
 
  __References in Text__ 
 
@@ -101,35 +101,35 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–549, § 707(a)][/us/pl/101/549/s707/a], (f), in closing provisions, inserted before period at end “, and to apply any appropriate civil penalties (except for actions under paragraph (2))” and inserted sentences at end giving courts jurisdiction to compel agency action unreasonably delayed and requiring 180 days notice prior to commencement of action.
+    1990—Subsec. (a). [Pub. L. 101–549][/us/pl/101/549], § 707(a), (f), in closing provisions, inserted before period at end “, and to apply any appropriate civil penalties (except for actions under paragraph (2))” and inserted sentences at end giving courts jurisdiction to compel agency action unreasonably delayed and requiring 180 days notice prior to commencement of action.
 
-    Subsec. (a)(1), (3). [Pub. L. 101–549, § 707(g)][/us/pl/101/549/s707/g], inserted “to have violated (if there is evidence that the alleged violation has been repeated) or” before “to be in violation”.
+    Subsec. (a)(1), (3). [Pub. L. 101–549][/us/pl/101/549], § 707(g), inserted “to have violated (if there is evidence that the alleged violation has been repeated) or” before “to be in violation”.
 
-    Subsec. (b). [Pub. L. 101–549, § 302(f)][/us/pl/101/549/s302/f], substituted “section 7412(i)(3)(A) or (f)(4)” for “section 7412(c)(1)(B)” in closing provisions.
+    Subsec. (b). [Pub. L. 101–549][/us/pl/101/549], § 302(f), substituted “section 7412(i)(3)(A) or (f)(4)” for “section 7412(c)(1)(B)” in closing provisions.
 
-    Subsec. (c)(2). [Pub. L. 101–549, § 707(c)][/us/pl/101/549/s707/c], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In such action under this section, the Administrator, if not a party, may intervene as a matter of right.”
+    Subsec. (c)(2). [Pub. L. 101–549][/us/pl/101/549], § 707(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In such action under this section, the Administrator, if not a party, may intervene as a matter of right.”
 
-    Subsec. (c)(3). [Pub. L. 101–549, § 707(d)][/us/pl/101/549/s707/d], added subsec. (c)(3).
+    Subsec. (c)(3). [Pub. L. 101–549][/us/pl/101/549], § 707(d), added subsec. (c)(3).
 
-    Subsec. (f)(3). [Pub. L. 101–549, § 707(e)][/us/pl/101/549/s707/e], struck out “any condition or requirement of [section 7413(d) of this title][/us/usc/t42/s7413/d] (relating to certain enforcement orders)” before “, [section 7419 of this title][/us/usc/t42/s7419]”, substituted “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, and substituted “; or” for period at end.
+    Subsec. (f)(3). [Pub. L. 101–549][/us/pl/101/549], § 707(e), struck out “any condition or requirement of [section 7413(d) of this title][/us/usc/t42/s7413/d] (relating to certain enforcement orders)” before “, [section 7419 of this title][/us/usc/t42/s7419]”, substituted “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, and substituted “; or” for period at end.
 
-    Subsec. (f)(4). [Pub. L. 101–549, § 707(e)][/us/pl/101/549/s707/e], which directed that par. (4) be added at end of subsec. (f), was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
+    Subsec. (f)(4). [Pub. L. 101–549][/us/pl/101/549], § 707(e), which directed that par. (4) be added at end of subsec. (f), was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
 
-    Subsec. (g). [Pub. L. 101–549, § 707(b)][/us/pl/101/549/s707/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–549][/us/pl/101/549], § 707(b), added subsec. (g).
 
-    1977—Subsec. (a)(3). [Pub. L. 95–190, § 14(a)(77)][/us/pl/95/190/s14/a/77], inserted “or modified” after “new”.
+    1977—Subsec. (a)(3). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(77), inserted “or modified” after “new”.
 
-    [Pub. L. 95–95, § 303(a)][/us/pl/95/95/s303/a], added subsec. (a)(3).
+    [Pub. L. 95–95][/us/pl/95/95], § 303(a), added subsec. (a)(3).
 
-    Subsec. (e). [Pub. L. 95–95, § 303(c)][/us/pl/95/95/s303/c], inserted provisions which prohibited any construction of this section or any other law of the United States which would prohibit, exclude, or restrict any State, local, or interstate authority from bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court against the United States or bringing any administrative enforcement action or obtaining any administrative remedy or sanction against the United States in any State or local administrative agency, department, or instrumentality under State or local law.
+    Subsec. (e). [Pub. L. 95–95][/us/pl/95/95], § 303(c), inserted provisions which prohibited any construction of this section or any other law of the United States which would prohibit, exclude, or restrict any State, local, or interstate authority from bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court against the United States or bringing any administrative enforcement action or obtaining any administrative remedy or sanction against the United States in any State or local administrative agency, department, or instrumentality under State or local law.
 
-    Subsec. (f)(3). [Pub. L. 95–190, § 14(a)(78)][/us/pl/95/190/s14/a/78], inserted “, or” after “(relating to ozone protection)”, substituted “any condition or requirement under an” for “requirements under an”, and struck out “or” before “section 7491”.
+    Subsec. (f)(3). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(78), inserted “, or” after “(relating to ozone protection)”, substituted “any condition or requirement under an” for “requirements under an”, and struck out “or” before “section 7491”.
 
-    [Pub. L. 95–95, § 303(b)][/us/pl/95/95/s303/b], added par. (3).
+    [Pub. L. 95–95][/us/pl/95/95], § 303(b), added par. (3).
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–549, title VII, § 707(g)][/us/pl/101/549/s707/g], Nov. 15, 1990, [104 Stat. 2683][/us/stat/104/2683], provided that: 
+[Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 707(g), Nov. 15, 1990, [104 Stat. 2683][/us/stat/104/2683], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect with respect to actions brought after the date 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].”
 
@@ -164,33 +164,33 @@
 [/us/usc/t42/s7491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7491
 [/us/usc/t42/s7418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7418
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs12%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1706
-[/us/pl/95/95/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs303%2Fa
+[/us/pl/95/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtIII
 [/us/stat/91/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F771
-[/us/pl/95/190/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1404
-[/us/pl/101/549/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Ff
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2574
 [/us/usc/t42/s1857h–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857h%E2%80%932
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7611
-[/us/pl/101/549/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs707%2Fa
-[/us/pl/101/549/s707/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs707%2Fg
-[/us/pl/101/549/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Ff
-[/us/pl/101/549/s707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs707%2Fc
-[/us/pl/101/549/s707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs707%2Fd
-[/us/pl/101/549/s707/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs707%2Fe
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
-[/us/pl/101/549/s707/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs707%2Fe
-[/us/pl/101/549/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs707%2Fb
-[/us/pl/95/190/s14/a/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F77
-[/us/pl/95/95/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs303%2Fa
-[/us/pl/95/95/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs303%2Fc
-[/us/pl/95/190/s14/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F78
-[/us/pl/95/95/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs303%2Fb
-[/us/pl/101/549/s707/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs707%2Fg
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2683
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd

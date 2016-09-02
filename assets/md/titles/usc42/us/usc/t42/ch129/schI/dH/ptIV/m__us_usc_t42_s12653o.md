@@ -61,11 +61,11 @@
 
         (12) carry out such other activities as the Chief Executive Officer determines to be appropriate.
 
-([Pub. L. 101–610, title I, § 198O][/us/pl/101/610/s198O], as added [Pub. L. 111–13, title I, § 1808][/us/pl/111/13/s1808], Apr. 21, 2009, [123 Stat. 1572][/us/stat/123/1572].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 198O, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1808, Apr. 21, 2009, [123 Stat. 1572][/us/stat/123/1572].)
 
  __Prior Provisions__ 
 
-    A prior section 12653o, [Pub. L. 101–610, title I, § 195O][/us/pl/101/610/s195O], as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)][/us/pl/102/484/s1092/a/1], Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532], which defined terms used in former part H of this subchapter, was renumbered [section 166 of Pub. L. 101–610][/us/pl/101/610/s166] and transferred to [section 12626 of this title][/us/usc/t42/s12626] and subsequently renumbered [section 165 of Pub. L. 101–610][/us/pl/101/610/s165] by [section 1516(1) of Pub. L. 111–13][/us/pl/111/13/s1516/1].
+    A prior section 12653o, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 195O, as added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1092(a)(1), Oct. 23, 1992, [106 Stat. 2532][/us/stat/106/2532], which defined terms used in former part H of this subchapter, was renumbered [section 166 of Pub. L. 101–610][/us/pl/101/610/s166] and transferred to [section 12626 of this title][/us/usc/t42/s12626] and subsequently renumbered [section 165 of Pub. L. 101–610][/us/pl/101/610/s165] by [section 1516(1) of Pub. L. 111–13][/us/pl/111/13/s1516/1].
 
  __Effective Date__ 
 
@@ -78,11 +78,11 @@
 ----------
 ----------
 
-[/us/pl/101/610/s198O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198O
-[/us/pl/111/13/s1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1808
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1572
-[/us/pl/101/610/s195O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs195O
-[/us/pl/102/484/s1092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1092%2Fa%2F1
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2532
 [/us/pl/101/610/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs166
 [/us/usc/t42/s12626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12626

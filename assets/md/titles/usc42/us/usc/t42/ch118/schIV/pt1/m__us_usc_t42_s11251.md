@@ -53,7 +53,7 @@
 
         (2) ensure that the research is coordinated with, and uses, to the maximum extent feasible, resources of, other Federal programs relating to Alzheimer’s disease and dementia, including centers supported under [section 285e–2 of this title][/us/usc/t42/s285e–2], centers supported by the National Institute of Mental Health on the psychopathology of the elderly, relevant activities of the Administration on Aging, other programs and centers involved in research on Alzheimer’s disease and related dementias supported by the Department, and other programs relating to Alzheimer’s disease and related dementias which are planned or conducted by Federal agencies other than the Department, State or local agencies, community organizations, or private foundations.
 
-([Pub. L. 99–660, title IX, § 931][/us/pl/99/660/s931], formerly § 944, Nov. 14, 1986, [100 Stat. 3809][/us/stat/100/3809]; renumbered § 931, [Pub. L. 100–607, title I, § 142(c)(2)(B)][/us/pl/100/607/s142/c/2/B], Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057]; [Pub. L. 102–507, § 7(a)(1)][/us/pl/102/507/s7/a/1], (2), Oct. 24, 1992, [106 Stat. 3284][/us/stat/106/3284].)
+([Pub. L. 99–660, title IX][/us/pl/99/660/tIX], § 931, formerly § 944, Nov. 14, 1986, [100 Stat. 3809][/us/stat/100/3809]; renumbered § 931, [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 142(c)(2)(B), Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057]; [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1), (2), Oct. 24, 1992, [106 Stat. 3284][/us/stat/106/3284].)
 
  __Prior Provisions__ 
 
@@ -61,25 +61,25 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–507, § 7(a)(1)(B)][/us/pl/102/507/s7/a/1/B], inserted “and specialized care” after “services”.
+    1992—Subsec. (a). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1)(B), inserted “and specialized care” after “services”.
 
-    Subsec. (b). [Pub. L. 102–507, § 7(a)(2)][/us/pl/102/507/s7/a/2], designated par. (1) as entire subsec. and redesignated former par. (1)(A) as par. (1), former par. (1)(A)(i) to (vii) as par. (1)(A) to (G), respectively, former par. (1)(A)(iii)(I) to (IV) as par. (1)(C)(i) to (iv), respectively, and former par. (1)(B) as par. (2).
+    Subsec. (b). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(2), designated par. (1) as entire subsec. and redesignated former par. (1)(A) as par. (1), former par. (1)(A)(i) to (vii) as par. (1)(A) to (G), respectively, former par. (1)(A)(iii)(I) to (IV) as par. (1)(C)(i) to (iv), respectively, and former par. (1)(B) as par. (2).
 
-    Subsec. (b)(1). [Pub. L. 102–507, § 7(a)(1)(C)(i)][/us/pl/102/507/s7/a/1/C/i], substituted “The Director of the National Institute of Mental Health shall” for “Within 6 months after November 14, 1986, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council a plan for the research to be conducted under subsection (a) of this section. The plan shall” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1)(C)(i), substituted “The Director of the National Institute of Mental Health shall” for “Within 6 months after November 14, 1986, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council a plan for the research to be conducted under subsection (a) of this section. The plan shall” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 102–507, § 7(a)(1)(C)(ii)(I)][/us/pl/102/507/s7/a/1/C/ii/I], substituted “ensure that the research conducted under subsection (a) of this section includes” for “provide for” in introductory provisions.
+    Subsec. (b)(1)(A). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1)(C)(ii)(I), substituted “ensure that the research conducted under subsection (a) of this section includes” for “provide for” in introductory provisions.
 
-    Subsec. (b)(1)(A)(iii). [Pub. L. 102–507, § 7(a)(1)(C)(ii)(II)][/us/pl/102/507/s7/a/1/C/ii/II], added cl. (iii) and struck out former cl. (iii) which read as follows: “the optimal range and cost-effectiveness of community and institutional services for individuals with Alzheimer’s disease and related dementias and their families, particularly with respect to the design of such services, appropriate staffing for the provision of such services, the timing of such services during the progression of such disease or dementias, and the appropriate mix and coordination of such services;”.
+    Subsec. (b)(1)(A)(iii). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1)(C)(ii)(II), added cl. (iii) and struck out former cl. (iii) which read as follows: “the optimal range and cost-effectiveness of community and institutional services for individuals with Alzheimer’s disease and related dementias and their families, particularly with respect to the design of such services, appropriate staffing for the provision of such services, the timing of such services during the progression of such disease or dementias, and the appropriate mix and coordination of such services;”.
 
-    Subsec. (b)(1)(A)(iv). [Pub. L. 102–507, § 7(a)(1)(C)(ii)(III)][/us/pl/102/507/s7/a/1/C/ii/III], inserted “the evaluation of best practices for the development of” before “appropriate”.
+    Subsec. (b)(1)(A)(iv). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1)(C)(ii)(III), inserted “the evaluation of best practices for the development of” before “appropriate”.
 
-    Subsec. (b)(1)(A)(v), (vii). [Pub. L. 102–507, § 7(a)(1)(C)(ii)(IV)][/us/pl/102/507/s7/a/1/C/ii/IV], substituted “nursing home services, and other residential services and care” for “and nursing home services”.
+    Subsec. (b)(1)(A)(v), (vii). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1)(C)(ii)(IV), substituted “nursing home services, and other residential services and care” for “and nursing home services”.
 
-    Subsec. (b)(1)(B). [Pub. L. 102–507, § 7(a)(1)(C)(iii)][/us/pl/102/507/s7/a/1/C/iii], substituted “the research” for “research carried out under the plan”.
+    Subsec. (b)(1)(B). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1)(C)(iii), substituted “the research” for “research carried out under the plan”.
 
-    Subsec. (b)(2). [Pub. L. 102–507, § 7(a)(1)(A)][/us/pl/102/507/s7/a/1/A], struck out par. (2) which read as follows: “Within one year after transmitting the plan required under paragraph (1), and annually thereafter, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council such revisions of such plan as the Director considers appropriate.”
+    Subsec. (b)(2). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1)(A), struck out par. (2) which read as follows: “Within one year after transmitting the plan required under paragraph (1), and annually thereafter, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council such revisions of such plan as the Director considers appropriate.”
 
-    Subsec. (c). [Pub. L. 102–507, § 7(a)(1)(A)][/us/pl/102/507/s7/a/1/A], struck out subsec. (c) which read as follows: “In preparing and revising the plan required by subsection (b) of this section, the Director of the National Institute of Mental Health shall consult with the Chairman of the Council and the heads of agencies within the Department.”
+    Subsec. (c). [Pub. L. 102–507][/us/pl/102/507], § 7(a)(1)(A), struck out subsec. (c) which read as follows: “In preparing and revising the plan required by subsection (b) of this section, the Director of the National Institute of Mental Health shall consult with the Chairman of the Council and the heads of agencies within the Department.”
 
 ----------
 
@@ -89,25 +89,25 @@
 ----------
 
 [/us/usc/t42/s285e–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%932
-[/us/pl/99/660/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs931
+[/us/pl/99/660/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtIX
 [/us/stat/100/3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3809
-[/us/pl/100/607/s142/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fc%2F2%2FB
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
-[/us/pl/102/507/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 [/us/stat/106/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3284
 [/us/pl/99/660/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs931
 [/us/usc/t42/s11231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11231
 [/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
 [/us/usc/t42/s285e–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%934
-[/us/pl/102/507/s7/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1%2FB
-[/us/pl/102/507/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F2
-[/us/pl/102/507/s7/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1%2FC%2Fi
-[/us/pl/102/507/s7/a/1/C/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1%2FC%2Fii%2FI
-[/us/pl/102/507/s7/a/1/C/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1%2FC%2Fii%2FII
-[/us/pl/102/507/s7/a/1/C/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1%2FC%2Fii%2FIII
-[/us/pl/102/507/s7/a/1/C/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1%2FC%2Fii%2FIV
-[/us/pl/102/507/s7/a/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1%2FC%2Fiii
-[/us/pl/102/507/s7/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1%2FA
-[/us/pl/102/507/s7/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507%2Fs7%2Fa%2F1%2FA
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
+[/us/pl/102/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F507
 
 

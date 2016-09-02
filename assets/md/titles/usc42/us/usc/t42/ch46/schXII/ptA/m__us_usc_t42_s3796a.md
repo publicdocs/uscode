@@ -27,21 +27,21 @@
 
     (5) with respect to any individual employed in a capacity other than a civilian capacity.
 
-([Pub. L. 90–351, title I, § 1202][/us/pl/90/351/s1202], as added [Pub. L. 98–473, title II, § 609F][/us/pl/98/473/s609F], Oct. 12, 1984, [98 Stat. 2099][/us/stat/98/2099]; amended [Pub. L. 101–647, title XIII, § 1301(b)][/us/pl/101/647/s1301/b], Nov. 29, 1990, [104 Stat. 4834][/us/stat/104/4834]; [Pub. L. 109–162, title XI, § 1164(b)][/us/pl/109/162/s1164/b], Jan. 5, 2006, [119 Stat. 3120][/us/stat/119/3120]; [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(C)][/us/pl/112/239/s1086/b/1/C], Jan. 2, 2013, [126 Stat. 1966][/us/stat/126/1966].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1202, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609F, Oct. 12, 1984, [98 Stat. 2099][/us/stat/98/2099]; amended [Pub. L. 101–647, title XIII][/us/pl/101/647/tXIII], § 1301(b), Nov. 29, 1990, [104 Stat. 4834][/us/stat/104/4834]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1164(b), Jan. 5, 2006, [119 Stat. 3120][/us/stat/119/3120]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1086(b)(1)(C), Jan. 2, 2013, [126 Stat. 1966][/us/stat/126/1966].)
 
  __Prior Provisions__ 
 
-    A prior section 3796a, [Pub. L. 90–351, title I, § 1202][/us/pl/90/351/s1202], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1220][/us/stat/93/1220]; amended [Pub. L. 98–411, title II, § 204(a)(2)][/us/pl/98/411/s204/a/2], Aug. 30, 1984, [98 Stat. 1561][/us/stat/98/1561]; [Pub. L. 98–473, title II, § 609Z][/us/pl/98/473/s609Z], Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107], contained provisions similar to this section, prior to the general amendment of this subchapter by [section 609F of Pub. L. 98–473][/us/pl/98/473/s609F].
+    A prior section 3796a, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1202, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1220][/us/stat/93/1220]; amended [Pub. L. 98–411, title II][/us/pl/98/411/tII], § 204(a)(2), Aug. 30, 1984, [98 Stat. 1561][/us/stat/98/1561]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609Z, Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107], contained provisions similar to this section, prior to the general amendment of this subchapter by [section 609F of Pub. L. 98–473][/us/pl/98/473/s609F].
 
-    Another prior section 3796a, [Pub. L. 90–351, title I, § 702][/us/pl/90/351/s702], as added [Pub. L. 94–430, § 2][/us/pl/94/430/s2], Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], contained provisions similar to this section, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
+    Another prior section 3796a, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 702, as added [Pub. L. 94–430][/us/pl/94/430], § 2, Sept. 29, 1976, [90 Stat. 1347][/us/stat/90/1347], contained provisions similar to this section, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
-    A prior [section 1202 of Pub. L. 90–351][/us/pl/90/351/s1202], title VII, June 19, 1968, [82 Stat. 236][/us/stat/82/236], was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by [Pub. L. 99–308, § 104(b)][/us/pl/99/308/s104/b], May 19, 1986, [100 Stat. 459][/us/stat/100/459].
+    A prior [section 1202 of Pub. L. 90–351][/us/pl/90/351/s1202], title VII, June 19, 1968, [82 Stat. 236][/us/stat/82/236], was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by [Pub. L. 99–308][/us/pl/99/308], § 104(b), May 19, 1986, [100 Stat. 459][/us/stat/100/459].
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, § 1086(b)(1)(C)(i)][/us/pl/112/239/s1086/b/1/C/i], substituted “fatal” for “death” wherever appearing except in par. (1) following “bring about his”.
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 1086(b)(1)(C)(i), substituted “fatal” for “death” wherever appearing except in par. (1) following “bring about his”.
 
-    Par. (1). [Pub. L. 112–239, § 1086(b)(1)(C)(ii)][/us/pl/112/239/s1086/b/1/C/ii], substituted “bring about his death, disability, or injury” for “bring about his death or catastrophic injury”.
+    Par. (1). [Pub. L. 112–239][/us/pl/112/239], § 1086(b)(1)(C)(ii), substituted “bring about his death, disability, or injury” for “bring about his death or catastrophic injury”.
 
     2006—Par. (5). [Pub. L. 109–162][/us/pl/109/162] inserted “with respect” before “to any individual”.
 
@@ -62,33 +62,33 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1202
-[/us/pl/98/473/s609F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609F
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2099
-[/us/pl/101/647/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1301%2Fb
+[/us/pl/101/647/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXIII
 [/us/stat/104/4834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4834
-[/us/pl/109/162/s1164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1164%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3120
-[/us/pl/112/239/s1086/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fb%2F1%2FC
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1966
-[/us/pl/90/351/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1202
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1220
-[/us/pl/98/411/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2Fs204%2Fa%2F2
+[/us/pl/98/411/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2FtII
 [/us/stat/98/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1561
-[/us/pl/98/473/s609Z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609Z
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2107
 [/us/pl/98/473/s609F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609F
-[/us/pl/90/351/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs702
-[/us/pl/94/430/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F430
 [/us/stat/90/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1347
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/pl/90/351/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1202
 [/us/stat/82/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F236
-[/us/pl/99/308/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs104%2Fb
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/stat/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F459
-[/us/pl/112/239/s1086/b/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fb%2F1%2FC%2Fi
-[/us/pl/112/239/s1086/b/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fb%2F1%2FC%2Fii
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

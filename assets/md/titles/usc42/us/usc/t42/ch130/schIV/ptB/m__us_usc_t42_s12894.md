@@ -49,7 +49,7 @@
 
         Each homeownership program under this part shall provide that, in making vacant units in eligible properties available for acquisition by eligible families, preference shall be given to eligible families who reside in public or Indian housing.
 
-([Pub. L. 101–625, title IV, § 444][/us/pl/101/625/s444], Nov. 28, 1990, [104 Stat. 4176][/us/stat/104/4176]; [Pub. L. 102–550, title I, § 181(f)][/us/pl/102/550/s181/f], Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736].)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 444, Nov. 28, 1990, [104 Stat. 4176][/us/stat/104/4176]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 181(f), Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736].)
 
  __References in Text__ 
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/101/625/s444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs444
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4176
-[/us/pl/102/550/s181/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Ff
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3736
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4148

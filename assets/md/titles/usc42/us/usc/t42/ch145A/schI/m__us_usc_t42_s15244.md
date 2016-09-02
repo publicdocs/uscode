@@ -27,7 +27,7 @@
 
         The office of the Member of Congress presenting each Federal Law Enforcement Badge may make arrangements for the presentation of such Federal Law Enforcement Badge, and if a Senator and Representative choose to participate jointly as described in subsection (a), the Members shall make joint arrangements. The Federal Board shall facilitate any such presentation arrangements as requested by the congressional office presenting the Federal Law Enforcement Badge and shall make arrangements in cases not undertaken by Members of Congress.
 
-([Pub. L. 110–298, title I, § 104][/us/pl/110/298/s104], July 31, 2008, [122 Stat. 2989][/us/stat/122/2989].)
+([Pub. L. 110–298, title I][/us/pl/110/298/tI], § 104, July 31, 2008, [122 Stat. 2989][/us/stat/122/2989].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/298/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs104
+[/us/pl/110/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2FtI
 [/us/stat/122/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2989
 
 

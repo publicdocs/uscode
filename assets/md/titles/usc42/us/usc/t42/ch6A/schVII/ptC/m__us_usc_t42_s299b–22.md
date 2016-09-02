@@ -191,7 +191,7 @@
 
             Not later than 1 year after the date described in paragraph (1), the Secretary shall submit a final report to the Congress.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 922, as added [Pub. L. 109–41, § 2(a)(5)][/us/pl/109/41/s2/a/5], July 29, 2005, [119 Stat. 427][/us/stat/119/427].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 922, as added [Pub. L. 109–41][/us/pl/109/41], § 2(a)(5), July 29, 2005, [119 Stat. 427][/us/stat/119/427].)
 
  __References in Text__ 
 
@@ -216,7 +216,7 @@
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/usc/t42/s1320d–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%935
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/41/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F5
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F427
 [/us/pl/104/191/s264/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc%2F1
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932

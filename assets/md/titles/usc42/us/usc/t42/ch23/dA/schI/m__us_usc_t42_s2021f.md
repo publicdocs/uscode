@@ -69,7 +69,7 @@
 
         Any agreement under [section 2021 of this title][/us/usc/t42/s2021] shall not be applicable to the determinations of the Nuclear Regulatory Commission under this section.
 
-([Pub. L. 96–573, § 6][/us/pl/96/573/s6], as added [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1855][/us/stat/99/1855].)
+([Pub. L. 96–573][/us/pl/96/573], § 6, as added [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1855][/us/stat/99/1855].)
 
  __Codification__ 
 
@@ -85,8 +85,8 @@
 [/us/usc/t42/s2021e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021e%2Fc
 [/us/usc/t42/s2021e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021e%2Fc
 [/us/usc/t42/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2021
-[/us/pl/96/573/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs6
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1855
 
 

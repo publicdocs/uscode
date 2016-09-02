@@ -57,11 +57,11 @@
 
         The Secretary and the Secretary of Defense, and officials responsible for administering Federal or federally administered property, shall coordinate their activities under this section to assure that combined solar heating and cooling systems are installed in a substantial number of residential dwellings and in a sufficient number of geographic areas under varying climatic conditions to constitute a realistic and effective demonstration in support of the objectives of this subchapter.
 
-([Pub. L. 93–409, § 6][/us/pl/93/409/s6], Sept. 3, 1974, [88 Stat. 1072][/us/stat/88/1072]; [Pub. L. 93–438, title I, § 104(f)][/us/pl/93/438/s104/f], title III, § 301(h), Oct. 11, 1974, [88 Stat. 1238][/us/stat/88/1238], 1250; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Pub. L. 93–409][/us/pl/93/409], § 6, Sept. 3, 1974, [88 Stat. 1072][/us/stat/88/1072]; [Pub. L. 93–438, title I][/us/pl/93/438/tI], § 104(f), title III, § 301(h), Oct. 11, 1974, [88 Stat. 1238][/us/stat/88/1238], 1250; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606, 607; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
  __Codification__ 
 
-    In subsec. (d), “subchapter II of chapter 201 of title 51” substituted for “title II of the National Aeronautics and Space Act of 1958” on authority of [Pub. L. 111–314, § 5(e)][/us/pl/111/314/s5/e], Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
+    In subsec. (d), “subchapter II of chapter 201 of title 51” substituted for “title II of the National Aeronautics and Space Act of 1958” on authority of [Pub. L. 111–314][/us/pl/111/314], § 5(e), Dec. 18, 2010, [124 Stat. 3443][/us/stat/124/3443], which Act enacted Title 51, National and Commercial Space Programs.
 
  __Amendments__ 
 
@@ -78,15 +78,15 @@
 ----------
 ----------
 
-[/us/pl/93/409/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409%2Fs6
+[/us/pl/93/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F409
 [/us/stat/88/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1072
-[/us/pl/93/438/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs104%2Ff
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1238
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/111/314/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs5%2Fe
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3443
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438

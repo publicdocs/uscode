@@ -159,7 +159,7 @@
 
         (3) for each of fiscal years 2013 and 2014, $15,000,000.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2041, as added [Pub. L. 111–148, title VI, § 6703(a)(1)(C)][/us/pl/111/148/s6703/a/1/C], Mar. 23, 2010, [124 Stat. 791][/us/stat/124/791].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2041, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6703(a)(1)(C), Mar. 23, 2010, [124 Stat. 791][/us/stat/124/791].)
 
  __References in Text__ 
 
@@ -177,7 +177,7 @@
 [/us/usc/t42/s1395w–104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93104
 [/us/usc/t42/s300jj–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9314
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6703/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fa%2F1%2FC
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F791
 
 

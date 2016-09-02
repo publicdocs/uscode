@@ -153,9 +153,9 @@ Repeals  </td>
 
 </table>
 
-    [Act June 30, 1953, ch. 176, § 6][/us/act/1953-06-30/ch176/s6], [67 Stat. 135][/us/stat/67/135], repealed section 1(a)(13) of Joint Res. [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], [66 Stat. 332][/us/stat/66/332], which, as amended by Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], provided for the continuation of this chapter until July 1, 1953.
+    [Act June 30, 1953, ch. 176][/us/act/1953-06-30/ch176], § 6, [67 Stat. 135][/us/stat/67/135], repealed section 1(a)(13) of Joint Res. [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], [66 Stat. 332][/us/stat/66/332], which, as amended by Joint Res. [Mar. 31, 1953, ch. 13][/us/act/1953-03-31/ch13], § 1, [67 Stat. 18][/us/stat/67/18], provided for the continuation of this chapter until July 1, 1953.
 
-    Joint Res. [July 3, 1952, ch. 570, § 6][/us/act/1952-07-03/ch570/s6], [66 Stat. 334][/us/stat/66/334], repealed Joint Res. [Apr. 14, 1952, ch. 204][/us/act/1952-04-14/ch204], [66 Stat. 54][/us/stat/66/54], as amended by Joint Res. [May 28, 1952, ch. 339][/us/act/1952-05-28/ch339], [66 Stat. 96][/us/stat/66/96]; Joint Res. [June 14, 1952, ch. 437][/us/act/1952-06-14/ch437], [66 Stat. 137][/us/stat/66/137]; Joint Res. [June 30, 1952, ch. 526][/us/act/1952-06-30/ch526], [66 Stat. 296][/us/stat/66/296], which continued provisions until July 3, 1952. This repeal shall take effect as of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
+    Joint Res. [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], § 6, [66 Stat. 334][/us/stat/66/334], repealed Joint Res. [Apr. 14, 1952, ch. 204][/us/act/1952-04-14/ch204], [66 Stat. 54][/us/stat/66/54], as amended by Joint Res. [May 28, 1952, ch. 339][/us/act/1952-05-28/ch339], [66 Stat. 96][/us/stat/66/96]; Joint Res. [June 14, 1952, ch. 437][/us/act/1952-06-14/ch437], [66 Stat. 137][/us/stat/66/137]; Joint Res. [June 30, 1952, ch. 526][/us/act/1952-06-30/ch526], [66 Stat. 296][/us/stat/66/296], which continued provisions until July 3, 1952. This repeal shall take effect as of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
 
 ----------
 
@@ -164,13 +164,13 @@ Repeals  </td>
 ----------
 ----------
 
-[/us/act/1953-06-30/ch176/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch176%2Fs6
+[/us/act/1953-06-30/ch176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch176
 [/us/stat/67/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F135
 [/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F332
-[/us/act/1953-03-31/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13%2Fs1
+[/us/act/1953-03-31/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13
 [/us/stat/67/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F18
-[/us/act/1952-07-03/ch570/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570%2Fs6
+[/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F334
 [/us/act/1952-04-14/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-14%2Fch204
 [/us/stat/66/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F54

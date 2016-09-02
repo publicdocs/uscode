@@ -103,15 +103,15 @@
 
         (B) by substituting “$500,000”, “$410,000”, and “$335,000” for “$750,000”, “$625,000”, and “$500,000”, respectively, where they appear in paragraph (9).
 
-([Pub. L. 101–625, title II, § 216][/us/pl/101/625/s216], Nov. 28, 1990, [104 Stat. 4103][/us/stat/104/4103]; [Pub. L. 102–550, title II, § 202(a)][/us/pl/102/550/s202/a], Oct. 28, 1992, [106 Stat. 3751][/us/stat/106/3751].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 216, Nov. 28, 1990, [104 Stat. 4103][/us/stat/104/4103]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], § 202(a), Oct. 28, 1992, [106 Stat. 3751][/us/stat/106/3751].)
 
  __Amendments__ 
 
-    1992—Par. (3)(A). [Pub. L. 102–550, § 202(a)(1)][/us/pl/102/550/s202/a/1], substituted “Except as provided in paragraph (10), a jurisdiction” for “A jurisdiction”.
+    1992—Par. (3)(A). [Pub. L. 102–550][/us/pl/102/550], § 202(a)(1), substituted “Except as provided in paragraph (10), a jurisdiction” for “A jurisdiction”.
 
-    Par. (9)(B). [Pub. L. 102–550, § 202(a)(2)][/us/pl/102/550/s202/a/2], inserted “, except as provided in paragraph (10)” after “in any 1 year”.
+    Par. (9)(B). [Pub. L. 102–550][/us/pl/102/550], § 202(a)(2), inserted “, except as provided in paragraph (10)” after “in any 1 year”.
 
-    Par. (10). [Pub. L. 102–550, § 202(a)(3)][/us/pl/102/550/s202/a/3], added par. (10).
+    Par. (10). [Pub. L. 102–550][/us/pl/102/550], § 202(a)(3), added par. (10).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -119,7 +119,7 @@
 
  __Applicability of Grant Thresholds__ 
 
-[Pub. L. 102–550, title II, § 202(c)][/us/pl/102/550/s202/c], Oct. 28, 1992, [106 Stat. 3752][/us/stat/106/3752], provided that: 
+[Pub. L. 102–550, title II][/us/pl/102/550/tII], § 202(c), Oct. 28, 1992, [106 Stat. 3752][/us/stat/106/3752], provided that: 
 
 > “Notwithstanding any other provision of law, the grant thresholds provided for in section 216 \[[42 U.S.C. 12746][/us/usc/t42/s12746]\], as amended by this section, and the grant thresholds provided for in section 217(b) of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12747(b)][/us/usc/t42/s12747/b]\], as amended by this section, shall apply.”
 
@@ -143,17 +143,17 @@
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/usc/t42/s12748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12748
 [/us/usc/t42/s12724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12724
-[/us/pl/101/625/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs216
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4103
-[/us/pl/102/550/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs202%2Fa
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3751
-[/us/pl/102/550/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs202%2Fa%2F1
-[/us/pl/102/550/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs202%2Fa%2F2
-[/us/pl/102/550/s202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs202%2Fa%2F3
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs223
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704
-[/us/pl/102/550/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs202%2Fc
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3752
 [/us/usc/t42/s12746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12746
 [/us/usc/t42/s12747/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12747%2Fb

@@ -55,17 +55,17 @@
 
             Nothing in this subsection shall be construed as limiting the application of subsection (a) of this section to the programs specified in paragraph (1).
 
-([Pub. L. 105–12, § 5][/us/pl/105/12/s5], Apr. 30, 1997, [111 Stat. 25][/us/stat/111/25]; [Pub. L. 106–402, title IV, § 401(b)(15)(B)][/us/pl/106/402/s401/b/15/B], Oct. 30, 2000, [114 Stat. 1740][/us/stat/114/1740].)
+([Pub. L. 105–12][/us/pl/105/12], § 5, Apr. 30, 1997, [111 Stat. 25][/us/stat/111/25]; [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(b)(15)(B), Oct. 30, 2000, [114 Stat. 1740][/us/stat/114/1740].)
 
  __References in Text__ 
 
     The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(1)(A), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677]. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title][/us/usc/t42/s15001] and Tables.
 
-    The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (b)(1)(B), was [Pub. L. 99–319][/us/pl/99/319], May 23, 1986, [100 Stat. 478][/us/stat/100/478], as amended. [Pub. L. 99–319][/us/pl/99/319] was renamed the Protection and Advocacy for Individuals with Mental Illness Act by [Pub. L. 106–310, div. B, title XXXII, § 3206(a)][/us/pl/106/310/s3206/a], Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193], and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title][/us/usc/t42/s10801] and Tables.
+    The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (b)(1)(B), was [Pub. L. 99–319][/us/pl/99/319], May 23, 1986, [100 Stat. 478][/us/stat/100/478], as amended. [Pub. L. 99–319][/us/pl/99/319] was renamed the Protection and Advocacy for Individuals with Mental Illness Act by [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3206(a), Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193], and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title][/us/usc/t42/s10801] and Tables.
 
     The Older Americans Act of 1965, referred to in subsec. (b)(1)(D), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
-    The Legal Services Corporation Act, referred to in subsec. (b)(1)(E), is title X of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 378][/us/stat/88/378], as amended, which is classified generally to subchapter X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t42/s2701] and Tables.
+    The Legal Services Corporation Act, referred to in subsec. (b)(1)(E), is title X of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 378][/us/stat/88/378], as amended, which is classified generally to subchapter X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t42/s2701] and Tables.
 
  __Amendments__ 
 
@@ -84,9 +84,9 @@
 [/us/usc/t29/s794e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794e
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/usc/t42/s2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2996
-[/us/pl/105/12/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs5
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F25
-[/us/pl/106/402/s401/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F15%2FB
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1740
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
@@ -94,14 +94,14 @@
 [/us/pl/99/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319
 [/us/stat/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F478
 [/us/pl/99/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319
-[/us/pl/106/310/s3206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fa
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1193
 [/us/usc/t42/s10801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10801
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F378
 [/us/usc/t42/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2701
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402

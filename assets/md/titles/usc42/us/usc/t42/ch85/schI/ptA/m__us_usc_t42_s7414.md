@@ -63,11 +63,11 @@
 
         (2) Nothing in paragraph (1) shall be construed to provide that any failure of the Administrator to comply with the requirements of such paragraph shall be a defense in any enforcement action brought by the Administrator or shall make inadmissible as evidence in any such action any information or material obtained notwithstanding such failure to comply with such requirements.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 114, as added [Pub. L. 91–604, § 4(a)][/us/pl/91/604/s4/a], Dec. 31, 1970, [84 Stat. 1687][/us/stat/84/1687]; amended [Pub. L. 93–319, § 6(a)(4)][/us/pl/93/319/s6/a/4], June 22, 1974, [88 Stat. 259][/us/stat/88/259]; [Pub. L. 95–95, title I][/us/pl/95/95], §§ 109(d)(3), 113, title III, § 305(d), Aug. 7, 1977, [91 Stat. 701][/us/stat/91/701], 709, 776; [Pub. L. 95–190, § 14(a)(22)][/us/pl/95/190/s14/a/22], (23), Nov. 16, 1977, [91 Stat. 1400][/us/stat/91/1400]; [Pub. L. 101–549, title III, § 302(c)][/us/pl/101/549/s302/c], title VII, § 702(a), (b), Nov. 15, 1990, [104 Stat. 2574][/us/stat/104/2574], 2680, 2681.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 114, as added [Pub. L. 91–604][/us/pl/91/604], § 4(a), Dec. 31, 1970, [84 Stat. 1687][/us/stat/84/1687]; amended [Pub. L. 93–319][/us/pl/93/319], § 6(a)(4), June 22, 1974, [88 Stat. 259][/us/stat/88/259]; [Pub. L. 95–95, title I][/us/pl/95/95/tI], §§ 109(d)(3), 113, title III, § 305(d), Aug. 7, 1977, [91 Stat. 701][/us/stat/91/701], 709, 776; [Pub. L. 95–190][/us/pl/95/190], § 14(a)(22), (23), Nov. 16, 1977, [91 Stat. 1400][/us/stat/91/1400]; [Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 302(c), title VII, § 702(a), (b), Nov. 15, 1990, [104 Stat. 2574][/us/stat/104/2574], 2680, 2681.)
 
  __References in Text__ 
 
-    [Section 7413(d) of this title][/us/usc/t42/s7413/d], referred to in subsec. (d)(1), was amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders.
+    [Section 7413(d) of this title][/us/usc/t42/s7413/d], referred to in subsec. (d)(1), was amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders.
 
  __Codification__ 
 
@@ -75,25 +75,25 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–549, § 702(a)(1)][/us/pl/101/549/s702/a/1], which directed that “or” be struck out in first sentence immediately before “any emission standard under [section 7412 of this title][/us/usc/t42/s7412],” could not be executed because of the prior amendment by [Pub. L. 101–549, § 302(c)][/us/pl/101/549/s302/c], see below.
+    1990—Subsec. (a). [Pub. L. 101–549][/us/pl/101/549], § 702(a)(1), which directed that “or” be struck out in first sentence immediately before “any emission standard under [section 7412 of this title][/us/usc/t42/s7412],” could not be executed because of the prior amendment by [Pub. L. 101–549][/us/pl/101/549], § 302(c), see below.
 
-    [Pub. L. 101–549, § 702(a)(2)][/us/pl/101/549/s702/a/2], inserted “or any regulation under [section 7429 of this title][/us/usc/t42/s7429] (relating to solid waste combustion),” before “(ii) of determining”.
+    [Pub. L. 101–549][/us/pl/101/549], § 702(a)(2), inserted “or any regulation under [section 7429 of this title][/us/usc/t42/s7429] (relating to solid waste combustion),” before “(ii) of determining”.
 
-    [Pub. L. 101–549, § 302(c)][/us/pl/101/549/s302/c], struck out “or” after “performance under [section 7411 of this title][/us/usc/t42/s7411],” and inserted “, or any regulation of solid waste combustion under [section 7429 of this title][/us/usc/t42/s7429],” after “standard under [section 7412 of this title][/us/usc/t42/s7412]”.
+    [Pub. L. 101–549][/us/pl/101/549], § 302(c), struck out “or” after “performance under [section 7411 of this title][/us/usc/t42/s7411],” and inserted “, or any regulation of solid waste combustion under [section 7429 of this title][/us/usc/t42/s7429],” after “standard under [section 7412 of this title][/us/usc/t42/s7412]”.
 
-    Subsec. (a)(1). [Pub. L. 101–549, § 702(a)(3)][/us/pl/101/549/s702/a/3], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the Administrator may require any person who owns or operates any emission source or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title) with respect to a provision of subchapter II of this chapter to (A) establish and maintain such records, (B) make such reports, (C) install, use, and maintain such monitoring equipment or methods, (D) sample such emissions (in accordance with such methods, at such locations, at such intervals, and in such manner as the Administrator shall prescribe), and (E) provide such other information as he may reasonably require; and”.
+    Subsec. (a)(1). [Pub. L. 101–549][/us/pl/101/549], § 702(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the Administrator may require any person who owns or operates any emission source or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title) with respect to a provision of subchapter II of this chapter to (A) establish and maintain such records, (B) make such reports, (C) install, use, and maintain such monitoring equipment or methods, (D) sample such emissions (in accordance with such methods, at such locations, at such intervals, and in such manner as the Administrator shall prescribe), and (E) provide such other information as he may reasonably require; and”.
 
-    Subsec. (a)(3). [Pub. L. 101–549, § 702(b)][/us/pl/101/549/s702/b], added par. (3).
+    Subsec. (a)(3). [Pub. L. 101–549][/us/pl/101/549], § 702(b), added par. (3).
 
-    1977—Subsec. (a). [Pub. L. 95–190, § 14(a)(22)][/us/pl/95/190/s14/a/22], inserted reference to subchapter II of this chapter and “new” before “motor” in two places.
+    1977—Subsec. (a). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(22), inserted reference to subchapter II of this chapter and “new” before “motor” in two places.
 
-    [Pub. L. 95–95, § 305(d)][/us/pl/95/95/s305/d], substituted “carrying out any provision of this chapter (except with respect to a manufacturer of motor vehicles or motor vehicle engines)” for “carrying out sections 119 or 303” in cl. (iii) preceding par. (1), substituted “any person subject to any requirement of this chapter (other than a manufacturer subject to the provisions of sections 7525(c) or 7542 of this title)” for “the owner or operator of any emission source” in par. (1), substituted “any premises of such person” for “any premises in which an emission source is located” in subpar. (A) of par. (2), and substituted “emissions which such person is required to sample” for “emissions which the owner or operator of such source is required to sample” in subpar. (B) of subpar. (2).
+    [Pub. L. 95–95][/us/pl/95/95], § 305(d), substituted “carrying out any provision of this chapter (except with respect to a manufacturer of motor vehicles or motor vehicle engines)” for “carrying out sections 119 or 303” in cl. (iii) preceding par. (1), substituted “any person subject to any requirement of this chapter (other than a manufacturer subject to the provisions of sections 7525(c) or 7542 of this title)” for “the owner or operator of any emission source” in par. (1), substituted “any premises of such person” for “any premises in which an emission source is located” in subpar. (A) of par. (2), and substituted “emissions which such person is required to sample” for “emissions which the owner or operator of such source is required to sample” in subpar. (B) of subpar. (2).
 
-    Subsec. (a)(1). [Pub. L. 95–190, § 14(a)(23)][/us/pl/95/190/s14/a/23], inserted reference to subchapter II of this chapter and “who owns or operates any emission source or who is” after “any person”.
+    Subsec. (a)(1). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(23), inserted reference to subchapter II of this chapter and “who owns or operates any emission source or who is” after “any person”.
 
-    Subsec. (b)(1). [Pub. L. 95–95, § 109(d)(3)][/us/pl/95/95/s109/d/3], struck out “(except with respect to new sources owned or operated by the United States)” after “to carry out this section”.
+    Subsec. (b)(1). [Pub. L. 95–95][/us/pl/95/95], § 109(d)(3), struck out “(except with respect to new sources owned or operated by the United States)” after “to carry out this section”.
 
-    Subsec. (d). [Pub. L. 95–95, § 113][/us/pl/95/95/s113], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–95][/us/pl/95/95], § 113, added subsec. (d).
 
     1974—Subsec. (a). [Pub. L. 93–319][/us/pl/93/319] inserted reference to section 119.
 
@@ -124,36 +124,36 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t42/s7410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fc
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1687
-[/us/pl/93/319/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs6%2Fa%2F4
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F259
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F701
-[/us/pl/95/190/s14/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F22
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1400
-[/us/pl/101/549/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fc
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2574
 [/us/usc/t42/s7413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
 [/us/usc/t42/s1857c–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%939
-[/us/pl/101/549/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs702%2Fa%2F1
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
-[/us/pl/101/549/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fc
-[/us/pl/101/549/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs702%2Fa%2F2
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7429
-[/us/pl/101/549/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs302%2Fc
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411
 [/us/usc/t42/s7429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7429
 [/us/usc/t42/s7412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412
-[/us/pl/101/549/s702/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs702%2Fa%2F3
-[/us/pl/101/549/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs702%2Fb
-[/us/pl/95/190/s14/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F22
-[/us/pl/95/95/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs305%2Fd
-[/us/pl/95/190/s14/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F23
-[/us/pl/95/95/s109/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs109%2Fd%2F3
-[/us/pl/95/95/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs113
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd

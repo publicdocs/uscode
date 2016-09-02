@@ -27,7 +27,7 @@
 
         This section may not be construed to authorize the Secretary to take any action in violation of the multilateral trade agreements (as defined in [section 3501(4) of title 19][/us/usc/t19/s3501/4]) or the North American Free Trade Agreement.
 
-([Pub. L. 102–486, title X, § 1017][/us/pl/102/486/s1017], Oct. 24, 1992, [106 Stat. 2950][/us/stat/106/2950]; [Pub. L. 106–36, title I, § 1002(g)(2)][/us/pl/106/36/s1002/g/2], June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1017, Oct. 24, 1992, [106 Stat. 2950][/us/stat/106/2950]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(g)(2), June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
-[/us/pl/102/486/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1017
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2950
-[/us/pl/106/36/s1002/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fg%2F2
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F133
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4

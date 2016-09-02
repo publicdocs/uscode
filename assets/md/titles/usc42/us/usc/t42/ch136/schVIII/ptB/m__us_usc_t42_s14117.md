@@ -37,7 +37,7 @@
 
         (3) not receiving financial assistance under the Higher Education Act of 1965 \[[20 U.S.C. 1001][/us/usc/t20/s1001] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\].
 
-([Pub. L. 103–322, title XX, § 200208][/us/pl/103/322/s200208], Sept. 13, 1994, [108 Stat. 2060][/us/stat/108/2060].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200208, Sept. 13, 1994, [108 Stat. 2060][/us/stat/108/2060].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/103/322/s200208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200208
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2060
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

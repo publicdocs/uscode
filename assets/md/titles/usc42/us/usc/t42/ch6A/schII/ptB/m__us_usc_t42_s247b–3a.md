@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “of”. </sup></sup>  the fiscal years 2001 through 2005.
 
-([Pub. L. 106–310, div. A, title XXV, § 2503][/us/pl/106/310/s2503], Oct. 17, 2000, [114 Stat. 1163][/us/stat/114/1163]; [Pub. L. 108–173, title IX, § 900(e)(6)(E)][/us/pl/108/173/s900/e/6/E], Dec. 8, 2003, [117 Stat. 2374][/us/stat/117/2374].)
+([Pub. L. 106–310, div. A, title XXV][/us/pl/106/310/dA/tXXV], § 2503, Oct. 17, 2000, [114 Stat. 1163][/us/stat/114/1163]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(6)(E), Dec. 8, 2003, [117 Stat. 2374][/us/stat/117/2374].)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/106/310/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2503
+[/us/pl/106/310/dA/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXV
 [/us/stat/114/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1163
-[/us/pl/108/173/s900/e/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F6%2FE
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2374
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 

@@ -19,7 +19,7 @@
 
     (b) The Director of NIH may not make a grant or enter into a contract under subsection (a) of this section unless the applicant for such assistance agrees, with respect to the costs to be incurred by the applicant in carrying out the purpose described in such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions in cash toward such costs in an amount equal to not less than $1 for each $4 of Federal funds provided in such assistance.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404J, formerly § 481B, as added [Pub. L. 103–43, title XV, § 1503][/us/pl/103/43/s1503], June 10, 1993, [107 Stat. 178][/us/stat/107/178]; amended [Pub. L. 105–392, title IV, § 411][/us/pl/105/392/s411], Nov. 13, 1998, [112 Stat. 3590][/us/stat/112/3590]; [Pub. L. 106–505, title III, § 304][/us/pl/106/505/s304], Nov. 13, 2000, [114 Stat. 2335][/us/stat/114/2335]; [Pub. L. 109–482, title I, § 103(b)(41)][/us/pl/109/482/s103/b/41], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]; renumbered § 404J and amended [Pub. L. 112–74, div. F, title II, § 221(b)(2)][/us/pl/112/74/s221/b/2], Dec. 23, 2011, [125 Stat. 1088][/us/stat/125/1088].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404J, formerly § 481B, as added [Pub. L. 103–43, title XV][/us/pl/103/43/tXV], § 1503, June 10, 1993, [107 Stat. 178][/us/stat/107/178]; amended [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 411, Nov. 13, 1998, [112 Stat. 3590][/us/stat/112/3590]; [Pub. L. 106–505, title III][/us/pl/106/505/tIII], § 304, Nov. 13, 2000, [114 Stat. 2335][/us/stat/114/2335]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(41), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688]; renumbered § 404J and amended [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(b)(2), Dec. 23, 2011, [125 Stat. 1088][/us/stat/125/1088].)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–74, § 221(b)(2)(B)][/us/pl/112/74/s221/b/2/B], substituted “by the Director of NIH, acting through the Office of the Director of NIH,” for “by the National Center for Research Resources” and “283k” for “287a–2”.
+    2011—Subsec. (a). [Pub. L. 112–74][/us/pl/112/74], § 221(b)(2)(B), substituted “by the Director of NIH, acting through the Office of the Director of NIH,” for “by the National Center for Research Resources” and “283k” for “287a–2”.
 
     2007—Subsec. (a). [Pub. L. 109–482][/us/pl/109/482], which directed the substitution of “to carry out section 287a–2” for “under section 287a–2(h)”, was executed by making substitution for “under section 287a–2(i)”, to reflect the probable intent of Congress.
 
@@ -48,18 +48,18 @@
 
 [/us/usc/t42/s283k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283k
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1503
+[/us/pl/103/43/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXV
 [/us/stat/107/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F178
-[/us/pl/105/392/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs411
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3590
-[/us/pl/106/505/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs304
+[/us/pl/106/505/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtIII
 [/us/stat/114/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2335
-[/us/pl/109/482/s103/b/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F41
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/pl/112/74/s221/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F2
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1088
 [/us/usc/t42/s287a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287a%E2%80%933
-[/us/pl/112/74/s221/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F2%2FB
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/106/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505
 [/us/usc/t42/s287a–2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287a%E2%80%932%2Fi

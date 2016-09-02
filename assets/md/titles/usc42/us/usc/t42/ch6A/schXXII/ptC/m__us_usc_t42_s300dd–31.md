@@ -21,7 +21,7 @@
 
     (2) to undergo such counseling and testing through the use of a pseudonym.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIV, § 2431, as added [Pub. L. 100–607, title II, § 211][/us/pl/100/607/s211], Nov. 4, 1988, [102 Stat. 3090][/us/stat/102/3090].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIV, § 2431, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 211, Nov. 4, 1988, [102 Stat. 3090][/us/stat/102/3090].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs211
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3090
 
 

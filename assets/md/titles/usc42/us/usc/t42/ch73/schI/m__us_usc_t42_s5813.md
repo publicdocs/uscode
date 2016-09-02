@@ -39,7 +39,7 @@
 
     (11) encouraging and conducting research and development in clean and renewable energy sources.
 
-([Pub. L. 93–438, title I, § 103][/us/pl/93/438/s103], Oct. 11, 1974, [88 Stat. 1235][/us/stat/88/1235]; [Pub. L. 95–39, title V, § 510(a)][/us/pl/95/39/s510/a], June 3, 1977, [91 Stat. 200][/us/stat/91/200]; [Pub. L. 102–486, title I, § 143(b)][/us/pl/102/486/s143/b], Oct. 24, 1992, [106 Stat. 2843][/us/stat/106/2843].)
+([Pub. L. 93–438, title I][/us/pl/93/438/tI], § 103, Oct. 11, 1974, [88 Stat. 1235][/us/stat/88/1235]; [Pub. L. 95–39, title V][/us/pl/95/39/tV], § 510(a), June 3, 1977, [91 Stat. 200][/us/stat/91/200]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 143(b), Oct. 24, 1992, [106 Stat. 2843][/us/stat/106/2843].)
 
  __Amendments__ 
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/pl/93/438/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs103
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1235
-[/us/pl/95/39/s510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs510%2Fa
+[/us/pl/95/39/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtV
 [/us/stat/91/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F200
-[/us/pl/102/486/s143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs143%2Fb
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2843
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/95/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39

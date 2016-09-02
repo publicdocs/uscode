@@ -135,7 +135,7 @@
 
         (C) Notwithstanding subparagraphs (A) and (B), in the case of a person admitted to a program or facility for the purpose of receiving mental health services, no individual employed by or receiving any remuneration from such program or facility should act as such person’s guardian or representative.
 
-([Pub. L. 96–398, title V, § 501][/us/pl/96/398/s501], Oct. 7, 1980, [94 Stat. 1598][/us/stat/94/1598].)
+([Pub. L. 96–398, title V][/us/pl/96/398/tV], § 501, Oct. 7, 1980, [94 Stat. 1598][/us/stat/94/1598].)
 
 ----------
 
@@ -144,7 +144,7 @@
 ----------
 ----------
 
-[/us/pl/96/398/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs501
+[/us/pl/96/398/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2FtV
 [/us/stat/94/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1598
 
 

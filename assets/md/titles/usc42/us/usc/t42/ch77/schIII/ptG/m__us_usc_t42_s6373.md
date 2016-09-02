@@ -17,7 +17,7 @@
 
     Not later than 1 year after November 9, 1978, the Secretary of Transportation shall complete a study of the energy conservation potential of recreational motor vehicles, including, but not limited to, aircraft and motor boats which are designed for recreational use, and shall submit a report to the President and to the Congress containing the results of such study.
 
-([Pub. L. 94–163, title III, § 385][/us/pl/94/163/s385], as added [Pub. L. 95–619, title VI, § 681(a)][/us/pl/95/619/s681/a], Nov. 9, 1978, [92 Stat. 3286][/us/stat/92/3286].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 385, as added [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 681(a), Nov. 9, 1978, [92 Stat. 3286][/us/stat/92/3286].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/163/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs385
-[/us/pl/95/619/s681/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs681%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3286
 
 

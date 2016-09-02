@@ -19,7 +19,7 @@
 
     (b) Notwithstanding subsection (a), all sums received as reimbursements for costs incurred by any Department of Defense or Department of Agriculture activity for fire protection rendered pursuant to this subchapter shall be credited to the same appropriation or fund from which the expenses were paid or, if the period of availability for obligation for that appropriation has expired, to the appropriation or fund that is currently available to the activity for the same purpose. Amounts so credited shall be subject to the same provisions and restrictions as the appropriation or account to which credited.
 
-([May 27, 1955, ch. 105, § 5][/us/act/1955-05-27/ch105/s5], [69 Stat. 67][/us/stat/69/67]; [Pub. L. 110–181, div. A, title X, § 1080][/us/pl/110/181/s1080], Jan. 28, 2008, [122 Stat. 335][/us/stat/122/335]; [Pub. L. 112–81, div. A, title III, § 364(a)][/us/pl/112/81/s364/a], Dec. 31, 2011, [125 Stat. 1380][/us/stat/125/1380]; [Pub. L. 113–79, title VIII, § 8304(f)][/us/pl/113/79/s8304/f], Feb. 7, 2014, [128 Stat. 924][/us/stat/128/924].)
+([May 27, 1955, ch. 105][/us/act/1955-05-27/ch105], § 5, [69 Stat. 67][/us/stat/69/67]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1080, Jan. 28, 2008, [122 Stat. 335][/us/stat/122/335]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 364(a), Dec. 31, 2011, [125 Stat. 1380][/us/stat/125/1380]; [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8304(f), Feb. 7, 2014, [128 Stat. 924][/us/stat/128/924].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–81, div. A, title III, § 364(b)][/us/pl/112/81/s364/b], Dec. 31, 2011, [125 Stat. 1380][/us/stat/125/1380], provided that: 
+[Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 364(b), Dec. 31, 2011, [125 Stat. 1380][/us/stat/125/1380], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reimbursements for expenditures of funds appropriated after the date of the enactment of this Act \[Dec. 31, 2011\].”
 
@@ -42,18 +42,18 @@
 ----------
 ----------
 
-[/us/act/1955-05-27/ch105/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch105%2Fs5
+[/us/act/1955-05-27/ch105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-27%2Fch105
 [/us/stat/69/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F67
-[/us/pl/110/181/s1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1080
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F335
-[/us/pl/112/81/s364/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs364%2Fa
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1380
-[/us/pl/113/79/s8304/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8304%2Ff
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F924
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/112/81/s364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs364%2Fb
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1380
 
 

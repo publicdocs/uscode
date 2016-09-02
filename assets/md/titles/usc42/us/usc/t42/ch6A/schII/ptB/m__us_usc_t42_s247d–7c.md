@@ -23,7 +23,7 @@
 
         With respect to a request described in subsection (a) of this section, the Secretary shall reduce the amount of payments under the award involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319J, as added [Pub. L. 107–188, title I, § 110][/us/pl/107/188/s110], June 12, 2002, [116 Stat. 611][/us/stat/116/611].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319J, as added [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 110, June 12, 2002, [116 Stat. 611][/us/stat/116/611].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t42/s247d–7d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%937d
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/107/188/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs110
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F611
 
 

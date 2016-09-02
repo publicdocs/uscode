@@ -59,7 +59,7 @@
 
         In carrying out subsection (a)(4), the Foundation is authorized to foster and support access by the research and education communities to computer networks which may be used substantially for purposes in addition to research and education in the sciences and engineering, if the additional uses will tend to increase the overall capabilities of the networks to support such research and education activities.
 
-([May 10, 1950, ch. 171, § 3][/us/act/1950-05-10/ch171/s3], [64 Stat. 149][/us/stat/64/149]; [Pub. L. 85–510, § 1][/us/pl/85/510/s1], July 11, 1958, [72 Stat. 353][/us/stat/72/353]; [Pub. L. 86–232, § 1][/us/pl/86/232/s1], Sept. 8, 1959, [73 Stat. 467][/us/stat/73/467]; [Pub. L. 90–407, § 1][/us/pl/90/407/s1], July 18, 1968, [82 Stat. 360][/us/stat/82/360]; [Pub. L. 92–372, § 8][/us/pl/92/372/s8], Aug. 10, 1972, [86 Stat. 528][/us/stat/86/528]; [Pub. L. 92–484, § 10(b)][/us/pl/92/484/s10/b], Oct. 13, 1972, [86 Stat. 802][/us/stat/86/802]; [Pub. L. 94–273, § 11(3)][/us/pl/94/273/s11/3], Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 95–99, § 12(a)][/us/pl/95/99/s12/a], formerly § 14(a), Aug. 15, 1977, [91 Stat. 835][/us/stat/91/835], renumbered § 12(a), [Pub. L. 99–159, title I, § 109(h)][/us/pl/99/159/s109/h], Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 99–159, title I][/us/pl/99/159], §§ 109(e)(2), 110(a)(1)–(11), Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890], 891; [Pub. L. 99–383, § 7(a)][/us/pl/99/383/s7/a], Aug. 21, 1986, [100 Stat. 814][/us/stat/100/814]; [Pub. L. 102–476, § 4][/us/pl/102/476/s4], Oct. 23, 1992, [106 Stat. 2300][/us/stat/106/2300]; [Pub. L. 102–588, title II, § 217][/us/pl/102/588/s217], Nov. 4, 1992, [106 Stat. 5117][/us/stat/106/5117]; [Pub. L. 105–207, title II, § 202(e)][/us/pl/105/207/s202/e], July 29, 1998, [112 Stat. 875][/us/stat/112/875]; [Pub. L. 107–305, § 7][/us/pl/107/305/s7], Nov. 27, 2002, [116 Stat. 2375][/us/stat/116/2375].)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 3, [64 Stat. 149][/us/stat/64/149]; [Pub. L. 85–510][/us/pl/85/510], § 1, July 11, 1958, [72 Stat. 353][/us/stat/72/353]; [Pub. L. 86–232][/us/pl/86/232], § 1, Sept. 8, 1959, [73 Stat. 467][/us/stat/73/467]; [Pub. L. 90–407][/us/pl/90/407], § 1, July 18, 1968, [82 Stat. 360][/us/stat/82/360]; [Pub. L. 92–372][/us/pl/92/372], § 8, Aug. 10, 1972, [86 Stat. 528][/us/stat/86/528]; [Pub. L. 92–484][/us/pl/92/484], § 10(b), Oct. 13, 1972, [86 Stat. 802][/us/stat/86/802]; [Pub. L. 94–273][/us/pl/94/273], § 11(3), Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 95–99][/us/pl/95/99], § 12(a), formerly § 14(a), Aug. 15, 1977, [91 Stat. 835][/us/stat/91/835], renumbered § 12(a), [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 109(h), Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], §§ 109(e)(2), 110(a)(1)–(11), Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890], 891; [Pub. L. 99–383][/us/pl/99/383], § 7(a), Aug. 21, 1986, [100 Stat. 814][/us/stat/100/814]; [Pub. L. 102–476][/us/pl/102/476], § 4, Oct. 23, 1992, [106 Stat. 2300][/us/stat/106/2300]; [Pub. L. 102–588, title II][/us/pl/102/588/tII], § 217, Nov. 4, 1992, [106 Stat. 5117][/us/stat/106/5117]; [Pub. L. 105–207, title II][/us/pl/105/207/tII], § 202(e), July 29, 1998, [112 Stat. 875][/us/stat/112/875]; [Pub. L. 107–305][/us/pl/107/305], § 7, Nov. 27, 2002, [116 Stat. 2375][/us/stat/116/2375].)
 
  __Amendments__ 
 
@@ -71,27 +71,27 @@
 
     1986—Subsec. (a)(6). [Pub. L. 99–383][/us/pl/99/383] amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to maintain a current register of scientific and engineering personnel, and in other ways to provide a central clearinghouse for the collection, interpretation, and analysis of data on the availability of, and the current and projected need for, scientific and engineering resources in the United States, and to provide a source of information for policy formulation by other agencies of the Federal Government; and”.
 
-    1985—Subsec. (a)(1). [Pub. L. 99–159, § 110(a)(1)][/us/pl/99/159/s110/a/1], struck out “engineering,” after “biological,” and inserted provisions relating to research fundamental to the engineering process, engineering programs, and engineering activities.
+    1985—Subsec. (a)(1). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(1), struck out “engineering,” after “biological,” and inserted provisions relating to research fundamental to the engineering process, engineering programs, and engineering activities.
 
-    Subsec. (a)(2). [Pub. L. 99–159, § 110(a)(2)][/us/pl/99/159/s110/a/2], substituted “for study and research in the sciences or in engineering” for “in the mathematical, physical, medical, biological, engineering, social, and other sciences”.
+    Subsec. (a)(2). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(2), substituted “for study and research in the sciences or in engineering” for “in the mathematical, physical, medical, biological, engineering, social, and other sciences”.
 
-    Subsec. (a)(3). [Pub. L. 99–159, § 110(a)(3)][/us/pl/99/159/s110/a/3], inserted applicability to engineering and engineers.
+    Subsec. (a)(3). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(3), inserted applicability to engineering and engineers.
 
-    Subsec. (a)(4). [Pub. L. 99–159, § 110(a)(4)][/us/pl/99/159/s110/a/4], inserted applicability to engineering.
+    Subsec. (a)(4). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(4), inserted applicability to engineering.
 
-    Subsec. (a)(5). [Pub. L. 99–159, § 110(a)(5)][/us/pl/99/159/s110/a/5], inserted applicability to fields of engineering.
+    Subsec. (a)(5). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(5), inserted applicability to fields of engineering.
 
-    Subsec. (a)(6). [Pub. L. 99–159, § 110(a)(6)][/us/pl/99/159/s110/a/6], substituted “engineering” for “technical” in two places.
+    Subsec. (a)(6). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(6), substituted “engineering” for “technical” in two places.
 
-    Subsec. (a)(7). [Pub. L. 99–159, § 110(a)(7)][/us/pl/99/159/s110/a/7], inserted applicability to engineering.
+    Subsec. (a)(7). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(7), inserted applicability to engineering.
 
     Subsec. (b). [Pub. L. 99–159][/us/pl/99/159], §§ 109(e)(2), 110(a)(8), inserted reference to engineering in two places and substituted “1873(f)” for “1873(g)”.
 
-    Subsec. (c). [Pub. L. 99–159, § 110(a)(9)][/us/pl/99/159/s110/a/9], inserted applicability to engineering research.
+    Subsec. (c). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(9), inserted applicability to engineering research.
 
-    Subsec. (d). [Pub. L. 99–159, § 110(a)(10)][/us/pl/99/159/s110/a/10], substituted “research and education in science and engineering” for “basic research and education in the sciences”.
+    Subsec. (d). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(10), substituted “research and education in science and engineering” for “basic research and education in the sciences”.
 
-    Subsec. (e). [Pub. L. 99–159, § 110(11)][/us/pl/99/159/s110/11], inserted applicability to engineering.
+    Subsec. (e). [Pub. L. 99–159][/us/pl/99/159], § 110(11), inserted applicability to engineering.
 
     1977—Subsec. (e). [Pub. L. 95–99][/us/pl/95/99] substituted “an objective” for “one of the objectives”.
 
@@ -139,7 +139,7 @@
 
  __NSF Study and Report on the “Digital Divide”__ 
 
-[Pub. L. 106–313, title I, § 109][/us/pl/106/313/s109], Oct. 17, 2000, [114 Stat. 1255][/us/stat/114/1255], provided that:
+[Pub. L. 106–313, title I][/us/pl/106/313/tI], § 109, Oct. 17, 2000, [114 Stat. 1255][/us/stat/114/1255], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -151,21 +151,21 @@
 
  __Improving United States Understanding of Science, Engineering, and Technology in East Asia__ 
 
-    [Pub. L. 105–244, title VIII, § 831][/us/pl/105/244/s831], Oct. 7, 1998, [112 Stat. 1820][/us/stat/112/1820], which provided for an interdisciplinary program of education and research on East Asian science, engineering, and technology, was repealed by [Pub. L. 110–315, title IX, § 931(3)][/us/pl/110/315/s931/3], Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].
+    [Pub. L. 105–244, title VIII][/us/pl/105/244/tVIII], § 831, Oct. 7, 1998, [112 Stat. 1820][/us/stat/112/1820], which provided for an interdisciplinary program of education and research on East Asian science, engineering, and technology, was repealed by [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 931(3), Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].
 
  __Status of Scientific Instrumentation; Current and Projected Needs for Scientific and Technological Instrumentation; Development of Indices, Correlates, or Other Suitable Measures or Indicators__ 
 
-[Pub. L. 96–44, § 7][/us/pl/96/44/s7], Aug. 2, 1979, [93 Stat. 334][/us/stat/93/334], provided that: 
+[Pub. L. 96–44][/us/pl/96/44], § 7, Aug. 2, 1979, [93 Stat. 334][/us/stat/93/334], provided that: 
 
 > “In partial fulfillment of the established statutory requirement that the National Science Foundation evaluate the status of and current and projected need for scientific resources (section 3(a)(5) and (6) of [Public Law 81–507][/us/pl/81/507], as amended \[subsec. (a)(5) and (6) of this section\]), the National Science Foundation shall develop indices, correlates, or other suitable measures or indicators of the status of scientific instrumentation in the United States and of the current and projected need for scientific and technological instrumentation.”
 
  __Flood Hazard Mitigation Study__ 
 
-    [Pub. L. 96–44, § 8][/us/pl/96/44/s8], Aug. 2, 1979, [93 Stat. 334][/us/stat/93/334], directed National Science Foundation to conduct a Flood Hazard Mitigation Study and report to Congress with specific program recommendations by end of fiscal year 1980.
+    [Pub. L. 96–44][/us/pl/96/44], § 8, Aug. 2, 1979, [93 Stat. 334][/us/stat/93/334], directed National Science Foundation to conduct a Flood Hazard Mitigation Study and report to Congress with specific program recommendations by end of fiscal year 1980.
 
  __Authorized Use of Funds Under Science and Society Program__ 
 
-[Pub. L. 95–99, § 5][/us/pl/95/99/s5], Aug. 15, 1977, [91 Stat. 832][/us/stat/91/832], provided that:
+[Pub. L. 95–99][/us/pl/95/99], § 5, Aug. 15, 1977, [91 Stat. 832][/us/stat/91/832], provided that:
 
 >     “(a)
 
@@ -195,7 +195,7 @@
 
  __Establishment of “Science for Citizens Program” Conducted in Conjunction With “Public Understanding of Science Program”__ 
 
-[Pub. L. 94–471, § 5][/us/pl/94/471/s5], Oct. 11, 1976, [90 Stat. 2054][/us/stat/90/2054], provided that:
+[Pub. L. 94–471][/us/pl/94/471], § 5, Oct. 11, 1976, [90 Stat. 2054][/us/stat/90/2054], provided that:
 
 >     “(a)
 
@@ -221,11 +221,11 @@
 
  __Development of Program Plan for Continuing Education in Science and Engineering__ 
 
-    [Pub. L. 94–471, § 6][/us/pl/94/471/s6], Oct. 11, 1976, [90 Stat. 2055][/us/stat/90/2055], required the National Science Foundation to develop a program plan for continuing education in science and engineering and, not later than Oct. 31, 1977, provide specific committees of the House of Representatives and Senate a report on the plan developed with recommendations for implementation in fiscal year 1978.
+    [Pub. L. 94–471][/us/pl/94/471], § 6, Oct. 11, 1976, [90 Stat. 2055][/us/stat/90/2055], required the National Science Foundation to develop a program plan for continuing education in science and engineering and, not later than Oct. 31, 1977, provide specific committees of the House of Representatives and Senate a report on the plan developed with recommendations for implementation in fiscal year 1978.
 
  __Denial of Financial Assistance to Campus Disrupters__ 
 
-[Pub. L. 93–96, § 7][/us/pl/93/96/s7], Aug. 16, 1973, [87 Stat. 316][/us/stat/87/316], provided that:
+[Pub. L. 93–96][/us/pl/93/96], § 7, Aug. 16, 1973, [87 Stat. 316][/us/stat/87/316], provided that:
 
 >     “(a) If an institution of higher education determines, after affording notice and opportunity for hearing to an individual attending, or employed by, such institution, that such individual has been convicted by any court of record of any crime which was committed after the date of enactment of this Act \[Aug. 16, 1973\] and which involved the use of (or assistance to others in the use of) force, disruption, or the seizure of property under control of any institution of higher education to prevent officials or students in such institution from engaging in their duties or pursuing their studies, and that such crime was of a serious nature and contributed to a substantial disruption of the administration of the institution with respect to which such crime was committed, then the institution which such individual attends, or is employed by, shall deny for a period of two years any further payment to, or for the direct benefit of, such individual under any of the programs specified in subsection (c). If an institution denies an individual assistance under the authority of the preceding sentence of this subsection, then any institution which such individual subsequently attends shall deny for the remainder of the two-year period any further payment to, or for the direct benefit of, such individual under any of the programs specified in subsection (c).
 
@@ -249,19 +249,19 @@
 
 Similar provisions were contained in the following National Science Foundation Authorization Acts:
 
-    [Pub. L. 92–372, § 7][/us/pl/92/372/s7], Aug. 10, 1972, [86 Stat. 527][/us/stat/86/527].
+    [Pub. L. 92–372][/us/pl/92/372], § 7, Aug. 10, 1972, [86 Stat. 527][/us/stat/86/527].
 
-    [Pub. L. 92–86, § 7][/us/pl/92/86/s7], Aug. 11, 1971, [85 Stat. 309][/us/stat/85/309].
+    [Pub. L. 92–86][/us/pl/92/86], § 7, Aug. 11, 1971, [85 Stat. 309][/us/stat/85/309].
 
-    [Pub. L. 91–356, § 5][/us/pl/91/356/s5], July 24, 1970, [84 Stat. 471][/us/stat/84/471].
+    [Pub. L. 91–356][/us/pl/91/356], § 5, July 24, 1970, [84 Stat. 471][/us/stat/84/471].
 
  __Continuation of Authorization for Weather Modification Programs; Repeal__ 
 
-    [Pub. L. 90–407, § 11(1)][/us/pl/90/407/s11/1], July 18, 1968, [82 Stat. 365][/us/stat/82/365], provided in part that the authorization for the programs initiated under former subsec. (a)(9) of this section shall continue in effect until Sept. 1, 1968 for the purposes of [section 1872a of this title][/us/usc/t42/s1872a].
+    [Pub. L. 90–407][/us/pl/90/407], § 11(1), July 18, 1968, [82 Stat. 365][/us/stat/82/365], provided in part that the authorization for the programs initiated under former subsec. (a)(9) of this section shall continue in effect until Sept. 1, 1968 for the purposes of [section 1872a of this title][/us/usc/t42/s1872a].
 
  __Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation__ 
 
-[Pub. L. 90–407, § 16][/us/pl/90/407/s16], July 18, 1968, [82 Stat. 367][/us/stat/82/367], provided that: 
+[Pub. L. 90–407][/us/pl/90/407], § 16, July 18, 1968, [82 Stat. 367][/us/stat/82/367], provided that: 
 
 > “Except as otherwise specifically provided therein, the amendments made by this Act \[enacting [section 1864a of this title][/us/usc/t42/s1864a], amending sections 1862 to 1866, 1868 to 1870, 1872 to 1875, and 1877 of this title, sections 5313, 5314, and 5316 of Title 5, Government Organization and Employees, repealing sections 1867 and 1872a of this title, and enacting provisions set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313]\] are intended to continue in effect under the National Science Foundation Act of 1950 \[this chapter\] the existing offices, procedures, and organization of the National Science Foundation as provided by such Act, \[this chapter\] part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965 \[set out as a note under [section 1861 of this title][/us/usc/t42/s1861]\]. From and after the date of the enactment of this Act \[July 18, 1968\], part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965, shall be of no force or effect; but nothing in this Act shall alter or affect any transfers of functions made by part I of such Reorganization Plan Numbered 2 of 1962.”
 
@@ -301,11 +301,11 @@ Similar provisions were contained in the following National Science Foundation A
 
  __Executive Order No. 10807__ 
 
-    Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science and Technology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled “Establishing the Interdepartmental Committee on Scientific Research and Development”, and amended Ex. Ord. No. 10521, set out above, was omitted from the Code in view of [Pub. L. 94–282, title IV, § 402][/us/pl/94/282/s402], May 11, 1976, [90 Stat. 472][/us/stat/90/472], set out below, which abolished the Federal Council for Science and Technology.
+    Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science and Technology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled “Establishing the Interdepartmental Committee on Scientific Research and Development”, and amended Ex. Ord. No. 10521, set out above, was omitted from the Code in view of [Pub. L. 94–282, title IV][/us/pl/94/282/tIV], § 402, May 11, 1976, [90 Stat. 472][/us/stat/90/472], set out below, which abolished the Federal Council for Science and Technology.
 
  __Abolition of Federal Council for Science and Technology__ 
 
-[Pub. L. 94–282, title IV, § 402][/us/pl/94/282/s402], May 11, 1976, [90 Stat. 472][/us/stat/90/472], provided that: 
+[Pub. L. 94–282, title IV][/us/pl/94/282/tIV], § 402, May 11, 1976, [90 Stat. 472][/us/stat/90/472], provided that: 
 
 > “The Federal Council for Science and Technology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.”
 
@@ -318,35 +318,35 @@ Similar provisions were contained in the following National Science Foundation A
 
 [/us/usc/t42/s1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1869
 [/us/usc/t42/s1873/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1873%2Ff
-[/us/act/1950-05-10/ch171/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs3
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F149
-[/us/pl/85/510/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F510%2Fs1
+[/us/pl/85/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F510
 [/us/stat/72/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F353
-[/us/pl/86/232/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232%2Fs1
+[/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/73/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F467
-[/us/pl/90/407/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs1
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F360
-[/us/pl/92/372/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F372%2Fs8
+[/us/pl/92/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F372
 [/us/stat/86/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F528
-[/us/pl/92/484/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484%2Fs10%2Fb
+[/us/pl/92/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484
 [/us/stat/86/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F802
-[/us/pl/94/273/s11/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs11%2F3
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F378
-[/us/pl/95/99/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99%2Fs12%2Fa
+[/us/pl/95/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99
 [/us/stat/91/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F835
-[/us/pl/99/159/s109/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fh
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F890
-[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F890
-[/us/pl/99/383/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383%2Fs7%2Fa
+[/us/pl/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383
 [/us/stat/100/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F814
-[/us/pl/102/476/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476%2Fs4
+[/us/pl/102/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476
 [/us/stat/106/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2300
-[/us/pl/102/588/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2Fs217
+[/us/pl/102/588/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2FtII
 [/us/stat/106/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5117
-[/us/pl/105/207/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fe
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F875
-[/us/pl/107/305/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs7
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2375
 [/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
@@ -354,17 +354,17 @@ Similar provisions were contained in the following National Science Foundation A
 [/us/pl/102/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476
 [/us/pl/102/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588
 [/us/pl/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383
-[/us/pl/99/159/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F1
-[/us/pl/99/159/s110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F2
-[/us/pl/99/159/s110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F3
-[/us/pl/99/159/s110/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F4
-[/us/pl/99/159/s110/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F5
-[/us/pl/99/159/s110/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F6
-[/us/pl/99/159/s110/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F7
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
-[/us/pl/99/159/s110/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F9
-[/us/pl/99/159/s110/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F10
-[/us/pl/99/159/s110/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2F11
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 [/us/pl/95/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/92/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F372
@@ -386,45 +386,45 @@ Similar provisions were contained in the following National Science Foundation A
 [/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/pl/85/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F510
 [/us/usc/t20/s3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3444
-[/us/pl/106/313/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs109
+[/us/pl/106/313/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtI
 [/us/stat/114/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1255
-[/us/pl/105/244/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs831
+[/us/pl/105/244/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVIII
 [/us/stat/112/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1820
-[/us/pl/110/315/s931/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs931%2F3
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3456
-[/us/pl/96/44/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F44%2Fs7
+[/us/pl/96/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F44
 [/us/stat/93/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F334
 [/us/pl/81/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F81%2F507
-[/us/pl/96/44/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F44%2Fs8
+[/us/pl/96/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F44
 [/us/stat/93/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F334
-[/us/pl/95/99/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99%2Fs5
+[/us/pl/95/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99
 [/us/stat/91/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F832
-[/us/pl/94/471/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs5
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/stat/90/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2054
-[/us/pl/94/471/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs6
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/stat/90/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2055
-[/us/pl/93/96/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F96%2Fs7
+[/us/pl/93/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F96
 [/us/stat/87/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F316
 [/us/pl/93/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F96
-[/us/pl/92/372/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F372%2Fs7
+[/us/pl/92/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F372
 [/us/stat/86/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F527
-[/us/pl/92/86/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F86%2Fs7
+[/us/pl/92/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F86
 [/us/stat/85/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F309
-[/us/pl/91/356/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F356%2Fs5
+[/us/pl/91/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F356
 [/us/stat/84/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F471
-[/us/pl/90/407/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs11%2F1
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F365
 [/us/usc/t42/s1872a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1872a
-[/us/pl/90/407/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs16
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F367
 [/us/usc/t42/s1864a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1864a
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
 [/us/act/1956-08-01/ch865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch865
 [/us/stat/70/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F922
-[/us/pl/94/282/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs402
+[/us/pl/94/282/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtIV
 [/us/stat/90/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F472
-[/us/pl/94/282/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs402
+[/us/pl/94/282/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtIV
 [/us/stat/90/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F472
 
 

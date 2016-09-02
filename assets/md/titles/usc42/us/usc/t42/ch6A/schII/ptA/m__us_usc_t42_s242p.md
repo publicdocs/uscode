@@ -29,7 +29,7 @@
 
     (b) In preparing the profile required by subsection (a) of this section, the Secretary, acting through the National Center for Health Statistics, shall comply with all relevant provisions of sections 242k and 242m of this title.
 
-([Pub. L. 95–626, title IV, § 404][/us/pl/95/626/s404], Nov. 10, 1978, [92 Stat. 3591][/us/stat/92/3591]; [Pub. L. 100–177, title I, § 106(b)][/us/pl/100/177/s106/b], Dec. 1, 1987, [101 Stat. 989][/us/stat/101/989].)
+([Pub. L. 95–626, title IV][/us/pl/95/626/tIV], § 404, Nov. 10, 1978, [92 Stat. 3591][/us/stat/92/3591]; [Pub. L. 100–177, title I][/us/pl/100/177/tI], § 106(b), Dec. 1, 1987, [101 Stat. 989][/us/stat/101/989].)
 
  __References in Text__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/95/626/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs404
+[/us/pl/95/626/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtIV
 [/us/stat/92/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3591
-[/us/pl/100/177/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs106%2Fb
+[/us/pl/100/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtI
 [/us/stat/101/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F989
 [/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/stat/92/3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3551

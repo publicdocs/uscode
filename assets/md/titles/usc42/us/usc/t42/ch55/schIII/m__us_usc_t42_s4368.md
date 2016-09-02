@@ -37,7 +37,7 @@
 
     (7) No financial assistance provided under this section shall be used to support lobbying or litigation by any recipient group.
 
-([Pub. L. 95–477, § 3(d)][/us/pl/95/477/s3/d], Oct. 18, 1978, [92 Stat. 1509][/us/stat/92/1509].)
+([Pub. L. 95–477][/us/pl/95/477], § 3(d), Oct. 18, 1978, [92 Stat. 1509][/us/stat/92/1509].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/95/477/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477%2Fs3%2Fd
+[/us/pl/95/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477
 [/us/stat/92/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1509
 [/us/pl/95/477/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477%2Fs3
 [/us/usc/t42/s4366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4366

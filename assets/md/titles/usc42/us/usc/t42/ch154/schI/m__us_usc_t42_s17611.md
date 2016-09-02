@@ -153,7 +153,7 @@
 
             (D) communicating the National Strategy to Congress and being available to answer questions related to the strategy at congressional hearings, if requested by committees of appropriate jurisdictions, on the contents of the National Strategy and progress of the Department of Justice in implementing the National Strategy.
 
-([Pub. L. 110–401, title I, § 101][/us/pl/110/401/s101], Oct. 13, 2008, [122 Stat. 4230][/us/stat/122/4230]; [Pub. L. 112–206, § 6][/us/pl/112/206/s6], Dec. 7, 2012, [126 Stat. 1493][/us/stat/126/1493].)
+([Pub. L. 110–401, title I][/us/pl/110/401/tI], § 101, Oct. 13, 2008, [122 Stat. 4230][/us/stat/122/4230]; [Pub. L. 112–206][/us/pl/112/206], § 6, Dec. 7, 2012, [126 Stat. 1493][/us/stat/126/1493].)
 
  __Amendments__ 
 
@@ -166,9 +166,9 @@
 ----------
 ----------
 
-[/us/pl/110/401/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs101
+[/us/pl/110/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtI
 [/us/stat/122/4230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4230
-[/us/pl/112/206/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs6
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 [/us/stat/126/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1493
 [/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 

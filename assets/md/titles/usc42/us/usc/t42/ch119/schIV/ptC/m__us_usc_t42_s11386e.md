@@ -27,11 +27,11 @@
 
         Not later than 45 days after the date of receipt of an appeal described in subsection (a), the Secretary shall determine if certification was unreasonably withheld. If such certification was unreasonably withheld, the Secretary shall review such application and determine if such applicant shall receive funding under this part.
 
-([Pub. L. 100–77, title IV, § 431][/us/pl/100/77/s431], as added [Pub. L. 111–22, div. B, title III, § 1305(3)][/us/pl/111/22/s1305/3], May 20, 2009, [123 Stat. 1696][/us/stat/123/1696].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 431, as added [Pub. L. 111–22, div. B, title III][/us/pl/111/22/dB/tIII], § 1305(3), May 20, 2009, [123 Stat. 1696][/us/stat/123/1696].)
 
  __Prior Provisions__ 
 
-    A prior [section 431 of Pub. L. 100–77][/us/pl/100/77/s431] was classified to [section 11391 of this title][/us/usc/t42/s11391] prior to repeal by [Pub. L. 111–22, div. B, title V, § 1501][/us/pl/111/22/s1501], May 20, 2009, [123 Stat. 1701][/us/stat/123/1701].
+    A prior [section 431 of Pub. L. 100–77][/us/pl/100/77/s431] was classified to [section 11391 of this title][/us/usc/t42/s11391] prior to repeal by [Pub. L. 111–22, div. B, title V][/us/pl/111/22/dB/tV], § 1501, May 20, 2009, [123 Stat. 1701][/us/stat/123/1701].
 
  __Effective Date__ 
 
@@ -45,12 +45,12 @@
 ----------
 
 [/us/usc/t42/s11361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11361
-[/us/pl/100/77/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs431
-[/us/pl/111/22/s1305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1305%2F3
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
+[/us/pl/111/22/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtIII
 [/us/stat/123/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1696
 [/us/pl/100/77/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs431
 [/us/usc/t42/s11391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11391
-[/us/pl/111/22/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1501
+[/us/pl/111/22/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtV
 [/us/stat/123/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1701
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302

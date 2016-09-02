@@ -129,7 +129,7 @@
 
             Each Federal Board member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
 
-([Pub. L. 110–298, title I, § 103][/us/pl/110/298/s103], July 31, 2008, [122 Stat. 2987][/us/stat/122/2987].)
+([Pub. L. 110–298, title I][/us/pl/110/298/tI], § 103, July 31, 2008, [122 Stat. 2987][/us/stat/122/2987].)
 
 ----------
 
@@ -142,7 +142,7 @@
 [/us/usc/t42/s15244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15244
 [/us/usc/t28/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1821
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/110/298/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs103
+[/us/pl/110/298/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2FtI
 [/us/stat/122/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2987
 
 

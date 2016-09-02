@@ -57,11 +57,11 @@
 
         (2) a signed acknowledgment by the child that the child has been provided with a copy of the document and that the rights contained in the document have been explained to the child in an age-appropriate way.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 475A, as added and amended [Pub. L. 113–183, title I][/us/pl/113/183], §§ 112(b)(1), 113(d), Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], 1929.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 475A, as added and amended [Pub. L. 113–183, title I][/us/pl/113/183/tI], §§ 112(b)(1), 113(d), Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], 1929.)
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–183, § 113(d)][/us/pl/113/183/s113/d], added subsec. (b).
+    2014—Subsec. (b). [Pub. L. 113–183][/us/pl/113/183], § 113(d), added subsec. (b).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -81,9 +81,9 @@
 [/us/usc/t42/s675/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FC
 [/us/usc/t42/s675/5/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FI
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtI
 [/us/stat/128/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1926
-[/us/pl/113/183/s113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fd
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/pl/113/183/s113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fd
 [/us/pl/113/183/s113/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Ff
 [/us/usc/t42/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675

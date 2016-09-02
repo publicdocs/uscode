@@ -79,17 +79,17 @@
 
         make such rules and regulations as he deems necessary to carry out the purposes of this subchapter.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 510, [63 Stat. 437][/us/stat/63/437]; [Pub. L. 94–375, § 25(c)][/us/pl/94/375/s25/c], Aug. 3, 1976, [90 Stat. 1078][/us/stat/90/1078]; [Pub. L. 95–557, title V, § 503][/us/pl/95/557/s503], Oct. 31, 1978, [92 Stat. 2112][/us/stat/92/2112]; [Pub. L. 96–153, title V, § 507][/us/pl/96/153/s507], Dec. 21, 1979, [93 Stat. 1136][/us/stat/93/1136]; [Pub. L. 96–399, title V][/us/pl/96/399], §§ 508, 510, Oct. 8, 1980, [94 Stat. 1670][/us/stat/94/1670], 1671; [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 507\], Nov. 30, 1983, [97 Stat. 1243][/us/stat/97/1243]; [Pub. L. 98–479, title I, § 105(c)][/us/pl/98/479/s105/c], Oct. 17, 1984, [98 Stat. 2227][/us/stat/98/2227]; [Pub. L. 100–242, title III, § 313][/us/pl/100/242/s313], Feb. 5, 1988, [101 Stat. 1897][/us/stat/101/1897]; [Pub. L. 100–628, title X, § 1045][/us/pl/100/628/s1045], Nov. 7, 1988, [102 Stat. 3273][/us/stat/102/3273]; [Pub. L. 101–625, title VII][/us/pl/101/625], §§ 710, 711, Nov. 28, 1990, [104 Stat. 4291][/us/stat/104/4291].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 510, [63 Stat. 437][/us/stat/63/437]; [Pub. L. 94–375][/us/pl/94/375], § 25(c), Aug. 3, 1976, [90 Stat. 1078][/us/stat/90/1078]; [Pub. L. 95–557, title V][/us/pl/95/557/tV], § 503, Oct. 31, 1978, [92 Stat. 2112][/us/stat/92/2112]; [Pub. L. 96–153, title V][/us/pl/96/153/tV], § 507, Dec. 21, 1979, [93 Stat. 1136][/us/stat/93/1136]; [Pub. L. 96–399, title V][/us/pl/96/399/tV], §§ 508, 510, Oct. 8, 1980, [94 Stat. 1670][/us/stat/94/1670], 1671; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 507\], Nov. 30, 1983, [97 Stat. 1243][/us/stat/97/1243]; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 105(c), Oct. 17, 1984, [98 Stat. 2227][/us/stat/98/2227]; [Pub. L. 100–242, title III][/us/pl/100/242/tIII], § 313, Feb. 5, 1988, [101 Stat. 1897][/us/stat/101/1897]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1045, Nov. 7, 1988, [102 Stat. 3273][/us/stat/102/3273]; [Pub. L. 101–625, title VII][/us/pl/101/625/tVII], §§ 710, 711, Nov. 28, 1990, [104 Stat. 4291][/us/stat/104/4291].)
 
  __Codification__ 
 
-    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    1990—Subsec. (e)(3). [Pub. L. 101–625, § 710][/us/pl/101/625/s710], inserted “, or for use as rental units under [section 1484 of this title][/us/usc/t42/s1484] with mortgages containing repayment terms with up to 33 years,” after “fifty years” and substituted “, public bodies, or for-profit entities, which have good records of providing low income housing under [section 1485 of this title][/us/usc/t42/s1485]” for “or public bodies”.
+    1990—Subsec. (e)(3). [Pub. L. 101–625][/us/pl/101/625], § 710, inserted “, or for use as rental units under [section 1484 of this title][/us/usc/t42/s1484] with mortgages containing repayment terms with up to 33 years,” after “fifty years” and substituted “, public bodies, or for-profit entities, which have good records of providing low income housing under [section 1485 of this title][/us/usc/t42/s1485]” for “or public bodies”.
 
-    Subsec. (g). [Pub. L. 101–625, § 711][/us/pl/101/625/s711], inserted before semicolon at end “, except that rules issued under this subsection may not exclude from their coverage decisions made by the Secretary that are not based on objective standards contained in published regulations”.
+    Subsec. (g). [Pub. L. 101–625][/us/pl/101/625], § 711, inserted before semicolon at end “, except that rules issued under this subsection may not exclude from their coverage decisions made by the Secretary that are not based on objective standards contained in published regulations”.
 
     1988—Subsec. (c). [Pub. L. 100–242][/us/pl/100/242] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “compromise claims and obligations arising out of sections 1472 to 1475 of this title and adjust and modify the terms of mortgages, leases, contracts, and agreements entered into as circumstances may require, including the release from personal liability, without payments of further consideration, of—
 
@@ -101,13 +101,13 @@
 
     1984—Subsec. (e). [Pub. L. 98–479][/us/pl/98/479] substituted “; such” and “; where” for “. Such” and “. Where”, respectively.
 
-    1983—Subsec. (e). [Pub. L. 98–181, § 507(a)][/us/pl/98/181/s507/a], inserted provisions relating to the authority of the Secretary to transfer section 1472 inventory property to private nonprofit organizations or public bodies.
+    1983—Subsec. (e). [Pub. L. 98–181][/us/pl/98/181], § 507(a), inserted provisions relating to the authority of the Secretary to transfer section 1472 inventory property to private nonprofit organizations or public bodies.
 
-    Subsecs. (j), (k). [Pub. L. 98–181, § 507(b)][/us/pl/98/181/s507/b], added subsec. (j) and redesignated former subsec. (j) as (k).
+    Subsecs. (j), (k). [Pub. L. 98–181][/us/pl/98/181], § 507(b), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-    1980—Subsec. (e)(1). [Pub. L. 96–399, § 508][/us/pl/96/399/s508], inserted provisions respecting cost-effective energy conservation standards prescribed under [section 1479(a) of this title][/us/usc/t42/s1479/a].
+    1980—Subsec. (e)(1). [Pub. L. 96–399][/us/pl/96/399], § 508, inserted provisions respecting cost-effective energy conservation standards prescribed under [section 1479(a) of this title][/us/usc/t42/s1479/a].
 
-    Subsec. (h). [Pub. L. 96–399, § 510][/us/pl/96/399/s510], inserted provisions respecting subsequent loans to permit necessary dwelling repairs and rehabilitation.
+    Subsec. (h). [Pub. L. 96–399][/us/pl/96/399], § 510, inserted provisions respecting subsequent loans to permit necessary dwelling repairs and rehabilitation.
 
     1979—Subsec. (e). [Pub. L. 96–153][/us/pl/96/153] substituted “United States therein, to repair and rehabilitate such property, and to sell” for “United States therein and to sell”, and inserted provision that the Secretary may not sell or otherwise dispose of such property unless the conditions in cls. (1) to (3) are satisfied.
 
@@ -121,7 +121,7 @@
 
  __Study of Problems Caused by Remote Claims__ 
 
-    [Pub. L. 95–557, title V, § 509][/us/pl/95/557/s509], Oct. 31, 1978, [92 Stat. 2114][/us/stat/92/2114], directed Secretary of Agriculture to make a detailed study of problems associated with obtaining title insurance by persons in rural areas with respect to real property encumbered by remote claims and make a final report to Congress with respect to such study not later than one year after Oct. 31, 1978.
+    [Pub. L. 95–557, title V][/us/pl/95/557/tV], § 509, Oct. 31, 1978, [92 Stat. 2114][/us/stat/92/2114], directed Secretary of Agriculture to make a detailed study of problems associated with obtaining title insurance by persons in rural areas with respect to real property encumbered by remote claims and make a final report to Congress with respect to such study not later than one year after Oct. 31, 1978.
 
 ----------
 
@@ -141,45 +141,45 @@
 [/us/usc/t42/s1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F437
-[/us/pl/94/375/s25/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs25%2Fc
+[/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/stat/90/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1078
-[/us/pl/95/557/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs503
+[/us/pl/95/557/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtV
 [/us/stat/92/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2112
-[/us/pl/96/153/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs507
+[/us/pl/96/153/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtV
 [/us/stat/93/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1136
-[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtV
 [/us/stat/94/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1670
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1243
-[/us/pl/98/479/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs105%2Fc
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2227
-[/us/pl/100/242/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs313
+[/us/pl/100/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtIII
 [/us/stat/101/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1897
-[/us/pl/100/628/s1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1045
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3273
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVII
 [/us/stat/104/4291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4291
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/101/625/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs710
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1484
 [/us/usc/t42/s1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1485
-[/us/pl/101/625/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs711
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/98/181/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs507%2Fa
-[/us/pl/98/181/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs507%2Fb
-[/us/pl/96/399/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs508
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/usc/t42/s1479/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1479%2Fa
-[/us/pl/96/399/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs510
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/pl/94/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/95/557/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs509
+[/us/pl/95/557/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtV
 [/us/stat/92/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2114
 
 

@@ -31,7 +31,7 @@
 
         (2) the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1183, as added [Pub. L. 111–148, title VI, § 6301(d)][/us/pl/111/148/s6301/d], Mar. 23, 2010, [124 Stat. 741][/us/stat/124/741].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1183, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6301(d), Mar. 23, 2010, [124 Stat. 741][/us/stat/124/741].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6301%2Fd
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F741
 
 

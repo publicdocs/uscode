@@ -55,7 +55,7 @@
 
         The Institute shall afford notice and reasonable opportunity for comment to interested parties prior to issuing rules, regulations, guidelines, and instructions under this chapter, and it shall publish in the Federal Register all rules, regulations, guidelines, and instructions.
 
-([Pub. L. 98–620, title II, § 203][/us/pl/98/620/s203], Nov. 8, 1984, [98 Stat. 3336][/us/stat/98/3336]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–690, title VII, § 7321(b)(1)][/us/pl/100/690/s7321/b/1], Nov. 18, 1988, [102 Stat. 4466][/us/stat/102/4466]; [Pub. L. 100–702, title VI, § 601][/us/pl/100/702/s601], Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652]; [Pub. L. 102–528, § 3(1)][/us/pl/102/528/s3/1], Oct. 27, 1992, [106 Stat. 3462][/us/stat/106/3462].)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 203, Nov. 8, 1984, [98 Stat. 3336][/us/stat/98/3336]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7321(b)(1), Nov. 18, 1988, [102 Stat. 4466][/us/stat/102/4466]; [Pub. L. 100–702, title VI][/us/pl/100/702/tVI], § 601, Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652]; [Pub. L. 102–528][/us/pl/102/528], § 3(1), Oct. 27, 1992, [106 Stat. 3462][/us/stat/106/3462].)
 
  __References in Text__ 
 
@@ -124,15 +124,15 @@
 [/us/usc/t26/s170/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fc%2F2%2FB
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/98/620/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs203
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/690/s7321/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7321%2Fb%2F1
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4466
-[/us/pl/100/702/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs601
+[/us/pl/100/702/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVI
 [/us/stat/102/4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4652
-[/us/pl/102/528/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528%2Fs3%2F1
+[/us/pl/102/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F528
 [/us/stat/106/3462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3462
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336

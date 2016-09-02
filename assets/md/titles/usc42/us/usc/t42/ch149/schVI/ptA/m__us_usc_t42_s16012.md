@@ -23,7 +23,7 @@
 
         The terms used in this section shall have the same meaning as those terms have under [section 2014 of this title][/us/usc/t42/s2014], unless otherwise expressly provided in this section.
 
-([Pub. L. 109–58, title VI, § 635][/us/pl/109/58/s635], Aug. 8, 2005, [119 Stat. 790][/us/stat/119/790].)
+([Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 635, Aug. 8, 2005, [119 Stat. 790][/us/stat/119/790].)
 
 ----------
 
@@ -36,7 +36,7 @@
 [/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014
-[/us/pl/109/58/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs635
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F790
 
 

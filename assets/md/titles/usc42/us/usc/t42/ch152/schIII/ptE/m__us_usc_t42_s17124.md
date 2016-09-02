@@ -53,7 +53,7 @@
 
         There are authorized to be appropriated such sums as are necessary to the Secretary for carrying out this section.
 
-([Pub. L. 110–140, title IV, § 495][/us/pl/110/140/s495], Dec. 19, 2007, [121 Stat. 1654][/us/stat/121/1654].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 495, Dec. 19, 2007, [121 Stat. 1654][/us/stat/121/1654].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs495
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1654
 
 

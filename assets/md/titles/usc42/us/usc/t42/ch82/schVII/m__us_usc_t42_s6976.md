@@ -27,7 +27,7 @@
 
         Review of the Administrator’s action (1) in issuing, denying, modifying, or revoking any permit under [section 6925 of this title][/us/usc/t42/s6925] (or in modifying or revoking any permit which is deemed to have been issued under section 6935(d)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title), or (2) in granting, denying, or withdrawing authorization or interim authorization under [section 6926 of this title][/us/usc/t42/s6926], may be had by any interested person in the Circuit Court of Appeals of the United States for the Federal judicial district in which such person resides or transacts such business upon application by such person. Any such application shall be made within ninety days from the date of such issuance, denial, modification, revocation, grant, or withdrawal, or after such date only if such application is based solely on grounds which arose after such ninetieth day. Action of the Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in civil or criminal proceedings for enforcement. Such review shall be in accordance with sections 701 through 706 of title 5.
 
-([Pub. L. 89–272, title II, § 7006][/us/pl/89/272/s7006], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2827][/us/stat/90/2827]; amended [Pub. L. 96–482, § 27][/us/pl/96/482/s27], Oct. 21, 1980, [94 Stat. 2349][/us/stat/94/2349]; [Pub. L. 98–616, title II, § 241(b)(1)][/us/pl/98/616/s241/b/1], title IV, § 403(d)(5), Nov. 8, 1984, [98 Stat. 3259][/us/stat/98/3259], 3273.)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 7006, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2827][/us/stat/90/2827]; amended [Pub. L. 96–482][/us/pl/96/482], § 27, Oct. 21, 1980, [94 Stat. 2349][/us/stat/94/2349]; [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 241(b)(1), title IV, § 403(d)(5), Nov. 8, 1984, [98 Stat. 3259][/us/stat/98/3259], 3273.)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
     1984—[Pub. L. 98–616][/us/pl/98/616] inserted “(or in modifying or revoking any permit which is deemed to have been issued under [section 6935(d)(1) of this title][/us/usc/t42/s6935/d/1])” and inserted “Action of the Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in civil or criminal proceedings for enforcement.”
 
-    1980—[Pub. L. 96–482, § 27(a)][/us/pl/96/482/s27/a], designated existing provisions as subsec. (a), in provision preceding par. (1), included judicial review of Administrator’s denial of any petition for promulgation, amendment, or repeal of any regulation in par. (1), included review of Administrator’s denial of any petition for promulgation, amendment, or repeal of any regulation, and substituted “District of Columbia, and” for “District of Columbia. Any”, “date of such promulgation or denial” for “date of such promulgation”, “petition for review is based” for “petition is based”, and “; action” for “. Action”, and in par. (2), substituted “proper; the” for “proper. The”, and added subsec. (b).
+    1980—[Pub. L. 96–482][/us/pl/96/482], § 27(a), designated existing provisions as subsec. (a), in provision preceding par. (1), included judicial review of Administrator’s denial of any petition for promulgation, amendment, or repeal of any regulation in par. (1), included review of Administrator’s denial of any petition for promulgation, amendment, or repeal of any regulation, and substituted “District of Columbia, and” for “District of Columbia. Any”, “date of such promulgation or denial” for “date of such promulgation”, “petition for review is based” for “petition is based”, and “; action” for “. Action”, and in par. (2), substituted “proper; the” for “proper. The”, and added subsec. (b).
 
  __Transfer of Functions__ 
 
@@ -52,12 +52,12 @@
 
 [/us/usc/t42/s6925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925
 [/us/usc/t42/s6926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6926
-[/us/pl/89/272/s7006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs7006
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2827
-[/us/pl/96/482/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs27
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2349
-[/us/pl/98/616/s241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs241%2Fb%2F1
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3259
 [/us/usc/t42/s6935/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935%2Fd%2F1
 [/us/pl/89/272/s3012/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3012%2Fd%2F1
@@ -66,7 +66,7 @@
 [/us/usc/t42/s6935/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935%2Fd%2F1
 [/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/usc/t42/s6935/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6935%2Fd%2F1
-[/us/pl/96/482/s27/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs27%2Fa
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 
 

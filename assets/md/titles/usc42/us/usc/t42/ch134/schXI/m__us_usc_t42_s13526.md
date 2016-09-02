@@ -35,7 +35,7 @@
 
         Within 90 days after October 24, 1992, the Secretary shall submit a report to the Congress containing definitions of the terms “uncosted obligation”, “committed uncosted obligation”, and “uncommitted uncosted obligation” for purposes of reports to be submitted under subsection (a) of this section.
 
-([Pub. L. 102–486, title XXIII, § 2307][/us/pl/102/486/s2307], Oct. 24, 1992, [106 Stat. 3096][/us/stat/106/3096].)
+([Pub. L. 102–486, title XXIII][/us/pl/102/486/tXXIII], § 2307, Oct. 24, 1992, [106 Stat. 3096][/us/stat/106/3096].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2307
+[/us/pl/102/486/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIII
 [/us/stat/106/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3096
 
 

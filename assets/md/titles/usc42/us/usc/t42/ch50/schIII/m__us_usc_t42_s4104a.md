@@ -51,7 +51,7 @@
 
         The Administrator (or the designee of the Administrator) shall, not less than 45 days before the expiration of any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Administrator) the owner of the loan.
 
-([Pub. L. 90–448, title XIII, § 1364][/us/pl/90/448/s1364], as added [Pub. L. 93–383, title VIII, § 816(a)][/us/pl/93/383/s816/a], Aug. 22, 1974, [88 Stat. 739][/us/stat/88/739]; amended [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V, § 527][/us/pl/103/325/s527], Sept. 23, 1994, [108 Stat. 2263][/us/stat/108/2263]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100238(b)(1), 100239(b), July 6, 2012, [126 Stat. 958][/us/stat/126/958], 960.)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1364, as added [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 816(a), Aug. 22, 1974, [88 Stat. 739][/us/stat/88/739]; amended [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 527, Sept. 23, 1994, [108 Stat. 2263][/us/stat/108/2263]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], §§ 100238(b)(1), 100239(b), July 6, 2012, [126 Stat. 958][/us/stat/126/958], 960.)
 
  __References in Text__ 
 
@@ -61,11 +61,11 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” wherever appearing.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
 
-    Subsec. (a)(3)(C). [Pub. L. 112–141, § 100239(b)][/us/pl/112/141/s100239/b], inserted “, as required under section 102(b)(6) of the Flood Disaster Protection Act of 1973 ([42 U.S.C. 4012a(b)(6)][/us/usc/t42/s4012a/b/6])” after “private insurers”.
+    Subsec. (a)(3)(C). [Pub. L. 112–141][/us/pl/112/141], § 100239(b), inserted “, as required under section 102(b)(6) of the Flood Disaster Protection Act of 1973 ([42 U.S.C. 4012a(b)(6)][/us/usc/t42/s4012a/b/6])” after “private insurers”.
 
-    Subsecs. (b)(1), (c). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” wherever appearing.
+    Subsecs. (b)(1), (c). [Pub. L. 112–141][/us/pl/112/141], § 100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
 
     1994—[Pub. L. 103–325][/us/pl/103/325] amended section generally. Prior to amendment, section read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation require such institutions, as a condition of making, increasing, extending, or renewing (after the expiration of thirty days following August 22, 1974) any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director under this chapter or [Public Law 93–234][/us/pl/93/234] as an area having special flood hazards, to notify the purchaser or lessee (or obtain satisfactory assurances that the seller or lessor has notified the purchaser or lessee) of such special flood hazards, in writing, a reasonable period in advance of the signing of the purchase agreement, lease, or other documents involved in the transaction.”
 
@@ -86,14 +86,14 @@
 
 [/us/usc/t42/s4012a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a%2Fb
 [/us/usc/t42/s4012a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a%2Fb%2F6
-[/us/pl/90/448/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1364
-[/us/pl/93/383/s816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs816%2Fa
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F739
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/103/325/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs527
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2263
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
@@ -103,10 +103,10 @@
 [/us/usc/t42/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4021
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
-[/us/pl/112/141/s100239/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100239%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t42/s4012a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a%2Fb%2F6
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181

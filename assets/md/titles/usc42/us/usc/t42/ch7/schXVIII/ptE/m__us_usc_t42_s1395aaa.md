@@ -73,7 +73,7 @@
 
             The entity shall establish and implement a process to ensure that measures endorsed under paragraph (2) are updated (or retired if obsolete) as new evidence is developed.
 
-        (4) __Repealed.__  __[__  __Pub. L. 112–240, title VI, § 609(a)(2)__  __][/us/pl/112/240/s609/a/2]__  __,__  __Jan. 2, 2013__  __,__  __[__  __126 Stat. 2349__  __][/us/stat/126/2349]__ 
+        (4) __Repealed.__  __[__  __Pub. L. 112–240, title VI__  __][/us/pl/112/240/tVI]__  __, § 609(a)(2),__  __Jan. 2, 2013__  __,__  __[__  __126 Stat. 2349__  __][/us/stat/126/2349]__ 
 
         (5) __Annual report to Congress and the Secretary; secretarial publication and comment__ 
 
@@ -207,21 +207,21 @@
 
         (2) For purposes of carrying out this section and [section 1395aaa–1 of this title][/us/usc/t42/s1395aaa–1] (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under [section 1395i of this title][/us/usc/t42/s1395i] and the Federal Supplementary Medical Insurance Trust Fund under [section 1395t of this title][/us/usc/t42/s1395t], in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014 and $30,000,000 for each of fiscal years 2015 through 2017. Amounts transferred under the preceding sentence shall remain available until expended.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1890, as added [Pub. L. 110–275, title I, § 183(a)(1)][/us/pl/110/275/s183/a/1], July 15, 2008, [122 Stat. 2583][/us/stat/122/2583]; amended [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3003(b), 3014(a), title X, §§ 10304, 10322(b), Mar. 23, 2010, [124 Stat. 367][/us/stat/124/367], 384, 938, 954; [Pub. L. 112–240, title VI, § 609(a)][/us/pl/112/240/s609/a], Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349]; [Pub. L. 113–67, div. B, title I, § 1109][/us/pl/113/67/s1109], Dec. 26, 2013, [127 Stat. 1197][/us/stat/127/1197]; [Pub. L. 113–93, title I, § 109][/us/pl/113/93/s109], Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043]; [Pub. L. 114–10, title II, § 207][/us/pl/114/10/s207], Apr. 16, 2015, [129 Stat. 145][/us/stat/129/145].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1890, as added [Pub. L. 110–275, title I][/us/pl/110/275/tI], § 183(a)(1), July 15, 2008, [122 Stat. 2583][/us/stat/122/2583]; amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], §§ 3003(b), 3014(a), title X, §§ 10304, 10322(b), Mar. 23, 2010, [124 Stat. 367][/us/stat/124/367], 384, 938, 954; [Pub. L. 112–240, title VI][/us/pl/112/240/tVI], § 609(a), Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349]; [Pub. L. 113–67, div. B, title I][/us/pl/113/67/dB/tI], § 1109, Dec. 26, 2013, [127 Stat. 1197][/us/stat/127/1197]; [Pub. L. 113–93, title I][/us/pl/113/93/tI], § 109, Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043]; [Pub. L. 114–10, title II][/us/pl/114/10/tII], § 207, Apr. 16, 2015, [129 Stat. 145][/us/stat/129/145].)
 
  __References in Text__ 
 
-    Clause (iii) of [section 1395rr(h)(2)(A) of this title][/us/usc/t42/s1395rr/h/2/A], referred to in subsec. (b)(7)(B)(i)(I), was redesignated clause (iv) by [Pub. L. 113–93, title II, § 217(d)(1)(B)][/us/pl/113/93/s217/d/1/B], Apr. 1, 2014, [128 Stat. 1062][/us/stat/128/1062].
+    Clause (iii) of [section 1395rr(h)(2)(A) of this title][/us/usc/t42/s1395rr/h/2/A], referred to in subsec. (b)(7)(B)(i)(I), was redesignated clause (iv) by [Pub. L. 113–93, title II][/us/pl/113/93/tII], § 217(d)(1)(B), Apr. 1, 2014, [128 Stat. 1062][/us/stat/128/1062].
 
     Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (c)(5), is [section 12(d) of Pub. L. 104–113][/us/pl/104/113/s12/d], which is set out as a note under [section 272 of Title 15][/us/usc/t15/s272], Commerce and Trade.
 
  __Codification__ 
 
-    In subsec. (a)(4), “[section 132 of title 41][/us/usc/t41/s132]” substituted for “section 4(5) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(5)][/us/usc/t41/s403/5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(4), “[section 132 of title 41][/us/usc/t41/s132]” substituted for “section 4(5) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(5)][/us/usc/t41/s403/5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
-    A prior section 1395aaa, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1890, as added Aug. 18, 1987, [Pub. L. 100–93, § 10][/us/pl/100/93/s10], [101 Stat. 696][/us/stat/101/696], which related to limitation of liability of beneficiaries with respect to services furnished by excluded individuals and entities, was amended and transferred to section 1862(e)(2) of act Aug. 14, 1935, by [Pub. L. 100–360, title IV, § 411(i)(4)(D)(ii)][/us/pl/100/360/s411/i/4/D/ii], July 1, 1988, [102 Stat. 790][/us/stat/102/790], as amended by [Pub. L. 100–485, title VI, § 608(d)(24)(C)(ii)][/us/pl/100/485/s608/d/24/C/ii], Oct. 13, 1988, [102 Stat. 2421][/us/stat/102/2421], and is classified to [section 1395y(e)(2) of this title][/us/usc/t42/s1395y/e/2].
+    A prior section 1395aaa, [act Aug. 14, 1935, ch. 531, title XVIII][/us/act/1935-08-14/ch531/tXVIII], § 1890, as added Aug. 18, 1987, [Pub. L. 100–93][/us/pl/100/93], § 10, [101 Stat. 696][/us/stat/101/696], which related to limitation of liability of beneficiaries with respect to services furnished by excluded individuals and entities, was amended and transferred to section 1862(e)(2) of act Aug. 14, 1935, by [Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(i)(4)(D)(ii), July 1, 1988, [102 Stat. 790][/us/stat/102/790], as amended by [Pub. L. 100–485, title VI][/us/pl/100/485/tVI], § 608(d)(24)(C)(ii), Oct. 13, 1988, [102 Stat. 2421][/us/stat/102/2421], and is classified to [section 1395y(e)(2) of this title][/us/usc/t42/s1395y/e/2].
 
  __Amendments__ 
 
@@ -229,25 +229,25 @@
 
     2014—Subsec. (d). [Pub. L. 113–93][/us/pl/113/93] designated existing provisions as par. (1) and added par. (2).
 
-    2013—Subsec. (b)(4). [Pub. L. 112–240, § 609(a)(2)][/us/pl/112/240/s609/a/2], struck out par. (4). Text read as follows: “The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information.”
+    2013—Subsec. (b)(4). [Pub. L. 112–240][/us/pl/112/240], § 609(a)(2), struck out par. (4). Text read as follows: “The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information.”
 
     Subsec. (d). [Pub. L. 113–67][/us/pl/113/67] inserted at end “Amounts transferred under the preceding sentence shall remain available until expended.”
 
-    [Pub. L. 112–240, § 609(a)(1)][/us/pl/112/240/s609/a/1], substituted “fiscal years 2009 through 2013” for “fiscal years 2009 through 2012”.
+    [Pub. L. 112–240][/us/pl/112/240], § 609(a)(1), substituted “fiscal years 2009 through 2013” for “fiscal years 2009 through 2012”.
 
-    2010—Subsec. (b)(5)(A)(iv) to (vi). [Pub. L. 111–148, § 3014(a)(2)][/us/pl/111/148/s3014/a/2], added cls. (iv) to (vi).
+    2010—Subsec. (b)(5)(A)(iv) to (vi). [Pub. L. 111–148][/us/pl/111/148], § 3014(a)(2), added cls. (iv) to (vi).
 
-    Subsec. (b)(6). [Pub. L. 111–148, § 3003(b)][/us/pl/111/148/s3003/b], added par. (6).
+    Subsec. (b)(6). [Pub. L. 111–148][/us/pl/111/148], § 3003(b), added par. (6).
 
-    Subsec. (b)(7). [Pub. L. 111–148, § 10304][/us/pl/111/148/s10304], substituted “quality and efficiency” for “quality” wherever appearing in text.
+    Subsec. (b)(7). [Pub. L. 111–148][/us/pl/111/148], § 10304, substituted “quality and efficiency” for “quality” wherever appearing in text.
 
-    [Pub. L. 111–148, § 3014(a)(1)][/us/pl/111/148/s3014/a/1], added par. (7).
+    [Pub. L. 111–148][/us/pl/111/148], § 3014(a)(1), added par. (7).
 
-    Subsec. (b)(7)(B). [Pub. L. 111–148, § 10304][/us/pl/111/148/s10304], which directed substitution of “quality and efficiency” for “quality” wherever appearing, was executed by substituting “Quality and efficiency” for “Quality” in subpar. heading to reflect the probable intent of Congress.
+    Subsec. (b)(7)(B). [Pub. L. 111–148][/us/pl/111/148], § 10304, which directed substitution of “quality and efficiency” for “quality” wherever appearing, was executed by substituting “Quality and efficiency” for “Quality” in subpar. heading to reflect the probable intent of Congress.
 
-    Subsec. (b)(7)(B)(i)(I). [Pub. L. 111–148, § 10322(b)][/us/pl/111/148/s10322/b], inserted “1395ww(s)(4)(D),” after “1395ww(o)(2),”.
+    Subsec. (b)(7)(B)(i)(I). [Pub. L. 111–148][/us/pl/111/148], § 10322(b), inserted “1395ww(s)(4)(D),” after “1395ww(o)(2),”.
 
-    Subsec. (b)(8). [Pub. L. 111–148, § 3014(a)(1)][/us/pl/111/148/s3014/a/1], added par. (8).
+    Subsec. (b)(8). [Pub. L. 111–148][/us/pl/111/148], § 3014(a)(1), added par. (8).
 
 ----------
 
@@ -257,7 +257,7 @@
 ----------
 
 [/us/usc/t41/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs132
-[/us/pl/112/240/s609/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs609%2Fa%2F2
+[/us/pl/112/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVI
 [/us/stat/126/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2349
 [/us/usc/t42/s280j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280j
 [/us/usc/t42/s280j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280j
@@ -271,46 +271,46 @@
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/110/275/s183/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs183%2Fa%2F1
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2583
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F367
-[/us/pl/112/240/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs609%2Fa
+[/us/pl/112/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVI
 [/us/stat/126/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2349
-[/us/pl/113/67/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1109
+[/us/pl/113/67/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdB%2FtI
 [/us/stat/127/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1197
-[/us/pl/113/93/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs109
+[/us/pl/113/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtI
 [/us/stat/128/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1043
-[/us/pl/114/10/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs207
+[/us/pl/114/10/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtII
 [/us/stat/129/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F145
 [/us/usc/t42/s1395rr/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395rr%2Fh%2F2%2FA
-[/us/pl/113/93/s217/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs217%2Fd%2F1%2FB
+[/us/pl/113/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2FtII
 [/us/stat/128/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1062
 [/us/pl/104/113/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fd
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
 [/us/usc/t41/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs132
 [/us/usc/t41/s403/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/100/93/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93%2Fs10
+[/us/act/1935-08-14/ch531/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXVIII
+[/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
 [/us/stat/101/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F696
-[/us/pl/100/360/s411/i/4/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fi%2F4%2FD%2Fii
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F790
-[/us/pl/100/485/s608/d/24/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F24%2FC%2Fii
+[/us/pl/100/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVI
 [/us/stat/102/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2421
 [/us/usc/t42/s1395y/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fe%2F2
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
-[/us/pl/112/240/s609/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs609%2Fa%2F2
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
-[/us/pl/112/240/s609/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs609%2Fa%2F1
-[/us/pl/111/148/s3014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3014%2Fa%2F2
-[/us/pl/111/148/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3003%2Fb
-[/us/pl/111/148/s10304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10304
-[/us/pl/111/148/s3014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3014%2Fa%2F1
-[/us/pl/111/148/s10304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10304
-[/us/pl/111/148/s10322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10322%2Fb
-[/us/pl/111/148/s3014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3014%2Fa%2F1
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

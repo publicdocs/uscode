@@ -223,7 +223,7 @@
 
         Actions by the Secretary under the authority of this section are committed to agency discretion.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F–1, as added [Pub. L. 108–276, § 2(a)][/us/pl/108/276/s2/a], July 21, 2004, [118 Stat. 835][/us/stat/118/835]; amended [Pub. L. 109–417, title IV, § 403(a)][/us/pl/109/417/s403/a], Dec. 19, 2006, [120 Stat. 2874][/us/stat/120/2874]; [Pub. L. 113–5, title IV, § 402(g)(1)][/us/pl/113/5/s402/g/1], Mar. 13, 2013, [127 Stat. 195][/us/stat/127/195].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F–1, as added [Pub. L. 108–276][/us/pl/108/276], § 2(a), July 21, 2004, [118 Stat. 835][/us/stat/118/835]; amended [Pub. L. 109–417, title IV][/us/pl/109/417/tIV], § 403(a), Dec. 19, 2006, [120 Stat. 2874][/us/stat/120/2874]; [Pub. L. 113–5, title IV][/us/pl/113/5/tIV], § 402(g)(1), Mar. 13, 2013, [127 Stat. 195][/us/stat/127/195].)
 
  __References in Text__ 
 
@@ -233,23 +233,23 @@
 
  __Codification__ 
 
-    In subsec. (b)(1)(A), “[section 134 of title 41][/us/usc/t41/s134]” substituted for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11])” and “[section 3101(b)(1)(A) of title 41][/us/usc/t41/s3101/b/1/A]” substituted for “section 302A(a) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252a(a)][/us/usc/t41/s252a/a])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1)(A), “[section 134 of title 41][/us/usc/t41/s134]” substituted for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11])” and “[section 3101(b)(1)(A) of title 41][/us/usc/t41/s3101/b/1/A]” substituted for “section 302A(a) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252a(a)][/us/usc/t41/s252a/a])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (b)(1)(A)(i), “[section 3305(a)(1) of title 41][/us/usc/t41/s3305/a/1]” substituted for “section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)(A)][/us/usc/t41/s253/g/1/A])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1)(A)(i), “[section 3305(a)(1) of title 41][/us/usc/t41/s3305/a/1]” substituted for “section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)(A)][/us/usc/t41/s253/g/1/A])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (b)(1)(A)(ii), “[section 3101(b)(1)(B) of title 41][/us/usc/t41/s3101/b/1/B]” substituted for “section 302A(b) of such Act ([41 U.S.C. 252a(b)][/us/usc/t41/s252a/b])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1)(A)(ii), “[section 3101(b)(1)(B) of title 41][/us/usc/t41/s3101/b/1/B]” substituted for “section 302A(b) of such Act ([41 U.S.C. 252a(b)][/us/usc/t41/s252a/b])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (b)(1)(B)(ii), “[Section 8703(a) of title 41][/us/usc/t41/s8703/a]” substituted for “Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 ([41 U.S.C. 57(a)][/us/usc/t41/s57/a] and (b))” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1)(B)(ii), “[Section 8703(a) of title 41][/us/usc/t41/s8703/a]” substituted for “Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 ([41 U.S.C. 57(a)][/us/usc/t41/s57/a] and (b))” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (b)(1)(B)(iii), “[Section 4706 of title 41][/us/usc/t41/s4706]” substituted for “Section 304C of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254d][/us/usc/t41/s254d])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1)(B)(iii), “[Section 4706 of title 41][/us/usc/t41/s4706]” substituted for “Section 304C of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254d][/us/usc/t41/s254d])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (b)(1)(B)(v), “[Section 3901 of title 41][/us/usc/t41/s3901]” substituted for “Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254(a)][/us/usc/t41/s254/a])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1)(B)(v), “[Section 3901 of title 41][/us/usc/t41/s3901]” substituted for “Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254(a)][/us/usc/t41/s254/a])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (b)(2)(A), “[section 3304(a)(1) of title 41][/us/usc/t41/s3304/a/1]” substituted for “section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(1)][/us/usc/t41/s253/c/1])” and “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(2)(A), “[section 3304(a)(1) of title 41][/us/usc/t41/s3304/a/1]” substituted for “section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(1)][/us/usc/t41/s253/c/1])” and “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (b)(2)(C), “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(2)(C), “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (b)(3)(A), “subsections (a), (d), and (e) of [section 1902 of title 41][/us/usc/t41/s1902]” substituted for “subsections (c), (d), and (f) of section 32 of the Office of Federal Procurement Policy Act ([41 U.S.C. 428][/us/usc/t41/s428])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(3)(A), “subsections (a), (d), and (e) of [section 1902 of title 41][/us/usc/t41/s1902]” substituted for “subsections (c), (d), and (f) of section 32 of the Office of Federal Procurement Policy Act ([41 U.S.C. 428][/us/usc/t41/s428])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -263,13 +263,13 @@
 
  __Rule of Construction__ 
 
-[Pub. L. 108–276, § 2(e)][/us/pl/108/276/s2/e], July 21, 2004, [118 Stat. 842][/us/stat/118/842], provided that: 
+[Pub. L. 108–276][/us/pl/108/276], § 2(e), July 21, 2004, [118 Stat. 842][/us/stat/118/842], provided that: 
 
 > “Nothing in this section \[enacting this section and amending sections 247d–6, 287a–2, and 300aa–6 of this title\] has any legal effect on sections 302(2), 302(4), 304(a), or 304(b) of the Homeland Security Act of 2002 \[[6 U.S.C. 182(2)][/us/usc/t6/s182/2], (4), 184(a), (b)\].”
 
  __Collaboration and Coordination__ 
 
-[Pub. L. 109–417, title IV, § 405][/us/pl/109/417/s405], Dec. 19, 2006, [120 Stat. 2875][/us/stat/120/2875], as amended by [Pub. L. 113–5, § 402(e)(1)][/us/pl/113/5/s402/e/1], Mar. 13, 2013, [127 Stat. 195][/us/stat/127/195], provided that:
+[Pub. L. 109–417, title IV][/us/pl/109/417/tIV], § 405, Dec. 19, 2006, [120 Stat. 2875][/us/stat/120/2875], as amended by [Pub. L. 113–5][/us/pl/113/5], § 402(e)(1), Mar. 13, 2013, [127 Stat. 195][/us/stat/127/195], provided that:
 
 >     “(a) __Limited Antitrust Exemption.—__ 
 
@@ -415,7 +415,7 @@
 
 >                 “(vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.”
 
-\[[Pub. L. 113–5, title IV, § 402(e)(2)][/us/pl/113/5/s402/e/2], Mar. 13, 2013, [127 Stat. 195][/us/stat/127/195], provided that: 
+\[[Pub. L. 113–5, title IV][/us/pl/113/5/tIV], § 402(e)(2), Mar. 13, 2013, [127 Stat. 195][/us/stat/127/195], provided that: 
 
 > “This subsection \[amending [section 405 of Pub. L. 109–417][/us/pl/109/417/s405], set out above\] shall take effect as if enacted on December 17, 2012.”
 
@@ -423,19 +423,19 @@
 
  __Outreach__ 
 
-[Pub. L. 108–276, § 6][/us/pl/108/276/s6], July 21, 2004, [118 Stat. 862][/us/stat/118/862], provided that: 
+[Pub. L. 108–276][/us/pl/108/276], § 6, July 21, 2004, [118 Stat. 862][/us/stat/118/862], provided that: 
 
 > “The Secretary of Health and Human Services shall develop outreach measures to ensure to the extent practicable that diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Black or African Americans, American Indians, Appalachian Americans, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, Hispanics or Latinos, or other underrepresented populations, are meaningfully aware of available research and development grants, contracts, cooperative agreements, and procurements conducted under sections 2 and 3 of this Act \[enacting this section and [section 320 of Title 6][/us/usc/t6/s320], Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering [section 300hh–12 of this title][/us/usc/t42/s300hh–12] as [section 247d–6b of this title][/us/usc/t42/s247d–6b], and enacting provisions set out as notes under this section and [section 247d–6b of this title][/us/usc/t42/s247d–6b]\].”
 
  __Recommendation for Export Controls on Certain Biomedical Countermeasures__ 
 
-[Pub. L. 108–276, § 7][/us/pl/108/276/s7], July 21, 2004, [118 Stat. 863][/us/stat/118/863], provided that: 
+[Pub. L. 108–276][/us/pl/108/276], § 7, July 21, 2004, [118 Stat. 863][/us/stat/118/863], provided that: 
 
 > “Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and [section 320 of Title 6][/us/usc/t6/s320], Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering [section 300hh–12 of this title][/us/usc/t42/s300hh–12] as [section 247d–6b of this title][/us/usc/t42/s247d–6b], and enacting provisions set out as notes under this section and [section 247d–6b of this title][/us/usc/t42/s247d–6b]\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under [section 201 of this title][/us/usc/t42/s201]\]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls.”
 
  __Ensuring Coordination, Cooperation and the Elimination of Unnecessary Duplication in Programs Designed To Protect the Homeland From Biological, Chemical, Radiological, and Nuclear Agents__ 
 
-[Pub. L. 108–276, § 8][/us/pl/108/276/s8], July 21, 2004, [118 Stat. 863][/us/stat/118/863], provided that:
+[Pub. L. 108–276][/us/pl/108/276], § 8, July 21, 2004, [118 Stat. 863][/us/stat/118/863], provided that:
 
 >     “(a)  __Ensuring Coordination of Programs__  __.—__ 
 
@@ -478,11 +478,11 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s2302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/108/276/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fa
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F835
-[/us/pl/109/417/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs403%2Fa
+[/us/pl/109/417/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIV
 [/us/stat/120/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2874
-[/us/pl/113/5/s402/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fg%2F1
+[/us/pl/113/5/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIV
 [/us/stat/127/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F195
 [/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F835
@@ -495,49 +495,49 @@
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11
 [/us/usc/t41/s3101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3101%2Fb%2F1%2FA
 [/us/usc/t41/s252a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs252a%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3305%2Fa%2F1
 [/us/usc/t41/s253/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fg%2F1%2FA
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3101/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3101%2Fb%2F1%2FB
 [/us/usc/t41/s252a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs252a%2Fb
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s8703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8703%2Fa
 [/us/usc/t41/s57/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs57%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s4706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4706
 [/us/usc/t41/s254d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254d
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3901
 [/us/usc/t41/s254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa%2F1
 [/us/usc/t41/s253/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fc%2F1
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1902
 [/us/usc/t41/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs428
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 [/us/usc/t21/s321/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fg%2F1
 [/us/usc/t42/s262/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fi
 [/us/usc/t21/s321/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fh
-[/us/pl/108/276/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fe
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F842
 [/us/usc/t6/s182/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs182%2F2
-[/us/pl/109/417/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs405
+[/us/pl/109/417/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIV
 [/us/stat/120/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2875
-[/us/pl/113/5/s402/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fe%2F1
+[/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/stat/127/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F195
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 [/us/usc/t42/s247d–6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936a
@@ -546,23 +546,23 @@
 [/us/usc/t15/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1311
 [/us/usc/t15/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12%2Fa
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/113/5/s402/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs402%2Fe%2F2
+[/us/pl/113/5/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtIV
 [/us/stat/127/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F195
 [/us/pl/109/417/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs405
-[/us/pl/108/276/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs6
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F862
 [/us/usc/t6/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs320
 [/us/usc/t42/s300hh–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9312
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
-[/us/pl/108/276/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs7
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F863
 [/us/usc/t6/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs320
 [/us/usc/t42/s300hh–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9312
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/108/276/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs8
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F863
 
 

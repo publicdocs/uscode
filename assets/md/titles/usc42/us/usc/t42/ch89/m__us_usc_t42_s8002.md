@@ -35,7 +35,7 @@
 
     (9) the term “nonprofit corporation” means any corporation responsible for a housing project assisted under [section 1701q of title 12][/us/usc/t12/s1701q].
 
-([Pub. L. 95–557, title IV, § 403][/us/pl/95/557/s403], Oct. 31, 1978, [92 Stat. 2105][/us/stat/92/2105].)
+([Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 403, Oct. 31, 1978, [92 Stat. 2105][/us/stat/92/2105].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/95/557/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs403
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2105
 
 

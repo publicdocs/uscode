@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8374.md) | [Next](./../../../../..//us/usc/t42/ch92/schV/m__us_usc_t42_ch92_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8375)
 
-## § 8375. Repealed. [Pub. L. 100–42, § 1(a)(5)][/us/pl/100/42/s1/a/5], May 21, 1987, [101 Stat. 310][/us/stat/101/310]
+## § 8375. Repealed. [Pub. L. 100–42][/us/pl/100/42], § 1(a)(5), May 21, 1987, [101 Stat. 310][/us/stat/101/310]
 
-    Section, [Pub. L. 95–620, title IV, § 405][/us/pl/95/620/s405], Nov. 9, 1978, [92 Stat. 3320][/us/stat/92/3320], prohibited increased use of petroleum as primary energy source in existing electric powerplants which, during calendar year 1977, used coal or another alternate fuel as primary energy source, unless permit authorizing such increased use had been issued by Secretary.
+    Section, [Pub. L. 95–620, title IV][/us/pl/95/620/tIV], § 405, Nov. 9, 1978, [92 Stat. 3320][/us/stat/92/3320], prohibited increased use of petroleum as primary energy source in existing electric powerplants which, during calendar year 1977, used coal or another alternate fuel as primary energy source, unless permit authorizing such increased use had been issued by Secretary.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/100/42/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fa%2F5
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F310
-[/us/pl/95/620/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs405
+[/us/pl/95/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtIV
 [/us/stat/92/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3320
 
 

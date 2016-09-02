@@ -203,7 +203,7 @@
 
             (B) The plan, if approved by the Secretary, would be in lieu of the State meeting such annual percentages solely through purchases of new State-owned vehicles. All conversions or acquisitions or combinations thereof of any alternative fueled vehicles under the plan must be voluntary and must conform with the requirements of section 247 of the Clean Air Act \[[42 U.S.C. 7587][/us/usc/t42/s7587]\] and must comply with applicable safety requirements. The Secretary of Transportation shall within 3 years after enactment promulgate rules setting forth safety standards in accordance with chapter 301 of title 49 applicable to all conversions.
 
-([Pub. L. 102–486, title V, § 507][/us/pl/102/486/s507], Oct. 24, 1992, [106 Stat. 2891][/us/stat/106/2891].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 507, Oct. 24, 1992, [106 Stat. 2891][/us/stat/106/2891].)
 
  __References in Text__ 
 
@@ -213,7 +213,7 @@
 
  __Codification__ 
 
-    In subsecs. (b)(1)(C)(ii) and (o)(2)(B), “chapter 301 of title 49” substituted for “the National Traffic and Motor Vehicle Safety Act of 1966 \[[15 U.S.C. 1381][/us/usc/t15/s1381] et seq.\]” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsecs. (b)(1)(C)(ii) and (o)(2)(B), “chapter 301 of title 49” substituted for “the National Traffic and Motor Vehicle Safety Act of 1966 \[[15 U.S.C. 1381][/us/usc/t15/s1381] et seq.\]” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 ----------
 
@@ -256,7 +256,7 @@
 [/us/usc/t42/s13254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13254
 [/us/usc/t42/s13256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13256
 [/us/usc/t42/s7587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7587
-[/us/pl/102/486/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs507
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2891
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
@@ -264,7 +264,7 @@
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/102/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2887
 [/us/usc/t15/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1381
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 
 

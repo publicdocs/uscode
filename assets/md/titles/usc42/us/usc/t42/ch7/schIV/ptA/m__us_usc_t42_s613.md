@@ -197,7 +197,7 @@
 
                 Not later than January 1, 2001, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  (or at a later date, if the Secretary informs the Committees of the Congress with jurisdiction over the subject matter of the report) the Secretary shall submit a final report on the matter described in subparagraph (A).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 413, as added [Pub. L. 104–193, title I, § 103(a)(1)][/us/pl/104/193/s103/a/1], Aug. 22, 1996, [110 Stat. 2153][/us/stat/110/2153]; amended [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5001(f), 5509, 5514(c), Aug. 5, 1997, [111 Stat. 592][/us/stat/111/592], 618, 620; [Pub. L. 105–200, title IV, § 410(a)][/us/pl/105/200/s410/a], July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 106–169, title IV, § 401(c)][/us/pl/106/169/s401/c], Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858]; [Pub. L. 110–234, title IV, § 4002(b)(1)(D)][/us/pl/110/234/s4002/b/1/D], (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(D), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 112–96, title IV, § 4002(e)][/us/pl/112/96/s4002/e], Feb. 22, 2012, [126 Stat. 195][/us/stat/126/195]; [Pub. L. 113–235, div. G, title II, § 228(e)][/us/pl/113/235/s228/e], Dec. 16, 2014, [128 Stat. 2492][/us/stat/128/2492].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 413, as added [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 103(a)(1), Aug. 22, 1996, [110 Stat. 2153][/us/stat/110/2153]; amended [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5001(f), 5509, 5514(c), Aug. 5, 1997, [111 Stat. 592][/us/stat/111/592], 618, 620; [Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 410(a), July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 106–169, title IV][/us/pl/106/169/tIV], § 401(c), Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(D), (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(D), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 112–96, title IV][/us/pl/112/96/tIV], § 4002(e), Feb. 22, 2012, [126 Stat. 195][/us/stat/126/195]; [Pub. L. 113–235, div. G, title II][/us/pl/113/235/dG/tII], § 228(e), Dec. 16, 2014, [128 Stat. 2492][/us/stat/128/2492].)
 
  __References in Text__ 
 
@@ -209,7 +209,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 613, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 413, as added June 9, 1980, [Pub. L. 96–265, title IV, § 406(c)][/us/pl/96/265/s406/c], [94 Stat. 467][/us/stat/94/467], related to technical assistance for developing management information systems, prior to repeal by [Pub. L. 104–193, § 103(a)(1)][/us/pl/104/193/s103/a/1], as amended by [Pub. L. 105–33, title V, § 5514(c)][/us/pl/105/33/s5514/c], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620].
+    A prior section 613, [act Aug. 14, 1935, ch. 531, title IV][/us/act/1935-08-14/ch531/tIV], § 413, as added June 9, 1980, [Pub. L. 96–265, title IV][/us/pl/96/265/tIV], § 406(c), [94 Stat. 467][/us/stat/94/467], related to technical assistance for developing management information systems, prior to repeal by [Pub. L. 104–193][/us/pl/104/193], § 103(a)(1), as amended by [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5514(c), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620].
 
  __Amendments__ 
 
@@ -217,17 +217,17 @@
 
     2012—Subsec. (h)(1). [Pub. L. 112–96][/us/pl/112/96] substituted “fiscal year 2012” for “each of fiscal years 1997 through 2002” in introductory provisions.
 
-    2008—Subsec. (i)(5). [Pub. L. 110–246, § 4002(b)(1)(D)][/us/pl/110/246/s4002/b/1/D], (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+    2008—Subsec. (i)(5). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
     1999—Subsec. (g)(1). [Pub. L. 106–169][/us/pl/106/169] made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
     1998—Subsec. (g)(1). [Pub. L. 105–200][/us/pl/105/200] substituted “Education and the Workforce” for “Economic and Educational Opportunities”.
 
-    1997—[Pub. L. 105–33, § 5514(c)][/us/pl/105/33/s5514/c], made technical amendment to directory language of [Pub. L. 104–193, § 103(a)(1)][/us/pl/104/193/s103/a/1], which enacted this section.
+    1997—[Pub. L. 105–33][/us/pl/105/33], § 5514(c), made technical amendment to directory language of [Pub. L. 104–193][/us/pl/104/193], § 103(a)(1), which enacted this section.
 
-    Subsec. (a). [Pub. L. 105–33, § 5509(a)][/us/pl/105/33/s5509/a], inserted “, directly or through grants, contracts, or interagency agreements,” before “shall conduct” and substituted “section 607” for “section 609”.
+    Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 5509(a), inserted “, directly or through grants, contracts, or interagency agreements,” before “shall conduct” and substituted “section 607” for “section 609”.
 
-    Subsec. (e)(1). [Pub. L. 105–33, § 5509(b)][/us/pl/105/33/s5509/b], amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
+    Subsec. (e)(1). [Pub. L. 105–33][/us/pl/105/33], § 5509(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
 
     “(A) In general.—The Secretary shall annually rank States to which grants are made under [section 603 of this title][/us/usc/t42/s603] based on the following ranking factors:
 
@@ -239,13 +239,13 @@
 
     “(ii) Net changes in the out-of-wedlock ratio.—The difference between the ratio described in subparagraph (A)(i) with respect to a State for the most recent fiscal year for which such information is available and the ratio with respect to the State for the immediately preceding year.”
 
-    Subsec. (h)(1)(D). [Pub. L. 105–33, § 5509(c)][/us/pl/105/33/s5509/c], substituted “August 22, 1996” for “September 30, 1995”.
+    Subsec. (h)(1)(D). [Pub. L. 105–33][/us/pl/105/33], § 5509(c), substituted “August 22, 1996” for “September 30, 1995”.
 
-    Subsec. (i)(1). [Pub. L. 105–33, § 5509(d)(1)][/us/pl/105/33/s5509/d/1], substituted “May 31, 1998” for “90 days after August 22, 1996”.
+    Subsec. (i)(1). [Pub. L. 105–33][/us/pl/105/33], § 5509(d)(1), substituted “May 31, 1998” for “90 days after August 22, 1996”.
 
-    Subsec. (i)(5). [Pub. L. 105–33, § 5509(d)(2)][/us/pl/105/33/s5509/d/2], substituted “, to the extent available, county-by-county” for “the county-by-county”.
+    Subsec. (i)(5). [Pub. L. 105–33][/us/pl/105/33], § 5509(d)(2), substituted “, to the extent available, county-by-county” for “the county-by-county”.
 
-    Subsec. (j). [Pub. L. 105–33, § 5001(f)][/us/pl/105/33/s5001/f], added subsec. (j).
+    Subsec. (j). [Pub. L. 105–33][/us/pl/105/33], § 5001(f), added subsec. (j).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -269,21 +269,21 @@
 
  __Funding of Research, Evaluations, and National Studies__ 
 
-[Pub. L. 113–235, div. G, title II, § 228(c)][/us/pl/113/235/s228/c], Dec. 16, 2014, [128 Stat. 2491][/us/stat/128/2491], provided that: 
+[Pub. L. 113–235, div. G, title II][/us/pl/113/235/dG/tII], § 228(c), Dec. 16, 2014, [128 Stat. 2491][/us/stat/128/2491], provided that: 
 
 > “In the case of research, evaluations, and national studies funded under section 413(h)(1) of the Social Security Act \[[42 U.S.C. 613(h)(1)][/us/usc/t42/s613/h/1]\], no funds shall be appropriated under that section for fiscal year 2015 or any fiscal year thereafter.”
 
  __Coordination of Substance Abuse and Child Protection Services__ 
 
-    [Pub. L. 105–89, title IV, § 405][/us/pl/105/89/s405], Nov. 19, 1997, [111 Stat. 2135][/us/stat/111/2135], required the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health and Human Services, to submit to the appropriate committees of Congress a report which described the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services to such population, along with appropriate recommendations for legislative changes.
+    [Pub. L. 105–89, title IV][/us/pl/105/89/tIV], § 405, Nov. 19, 1997, [111 Stat. 2135][/us/stat/111/2135], required the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health and Human Services, to submit to the appropriate committees of Congress a report which described the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services to such population, along with appropriate recommendations for legislative changes.
 
  __GAO Study of Effect of Family Violence on Need for Public Assistance__ 
 
-    [Pub. L. 105–33, title V, § 5001(i)][/us/pl/105/33/s5001/i], Aug. 5, 1997, [111 Stat. 593][/us/stat/111/593], directed the Comptroller General to conduct a study of the effect of family violence on the use of public assistance programs, and in particular the extent to which family violence prolongs or increases the need for public assistance, and to submit a report to the appropriate committees of Congress within 1 year after Aug. 5, 1997.
+    [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5001(i), Aug. 5, 1997, [111 Stat. 593][/us/stat/111/593], directed the Comptroller General to conduct a study of the effect of family violence on the use of public assistance programs, and in particular the extent to which family violence prolongs or increases the need for public assistance, and to submit a report to the appropriate committees of Congress within 1 year after Aug. 5, 1997.
 
  __Study on Alternative Outcomes Measures__ 
 
-    [Pub. L. 104–193, title I, § 107][/us/pl/104/193/s107], Aug. 22, 1996, [110 Stat. 2164][/us/stat/110/2164], as amended by [Pub. L. 105–33, title V, § 5511][/us/pl/105/33/s5511], Aug. 5, 1997, [111 Stat. 619][/us/stat/111/619], directed the Secretary, in cooperation with the States, to study and analyze outcomes measures for evaluating the success of the States in moving individuals out of the welfare system through employment as an alternative to the minimum participation rates described in [42 U.S.C. 607][/us/usc/t42/s607], and to submit a report to the appropriate committees of Congress by Sept. 30, 1998.
+    [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 107, Aug. 22, 1996, [110 Stat. 2164][/us/stat/110/2164], as amended by [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5511, Aug. 5, 1997, [111 Stat. 619][/us/stat/111/619], directed the Secretary, in cooperation with the States, to study and analyze outcomes measures for evaluating the success of the States in moving individuals out of the welfare system through employment as an alternative to the minimum participation rates described in [42 U.S.C. 607][/us/usc/t42/s607], and to submit a report to the appropriate committees of Congress by Sept. 30, 1998.
 
 ----------
 
@@ -297,47 +297,47 @@
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
 [/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2153
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F592
-[/us/pl/105/200/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs410%2Fa
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F673
-[/us/pl/106/169/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs401%2Fc
+[/us/pl/106/169/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtIV
 [/us/stat/113/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1858
-[/us/pl/110/234/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FD
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/96/s4002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs4002%2Fe
+[/us/pl/112/96/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtIV
 [/us/stat/126/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F195
-[/us/pl/113/235/s228/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs228%2Fe
+[/us/pl/113/235/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtII
 [/us/stat/128/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2492
 [/us/pl/104/193/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/96/265/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs406%2Fc
+[/us/act/1935-08-14/ch531/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtIV
+[/us/pl/96/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIV
 [/us/stat/94/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F467
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
-[/us/pl/105/33/s5514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5514%2Fc
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
-[/us/pl/110/246/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FD
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
-[/us/pl/105/33/s5514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5514%2Fc
-[/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
-[/us/pl/105/33/s5509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5509%2Fa
-[/us/pl/105/33/s5509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5509%2Fb
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603
-[/us/pl/105/33/s5509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5509%2Fc
-[/us/pl/105/33/s5509/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5509%2Fd%2F1
-[/us/pl/105/33/s5509/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5509%2Fd%2F2
-[/us/pl/105/33/s5001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5001%2Ff
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -360,16 +360,16 @@
 [/us/usc/t21/s862a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs862a
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/113/235/s228/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs228%2Fc
+[/us/pl/113/235/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtII
 [/us/stat/128/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2491
 [/us/usc/t42/s613/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs613%2Fh%2F1
-[/us/pl/105/89/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs405
+[/us/pl/105/89/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtIV
 [/us/stat/111/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2135
-[/us/pl/105/33/s5001/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5001%2Fi
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F593
-[/us/pl/104/193/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs107
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2164
-[/us/pl/105/33/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5511
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F619
 [/us/usc/t42/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs607
 

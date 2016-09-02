@@ -305,7 +305,7 @@
 
             No funds appropriated under this chapter, other than funds appropriated under paragraph (1), may be allocated to the Cures Acceleration Network.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 480, formerly § 402C, as added [Pub. L. 111–148, title X, § 10409(d)][/us/pl/111/148/s10409/d], Mar. 23, 2010, [124 Stat. 978][/us/stat/124/978]; renumbered § 480 and amended [Pub. L. 112–74, div. F, title II, § 221(c)(1)][/us/pl/112/74/s221/c/1], Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 480, formerly § 402C, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10409(d), Mar. 23, 2010, [124 Stat. 978][/us/stat/124/978]; renumbered § 480 and amended [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(c)(1), Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089].)
 
  __References in Text__ 
 
@@ -317,17 +317,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 287a, [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 480, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 864][/us/stat/99/864]; amended [Pub. L. 101–381, title I, § 102(3)][/us/pl/101/381/s102/3], Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; [Pub. L. 102–405, title III, § 302(e)(1)][/us/pl/102/405/s302/e/1], Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 103–43, title XV, § 1501(2)(C)][/us/pl/103/43/s1501/2/C], (D), title XX, §§ 2008(b)(12), 2010(b)(4), June 10, 1993, [107 Stat. 172][/us/stat/107/172], 173, 211, 214, related to the advisory council for the National Center for Research Resources, prior to repeal by [Pub. L. 112–74, div. F, title II, § 221(a)(1)(B)][/us/pl/112/74/s221/a/1/B], Dec. 23, 2011, [125 Stat. 1086][/us/stat/125/1086].
+    A prior section 287a, [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 480, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 864][/us/stat/99/864]; amended [Pub. L. 101–381, title I][/us/pl/101/381/tI], § 102(3), Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; [Pub. L. 102–405, title III][/us/pl/102/405/tIII], § 302(e)(1), Oct. 9, 1992, [106 Stat. 1985][/us/stat/106/1985]; [Pub. L. 103–43, title XV][/us/pl/103/43/tXV], § 1501(2)(C), (D), title XX, §§ 2008(b)(12), 2010(b)(4), June 10, 1993, [107 Stat. 172][/us/stat/107/172], 173, 211, 214, related to the advisory council for the National Center for Research Resources, prior to repeal by [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(a)(1)(B), Dec. 23, 2011, [125 Stat. 1086][/us/stat/125/1086].
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–74, § 221(c)(1)(C)][/us/pl/112/74/s221/c/1/C], substituted “Director of the Center” for “Director of NIH” wherever appearing.
+    2011—[Pub. L. 112–74][/us/pl/112/74], § 221(c)(1)(C), substituted “Director of the Center” for “Director of NIH” wherever appearing.
 
-    Subsec. (b). [Pub. L. 112–74, § 221(c)(1)(B)][/us/pl/112/74/s221/c/1/B], substituted “within the Center” for “within the Office of the Director of NIH” in introductory provisions.
+    Subsec. (b). [Pub. L. 112–74][/us/pl/112/74], § 221(c)(1)(B), substituted “within the Center” for “within the Office of the Director of NIH” in introductory provisions.
 
-    Subsec. (d)(4). [Pub. L. 112–74, § 221(c)(1)(D)][/us/pl/112/74/s221/c/1/D], substituted “Director of the Center” for “Director of NIH” in heading.
+    Subsec. (d)(4). [Pub. L. 112–74][/us/pl/112/74], § 221(c)(1)(D), substituted “Director of the Center” for “Director of NIH” in heading.
 
-    Subsec. (d)(4)(B). [Pub. L. 112–74, § 221(c)(1)(D)][/us/pl/112/74/s221/c/1/D], substituted “Director of the Center” for “Director of NIH” in heading.
+    Subsec. (d)(4)(B). [Pub. L. 112–74][/us/pl/112/74], § 221(c)(1)(D), substituted “Director of the Center” for “Director of NIH” in heading.
 
 ----------
 
@@ -344,27 +344,27 @@
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s10409/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10409%2Fd
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F978
-[/us/pl/112/74/s221/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F1
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1089
 [/us/usc/t42/s262/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fi
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/usc/t42/s282d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282d
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F864
-[/us/pl/101/381/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs102%2F3
+[/us/pl/101/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtI
 [/us/stat/104/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F586
-[/us/pl/102/405/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs302%2Fe%2F1
+[/us/pl/102/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2FtIII
 [/us/stat/106/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1985
-[/us/pl/103/43/s1501/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1501%2F2%2FC
+[/us/pl/103/43/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXV
 [/us/stat/107/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F172
-[/us/pl/112/74/s221/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fa%2F1%2FB
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1086
-[/us/pl/112/74/s221/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F1%2FC
-[/us/pl/112/74/s221/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F1%2FB
-[/us/pl/112/74/s221/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F1%2FD
-[/us/pl/112/74/s221/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F1%2FD
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 
 

@@ -17,7 +17,7 @@
 
     The Department of Justice be, and it is, authorized and directed to promulgate rules and regulations establishing a medal; the method of selecting such recipient thereof so that an award shall be made to any child residing in the United States, who is eighteen years old or under, who has exhibited exceptional courage, extraordinary decision, presence of mind, and unusual swiftness of action, regardless of his or her own personal safety, in an effort to save or successfully saving the life or lives of any person or persons whose life or lives were in actual imminent danger.
 
-([Aug. 3, 1950, ch. 520, § 1][/us/act/1950-08-03/ch520/s1], [64 Stat. 397][/us/stat/64/397].)
+([Aug. 3, 1950, ch. 520][/us/act/1950-08-03/ch520], § 1, [64 Stat. 397][/us/stat/64/397].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-03/ch520/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520%2Fs1
+[/us/act/1950-08-03/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch520
 [/us/stat/64/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F397
 
 

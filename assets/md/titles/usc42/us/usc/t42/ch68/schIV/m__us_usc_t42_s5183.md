@@ -17,7 +17,7 @@
 
     The President is authorized to provide professional counseling services, including financial assistance to State or local agencies or private mental health organizations to provide such services or training of disaster workers, to victims of major disasters in order to relieve mental health problems caused or aggravated by such major disaster or its aftermath.
 
-([Pub. L. 93–288, title IV, § 416][/us/pl/93/288/s416], formerly § 413, May 22, 1974, [88 Stat. 157][/us/stat/88/157]; renumbered § 416 and amended [Pub. L. 100–707, title I, § 106(i)][/us/pl/100/707/s106/i], Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 416, formerly § 413, May 22, 1974, [88 Stat. 157][/us/stat/88/157]; renumbered § 416 and amended [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(i), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705].)
 
  __Prior Provisions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/288/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs416
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F157
-[/us/pl/100/707/s106/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fi
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
 [/us/pl/93/288/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs416
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707

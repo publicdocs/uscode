@@ -17,7 +17,7 @@
 
     The Commission shall develop a plan providing for the specification and analysis of unresolved safety issues relating to nuclear reactors and shall take such action as may be necessary to implement corrective measures with respect to such issues. Such plan shall be submitted to the Congress on or before January 1, 1978 and progress reports shall be included in the annual report of the Commission thereafter.
 
-([Pub. L. 93–438, title II, § 210][/us/pl/93/438/s210], as added [Pub. L. 95–209, § 3][/us/pl/95/209/s3], Dec. 13, 1977, [91 Stat. 1482][/us/stat/91/1482].)
+([Pub. L. 93–438, title II][/us/pl/93/438/tII], § 210, as added [Pub. L. 95–209][/us/pl/95/209], § 3, Dec. 13, 1977, [91 Stat. 1482][/us/stat/91/1482].)
 
  __Prior Provisions__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/pl/93/438/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs210
-[/us/pl/95/209/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209%2Fs3
+[/us/pl/93/438/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtII
+[/us/pl/95/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F209
 [/us/stat/91/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1482
 [/us/pl/93/438/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs210
 [/us/usc/t42/s5851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5851

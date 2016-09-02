@@ -23,7 +23,7 @@
 
     (3) not to exceed $8,000,000 for the fiscal year 1979, and $10,000,000 for the fiscal year 1980 to carry out [section 6804(1)(B) of this title][/us/usc/t42/s6804/1/B] (relating to innovative rate structures).
 
-([Pub. L. 94–385, title II, § 208][/us/pl/94/385/s208], as added [Pub. L. 95–617, title II, § 142][/us/pl/95/617/s142], Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134].)
+([Pub. L. 94–385, title II][/us/pl/94/385/tII], § 208, as added [Pub. L. 95–617, title II][/us/pl/95/617/tII], § 142, Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134].)
 
 ----------
 
@@ -35,8 +35,8 @@
 [/us/usc/t42/s6807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6807
 [/us/usc/t42/s6805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6805
 [/us/usc/t42/s6804/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6804%2F1%2FB
-[/us/pl/94/385/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs208
-[/us/pl/95/617/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs142
+[/us/pl/94/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtII
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3134
 
 

@@ -181,33 +181,33 @@
 
             There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317, as added [Pub. L. 87–868, § 2][/us/pl/87/868/s2], Oct. 23, 1962, [76 Stat. 1155][/us/stat/76/1155]; amended [Pub. L. 89–109, § 2][/us/pl/89/109/s2], Aug. 5, 1965, [79 Stat. 435][/us/stat/79/435]; [Pub. L. 91–464, § 2][/us/pl/91/464/s2], Oct. 16, 1970, [84 Stat. 988][/us/stat/84/988]; [Pub. L. 92–449, title I, § 101][/us/pl/92/449/s101], Sept. 30, 1972, [86 Stat. 748][/us/stat/86/748]; [Pub. L. 93–354, § 4][/us/pl/93/354/s4], July 23, 1974, [88 Stat. 376][/us/stat/88/376]; [Pub. L. 94–63, title VI, § 601][/us/pl/94/63/s601], July 29, 1975, [89 Stat. 346][/us/stat/89/346]; [Pub. L. 94–317, title II, § 202(a)][/us/pl/94/317/s202/a], June 23, 1976, [90 Stat. 700][/us/stat/90/700]; [Pub. L. 94–380, § 2][/us/pl/94/380/s2], Aug. 12, 1976, [90 Stat. 1113][/us/stat/90/1113]; [Pub. L. 95–626, title II][/us/pl/95/626], §§ 202, 204(b)(2), Nov. 10, 1978, [92 Stat. 3574][/us/stat/92/3574], 3583; [Pub. L. 96–32, § 6(i)][/us/pl/96/32/s6/i], July 10, 1979, [93 Stat. 83][/us/stat/93/83]; [Pub. L. 97–35, title IX, § 928][/us/pl/97/35/s928], Aug. 13, 1981, [95 Stat. 569][/us/stat/95/569]; [Pub. L. 98–555, § 2][/us/pl/98/555/s2], Oct. 30, 1984, [98 Stat. 2854][/us/stat/98/2854]; [Pub. L. 99–117, § 11(c)][/us/pl/99/117/s11/c], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495]; [Pub. L. 100–177, title I][/us/pl/100/177], §§ 110(a), 111, Dec. 1, 1987, [101 Stat. 990][/us/stat/101/990], 991; [Pub. L. 101–368, § 2][/us/pl/101/368/s2], Aug. 15, 1990, [104 Stat. 446][/us/stat/104/446]; [Pub. L. 101–502, § 2(a)][/us/pl/101/502/s2/a], Nov. 3, 1990, [104 Stat. 1285][/us/stat/104/1285]; [Pub. L. 103–183, title III, § 301(b)][/us/pl/103/183/s301/b], Dec. 14, 1993, [107 Stat. 2235][/us/stat/107/2235]; [Pub. L. 105–392, title III, § 303][/us/pl/105/392/s303], Nov. 13, 1998, [112 Stat. 3586][/us/stat/112/3586]; [Pub. L. 106–310, div. A, title XVII, § 1711][/us/pl/106/310/s1711], Oct. 17, 2000, [114 Stat. 1152][/us/stat/114/1152]; [Pub. L. 111–148, title IV, § 4204(a)][/us/pl/111/148/s4204/a]–(c), Mar. 23, 2010, [124 Stat. 571][/us/stat/124/571], 572.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317, as added [Pub. L. 87–868][/us/pl/87/868], § 2, Oct. 23, 1962, [76 Stat. 1155][/us/stat/76/1155]; amended [Pub. L. 89–109][/us/pl/89/109], § 2, Aug. 5, 1965, [79 Stat. 435][/us/stat/79/435]; [Pub. L. 91–464][/us/pl/91/464], § 2, Oct. 16, 1970, [84 Stat. 988][/us/stat/84/988]; [Pub. L. 92–449, title I][/us/pl/92/449/tI], § 101, Sept. 30, 1972, [86 Stat. 748][/us/stat/86/748]; [Pub. L. 93–354][/us/pl/93/354], § 4, July 23, 1974, [88 Stat. 376][/us/stat/88/376]; [Pub. L. 94–63, title VI][/us/pl/94/63/tVI], § 601, July 29, 1975, [89 Stat. 346][/us/stat/89/346]; [Pub. L. 94–317, title II][/us/pl/94/317/tII], § 202(a), June 23, 1976, [90 Stat. 700][/us/stat/90/700]; [Pub. L. 94–380][/us/pl/94/380], § 2, Aug. 12, 1976, [90 Stat. 1113][/us/stat/90/1113]; [Pub. L. 95–626, title II][/us/pl/95/626/tII], §§ 202, 204(b)(2), Nov. 10, 1978, [92 Stat. 3574][/us/stat/92/3574], 3583; [Pub. L. 96–32][/us/pl/96/32], § 6(i), July 10, 1979, [93 Stat. 83][/us/stat/93/83]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 928, Aug. 13, 1981, [95 Stat. 569][/us/stat/95/569]; [Pub. L. 98–555][/us/pl/98/555], § 2, Oct. 30, 1984, [98 Stat. 2854][/us/stat/98/2854]; [Pub. L. 99–117][/us/pl/99/117], § 11(c), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495]; [Pub. L. 100–177, title I][/us/pl/100/177/tI], §§ 110(a), 111, Dec. 1, 1987, [101 Stat. 990][/us/stat/101/990], 991; [Pub. L. 101–368][/us/pl/101/368], § 2, Aug. 15, 1990, [104 Stat. 446][/us/stat/104/446]; [Pub. L. 101–502][/us/pl/101/502], § 2(a), Nov. 3, 1990, [104 Stat. 1285][/us/stat/104/1285]; [Pub. L. 103–183, title III][/us/pl/103/183/tIII], § 301(b), Dec. 14, 1993, [107 Stat. 2235][/us/stat/107/2235]; [Pub. L. 105–392, title III][/us/pl/105/392/tIII], § 303, Nov. 13, 1998, [112 Stat. 3586][/us/stat/112/3586]; [Pub. L. 106–310, div. A, title XVII][/us/pl/106/310/dA/tXVII], § 1711, Oct. 17, 2000, [114 Stat. 1152][/us/stat/114/1152]; [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4204(a)–(c), Mar. 23, 2010, [124 Stat. 571][/us/stat/124/571], 572.)
 
  __References in Text__ 
 
-    [Section 300m–3 of this title][/us/usc/t42/s300m–3], referred to in subsec. (b)(3), was repealed by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
+    [Section 300m–3 of this title][/us/usc/t42/s300m–3], referred to in subsec. (b)(3), was repealed by [Pub. L. 99–660, title VII][/us/pl/99/660/tVII], § 701(a), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
 
-    [Section 247 of this title][/us/usc/t42/s247], referred to in subsec. (b)(3), was repealed by [Pub. L. 99–117, § 12(b)][/us/pl/99/117/s12/b], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
+    [Section 247 of this title][/us/usc/t42/s247], referred to in subsec. (b)(3), was repealed by [Pub. L. 99–117][/us/pl/99/117], § 12(b), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495].
 
     March 23, 2010, referred to in subsec. (m)(6), was in the original “the date of enactment of the Affordable Health Choices Act”, and was translated as meaning the date of enactment of the Patient Protection and Affordable Care Act, [Pub. L. 111–148][/us/pl/111/148], to reflect the probable intent of Congress. No act named the “Affordable Health Choices Act” has been enacted.
 
  __Amendments__ 
 
-    2010—Subsec. (j)(1). [Pub. L. 111–148, § 4204(c)(1)][/us/pl/111/148/s4204/c/1], struck out “for each of the fiscal years 1998 through 2005” after “necessary”.
+    2010—Subsec. (j)(1). [Pub. L. 111–148][/us/pl/111/148], § 4204(c)(1), struck out “for each of the fiscal years 1998 through 2005” after “necessary”.
 
-    Subsec. (j)(2). [Pub. L. 111–148, § 4204(c)(2)][/us/pl/111/148/s4204/c/2], struck out “after October 1, 1997,” after “routine use,”.
+    Subsec. (j)(2). [Pub. L. 111–148][/us/pl/111/148], § 4204(c)(2), struck out “after October 1, 1997,” after “routine use,”.
 
-    Subsecs. (l), (m). [Pub. L. 111–148, § 4204(a)][/us/pl/111/148/s4204/a], (b), added subsecs. (l) and (m).
+    Subsecs. (l), (m). [Pub. L. 111–148][/us/pl/111/148], § 4204(a), (b), added subsecs. (l) and (m).
 
     2000—Subsec. (j)(1). [Pub. L. 106–310][/us/pl/106/310] substituted “1998 through 2005” for “1998 through 2002” in first sentence.
 
-    1998—Subsec. (j)(1). [Pub. L. 105–392, § 303(1)][/us/pl/105/392/s303/1], substituted “children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2002.” for “individuals against vaccine-preventable diseases, there are authorized to be appropriated $205,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
+    1998—Subsec. (j)(1). [Pub. L. 105–392][/us/pl/105/392], § 303(1), substituted “children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2002.” for “individuals against vaccine-preventable diseases, there are authorized to be appropriated $205,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
 
-    Subsec. (j)(2). [Pub. L. 105–392, § 303(2)][/us/pl/105/392/s303/2], substituted “1997” for “1990”.
+    Subsec. (j)(2). [Pub. L. 105–392][/us/pl/105/392], § 303(2), substituted “1997” for “1990”.
 
-    1993—Subsec. (j). [Pub. L. 103–183, § 301(b)(1)][/us/pl/103/183/s301/b/1], redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, substituted “established in paragraph (2)” for “established in subparagraph (B)” in par. (1), and struck out former par. (2), which read as follows: “For grants under subsection (a) of this section for preventive health service programs for the prevention, control, and elimination of tuberculosis, and for grants under subsection (k)(2) of this section, there are authorized to be appropriated $24,000,000 for fiscal year 1988, $31,000,000 for fiscal year 1989, $36,000,000 for fiscal year 1990, $36,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(2) of this section for such fiscal year.”
+    1993—Subsec. (j). [Pub. L. 103–183][/us/pl/103/183], § 301(b)(1), redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, substituted “established in paragraph (2)” for “established in subparagraph (B)” in par. (1), and struck out former par. (2), which read as follows: “For grants under subsection (a) of this section for preventive health service programs for the prevention, control, and elimination of tuberculosis, and for grants under subsection (k)(2) of this section, there are authorized to be appropriated $24,000,000 for fiscal year 1988, $31,000,000 for fiscal year 1989, $36,000,000 for fiscal year 1990, $36,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(2) of this section for such fiscal year.”
 
-    Subsec. (k)(2). [Pub. L. 103–183, § 301(b)(2)(A)][/us/pl/103/183/s301/b/2/A], (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
+    Subsec. (k)(2). [Pub. L. 103–183][/us/pl/103/183], § 301(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
 
     “(A) research into the prevention, control, and elimination of tuberculosis, especially research concerning strains of tuberculosis resistant to drugs and research concerning cases of tuberculosis that affect certain populations;
 
@@ -217,63 +217,63 @@
 
     “(D) education, training, and clinical skills improvement activities in the prevention, control, and elimination of tuberculosis for health professionals, including allied health personnel.”
 
-    Subsec. (k)(3). [Pub. L. 103–183, § 301(b)(2)(B)][/us/pl/103/183/s301/b/2/B], redesignated par. (4) as (3). Former par. (3) redesignated (2).
+    Subsec. (k)(3). [Pub. L. 103–183][/us/pl/103/183], § 301(b)(2)(B), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-    Subsec. (k)(4), (5). [Pub. L. 103–183, § 301(b)(2)(B)][/us/pl/103/183/s301/b/2/B], (C), redesignated par. (5) as (4) and made technical amendments to references to subsections (d), (e), and (f) of this section and subsection (a) of this section, to reflect change in references to corresponding provisions of original act. Former par. (4) redesignated (3).
+    Subsec. (k)(4), (5). [Pub. L. 103–183][/us/pl/103/183], § 301(b)(2)(B), (C), redesignated par. (5) as (4) and made technical amendments to references to subsections (d), (e), and (f) of this section and subsection (a) of this section, to reflect change in references to corresponding provisions of original act. Former par. (4) redesignated (3).
 
-    Subsec. (l). [Pub. L. 103–183, § 301(b)(3)][/us/pl/103/183/s301/b/3], struck out subsec. (l) which related to establishment and function of Advisory Council for the Elimination of Tuberculosis.
+    Subsec. (l). [Pub. L. 103–183][/us/pl/103/183], § 301(b)(3), struck out subsec. (l) which related to establishment and function of Advisory Council for the Elimination of Tuberculosis.
 
-    1990—Subsec. (j)(1)(A). [Pub. L. 101–502, § 2(a)(1)][/us/pl/101/502/s2/a/1], substituted provisions authorizing appropriations for fiscal years 1991 through 1995 for provisions authorizing appropriations for fiscal years 1988 through 1990.
+    1990—Subsec. (j)(1)(A). [Pub. L. 101–502][/us/pl/101/502], § 2(a)(1), substituted provisions authorizing appropriations for fiscal years 1991 through 1995 for provisions authorizing appropriations for fiscal years 1988 through 1990.
 
-    Subsec. (j)(1)(B). [Pub. L. 101–502, § 2(a)(2)][/us/pl/101/502/s2/a/2], substituted Oct. 1, 1990, for Dec. 1, 1987, and provisions authorizing appropriations as may be necessary for provisions authorizing appropriations for fiscal years 1988 to 1990.
+    Subsec. (j)(1)(B). [Pub. L. 101–502][/us/pl/101/502], § 2(a)(2), substituted Oct. 1, 1990, for Dec. 1, 1987, and provisions authorizing appropriations as may be necessary for provisions authorizing appropriations for fiscal years 1988 to 1990.
 
-    Subsec. (j)(1)(C). [Pub. L. 101–502, § 2(a)(3)][/us/pl/101/502/s2/a/3], struck out subpar. (C) which, on the implementation of part 2 of subchapter XIX of this chapter, authorized appropriations for grants under subsec. (a) of this section for fiscal years 1988 to 1990.
+    Subsec. (j)(1)(C). [Pub. L. 101–502][/us/pl/101/502], § 2(a)(3), struck out subpar. (C) which, on the implementation of part 2 of subchapter XIX of this chapter, authorized appropriations for grants under subsec. (a) of this section for fiscal years 1988 to 1990.
 
-    Subsec. (j)(2). [Pub. L. 101–368, § 2(c)][/us/pl/101/368/s2/c], inserted provisions authorizing appropriations of $36,000,000 for fiscal year 1991, and such sums as may be necessary for fiscal years 1992 through 1995.
+    Subsec. (j)(2). [Pub. L. 101–368][/us/pl/101/368], § 2(c), inserted provisions authorizing appropriations of $36,000,000 for fiscal year 1991, and such sums as may be necessary for fiscal years 1992 through 1995.
 
-    [Pub. L. 101–368, § 2(a)(1)][/us/pl/101/368/s2/a/1], substituted “preventive health service programs for the prevention, control, and elimination of tuberculosis” for “preventive health service programs for tuberculosis”.
+    [Pub. L. 101–368][/us/pl/101/368], § 2(a)(1), substituted “preventive health service programs for the prevention, control, and elimination of tuberculosis” for “preventive health service programs for tuberculosis”.
 
-    Subsec. (k)(2)(A) to (D). [Pub. L. 101–368, § 2(a)(2)][/us/pl/101/368/s2/a/2], substituted “prevention, control, and elimination” for “prevention and control”.
+    Subsec. (k)(2)(A) to (D). [Pub. L. 101–368][/us/pl/101/368], § 2(a)(2), substituted “prevention, control, and elimination” for “prevention and control”.
 
-    Subsec. (l). [Pub. L. 101–368, § 2(b)][/us/pl/101/368/s2/b], added subsec. (l).
+    Subsec. (l). [Pub. L. 101–368][/us/pl/101/368], § 2(b), added subsec. (l).
 
     1987—Subsec. (j). [Pub. L. 100–177][/us/pl/100/177], §§ 110(a), 111(a), amended subsec. (j) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for grants under subsecs. (a) and (k) of this section for former provisions authorizing appropriations for fiscal years 1982 to 1987 for grants under subsec. (a) of this section.
 
-    Subsec. (k). [Pub. L. 100–177, § 111(b)][/us/pl/100/177/s111/b], added subsec. (k).
+    Subsec. (k). [Pub. L. 100–177][/us/pl/100/177], § 111(b), added subsec. (k).
 
-    1985—Subsec. (j). [Pub. L. 99–117][/us/pl/99/117] amended directory language of [Pub. L. 97–35, § 928(b)][/us/pl/97/35/s928/b], to correct a technical error. See 1981 Amendment note below.
+    1985—Subsec. (j). [Pub. L. 99–117][/us/pl/99/117] amended directory language of [Pub. L. 97–35][/us/pl/97/35], § 928(b), to correct a technical error. See 1981 Amendment note below.
 
-    1984—Subsec. (j)(1). [Pub. L. 98–555, § 2(a)][/us/pl/98/555/s2/a], substituted “immunize individuals against vaccine-preventable diseases” for “immunize children against immunizable diseases” and inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
+    1984—Subsec. (j)(1). [Pub. L. 98–555][/us/pl/98/555], § 2(a), substituted “immunize individuals against vaccine-preventable diseases” for “immunize children against immunizable diseases” and inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
 
-    Subsec. (j)(2). [Pub. L. 98–555, § 2(b)][/us/pl/98/555/s2/b], inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
+    Subsec. (j)(2). [Pub. L. 98–555][/us/pl/98/555], § 2(b), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 928(a)][/us/pl/97/35/s928/a], struck out par. (1) which related to grants to State health authorities, and redesignated par. (2) as entire section and, as so redesignated, struck out reference to former par. (1).
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 928(a), struck out par. (1) which related to grants to State health authorities, and redesignated par. (2) as entire section and, as so redesignated, struck out reference to former par. (1).
 
-    Subsec. (j). [Pub. L. 97–35, § 928(b)][/us/pl/97/35/s928/b], as amended by [Pub. L. 99–117][/us/pl/99/117], substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1982, 1983, and 1984, for provisions setting forth appropriations through fiscal year ending Sept. 30, 1981, and provisions setting forth limitations, conditions, etc., for appropriations.
+    Subsec. (j). [Pub. L. 97–35][/us/pl/97/35], § 928(b), as amended by [Pub. L. 99–117][/us/pl/99/117], substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1982, 1983, and 1984, for provisions setting forth appropriations through fiscal year ending Sept. 30, 1981, and provisions setting forth limitations, conditions, etc., for appropriations.
 
     1979—Subsec. (j)(4), (5). [Pub. L. 96–32][/us/pl/96/32] added par. (4), redesignated former par. (4) as (5) and, in par. (5) as so redesignated, substituted “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)”.
 
-    1978—[Pub. L. 95–626, § 202][/us/pl/95/626/s202], amended section generally, substituting provisions relating to proj­ect grants for preventive health services for provisions relating to grants for disease control programs.
+    1978—[Pub. L. 95–626][/us/pl/95/626], § 202, amended section generally, substituting provisions relating to proj­ect grants for preventive health services for provisions relating to grants for disease control programs.
 
-    Subsec. (g)(2). [Pub. L. 95–626, § 204(b)(2)][/us/pl/95/626/s204/b/2], struck out “Except as provided in [section 247c of this title][/us/usc/t42/s247c],” before “No funds appropriated under any provision of this chapter”.
+    Subsec. (g)(2). [Pub. L. 95–626][/us/pl/95/626], § 204(b)(2), struck out “Except as provided in [section 247c of this title][/us/usc/t42/s247c],” before “No funds appropriated under any provision of this chapter”.
 
     1976—[Pub. L. 94–317][/us/pl/94/317] amended section generally to include many non-communicable diseases as well as expanding coverage of communicable diseases, increased appropriations for grants, widened scope of Secretary’s authority to make grants and enter into contracts to include nonprofit private entities, and required a report from the Secretary on the effectiveness of all Federal and other public and private activities in controlling the diseases covered under this section.
 
     Subsecs. (j) to (l). [Pub. L. 94–380][/us/pl/94/380] added subsecs. (j) to (l).
 
-    1975—Subsec. (d)(3). [Pub. L. 94–63, § 601(b)][/us/pl/94/63/s601/b], inserted authorization of appropriation for fiscal year 1976.
+    1975—Subsec. (d)(3). [Pub. L. 94–63][/us/pl/94/63], § 601(b), inserted authorization of appropriation for fiscal year 1976.
 
-    Subsec. (h)(1). [Pub. L. 94–63, § 601(a)][/us/pl/94/63/s601/a], inserted reference to diseases borne by rodents.
+    Subsec. (h)(1). [Pub. L. 94–63][/us/pl/94/63], § 601(a), inserted reference to diseases borne by rodents.
 
-    1974—Subsec. (a). [Pub. L. 93–354, § 4(1)][/us/pl/93/354/s4/1]–(3), substituted “communicable and other disease control” for “communicable disease control”, “communicable and other diseases” for “communicable diseases”, and “communicable and other disease control program” for “communicable disease program”.
+    1974—Subsec. (a). [Pub. L. 93–354][/us/pl/93/354], § 4(1)–(3), substituted “communicable and other disease control” for “communicable disease control”, “communicable and other diseases” for “communicable diseases”, and “communicable and other disease control program” for “communicable disease program”.
 
-    Subsec. (b)(2)(C). [Pub. L. 93–354, § 4(1)][/us/pl/93/354/s4/1], (4), substituted “communicable or other disease” for “communicable disease” in cl. (i) and “communicable and other disease control” for “communicable disease control” in cl. (ii).
+    Subsec. (b)(2)(C). [Pub. L. 93–354][/us/pl/93/354], § 4(1), (4), substituted “communicable or other disease” for “communicable disease” in cl. (i) and “communicable and other disease control” for “communicable disease control” in cl. (ii).
 
-    Subsecs. (b)(3), (d)(1), (2), (3), (f)(1). [Pub. L. 93–354, § 4(1)][/us/pl/93/354/s4/1], substituted “communicable and other disease control” for “communicable disease control”.
+    Subsecs. (b)(3), (d)(1), (2), (3), (f)(1). [Pub. L. 93–354][/us/pl/93/354], § 4(1), substituted “communicable and other disease control” for “communicable disease control”.
 
-    Subsec. (h)(1). [Pub. L. 93–354, § 4(1)][/us/pl/93/354/s4/1], (5), substituted “communicable and other disease control” for “communicable disease control” in two places and inserted reference to diabetes mellitus.
+    Subsec. (h)(1). [Pub. L. 93–354][/us/pl/93/354], § 4(1), (5), substituted “communicable and other disease control” for “communicable disease control” in two places and inserted reference to diabetes mellitus.
 
-    Subsec. (i). [Pub. L. 93–354, § 4(1)][/us/pl/93/354/s4/1], substituted “communicable and other disease control” for “communicable disease control”.
+    Subsec. (i). [Pub. L. 93–354][/us/pl/93/354], § 4(1), substituted “communicable and other disease control” for “communicable disease control”.
 
     1972—Subsec. (a). [Pub. L. 92–449][/us/pl/92/449] substituted provision for grants by the Secretary in consultation with the State health authority to agencies and political subdivisions of States, for former provision for grants by the Secretary with the approval of the State health authority to political subdivisions or instrumentalities of States, incorporated existing provisions in provision designated as cl. (1), inserting “, in the area served by the applicant for the grant,”, substituted a cl. (2) reading “design of the applicant’s communicable disease program to determine its effectiveness”, for former provision reading “levels of performance in preventing and controlling such diseases”, struck out appropriations authorization of $75,000,000 and $90,000,000 for fiscal years ending June 30, 1971, and 1972, now covered for subsequent years in subsec. (d), and struck out provision for use of grants to meet cost of studies to determine the control needs of communities and the means of best meeting such needs, now covered in subsec. (h)(1) of this section.
 
@@ -305,45 +305,45 @@
 
     Subsecs. (f), (g). [Pub. L. 91–464][/us/pl/91/464] added subsecs. (f) and (g).
 
-    1965—Subsec. (a). [Pub. L. 89–109, § 2(a)][/us/pl/89/109/s2/a], (b), (d)(1), inserted “and each of the next three fiscal years”, substituted “any fiscal year ending prior to July 1, 1968” for “the fiscal years ending June 30, 1963, and June 30, 1964”, “tetanus, and measles” for “and tetanus”, “of preschool age” for “under the age of five years”, and “immunization” for “intensive community vaccination”, and permitted grants to be used to pay costs in connection with immunization of other infectious diseases.
+    1965—Subsec. (a). [Pub. L. 89–109][/us/pl/89/109], § 2(a), (b), (d)(1), inserted “and each of the next three fiscal years”, substituted “any fiscal year ending prior to July 1, 1968” for “the fiscal years ending June 30, 1963, and June 30, 1964”, “tetanus, and measles” for “and tetanus”, “of preschool age” for “under the age of five years”, and “immunization” for “intensive community vaccination”, and permitted grants to be used to pay costs in connection with immunization of other infectious diseases.
 
-    Subsec. (b). [Pub. L. 89–109, § 2(c)][/us/pl/89/109/s2/c], (d)(1), substituted “against the diseases referred to in subsection (a) of this section” for “against poliomyelitis, diphtheria, whooping cough, and tetanus”, “of preschool age” for “who are under the age of five years” and “immunization” for “intensive community vaccination” in two places.
+    Subsec. (b). [Pub. L. 89–109][/us/pl/89/109], § 2(c), (d)(1), substituted “against the diseases referred to in subsection (a) of this section” for “against poliomyelitis, diphtheria, whooping cough, and tetanus”, “of preschool age” for “who are under the age of five years” and “immunization” for “intensive community vaccination” in two places.
 
-    Subsec. (c). [Pub. L. 89–109, § 2(d)(1)][/us/pl/89/109/s2/d/1], (e), inserted “on the basis of estimates” and “(with necessary adjustments on account of underpayments or overpayments)” in par. (1), and substituted “immunization” for “intensive community vaccination” in pars. (2) and (3).
+    Subsec. (c). [Pub. L. 89–109][/us/pl/89/109], § 2(d)(1), (e), inserted “on the basis of estimates” and “(with necessary adjustments on account of underpayments or overpayments)” in par. (1), and substituted “immunization” for “intensive community vaccination” in pars. (2) and (3).
 
  __Effective Date of 1978 Amendment__ 
 
-    [Pub. L. 95–626, title II, § 202][/us/pl/95/626/s202], Nov. 10, 1978, [92 Stat. 3574][/us/stat/92/3574], as amended by [Pub. L. 96–32, § 6(g)][/us/pl/96/32/s6/g], July 10, 1979, [93 Stat. 83][/us/stat/93/83], provided that the amendment made by that section is effective Oct. 1, 1978.
+    [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 202, Nov. 10, 1978, [92 Stat. 3574][/us/stat/92/3574], as amended by [Pub. L. 96–32][/us/pl/96/32], § 6(g), July 10, 1979, [93 Stat. 83][/us/stat/93/83], provided that the amendment made by that section is effective Oct. 1, 1978.
 
  __Effective Date of 1976 Amendment__ 
 
-    [Pub. L. 94–317, title II, § 202(a)][/us/pl/94/317/s202/a], Nov. 10, 1978, [92 Stat. 3574][/us/stat/92/3574], provided that the amendment made by that section is effective with respect to grants under this section for fiscal years beginning after June 30, 1975.
+    [Pub. L. 94–317, title II][/us/pl/94/317/tII], § 202(a), Nov. 10, 1978, [92 Stat. 3574][/us/stat/92/3574], provided that the amendment made by that section is effective with respect to grants under this section for fiscal years beginning after June 30, 1975.
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 94–63, title VI, § 608][/us/pl/94/63/s608], July 29, 1975, [89 Stat. 352][/us/stat/89/352], provided that: 
+[Pub. L. 94–63, title VI][/us/pl/94/63/tVI], § 608, July 29, 1975, [89 Stat. 352][/us/stat/89/352], provided that: 
 
 > “Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending [section 246 of this title][/us/usc/t42/s246] and enacting provisions set out as notes under [section 246 of this title][/us/usc/t42/s246]\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing [section 3505c of this title][/us/usc/t42/s3505c], and enacting provision set out as a note under [section 300 of this title][/us/usc/t42/s300]\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under [section 2689 of this title][/us/usc/t42/s2689]\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under [section 254b of this title][/us/usc/t42/s254b]\], and V \[enacting [section 254c of this title][/us/usc/t42/s254c] and amending [section 246 of this title][/us/usc/t42/s246]\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688l, 2688l–1, 2688n–1, 2688o, and 2688u of this title\].”
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–449, title I, § 102][/us/pl/92/449/s102], Sept. 30, 1972, [86 Stat. 750][/us/stat/86/750], provided that: 
+[Pub. L. 92–449, title I][/us/pl/92/449/tI], § 102, Sept. 30, 1972, [86 Stat. 750][/us/stat/86/750], provided that: 
 
 > “The amendment made by [section 101 of this title][/us/usc/t42/s101] \[amending this section\] shall apply to grants made under section 317 of the Public Health Service Act \[[42 U.S.C. 247b][/us/usc/t42/s247b]\] after June 30, 1972, except that subsection (d) of such section as amended by section 101 shall take effect on the date of enactment of this Act \[Sept. 30, 1972\].”
 
  __Rule of Construction Regarding Access to Immunizations__ 
 
-[Pub. L. 111–148, title IV, § 4204(d)][/us/pl/111/148/s4204/d], Mar. 23, 2010, [124 Stat. 572][/us/stat/124/572], provided that: 
+[Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4204(d), Mar. 23, 2010, [124 Stat. 572][/us/stat/124/572], provided that: 
 
 > “Nothing in this section \[amending this section\] (including the amendments made by this section), or any other provision of this Act \[see Tables for classification\] (including any amendments made by this Act) shall be construed to decrease children’s access to immunizations.”
 
  __Assistance of Administrator of Veterans’ Affairs in Administration of National Swine Flu Immunization Program of 1976; Claims for Damages__ 
 
-    [Pub. L. 94–420, § 3][/us/pl/94/420/s3], Sept. 23, 1976, [90 Stat. 1301][/us/stat/90/1301], provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to [42 U.S.C. 247b(j)][/us/usc/t42/s247b/j], as added by [Pub. L. 94–380][/us/pl/94/380], Administrator of Veterans’ Affairs, in accordance with [42 U.S.C. 247b(j)][/us/usc/t42/s247b/j], could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing of claims and suits for damages for personal injury or death, in connection with administration of vaccine.
+    [Pub. L. 94–420][/us/pl/94/420], § 3, Sept. 23, 1976, [90 Stat. 1301][/us/stat/90/1301], provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to [42 U.S.C. 247b(j)][/us/usc/t42/s247b/j], as added by [Pub. L. 94–380][/us/pl/94/380], Administrator of Veterans’ Affairs, in accordance with [42 U.S.C. 247b(j)][/us/usc/t42/s247b/j], could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing of claims and suits for damages for personal injury or death, in connection with administration of vaccine.
 
  __Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress__ 
 
-    [Pub. L. 94–380, § 3][/us/pl/94/380/s3], Aug. 12, 1976, [90 Stat. 1118][/us/stat/90/1118], directed Secretary to conduct a study of liability for personal injuries or death arising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
+    [Pub. L. 94–380][/us/pl/94/380], § 3, Aug. 12, 1976, [90 Stat. 1118][/us/stat/90/1118], directed Secretary to conduct a study of liability for personal injuries or death arising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
 
 ----------
 
@@ -354,93 +354,93 @@
 
 [/us/usc/t42/s300u–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%934
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/87/868/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F868%2Fs2
+[/us/pl/87/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F868
 [/us/stat/76/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1155
-[/us/pl/89/109/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109%2Fs2
+[/us/pl/89/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109
 [/us/stat/79/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F435
-[/us/pl/91/464/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F464%2Fs2
+[/us/pl/91/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F464
 [/us/stat/84/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F988
-[/us/pl/92/449/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449%2Fs101
+[/us/pl/92/449/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449%2FtI
 [/us/stat/86/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F748
-[/us/pl/93/354/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354%2Fs4
+[/us/pl/93/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354
 [/us/stat/88/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F376
-[/us/pl/94/63/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs601
+[/us/pl/94/63/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtVI
 [/us/stat/89/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F346
-[/us/pl/94/317/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs202%2Fa
+[/us/pl/94/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtII
 [/us/stat/90/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F700
-[/us/pl/94/380/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F380%2Fs2
+[/us/pl/94/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F380
 [/us/stat/90/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1113
-[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3574
-[/us/pl/96/32/s6/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs6%2Fi
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F83
-[/us/pl/97/35/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs928
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F569
-[/us/pl/98/555/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs2
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
 [/us/stat/98/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2854
-[/us/pl/99/117/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs11%2Fc
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
-[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
+[/us/pl/100/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2FtI
 [/us/stat/101/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F990
-[/us/pl/101/368/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368%2Fs2
+[/us/pl/101/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368
 [/us/stat/104/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F446
-[/us/pl/101/502/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs2%2Fa
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
 [/us/stat/104/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1285
-[/us/pl/103/183/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs301%2Fb
+[/us/pl/103/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtIII
 [/us/stat/107/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2235
-[/us/pl/105/392/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs303
+[/us/pl/105/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIII
 [/us/stat/112/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3586
-[/us/pl/106/310/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1711
+[/us/pl/106/310/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXVII
 [/us/stat/114/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1152
-[/us/pl/111/148/s4204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4204%2Fa
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F571
 [/us/usc/t42/s300m–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m%E2%80%933
-[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/pl/99/660/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
 [/us/usc/t42/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247
-[/us/pl/99/117/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs12%2Fb
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s4204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4204%2Fc%2F1
-[/us/pl/111/148/s4204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4204%2Fc%2F2
-[/us/pl/111/148/s4204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4204%2Fa
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
-[/us/pl/105/392/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs303%2F1
-[/us/pl/105/392/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs303%2F2
-[/us/pl/103/183/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs301%2Fb%2F1
-[/us/pl/103/183/s301/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs301%2Fb%2F2%2FA
-[/us/pl/103/183/s301/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs301%2Fb%2F2%2FB
-[/us/pl/103/183/s301/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs301%2Fb%2F2%2FB
-[/us/pl/103/183/s301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs301%2Fb%2F3
-[/us/pl/101/502/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs2%2Fa%2F1
-[/us/pl/101/502/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs2%2Fa%2F2
-[/us/pl/101/502/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502%2Fs2%2Fa%2F3
-[/us/pl/101/368/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368%2Fs2%2Fc
-[/us/pl/101/368/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368%2Fs2%2Fa%2F1
-[/us/pl/101/368/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368%2Fs2%2Fa%2F2
-[/us/pl/101/368/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368%2Fs2%2Fb
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
+[/us/pl/101/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F502
+[/us/pl/101/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368
+[/us/pl/101/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368
+[/us/pl/101/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368
+[/us/pl/101/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F368
 [/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
-[/us/pl/100/177/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177%2Fs111%2Fb
+[/us/pl/100/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F177
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
-[/us/pl/97/35/s928/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs928%2Fb
-[/us/pl/98/555/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs2%2Fa
-[/us/pl/98/555/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555%2Fs2%2Fb
-[/us/pl/97/35/s928/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs928%2Fa
-[/us/pl/97/35/s928/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs928%2Fb
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F555
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
-[/us/pl/95/626/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs202
-[/us/pl/95/626/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs204%2Fb%2F2
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
+[/us/pl/95/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626
 [/us/usc/t42/s247c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247c
 [/us/pl/94/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317
 [/us/pl/94/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F380
-[/us/pl/94/63/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs601%2Fb
-[/us/pl/94/63/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs601%2Fa
-[/us/pl/93/354/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354%2Fs4%2F1
-[/us/pl/93/354/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354%2Fs4%2F1
-[/us/pl/93/354/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354%2Fs4%2F1
-[/us/pl/93/354/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354%2Fs4%2F1
-[/us/pl/93/354/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354%2Fs4%2F1
+[/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
+[/us/pl/94/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63
+[/us/pl/93/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354
+[/us/pl/93/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354
+[/us/pl/93/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354
+[/us/pl/93/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354
+[/us/pl/93/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F354
 [/us/pl/92/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449
 [/us/pl/92/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449
 [/us/pl/92/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449
@@ -457,16 +457,16 @@
 [/us/pl/91/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F464
 [/us/pl/91/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F464
 [/us/pl/91/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F464
-[/us/pl/89/109/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109%2Fs2%2Fa
-[/us/pl/89/109/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109%2Fs2%2Fc
-[/us/pl/89/109/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109%2Fs2%2Fd%2F1
-[/us/pl/95/626/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs202
+[/us/pl/89/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109
+[/us/pl/89/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109
+[/us/pl/89/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F109
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3574
-[/us/pl/96/32/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs6%2Fg
+[/us/pl/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32
 [/us/stat/93/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F83
-[/us/pl/94/317/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs202%2Fa
+[/us/pl/94/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtII
 [/us/stat/92/3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3574
-[/us/pl/94/63/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs608
+[/us/pl/94/63/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtVI
 [/us/stat/89/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F352
 [/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
 [/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
@@ -476,18 +476,18 @@
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t42/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c
 [/us/usc/t42/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs246
-[/us/pl/92/449/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449%2Fs102
+[/us/pl/92/449/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F449%2FtI
 [/us/stat/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F750
 [/us/usc/t42/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs101
 [/us/usc/t42/s247b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b
-[/us/pl/111/148/s4204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4204%2Fd
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F572
-[/us/pl/94/420/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F420%2Fs3
+[/us/pl/94/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F420
 [/us/stat/90/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1301
 [/us/usc/t42/s247b/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%2Fj
 [/us/pl/94/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F380
 [/us/usc/t42/s247b/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%2Fj
-[/us/pl/94/380/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F380%2Fs3
+[/us/pl/94/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F380
 [/us/stat/90/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1118
 
 

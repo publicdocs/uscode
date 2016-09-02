@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch73/schI/m__us_usc_t42_s5817a.md) | [Next](./../../../../..//us/usc/t42/ch73/schI/m__us_usc_t42_s5819.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5818)
 
-## § 5818. Repealed. [Pub. L. 95–91, title VII, § 709(b)][/us/pl/95/91/s709/b], Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608]
+## § 5818. Repealed. [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(b), Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608]
 
-    Section, [Pub. L. 93–438, title I, § 108][/us/pl/93/438/s108], Oct. 11, 1974, [88 Stat. 1241][/us/stat/88/1241]; [Pub. L. 94–385, title I][/us/pl/94/385], §§ 162, 163, Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140], 1142; [Pub. L. 95–39, title V, § 510(b)][/us/pl/95/39/s510/b], (c), June 3, 1977, [91 Stat. 200][/us/stat/91/200], related to establishment of an Energy Resources Council.
+    Section, [Pub. L. 93–438, title I][/us/pl/93/438/tI], § 108, Oct. 11, 1974, [88 Stat. 1241][/us/stat/88/1241]; [Pub. L. 94–385, title I][/us/pl/94/385/tI], §§ 162, 163, Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140], 1142; [Pub. L. 95–39, title V][/us/pl/95/39/tV], § 510(b), (c), June 3, 1977, [91 Stat. 200][/us/stat/91/200], related to establishment of an Energy Resources Council.
 
  __Executive Order No. 11814__ 
 
@@ -28,13 +28,13 @@
 ----------
 ----------
 
-[/us/pl/95/91/s709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fb
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F608
-[/us/pl/93/438/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs108
+[/us/pl/93/438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtI
 [/us/stat/88/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1241
-[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1140
-[/us/pl/95/39/s510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs510%2Fb
+[/us/pl/95/39/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtV
 [/us/stat/91/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F200
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
 

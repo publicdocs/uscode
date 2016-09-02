@@ -31,7 +31,7 @@
 
         The Secretary, with the consent of the Secretary of Housing and Urban Development, shall obtain from the Department of Housing and Urban Development such assistance with respect to the administration of this part as will promote efficiency and economy thereof.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 621, as added [Pub. L. 91–296, title II, § 201][/us/pl/91/296/s201], June 30, 1970, [84 Stat. 344][/us/stat/84/344]; amended [Pub. L. 93–45, title I, § 108(b)(1)][/us/pl/93/45/s108/b/1], June 18, 1973, [87 Stat. 93][/us/stat/87/93].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 621, as added [Pub. L. 91–296, title II][/us/pl/91/296/tII], § 201, June 30, 1970, [84 Stat. 344][/us/stat/84/344]; amended [Pub. L. 93–45, title I][/us/pl/93/45/tI], § 108(b)(1), June 18, 1973, [87 Stat. 93][/us/stat/87/93].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t42/s291j–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291j%E2%80%937
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs201
+[/us/pl/91/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtII
 [/us/stat/84/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F344
-[/us/pl/93/45/s108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2Fs108%2Fb%2F1
+[/us/pl/93/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45%2FtI
 [/us/stat/87/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F93
 [/us/pl/93/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F45
 

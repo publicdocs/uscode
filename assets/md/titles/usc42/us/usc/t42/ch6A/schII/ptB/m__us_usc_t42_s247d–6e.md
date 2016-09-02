@@ -115,7 +115,7 @@
 
             The term “eligible individual” means an individual who is determined, in accordance with subsection (b) of this section, to be a covered individual who sustains a covered injury.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F–4, as added [Pub. L. 109–148, div. C, § 3][/us/pl/109/148/s3], Dec. 30, 2005, [119 Stat. 2829][/us/stat/119/2829].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F–4, as added [Pub. L. 109–148, div. C][/us/pl/109/148/dC], § 3, Dec. 30, 2005, [119 Stat. 2829][/us/stat/119/2829].)
 
  __References in Text__ 
 
@@ -143,7 +143,7 @@
 [/us/usc/t42/s247d–6d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936d
 [/us/usc/t42/s247d–6d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936d%2Fb
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/148/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs3
+[/us/pl/109/148/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdC
 [/us/stat/119/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2829
 [/us/stat/119/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3633
 

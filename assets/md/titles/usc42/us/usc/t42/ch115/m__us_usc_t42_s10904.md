@@ -23,7 +23,7 @@
 
         Payments pursuant to grants made under this chapter may be made in installments, and in advance or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments, as the Secretary may determine.
 
-([Pub. L. 99–425, title VI, § 605][/us/pl/99/425/s605], Sept. 30, 1986, [100 Stat. 977][/us/stat/100/977].)
+([Pub. L. 99–425, title VI][/us/pl/99/425/tVI], § 605, Sept. 30, 1986, [100 Stat. 977][/us/stat/100/977].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/425/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs605
+[/us/pl/99/425/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtVI
 [/us/stat/100/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F977
 
 

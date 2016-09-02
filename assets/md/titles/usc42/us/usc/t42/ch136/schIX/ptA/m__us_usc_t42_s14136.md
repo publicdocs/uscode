@@ -31,7 +31,7 @@
 
         There are authorized to be appropriated $12,500,000 for each of fiscal years 2015 through 2019 to carry out this section.
 
-([Pub. L. 108–405, title III, § 303][/us/pl/108/405/s303], Oct. 30, 2004, [118 Stat. 2273][/us/stat/118/2273]; [Pub. L. 110–360, § 3][/us/pl/110/360/s3], Oct. 8, 2008, [122 Stat. 4008][/us/stat/122/4008]; [Pub. L. 113–182, § 3][/us/pl/113/182/s3], Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918].)
+([Pub. L. 108–405, title III][/us/pl/108/405/tIII], § 303, Oct. 30, 2004, [118 Stat. 2273][/us/stat/118/2273]; [Pub. L. 110–360][/us/pl/110/360], § 3, Oct. 8, 2008, [122 Stat. 4008][/us/stat/122/4008]; [Pub. L. 113–182][/us/pl/113/182], § 3, Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 
  __Incentive Grants to States To Ensure Consideration of Claims of Actual Innocence__ 
 
-[Pub. L. 108–405, title IV, § 413][/us/pl/108/405/s413], Oct. 30, 2004, [118 Stat. 2285][/us/stat/118/2285], provided that: 
+[Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 413, Oct. 30, 2004, [118 Stat. 2285][/us/stat/118/2285], provided that: 
 
 > “For each of fiscal years 2005 through 2009, all funds appropriated to carry out sections 303, 305, 308, and 412 \[sections 14136, 14136b, 14136d, and 14136e of this title\] shall be reserved for grants to eligible entities that—
 
@@ -84,15 +84,15 @@
 ----------
 ----------
 
-[/us/pl/108/405/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs303
+[/us/pl/108/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIII
 [/us/stat/118/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2273
-[/us/pl/110/360/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360%2Fs3
+[/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
 [/us/stat/122/4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4008
-[/us/pl/113/182/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs3
+[/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
 [/us/stat/128/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1918
 [/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
 [/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
-[/us/pl/108/405/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs413
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2285
 [/us/usc/t18/s3600/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3600%2Fa
 [/us/usc/t18/s3600A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3600A

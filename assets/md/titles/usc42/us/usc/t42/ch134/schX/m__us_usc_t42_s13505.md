@@ -37,7 +37,7 @@
 
     (6) budget estimates for activities under this section.
 
-([Pub. L. 102–486, title XXII, § 2205][/us/pl/102/486/s2205], Oct. 24, 1992, [106 Stat. 3091][/us/stat/106/3091].)
+([Pub. L. 102–486, title XXII][/us/pl/102/486/tXXII], § 2205, Oct. 24, 1992, [106 Stat. 3091][/us/stat/106/3091].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2205
+[/us/pl/102/486/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXII
 [/us/stat/106/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3091
 
 

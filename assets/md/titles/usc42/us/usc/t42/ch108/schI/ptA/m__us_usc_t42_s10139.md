@@ -39,7 +39,7 @@
 
         A civil action for judicial review described under subsection (a)(1) of this section may be brought not later than the 180th day after the date of the decision or action or failure to act involved, as the case may be, except that if a party shows that he did not know of the decision or action complained of (or of the failure to act), and that a reasonable person acting under the circumstances would not have known, such party may bring a civil action not later than the 180th day after the date such party acquired actual or constructive knowledge of such decision, action, or failure to act.
 
-([Pub. L. 97–425, title I, § 119][/us/pl/97/425/s119], Jan. 7, 1983, [96 Stat. 2227][/us/stat/96/2227].)
+([Pub. L. 97–425, title I][/us/pl/97/425/tI], § 119, Jan. 7, 1983, [96 Stat. 2227][/us/stat/96/2227].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s10155/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10155%2Fc%2F1
-[/us/pl/97/425/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs119
+[/us/pl/97/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtI
 [/us/stat/96/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2227
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

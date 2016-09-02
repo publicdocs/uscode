@@ -69,7 +69,7 @@
 
         Whenever an agency publishes in the Federal Register a rule (including an interpretative rule) or a general statement of policy to which subsection (c) of this section applies, such agency shall transmit a copy of such rule or such general statement of policy to the Speaker of the House of Representatives and the President pro tempore of the Senate.
 
-([Pub. L. 88–452, title VIII, § 814][/us/pl/88/452/s814], as added [Pub. L. 100–175, title V, § 503(a)][/us/pl/100/175/s503/a], Nov. 29, 1987, [101 Stat. 974][/us/stat/101/974].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 814, as added [Pub. L. 100–175, title V][/us/pl/100/175/tV], § 503(a), Nov. 29, 1987, [101 Stat. 974][/us/stat/101/974].)
 
  __Prior Provisions__ 
 
@@ -92,8 +92,8 @@
 [/us/usc/t5/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fb
 [/us/usc/t5/s553/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fd
 [/us/usc/t5/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fb
-[/us/pl/88/452/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs814
-[/us/pl/100/175/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs503%2Fa
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/100/175/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtV
 [/us/stat/101/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F974
 [/us/pl/88/452/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs814
 [/us/usc/t42/s2992d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2992d

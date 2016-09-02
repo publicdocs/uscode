@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the President is authorized to extend, for such period or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or [section 1553 of this title][/us/usc/t42/s1553] (or any contract entered into pursuant thereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the general housing situation and the national economy, that such extension is in the public interest.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 611, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 603(d), [65 Stat. 314][/us/stat/65/314]; amended [July 14, 1952, ch. 723, § 6][/us/act/1952-07-14/ch723/s6], [66 Stat. 603][/us/stat/66/603]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title VI, § 611, as added [Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title VI, § 603(d), [65 Stat. 314][/us/stat/65/314]; amended [July 14, 1952, ch. 723][/us/act/1952-07-14/ch723], § 6, [66 Stat. 603][/us/stat/66/603]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __Amendments__ 
 
@@ -94,9 +94,9 @@
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F314
-[/us/act/1952-07-14/ch723/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs6
+[/us/act/1952-07-14/ch723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723
 [/us/stat/66/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F603
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1553
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581

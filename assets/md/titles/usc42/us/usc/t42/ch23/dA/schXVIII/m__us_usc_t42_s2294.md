@@ -25,7 +25,7 @@
 
     in accordance with the provisions of an agreement or agreements for cooperation between the Government of the United States and the Community entered into pursuant to the provisions of [section 2153 of this title][/us/usc/t42/s2153]: Provided, That the Government of the United States obtains the equivalent of a first lien on any such material sold to the Community for which payment is not made in full at the time of transfer. The Commission may enter into contracts to provide, after December 31, 1968, for the producing or enriching of all, or part of, the above-mentioned contained uranium 235 pursuant to the provisions of [section 2201(v)(B) of this title][/us/usc/t42/s2201/v/B] in lieu of sale or lease thereof.
 
-([Pub. L. 85–846, § 5][/us/pl/85/846/s5], Aug. 28, 1958, [72 Stat. 1085][/us/stat/72/1085]; [Pub. L. 87–206, § 19][/us/pl/87/206/s19], Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479]; [Pub. L. 88–394, § 5][/us/pl/88/394/s5], Aug. 1, 1964, [78 Stat. 376][/us/stat/78/376]; [Pub. L. 90–190, § 13][/us/pl/90/190/s13], Dec. 14, 1967, [81 Stat. 578][/us/stat/81/578]; [Pub. L. 93–88][/us/pl/93/88], Aug. 14, 1973, [87 Stat. 296][/us/stat/87/296].)
+([Pub. L. 85–846][/us/pl/85/846], § 5, Aug. 28, 1958, [72 Stat. 1085][/us/stat/72/1085]; [Pub. L. 87–206][/us/pl/87/206], § 19, Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479]; [Pub. L. 88–394][/us/pl/88/394], § 5, Aug. 1, 1964, [78 Stat. 376][/us/stat/78/376]; [Pub. L. 90–190][/us/pl/90/190], § 13, Dec. 14, 1967, [81 Stat. 578][/us/stat/81/578]; [Pub. L. 93–88][/us/pl/93/88], Aug. 14, 1973, [87 Stat. 296][/us/stat/87/296].)
 
  __Codification__ 
 
@@ -51,13 +51,13 @@
 [/us/usc/t42/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2074
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
 [/us/usc/t42/s2201/v/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2201%2Fv%2FB
-[/us/pl/85/846/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846%2Fs5
+[/us/pl/85/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846
 [/us/stat/72/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1085
-[/us/pl/87/206/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs19
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F479
-[/us/pl/88/394/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F394%2Fs5
+[/us/pl/88/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F394
 [/us/stat/78/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F376
-[/us/pl/90/190/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190%2Fs13
+[/us/pl/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F190
 [/us/stat/81/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F578
 [/us/pl/93/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F88
 [/us/stat/87/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F296

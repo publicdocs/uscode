@@ -27,7 +27,7 @@
 
         At the discretion of the Attorney General, Federal participants may be placed in State projects as defined in subpart 1. For such participants, the Attorney General shall, with funds available under [section 13883(b)(2) of this title][/us/usc/t42/s13883/b/2], reimburse the State for all project costs related to the Federal participant’s placement, including administrative costs.
 
-([Pub. L. 103–322, title III, § 31921][/us/pl/103/322/s31921], Sept. 13, 1994, [108 Stat. 1896][/us/stat/108/1896].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31921, Sept. 13, 1994, [108 Stat. 1896][/us/stat/108/1896].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s13883/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13883%2Fb%2F2
-[/us/pl/103/322/s31921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31921
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1896
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

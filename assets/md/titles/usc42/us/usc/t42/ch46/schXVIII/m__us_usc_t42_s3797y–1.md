@@ -27,7 +27,7 @@
 
         A rural State may use up to 5 percent of the grant to assist grant recipients in collecting statewide data related to the costs of crime, violence, and substance abuse for purposes of supporting the statewide strategic plan.
 
-([Pub. L. 90–351, title I, § 2986][/us/pl/90/351/s2986], as added [Pub. L. 107–273, div. C, title I, § 11027(b)][/us/pl/107/273/s11027/b], Nov. 2, 2002, [116 Stat. 1834][/us/stat/116/1834].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2986, as added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11027(b), Nov. 2, 2002, [116 Stat. 1834][/us/stat/116/1834].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t42/s3797y–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797y%E2%80%932
-[/us/pl/90/351/s2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2986
-[/us/pl/107/273/s11027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11027%2Fb
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1834
 
 

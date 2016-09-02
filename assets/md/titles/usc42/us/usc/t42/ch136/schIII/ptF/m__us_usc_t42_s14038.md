@@ -17,7 +17,7 @@
 
     Not later than 2 years after September 13, 1994, the Attorney General, in accordance with the States, shall compile data regarding domestic violence and intimidation (including stalking) as part of the National Incident-Based Reporting System (NIBRS).
 
-([Pub. L. 103–322, title IV, § 40609][/us/pl/103/322/s40609], Sept. 13, 1994, [108 Stat. 1952][/us/stat/108/1952].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40609, Sept. 13, 1994, [108 Stat. 1952][/us/stat/108/1952].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40609
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1952
 
 

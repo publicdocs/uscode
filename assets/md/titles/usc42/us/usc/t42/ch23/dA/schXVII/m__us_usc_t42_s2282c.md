@@ -73,7 +73,7 @@
 
             The Secretary shall ensure that a contractor of the Department is not penalized both under this section and under [section 2282a of this title][/us/usc/t42/s2282a] for the same violation.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 234C, as added [Pub. L. 107–314, div. C, title XXXI, § 3173(a)][/us/pl/107/314/s3173/a], Dec. 2, 2002, [116 Stat. 2743][/us/stat/116/2743].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 234C, as added [Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3173(a), Dec. 2, 2002, [116 Stat. 2743][/us/stat/116/2743].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Promulgation of Initial Regulations__ 
 
-[Pub. L. 107–314, div. C, title XXXI, § 3173(b)][/us/pl/107/314/s3173/b], Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745], provided that:
+[Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3173(b), Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745], provided that:
 
 >     “(1)  __Deadline for promulgating regulations__  __.—__ 
 
@@ -95,7 +95,7 @@
 
  __Prohibition__ 
 
-[Pub. L. 107–314, div. C, title XXXI, § 3173(c)][/us/pl/107/314/s3173/c], Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745], provided that: 
+[Pub. L. 107–314, div. C, title XXXI][/us/pl/107/314/dC/tXXXI], § 3173(c), Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745], provided that: 
 
 > “The Secretary of Energy shall not participate in or otherwise support any study or other project relating to a modification in the scope of the regulations enforceable by civil penalties under section 234A or 234C of the Atomic Energy Act of 1954 \[[42 U.S.C. 2282a][/us/usc/t42/s2282a], 2282c\], or the responsibility of the Secretary to implement and enforce such regulations, until after the date on which the regulations for such purposes under such section 234C take effect in accordance with subsection (b) \[set out as a note above\].”
 
@@ -115,15 +115,15 @@
 [/us/usc/t42/s2282a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2282a
 [/us/usc/t42/s2282a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2282a
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/107/314/s3173/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3173%2Fa
+[/us/pl/107/314/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXI
 [/us/stat/116/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2743
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
-[/us/pl/107/314/s3173/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3173%2Fb
+[/us/pl/107/314/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXI
 [/us/stat/116/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2745
 [/us/usc/t42/s2282c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2282c%2Fa
-[/us/pl/107/314/s3173/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3173%2Fc
+[/us/pl/107/314/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXI
 [/us/stat/116/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2745
 [/us/usc/t42/s2282a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2282a
 

@@ -43,7 +43,7 @@
 
         (8) to ensure that the public interest in, and need for, affordable manufactured housing is duly considered in all determinations relating to the Federal standards and their enforcement.
 
-([Pub. L. 93–383, title VI, § 602][/us/pl/93/383/s602], Aug. 22, 1974, [88 Stat. 700][/us/stat/88/700]; [Pub. L. 96–399, title III, § 308(c)(4)][/us/pl/96/399/s308/c/4], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III, § 339B(c)][/us/pl/97/35/s339B/c], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI, § 602][/us/pl/106/569/s602], Dec. 27, 2000, [114 Stat. 2997][/us/stat/114/2997].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 602, Aug. 22, 1974, [88 Stat. 700][/us/stat/88/700]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(4), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 339B(c), Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 602, Dec. 27, 2000, [114 Stat. 2997][/us/stat/114/2997].)
 
  __Amendments__ 
 
@@ -53,31 +53,31 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–569, title VI, § 612][/us/pl/106/569/s612], Dec. 27, 2000, [114 Stat. 3012][/us/stat/114/3012], provided that: 
+[Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 612, Dec. 27, 2000, [114 Stat. 3012][/us/stat/114/3012], provided that: 
 
 > “The amendments made by this title \[see Short Title of 2000 Amendment note below\] shall take effect on the date of the enactment of this Act \[Dec. 27, 2000\], except that the amendments shall have no effect on any order or interpretative bulletin that is issued under the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5401][/us/usc/t42/s5401] et seq.) and published as a proposed rule pursuant to [section 553 of title 5][/us/usc/t5/s553], United States Code, on or before that date of the enactment.”
 
  __Effective Date__ 
 
-[Pub. L. 93–383, title VI, § 627][/us/pl/93/383/s627], formerly § 628, Aug. 22, 1974, [88 Stat. 714][/us/stat/88/714], renumbered § 627, [Pub. L. 106–569, title VI, § 611(2)][/us/pl/106/569/s611/2], Dec. 27, 2000, [114 Stat. 3012][/us/stat/114/3012], provided that: 
+[Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 627, formerly § 628, Aug. 22, 1974, [88 Stat. 714][/us/stat/88/714], renumbered § 627, [Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 611(2), Dec. 27, 2000, [114 Stat. 3012][/us/stat/114/3012], provided that: 
 
 > “The provisions of this title \[enacting this chapter and provisions set out as a note under this section\] shall take effect upon the expiration of 180 days following the date of enactment of this title \[Aug. 22, 1974\].”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–569, title VI, § 601(a)][/us/pl/106/569/s601/a], Dec. 27, 2000, [114 Stat. 2997][/us/stat/114/2997], provided that: 
+[Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 601(a), Dec. 27, 2000, [114 Stat. 2997][/us/stat/114/2997], provided that: 
 
 > “This title \[amending this section and sections 5402 to 5404, 5406, 5407, 5409, 5412 to 5415, 5419, 5422, and 5426 of this title, repealing [section 5425 of this title][/us/usc/t42/s5425], and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Manufactured Housing Improvement Act of 2000’.”
 
  __Short Title__ 
 
-[Pub. L. 93–383, title VI, § 601][/us/pl/93/383/s601], Aug. 22, 1974, [88 Stat. 700][/us/stat/88/700], as amended by [Pub. L. 96–399, title III, § 308(c)(5)][/us/pl/96/399/s308/c/5], Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641], provided that: 
+[Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 601, Aug. 22, 1974, [88 Stat. 700][/us/stat/88/700], as amended by [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 308(c)(5), Oct. 8, 1980, [94 Stat. 1641][/us/stat/94/1641], provided that: 
 
 > “This title \[enacting this chapter and provisions set out as a note under this section\] may be cited as the ‘National Manufactured Housing Construction and Safety Standards Act of 1974’.”
 
  __Savings Provisions__ 
 
-[Pub. L. 106–569, title VI, § 613][/us/pl/106/569/s613], Dec. 27, 2000, [114 Stat. 3012][/us/stat/114/3012], provided that:
+[Pub. L. 106–569, title VI][/us/pl/106/569/tVI], § 613, Dec. 27, 2000, [114 Stat. 3012][/us/stat/114/3012], provided that:
 
 >     “(a)  __Standards and Regulations__  __.—__ 
 
@@ -98,32 +98,32 @@
 ----------
 ----------
 
-[/us/pl/93/383/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs602
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F700
-[/us/pl/96/399/s308/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F4
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/97/35/s339B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs339B%2Fc
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F417
-[/us/pl/106/569/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs602
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2997
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
-[/us/pl/106/569/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs612
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3012
 [/us/usc/t42/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5401
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/93/383/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs627
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F714
-[/us/pl/106/569/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs611%2F2
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3012
-[/us/pl/106/569/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs601%2Fa
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2997
 [/us/usc/t42/s5425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5425
-[/us/pl/93/383/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs601
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F700
-[/us/pl/96/399/s308/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs308%2Fc%2F5
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1641
-[/us/pl/106/569/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs613
+[/us/pl/106/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVI
 [/us/stat/114/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3012
 [/us/usc/t42/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5402
 [/us/usc/t42/s5403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403%2Fa

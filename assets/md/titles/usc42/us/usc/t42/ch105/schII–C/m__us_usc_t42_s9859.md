@@ -39,7 +39,7 @@
 
         The term “State” means any of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 106–310, div. A, title XIV, § 1401][/us/pl/106/310/s1401], Oct. 17, 2000, [114 Stat. 1143][/us/stat/114/1143].)
+([Pub. L. 106–310, div. A, title XIV][/us/pl/106/310/dA/tXIV], § 1401, Oct. 17, 2000, [114 Stat. 1143][/us/stat/114/1143].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/106/310/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1401
+[/us/pl/106/310/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXIV
 [/us/stat/114/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1143
 
 

@@ -141,17 +141,17 @@
 
         (3) facts and circumstances of any significant change in such level from the level in previous fiscal years.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1821, as added [Pub. L. 105–33, title IV, § 4454(a)(2)][/us/pl/105/33/s4454/a/2], Aug. 5, 1997, [111 Stat. 428][/us/stat/111/428]; amended [Pub. L. 108–173, title VII, § 706(a)][/us/pl/108/173/s706/a], Dec. 8, 2003, [117 Stat. 2339][/us/stat/117/2339].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1821, as added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4454(a)(2), Aug. 5, 1997, [111 Stat. 428][/us/stat/111/428]; amended [Pub. L. 108–173, title VII][/us/pl/108/173/tVII], § 706(a), Dec. 8, 2003, [117 Stat. 2339][/us/stat/117/2339].)
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–173, § 706(a)(1)][/us/pl/108/173/s706/a/1], inserted “and for home health services furnished an individual by a religious nonmedical health care institution” after “religious nonmedical health care institution” in introductory provisions.
+    2003—Subsec. (a). [Pub. L. 108–173][/us/pl/108/173], § 706(a)(1), inserted “and for home health services furnished an individual by a religious nonmedical health care institution” after “religious nonmedical health care institution” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 108–173, § 706(a)(2)][/us/pl/108/173/s706/a/2], substituted “, extended care services, or home health services” for “or extended care services” and inserted “, or receiving services from a home health agency,” after “skilled nursing facility”.
+    Subsec. (a)(2). [Pub. L. 108–173][/us/pl/108/173], § 706(a)(2), substituted “, extended care services, or home health services” for “or extended care services” and inserted “, or receiving services from a home health agency,” after “skilled nursing facility”.
 
  __Effective Date__ 
 
-[Pub. L. 105–33, title IV, § 4454(d)][/us/pl/105/33/s4454/d], Aug. 5, 1997, [111 Stat. 431][/us/stat/111/431], provided that: 
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4454(d), Aug. 5, 1997, [111 Stat. 431][/us/stat/111/431], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 1320a–1, 1320c–11, 1395x, 1396a, and 1396g of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\] and shall apply to items and services furnished on or after such date. By not later than July 1, 1998, the Secretary of Health and Human Services shall first issue regulations to carry out such amendments. Such regulations may be issued so they are effective on an interim basis pending notice and opportunity for public comment. For periods before the effective date of such regulations, such regulations shall recognize elections entered into in good faith in order to comply with the requirements of section 1821(b) of the Social Security Act \[[42 U.S.C. 1395i–5(b)][/us/usc/t42/s1395i–5/b]\].”
 
@@ -164,13 +164,13 @@
 
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/105/33/s4454/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4454%2Fa%2F2
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F428
-[/us/pl/108/173/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs706%2Fa
+[/us/pl/108/173/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtVII
 [/us/stat/117/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2339
-[/us/pl/108/173/s706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs706%2Fa%2F1
-[/us/pl/108/173/s706/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs706%2Fa%2F2
-[/us/pl/105/33/s4454/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4454%2Fd
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F431
 [/us/usc/t42/s1395i–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%935%2Fb
 

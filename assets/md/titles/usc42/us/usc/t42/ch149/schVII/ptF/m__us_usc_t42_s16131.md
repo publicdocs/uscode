@@ -93,27 +93,27 @@
 
         (B) the California Air Resources Board.
 
-([Pub. L. 109–58, title VII, § 791][/us/pl/109/58/s791], Aug. 8, 2005, [119 Stat. 838][/us/stat/119/838]; [Pub. L. 110–255, § 3(a)][/us/pl/110/255/s3/a], June 30, 2008, [122 Stat. 2423][/us/stat/122/2423]; [Pub. L. 111–364, § 2(a)][/us/pl/111/364/s2/a], Jan. 4, 2011, [124 Stat. 4056][/us/stat/124/4056].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 791, Aug. 8, 2005, [119 Stat. 838][/us/stat/119/838]; [Pub. L. 110–255][/us/pl/110/255], § 3(a), June 30, 2008, [122 Stat. 2423][/us/stat/122/2423]; [Pub. L. 111–364][/us/pl/111/364], § 2(a), Jan. 4, 2011, [124 Stat. 4056][/us/stat/124/4056].)
 
  __Amendments__ 
 
-    2011—Par. (3)(C). [Pub. L. 111–364, § 2(a)(1)][/us/pl/111/364/s2/a/1], added subpar. (C).
+    2011—Par. (3)(C). [Pub. L. 111–364][/us/pl/111/364], § 2(a)(1), added subpar. (C).
 
-    Par. (4). [Pub. L. 111–364, § 2(a)(2)][/us/pl/111/364/s2/a/2], inserted “currently, or has not been previously,” after “that is not”.
+    Par. (4). [Pub. L. 111–364][/us/pl/111/364], § 2(a)(2), inserted “currently, or has not been previously,” after “that is not”.
 
-    Par. (8). [Pub. L. 111–364, § 2(a)(6)][/us/pl/111/364/s2/a/6], added par. (8). Former par. (8) redesignated (9).
+    Par. (8). [Pub. L. 111–364][/us/pl/111/364], § 2(a)(6), added par. (8). Former par. (8) redesignated (9).
 
-    Par. (9). [Pub. L. 111–364, § 2(a)(5)][/us/pl/111/364/s2/a/5], struck out “, advanced truckstop electrification system,” after “retrofit technology” in introductory provisions.
+    Par. (9). [Pub. L. 111–364][/us/pl/111/364], § 2(a)(5), struck out “, advanced truckstop electrification system,” after “retrofit technology” in introductory provisions.
 
-    [Pub. L. 111–364, § 2(a)(4)][/us/pl/111/364/s2/a/4], redesignated par. (8) as (9). Former par. (9) struck out.
+    [Pub. L. 111–364][/us/pl/111/364], § 2(a)(4), redesignated par. (8) as (9). Former par. (9) struck out.
 
-    [Pub. L. 111–364, § 2(a)(3)][/us/pl/111/364/s2/a/3], struck out par. (9) which defined “State” to include the District of Columbia.
+    [Pub. L. 111–364][/us/pl/111/364], § 2(a)(3), struck out par. (9) which defined “State” to include the District of Columbia.
 
     2008—Par. (9). [Pub. L. 110–255][/us/pl/110/255] added par. (9).
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–364, § 4][/us/pl/111/364/s4], Jan. 4, 2011, [124 Stat. 4061][/us/stat/124/4061], provided that:
+[Pub. L. 111–364][/us/pl/111/364], § 4, Jan. 4, 2011, [124 Stat. 4061][/us/stat/124/4061], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -131,20 +131,20 @@
 ----------
 
 [/us/usc/t42/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7521
-[/us/pl/109/58/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs791
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F838
-[/us/pl/110/255/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255%2Fs3%2Fa
-[/us/stat/122/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2423
-[/us/pl/111/364/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fa
-[/us/stat/124/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4056
-[/us/pl/111/364/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fa%2F1
-[/us/pl/111/364/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fa%2F2
-[/us/pl/111/364/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fa%2F6
-[/us/pl/111/364/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fa%2F5
-[/us/pl/111/364/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fa%2F4
-[/us/pl/111/364/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs2%2Fa%2F3
 [/us/pl/110/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255
-[/us/pl/111/364/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364%2Fs4
+[/us/stat/122/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2423
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/stat/124/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4056
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
+[/us/pl/110/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F255
+[/us/pl/111/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F364
 [/us/stat/124/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4061
 [/us/usc/t42/s16133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16133
 

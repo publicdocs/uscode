@@ -27,7 +27,7 @@
 
         The Secretary may use an existing advisory board to carry out the responsibilities described in subsection (b) of this section.
 
-([Pub. L. 102–486, title XXIII, § 2302][/us/pl/102/486/s2302], Oct. 24, 1992, [106 Stat. 3092][/us/stat/106/3092].)
+([Pub. L. 102–486, title XXIII][/us/pl/102/486/tXXIII], § 2302, Oct. 24, 1992, [106 Stat. 3092][/us/stat/106/3092].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t42/s7321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7321
 [/us/usc/t42/s13401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13401
-[/us/pl/102/486/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2302
+[/us/pl/102/486/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIII
 [/us/stat/106/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3092
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/3057-3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3057-3092

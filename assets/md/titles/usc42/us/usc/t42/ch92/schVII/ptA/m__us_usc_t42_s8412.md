@@ -33,7 +33,7 @@
 
         (4) Subject to the direction and control of the Attorney General, as provided in [section 519 of title 28][/us/usc/t28/s519], attorneys appointed by the Secretary may appear for and represent the Secretary in any proceeding instituted under this section in accordance with [section 7192(c) of this title][/us/usc/t42/s7192/c].
 
-([Pub. L. 95–620, title VII, § 702][/us/pl/95/620/s702], Nov. 9, 1978, [92 Stat. 3331][/us/stat/92/3331].)
+([Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 702, Nov. 9, 1978, [92 Stat. 3331][/us/stat/92/3331].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t28/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs519
 [/us/usc/t42/s7192/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7192%2Fc
-[/us/pl/95/620/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs702
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3331
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289

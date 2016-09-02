@@ -45,7 +45,7 @@
 
         (2) Not later than 18 months after March 2, 2004, the Commissioner of Social Security shall submit a report on the survey conducted in accordance with paragraph (1) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1110, as added [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 331, [70 Stat. 850][/us/stat/70/850]; amended [Pub. L. 90–248, title II, § 246][/us/pl/90/248/s246], Jan. 2, 1968, [81 Stat. 918][/us/stat/81/918]; [Pub. L. 96–265, title V, § 505(b)][/us/pl/96/265/s505/b], June 9, 1980, [94 Stat. 474][/us/stat/94/474]; [Pub. L. 98–369, div. B, title III, § 2331(a)][/us/pl/98/369/s2331/a], July 18, 1984, [98 Stat. 1088][/us/stat/98/1088]; [Pub. L. 99–272, title XII, § 12101(d)][/us/pl/99/272/s12101/d], Apr. 7, 1986, [100 Stat. 283][/us/stat/100/283]; [Pub. L. 103–296, title I, § 108(b)(7)][/us/pl/103/296/s108/b/7], Aug. 15, 1994, [108 Stat. 1482][/us/stat/108/1482]; [Pub. L. 105–33, title V, § 5524][/us/pl/105/33/s5524], Aug. 5, 1997, [111 Stat. 623][/us/stat/111/623]; [Pub. L. 106–170, title IV, § 404(a)][/us/pl/106/170/s404/a], Dec. 17, 1999, [113 Stat. 1910][/us/stat/113/1910]; [Pub. L. 108–203, title I, § 107(a)][/us/pl/108/203/s107/a], Mar. 2, 2004, [118 Stat. 506][/us/stat/118/506].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1110, as added [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title III, § 331, [70 Stat. 850][/us/stat/70/850]; amended [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 246, Jan. 2, 1968, [81 Stat. 918][/us/stat/81/918]; [Pub. L. 96–265, title V][/us/pl/96/265/tV], § 505(b), June 9, 1980, [94 Stat. 474][/us/stat/94/474]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2331(a), July 18, 1984, [98 Stat. 1088][/us/stat/98/1088]; [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12101(d), Apr. 7, 1986, [100 Stat. 283][/us/stat/100/283]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(b)(7), Aug. 15, 1994, [108 Stat. 1482][/us/stat/108/1482]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5524, Aug. 5, 1997, [111 Stat. 623][/us/stat/111/623]; [Pub. L. 106–170, title IV][/us/pl/106/170/tIV], § 404(a), Dec. 17, 1999, [113 Stat. 1910][/us/stat/113/1910]; [Pub. L. 108–203, title I][/us/pl/108/203/tI], § 107(a), Mar. 2, 2004, [118 Stat. 506][/us/stat/118/506].)
 
  __Amendments__ 
 
@@ -55,13 +55,13 @@
 
     1997—Subsec. (a)(3). [Pub. L. 105–33][/us/pl/105/33] inserted “(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapter XVI of this chapter)” after “Secretary” the first place appearing and “(or the Commissioner, as applicable)” after “Secretary” the second place appearing.
 
-    1994—Subsec. (a)(2). [Pub. L. 103–296, § 108(b)(7)(B)][/us/pl/103/296/s108/b/7/B], inserted “(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapters II or XVI of this chapter)” after “Secretary”.
+    1994—Subsec. (a)(2). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(7)(B), inserted “(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapters II or XVI of this chapter)” after “Secretary”.
 
-    Subsec. (b)(1). [Pub. L. 103–296, § 108(b)(7)(A)][/us/pl/103/296/s108/b/7/A], (C), in first sentence substituted “The Commissioner” for “The Secretary”, “as the Commissioner” for “as he”, and “in the Commissioner’s judgment” for “in his judgment”, in second sentence substituted “by the Commissioner” for “by the Secretary” and “available to the Commissioner” for “available to him”, in third sentence substituted “determined by the Commissioner with respect to the old-age, survivors, and disability insurance programs under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter, and by the Secretary with respect to other subchapters of this chapter,” for “determined by the Secretary,”, and substituted fourth and fifth sentences for former fourth sentence which read as follows: “If, in order to carry out a project under this subsection, the Secretary requests a State to make supplementary payments (or makes them himself pursuant to an agreement under [section 1382e of this title][/us/usc/t42/s1382e]), or to provide medical assistance under its plan approved under subchapter XIX of this chapter, to individuals who are not eligible therefor, or in amounts or under circumstances in which the State does not make such payments or provide such medical assistance, the Secretary shall reimburse such State for the non-Federal share of such payments or assistance from amounts appropriated to carry out subchapter XVI of this chapter.”
+    Subsec. (b)(1). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(7)(A), (C), in first sentence substituted “The Commissioner” for “The Secretary”, “as the Commissioner” for “as he”, and “in the Commissioner’s judgment” for “in his judgment”, in second sentence substituted “by the Commissioner” for “by the Secretary” and “available to the Commissioner” for “available to him”, in third sentence substituted “determined by the Commissioner with respect to the old-age, survivors, and disability insurance programs under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter, and by the Secretary with respect to other subchapters of this chapter,” for “determined by the Secretary,”, and substituted fourth and fifth sentences for former fourth sentence which read as follows: “If, in order to carry out a project under this subsection, the Secretary requests a State to make supplementary payments (or makes them himself pursuant to an agreement under [section 1382e of this title][/us/usc/t42/s1382e]), or to provide medical assistance under its plan approved under subchapter XIX of this chapter, to individuals who are not eligible therefor, or in amounts or under circumstances in which the State does not make such payments or provide such medical assistance, the Secretary shall reimburse such State for the non-Federal share of such payments or assistance from amounts appropriated to carry out subchapter XVI of this chapter.”
 
-    Subsec. (b)(2). [Pub. L. 103–296, § 108(b)(7)(A)][/us/pl/103/296/s108/b/7/A], (D), substituted “the Commissioner” for “the Secretary” wherever appearing and “the Commissioner shall” for “he shall” in subpar. (B).
+    Subsec. (b)(2). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(7)(A), (D), substituted “the Commissioner” for “the Secretary” wherever appearing and “the Commissioner shall” for “he shall” in subpar. (B).
 
-    Subsec. (b)(3). [Pub. L. 103–296, § 108(b)(7)(E)][/us/pl/103/296/s108/b/7/E], struck out par. (3) which read as follows: “All reports of the Secretary with respect to projects carried out under this subsection shall be incorporated into the Secretary’s annual report to the Congress required by [section 904 of this title][/us/usc/t42/s904].”
+    Subsec. (b)(3). [Pub. L. 103–296][/us/pl/103/296], § 108(b)(7)(E), struck out par. (3) which read as follows: “All reports of the Secretary with respect to projects carried out under this subsection shall be incorporated into the Secretary’s annual report to the Congress required by [section 904 of this title][/us/usc/t42/s904].”
 
     1986—Subsec. (b)(3). [Pub. L. 99–272][/us/pl/99/272] added par. (3).
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–170, title IV, § 404(b)][/us/pl/106/170/s404/b], Dec. 17, 1999, [113 Stat. 1910][/us/stat/113/1910], provided that: 
+[Pub. L. 106–170, title IV][/us/pl/106/170/tIV], § 404(b), Dec. 17, 1999, [113 Stat. 1910][/us/stat/113/1910], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Social Security Independence and Program Improvements Act of 1994 ([Public Law 103–296][/us/pl/103/296]; [108 Stat. 1464][/us/stat/108/1464]).”
 
@@ -91,23 +91,23 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. B, title III, § 2331(c)][/us/pl/98/369/s2331/c], July 18, 1984, [98 Stat. 1088][/us/stat/98/1088], provided that: 
+[Pub. L. 98–369, div. B, title III][/us/pl/98/369/dB/tIII], § 2331(c), July 18, 1984, [98 Stat. 1088][/us/stat/98/1088], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1395b–1 of this title][/us/usc/t42/s1395b–1]\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
  __Vocational Rehabilitation Demonstration Projects__ 
 
-    [Pub. L. 101–508, title V, § 5120(a)][/us/pl/101/508/s5120/a]–(e), Nov. 5, 1990, [104 Stat. 1388–280][/us/stat/104/1388-280], directed Secretary of Health and Human Services to develop and carry out under this section demonstration projects in each of not fewer than three States, with such demonstration projects to be designed to assess the advantages and disadvantages of permitting disabled beneficiaries to select from among both public and private qualified vocational rehabilitation providers, providers of vocational rehabilitation services directed at enabling such beneficiaries to engage in substantial gainful activities, with each such demonstration project to commence as soon as practicable after Nov. 5, 1990, and to remain in operation until the end of fiscal year 1993, and with a final written report to be submitted to Congress not later than Apr. 1, 1994.
+    [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5120(a)–(e), Nov. 5, 1990, [104 Stat. 1388–280][/us/stat/104/1388-280], directed Secretary of Health and Human Services to develop and carry out under this section demonstration projects in each of not fewer than three States, with such demonstration projects to be designed to assess the advantages and disadvantages of permitting disabled beneficiaries to select from among both public and private qualified vocational rehabilitation providers, providers of vocational rehabilitation services directed at enabling such beneficiaries to engage in substantial gainful activities, with each such demonstration project to commence as soon as practicable after Nov. 5, 1990, and to remain in operation until the end of fiscal year 1993, and with a final written report to be submitted to Congress not later than Apr. 1, 1994.
 
  __Final Report Covering All Experiments and Demonstration Projects__ 
 
-    [Pub. L. 96–265, title V, § 505(c)][/us/pl/96/265/s505/c], June 9, 1980, [94 Stat. 475][/us/stat/94/475], as amended by [Pub. L. 99–272, title XII, § 12101(c)][/us/pl/99/272/s12101/c], Apr. 7, 1986, [100 Stat. 283][/us/stat/100/283]; [Pub. L. 101–239, title X, § 10103(a)(3)][/us/pl/101/239/s10103/a/3], Dec. 19, 1989, [103 Stat. 2472][/us/stat/103/2472]; [Pub. L. 101–508, title V, § 5120(f)][/us/pl/101/508/s5120/f], Nov. 5, 1990, [104 Stat. 1388–282][/us/stat/104/1388-282]; [Pub. L. 103–296, title I, § 108(m)(3)][/us/pl/103/296/s108/m/3], title III, § 315(a)(3), Aug. 15, 1994, [108 Stat. 1489][/us/stat/108/1489], 1531, which directed Commissioner to submit to Congress final report with respect to all experiments and demonstration projects carried out under [section 505 of Pub. L. 96–265][/us/pl/96/265/s505], which amended this section and [section 401 of this title][/us/usc/t42/s401] and enacted provisions formerly set out below (other than demonstration projects conducted under section 5120 of the Omnibus Budget Reconciliation of 1990, [Pub. L. 101–508][/us/pl/101/508], set out above) no later than Oct. 1, 1996, was repealed by [Pub. L. 106–170, title III, § 301(b)(1)(A)][/us/pl/106/170/s301/b/1/A], Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902].
+    [Pub. L. 96–265, title V][/us/pl/96/265/tV], § 505(c), June 9, 1980, [94 Stat. 475][/us/stat/94/475], as amended by [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12101(c), Apr. 7, 1986, [100 Stat. 283][/us/stat/100/283]; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10103(a)(3), Dec. 19, 1989, [103 Stat. 2472][/us/stat/103/2472]; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5120(f), Nov. 5, 1990, [104 Stat. 1388–282][/us/stat/104/1388-282]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(m)(3), title III, § 315(a)(3), Aug. 15, 1994, [108 Stat. 1489][/us/stat/108/1489], 1531, which directed Commissioner to submit to Congress final report with respect to all experiments and demonstration projects carried out under [section 505 of Pub. L. 96–265][/us/pl/96/265/s505], which amended this section and [section 401 of this title][/us/usc/t42/s401] and enacted provisions formerly set out below (other than demonstration projects conducted under section 5120 of the Omnibus Budget Reconciliation of 1990, [Pub. L. 101–508][/us/pl/101/508], set out above) no later than Oct. 1, 1996, was repealed by [Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 301(b)(1)(A), Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902].
 
  __Authority for Demonstration Projects; Report to Congress__ 
 
-    [Pub. L. 96–265, title V, § 505(a)(1)][/us/pl/96/265/s505/a/1]–(4), June 9, 1980, [94 Stat. 473][/us/stat/94/473], as amended by [Pub. L. 99–272, title XII, § 12101(a)][/us/pl/99/272/s12101/a], (b), Apr. 7, 1986, [100 Stat. 282][/us/stat/100/282]; [Pub. L. 101–239, title X, § 10103(a)(1)][/us/pl/101/239/s10103/a/1], (2), Dec. 19, 1989, [103 Stat. 2472][/us/stat/103/2472]; [Pub. L. 103–296, title I, § 108(m)][/us/pl/103/296/s108/m], title III, § 315(a)(1), (2), Aug. 15, 1994, [108 Stat. 1489][/us/stat/108/1489], 1531, which authorized Commissioner of Social Security to carry out demonstration projects to determine advantages and disadvantages of alternative methods of treating work activity of disabled beneficiaries under the old age, survivors, and disability insurance program and altering limitations and conditions applicable to such disabled beneficiaries, and required report to Congress on or before June 9, 1986, and in each succeeding year through 1995, was repealed by [Pub. L. 106–170, title III, § 301(b)(1)(A)][/us/pl/106/170/s301/b/1/A], Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902].
+    [Pub. L. 96–265, title V][/us/pl/96/265/tV], § 505(a)(1)–(4), June 9, 1980, [94 Stat. 473][/us/stat/94/473], as amended by [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12101(a), (b), Apr. 7, 1986, [100 Stat. 282][/us/stat/100/282]; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10103(a)(1), (2), Dec. 19, 1989, [103 Stat. 2472][/us/stat/103/2472]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(m), title III, § 315(a)(1), (2), Aug. 15, 1994, [108 Stat. 1489][/us/stat/108/1489], 1531, which authorized Commissioner of Social Security to carry out demonstration projects to determine advantages and disadvantages of alternative methods of treating work activity of disabled beneficiaries under the old age, survivors, and disability insurance program and altering limitations and conditions applicable to such disabled beneficiaries, and required report to Congress on or before June 9, 1986, and in each succeeding year through 1995, was repealed by [Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 301(b)(1)(A), Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902].
 
-[Pub. L. 106–170, title III, § 301(b)(2)][/us/pl/106/170/s301/b/2], Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902], provided that: 
+[Pub. L. 106–170, title III][/us/pl/106/170/tIII], § 301(b)(2), Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902], provided that: 
 
 > “With respect to any experiment or demonstration project being conducted under section 505(a) of the Social Security Disability Amendments of 1980 \[[Pub. L. 96–265][/us/pl/96/265], formerly set out above\] ([42 U.S.C. 1310][/us/usc/t42/s1310] note) as of the date of the enactment of this Act \[Dec. 17, 1999\], the authority to conduct such experiment or demonstration project (including the terms and conditions applicable to the experiment or demonstration project) shall be treated as if that authority (and such terms and conditions) had been established under section 234 of the Social Security Act \[[42 U.S.C. 434][/us/usc/t42/s434]\], as added by subsection (a).”
 
@@ -122,36 +122,36 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F850
-[/us/pl/90/248/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs246
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F918
-[/us/pl/96/265/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs505%2Fb
+[/us/pl/96/265/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtV
 [/us/stat/94/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F474
-[/us/pl/98/369/s2331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2331%2Fa
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1088
-[/us/pl/99/272/s12101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12101%2Fd
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F283
-[/us/pl/103/296/s108/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F7
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1482
-[/us/pl/105/33/s5524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5524
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F623
-[/us/pl/106/170/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs404%2Fa
+[/us/pl/106/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIV
 [/us/stat/113/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1910
-[/us/pl/108/203/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs107%2Fa
+[/us/pl/108/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtI
 [/us/stat/118/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F506
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/103/296/s108/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F7%2FB
-[/us/pl/103/296/s108/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F7%2FA
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s1382e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e
-[/us/pl/103/296/s108/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F7%2FA
-[/us/pl/103/296/s108/b/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fb%2F7%2FE
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/usc/t42/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
-[/us/pl/106/170/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs404%2Fb
+[/us/pl/106/170/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIV
 [/us/stat/113/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1910
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/stat/108/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1464
@@ -165,37 +165,37 @@
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/272/s12115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12115
 [/us/usc/t42/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs415
-[/us/pl/98/369/s2331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2331%2Fc
+[/us/pl/98/369/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIII
 [/us/stat/98/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1088
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
-[/us/pl/101/508/s5120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5120%2Fa
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-280
-[/us/pl/96/265/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs505%2Fc
+[/us/pl/96/265/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtV
 [/us/stat/94/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F475
-[/us/pl/99/272/s12101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12101%2Fc
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F283
-[/us/pl/101/239/s10103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10103%2Fa%2F3
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2472
-[/us/pl/101/508/s5120/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5120%2Ff
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-282
-[/us/pl/103/296/s108/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fm%2F3
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1489
 [/us/pl/96/265/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs505
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/106/170/s301/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs301%2Fb%2F1%2FA
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
 [/us/stat/113/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1902
-[/us/pl/96/265/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs505%2Fa%2F1
+[/us/pl/96/265/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtV
 [/us/stat/94/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F473
-[/us/pl/99/272/s12101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12101%2Fa
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F282
-[/us/pl/101/239/s10103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10103%2Fa%2F1
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2472
-[/us/pl/103/296/s108/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fm
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1489
-[/us/pl/106/170/s301/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs301%2Fb%2F1%2FA
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
 [/us/stat/113/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1902
-[/us/pl/106/170/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs301%2Fb%2F2
+[/us/pl/106/170/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtIII
 [/us/stat/113/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1902
 [/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
 [/us/usc/t42/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1310

@@ -23,7 +23,7 @@
 
         The Directors referred to in subsection (a) of this section shall jointly coordinate the programs referred to in such subsection and consult with the Arthritis and Musculoskeletal Diseases Interagency Coordinating Committee.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 442A, as added [Pub. L. 106–310, div. A, title III, § 301(a)][/us/pl/106/310/s301/a], Oct. 17, 2000, [114 Stat. 1111][/us/stat/114/1111]; amended [Pub. L. 109–482, title I, § 103(b)(23)][/us/pl/109/482/s103/b/23], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 442A, as added [Pub. L. 106–310, div. A, title III][/us/pl/106/310/dA/tIII], § 301(a), Oct. 17, 2000, [114 Stat. 1111][/us/stat/114/1111]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(23), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs301%2Fa
+[/us/pl/106/310/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtIII
 [/us/stat/114/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1111
-[/us/pl/109/482/s103/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F23
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

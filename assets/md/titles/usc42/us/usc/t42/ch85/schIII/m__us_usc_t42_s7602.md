@@ -105,7 +105,7 @@
 
     The term “stationary source” means generally any source of an air pollutant except those emissions resulting directly from an internal combustion engine for transportation purposes or from a nonroad engine or nonroad vehicle as defined in [section 7550 of this title][/us/usc/t42/s7550].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 302, formerly § 9, as added [Pub. L. 88–206, § 1][/us/pl/88/206/s1], Dec. 17, 1963, [77 Stat. 400][/us/stat/77/400], renumbered [Pub. L. 89–272, title I, § 101(4)][/us/pl/89/272/s101/4], Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 504][/us/stat/81/504]; [Pub. L. 91–604, § 15(a)(1)][/us/pl/91/604/s15/a/1], (c)(1), Dec. 31, 1970, [84 Stat. 1710][/us/stat/84/1710], 1713; [Pub. L. 95–95, title II, § 218(c)][/us/pl/95/95/s218/c], title III, § 301, Aug. 7, 1977, [91 Stat. 761][/us/stat/91/761], 769; [Pub. L. 95–190, § 14(a)(76)][/us/pl/95/190/s14/a/76], Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; [Pub. L. 101–549, title I][/us/pl/101/549], §§ 101(d)(4), 107(a), (b), 108(j), 109(b), title III, § 302(e), title VII, § 709, Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409], 2464, 2468, 2470, 2574, 2684.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 302, formerly § 9, as added [Pub. L. 88–206][/us/pl/88/206], § 1, Dec. 17, 1963, [77 Stat. 400][/us/stat/77/400], renumbered [Pub. L. 89–272, title I][/us/pl/89/272/tI], § 101(4), Oct. 20, 1965, [79 Stat. 992][/us/stat/79/992]; amended [Pub. L. 90–148][/us/pl/90/148], § 2, Nov. 21, 1967, [81 Stat. 504][/us/stat/81/504]; [Pub. L. 91–604][/us/pl/91/604], § 15(a)(1), (c)(1), Dec. 31, 1970, [84 Stat. 1710][/us/stat/84/1710], 1713; [Pub. L. 95–95, title II][/us/pl/95/95/tII], § 218(c), title III, § 301, Aug. 7, 1977, [91 Stat. 761][/us/stat/91/761], 769; [Pub. L. 95–190][/us/pl/95/190], § 14(a)(76), Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], §§ 101(d)(4), 107(a), (b), 108(j), 109(b), title III, § 302(e), title VII, § 709, Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409], 2464, 2468, 2470, 2574, 2684.)
 
  __Codification__ 
 
@@ -113,41 +113,41 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsecs. (b) and (d) of this section were contained in a [section 1857e of this title][/us/usc/t42/s1857e], [act July 14, 1955, ch. 360, § 6][/us/act/1955-07-14/ch360/s6], [69 Stat. 323][/us/stat/69/323], prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
+    Provisions similar to those in subsecs. (b) and (d) of this section were contained in a [section 1857e of this title][/us/usc/t42/s1857e], [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], § 6, [69 Stat. 323][/us/stat/69/323], prior to the general amendment of this chapter by [Pub. L. 88–206][/us/pl/88/206].
 
  __Amendments__ 
 
-    1990—Subsec. (b)(1) to (3). [Pub. L. 101–549, § 107(a)(1)][/us/pl/101/549/s107/a/1], (2), struck out “or” at end of par. (3) and substituted periods for semicolons at end of pars. (1) to (3).
+    1990—Subsec. (b)(1) to (3). [Pub. L. 101–549][/us/pl/101/549], § 107(a)(1), (2), struck out “or” at end of par. (3) and substituted periods for semicolons at end of pars. (1) to (3).
 
-    Subsec. (b)(5). [Pub. L. 101–549, § 107(a)(3)][/us/pl/101/549/s107/a/3], added par. (5).
+    Subsec. (b)(5). [Pub. L. 101–549][/us/pl/101/549], § 107(a)(3), added par. (5).
 
-    Subsec. (g). [Pub. L. 101–549, § 108(j)(2)][/us/pl/101/549/s108/j/2], inserted at end “Such term includes any precursors to the formation of any air pollutant, to the extent the Administrator has identified such precursor or precursors for the particular purpose for which the term ‘air pollutant’ is used.”
+    Subsec. (g). [Pub. L. 101–549][/us/pl/101/549], § 108(j)(2), inserted at end “Such term includes any precursors to the formation of any air pollutant, to the extent the Administrator has identified such precursor or precursors for the particular purpose for which the term ‘air pollutant’ is used.”
 
-    Subsec. (h). [Pub. L. 101–549, § 109(b)][/us/pl/101/549/s109/b], inserted before period at end “, whether caused by transformation, conversion, or combination with other air pollutants”.
+    Subsec. (h). [Pub. L. 101–549][/us/pl/101/549], § 109(b), inserted before period at end “, whether caused by transformation, conversion, or combination with other air pollutants”.
 
-    Subsec. (k). [Pub. L. 101–549, § 303(e)][/us/pl/101/549/s303/e], inserted before period at end “, and any design, equipment, work practice or operational standard promulgated under this chapter.”
+    Subsec. (k). [Pub. L. 101–549][/us/pl/101/549], § 303(e), inserted before period at end “, and any design, equipment, work practice or operational standard promulgated under this chapter.”
 
-    Subsec. (q). [Pub. L. 101–549, § 101(d)(4)][/us/pl/101/549/s101/d/4], added subsec. (q).
+    Subsec. (q). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(4), added subsec. (q).
 
-    Subsec. (r). [Pub. L. 101–549, § 107(b)][/us/pl/101/549/s107/b], added subsec. (r).
+    Subsec. (r). [Pub. L. 101–549][/us/pl/101/549], § 107(b), added subsec. (r).
 
-    Subsecs. (s) to (y). [Pub. L. 101–549, § 108(j)(1)][/us/pl/101/549/s108/j/1], added subsecs. (s) to (y).
+    Subsecs. (s) to (y). [Pub. L. 101–549][/us/pl/101/549], § 108(j)(1), added subsecs. (s) to (y).
 
-    Subsec. (z). [Pub. L. 101–549, § 709][/us/pl/101/549/s709], added subsec. (z).
+    Subsec. (z). [Pub. L. 101–549][/us/pl/101/549], § 709, added subsec. (z).
 
-    1977—Subsec. (d). [Pub. L. 95–95, § 218(c)][/us/pl/95/95/s218/c], inserted “and includes the Commonwealth of the Northern Mariana Islands” after “American Samoa”.
+    1977—Subsec. (d). [Pub. L. 95–95][/us/pl/95/95], § 218(c), inserted “and includes the Commonwealth of the Northern Mariana Islands” after “American Samoa”.
 
     Subsec. (e). [Pub. L. 95–190][/us/pl/95/190] substituted “individual, corporation” for “individual corporation”.
 
-    [Pub. L. 95–95, § 301(b)][/us/pl/95/95/s301/b], expanded definition of “person” to include agencies, departments, and instrumentalities of the United States and officers, agents, and employees thereof.
+    [Pub. L. 95–95][/us/pl/95/95], § 301(b), expanded definition of “person” to include agencies, departments, and instrumentalities of the United States and officers, agents, and employees thereof.
 
-    Subsec. (g). [Pub. L. 95–95, § 301(c)][/us/pl/95/95/s301/c], expanded definition of “air pollutant” so as, expressly, to include physical, chemical, biological, and radioactive substances or matter emitted into or otherwise entering the ambient air.
+    Subsec. (g). [Pub. L. 95–95][/us/pl/95/95], § 301(c), expanded definition of “air pollutant” so as, expressly, to include physical, chemical, biological, and radioactive substances or matter emitted into or otherwise entering the ambient air.
 
-    Subsecs. (i) to (p). [Pub. L. 95–95, § 301(a)][/us/pl/95/95/s301/a], added subsecs. (i) to (p).
+    Subsecs. (i) to (p). [Pub. L. 95–95][/us/pl/95/95], § 301(a), added subsecs. (i) to (p).
 
-    1970—Subsec. (a). [Pub. L. 91–604, § 15(c)(1)][/us/pl/91/604/s15/c/1], substituted definition of “Administrator” as meaning Administrator of the Environmental Protection Agency for definition of “Secretary” as meaning Secretary of Health, Education, and Welfare.
+    1970—Subsec. (a). [Pub. L. 91–604][/us/pl/91/604], § 15(c)(1), substituted definition of “Administrator” as meaning Administrator of the Environmental Protection Agency for definition of “Secretary” as meaning Secretary of Health, Education, and Welfare.
 
-    Subsecs. (g), (h). [Pub. L. 91–604, § 15(a)(1)][/us/pl/91/604/s15/a/1], added subsec. (g) defining “air pollutant”, redesignated former subsec. (g) as (h) and substituted references to effects on soil, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate for references to injury to agricultural crops and livestock, and inserted references to effects on economic values and on personal comfort and well being.
+    Subsecs. (g), (h). [Pub. L. 91–604][/us/pl/91/604], § 15(a)(1), added subsec. (g) defining “air pollutant”, redesignated former subsec. (g) as (h) and substituted references to effects on soil, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate for references to injury to agricultural crops and livestock, and inserted references to effects on economic values and on personal comfort and well being.
 
     1967—[Pub. L. 90–148][/us/pl/90/148] reenacted section without change.
 
@@ -168,41 +168,41 @@
 [/us/usc/t42/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7408
 [/us/usc/t42/s7550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7550
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/88/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206%2Fs1
+[/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
 [/us/stat/77/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F400
-[/us/pl/89/272/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs101%2F4
+[/us/pl/89/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtI
 [/us/stat/79/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F992
-[/us/pl/90/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148%2Fs2
+[/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/stat/81/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F504
-[/us/pl/91/604/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fa%2F1
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1710
-[/us/pl/95/95/s218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs218%2Fc
+[/us/pl/95/95/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtII
 [/us/stat/91/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F761
-[/us/pl/95/190/s14/a/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F76
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1404
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
 [/us/usc/t42/s1857h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857h
 [/us/usc/t42/s1857e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857e
-[/us/act/1955-07-14/ch360/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2Fs6
+[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F323
 [/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206
-[/us/pl/101/549/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs107%2Fa%2F1
-[/us/pl/101/549/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs107%2Fa%2F3
-[/us/pl/101/549/s108/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fj%2F2
-[/us/pl/101/549/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs109%2Fb
-[/us/pl/101/549/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs303%2Fe
-[/us/pl/101/549/s101/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F4
-[/us/pl/101/549/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs107%2Fb
-[/us/pl/101/549/s108/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fj%2F1
-[/us/pl/101/549/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs709
-[/us/pl/95/95/s218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs218%2Fc
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
-[/us/pl/95/95/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs301%2Fb
-[/us/pl/95/95/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs301%2Fc
-[/us/pl/95/95/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs301%2Fa
-[/us/pl/91/604/s15/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fc%2F1
-[/us/pl/91/604/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs15%2Fa%2F1
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/pl/90/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F148
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd

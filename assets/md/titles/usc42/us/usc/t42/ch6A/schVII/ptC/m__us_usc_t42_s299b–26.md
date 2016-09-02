@@ -17,7 +17,7 @@
 
     If any provision of this part is held to be unconstitutional, the remainder of this part shall not be affected.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 927, formerly § 926, as added [Pub. L. 109–41, § 2(a)(5)][/us/pl/109/41/s2/a/5], July 29, 2005, [119 Stat. 434][/us/stat/119/434]; renumbered § 927, [Pub. L. 111–148, title III, § 3509(e)(1)][/us/pl/111/148/s3509/e/1], Mar. 23, 2010, [124 Stat. 534][/us/stat/124/534].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 927, formerly § 926, as added [Pub. L. 109–41][/us/pl/109/41], § 2(a)(5), July 29, 2005, [119 Stat. 434][/us/stat/119/434]; renumbered § 927, [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3509(e)(1), Mar. 23, 2010, [124 Stat. 534][/us/stat/124/534].)
 
  __Prior Provisions__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/41/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F5
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F434
-[/us/pl/111/148/s3509/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3509%2Fe%2F1
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F534
 [/us/usc/t42/s299c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%936
 [/us/usc/t42/s299c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%936

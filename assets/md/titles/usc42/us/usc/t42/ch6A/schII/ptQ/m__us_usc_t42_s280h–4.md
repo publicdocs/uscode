@@ -43,7 +43,7 @@
 
         In this section, the terms “school-based health center” and “sponsoring facility” have the meanings given those terms in section 2110(c)(9) of the Social Security Act ([42 U.S.C. 1397jj(c)(9)][/us/usc/t42/s1397jj/c/9]).
 
-([Pub. L. 111–148, title IV, § 4101(a)][/us/pl/111/148/s4101/a], Mar. 23, 2010, [124 Stat. 546][/us/stat/124/546].)
+([Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4101(a), Mar. 23, 2010, [124 Stat. 546][/us/stat/124/546].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/usc/t42/s1397jj/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397jj%2Fc%2F9
-[/us/pl/111/148/s4101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4101%2Fa
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F546
 [/us/pl/111/148/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4101
 [/us/usc/t42/s280h–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280h%E2%80%935

@@ -19,7 +19,7 @@
 
     (b) The Congress declares it is the policy of the United States to encourage men and women, equally, of all ethnic, racial, and economic backgrounds, including persons with disabilities, to acquire skills in science, engineering, and mathematics, to have equal opportunity in education, training, and employment in scientific and engineering fields, and thereby to promote scientific and engineering literacy and the full use of the human resources of the Nation in science and engineering. To this end, the Congress declares that the highest quality science and engineering over the long-term requires substantial support, from currently available research and educational funds, for increased participation in science and engineering by women, minorities, and persons with disabilities. The Congress further declares that the impact on women, minorities, and persons with disabilities which is produced by advances in science and engineering must be included as essential factors in national and international science, engineering, and economic policies.
 
-([Pub. L. 96–516, § 32][/us/pl/96/516/s32], Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010]; [Pub. L. 99–159, title I, § 111(b)(2)][/us/pl/99/159/s111/b/2]–(5), Nov. 22, 1985, [99 Stat. 892][/us/stat/99/892]; [Pub. L. 107–368, § 16][/us/pl/107/368/s16], Dec. 19, 2002, [116 Stat. 3059][/us/stat/116/3059].)
+([Pub. L. 96–516][/us/pl/96/516], § 32, Dec. 12, 1980, [94 Stat. 3010][/us/stat/94/3010]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 111(b)(2)–(5), Nov. 22, 1985, [99 Stat. 892][/us/stat/99/892]; [Pub. L. 107–368][/us/pl/107/368], § 16, Dec. 19, 2002, [116 Stat. 3059][/us/stat/116/3059].)
 
  __Codification__ 
 
@@ -27,13 +27,13 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–368, § 16(1)][/us/pl/107/368/s16/1], substituted “backgrounds, including persons with disabilities” for “backgrounds”.
+    2002—Subsec. (a). [Pub. L. 107–368][/us/pl/107/368], § 16(1), substituted “backgrounds, including persons with disabilities” for “backgrounds”.
 
-    Subsec. (b). [Pub. L. 107–368, § 16(2)][/us/pl/107/368/s16/2], inserted “, including persons with disabilities,” after “backgrounds” and substituted “, minorities, and persons with disabilities” for “and minorities” in two places.
+    Subsec. (b). [Pub. L. 107–368][/us/pl/107/368], § 16(2), inserted “, including persons with disabilities,” after “backgrounds” and substituted “, minorities, and persons with disabilities” for “and minorities” in two places.
 
-    1985—Subsec. (a). [Pub. L. 99–159, § 111(b)(2)][/us/pl/99/159/s111/b/2], substituted “engineering” for “technology” and “scientific and engineering talents and skills” for “scientific talent and technical skills”.
+    1985—Subsec. (a). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(2), substituted “engineering” for “technology” and “scientific and engineering talents and skills” for “scientific talent and technical skills”.
 
-    Subsec. (b). [Pub. L. 99–159, § 111(b)(3)][/us/pl/99/159/s111/b/3]–(5), inserted “, engineering,” after “skills in science”, substituted “engineering” for “technical”, “scientific and engineering literacy” for “scientific literacy”, and “engineering” for “technology” wherever appearing, and inserted “and engineering” after “highest quality science”.
+    Subsec. (b). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(3)–(5), inserted “, engineering,” after “skills in science”, substituted “engineering” for “technical”, “scientific and engineering literacy” for “scientific literacy”, and “engineering” for “technology” wherever appearing, and inserted “and engineering” after “highest quality science”.
 
  __Short Title__ 
 
@@ -41,13 +41,13 @@
 
  __Severability of Science and Engineering Equal Opportunities Act__ 
 
-[Pub. L. 96–516, § 38][/us/pl/96/516/s38], Dec. 12, 1980, [94 Stat. 3014][/us/stat/94/3014], provided that: 
+[Pub. L. 96–516][/us/pl/96/516], § 38, Dec. 12, 1980, [94 Stat. 3014][/us/stat/94/3014], provided that: 
 
 > “If a provision of this Act \[enacting sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title\] is held invalid, the validity of the other provisions of the Act shall not be affected. If an application of a provision of this Act to a person or circumstance is held invalid, the validity of the application of the provisions to another person or circumstance shall not be affected.”
 
  __Reports to Congress Concerning National Policy Development of Promotion, Etc., of Equal Opportunity for Women and Minorities in Science and Technology, and Impacts of Science and Technology on Women and Minorities__ 
 
-    [Pub. L. 96–516, § 35][/us/pl/96/516/s35], Dec. 12, 1980, [94 Stat. 3012][/us/stat/94/3012], directed President, with assistance of Director of Office of Science and Technology Policy and Director of Foundation, to prepare and transmit before Jan. 20, 1982, a report to Congress proposing a comprehensive national policy and program, including budgetary and legislative recommendations, for promotion of equal opportunity for women and minorities in science and technology, and directed President, with assistance of Director of Office of Science and Technology Policy, heads of appropriate executive departments, and Director of the Foundation to prepare and transmit before Jan. 1, 1983, a report to Congress proposing a comprehensive policy, including budgetary and legislative recommendations, concerning direct and indirect impacts of science and technology on women and minorities.
+    [Pub. L. 96–516][/us/pl/96/516], § 35, Dec. 12, 1980, [94 Stat. 3012][/us/stat/94/3012], directed President, with assistance of Director of Office of Science and Technology Policy and Director of Foundation, to prepare and transmit before Jan. 20, 1982, a report to Congress proposing a comprehensive national policy and program, including budgetary and legislative recommendations, for promotion of equal opportunity for women and minorities in science and technology, and directed President, with assistance of Director of Office of Science and Technology Policy, heads of appropriate executive departments, and Director of the Foundation to prepare and transmit before Jan. 1, 1983, a report to Congress proposing a comprehensive policy, including budgetary and legislative recommendations, concerning direct and indirect impacts of science and technology on women and minorities.
 
 ----------
 
@@ -56,22 +56,22 @@
 ----------
 ----------
 
-[/us/pl/96/516/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs32
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010
-[/us/pl/99/159/s111/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F2
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F892
-[/us/pl/107/368/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs16
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3059
-[/us/pl/107/368/s16/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs16%2F1
-[/us/pl/107/368/s16/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs16%2F2
-[/us/pl/99/159/s111/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F2
-[/us/pl/99/159/s111/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F3
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 [/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/pl/96/516/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs31
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
-[/us/pl/96/516/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs38
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3014
-[/us/pl/96/516/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs35
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3012
 
 

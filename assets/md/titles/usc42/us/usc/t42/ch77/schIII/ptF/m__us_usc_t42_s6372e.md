@@ -31,7 +31,7 @@
 
         The Secretary shall prescribe rules limiting the amount of funds allocated to a State which may be expended for administrative expenses by such State.
 
-([Pub. L. 94–163, title III, § 400F][/us/pl/94/163/s400F], as added [Pub. L. 95–619, title III, § 311(a)][/us/pl/95/619/s311/a], Nov. 9, 1978, [92 Stat. 3252][/us/stat/92/3252].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400F, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 311(a), Nov. 9, 1978, [92 Stat. 3252][/us/stat/92/3252].)
 
 ----------
 
@@ -42,8 +42,8 @@
 
 [/us/usc/t42/s6372d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6372d
 [/us/usc/t42/s6372g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6372g
-[/us/pl/94/163/s400F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400F
-[/us/pl/95/619/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs311%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3252
 
 

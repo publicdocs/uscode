@@ -33,7 +33,7 @@
 
         (5) evaluate the effectiveness of the project in accomplishing the purposes described in [section 13881 of this title][/us/usc/t42/s13881].
 
-([Pub. L. 103–322, title III, § 31913][/us/pl/103/322/s31913], Sept. 13, 1994, [108 Stat. 1895][/us/stat/108/1895].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31913, Sept. 13, 1994, [108 Stat. 1895][/us/stat/108/1895].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t42/s13881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13881
-[/us/pl/103/322/s31913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31913
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1895
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

@@ -17,7 +17,7 @@
 
     To protect the military and naval forces and war workers of the United States, in time of war, against any communicable disease specified in Executive orders as provided in subsection (b) of [section 264 of this title][/us/usc/t42/s264], the Secretary, in consultation with the Surgeon General, is authorized to provide by regulations for the apprehension and examination, in time of war, of any individual reasonably believed (1) to be infected with such disease and (2) to be a probable source of infection to members of the armed forces of the United States or to individuals engaged in the production or transportation of arms, munitions, ships, food, clothing, or other supplies for the armed forces. Such regulations may provide that if upon examination any such individual is found to be so infected, he may be detained for such time and in such manner as may be reasonably necessary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 363, [58 Stat. 704][/us/stat/58/704]; [Pub. L. 107–188, title I, § 142(a)(3)][/us/pl/107/188/s142/a/3], (b)(2), June 12, 2002, [116 Stat. 626][/us/stat/116/626], 627.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 363, [58 Stat. 704][/us/stat/58/704]; [Pub. L. 107–188, title I][/us/pl/107/188/tI], § 142(a)(3), (b)(2), June 12, 2002, [116 Stat. 626][/us/stat/116/626], 627.)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Termination of War and Emergencies__ 
 
-    Joint Res. [July 25, 1947, ch. 327, § 3][/us/act/1947-07-25/ch327/s3], [61 Stat. 451][/us/stat/61/451], provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+    Joint Res. [July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 3, [61 Stat. 451][/us/stat/61/451], provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
 ----------
 
@@ -41,14 +41,14 @@
 [/us/usc/t42/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs264
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F704
-[/us/pl/107/188/s142/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs142%2Fa%2F3
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F626
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t42/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs202
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/act/1947-07-25/ch327/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs3
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
 
 

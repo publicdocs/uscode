@@ -33,7 +33,7 @@
 
         The Secretary shall also maintain continuing liaison with related industries and interests, and with the scientific and technical community, during and after the period of the programs carried out under this subchapter, in order to assure that the projected benefits of such programs are and will continue to be realized.
 
-([Pub. L. 95–590, § 8][/us/pl/95/590/s8], Nov. 4, 1978, [92 Stat. 2518][/us/stat/92/2518].)
+([Pub. L. 95–590][/us/pl/95/590], § 8, Nov. 4, 1978, [92 Stat. 2518][/us/stat/92/2518].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t42/s5586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5586
-[/us/pl/95/590/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs8
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2518
 
 

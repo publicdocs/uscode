@@ -49,7 +49,7 @@
 
         A State that receives funds under [section 5106a(a) of this title][/us/usc/t42/s5106a/a] shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III of this chapter, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of [section 5106a of this title][/us/usc/t42/s5106a].
 
-([Pub. L. 93–247, title I, § 108][/us/pl/93/247/s108], formerly § 11, as added [Pub. L. 100–294, title I, § 101][/us/pl/100/294/s101], Apr. 25, 1988, [102 Stat. 115][/us/stat/102/115]; renumbered title I, § 110, [Pub. L. 101–126, § 3(a)(1)][/us/pl/101/126/s3/a/1], (2), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764]; renumbered § 108 and amended [Pub. L. 104–235, title I][/us/pl/104/235], §§ 109, 113(a)(1)(B), Oct. 3, 1996, [110 Stat. 3078][/us/stat/110/3078], 3079; [Pub. L. 108–36, title I, § 116][/us/pl/108/36/s116], June 25, 2003, [117 Stat. 812][/us/stat/117/812]; [Pub. L. 111–320, title I, § 117][/us/pl/111/320/s117], Dec. 20, 2010, [124 Stat. 3475][/us/stat/124/3475].)
+([Pub. L. 93–247, title I][/us/pl/93/247/tI], § 108, formerly § 11, as added [Pub. L. 100–294, title I][/us/pl/100/294/tI], § 101, Apr. 25, 1988, [102 Stat. 115][/us/stat/102/115]; renumbered title I, § 110, [Pub. L. 101–126][/us/pl/101/126], § 3(a)(1), (2), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764]; renumbered § 108 and amended [Pub. L. 104–235, title I][/us/pl/104/235/tI], §§ 109, 113(a)(1)(B), Oct. 3, 1996, [110 Stat. 3078][/us/stat/110/3078], 3079; [Pub. L. 108–36, title I][/us/pl/108/36/tI], § 116, June 25, 2003, [117 Stat. 812][/us/stat/117/812]; [Pub. L. 111–320, title I][/us/pl/111/320/tI], § 117, Dec. 20, 2010, [124 Stat. 3475][/us/stat/124/3475].)
 
  __Prior Provisions__ 
 
@@ -72,16 +72,16 @@
 
 [/us/usc/t42/s5106a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Fa
 [/us/usc/t42/s5106a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a
-[/us/pl/93/247/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs108
-[/us/pl/100/294/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs101
+[/us/pl/93/247/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2FtI
+[/us/pl/100/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtI
 [/us/stat/102/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F115
-[/us/pl/101/126/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126%2Fs3%2Fa%2F1
+[/us/pl/101/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126
 [/us/stat/103/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F764
-[/us/pl/104/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235
+[/us/pl/104/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtI
 [/us/stat/110/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3078
-[/us/pl/108/36/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs116
+[/us/pl/108/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtI
 [/us/stat/117/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F812
-[/us/pl/111/320/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs117
+[/us/pl/111/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtI
 [/us/stat/124/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3475
 [/us/pl/93/247/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs108
 [/us/usc/t42/s5106b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106b

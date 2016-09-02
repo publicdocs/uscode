@@ -89,7 +89,7 @@
 
             For purposes of this subsection, the term “mobile home” has the meaning given such term in the law of the State in which the mobile home is located.
 
-([Pub. L. 90–448, title XIII, § 1315][/us/pl/90/448/s1315], Aug. 1, 1968, [82 Stat. 580][/us/stat/82/580]; [Pub. L. 91–152, title IV, § 410(b)][/us/pl/91/152/s410/b], Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325], §§ 541, 580, Sept. 23, 1994, [108 Stat. 2268][/us/stat/108/2268], 2285; [Pub. L. 108–264, title I, § 108][/us/pl/108/264/s108], June 30, 2004, [118 Stat. 724][/us/stat/118/724]; [Pub. L. 112–141, div. F, title II, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1315, Aug. 1, 1968, [82 Stat. 580][/us/stat/82/580]; [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 410(b), Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], §§ 541, 580, Sept. 23, 1994, [108 Stat. 2268][/us/stat/108/2268], 2285; [Pub. L. 108–264, title I][/us/pl/108/264/tI], § 108, June 30, 2004, [118 Stat. 724][/us/stat/118/724]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100238(b)(1), July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
 
  __References in Text__ 
 
@@ -103,11 +103,11 @@
 
     2004—Subsec. (c). [Pub. L. 108–264][/us/pl/108/264] added subsec. (c).
 
-    1994—Subsec. (a)(1). [Pub. L. 103–325, § 541(1)][/us/pl/103/325/s541/1], designated existing provisions as subsec. (a)(1) and inserted headings.
+    1994—Subsec. (a)(1). [Pub. L. 103–325][/us/pl/103/325], § 541(1), designated existing provisions as subsec. (a)(1) and inserted headings.
 
-    Subsec. (a)(2). [Pub. L. 103–325, § 580][/us/pl/103/325/s580], added par. (2).
+    Subsec. (a)(2). [Pub. L. 103–325][/us/pl/103/325], § 580, added par. (2).
 
-    Subsec. (b). [Pub. L. 103–325, § 541(2)][/us/pl/103/325/s541/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 103–325][/us/pl/103/325], § 541(2), added subsec. (b).
 
     1983—[Pub. L. 98–181][/us/pl/98/181] substituted “Director” for “Secretary”.
 
@@ -132,17 +132,17 @@
 [/us/usc/t42/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102
 [/us/usc/t42/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102
 [/us/usc/t42/s4104c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104c
-[/us/pl/90/448/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1315
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F580
-[/us/pl/91/152/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs410%2Fb
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F397
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2268
-[/us/pl/108/264/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2Fs108
+[/us/pl/108/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264%2FtI
 [/us/stat/118/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F724
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
@@ -152,9 +152,9 @@
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/108/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F264
-[/us/pl/103/325/s541/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs541%2F1
-[/us/pl/103/325/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs580
-[/us/pl/103/325/s541/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs541%2F2
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1

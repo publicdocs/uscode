@@ -149,7 +149,7 @@
 
         Unless otherwise specified, this Act shall take effect on December 16, 2014, and shall apply only to expatriate health plans issued or renewed on or after July 1, 2015.
 
-([Pub. L. 113–235, div. M, § 3][/us/pl/113/235/s3], Dec. 16, 2014, [128 Stat. 2768][/us/stat/128/2768].)
+([Pub. L. 113–235, div. M][/us/pl/113/235/dM], § 3, Dec. 16, 2014, [128 Stat. 2768][/us/stat/128/2768].)
 
  __References in Text__ 
 
@@ -186,7 +186,7 @@
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/usc/t29/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181
 [/us/usc/t42/s300gg–91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391
-[/us/pl/113/235/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs3
+[/us/pl/113/235/dM]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdM
 [/us/stat/128/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2768
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119

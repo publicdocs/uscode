@@ -29,11 +29,11 @@
 
         If an eligible entity that receives a grant under [section 5654 of this title][/us/usc/t42/s5654] to carry out a project or activity for a 2-year period, and receives technical assistance from the State or the Administrator after requesting such technical assistance (if any), fails to demonstrate, before the expiration of such 2-year period, that such project or such activity has achieved substantial success in achieving the goals specified in the application submitted by such entity to receive such grants, then such entity shall not be eligible to receive any subsequent grant under such section to continue to carry out such project or activity.
 
-([Pub. L. 93–415, title II, § 245][/us/pl/93/415/s245], as added [Pub. L. 107–273, div. C, title II, § 12210(4)][/us/pl/107/273/s12210/4], Nov. 2, 2002, [116 Stat. 1885][/us/stat/116/1885].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 245, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12210(4), Nov. 2, 2002, [116 Stat. 1885][/us/stat/116/1885].)
 
  __Prior Provisions__ 
 
-    A prior section 5655, [Pub. L. 93–415, title II, § 245][/us/pl/93/415/s245], Sept. 7, 1974, [88 Stat. 1127][/us/stat/88/1127]; [Pub. L. 95–115, § 5(c)][/us/pl/95/115/s5/c], Oct. 3, 1977, [91 Stat. 1057][/us/stat/91/1057]; [Pub. L. 96–509, § 19][/us/pl/96/509/s19](l), Dec. 8, 1980, [94 Stat. 2765][/us/stat/94/2765], provided for the functions of the Advisory Committee, prior to repeal by [Pub. L. 98–473, title II][/us/pl/98/473], §§ 634, 670(a), Oct. 12, 1984, [98 Stat. 2119][/us/stat/98/2119], 2129, effective Oct. 12, 1984.
+    A prior section 5655, [Pub. L. 93–415, title II][/us/pl/93/415/tII], § 245, Sept. 7, 1974, [88 Stat. 1127][/us/stat/88/1127]; [Pub. L. 95–115][/us/pl/95/115], § 5(c), Oct. 3, 1977, [91 Stat. 1057][/us/stat/91/1057]; [Pub. L. 96–509][/us/pl/96/509], § 19(l), Dec. 8, 1980, [94 Stat. 2765][/us/stat/94/2765], provided for the functions of the Advisory Committee, prior to repeal by [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 634, 670(a), Oct. 12, 1984, [98 Stat. 2119][/us/stat/98/2119], 2129, effective Oct. 12, 1984.
 
     A prior [section 245 of Pub. L. 93–415][/us/pl/93/415/s245] was classified to [section 5659 of this title][/us/usc/t42/s5659] prior to repeal by [Pub. L. 107–273][/us/pl/107/273].
 
@@ -49,16 +49,16 @@
 [/us/usc/t42/s5654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5654
 [/us/usc/t42/s5651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5651%2Fa
 [/us/usc/t42/s5654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5654
-[/us/pl/93/415/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs245
-[/us/pl/107/273/s12210/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12210%2F4
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1885
-[/us/pl/93/415/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs245
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
 [/us/stat/88/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1127
-[/us/pl/95/115/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs5%2Fc
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1057
-[/us/pl/96/509/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs19
+[/us/pl/96/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509
 [/us/stat/94/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2765
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2119
 [/us/pl/93/415/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs245
 [/us/usc/t42/s5659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5659

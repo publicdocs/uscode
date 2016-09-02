@@ -25,13 +25,13 @@
 
     (b) If an application is rejected on the grounds that the applicant is ineligible or that activities proposed by the applicant are ineligible for funding, the applicant may appeal to the Secretary, not later than 30 days after the date of receipt of notification of such rejection, for a review of the grounds for such rejection. On appeal, if the Secretary finds that an applicant is eligible or that its proposed activities are eligible, such eligibility shall not be effective until the next cycle of grant proposals are considered by the Administration.
 
-([Pub. L. 88–452, title VIII, § 810][/us/pl/88/452/s810], formerly § 809, as added [Pub. L. 93–644, § 11][/us/pl/93/644/s11], Jan. 4, 1975, [88 Stat. 2326][/us/stat/88/2326]; renumbered § 810, [Pub. L. 100–175, title V, § 502(3)][/us/pl/100/175/s502/3], Nov. 29, 1987, [101 Stat. 973][/us/stat/101/973]; amended [Pub. L. 102–375, title VIII, § 822(10)][/us/pl/102/375/s822/10], Sept. 30, 1992, [106 Stat. 1298][/us/stat/106/1298].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 810, formerly § 809, as added [Pub. L. 93–644][/us/pl/93/644], § 11, Jan. 4, 1975, [88 Stat. 2326][/us/stat/88/2326]; renumbered § 810, [Pub. L. 100–175, title V][/us/pl/100/175/tV], § 502(3), Nov. 29, 1987, [101 Stat. 973][/us/stat/101/973]; amended [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 822(10), Sept. 30, 1992, [106 Stat. 1298][/us/stat/106/1298].)
 
  __Prior Provisions__ 
 
     A prior [section 810 of Pub. L. 88–452][/us/pl/88/452/s810] was renumbered section 811 and is classified to [section 2992 of this title][/us/usc/t42/s2992].
 
-    Another prior [section 810 of Pub. L. 88–452][/us/pl/88/452/s810], title VIII, as added [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722], related to authority to establish full-time programs and was classified to [section 2992 of this title][/us/usc/t42/s2992], prior to repeal by [Pub. L. 93–113, title VI, § 603][/us/pl/93/113/s603], Oct. 1, 1973, [87 Stat. 417][/us/stat/87/417].
+    Another prior [section 810 of Pub. L. 88–452][/us/pl/88/452/s810], title VIII, as added [Pub. L. 90–222, title I][/us/pl/90/222/tI], § 110, Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722], related to authority to establish full-time programs and was classified to [section 2992 of this title][/us/usc/t42/s2992], prior to repeal by [Pub. L. 93–113, title VI][/us/pl/93/113/tVI], § 603, Oct. 1, 1973, [87 Stat. 417][/us/stat/87/417].
 
  __Amendments__ 
 
@@ -44,20 +44,20 @@
 ----------
 ----------
 
-[/us/pl/88/452/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs810
-[/us/pl/93/644/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs11
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2326
-[/us/pl/100/175/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs502%2F3
+[/us/pl/100/175/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtV
 [/us/stat/101/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F973
-[/us/pl/102/375/s822/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F10
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1298
 [/us/pl/88/452/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs810
 [/us/usc/t42/s2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2992
 [/us/pl/88/452/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs810
-[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/pl/90/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtI
 [/us/stat/81/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F722
 [/us/usc/t42/s2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2992
-[/us/pl/93/113/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs603
+[/us/pl/93/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtVI
 [/us/stat/87/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F417
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 

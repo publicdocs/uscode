@@ -37,7 +37,7 @@
 
         The Secretary shall, on an annual basis, submit to Congress a report concerning the activities and findings with respect to research supported under this section.
 
-([Pub. L. 111–148, title IV, § 4301][/us/pl/111/148/s4301], Mar. 23, 2010, [124 Stat. 578][/us/stat/124/578].)
+([Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4301, Mar. 23, 2010, [124 Stat. 578][/us/stat/124/578].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4301
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F578
 
 

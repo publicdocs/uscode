@@ -43,7 +43,7 @@
 
         (3) shall be redacted, obscured, or otherwise altered if used in any publicly available manner so as to prevent the disclosure of any personally identifiable information.
 
-([Pub. L. 96–247, § 3A][/us/pl/96/247/s3A], as added [Pub. L. 111–148, title X, § 10606(d)(2)][/us/pl/111/148/s10606/d/2], Mar. 23, 2010, [124 Stat. 1008][/us/stat/124/1008].)
+([Pub. L. 96–247][/us/pl/96/247], § 3A, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10606(d)(2), Mar. 23, 2010, [124 Stat. 1008][/us/stat/124/1008].)
 
 ----------
 
@@ -52,8 +52,8 @@
 ----------
 ----------
 
-[/us/pl/96/247/s3A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247%2Fs3A
-[/us/pl/111/148/s10606/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10606%2Fd%2F2
+[/us/pl/96/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F247
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1008
 
 

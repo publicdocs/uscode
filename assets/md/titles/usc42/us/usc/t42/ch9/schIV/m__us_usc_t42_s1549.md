@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the wages of every laborer and mechanic employed on any construction, repair or demolition work authorized by subchapters II to VII of this chapter shall be computed on a basic day rate of eight hours per day and work in excess of eight hours per day shall be permitted upon compensation for all hours worked in excess of eight hours per day at not less than one and one-half times the basic rate of pay. Not less than the prevailing wages shall be paid in the construction of defense housing authorized herein. Preference in such employment shall be given to qualified local residents.
 
-([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 309, formerly § 12, [54 Stat. 1128][/us/stat/54/1128]; renumbered title III, § 309, [June 28, 1941, ch. 260, § 4(b)][/us/act/1941-06-28/ch260/s4/b], [55 Stat. 363][/us/stat/55/363]; amended [Jan. 21, 1942, ch. 14, § 9][/us/act/1942-01-21/ch14/s9], [56 Stat. 12][/us/stat/56/12].)
+([Oct. 14, 1940, ch. 862][/us/act/1940-10-14/ch862], title III, § 309, formerly § 12, [54 Stat. 1128][/us/stat/54/1128]; renumbered title III, § 309, [June 28, 1941, ch. 260][/us/act/1941-06-28/ch260], § 4(b), [55 Stat. 363][/us/stat/55/363]; amended [Jan. 21, 1942, ch. 14][/us/act/1942-01-21/ch14], § 9, [56 Stat. 12][/us/stat/56/12].)
 
  __References in Text__ 
 
@@ -36,9 +36,9 @@
 
 [/us/act/1940-10-14/ch862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch862
 [/us/stat/54/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1128
-[/us/act/1941-06-28/ch260/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260%2Fs4%2Fb
+[/us/act/1941-06-28/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch260
 [/us/stat/55/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F363
-[/us/act/1942-01-21/ch14/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-21%2Fch14%2Fs9
+[/us/act/1942-01-21/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-21%2Fch14
 [/us/stat/56/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F12
 [/us/usc/t42/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1522
 

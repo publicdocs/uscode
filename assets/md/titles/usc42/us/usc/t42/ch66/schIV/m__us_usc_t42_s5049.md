@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any education institution or school system.
 
-([Pub. L. 93–113, title IV, § 409][/us/pl/93/113/s409], Oct. 1, 1973, [87 Stat. 410][/us/stat/87/410].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 409, Oct. 1, 1973, [87 Stat. 410][/us/stat/87/410].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/113/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs409
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F410
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

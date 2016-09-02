@@ -35,11 +35,11 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317L, as added [Pub. L. 106–310, div. A, title IX, § 911][/us/pl/106/310/s911], Oct. 17, 2000, [114 Stat. 1127][/us/stat/114/1127].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317L, as added [Pub. L. 106–310, div. A, title IX][/us/pl/106/310/dA/tIX], § 911, Oct. 17, 2000, [114 Stat. 1127][/us/stat/114/1127].)
 
  __Improving Data and the Public Health Response__ 
 
-[Pub. L. 114–91, § 4][/us/pl/114/91/s4], Nov. 25, 2015, [129 Stat. 725][/us/stat/129/725], provided that: 
+[Pub. L. 114–91][/us/pl/114/91], § 4, Nov. 25, 2015, [129 Stat. 725][/us/stat/129/725], provided that: 
 
 > “The Secretary \[of Health and Human Services\] may continue activities, as appropriate, related to—
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs911
+[/us/pl/106/310/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtIX
 [/us/stat/114/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1127
-[/us/pl/114/91/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F91%2Fs4
+[/us/pl/114/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F91
 [/us/stat/129/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F725
 
 

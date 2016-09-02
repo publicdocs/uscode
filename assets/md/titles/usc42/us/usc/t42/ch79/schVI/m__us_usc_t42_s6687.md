@@ -45,7 +45,7 @@
 
         (3) A copy of each strategy, if any, completed or revised pursuant to subsection (a) of this section during the fiscal year covered by the report.
 
-([Pub. L. 102–190, div. A, title VIII, § 822(a)][/us/pl/102/190/s822/a], (b), Dec. 5, 1991, [105 Stat. 1432][/us/stat/105/1432], 1433.)
+([Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 822(a), (b), Dec. 5, 1991, [105 Stat. 1432][/us/stat/105/1432], 1433.)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/102/190/s822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs822%2Fa
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1432
 [/us/usc/t42/s6683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6683
 

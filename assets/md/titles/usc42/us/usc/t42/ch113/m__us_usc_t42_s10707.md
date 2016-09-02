@@ -47,7 +47,7 @@
 
         Officers and employees of the Institute or of recipients shall not at any time intentionally identify the Institute or the recipient with any partisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
 
-([Pub. L. 98–620, title II, § 208][/us/pl/98/620/s208], Nov. 8, 1984, [98 Stat. 3343][/us/stat/98/3343].)
+([Pub. L. 98–620, title II][/us/pl/98/620/tII], § 208, Nov. 8, 1984, [98 Stat. 3343][/us/stat/98/3343].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/98/620/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs208
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3343
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/stat/98/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3336

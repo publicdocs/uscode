@@ -23,7 +23,7 @@
 
     (3) the need for and desirability of modifying weatherization activities authorized by this Act, and amendments made thereby and of extending such activities to a broader range of income groups than are being assisted under this Act and such amendments.
 
-([Pub. L. 95–619, title II, § 254][/us/pl/95/619/s254], Nov. 9, 1978, [92 Stat. 3237][/us/stat/92/3237].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 254, Nov. 9, 1978, [92 Stat. 3237][/us/stat/92/3237].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/95/619/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs254
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3237
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/stat/92/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3206

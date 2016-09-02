@@ -37,13 +37,13 @@
 
     (10) Providing means for improved communication of research results, having due regard for the varying conditions and needs for the respective States and regions.
 
-([Pub. L. 98–242, title I, § 108][/us/pl/98/242/s108], Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101]; [Pub. L. 101–397, § 1(k)][/us/pl/101/397/s1/k], (l), Sept. 28, 1990, [104 Stat. 853][/us/stat/104/853].)
+([Pub. L. 98–242, title I][/us/pl/98/242/tI], § 108, Mar. 22, 1984, [98 Stat. 101][/us/stat/98/101]; [Pub. L. 101–397][/us/pl/101/397], § 1(k), (l), Sept. 28, 1990, [104 Stat. 853][/us/stat/104/853].)
 
  __Amendments__ 
 
-    1990—Par. (6). [Pub. L. 101–397, § 1(k)][/us/pl/101/397/s1/k], which directed that “, contamination,” be inserted after “depletion”, was executed by making the insertion after “Depletion” to reflect the probable intent of Congress.
+    1990—Par. (6). [Pub. L. 101–397][/us/pl/101/397], § 1(k), which directed that “, contamination,” be inserted after “depletion”, was executed by making the insertion after “Depletion” to reflect the probable intent of Congress.
 
-    Par. (8). [Pub. L. 101–397, § 1][/us/pl/101/397/s1](l), inserted “quality and quantity” after “water”.
+    Par. (8). [Pub. L. 101–397][/us/pl/101/397], § 1(l), inserted “quality and quantity” after “water”.
 
 ----------
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t42/s10303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10303
-[/us/pl/98/242/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs108
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F101
-[/us/pl/101/397/s1/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fk
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 [/us/stat/104/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F853
-[/us/pl/101/397/s1/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fk
-[/us/pl/101/397/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 
 

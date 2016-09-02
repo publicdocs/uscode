@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch83/m__us_usc_t42_ch83.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_s7101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84)
+[Previous](./../../../..//us/usc/t42/ch83/m__us_usc_t42_s7001...7011.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_s7101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84)
 
 ## CHAPTER 84—DEPARTMENT OF ENERGY
 
@@ -929,7 +929,7 @@ Part C—General Administrative Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7274" data-uslm-ref="/us/usc/t42/s7274">7274</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7274l" data-uslm-ref="/us/usc/t42/s7274l">7274l.</a>  </td>
 
     <td> Authority to transfer certain Department of Energy property.  </td>
 
@@ -1417,7 +1417,7 @@ subpart 3—national laboratories centers of excellence in science, technology, 
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7381" data-uslm-ref="/us/usc/t42/s7381">7381</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7381l" data-uslm-ref="/us/usc/t42/s7381l">7381l</a>.  </td>
 
     <td> National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education.  </td>
 
@@ -1657,7 +1657,7 @@ Part B—Program Administration  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7384" data-uslm-ref="/us/usc/t42/s7384">7384</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7384l" data-uslm-ref="/us/usc/t42/s7384l">7384l.</a>  </td>
 
     <td> Definitions for program administration.  </td>
 
@@ -1681,7 +1681,7 @@ Part B—Program Administration  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7384" data-uslm-ref="/us/usc/t42/s7384">7384</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7384o" data-uslm-ref="/us/usc/t42/s7384o">7384o.</a>  </td>
 
     <td> Advisory Board on Radiation and Worker Health.  </td>
 
@@ -1881,7 +1881,7 @@ Part D—Assistance in State Workers’ Compensation Proceedings  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7385" data-uslm-ref="/us/usc/t42/s7385">7385</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7385o" data-uslm-ref="/us/usc/t42/s7385o">7385o.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -2051,7 +2051,7 @@ SUBCHAPTER XVII—[Repealed]  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch83/m__us_usc_t42_ch83.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_s7101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84)
+[Previous](./../../../..//us/usc/t42/ch83/m__us_usc_t42_s7001...7011.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_s7101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84)
 
 ----------
 ----------

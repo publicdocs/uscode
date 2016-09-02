@@ -17,7 +17,7 @@
 
     The Attorney General shall establish a national Blue Alert communications network within the Department of Justice to issue Blue Alerts through the initiation, facilitation, and promotion of Blue Alert plans, in coordination with States, units of local government, law enforcement agencies, and other appropriate entities.
 
-([Pub. L. 114–12, § 3][/us/pl/114/12/s3], May 19, 2015, [129 Stat. 193][/us/stat/129/193].)
+([Pub. L. 114–12][/us/pl/114/12], § 3, May 19, 2015, [129 Stat. 193][/us/stat/129/193].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/114/12/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F12%2Fs3
+[/us/pl/114/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F12
 [/us/stat/129/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F193
 
 

@@ -75,7 +75,7 @@
 
         Any amount paid to a system under this part for a fiscal year and remaining unobligated at the end of such year shall remain available to such system for the next fiscal year, for the purposes for which such amount was paid.
 
-([Pub. L. 106–402, title I, § 142][/us/pl/106/402/s142], Oct. 30, 2000, [114 Stat. 1712][/us/stat/114/1712].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 142, Oct. 30, 2000, [114 Stat. 1712][/us/stat/114/1712].)
 
 ----------
 
@@ -98,7 +98,7 @@
 [/us/usc/t42/s15043/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15043%2Fa
 [/us/usc/t42/s15045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15045
 [/us/usc/t42/s15043/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15043%2Fb
-[/us/pl/106/402/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs142
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1712
 
 

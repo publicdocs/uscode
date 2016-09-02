@@ -57,13 +57,13 @@
 
             A designation under this subsection shall not be effective for a period of more than 3 years, but may be renewed by the Secretary in accordance with the procedure set forth in this subsection. The Secretary shall take such other reasonable actions as the Secretary considers to be appropriate to notify the public of such designations.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 532, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 521\], Nov. 30, 1983, [97 Stat. 1250][/us/stat/97/1250]; amended [Pub. L. 104–180, title VII, § 734(f)][/us/pl/104/180/s734/f], Aug. 6, 1996, [110 Stat. 1604][/us/stat/110/1604].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 532, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 521\], Nov. 30, 1983, [97 Stat. 1250][/us/stat/97/1250]; amended [Pub. L. 104–180, title VII][/us/pl/104/180/tVII], § 734(f), Aug. 6, 1996, [110 Stat. 1604][/us/stat/110/1604].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–180, § 734(f)(1)][/us/pl/104/180/s734/f/1], substituted “Except as otherwise provided in subsection (c) of this section, the Secretary” for “The Secretary” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–180][/us/pl/104/180], § 734(f)(1), substituted “Except as otherwise provided in subsection (c) of this section, the Secretary” for “The Secretary” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 104–180, § 734(f)(2)][/us/pl/104/180/s734/f/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–180][/us/pl/104/180], § 734(f)(2), added subsec. (c).
 
 ----------
 
@@ -77,11 +77,11 @@
 [/us/usc/t42/s1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1485
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1250
-[/us/pl/104/180/s734/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs734%2Ff
+[/us/pl/104/180/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVII
 [/us/stat/110/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1604
-[/us/pl/104/180/s734/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs734%2Ff%2F1
-[/us/pl/104/180/s734/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs734%2Ff%2F2
+[/us/pl/104/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180
+[/us/pl/104/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180
 
 

@@ -37,19 +37,19 @@
 
         In this section, the term “protection order” has the meaning given the term in [section 2266 of title 18][/us/usc/t18/s2266].
 
-([Pub. L. 90–351, title I, § 2011][/us/pl/90/351/s2011], formerly § 2006, as added [Pub. L. 103–322, title IV, § 40121(a)(3)][/us/pl/103/322/s40121/a/3], Sept. 13, 1994, [108 Stat. 1915][/us/stat/108/1915]; amended [Pub. L. 106–386, div. B, title I, § 1101(b)(1)][/us/pl/106/386/s1101/b/1], Oct. 28, 2000, [114 Stat. 1492][/us/stat/114/1492]; renumbered § 2011, [Pub. L. 107–273, div. A, title IV, § 402(2)][/us/pl/107/273/s402/2], Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; [Pub. L. 108–405, title III, § 310(b)][/us/pl/108/405/s310/b], Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 113–4, title I, § 101(5)][/us/pl/113/4/s101/5], Mar. 7, 2013, [127 Stat. 69][/us/stat/127/69].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2011, formerly § 2006, as added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40121(a)(3), Sept. 13, 1994, [108 Stat. 1915][/us/stat/108/1915]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1101(b)(1), Oct. 28, 2000, [114 Stat. 1492][/us/stat/114/1492]; renumbered § 2011, [Pub. L. 107–273, div. A, title IV][/us/pl/107/273/dA/tIV], § 402(2), Nov. 2, 2002, [116 Stat. 1789][/us/stat/116/1789]; [Pub. L. 108–405, title III][/us/pl/108/405/tIII], § 310(b), Oct. 30, 2004, [118 Stat. 2276][/us/stat/118/2276]; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 101(5), Mar. 7, 2013, [127 Stat. 69][/us/stat/127/69].)
 
  __Amendments__ 
 
     2013—Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4] inserted “modification, enforcement, dismissal, withdrawal” after “registration,” in two places and “, dating violence, sexual assault, or stalking” after “felony domestic violence” and substituted “victim of domestic violence, dating violence, sexual assault, or stalking” for “victim of domestic violence, stalking, or sexual assault”.
 
-    2000—[Pub. L. 106–386, § 1101(b)(1)(A)][/us/pl/106/386/s1101/b/1/A], in section catchline, substituted “Costs” for “Filing costs” and inserted “and protection orders” after “charges”.
+    2000—[Pub. L. 106–386][/us/pl/106/386], § 1101(b)(1)(A), in section catchline, substituted “Costs” for “Filing costs” and inserted “and protection orders” after “charges”.
 
-    Subsec. (a)(1). [Pub. L. 106–386, § 1101(b)(1)(B)(i)][/us/pl/106/386/s1101/b/1/B/i], added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
+    Subsec. (a)(1). [Pub. L. 106–386][/us/pl/106/386], § 1101(b)(1)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
 
-    Subsec. (a)(2)(B). [Pub. L. 106–386, § 1101(b)(1)(B)(ii)][/us/pl/106/386/s1101/b/1/B/ii], substituted “2 years after October 28, 2000” for “2 years”.
+    Subsec. (a)(2)(B). [Pub. L. 106–386][/us/pl/106/386], § 1101(b)(1)(B)(ii), substituted “2 years after October 28, 2000” for “2 years”.
 
-    Subsec. (c). [Pub. L. 106–386, § 1101(b)(1)(C)][/us/pl/106/386/s1101/b/1/C], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–386][/us/pl/106/386], § 1101(b)(1)(C), added subsec. (c).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -63,22 +63,22 @@
 ----------
 
 [/us/usc/t18/s2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2266
-[/us/pl/90/351/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2011
-[/us/pl/103/322/s40121/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40121%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1915
-[/us/pl/106/386/s1101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fb%2F1
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1492
-[/us/pl/107/273/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs402%2F2
+[/us/pl/107/273/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIV
 [/us/stat/116/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1789
-[/us/pl/108/405/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs310%2Fb
+[/us/pl/108/405/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIII
 [/us/stat/118/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2276
-[/us/pl/113/4/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs101%2F5
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F69
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/106/386/s1101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fb%2F1%2FA
-[/us/pl/106/386/s1101/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fb%2F1%2FB%2Fi
-[/us/pl/106/386/s1101/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fb%2F1%2FB%2Fii
-[/us/pl/106/386/s1101/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fb%2F1%2FC
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261

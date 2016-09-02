@@ -31,7 +31,7 @@
 
         For the purposes of this section, there are authorized to be appropriated to the Secretary $10,000,000 for each of fiscal years 2006 through 2010.
 
-([Pub. L. 109–58, title II, § 201][/us/pl/109/58/s201], Aug. 8, 2005, [119 Stat. 650][/us/stat/119/650].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 201, Aug. 8, 2005, [119 Stat. 650][/us/stat/119/650].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs201
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F650
 
 

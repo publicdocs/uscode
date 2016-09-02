@@ -15,7 +15,7 @@
 
 ## § 10204. Subseabed disposal
 
-    (a) __Repealed.__  __[__  __Pub. L. 104–66, title I, § 1051(d)__  __][/us/pl/104/66/s1051/d]__  __,__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 716__  __][/us/stat/109/716]__ 
+    (a) __Repealed.__  __[__  __Pub. L. 104–66, title I__  __][/us/pl/104/66/tI]__  __, § 1051(d),__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 716__  __][/us/stat/109/716]__ 
 
     (b) __Office of Subseabed Disposal Research__ 
 
@@ -41,7 +41,7 @@
 
             (C) In 1990, and again in 1995, the Subseabed Consortium shall report to Congress on the progress being made in achieving the objectives of paragraph (2).
 
-([Pub. L. 97–425, title II, § 224][/us/pl/97/425/s224], as added [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V, § 5063][/us/pl/100/203/s5063], Dec. 22, 1987, [101 Stat. 1330–253][/us/stat/101/1330-253]; amended [Pub. L. 104–66, title I, § 1051(d)][/us/pl/104/66/s1051/d], Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716]; [Pub. L. 105–245, title III, § 309(b)(2)(E)][/us/pl/105/245/s309/b/2/E], Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 224, as added [Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5063, Dec. 22, 1987, [101 Stat. 1330–253][/us/stat/101/1330-253]; amended [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(d), Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716]; [Pub. L. 105–245, title III][/us/pl/105/245/tIII], § 309(b)(2)(E), Oct. 7, 1998, [112 Stat. 1853][/us/stat/112/1853].)
 
  __Codification__ 
 
@@ -64,16 +64,16 @@
 ----------
 ----------
 
-[/us/pl/104/66/s1051/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fd
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F716
-[/us/pl/97/425/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs224
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
-[/us/pl/100/203/s5063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5063
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-253
-[/us/pl/104/66/s1051/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fd
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F716
-[/us/pl/105/245/s309/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2Fs309%2Fb%2F2%2FE
+[/us/pl/105/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F245%2FtIII
 [/us/stat/112/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1853
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

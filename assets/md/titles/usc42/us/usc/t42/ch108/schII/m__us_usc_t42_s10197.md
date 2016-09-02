@@ -127,11 +127,11 @@
 
         (4) Notwithstanding any other provisions of this subsection, as soon as practicable following any determination by the Secretary, with the concurrence of the Commission, that the test and evaluation facility is unsuitable for continued operation, the Secretary shall take such actions as are necessary to remove from such site any radioactive material placed on such site as a result of testing and evaluation activities conducted under this section. Such requirement may be waived if the Secretary, with the concurrence of the Commission, finds that short-term testing and evaluation activities using radioactive material will not endanger the public health and safety.
 
-([Pub. L. 97–425, title II, § 217][/us/pl/97/425/s217], Jan. 7, 1983, [96 Stat. 2249][/us/stat/96/2249].)
+([Pub. L. 97–425, title II][/us/pl/97/425/tII], § 217, Jan. 7, 1983, [96 Stat. 2249][/us/stat/96/2249].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in subsec. (e), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (e), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables.
 
     This subchapter, referred to in subsec. (f)(1)(A), was in the original “this subtitle”, and was translated as this subchapter to reflect the probable intent of Congress because title II of [Pub. L. 97–425][/us/pl/97/425], which enacted this subchapter, does not contain subtitles.
 
@@ -152,10 +152,10 @@
 [/us/usc/t42/s5842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5842
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t42/s10194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10194
-[/us/pl/97/425/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs217
+[/us/pl/97/425/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2FtII
 [/us/stat/96/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2249
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425

@@ -53,7 +53,7 @@
 
             (B) improving devices or systems for effectively alerting the public in a timely manner, in the event of an accidental release of such extremely hazardous substances.
 
-([Pub. L. 99–499, title III, § 305][/us/pl/99/499/s305], Oct. 17, 1986, [100 Stat. 1735][/us/stat/100/1735].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 305, Oct. 17, 1986, [100 Stat. 1735][/us/stat/100/1735].)
 
  __Transfer of Functions__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t42/s11002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11002%2Fa
-[/us/pl/99/499/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs305
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1735
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

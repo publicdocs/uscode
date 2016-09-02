@@ -17,7 +17,7 @@
 
     The Administrator of General Services shall use such means as may be necessary to measure the percentage of alternative fuel use in dual-fueled vehicles procured by the Administrator of General Services. Not later than one year after October 24, 1992, the Secretary, in consultation with the Administrator of General Services, shall issue guidelines to Federal agencies for use in measuring the aggregate percentage of alternative fuel use in dual-fueled vehicles in their fleets.
 
-([Pub. L. 102–486, title III, § 308][/us/pl/102/486/s308], Oct. 24, 1992, [106 Stat. 2874][/us/stat/106/2874].)
+([Pub. L. 102–486, title III][/us/pl/102/486/tIII], § 308, Oct. 24, 1992, [106 Stat. 2874][/us/stat/106/2874].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs308
+[/us/pl/102/486/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIII
 [/us/stat/106/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2874
 
 

@@ -39,15 +39,15 @@
 
     (k) during the 5-year period beginning on August 21, 1986, to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of [section 2354 of title 10][/us/usc/t10/s2354] with all approvals and certifications required by such indemnification made by the Director.
 
-([May 10, 1950, ch. 171, § 11][/us/act/1950-05-10/ch171/s11], [64 Stat. 153][/us/stat/64/153]; [Pub. L. 86–232, § 6][/us/pl/86/232/s6], Sept. 8, 1959, [73 Stat. 468][/us/stat/73/468]; [Pub. L. 90–407, § 9][/us/pl/90/407/s9], July 18, 1968, [82 Stat. 365][/us/stat/82/365]; [Pub. L. 99–159, title I, § 110(a)(14)][/us/pl/99/159/s110/a/14], Nov. 22, 1985, [99 Stat. 891][/us/stat/99/891]; [Pub. L. 99–383, § 7(d)][/us/pl/99/383/s7/d], Aug. 21, 1986, [100 Stat. 814][/us/stat/100/814]; [Pub. L. 110–69, title VII, § 7023][/us/pl/110/69/s7023], Aug. 9, 2007, [121 Stat. 686][/us/stat/121/686].)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 11, [64 Stat. 153][/us/stat/64/153]; [Pub. L. 86–232][/us/pl/86/232], § 6, Sept. 8, 1959, [73 Stat. 468][/us/stat/73/468]; [Pub. L. 90–407][/us/pl/90/407], § 9, July 18, 1968, [82 Stat. 365][/us/stat/82/365]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 110(a)(14), Nov. 22, 1985, [99 Stat. 891][/us/stat/99/891]; [Pub. L. 99–383][/us/pl/99/383], § 7(d), Aug. 21, 1986, [100 Stat. 814][/us/stat/100/814]; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7023, Aug. 9, 2007, [121 Stat. 686][/us/stat/121/686].)
 
  __Codification__ 
 
-    In subsec. (c), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (d), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C., sec. 529)” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (d), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C., sec. 529)” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    In subsec. (g), “[section 501 of title 44][/us/usc/t44/s501]” substituted for “[section 87 of the Act of January 12, 1895][/us/act/1895-01-12/s87] ([28 Stat. 622][/us/stat/28/622]), and [section 11 of the Act of March 1, 1919][/us/act/1919-03-01/s11] ([40 Stat. 1270][/us/stat/40/1270]; 44 U.S.C., sec. 111)” on authority of [Pub. L. 90–620, § 2(b)][/us/pl/90/620/s2/b], Oct. 22, 1968, [82 Stat. 1305][/us/stat/82/1305], the first section of which enacted Title 44, Public Printing and Documents.
+    In subsec. (g), “[section 501 of title 44][/us/usc/t44/s501]” substituted for “[section 87 of the Act of January 12, 1895][/us/act/1895-01-12/s87] ([28 Stat. 622][/us/stat/28/622]), and [section 11 of the Act of March 1, 1919][/us/act/1919-03-01/s11] ([40 Stat. 1270][/us/stat/40/1270]; 44 U.S.C., sec. 111)” on authority of [Pub. L. 90–620][/us/pl/90/620], § 2(b), Oct. 22, 1968, [82 Stat. 1305][/us/stat/82/1305], the first section of which enacted Title 44, Public Printing and Documents.
 
  __Amendments__ 
 
@@ -55,19 +55,19 @@
 
     1986—Subsec. (k). [Pub. L. 99–383][/us/pl/99/383] added subsec. (k).
 
-    1985—Subsecs. (c), (d). [Pub. L. 99–159, § 110(a)(14)(A)][/us/pl/99/159/s110/a/14/A], inserted references to engineering.
+    1985—Subsecs. (c), (d). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(14)(A), inserted references to engineering.
 
-    Subsec. (g). [Pub. L. 99–159, § 110(a)(14)(B)][/us/pl/99/159/s110/a/14/B], (C), substituted “engineering” for “technical” and inserted reference to engineering value.
+    Subsec. (g). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(14)(B), (C), substituted “engineering” for “technical” and inserted reference to engineering value.
 
-    Subsec. (i). [Pub. L. 99–159, § 110(a)(14)(A)][/us/pl/99/159/s110/a/14/A], inserted applicability to engineering.
+    Subsec. (i). [Pub. L. 99–159][/us/pl/99/159], § 110(a)(14)(A), inserted applicability to engineering.
 
-    1968—Subsec. (c). [Pub. L. 90–407, § 9(a)][/us/pl/90/407/s9/a], substituted “scientific activities” for “basic scientific research activities” and “scientific research activities”, “international cooperation or national security” for “national defense”, and inserted “Secretary of State” after “at the request of the”.
+    1968—Subsec. (c). [Pub. L. 90–407][/us/pl/90/407], § 9(a), substituted “scientific activities” for “basic scientific research activities” and “scientific research activities”, “international cooperation or national security” for “national defense”, and inserted “Secretary of State” after “at the request of the”.
 
-    Subsec. (d). [Pub. L. 90–407, § 9(b)][/us/pl/90/407/s9/b], substituted “activities” for “research”.
+    Subsec. (d). [Pub. L. 90–407][/us/pl/90/407], § 9(b), substituted “activities” for “research”.
 
-    Subsec. (h). [Pub. L. 90–407, § 9(c)][/us/pl/90/407/s9/c], substituted “[section 5703 of title 5][/us/usc/t5/s5703]” for “[section 5 of the Act of August 2, 1946][/us/act/1946-08-02/s5] ([5 U.S.C. 73b–2][/us/usc/t5/s73b–2])”.
+    Subsec. (h). [Pub. L. 90–407][/us/pl/90/407], § 9(c), substituted “[section 5703 of title 5][/us/usc/t5/s5703]” for “[section 5 of the Act of August 2, 1946][/us/act/1946-08-02/s5] ([5 U.S.C. 73b–2][/us/usc/t5/s73b–2])”.
 
-    Subsec. (j). [Pub. L. 90–407, § 9(d)][/us/pl/90/407/s9/d], added subsec. (j).
+    Subsec. (j). [Pub. L. 90–407][/us/pl/90/407], § 9(d), added subsec. (j).
 
     1959—Subsec. (e). [Pub. L. 86–232][/us/pl/86/232] included acquisition of property by condemnation.
 
@@ -86,42 +86,42 @@
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t10/s2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2354
-[/us/act/1950-05-10/ch171/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs11
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F153
-[/us/pl/86/232/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232%2Fs6
+[/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/73/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F468
-[/us/pl/90/407/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs9
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F365
-[/us/pl/99/159/s110/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F14
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F891
-[/us/pl/99/383/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383%2Fs7%2Fd
+[/us/pl/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383
 [/us/stat/100/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F814
-[/us/pl/110/69/s7023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7023
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F686
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
 [/us/act/1895-01-12/s87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fs87
 [/us/stat/28/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F622
 [/us/act/1919-03-01/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-01%2Fs11
 [/us/stat/40/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1270
-[/us/pl/90/620/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs2%2Fb
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1305
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383
-[/us/pl/99/159/s110/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F14%2FA
-[/us/pl/99/159/s110/a/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F14%2FB
-[/us/pl/99/159/s110/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs110%2Fa%2F14%2FA
-[/us/pl/90/407/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs9%2Fa
-[/us/pl/90/407/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs9%2Fb
-[/us/pl/90/407/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs9%2Fc
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/act/1946-08-02/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fs5
 [/us/usc/t5/s73b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%932
-[/us/pl/90/407/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs9%2Fd
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/pl/90/407/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs16

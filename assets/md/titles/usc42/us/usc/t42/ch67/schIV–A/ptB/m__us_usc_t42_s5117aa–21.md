@@ -33,7 +33,7 @@
 
         The term “Secretary” means the Secretary of Health and Human Services.
 
-([Pub. L. 100–505, title III, § 301][/us/pl/100/505/s301], Oct. 18, 1988, [102 Stat. 2537][/us/stat/102/2537]; [Pub. L. 108–36, title III, § 305(a)][/us/pl/108/36/s305/a], June 25, 2003, [117 Stat. 824][/us/stat/117/824]; [Pub. L. 111–320, title IV, § 401(c)][/us/pl/111/320/s401/c], Dec. 20, 2010, [124 Stat. 3513][/us/stat/124/3513].)
+([Pub. L. 100–505, title III][/us/pl/100/505/tIII], § 301, Oct. 18, 1988, [102 Stat. 2537][/us/stat/102/2537]; [Pub. L. 108–36, title III][/us/pl/108/36/tIII], § 305(a), June 25, 2003, [117 Stat. 824][/us/stat/117/824]; [Pub. L. 111–320, title IV][/us/pl/111/320/tIV], § 401(c), Dec. 20, 2010, [124 Stat. 3513][/us/stat/124/3513].)
 
  __References in Text__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/100/505/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505%2Fs301
+[/us/pl/100/505/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505%2FtIII
 [/us/stat/102/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2537
-[/us/pl/108/36/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs305%2Fa
+[/us/pl/108/36/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIII
 [/us/stat/117/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F824
-[/us/pl/111/320/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs401%2Fc
+[/us/pl/111/320/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtIV
 [/us/stat/124/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3513
 [/us/pl/100/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F505
 [/us/stat/102/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2533

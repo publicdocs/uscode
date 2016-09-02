@@ -45,7 +45,7 @@
 
         Nothing in this section shall be construed as altering or otherwise affecting the provisions of [section 7311 of title 10][/us/usc/t10/s7311].
 
-([Pub. L. 89–272, title II, § 3022][/us/pl/89/272/s3022], as added [Pub. L. 102–386, title I, § 106(a)][/us/pl/102/386/s106/a], Oct. 6, 1992, [106 Stat. 1513][/us/stat/106/1513].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3022, as added [Pub. L. 102–386, title I][/us/pl/102/386/tI], § 106(a), Oct. 6, 1992, [106 Stat. 1513][/us/stat/106/1513].)
 
 ----------
 
@@ -55,8 +55,8 @@
 ----------
 
 [/us/usc/t10/s7311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7311
-[/us/pl/89/272/s3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3022
-[/us/pl/102/386/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2Fs106%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/102/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386%2FtI
 [/us/stat/106/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1513
 
 

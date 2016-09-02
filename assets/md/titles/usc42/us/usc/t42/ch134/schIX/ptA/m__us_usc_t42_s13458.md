@@ -131,7 +131,7 @@
 
         There is authorized to be appropriated for purposes of carrying out this section, to remain available until expended, not more than $10,000,000 for each of fiscal years 1994, 1995, and 1996.
 
-([Pub. L. 102–486, title I, § 103][/us/pl/102/486/s103], Oct. 24, 1992, [106 Stat. 2789][/us/stat/106/2789].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 103, Oct. 24, 1992, [106 Stat. 2789][/us/stat/106/2789].)
 
  __References in Text__ 
 
@@ -150,7 +150,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs103
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2789
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

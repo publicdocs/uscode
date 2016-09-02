@@ -27,7 +27,7 @@
 
         The Secretary shall take account of assistance provided to a project under this part when adjusting other assistance to be provided to the project as required by [section 3545(d) of this title][/us/usc/t42/s3545/d].
 
-([Pub. L. 101–625, title II, § 234][/us/pl/101/625/s234], Nov. 28, 1990, [104 Stat. 4117][/us/stat/104/4117]; [Pub. L. 102–550, title II, § 212(c)][/us/pl/102/550/s212/c], Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 234, Nov. 28, 1990, [104 Stat. 4117][/us/stat/104/4117]; [Pub. L. 102–550, title II][/us/pl/102/550/tII], § 212(c), Oct. 28, 1992, [106 Stat. 3757][/us/stat/106/3757].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t42/s3545/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3545%2Fd
-[/us/pl/101/625/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs234
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4117
-[/us/pl/102/550/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs212%2Fc
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3757
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

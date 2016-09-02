@@ -25,7 +25,7 @@
 
     (b) Upon request of the Committee, the head of any Federal department, agency, or instrumentality is authorized (1) to furnish to the Committee such information as may be necessary for carrying out its functions and as may be available to or procurable by such department, agency, or instrumentality, and (2) to detail to temporary duty with the Committee on a reimbursable basis such personnel within his administrative jurisdiction as it may need or believe to be useful for carrying out its functions. Each such detail shall be without loss of seniority, pay, or other employee status, to civilian employees so detailed, and without loss of status, rank, office, or grade, or of any emolument, perquisite, right, privilege, or benefit incident thereto to military personnel so detailed. Each such detail shall be made pursuant to an agreement between the Chairman and the head of the relevant department, agency, or instrumentality, and shall be in accordance with the provisions of subchapter III of chapter 33, title 5.
 
-([Pub. L. 94–282, title III, § 305][/us/pl/94/282/s305], May 11, 1976, [90 Stat. 470][/us/stat/90/470].)
+([Pub. L. 94–282, title III][/us/pl/94/282/tIII], § 305, May 11, 1976, [90 Stat. 470][/us/stat/90/470].)
 
  __Abolition of President’s Committee on Science and Technology; Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/94/282/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs305
+[/us/pl/94/282/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtIII
 [/us/stat/90/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F470
 [/us/usc/t42/s6631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6631
 

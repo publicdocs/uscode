@@ -57,7 +57,7 @@
 
             If the City of Indianapolis, Indiana submits an application for participation in the program under this subchapter and, upon review of the application under [section 1437bbb–5(b) of this title][/us/usc/t42/s1437bbb–5/b], the Secretary determines that such application is approvable under this subchapter, the Secretary shall approve such application, notwithstanding the second sentence of [section 1437bbb–5(b)(2) of this title][/us/usc/t42/s1437bbb–5/b/2]. Such City shall count for purposes of the numerical limitations on jurisdictions under paragraphs (1) and (3) of this subsection, but the provisions of paragraph (2) of this subsection (relating to exclusion of high-performing agencies) shall not apply to such City.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 402, as added [Pub. L. 105–276, title V, § 561][/us/pl/105/276/s561], Oct. 21, 1998, [112 Stat. 2617][/us/stat/112/2617].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title IV, § 402, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 561, Oct. 21, 1998, [112 Stat. 2617][/us/stat/112/2617].)
 
 ----------
 
@@ -74,7 +74,7 @@
 [/us/usc/t42/s1437bbb–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437bbb%E2%80%935%2Fb
 [/us/usc/t42/s1437bbb–5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437bbb%E2%80%935%2Fb%2F2
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs561
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2617
 
 

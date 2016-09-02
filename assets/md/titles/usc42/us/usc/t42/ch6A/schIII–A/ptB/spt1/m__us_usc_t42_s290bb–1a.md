@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 512, as added Oct. 19, 1984, [Pub. L. 98–509, title II, § 206(a)][/us/pl/98/509/s206/a], [98 Stat. 2361][/us/stat/98/2361], and amended, which related to alcohol abuse and alcoholism demonstration projects, was renumbered section 506 of act July 1, 1944, by [Pub. L. 102–321, title I, § 106(a)][/us/pl/102/321/s106/a], July 10, 1992, [106 Stat. 334][/us/stat/106/334], and transferred to [section 290aa–5 of this title][/us/usc/t42/s290aa–5].
+    Section, [act July 1, 1944, ch. 373, title V][/us/act/1944-07-01/ch373/tV], § 512, as added Oct. 19, 1984, [Pub. L. 98–509, title II][/us/pl/98/509/tII], § 206(a), [98 Stat. 2361][/us/stat/98/2361], and amended, which related to alcohol abuse and alcoholism demonstration projects, was renumbered section 506 of act July 1, 1944, by [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 106(a), July 10, 1992, [106 Stat. 334][/us/stat/106/334], and transferred to [section 290aa–5 of this title][/us/usc/t42/s290aa–5].
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/98/509/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2Fs206%2Fa
+[/us/act/1944-07-01/ch373/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtV
+[/us/pl/98/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtII
 [/us/stat/98/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2361
-[/us/pl/102/321/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs106%2Fa
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F334
 [/us/usc/t42/s290aa–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935
 

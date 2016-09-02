@@ -35,7 +35,7 @@
 
         The Secretary is authorized to support by grant or contract (and to encourage others to support) private nonprofit entities working in health information and health promotion, preventive health services, and education in the appropriate use of health care. The amount of any grant or contract for a fiscal year beginning after September 30, 1978, for an entity may not exceed 25 per centum of the expenses of the entity for such fiscal year for health information and health promotion, preventive health services, and education in the appropriate use of health care.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1703, as added [Pub. L. 94–317, title I, § 102][/us/pl/94/317/s102], June 23, 1976, [90 Stat. 697][/us/stat/90/697].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVII, § 1703, as added [Pub. L. 94–317, title I][/us/pl/94/317/tI], § 102, June 23, 1976, [90 Stat. 697][/us/stat/90/697].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/317/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2Fs102
+[/us/pl/94/317/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F317%2FtI
 [/us/stat/90/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F697
 
 

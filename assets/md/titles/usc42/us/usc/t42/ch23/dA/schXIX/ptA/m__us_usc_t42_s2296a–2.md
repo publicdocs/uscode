@@ -23,7 +23,7 @@
 
         Funds described in subsection (a) of this section shall be provided from the Fund established under [section 2297g of this title][/us/usc/t42/s2297g].
 
-([Pub. L. 102–486, title X, § 1003][/us/pl/102/486/s1003], Oct. 24, 1992, [106 Stat. 2947][/us/stat/106/2947]; [Pub. L. 104–259, § 3(b)][/us/pl/104/259/s3/b], Oct. 9, 1996, [110 Stat. 3174][/us/stat/110/3174]; [Pub. L. 105–388, § 11(b)][/us/pl/105/388/s11/b], Nov. 13, 1998, [112 Stat. 3485][/us/stat/112/3485]; [Pub. L. 107–222, § 1(b)][/us/pl/107/222/s1/b], Aug. 21, 2002, [116 Stat. 1336][/us/stat/116/1336].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1003, Oct. 24, 1992, [106 Stat. 2947][/us/stat/106/2947]; [Pub. L. 104–259][/us/pl/104/259], § 3(b), Oct. 9, 1996, [110 Stat. 3174][/us/stat/110/3174]; [Pub. L. 105–388][/us/pl/105/388], § 11(b), Nov. 13, 1998, [112 Stat. 3485][/us/stat/112/3485]; [Pub. L. 107–222][/us/pl/107/222], § 1(b), Aug. 21, 2002, [116 Stat. 1336][/us/stat/116/1336].)
 
  __Codification__ 
 
@@ -46,13 +46,13 @@
 
 [/us/usc/t42/s2296a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2296a
 [/us/usc/t42/s2297g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297g
-[/us/pl/102/486/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1003
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2947
-[/us/pl/104/259/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259%2Fs3%2Fb
+[/us/pl/104/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F259
 [/us/stat/110/3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3174
-[/us/pl/105/388/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs11%2Fb
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3485
-[/us/pl/107/222/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F222%2Fs1%2Fb
+[/us/pl/107/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F222
 [/us/stat/116/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1336
 [/us/pl/107/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F222
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388

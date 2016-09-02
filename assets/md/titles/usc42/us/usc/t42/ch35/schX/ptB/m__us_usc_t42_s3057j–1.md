@@ -17,7 +17,7 @@
 
     Subject to the availability of appropriations to carry out this part, the amount of the grant (if any) made under this part to an organization for fiscal year 1992 and for each subsequent fiscal year shall be not less than the amount of the grant made under this part to the organization for fiscal year 1991.
 
-([Pub. L. 89–73, title VI, § 624A][/us/pl/89/73/s624A], as added [Pub. L. 102–375, title VI, § 604][/us/pl/102/375/s604], Sept. 30, 1992, [106 Stat. 1270][/us/stat/106/1270].)
+([Pub. L. 89–73, title VI][/us/pl/89/73/tVI], § 624A, as added [Pub. L. 102–375, title VI][/us/pl/102/375/tVI], § 604, Sept. 30, 1992, [106 Stat. 1270][/us/stat/106/1270].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/73/s624A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs624A
-[/us/pl/102/375/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs604
+[/us/pl/89/73/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVI
+[/us/pl/102/375/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVI
 [/us/stat/106/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1270
 
 

@@ -23,7 +23,7 @@
 
     (3) to allow the family members of eligible officers to attain the vocational and educational status which they would have attained had a parent or spouse not been killed or disabled in the line of duty.
 
-([Pub. L. 90–351, title I, § 1211][/us/pl/90/351/s1211], as added [Pub. L. 104–238, § 2(2)][/us/pl/104/238/s2/2], Oct. 3, 1996, [110 Stat. 3114][/us/stat/110/3114]; amended [Pub. L. 105–390, § 2(2)][/us/pl/105/390/s2/2], Nov. 13, 1998, [112 Stat. 3495][/us/stat/112/3495].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1211, as added [Pub. L. 104–238][/us/pl/104/238], § 2(2), Oct. 3, 1996, [110 Stat. 3114][/us/stat/110/3114]; amended [Pub. L. 105–390][/us/pl/105/390], § 2(2), Nov. 13, 1998, [112 Stat. 3495][/us/stat/112/3495].)
 
  __Amendments__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1211
-[/us/pl/104/238/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F238%2Fs2%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/104/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F238
 [/us/stat/110/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3114
-[/us/pl/105/390/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F390%2Fs2%2F2
+[/us/pl/105/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F390
 [/us/stat/112/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3495
 [/us/pl/105/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F390
 

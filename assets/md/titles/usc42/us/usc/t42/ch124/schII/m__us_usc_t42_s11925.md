@@ -17,7 +17,7 @@
 
     Not later than 6 months after November 18, 1988, the Secretary shall issue any regulations necessary to carry out this subchapter.
 
-([Pub. L. 100–690, title V, § 5146][/us/pl/100/690/s5146], Nov. 18, 1988, [102 Stat. 4304][/us/stat/102/4304].)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5146, Nov. 18, 1988, [102 Stat. 4304][/us/stat/102/4304].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s5146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5146
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4304
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to prohibit a State from enacting and enforcing a standard or requirement that is identical to a standard or requirement established or promulgated under this chapter. Except as provided in sections 14322(e) and 14323 of this title, nothing in this chapter shall be construed to prohibit a State from enacting and enforcing a standard or requirement that is more stringent than a standard or requirement established or promulgated under this chapter.
 
-([Pub. L. 104–142, § 7][/us/pl/104/142/s7], May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
+([Pub. L. 104–142][/us/pl/104/142], § 7, May 13, 1996, [110 Stat. 1332][/us/stat/110/1332].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/142/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142%2Fs7
+[/us/pl/104/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F142
 [/us/stat/110/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1332
 
 

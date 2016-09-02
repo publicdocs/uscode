@@ -71,7 +71,7 @@
 
                 Of the amount authorized to be appropriated under [section 17357(a) of this title][/us/usc/t42/s17357/a] for a fiscal year, up to $500,000 is authorized to be made available to the Inspector General of the Department of State to conduct reviews, investigations, and inspections of operations and activities of the Foundation.
 
-([Pub. L. 110–140, title IX, § 925][/us/pl/110/140/s925], Dec. 19, 2007, [121 Stat. 1736][/us/stat/121/1736].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 925, Dec. 19, 2007, [121 Stat. 1736][/us/stat/121/1736].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 ----------
 
 [/us/usc/t42/s17357/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17357%2Fa
-[/us/pl/110/140/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs925
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1736
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1725

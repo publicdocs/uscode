@@ -35,7 +35,7 @@
 
         (4) For purposes of this subchapter, so much of an interstate regional plan as is carried out within a particular State shall be deemed part of the State plan for such State.
 
-([Pub. L. 89–272, title II, § 4006][/us/pl/89/272/s4006], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2816][/us/stat/90/2816]; amended [Pub. L. 96–482, § 19(b)][/us/pl/96/482/s19/b], Oct. 21, 1980, [94 Stat. 2345][/us/stat/94/2345].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 4006, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2816][/us/stat/90/2816]; amended [Pub. L. 96–482][/us/pl/96/482], § 19(b), Oct. 21, 1980, [94 Stat. 2345][/us/stat/94/2345].)
 
  __Codification__ 
 
@@ -60,10 +60,10 @@
 [/us/usc/t42/s6943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943
 [/us/usc/t33/s1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1288
 [/us/usc/t42/s6942/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6942%2Fa
-[/us/pl/89/272/s4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs4006
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2816
-[/us/pl/96/482/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs19%2Fb
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2345
 [/us/pl/96/482/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs19%2Fb
 [/us/usc/t42/s6945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6945

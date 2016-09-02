@@ -85,7 +85,7 @@
 
         (9) The Board shall continue until terminated by law.
 
-([Pub. L. 94–163, title III, § 365][/us/pl/94/163/s365], Dec. 22, 1975, [89 Stat. 935][/us/stat/89/935]; [Pub. L. 94–385, title IV, § 432(d)][/us/pl/94/385/s432/d], Aug. 14, 1976, [90 Stat. 1162][/us/stat/90/1162]; [Pub. L. 95–619, title VI][/us/pl/95/619], §§ 621, 691(b)(2), Nov. 9, 1978, [92 Stat. 3283][/us/stat/92/3283], 3288; [Pub. L. 101–440][/us/pl/101/440], §§ 5, 8(a), Oct. 18, 1990, [104 Stat. 1009][/us/stat/104/1009], 1015; [Pub. L. 102–486, title I, § 141(a)(2)][/us/pl/102/486/s141/a/2], Oct. 24, 1992, [106 Stat. 2841][/us/stat/106/2841]; [Pub. L. 104–66, title I, § 1052(f)][/us/pl/104/66/s1052/f], Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718]; [Pub. L. 105–388, § 2(a)][/us/pl/105/388/s2/a], Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477]; [Pub. L. 109–58, title I, § 123(c)][/us/pl/109/58/s123/c], Aug. 8, 2005, [119 Stat. 617][/us/stat/119/617]; [Pub. L. 110–140, title V, § 531][/us/pl/110/140/s531], Dec. 19, 2007, [121 Stat. 1665][/us/stat/121/1665].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 365, Dec. 22, 1975, [89 Stat. 935][/us/stat/89/935]; [Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 432(d), Aug. 14, 1976, [90 Stat. 1162][/us/stat/90/1162]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], §§ 621, 691(b)(2), Nov. 9, 1978, [92 Stat. 3283][/us/stat/92/3283], 3288; [Pub. L. 101–440][/us/pl/101/440], §§ 5, 8(a), Oct. 18, 1990, [104 Stat. 1009][/us/stat/104/1009], 1015; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 141(a)(2), Oct. 24, 1992, [106 Stat. 2841][/us/stat/106/2841]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(f), Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718]; [Pub. L. 105–388][/us/pl/105/388], § 2(a), Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 123(c), Aug. 8, 2005, [119 Stat. 617][/us/stat/119/617]; [Pub. L. 110–140, title V][/us/pl/110/140/tV], § 531, Dec. 19, 2007, [121 Stat. 1665][/us/stat/121/1665].)
 
  __References in Text__ 
 
@@ -109,19 +109,19 @@
 
     1992—Subsec. (f). [Pub. L. 102–486][/us/pl/102/486] designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
 
-    1990—Subsec. (f). [Pub. L. 101–440, § 8(a)][/us/pl/101/440/s8/a], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are authorized to be appropriated for carrying out the provisions of this part (other than [section 6327 of this title][/us/usc/t42/s6327]) $50,000,000 for fiscal year 1976, $50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979.”
+    1990—Subsec. (f). [Pub. L. 101–440][/us/pl/101/440], § 8(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are authorized to be appropriated for carrying out the provisions of this part (other than [section 6327 of this title][/us/usc/t42/s6327]) $50,000,000 for fiscal year 1976, $50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979.”
 
-    Subsec. (g). [Pub. L. 101–440, § 5][/us/pl/101/440/s5], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–440][/us/pl/101/440], § 5, added subsec. (g).
 
-    1978—Subsecs. (a) to (c), (e). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+    1978—Subsecs. (a) to (c), (e). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-    Subsec. (f). [Pub. L. 95–619, § 621][/us/pl/95/619/s621], authorized to be appropriated $50,000,000 for fiscal year 1979.
+    Subsec. (f). [Pub. L. 95–619][/us/pl/95/619], § 621, authorized to be appropriated $50,000,000 for fiscal year 1979.
 
-    1976—Subsec. (d). [Pub. L. 94–385, § 432(d)(1)][/us/pl/94/385/s432/d/1], (2), added subsec. (d). Former subsec. (d) redesignated (f).
+    1976—Subsec. (d). [Pub. L. 94–385][/us/pl/94/385], § 432(d)(1), (2), added subsec. (d). Former subsec. (d) redesignated (f).
 
-    Subsec. (e). [Pub. L. 94–385, § 432(d)(2)][/us/pl/94/385/s432/d/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 94–385][/us/pl/94/385], § 432(d)(2), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 94–385, § 432(d)(1)][/us/pl/94/385/s432/d/1], (3), redesignated former subsec. (d) as (f) and inserted “(other than [section 6327 of this title][/us/usc/t42/s6327])” after “part”.
+    Subsec. (f). [Pub. L. 94–385][/us/pl/94/385], § 432(d)(1), (3), redesignated former subsec. (d) as (f) and inserted “(other than [section 6327 of this title][/us/usc/t42/s6327])” after “part”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -145,23 +145,23 @@
 [/us/usc/t42/s6881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6881
 [/us/usc/t42/s6322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6322
 [/us/usc/t42/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6861
-[/us/pl/94/163/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs365
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F935
-[/us/pl/94/385/s432/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs432%2Fd
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1162
-[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3283
 [/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1009
-[/us/pl/102/486/s141/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs141%2Fa%2F2
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2841
-[/us/pl/104/66/s1052/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Ff
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F718
-[/us/pl/105/388/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs2%2Fa
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3477
-[/us/pl/109/58/s123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs123%2Fc
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F617
-[/us/pl/110/140/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs531
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1665
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
@@ -176,14 +176,14 @@
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t42/s7267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7267
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/101/440/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs8%2Fa
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/usc/t42/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6327
-[/us/pl/101/440/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs5
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
-[/us/pl/95/619/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs621
-[/us/pl/94/385/s432/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs432%2Fd%2F1
-[/us/pl/94/385/s432/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs432%2Fd%2F2
-[/us/pl/94/385/s432/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs432%2Fd%2F1
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/usc/t42/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6327
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601

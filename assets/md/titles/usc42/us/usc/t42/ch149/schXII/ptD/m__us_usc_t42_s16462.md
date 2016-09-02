@@ -31,7 +31,7 @@
 
         Not later than 4 months after August 8, 2005, the Commission shall issue rules (which rules shall be effective no earlier than the effective date of this part) to exempt from the requirements of this section any company in a holding company system whose public utility operations are confined substantially to a single State and any other class of transactions that the Commission finds is not relevant to the jurisdictional rates of a public utility.
 
-([Pub. L. 109–58, title XII, § 1275][/us/pl/109/58/s1275], Aug. 8, 2005, [119 Stat. 977][/us/stat/119/977].)
+([Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1275, Aug. 8, 2005, [119 Stat. 977][/us/stat/119/977].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t16/s824/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824%2Fe
-[/us/pl/109/58/s1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1275
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F977
 [/us/usc/t42/s16451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16451
 

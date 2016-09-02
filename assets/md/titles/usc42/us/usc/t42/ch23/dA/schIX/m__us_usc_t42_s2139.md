@@ -27,7 +27,7 @@
 
         The Commission shall not issue an export license under the authority of subsection (b) of this section if it is advised by the executive branch, in accordance with the procedures established under [section 2155(a) of this title][/us/usc/t42/s2155/a], that the export would be inimical to the common defense and security of the United States.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 109, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 939][/us/stat/68/939]; amended [Pub. L. 87–615, § 9][/us/pl/87/615/s9], Aug. 29, 1962, [76 Stat. 411][/us/stat/76/411]; [Pub. L. 89–645, § 1(b)][/us/pl/89/645/s1/b], Oct. 13, 1966, [80 Stat. 891][/us/stat/80/891]; [Pub. L. 95–242, title III, § 309(a)][/us/pl/95/242/s309/a], Mar. 10, 1978, [92 Stat. 141][/us/stat/92/141]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 105–277, div. G, title XII, § 1225(d)(2)][/us/pl/105/277/s1225/d/2], Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 109, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 939][/us/stat/68/939]; amended [Pub. L. 87–615][/us/pl/87/615], § 9, Aug. 29, 1962, [76 Stat. 411][/us/stat/76/411]; [Pub. L. 89–645][/us/pl/89/645], § 1(b), Oct. 13, 1966, [80 Stat. 891][/us/stat/80/891]; [Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 309(a), Mar. 10, 1978, [92 Stat. 141][/us/stat/92/141]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 105–277, div. G, title XII][/us/pl/105/277/dG/tXII], § 1225(d)(2), Oct. 21, 1998, [112 Stat. 2681–774][/us/stat/112/2681-774].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Exports Contracted for Prior to__  __Nov. 1, 1977__  __, Made Within One Year of__  __Mar. 10, 1978__  __; Savings Provision__ 
 
-[Pub. L. 95–242, title III, § 309(d)][/us/pl/95/242/s309/d], Mar. 10, 1978, [92 Stat. 142][/us/stat/92/142], provided that: 
+[Pub. L. 95–242, title III][/us/pl/95/242/tIII], § 309(d), Mar. 10, 1978, [92 Stat. 142][/us/stat/92/142], provided that: 
 
 > “The amendments to section 109 of the 1954 Act \[[42 U.S.C. 2139][/us/usc/t42/s2139]\] made by this section shall not affect the approval of exports contracted for prior to November 1, 1977, which are made within one year of the date of enactment of such amendments \[Mar. 10, 1978\].”
 
@@ -71,17 +71,17 @@
 [/us/usc/t42/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2155
 [/us/usc/t42/s2155/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2155%2Fa
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F939
-[/us/pl/87/615/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615%2Fs9
+[/us/pl/87/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F615
 [/us/stat/76/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F411
-[/us/pl/89/645/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645%2Fs1%2Fb
+[/us/pl/89/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F645
 [/us/stat/80/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F891
-[/us/pl/95/242/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs309%2Fa
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F141
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/105/277/s1225/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fd%2F2
+[/us/pl/105/277/dG/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXII
 [/us/stat/112/2681-774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-774
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
@@ -97,7 +97,7 @@
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/pl/95/242/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fc
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
-[/us/pl/95/242/s309/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs309%2Fd
+[/us/pl/95/242/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtIII
 [/us/stat/92/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F142
 [/us/usc/t42/s2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242

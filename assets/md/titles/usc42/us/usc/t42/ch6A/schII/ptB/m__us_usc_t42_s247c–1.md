@@ -171,13 +171,13 @@
 
             For the purpose of carrying out paragraph (1), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 through 1998.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 318A, as added [Pub. L. 102–531, title III, § 304][/us/pl/102/531/s304], Oct. 27, 1992, [106 Stat. 3490][/us/stat/106/3490]; amended [Pub. L. 103–43, title XX, § 2008(i)(1)(B)(ii)][/us/pl/103/43/s2008/i/1/B/ii], June 10, 1993, [107 Stat. 212][/us/stat/107/212]; [Pub. L. 103–183, title IV, § 402][/us/pl/103/183/s402], Dec. 14, 1993, [107 Stat. 2236][/us/stat/107/2236]; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 108–163, § 2(m)(1)][/us/pl/108/163/s2/m/1], Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 318A, as added [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 304, Oct. 27, 1992, [106 Stat. 3490][/us/stat/106/3490]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(i)(1)(B)(ii), June 10, 1993, [107 Stat. 212][/us/stat/107/212]; [Pub. L. 103–183, title IV][/us/pl/103/183/tIV], § 402, Dec. 14, 1993, [107 Stat. 2236][/us/stat/107/2236]; [Pub. L. 107–251, title VI][/us/pl/107/251/tVI], § 601(a), Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 108–163][/us/pl/108/163], § 2(m)(1), Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023].)
 
  __References in Text__ 
 
-    The reference to [section 254b of this title][/us/usc/t42/s254b] the first place appearing, referred to in subsec. (e), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626].
+    The reference to [section 254b of this title][/us/usc/t42/s254b] the first place appearing, referred to in subsec. (e), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626].
 
-    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsec. (e), was repealed by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
+    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsec. (e), was repealed by [Pub. L. 104–299][/us/pl/104/299], § 4(a)(3), Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
 
  __Amendments__ 
 
@@ -185,13 +185,13 @@
 
     2002—Subsec. (e). [Pub. L. 107–251][/us/pl/107/251] substituted “254b(h)” for “256”.
 
-    1993—[Pub. L. 103–43][/us/pl/103/43] made technical amendment to directory language of [Pub. L. 102–531, § 304][/us/pl/102/531/s304], which enacted this section.
+    1993—[Pub. L. 103–43][/us/pl/103/43] made technical amendment to directory language of [Pub. L. 102–531][/us/pl/102/531], § 304, which enacted this section.
 
-    Subsec. (o)(2). [Pub. L. 103–183, § 402(a)][/us/pl/103/183/s402/a], substituted “subsection (q)” for “subsection (s)”.
+    Subsec. (o)(2). [Pub. L. 103–183][/us/pl/103/183], § 402(a), substituted “subsection (q)” for “subsection (s)”.
 
-    Subsec. (q). [Pub. L. 103–183, § 402(b)(1)][/us/pl/103/183/s402/b/1], substituted “through 1998” for “and 1995”.
+    Subsec. (q). [Pub. L. 103–183][/us/pl/103/183], § 402(b)(1), substituted “through 1998” for “and 1995”.
 
-    Subsec. (r)(2). [Pub. L. 103–183, § 402(b)(2)][/us/pl/103/183/s402/b/2], substituted “1998” for “1995”.
+    Subsec. (r)(2). [Pub. L. 103–183][/us/pl/103/183], § 402(b)(2), substituted “1998” for “1995”.
 
  __Change of Name__ 
 
@@ -212,29 +212,29 @@
 
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/531/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs304
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3490
-[/us/pl/103/43/s2008/i/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fi%2F1%2FB%2Fii
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F212
-[/us/pl/103/183/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs402
+[/us/pl/103/183/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtIV
 [/us/stat/107/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2236
-[/us/pl/107/251/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs601%2Fa
+[/us/pl/107/251/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtVI
 [/us/stat/116/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1664
-[/us/pl/108/163/s2/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fm%2F1
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2023
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/usc/t42/s256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a
-[/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/102/531/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs304
-[/us/pl/103/183/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs402%2Fa
-[/us/pl/103/183/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs402%2Fb%2F1
-[/us/pl/103/183/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs402%2Fb%2F2
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
+[/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163

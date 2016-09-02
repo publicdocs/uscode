@@ -27,7 +27,7 @@
 
         Any person who, on the effective date of this chapter, held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, and who, without a break in service, is appointed in the Administration to a position having duties comparable to those performed immediately preceding his appointment shall continue to be compensated in his new position at not less than the rate provided for his previous position.
 
-([Pub. L. 93–438, title III, § 302][/us/pl/93/438/s302], Oct. 11, 1974, [88 Stat. 1250][/us/stat/88/1250].)
+([Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 302, Oct. 11, 1974, [88 Stat. 1250][/us/stat/88/1250].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “[section 1531 of title 31][/us/usc/t31/s1531]” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950 ([31 U.S.C. 581c][/us/usc/t31/s581c])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “[section 1531 of title 31][/us/usc/t31/s1531]” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950 ([31 U.S.C. 581c][/us/usc/t31/s581c])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Transfer of Functions__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
 [/us/usc/t5/s5313–531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313%E2%80%93531
 [/us/usc/t42/s5871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5871
-[/us/pl/93/438/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs302
+[/us/pl/93/438/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIII
 [/us/stat/88/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1250
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233
@@ -63,7 +63,7 @@
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
 [/us/usc/t31/s581c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs581c
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

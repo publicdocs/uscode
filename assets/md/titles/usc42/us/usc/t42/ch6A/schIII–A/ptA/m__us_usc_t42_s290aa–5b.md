@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–5a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–11.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935b)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–5a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–6...290aa–8.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935b)
 
 ## § 290aa–5b. Grants for ecstasy and other club drugs abuse prevention
 
@@ -69,7 +69,7 @@
 
         (2) such sums as may be necessary for each succeeding fiscal year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 506B, as added [Pub. L. 106–310, div. B, title XXXVI, § 3665(a)][/us/pl/106/310/s3665/a], Oct. 17, 2000, [114 Stat. 1244][/us/stat/114/1244].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 506B, as added [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3665(a), Oct. 17, 2000, [114 Stat. 1244][/us/stat/114/1244].)
 
  __Change of Name__ 
 
@@ -77,7 +77,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–310, div. B, title XXXVI, § 3662][/us/pl/106/310/s3662], Oct. 17, 2000, [114 Stat. 1241][/us/stat/114/1241], provided that: 
+[Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3662, Oct. 17, 2000, [114 Stat. 1241][/us/stat/114/1241], provided that: 
 
 > “Congress makes the following findings:
 
@@ -113,70 +113,20 @@
 
 >             “(v) translate research findings into useful tools and ensure their effective dissemination.”
 
-§§ 290aa–6 to 290aa–8. __Transferred__ 
-
- __Codification__ 
-
-    Section 290aa–6, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 508, as added Oct. 27, 1986, [Pub. L. 99–570, title IV, § 4005(a)][/us/pl/99/570/s4005/a], [100 Stat. 3207–111][/us/stat/100/3207-111], and amended, which related to the Office of Substance Abuse Prevention, was renumbered section 515 of act July 1, 1944, by [Pub. L. 102–321, title I, § 113(b)][/us/pl/102/321/s113/b], July 10, 1992, [106 Stat. 345][/us/stat/106/345], and transferred to [section 290bb–21 of this title][/us/usc/t42/s290bb–21].
-
-    Section 290aa–7, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 509, as added Oct. 27, 1986, [Pub. L. 99–570, title IV, § 4005(a)][/us/pl/99/570/s4005/a], [100 Stat. 3207–112][/us/stat/100/3207-112], which related to Alcohol and Drug Abuse Information Clearinghouse, was renumbered section 516 of act July 1, 1944, by [Pub. L. 102–321, title I, § 113(f)(1)][/us/pl/102/321/s113/f/1]–(3), July 10, 1992, [106 Stat. 345][/us/stat/106/345], and transferred to [section 290bb–22 of this title][/us/usc/t42/s290bb–22].
-
-    Section 290aa–8, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 509A, as added Oct. 27, 1986, [Pub. L. 99–570, title IV, § 4005(a)][/us/pl/99/570/s4005/a], [100 Stat. 3207–113][/us/stat/100/3207-113], and amended, which related to alcohol and drug abuse prevention, treatment, and rehabilitation model projects for high risk youth, was renumbered section 517 of act July 1, 1944, by [Pub. L. 102–321, title I, § 114(a)][/us/pl/102/321/s114/a], July 10, 1992, [106 Stat. 346][/us/stat/106/346], and transferred to [section 290bb–23 of this title][/us/usc/t42/s290bb–23].
-
-§§ 290aa–9, 290aa–10. __Repealed.__  __[__  __Pub. L. 102–321, title I, § 120(a)__  __][/us/pl/102/321/s120/a]__  __,__  __July 10, 1992__  __,__  __[__  __106 Stat. 358__  __][/us/stat/106/358]__ 
-
-    Section 290aa–9, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 509B, as added Oct. 27, 1986, [Pub. L. 99–570, title IV, § 4006][/us/pl/99/570/s4006], [100 Stat. 3207–114][/us/stat/100/3207-114]; amended Oct. 27, 1992, [Pub. L. 102–531, title III, § 312(d)(11)][/us/pl/102/531/s312/d/11], [106 Stat. 3505][/us/stat/106/3505], related to research on public health emergencies.
-
-    Section 290aa–10, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 509C, as added Oct. 27, 1986, [Pub. L. 99–570, title IV, § 420][/us/pl/99/570/s420] \[4020\], [100 Stat. 3207–122][/us/stat/100/3207-122], related to guidelines for use of animals in research.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of [Pub. L. 102–321][/us/pl/102/321], set out as an Effective Date of 1992 Amendment note under [section 236 of this title][/us/usc/t42/s236].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–5a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–11.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935b)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–5a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII–A/ptA/m__us_usc_t42_s290aa–6...290aa–8.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%935b)
 
 ----------
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3665/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3665%2Fa
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1244
-[/us/pl/106/310/s3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3662
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1241
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/106/310/s3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3661
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/570/s4005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4005%2Fa
-[/us/stat/100/3207-111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-111
-[/us/pl/102/321/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs113%2Fb
-[/us/stat/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F345
-[/us/usc/t42/s290bb–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9321
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/570/s4005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4005%2Fa
-[/us/stat/100/3207-112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-112
-[/us/pl/102/321/s113/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs113%2Ff%2F1
-[/us/stat/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F345
-[/us/usc/t42/s290bb–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9322
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/570/s4005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4005%2Fa
-[/us/stat/100/3207-113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-113
-[/us/pl/102/321/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs114%2Fa
-[/us/stat/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F346
-[/us/usc/t42/s290bb–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9323
-[/us/pl/102/321/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs120%2Fa
-[/us/stat/106/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F358
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/570/s4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4006
-[/us/stat/100/3207-114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-114
-[/us/pl/102/531/s312/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fd%2F11
-[/us/stat/106/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3505
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/570/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs420
-[/us/stat/100/3207-122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-122
-[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
-[/us/usc/t42/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs236
 
 

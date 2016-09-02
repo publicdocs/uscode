@@ -273,7 +273,7 @@
 
         Nothing in this subchapter shall be read to modify the terms of the Russian HEU Agreement.
 
-([Pub. L. 104–134, title III, § 3112][/us/pl/104/134/s3112], Apr. 26, 1996, [110 Stat. 1321–344][/us/stat/110/1321-344].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3112, Apr. 26, 1996, [110 Stat. 1321–344][/us/stat/110/1321-344].)
 
  __Codification__ 
 
@@ -290,7 +290,7 @@
 ----------
 ----------
 
-[/us/pl/104/134/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3112
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-344
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

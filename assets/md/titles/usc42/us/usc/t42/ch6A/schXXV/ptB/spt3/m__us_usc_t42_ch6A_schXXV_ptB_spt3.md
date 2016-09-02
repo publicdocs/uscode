@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Another subpart 3 of part B of title XXVII of act July 1, 1944, was redesignated subpart 2 by [Pub. L. 110–233, title I, § 102(b)(1)(A)][/us/pl/110/233/s102/b/1/A], May 21, 2008, [122 Stat. 892][/us/stat/122/892], and is classified to subpart 2 (§ 300gg–51 et seq.) of this part.
+    Another subpart 3 of part B of title XXVII of act July 1, 1944, was redesignated subpart 2 by [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 102(b)(1)(A), May 21, 2008, [122 Stat. 892][/us/stat/122/892], and is classified to subpart 2 (§ 300gg–51 et seq.) of this part.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/233/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs102%2Fb%2F1%2FA
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F892
 
 

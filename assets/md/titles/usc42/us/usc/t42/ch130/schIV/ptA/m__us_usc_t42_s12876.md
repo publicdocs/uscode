@@ -77,19 +77,19 @@
 
     (10) The term “Secretary” means the Secretary of Housing and Urban Development.
 
-([Pub. L. 101–625, title IV, § 426][/us/pl/101/625/s426], Nov. 28, 1990, [104 Stat. 4170][/us/stat/104/4170]; [Pub. L. 102–550, title I, § 181(d)][/us/pl/102/550/s181/d], (e), (h), Oct. 28, 1992, [106 Stat. 3735][/us/stat/106/3735], 3736.)
+([Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 426, Nov. 28, 1990, [104 Stat. 4170][/us/stat/104/4170]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 181(d), (e), (h), Oct. 28, 1992, [106 Stat. 3735][/us/stat/106/3735], 3736.)
 
  __References in Text__ 
 
-    [Section 1437a(b)(11) of this title][/us/usc/t42/s1437a/b/11], referred to in par. (5), was repealed by [Pub. L. 104–330, title V, § 501(b)(1)(D)][/us/pl/104/330/s501/b/1/D], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041], and a new section 1437a(b)(11), defining “public housing agency plan”, was enacted by [Pub. L. 105–276, title V, § 506(4)][/us/pl/105/276/s506/4], Oct. 21, 1998, [112 Stat. 2524][/us/stat/112/2524].
+    [Section 1437a(b)(11) of this title][/us/usc/t42/s1437a/b/11], referred to in par. (5), was repealed by [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 501(b)(1)(D), Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041], and a new section 1437a(b)(11), defining “public housing agency plan”, was enacted by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 506(4), Oct. 21, 1998, [112 Stat. 2524][/us/stat/112/2524].
 
     This title, referred to in par. (8), means title IV of [Pub. L. 101–625][/us/pl/101/625], known as the Homeownership and Opportunity Through HOPE Act, and probably should have been “this subtitle”, meaning subtitle B (§§ 421–431) of title IV of [Pub. L. 101–625][/us/pl/101/625], which is classified principally to this part. For complete classification of title IV of [Pub. L. 101–625][/us/pl/101/625] to the Code, see Short Title note set out under [section 1437aaa of this title][/us/usc/t42/s1437aaa] and Tables.
 
  __Amendments__ 
 
-    1992—Par. (1)(G). [Pub. L. 102–550, § 181(d)][/us/pl/102/550/s181/d], added subpar. (G).
+    1992—Par. (1)(G). [Pub. L. 102–550][/us/pl/102/550], § 181(d), added subpar. (G).
 
-    Par. (3)(D). [Pub. L. 102–550, § 181(e)][/us/pl/102/550/s181/e], (h), inserted “the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency,” after “Corporation,” and “or an agency or instrumentality thereof” before period at end.
+    Par. (3)(D). [Pub. L. 102–550][/us/pl/102/550], § 181(e), (h), inserted “the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency,” after “Corporation,” and “or an agency or instrumentality thereof” before period at end.
 
 ----------
 
@@ -101,20 +101,20 @@
 [/us/usc/t42/s1437r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437r
 [/us/usc/t42/s1437a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F2
 [/us/usc/t42/s1437a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F6
-[/us/pl/101/625/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs426
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4170
-[/us/pl/102/550/s181/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fd
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3735
 [/us/usc/t42/s1437a/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F11
-[/us/pl/104/330/s501/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs501%2Fb%2F1%2FD
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4041
-[/us/pl/105/276/s506/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs506%2F4
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2524
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t42/s1437aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aaa
-[/us/pl/102/550/s181/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fd
-[/us/pl/102/550/s181/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fe
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

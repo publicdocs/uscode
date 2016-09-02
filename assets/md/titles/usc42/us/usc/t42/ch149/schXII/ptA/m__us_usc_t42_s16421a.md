@@ -129,7 +129,7 @@
 
             In the course of selecting potential projects to be funded under this section, the Administrator shall seek Requests For Interest from entities interested in identifying potential projects through one or more notices published in the Federal Register.
 
-([Pub. L. 98–381, title III, § 301][/us/pl/98/381/s301], as added [Pub. L. 111–5, div. A, title IV, § 402][/us/pl/111/5/s402], Feb. 17, 2009, [123 Stat. 141][/us/stat/123/141].)
+([Pub. L. 98–381, title III][/us/pl/98/381/tIII], § 301, as added [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 402, Feb. 17, 2009, [123 Stat. 141][/us/stat/123/141].)
 
  __Codification__ 
 
@@ -142,8 +142,8 @@
 ----------
 ----------
 
-[/us/pl/98/381/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2Fs301
-[/us/pl/111/5/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs402
+[/us/pl/98/381/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2FtIII
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F141
 
 

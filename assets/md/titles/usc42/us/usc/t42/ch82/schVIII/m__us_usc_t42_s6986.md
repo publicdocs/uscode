@@ -69,7 +69,7 @@
 
         (2) The Administrator shall prescribe by regulation the manner in which this subsection shall apply to a grant under this section for a project in an area which includes all or part of more than one State.
 
-([Pub. L. 89–272, title II, § 8006][/us/pl/89/272/s8006], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2838][/us/stat/90/2838].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 8006, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2838][/us/stat/90/2838].)
 
  __Prior Provisions__ 
 
@@ -88,8 +88,8 @@
 
 [/us/usc/t42/s6907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6907
 [/us/usc/t42/s6907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6907
-[/us/pl/89/272/s8006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs8006
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2838
 [/us/usc/t42/s3254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3254b
 [/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580

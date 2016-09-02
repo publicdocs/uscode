@@ -73,17 +73,17 @@
 
             The Director of the Institute shall coordinate the activities under paragraph (1) with similar activities conducted by other national research institutes and agencies of the National Institutes of Health to the extent that those Institutes and agencies have responsibilities that are related to pediatric cancer.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 413, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 833][/us/stat/99/833]; amended [Pub. L. 100–607, title I, § 122][/us/pl/100/607/s122], Nov. 4, 1988, [102 Stat. 3054][/us/stat/102/3054]; [Pub. L. 101–93, § 5(c)][/us/pl/101/93/s5/c], Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 103–43, title III, § 301(a)(2)][/us/pl/103/43/s301/a/2], June 10, 1993, [107 Stat. 150][/us/stat/107/150]; [Pub. L. 107–109, § 15(b)][/us/pl/107/109/s15/b], Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 413, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 833][/us/stat/99/833]; amended [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 122, Nov. 4, 1988, [102 Stat. 3054][/us/stat/102/3054]; [Pub. L. 101–93][/us/pl/101/93], § 5(c), Aug. 16, 1989, [103 Stat. 611][/us/stat/103/611]; [Pub. L. 103–43, title III][/us/pl/103/43/tIII], § 301(a)(2), June 10, 1993, [107 Stat. 150][/us/stat/107/150]; [Pub. L. 107–109][/us/pl/107/109], § 15(b), Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420].)
 
  __References in Text__ 
 
-    [Section 284b of this title][/us/usc/t42/s284b], referred to in subsec. (a)(2)(C), was repealed by [Pub. L. 109–482, title I, § 104(b)(1)(C)][/us/pl/109/482/s104/b/1/C], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
+    [Section 284b of this title][/us/usc/t42/s284b], referred to in subsec. (a)(2)(C), was repealed by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(1)(C), Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].
 
  __Codification__ 
 
-    In subsec. (b)(6)(C), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b)(6)(C), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-    In subsec. (b)(8), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(8), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -93,11 +93,11 @@
 
     1989—Subsec. (a)(1). [Pub. L. 101–93][/us/pl/101/93] substituted “Institute and” for “Institute and and”.
 
-    1988—Subsec. (a). [Pub. L. 100–607, § 122(1)][/us/pl/100/607/s122/1], designated existing provisions as par. (1), substituted “education program” for “education center”, inserted “and the public and between the Institute and” after “between the Institute”, and added par. (2).
+    1988—Subsec. (a). [Pub. L. 100–607][/us/pl/100/607], § 122(1), designated existing provisions as par. (1), substituted “education program” for “education center”, inserted “and the public and between the Institute and” after “between the Institute”, and added par. (2).
 
-    Subsec. (b)(5). [Pub. L. 100–607, § 122(2)(A)][/us/pl/100/607/s122/2/A], substituted “after consultation with” for “with the approval of”.
+    Subsec. (b)(5). [Pub. L. 100–607][/us/pl/100/607], § 122(2)(A), substituted “after consultation with” for “with the approval of”.
 
-    Subsec. (b)(8) to (10). [Pub. L. 100–607, § 122(2)(B)][/us/pl/100/607/s122/2/B], inserted “and” after “or educational institution;” in par. (8), redesignated par. (10) as (9), and struck out former par. (9) which related to International Cancer Research Data Bank.
+    Subsec. (b)(8) to (10). [Pub. L. 100–607][/us/pl/100/607], § 122(2)(B), inserted “and” after “or educational institution;” in par. (8), redesignated par. (10) as (9), and struck out former par. (9) which related to International Cancer Research Data Bank.
 
 ----------
 
@@ -113,32 +113,32 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t42/s284/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F833
-[/us/pl/100/607/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs122
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3054
-[/us/pl/101/93/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Fc
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F611
-[/us/pl/103/43/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs301%2Fa%2F2
+[/us/pl/103/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtIII
 [/us/stat/107/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F150
-[/us/pl/107/109/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs15%2Fb
+[/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/stat/115/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1420
 [/us/usc/t42/s284b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284b
-[/us/pl/109/482/s104/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FC
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3693
 [/us/usc/t40/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8141
 [/us/usc/t40/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs34
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/107/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 [/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
-[/us/pl/100/607/s122/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs122%2F1
-[/us/pl/100/607/s122/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs122%2F2%2FA
-[/us/pl/100/607/s122/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs122%2F2%2FB
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
+[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 
 

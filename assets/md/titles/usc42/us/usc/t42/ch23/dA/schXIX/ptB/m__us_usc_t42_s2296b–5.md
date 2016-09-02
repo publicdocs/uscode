@@ -31,7 +31,7 @@
 
     (7) recommendations for the future use and disposition of such inventories.
 
-([Pub. L. 102–486, title X, § 1016][/us/pl/102/486/s1016], Oct. 24, 1992, [106 Stat. 2949][/us/stat/106/2949].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1016, Oct. 24, 1992, [106 Stat. 2949][/us/stat/106/2949].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1016
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2949
 
 

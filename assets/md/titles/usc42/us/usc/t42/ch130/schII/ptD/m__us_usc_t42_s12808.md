@@ -61,7 +61,7 @@
 
         A deferred payment loan assisted with amount  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “amounts”. </sup></sup>  provided under a grant under this section shall be secured by a lien on the property involved, which lien shall be subordinate to the first mortgage on the property.
 
-([Pub. L. 101–625, title II, § 258][/us/pl/101/625/s258], Nov. 28, 1990, [104 Stat. 4123][/us/stat/104/4123].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 258, Nov. 28, 1990, [104 Stat. 4123][/us/stat/104/4123].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs258
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4123
 
 

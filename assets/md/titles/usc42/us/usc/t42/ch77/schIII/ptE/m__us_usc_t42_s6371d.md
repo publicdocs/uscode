@@ -43,13 +43,13 @@
 
         Whenever the Secretary, after reasonable notice and opportunity for hearing to any State, school, or hospital receiving assistance under this part, finds that there has been a failure to comply substantially with the provisions set forth in the application approved under this section, the Secretary shall notify the State, school, or hospital that further assistance will not be made available to such State, school or hospital under this part until he is satisfied that there is no longer any such failure to comply. Until he is so satisfied no further assistance shall be made to such State, school, or hospital under this part.
 
-([Pub. L. 94–163, title III, § 395][/us/pl/94/163/s395], as added [Pub. L. 95–619, title III, § 302(a)][/us/pl/95/619/s302/a], Nov. 9, 1978, [92 Stat. 3244][/us/stat/92/3244].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 395, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(a), Nov. 9, 1978, [92 Stat. 3244][/us/stat/92/3244].)
 
  __References in Text__ 
 
-    Sections 300m–2 and 300m–3 of this title, referred to in subsec. (c)(2)(B), were repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
+    Sections 300m–2 and 300m–3 of this title, referred to in subsec. (c)(2)(B), were repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII][/us/pl/99/660/tVII], § 701(a), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
 
-    Section 300o–2 of this title, referred to in subsec. (c)(2)(B), was repealed by [Pub. L. 96–79, title II, § 202(a)][/us/pl/96/79/s202/a], Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].
+    Section 300o–2 of this title, referred to in subsec. (c)(2)(B), was repealed by [Pub. L. 96–79, title II][/us/pl/96/79/tII], § 202(a), Oct. 4, 1979, [93 Stat. 632][/us/stat/93/632].
 
 ----------
 
@@ -60,12 +60,12 @@
 
 [/us/usc/t42/s1320a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%931
 [/us/usc/t42/s6371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371c
-[/us/pl/94/163/s395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs395
-[/us/pl/95/619/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3244
-[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/pl/99/660/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
-[/us/pl/96/79/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs202%2Fa
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F632
 
 

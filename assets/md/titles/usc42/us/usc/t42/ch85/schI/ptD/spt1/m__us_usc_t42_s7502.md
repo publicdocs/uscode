@@ -95,19 +95,19 @@
 
         If the Administrator relaxes a national primary ambient air quality standard after November 15, 1990, the Administrator shall, within 12 months after the relaxation, promulgate requirements applicable to all areas which have not attained that standard as of the date of such relaxation. Such requirements shall provide for controls which are not less stringent than the controls applicable to areas designated nonattainment before such relaxation.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 172, as added [Pub. L. 95–95, title I, § 129(b)][/us/pl/95/95/s129/b], Aug. 7, 1977, [91 Stat. 746][/us/stat/91/746]; amended [Pub. L. 95–190, § 14(a)(55)][/us/pl/95/190/s14/a/55], (56), Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402]; [Pub. L. 101–549, title I, § 102(b)][/us/pl/101/549/s102/b], Nov. 15, 1990, [104 Stat. 2412][/us/stat/104/2412].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 172, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 129(b), Aug. 7, 1977, [91 Stat. 746][/us/stat/91/746]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(55), (56), Nov. 16, 1977, [91 Stat. 1402][/us/stat/91/1402]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 102(b), Nov. 15, 1990, [104 Stat. 2412][/us/stat/104/2412].)
 
  __Amendments__ 
 
     1990—[Pub. L. 101–549][/us/pl/101/549] amended section generally, substituting present provisions for provisions which related to: in subsec. (a), expeditious attainment of national ambient air quality standards; in subsec. (b), requisite provisions of plan; and in subsec. (c), attainment of applicable standard not later than July 1, 1987.
 
-    1977—Subsec. (b)(4). [Pub. L. 95–190, § 14(a)(55)][/us/pl/95/190/s14/a/55], substituted “subsection (a) of this section” for “paragraph (1)”.
+    1977—Subsec. (b)(4). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(55), substituted “subsection (a) of this section” for “paragraph (1)”.
 
-    Subsec. (c). [Pub. L. 95–190, § 14(a)(56)][/us/pl/95/190/s14/a/56], substituted “December 31” for “July 1”.
+    Subsec. (c). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(56), substituted “December 31” for “July 1”.
 
  __Nonattainment Areas__ 
 
-[Pub. L. 95–95, title I, § 129(a)][/us/pl/95/95/s129/a], Aug. 7, 1977, [91 Stat. 745][/us/stat/91/745], as amended by [Pub. L. 95–190, § 14(b)(2)][/us/pl/95/190/s14/b/2], (3), Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404], provided that:
+[Pub. L. 95–95, title I][/us/pl/95/95/tI], § 129(a), Aug. 7, 1977, [91 Stat. 745][/us/stat/91/745], as amended by [Pub. L. 95–190][/us/pl/95/190], § 14(b)(2), (3), Nov. 16, 1977, [91 Stat. 1404][/us/stat/91/1404], provided that:
 
 >     “(1) Before July 1, 1979, the interpretative regulation of the Administrator of the Environmental Protection Agency published in 41 Federal Register 55524–30, December 21, 1976, as may be modified by rule of the Administrator, shall apply except that the baseline to be used for determination of appropriate emission offsets under such regulation shall be the applicable implementation plan of the State in effect at the time of application for a permit by a proposed major stationary source (within the meaning of section 302 of the Clean Air Act) \[[section 7602 of this title][/us/usc/t42/s7602]\].
 
@@ -133,7 +133,7 @@
 
  __State Implementation Plan Revision__ 
 
-[Pub. L. 95–95, title I, § 129(c)][/us/pl/95/95/s129/c], Aug. 7, 1977, [91 Stat. 750][/us/stat/91/750], as amended by [Pub. L. 95–190, § 14(b)(4)][/us/pl/95/190/s14/b/4], Nov. 16, 1977, [91 Stat. 1405][/us/stat/91/1405], provided that: 
+[Pub. L. 95–95, title I][/us/pl/95/95/tI], § 129(c), Aug. 7, 1977, [91 Stat. 750][/us/stat/91/750], as amended by [Pub. L. 95–190][/us/pl/95/190], § 14(b)(4), Nov. 16, 1977, [91 Stat. 1405][/us/stat/91/1405], provided that: 
 
 > “Notwithstanding the requirements of section 406(d)(2) \[set out as an Effective Date of 1977 Amendment note under [section 7401 of this title][/us/usc/t42/s7401]\] (relating to date required for submission of certain implementation plan revisions), for purposes of section 110(a)(2) of the Clean Air Act \[[section 7410(a)(2) of this title][/us/usc/t42/s7410/a/2]\] each State in which there is any nonattainment area (as defined in part D of title I of the Clean Air Act) \[this part\] shall adopt and submit an implementation plan revision which meets the requirements of section 110(a)(2)(I) \[[section 7410(a)(2)(I) of this title][/us/usc/t42/s7410/a/2/I]\] and part D of title I of the Clean Air Act \[this part\] not later than January 1, 1979. In the case of any State for which a plan revision adopted and submitted before such date has made the demonstration required under section 172(a)(2) of the Clean Air Act \[subsec. (a)(2) of this section\] (respecting impossibility of attainment before 1983), such State shall adopt and submit to the Administrator a plan revision before July 1, 1982, which meets the requirements of section 172(b) and (c) of such Act \[subsecs. (b) and (c) of this section\].”
 
@@ -158,25 +158,25 @@
 [/us/usc/t42/s7410/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fk%2F5
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs129%2Fb
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F746
-[/us/pl/95/190/s14/a/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F55
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1402
-[/us/pl/101/549/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs102%2Fb
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2412
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
-[/us/pl/95/190/s14/a/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F55
-[/us/pl/95/190/s14/a/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F56
-[/us/pl/95/95/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs129%2Fa
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F745
-[/us/pl/95/190/s14/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fb%2F2
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1404
 [/us/usc/t42/s7602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7602
 [/us/usc/t42/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501
 [/us/usc/t42/s7503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7503
-[/us/pl/95/95/s129/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs129%2Fc
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F750
-[/us/pl/95/190/s14/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fb%2F4
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1405
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7410/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410%2Fa%2F2

@@ -161,13 +161,13 @@
 
         In the case of any emission limitation or other requirement approved or promulgated by the Administrator under this chapter after August 7, 1977, which is more stringent than the emission limitation or requirement for the source in effect prior to such approval or promulgation, if any, or where there was no emission limitation or requirement approved or promulgated before August 7, 1977, the date for imposition of the non-compliance penalty under this section, shall be either July 1, 1979, or the date on which the source is required to be in full compliance with such emission limitation or requirement, whichever is later, but in no event later than three years after the approval or promulgation of such emission limitation or requirement.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 120, as added [Pub. L. 95–95, title I, § 118][/us/pl/95/95/s118], Aug. 7, 1977, [91 Stat. 714][/us/stat/91/714]; amended [Pub. L. 95–190, § 14(a)(28)][/us/pl/95/190/s14/a/28]–(38), Nov. 16, 1977, [91 Stat. 1401][/us/stat/91/1401]; [Pub. L. 101–549, title VII, § 710(a)][/us/pl/101/549/s710/a], Nov. 15, 1990, [104 Stat. 2684][/us/stat/104/2684].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 120, as added [Pub. L. 95–95, title I][/us/pl/95/95/tI], § 118, Aug. 7, 1977, [91 Stat. 714][/us/stat/91/714]; amended [Pub. L. 95–190][/us/pl/95/190], § 14(a)(28)–(38), Nov. 16, 1977, [91 Stat. 1401][/us/stat/91/1401]; [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 710(a), Nov. 15, 1990, [104 Stat. 2684][/us/stat/104/2684].)
 
  __References in Text__ 
 
-    [Section 7413(d) of this title][/us/usc/t42/s7413/d], referred to in subsec. (a)(2)(B), was amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders.
+    [Section 7413(d) of this title][/us/usc/t42/s7413/d], referred to in subsec. (a)(2)(B), was amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders.
 
-    [Section 1857c–10 of this title][/us/usc/t42/s1857c–10] (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(i), was in the original “section 119 (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977)”, meaning section 119 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, as added June 22, 1974, [Pub. L. 93–319, § 3][/us/pl/93/319/s3], [88 Stat. 248][/us/stat/88/248], (which was classified to [section 1857c–10 of this title][/us/usc/t42/s1857c–10]) as in effect prior to the enactment of [Pub. L. 95–95][/us/pl/95/95], Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691], effective Aug. 7, 1977. [Section 112(b)(1) of Pub. L. 95–95][/us/pl/95/95/s112/b/1] repealed section 119 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, as added by [Pub. L. 93–319][/us/pl/93/319], and provided that all references to such section 119 in any subsequent enactment which supersedes [Pub. L. 93–319][/us/pl/93/319] shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to subsec. (d)(5) of [section 7413 of this title][/us/usc/t42/s7413]. [Section 7413(d) of this title][/us/usc/t42/s7413/d] was subsequently amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders. [Section 117(b) of Pub. L. 95–95][/us/pl/95/95/s117/b] added a new section 119 of act July 14, 1955, which is classified to [section 7419 of this title][/us/usc/t42/s7419].
+    [Section 1857c–10 of this title][/us/usc/t42/s1857c–10] (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(i), was in the original “section 119 (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977)”, meaning section 119 of [act July 14, 1955, ch. 360, title I][/us/act/1955-07-14/ch360/tI], as added June 22, 1974, [Pub. L. 93–319][/us/pl/93/319], § 3, [88 Stat. 248][/us/stat/88/248], (which was classified to [section 1857c–10 of this title][/us/usc/t42/s1857c–10]) as in effect prior to the enactment of [Pub. L. 95–95][/us/pl/95/95], Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691], effective Aug. 7, 1977. [Section 112(b)(1) of Pub. L. 95–95][/us/pl/95/95/s112/b/1] repealed section 119 of [act July 14, 1955, ch. 360, title I][/us/act/1955-07-14/ch360/tI], as added by [Pub. L. 93–319][/us/pl/93/319], and provided that all references to such section 119 in any subsequent enactment which supersedes [Pub. L. 93–319][/us/pl/93/319] shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to subsec. (d)(5) of [section 7413 of this title][/us/usc/t42/s7413]. [Section 7413(d) of this title][/us/usc/t42/s7413/d] was subsequently amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, no longer relates to final compliance orders. [Section 117(b) of Pub. L. 95–95][/us/pl/95/95/s117/b] added a new section 119 of act July 14, 1955, which is classified to [section 7419 of this title][/us/usc/t42/s7419].
 
     [Section 1857c–10(c)(1) of this title][/us/usc/t42/s1857c–10/c/1] (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(ii), was in the original “section 119(c)(1) (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977).” See paragraph set out above for explanation of codification.
 
@@ -175,19 +175,19 @@
 
     1990—Subsec. (a)(2)(A). [Pub. L. 101–549][/us/pl/101/549] inserted reference to sections 7477 and 7603 of this title in cl. (ii), added cl. (iii), and redesignated former cl. (iii) as (iv) and inserted reference to cl. (iii).
 
-    1977—Subsec. (a)(2)(A). [Pub. L. 95–190, § 14(a)(28)][/us/pl/95/190/s14/a/28], (29), in cls. (i) and (iii) inserted provisions relating to consent decrees wherever appearing.
+    1977—Subsec. (a)(2)(A). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(28), (29), in cls. (i) and (iii) inserted provisions relating to consent decrees wherever appearing.
 
-    Subsec. (a)(2)(B). [Pub. L. 95–190, § 14(a)(30)][/us/pl/95/190/s14/a/30], (31), in cl. (i) inserted reference to [section 7413(d)(5) of this title][/us/usc/t42/s7413/d/5], and in cls. (i) and (ii) inserted provision relating to orders in effect under [section 1857c–10 of this title][/us/usc/t42/s1857c–10] before Aug. 7, 1977, wherever appearing.
+    Subsec. (a)(2)(B). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(30), (31), in cl. (i) inserted reference to [section 7413(d)(5) of this title][/us/usc/t42/s7413/d/5], and in cls. (i) and (ii) inserted provision relating to orders in effect under [section 1857c–10 of this title][/us/usc/t42/s1857c–10] before Aug. 7, 1977, wherever appearing.
 
-    Subsec. (b). [Pub. L. 95–190, § 14(a)(34)][/us/pl/95/190/s14/a/34]–(36), in closing provisions inserted provisions relating to notice to the Administrator when a noncompliance penalty is established by a State, and substituted references to noncompliance for references to delayed compliance in two places, “source” for “facility”, and “receipt of notice of the State penalty assessment” for “publication of the proposed penalty”.
+    Subsec. (b). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(34)–(36), in closing provisions inserted provisions relating to notice to the Administrator when a noncompliance penalty is established by a State, and substituted references to noncompliance for references to delayed compliance in two places, “source” for “facility”, and “receipt of notice of the State penalty assessment” for “publication of the proposed penalty”.
 
-    Subsec. (b)(2)(A). [Pub. L. 95–190, § 14(a)(33)][/us/pl/95/190/s14/a/33], substituted “(a)(1)(B)(i)” for “(e)”.
+    Subsec. (b)(2)(A). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(33), substituted “(a)(1)(B)(i)” for “(e)”.
 
-    Subsec. (b)(8). [Pub. L. 95–190, § 14(a)(32)][/us/pl/95/190/s14/a/32], substituted “(4)” for “(6)”.
+    Subsec. (b)(8). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(32), substituted “(4)” for “(6)”.
 
-    Subsec. (d)(2)(A). [Pub. L. 95–190, § 14(a)(37)][/us/pl/95/190/s14/a/37], inserted provisions relating to inclusion of the economic value of a delay in compliance, and substituted “such a delay” for “a delay in compliance beyond July 1, 1979,”.
+    Subsec. (d)(2)(A). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(37), inserted provisions relating to inclusion of the economic value of a delay in compliance, and substituted “such a delay” for “a delay in compliance beyond July 1, 1979,”.
 
-    Subsec. (e). [Pub. L. 95–190, § 14(a)(38)][/us/pl/95/190/s14/a/38], substituted “subsection, shall” for “subsection shall”.
+    Subsec. (e). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(38), substituted “subsection, shall” for “subsection shall”.
 
  __Effective Date__ 
 
@@ -205,43 +205,43 @@
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
 [/us/usc/t42/s7607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7607
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/95/95/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs118
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F714
-[/us/pl/95/190/s14/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F28
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1401
-[/us/pl/101/549/s710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs710%2Fa
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2684
 [/us/usc/t42/s7413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/93/319/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs3
+[/us/act/1955-07-14/ch360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtI
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F248
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/stat/91/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F691
 [/us/pl/95/95/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs112%2Fb%2F1
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
+[/us/act/1955-07-14/ch360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtI
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
 [/us/usc/t42/s7413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
 [/us/pl/95/95/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs117%2Fb
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
 [/us/usc/t42/s1857c–10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310%2Fc%2F1
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
-[/us/pl/95/190/s14/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F28
-[/us/pl/95/190/s14/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F30
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/usc/t42/s7413/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd%2F5
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
-[/us/pl/95/190/s14/a/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F34
-[/us/pl/95/190/s14/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F33
-[/us/pl/95/190/s14/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F32
-[/us/pl/95/190/s14/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F37
-[/us/pl/95/190/s14/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F38
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 

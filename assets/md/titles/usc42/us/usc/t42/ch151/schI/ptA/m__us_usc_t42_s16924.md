@@ -27,7 +27,7 @@
 
         The Attorney General may authorize up to two 1-year extensions of the deadline.
 
-([Pub. L. 109–248, title I, § 124][/us/pl/109/248/s124], July 27, 2006, [120 Stat. 598][/us/stat/120/598].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 124, July 27, 2006, [120 Stat. 598][/us/stat/120/598].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t42/s16923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16923
-[/us/pl/109/248/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs124
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F598
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590

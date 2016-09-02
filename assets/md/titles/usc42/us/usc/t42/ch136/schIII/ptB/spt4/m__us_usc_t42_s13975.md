@@ -175,57 +175,57 @@
 
                 (iv) does not propose prohibited activities, including mandatory services for victims.
 
-([Pub. L. 103–322, title IV, § 40299][/us/pl/103/322/s40299], as added [Pub. L. 108–21, title VI, § 611][/us/pl/108/21/s611], Apr. 30, 2003, [117 Stat. 693][/us/stat/117/693]; amended [Pub. L. 109–162, § 3(b)(4)][/us/pl/109/162/s3/b/4], title VI, § 602(a), title IX, § 906(e), formerly § 906(f), title XI, § 1135(e), Jan. 5, 2006, [119 Stat. 2971][/us/stat/119/2971], 3038, 3081, 3109, renumbered § 906(e), [Pub. L. 109–271, § 7(b)(2)(B)][/us/pl/109/271/s7/b/2/B], Aug. 12, 2006, [120 Stat. 764][/us/stat/120/764]; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), 7(c)(1), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 764–766; [Pub. L. 113–4, title VI, § 602(2)][/us/pl/113/4/s602/2], Mar. 7, 2013, [127 Stat. 109][/us/stat/127/109].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40299, as added [Pub. L. 108–21, title VI][/us/pl/108/21/tVI], § 611, Apr. 30, 2003, [117 Stat. 693][/us/stat/117/693]; amended [Pub. L. 109–162][/us/pl/109/162], § 3(b)(4), title VI, § 602(a), title IX, § 906(e), formerly § 906(f), title XI, § 1135(e), Jan. 5, 2006, [119 Stat. 2971][/us/stat/119/2971], 3038, 3081, 3109, renumbered § 906(e), [Pub. L. 109–271][/us/pl/109/271], § 7(b)(2)(B), Aug. 12, 2006, [120 Stat. 764][/us/stat/120/764]; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), 7(c)(1), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 764–766; [Pub. L. 113–4, title VI][/us/pl/113/4/tVI], § 602(2), Mar. 7, 2013, [127 Stat. 109][/us/stat/127/109].)
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–4, § 602(2)(A)][/us/pl/113/4/s602/2/A], substituted “victims of domestic violence, dating violence, sexual assault, or stalking” for “child victims of domestic violence, stalking, or sexual assault” in section catchline.
+    2013—[Pub. L. 113–4][/us/pl/113/4], § 602(2)(A), substituted “victims of domestic violence, dating violence, sexual assault, or stalking” for “child victims of domestic violence, stalking, or sexual assault” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 113–4, § 602(2)(B)][/us/pl/113/4/s602/2/B], struck out “fleeing” before “a situation”.
+    Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4], § 602(2)(B), struck out “fleeing” before “a situation”.
 
-    Subsec. (b)(3). [Pub. L. 113–4, § 602(2)(C)][/us/pl/113/4/s602/2/C], added subpar. (B), redesignated former subpar. (B) as (C), and, in subpar. (C), struck out “employment counseling,” after “case management,”.
+    Subsec. (b)(3). [Pub. L. 113–4][/us/pl/113/4], § 602(2)(C), added subpar. (B), redesignated former subpar. (B) as (C), and, in subpar. (C), struck out “employment counseling,” after “case management,”.
 
-    Subsec. (g)(1). [Pub. L. 113–4, § 602(2)(D)(i)][/us/pl/113/4/s602/2/D/i], which directed substitution of “$35,000,000 for each of fiscal years 2014 through 2018” for “$40,000,000 for each of fiscal years 2007 through 2011”, was executed by making the substitution for “$40,000,000 for each of the fiscal years 2007 through 2011” to reflect the probable intent of Congress.
+    Subsec. (g)(1). [Pub. L. 113–4][/us/pl/113/4], § 602(2)(D)(i), which directed substitution of “$35,000,000 for each of fiscal years 2014 through 2018” for “$40,000,000 for each of fiscal years 2007 through 2011”, was executed by making the substitution for “$40,000,000 for each of the fiscal years 2007 through 2011” to reflect the probable intent of Congress.
 
-    Subsec. (g)(3)(A). [Pub. L. 113–4, § 602(2)(D)(ii)(I)][/us/pl/113/4/s602/2/D/ii/I], substituted “qualified” for “eligible”.
+    Subsec. (g)(3)(A). [Pub. L. 113–4][/us/pl/113/4], § 602(2)(D)(ii)(I), substituted “qualified” for “eligible”.
 
-    Subsec. (g)(3)(D). [Pub. L. 113–4, § 602(2)(D)(ii)(II)][/us/pl/113/4/s602/2/D/ii/II], added subpar. (D).
+    Subsec. (g)(3)(D). [Pub. L. 113–4][/us/pl/113/4], § 602(2)(D)(ii)(II), added subpar. (D).
 
-    2006—Subsec. (a). [Pub. L. 109–162, § 602(a)(1)(A)][/us/pl/109/162/s602/a/1/A], (B), in introductory provisions, inserted “the Department of Housing and Urban Development, and the Department of Health and Human Services,” after “Department of Justice,” and “, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking” after “other organizations”.
+    2006—Subsec. (a). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(1)(A), (B), in introductory provisions, inserted “the Department of Housing and Urban Development, and the Department of Health and Human Services,” after “Department of Justice,” and “, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking” after “other organizations”.
 
-    Subsec. (a)(1). [Pub. L. 109–162, § 602(a)(1)(C)][/us/pl/109/162/s602/a/1/C], inserted “, dating violence, sexual assault, or stalking” after “domestic violence”.
+    Subsec. (a)(1). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(1)(C), inserted “, dating violence, sexual assault, or stalking” after “domestic violence”.
 
-    Subsec. (b)(1). [Pub. L. 109–162, § 602(a)(2)(C)][/us/pl/109/162/s602/a/2/C], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (b)(1). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(2)(C), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (b)(2). [Pub. L. 109–162, § 602(a)(2)(A)][/us/pl/109/162/s602/a/2/A], redesignated par. (1) as (2). Former par. (2) redesignated (3).
+    Subsec. (b)(2). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(2)(A), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-    Subsec. (b)(3). [Pub. L. 109–162, § 602(a)(2)(A)][/us/pl/109/162/s602/a/2/A], (B), redesignated par. (2) as (3) and inserted “, dating violence, sexual assault, or stalking” after “violence” in introductory provisions.
+    Subsec. (b)(3). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(2)(A), (B), redesignated par. (2) as (3) and inserted “, dating violence, sexual assault, or stalking” after “violence” in introductory provisions.
 
-    Subsec. (b)(3)(B). [Pub. L. 109–162, § 602(a)(2)(D)][/us/pl/109/162/s602/a/2/D], inserted “Participation in the support services shall be voluntary. Receipt of the benefits of the housing assistance described in paragraph (2) shall not be conditioned upon the participation of the youth, adults, or their dependents in any or all of the support services offered them.” at end.
+    Subsec. (b)(3)(B). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(2)(D), inserted “Participation in the support services shall be voluntary. Receipt of the benefits of the housing assistance described in paragraph (2) shall not be conditioned upon the participation of the youth, adults, or their dependents in any or all of the support services offered them.” at end.
 
-    Subsec. (c)(1). [Pub. L. 109–162, § 602(a)(3)][/us/pl/109/162/s602/a/3], substituted “24 months” for “18 months”.
+    Subsec. (c)(1). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(3), substituted “24 months” for “18 months”.
 
-    Subsec. (d)(2)(B), (C). [Pub. L. 109–162, § 602(a)(4)][/us/pl/109/162/s602/a/4], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (d)(2)(B), (C). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(4), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (e)(2)(A). [Pub. L. 109–162, § 602(a)(5)(A)][/us/pl/109/162/s602/a/5/A], inserted “purpose and” before “amount”.
+    Subsec. (e)(2)(A). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(5)(A), inserted “purpose and” before “amount”.
 
-    Subsec. (e)(2)(E). [Pub. L. 109–162, § 602(a)(5)(B)][/us/pl/109/162/s602/a/5/B]–(D), added subpar. (E).
+    Subsec. (e)(2)(E). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(5)(B)–(D), added subpar. (E).
 
-    Subsec. (f)(1). [Pub. L. 109–162, § 1135(e)][/us/pl/109/162/s1135/e], which directed an amendment substantially identical to that made by [Pub. L. 109–162, § 3(b)(4)][/us/pl/109/162/s3/b/4], was repealed by [Pub. L. 109–271][/us/pl/109/271], §§ 2(d) and 8(b).
+    Subsec. (f)(1). [Pub. L. 109–162][/us/pl/109/162], § 1135(e), which directed an amendment substantially identical to that made by [Pub. L. 109–162][/us/pl/109/162], § 3(b)(4), was repealed by [Pub. L. 109–271][/us/pl/109/271], §§ 2(d) and 8(b).
 
-    [Pub. L. 109–162, § 3(b)(4)][/us/pl/109/162/s3/b/4], substituted “shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the report submitted under subsection (e) of this section not later than 1 month after the end of each even-numbered fiscal year.” for “shall annually prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the report submitted under subsection (e) of this section.”
+    [Pub. L. 109–162][/us/pl/109/162], § 3(b)(4), substituted “shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the report submitted under subsection (e) of this section not later than 1 month after the end of each even-numbered fiscal year.” for “shall annually prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the report submitted under subsection (e) of this section.”
 
-    Subsec. (g)(1). [Pub. L. 109–162, § 602(a)(6)(A)][/us/pl/109/162/s602/a/6/A]–(C), substituted “$40,000,000” for “$30,000,000”, “2007” for “2004”, and “2011” for “2008”.
+    Subsec. (g)(1). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(6)(A)–(C), substituted “$40,000,000” for “$30,000,000”, “2007” for “2004”, and “2011” for “2008”.
 
-    Subsec. (g)(2). [Pub. L. 109–162, § 602(a)(6)(D)][/us/pl/109/162/s602/a/6/D], (E), substituted “up to 5 percent” for “not more than 3 percent” and inserted “evaluation, monitoring, technical assistance,” before “salaries”.
+    Subsec. (g)(2). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(6)(D), (E), substituted “up to 5 percent” for “not more than 3 percent” and inserted “evaluation, monitoring, technical assistance,” before “salaries”.
 
-    Subsec. (g)(3)(C). [Pub. L. 109–162, § 602(a)(6)(F)][/us/pl/109/162/s602/a/6/F], added subpar. (C).
+    Subsec. (g)(3)(C). [Pub. L. 109–162][/us/pl/109/162], § 602(a)(6)(F), added subpar. (C).
 
-    Subsec. (g)(3)(C)(i). [Pub. L. 109–271, § 7(c)(1)(A)][/us/pl/109/271/s7/c/1/A], added cl. (i) and struck out former cl. (i) which read as follows: “A minimum of 7 percent of the total amount appropriated in any fiscal year shall be allocated to tribal organizations serving adult and youth victims of domestic violence, dating violence, sexual assault, or stalking, and their dependents.”
+    Subsec. (g)(3)(C)(i). [Pub. L. 109–271][/us/pl/109/271], § 7(c)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “A minimum of 7 percent of the total amount appropriated in any fiscal year shall be allocated to tribal organizations serving adult and youth victims of domestic violence, dating violence, sexual assault, or stalking, and their dependents.”
 
-    Subsec. (g)(4). [Pub. L. 109–271, § 7(c)(1)(B)][/us/pl/109/271/s7/c/1/B], struck out par. (4) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in [section 3796gg–10 of this title][/us/usc/t42/s3796gg–10]. The requirements of this paragraph shall not apply to funds allocated for such program.”
+    Subsec. (g)(4). [Pub. L. 109–271][/us/pl/109/271], § 7(c)(1)(B), struck out par. (4) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in [section 3796gg–10 of this title][/us/usc/t42/s3796gg–10]. The requirements of this paragraph shall not apply to funds allocated for such program.”
 
-    [Pub. L. 109–162, § 906(e)][/us/pl/109/162/s906/e], formerly § 906(f), as renumbered by [Pub. L. 109–271, § 7(b)(2)(B)][/us/pl/109/271/s7/b/2/B], added par. (4).
+    [Pub. L. 109–162][/us/pl/109/162], § 906(e), formerly § 906(f), as renumbered by [Pub. L. 109–271][/us/pl/109/271], § 7(b)(2)(B), added par. (4).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -247,45 +247,45 @@
 ----------
 
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
-[/us/pl/103/322/s40299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40299
-[/us/pl/108/21/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs611
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
+[/us/pl/108/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtVI
 [/us/stat/117/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F693
-[/us/pl/109/162/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs3%2Fb%2F4
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/stat/119/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2971
-[/us/pl/109/271/s7/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fb%2F2%2FB
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F764
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F752
-[/us/pl/113/4/s602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2
+[/us/pl/113/4/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtVI
 [/us/stat/127/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F109
-[/us/pl/113/4/s602/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2%2FA
-[/us/pl/113/4/s602/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2%2FB
-[/us/pl/113/4/s602/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2%2FC
-[/us/pl/113/4/s602/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2%2FD%2Fi
-[/us/pl/113/4/s602/2/D/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2%2FD%2Fii%2FI
-[/us/pl/113/4/s602/2/D/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs602%2F2%2FD%2Fii%2FII
-[/us/pl/109/162/s602/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F1%2FA
-[/us/pl/109/162/s602/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F1%2FC
-[/us/pl/109/162/s602/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F2%2FC
-[/us/pl/109/162/s602/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F2%2FA
-[/us/pl/109/162/s602/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F2%2FA
-[/us/pl/109/162/s602/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F2%2FD
-[/us/pl/109/162/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F3
-[/us/pl/109/162/s602/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F4
-[/us/pl/109/162/s602/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F5%2FA
-[/us/pl/109/162/s602/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F5%2FB
-[/us/pl/109/162/s1135/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1135%2Fe
-[/us/pl/109/162/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs3%2Fb%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs3%2Fb%2F4
-[/us/pl/109/162/s602/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F6%2FA
-[/us/pl/109/162/s602/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F6%2FD
-[/us/pl/109/162/s602/a/6/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs602%2Fa%2F6%2FF
-[/us/pl/109/271/s7/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fc%2F1%2FA
-[/us/pl/109/271/s7/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fc%2F1%2FB
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
-[/us/pl/109/162/s906/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs906%2Fe
-[/us/pl/109/271/s7/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fb%2F2%2FB
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261

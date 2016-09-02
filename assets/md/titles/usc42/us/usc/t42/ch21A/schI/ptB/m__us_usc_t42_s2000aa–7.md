@@ -29,7 +29,7 @@
 
     (c) “Any other governmental unit”, as used in this chapter, includes the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and any local government, unit of local government, or any unit of State government.
 
-([Pub. L. 96–440, title I, § 107][/us/pl/96/440/s107], Oct. 13, 1980, [94 Stat. 1881][/us/stat/94/1881].)
+([Pub. L. 96–440, title I][/us/pl/96/440/tI], § 107, Oct. 13, 1980, [94 Stat. 1881][/us/stat/94/1881].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/440/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2Fs107
+[/us/pl/96/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F440%2FtI
 [/us/stat/94/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1881
 
 

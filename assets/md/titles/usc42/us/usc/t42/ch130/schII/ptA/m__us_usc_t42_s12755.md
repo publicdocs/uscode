@@ -39,7 +39,7 @@
 
         (4) provide for (A) the selection of tenants from a written waiting list in the chronological order of their application, insofar as is practicable, and (B) for  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “for” probably should not appear. </sup></sup>  the prompt notification in writing of any rejected applicant of the grounds for any rejection.
 
-([Pub. L. 101–625, title II, § 225][/us/pl/101/625/s225], Nov. 28, 1990, [104 Stat. 4113][/us/stat/104/4113]; [Pub. L. 114–113, div. L, title II, § 235][/us/pl/114/113/s235], Dec. 18, 2015, [129 Stat. 2896][/us/stat/129/2896].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 225, Nov. 28, 1990, [104 Stat. 4113][/us/stat/104/4113]; [Pub. L. 114–113, div. L, title II][/us/pl/114/113/dL/tII], § 235, Dec. 18, 2015, [129 Stat. 2896][/us/stat/129/2896].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t42/s1437d/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d%2Fc%2F4%2FA
-[/us/pl/101/625/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs225
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4113
-[/us/pl/114/113/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs235
+[/us/pl/114/113/dL/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdL%2FtII
 [/us/stat/129/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2896
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 

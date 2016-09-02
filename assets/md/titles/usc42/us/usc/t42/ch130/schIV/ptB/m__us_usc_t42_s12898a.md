@@ -151,7 +151,7 @@
 
         There are authorized to be appropriated to carry out this section $30,000,000 in each of fiscal years 1993 and 1994.
 
-([Pub. L. 102–550, title I, § 186][/us/pl/102/550/s186], Oct. 28, 1992, [106 Stat. 3748][/us/stat/106/3748].)
+([Pub. L. 102–550, title I][/us/pl/102/550/tI], § 186, Oct. 28, 1992, [106 Stat. 3748][/us/stat/106/3748].)
 
  __Codification__ 
 
@@ -169,7 +169,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/550/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs186
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3748
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

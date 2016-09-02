@@ -73,11 +73,11 @@
 
         (3) Violation of this subsection is punishable by a fine of not more than $10,000, imprisonment for not more than 5 years, or both.
 
-([May 10, 1950, ch. 171, § 14][/us/act/1950-05-10/ch171/s14], [64 Stat. 154][/us/stat/64/154]; renumbered § 15, [Pub. L. 85–510, § 2][/us/pl/85/510/s2], July 11, 1958, [72 Stat. 353][/us/stat/72/353]; amended [Pub. L. 86–232, § 8][/us/pl/86/232/s8], Sept. 8, 1959, [73 Stat. 469][/us/stat/73/469]; renumbered § 14 and amended [Pub. L. 90–407][/us/pl/90/407], §§ 11(2), 12, July 18, 1968, [82 Stat. 365][/us/stat/82/365], 366; [Pub. L. 91–120, § 3][/us/pl/91/120/s3], Nov. 18, 1969, [83 Stat. 203][/us/stat/83/203]; [Pub. L. 95–99, § 12(c)][/us/pl/95/99/s12/c], formerly § 14(c), Aug. 15, 1977, [91 Stat. 835][/us/stat/91/835], renumbered § 12(c), [Pub. L. 99–159, title I, § 109(h)][/us/pl/99/159/s109/h], Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 99–159, title I][/us/pl/99/159], §§ 109(e)(1), 110(a)(18), Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889], 891; [Pub. L. 100–570, title I][/us/pl/100/570], §§ 106, 107, Oct. 31, 1988, [102 Stat. 2868][/us/stat/102/2868], 2869; [Pub. L. 101–589, title II, § 251][/us/pl/101/589/s251], Nov. 16, 1990, [104 Stat. 2894][/us/stat/104/2894]; [Pub. L. 102–139, title III][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 774][/us/stat/105/774]; [Pub. L. 104–66, title II, § 2141(b)][/us/pl/104/66/s2141/b], Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731]; [Pub. L. 105–207, title II, § 202(a)(3)][/us/pl/105/207/s202/a/3], July 29, 1998, [112 Stat. 873][/us/stat/112/873]; [Pub. L. 107–368, § 15(b)][/us/pl/107/368/s15/b], Dec. 19, 2002, [116 Stat. 3058][/us/stat/116/3058].)
+([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 14, [64 Stat. 154][/us/stat/64/154]; renumbered § 15, [Pub. L. 85–510][/us/pl/85/510], § 2, July 11, 1958, [72 Stat. 353][/us/stat/72/353]; amended [Pub. L. 86–232][/us/pl/86/232], § 8, Sept. 8, 1959, [73 Stat. 469][/us/stat/73/469]; renumbered § 14 and amended [Pub. L. 90–407][/us/pl/90/407], §§ 11(2), 12, July 18, 1968, [82 Stat. 365][/us/stat/82/365], 366; [Pub. L. 91–120][/us/pl/91/120], § 3, Nov. 18, 1969, [83 Stat. 203][/us/stat/83/203]; [Pub. L. 95–99][/us/pl/95/99], § 12(c), formerly § 14(c), Aug. 15, 1977, [91 Stat. 835][/us/stat/91/835], renumbered § 12(c), [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 109(h), Nov. 22, 1985, [99 Stat. 890][/us/stat/99/890]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], §§ 109(e)(1), 110(a)(18), Nov. 22, 1985, [99 Stat. 889][/us/stat/99/889], 891; [Pub. L. 100–570, title I][/us/pl/100/570/tI], §§ 106, 107, Oct. 31, 1988, [102 Stat. 2868][/us/stat/102/2868], 2869; [Pub. L. 101–589, title II][/us/pl/101/589/tII], § 251, Nov. 16, 1990, [104 Stat. 2894][/us/stat/104/2894]; [Pub. L. 102–139, title III][/us/pl/102/139/tIII], Oct. 28, 1991, [105 Stat. 774][/us/stat/105/774]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2141(b), Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731]; [Pub. L. 105–207, title II][/us/pl/105/207/tII], § 202(a)(3), July 29, 1998, [112 Stat. 873][/us/stat/112/873]; [Pub. L. 107–368][/us/pl/107/368], § 15(b), Dec. 19, 2002, [116 Stat. 3058][/us/stat/116/3058].)
 
  __References of Text__ 
 
-    [Section 1863(h) of this title][/us/usc/t42/s1863/h], referred to in subsec. (a), was redesignated [section 1863(g) of this title][/us/usc/t42/s1863/g] by [Pub. L. 94–282, title V, § 503][/us/pl/94/282/s503], May 11, 1976, [90 Stat. 473][/us/stat/90/473].
+    [Section 1863(h) of this title][/us/usc/t42/s1863/h], referred to in subsec. (a), was redesignated [section 1863(g) of this title][/us/usc/t42/s1863/g] by [Pub. L. 94–282, title V][/us/pl/94/282/tV], § 503, May 11, 1976, [90 Stat. 473][/us/stat/90/473].
 
     The General Schedule, referred to in subsec. (a)(1), is set out under [section 5332 of Title 5][/us/usc/t5/s5332].
 
@@ -93,41 +93,41 @@
 
     1990—Subsec. (f). [Pub. L. 101–589][/us/pl/101/589] inserted “or education” after “research”.
 
-    1988—Subsec. (a). [Pub. L. 100–570, § 106][/us/pl/100/570/s106], designated existing provisions as par. (1) and added pars. (2) and (3).
+    1988—Subsec. (a). [Pub. L. 100–570][/us/pl/100/570], § 106, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (j). [Pub. L. 100–570, § 107][/us/pl/100/570/s107], added subsec. (j).
+    Subsec. (j). [Pub. L. 100–570][/us/pl/100/570], § 107, added subsec. (j).
 
-    1985—Subsec. (b). [Pub. L. 99–159, § 109(e)(1)(A)][/us/pl/99/159/s109/e/1/A], (B), struck out subsec. (b) relating to outside employment and activities, and redesignated subsec. (c) as (b).
+    1985—Subsec. (b). [Pub. L. 99–159][/us/pl/99/159], § 109(e)(1)(A), (B), struck out subsec. (b) relating to outside employment and activities, and redesignated subsec. (c) as (b).
 
-    Subsecs. (c), (d). [Pub. L. 99–159, § 109(e)(1)(B)][/us/pl/99/159/s109/e/1/B], redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
+    Subsecs. (c), (d). [Pub. L. 99–159][/us/pl/99/159], § 109(e)(1)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 
     Subsec. (e). [Pub. L. 99–159][/us/pl/99/159], §§ 109(e)(1)(B), 110(a)(18)(A), redesignated subsec. (f) as (e) and inserted “or engineering” after “scientific” wherever appearing. Former subsec. (e) redesignated (d).
 
     Subsec. (f). [Pub. L. 99–159][/us/pl/99/159], §§ 109(e)(1)(B), 110(a)(18)(B), redesignated subsec. (g) as (f) and substituted “engineering” for “technical”. Former subsec. (f) redesignated (e).
 
-    Subsecs. (g), (h). [Pub. L. 99–159, § 109(e)(1)(B)][/us/pl/99/159/s109/e/1/B], redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g) redesignated (f).
+    Subsecs. (g), (h). [Pub. L. 99–159][/us/pl/99/159], § 109(e)(1)(B), redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g) redesignated (f).
 
-    Subsec. (i). [Pub. L. 99–159, § 109(e)(1)(B)][/us/pl/99/159/s109/e/1/B], (C), added subsec. (i). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 99–159][/us/pl/99/159], § 109(e)(1)(B), (C), added subsec. (i). Former subsec. (i) redesignated (h).
 
     1977—Subsec. (d). [Pub. L. 95–99][/us/pl/95/99] substituted provisions authorizing compensation at a daily rate fixed by the chairman but not exceeding the rate specified for the daily rate for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332] for provisions authorizing a daily rate of $100.
 
     1969—Subsec. (i). [Pub. L. 91–120][/us/pl/91/120] added subsec. (i).
 
-    1968—Subsec. (a). [Pub. L. 90–407, § 12][/us/pl/90/407/s12], substituted provisions making applicable chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates, for provisions making applicable the civil-service laws and regulations and the Classification Act of 1949, and provisions that the members of special commissions be appointed without regard to the provisions of title 5, governing appointments in the competitive service, for provisions that the Deputy Director, and members of divisional committees and special commissions be appointed without regard to the civil-service laws or regulations. Provisions this subsection, relating to outside employment and activities of certain specified officers of the Foundation, were designated as subsec. (b).
+    1968—Subsec. (a). [Pub. L. 90–407][/us/pl/90/407], § 12, substituted provisions making applicable chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates, for provisions making applicable the civil-service laws and regulations and the Classification Act of 1949, and provisions that the members of special commissions be appointed without regard to the provisions of title 5, governing appointments in the competitive service, for provisions that the Deputy Director, and members of divisional committees and special commissions be appointed without regard to the civil-service laws or regulations. Provisions this subsection, relating to outside employment and activities of certain specified officers of the Foundation, were designated as subsec. (b).
 
-    Subsec. (b). [Pub. L. 90–407, § 12][/us/pl/90/407/s12], redesignated provisions of former subsec. (a) as (b) and added Assistant Directors to specified officers of Foundation prohibited from engaging in outside employment and activities. Former subsec. (b), providing for the appointment of a Deputy Director, was struck out.
+    Subsec. (b). [Pub. L. 90–407][/us/pl/90/407], § 12, redesignated provisions of former subsec. (a) as (b) and added Assistant Directors to specified officers of Foundation prohibited from engaging in outside employment and activities. Former subsec. (b), providing for the appointment of a Deputy Director, was struck out.
 
-    Subsec. (d). [Pub. L. 90–407, § 12][/us/pl/90/407/s12], struck out applicability to members of each divisional committee, and substituted “$100” for “$50” and “section 5703” for “section 73b–2”.
+    Subsec. (d). [Pub. L. 90–407][/us/pl/90/407], § 12, struck out applicability to members of each divisional committee, and substituted “$100” for “$50” and “section 5703” for “section 73b–2”.
 
-    Subsec. (e). [Pub. L. 90–407, § 12][/us/pl/90/407/s12], struck out “the divisional committees and” after “may serve as members of”.
+    Subsec. (e). [Pub. L. 90–407][/us/pl/90/407], § 12, struck out “the divisional committees and” after “may serve as members of”.
 
-    Subsec. (f). [Pub. L. 90–407, § 12][/us/pl/90/407/s12], redesignated subsec. (g) as (f), in cl. (2) substituted “United States” for “States, Territories, possessions, and the District of Columbia”, in cl. (3) substituted “advance scientific research” for “advance basic research”, and in cl. (4) substituted “independent scientific research” for “independent basic research”. Former subsec. (f), exempting members of Board, divisional committees, or special commissions form provisions of former sections 281, 283, or 284 of title 18 or former [section 99 of title 5][/us/usc/t5/s99], unless the act made unlawful by the aforementioned former sections directly involved or directly interested the Foundation, was struck out.
+    Subsec. (f). [Pub. L. 90–407][/us/pl/90/407], § 12, redesignated subsec. (g) as (f), in cl. (2) substituted “United States” for “States, Territories, possessions, and the District of Columbia”, in cl. (3) substituted “advance scientific research” for “advance basic research”, and in cl. (4) substituted “independent scientific research” for “independent basic research”. Former subsec. (f), exempting members of Board, divisional committees, or special commissions form provisions of former sections 281, 283, or 284 of title 18 or former [section 99 of title 5][/us/usc/t5/s99], unless the act made unlawful by the aforementioned former sections directly involved or directly interested the Foundation, was struck out.
 
-    Subsec. (g). [Pub. L. 90–407, § 12][/us/pl/90/407/s12], redesignated subsec. (h) as (g) and struck out “and, until such time as an appropriation is made available directly to the Foundation, for general administrative expenses of the Foundation without regard to limitations otherwise applicable to such funds” after “the purposes for which the transfer was made”. Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 90–407][/us/pl/90/407], § 12, redesignated subsec. (h) as (g) and struck out “and, until such time as an appropriation is made available directly to the Foundation, for general administrative expenses of the Foundation without regard to limitations otherwise applicable to such funds” after “the purposes for which the transfer was made”. Former subsec. (g) redesignated (f).
 
-    Subsec. (h). [Pub. L. 90–407, § 12][/us/pl/90/407/s12], added subsec. (h). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 90–407][/us/pl/90/407], § 12, added subsec. (h). Former subsec. (h) redesignated (g).
 
-    Subsec. (i). [Pub. L. 90–407, § 12][/us/pl/90/407/s12], struck out subsec. (i) which provided for transfer of National Roster of Scientific and Specialized Personnel from United States Employment Service to Foundation.
+    Subsec. (i). [Pub. L. 90–407][/us/pl/90/407], § 12, struck out subsec. (i) which provided for transfer of National Roster of Scientific and Specialized Personnel from United States Employment Service to Foundation.
 
     1959—Subsec. (d). [Pub. L. 86–232][/us/pl/86/232] increased compensation for $25 to $50 per diem.
 
@@ -141,7 +141,7 @@
 
  __Employment of Minorities, Women, and Handicapped Individuals in Executive Level Positions__ 
 
-[Pub. L. 94–471, § 7][/us/pl/94/471/s7], Oct. 11, 1976, [90 Stat. 2056][/us/stat/90/2056], provided that:
+[Pub. L. 94–471][/us/pl/94/471], § 7, Oct. 11, 1976, [90 Stat. 2056][/us/stat/90/2056], provided that:
 
 >     “(a) The Director of the National Science Foundation shall initiate an intensive search for qualified women, members of minority groups, and handicapped individuals to fill executive level positions in the National Science Foundation. In carrying out the requirement of this subsection, the Director shall work closely with organizations which have been active in seeking greater recognition and utilization of the scientific and technical capabilities of minorities, women, and handicapped individuals. The Director shall improve the representation of minorities, women, and handicapped individuals on advisory committees, review panels, and all other mechanisms by which the scientific community provides assistance to the Foundation. The Director of the National Science Foundation shall report quarterly to the Congress on the status of minorities, women, and handicapped individuals and activities undertaken pursuant to this section.
 
@@ -186,37 +186,37 @@
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/act/1950-05-10/ch171/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs14
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F154
-[/us/pl/85/510/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F510%2Fs2
+[/us/pl/85/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F510
 [/us/stat/72/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F353
-[/us/pl/86/232/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232%2Fs8
+[/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/73/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F469
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F365
-[/us/pl/91/120/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F120%2Fs3
+[/us/pl/91/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F120
 [/us/stat/83/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F203
-[/us/pl/95/99/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99%2Fs12%2Fc
+[/us/pl/95/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99
 [/us/stat/91/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F835
-[/us/pl/99/159/s109/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fh
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F890
-[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F889
-[/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2868
-[/us/pl/101/589/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs251
+[/us/pl/101/589/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2FtII
 [/us/stat/104/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2894
-[/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
+[/us/pl/102/139/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139%2FtIII
 [/us/stat/105/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F774
-[/us/pl/104/66/s2141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2141%2Fb
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F731
-[/us/pl/105/207/s202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs202%2Fa%2F3
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F873
-[/us/pl/107/368/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs15%2Fb
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3058
 [/us/usc/t42/s1863/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1863%2Fh
 [/us/usc/t42/s1863/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1863%2Fg
-[/us/pl/94/282/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs503
+[/us/pl/94/282/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtV
 [/us/stat/90/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F473
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
@@ -225,33 +225,33 @@
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
 [/us/pl/101/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589
-[/us/pl/100/570/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs106
-[/us/pl/100/570/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs107
-[/us/pl/99/159/s109/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fe%2F1%2FA
-[/us/pl/99/159/s109/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fe%2F1%2FB
+[/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
+[/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
-[/us/pl/99/159/s109/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fe%2F1%2FB
-[/us/pl/99/159/s109/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs109%2Fe%2F1%2FB
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 [/us/pl/95/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F99
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/91/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F120
-[/us/pl/90/407/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs12
-[/us/pl/90/407/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs12
-[/us/pl/90/407/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs12
-[/us/pl/90/407/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs12
-[/us/pl/90/407/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs12
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/usc/t5/s99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs99
-[/us/pl/90/407/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs12
-[/us/pl/90/407/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs12
-[/us/pl/90/407/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs12
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/pl/86/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F232
 [/us/stat/79/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1323
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/110/372/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fd%2F3
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/94/471/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471%2Fs7
+[/us/pl/94/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F471
 [/us/stat/90/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2056
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/pl/90/407/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs16

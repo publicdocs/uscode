@@ -107,33 +107,33 @@
 
         The Secretary shall enter into an agreement with the Secretary of the Department of Veterans Affairs to ensure that appropriate provision will be made for the furnishing, through demonstration projects, of services to eligible veterans, under contract with the Department of Veterans Affairs pursuant to [section 1720 of title 38][/us/usc/t38/s1720].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIV, § 2421, as added [Pub. L. 100–607, title II, § 211][/us/pl/100/607/s211], Nov. 4, 1988, [102 Stat. 3088][/us/stat/102/3088]; amended [Pub. L. 100–527, § 10(1)][/us/pl/100/527/s10/1], (2), Oct. 25, 1988, [102 Stat. 2640][/us/stat/102/2640], 2641; [Pub. L. 100–690, title II, § 2618(h)][/us/pl/100/690/s2618/h], Nov. 18, 1988, [102 Stat. 4241][/us/stat/102/4241]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXIV, § 2421, as added [Pub. L. 100–607, title II][/us/pl/100/607/tII], § 211, Nov. 4, 1988, [102 Stat. 3088][/us/stat/102/3088]; amended [Pub. L. 100–527][/us/pl/100/527], § 10(1), (2), Oct. 25, 1988, [102 Stat. 2640][/us/stat/102/2640], 2641; [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2618(h), Nov. 18, 1988, [102 Stat. 4241][/us/stat/102/4241]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406].)
 
  __Amendments__ 
 
     1991—Subsec. (h). [Pub. L. 102–83][/us/pl/102/83] substituted “[section 1720 of title 38][/us/usc/t38/s1720]” for “[section 620 of title 38][/us/usc/t38/s620]”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–690, § 2618(h)(1)][/us/pl/100/690/s2618/h/1], substituted “ ‘individuals infected with the etiologic agent for acquired immune deficiency syndrome’ means individuals who” for “ ‘patients infected with the human immunodeficiency virus’ means persons who” and “such individuals with such etiologic agent” for “such person with the human immunodeficiency virus”.
+    1988—Subsec. (a)(1). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(1), substituted “ ‘individuals infected with the etiologic agent for acquired immune deficiency syndrome’ means individuals who” for “ ‘patients infected with the human immunodeficiency virus’ means persons who” and “such individuals with such etiologic agent” for “such person with the human immunodeficiency virus”.
 
-    Subsec. (a)(2). [Pub. L. 100–690, § 2618(h)(2)][/us/pl/100/690/s2618/h/2], substituted “individuals” for “persons”.
+    Subsec. (a)(2). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(2), substituted “individuals” for “persons”.
 
-    Subsec. (b). [Pub. L. 100–690, § 2618(h)(3)][/us/pl/100/690/s2618/h/3], substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus” and “such individuals” for “such patients”.
+    Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(3), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus” and “such individuals” for “such patients”.
 
-    Subsec. (c)(1). [Pub. L. 100–690, § 2618(h)(4)(A)][/us/pl/100/690/s2618/h/4/A], in introductory provisions substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
+    Subsec. (c)(1). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(4)(A), in introductory provisions substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
 
-    Subsec. (c)(1)(A). [Pub. L. 100–690, § 2618(h)(4)(B)][/us/pl/100/690/s2618/h/4/B], substituted in introductory provisions “such individuals” for “such patients”, in cl. (ii) “individuals with acquired immune deficiency syndrome” for “AIDS patients”, and in cl. (iii) “such individuals” for “patients”.
+    Subsec. (c)(1)(A). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(4)(B), substituted in introductory provisions “such individuals” for “such patients”, in cl. (ii) “individuals with acquired immune deficiency syndrome” for “AIDS patients”, and in cl. (iii) “such individuals” for “patients”.
 
-    Subsec. (c)(1)(B), (2)(C). [Pub. L. 100–690, § 2618(h)(4)(C)][/us/pl/100/690/s2618/h/4/C], (5), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
+    Subsec. (c)(1)(B), (2)(C). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(4)(C), (5), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
 
-    Subsec. (d)(2)(B). [Pub. L. 100–690, § 2618(h)(6)][/us/pl/100/690/s2618/h/6], substituted “cases of acquired immune deficiency syndrome” for “AIDS cases”.
+    Subsec. (d)(2)(B). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(6), substituted “cases of acquired immune deficiency syndrome” for “AIDS cases”.
 
-    Subsec. (e)(2)(A). [Pub. L. 100–690, § 2618(h)(7)][/us/pl/100/690/s2618/h/7], substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
+    Subsec. (e)(2)(A). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(7), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
 
-    Subsec. (f)(1). [Pub. L. 100–690, § 2618(h)(8)][/us/pl/100/690/s2618/h/8], substituted “acquired immune deficiency syndrome” for “the acquired immunodeficiency syndrome” and “etiologic agent for such syndrome” for “human immunodeficiency virus”.
+    Subsec. (f)(1). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(8), substituted “acquired immune deficiency syndrome” for “the acquired immunodeficiency syndrome” and “etiologic agent for such syndrome” for “human immunodeficiency virus”.
 
-    Subsec. (f)(2). [Pub. L. 100–690, § 2618(h)(9)][/us/pl/100/690/s2618/h/9], substituted “such syndrome” for “the acquired immunodeficiency syndrome”.
+    Subsec. (f)(2). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(9), substituted “such syndrome” for “the acquired immunodeficiency syndrome”.
 
-    Subsec. (g)(1). [Pub. L. 100–690, § 2618(h)(10)][/us/pl/100/690/s2618/h/10], substituted “fiscal year 1989” for “fiscal year 1988” and “fiscal years 1990 through 1992” for “fiscal years 1989 through 1991”.
+    Subsec. (g)(1). [Pub. L. 100–690][/us/pl/100/690], § 2618(h)(10), substituted “fiscal year 1989” for “fiscal year 1988” and “fiscal years 1990 through 1992” for “fiscal years 1989 through 1991”.
 
     Subsec. (h). [Pub. L. 100–527][/us/pl/100/527] substituted “Secretary of the Department of Veterans Affairs” and “Department of Veterans Affairs” for “Administrator of the Veterans’ Administration” and “Veterans’ Administration”, respectively.
 
@@ -158,28 +158,28 @@
 
 [/us/usc/t38/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs211
+[/us/pl/100/607/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtII
 [/us/stat/102/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3088
-[/us/pl/100/527/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs10%2F1
+[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/stat/102/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2640
-[/us/pl/100/690/s2618/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4241
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720
 [/us/usc/t38/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs620
-[/us/pl/100/690/s2618/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F1
-[/us/pl/100/690/s2618/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F2
-[/us/pl/100/690/s2618/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F3
-[/us/pl/100/690/s2618/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F4%2FA
-[/us/pl/100/690/s2618/h/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F4%2FB
-[/us/pl/100/690/s2618/h/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F4%2FC
-[/us/pl/100/690/s2618/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F6
-[/us/pl/100/690/s2618/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F7
-[/us/pl/100/690/s2618/h/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F8
-[/us/pl/100/690/s2618/h/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F9
-[/us/pl/100/690/s2618/h/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2618%2Fh%2F10
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

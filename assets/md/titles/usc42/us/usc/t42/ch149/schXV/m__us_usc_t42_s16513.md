@@ -133,7 +133,7 @@
 
         A project that receives tax credits for clean coal technology shall not be disqualified from receiving a guarantee under this subchapter.
 
-([Pub. L. 109–58, title XVII, § 1703][/us/pl/109/58/s1703], Aug. 8, 2005, [119 Stat. 1120][/us/stat/119/1120]; [Pub. L. 109–168, § 1(b)(1)][/us/pl/109/168/s1/b/1], Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580]; [Pub. L. 110–140, title I, § 134(b)][/us/pl/110/140/s134/b], Dec. 19, 2007, [121 Stat. 1513][/us/stat/121/1513].)
+([Pub. L. 109–58, title XVII][/us/pl/109/58/tXVII], § 1703, Aug. 8, 2005, [119 Stat. 1120][/us/stat/119/1120]; [Pub. L. 109–168][/us/pl/109/168], § 1(b)(1), Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580]; [Pub. L. 110–140, title I][/us/pl/110/140/tI], § 134(b), Dec. 19, 2007, [121 Stat. 1513][/us/stat/121/1513].)
 
  __Amendments__ 
 
@@ -152,11 +152,11 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1703
+[/us/pl/109/58/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVII
 [/us/stat/119/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1120
-[/us/pl/109/168/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168%2Fs1%2Fb%2F1
+[/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
 [/us/stat/119/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3580
-[/us/pl/110/140/s134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs134%2Fb
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1513
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168

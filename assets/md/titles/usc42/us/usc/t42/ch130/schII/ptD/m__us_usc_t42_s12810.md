@@ -41,7 +41,7 @@
 
         The Secretary shall submit a biennial report to the Congress on the utilization of the model program under this section.
 
-([Pub. L. 101–625, title II, § 260][/us/pl/101/625/s260], as added [Pub. L. 102–550, title II, § 216][/us/pl/102/550/s216], Oct. 28, 1992, [106 Stat. 3760][/us/stat/106/3760].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 260, as added [Pub. L. 102–550, title II][/us/pl/102/550/tII], § 216, Oct. 28, 1992, [106 Stat. 3760][/us/stat/106/3760].)
 
  __Effective Date__ 
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/101/625/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs260
-[/us/pl/102/550/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs216
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3760
 [/us/pl/102/550/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs223
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704

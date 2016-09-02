@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 1990 derived from [act Mar. 2, 1867, ch. 187, § 1][/us/act/1867-03-02/ch187/s1], [14 Stat. 546][/us/stat/14/546].
+    R.S. § 1990 derived from [act Mar. 2, 1867, ch. 187][/us/act/1867-03-02/ch187], § 1, [14 Stat. 546][/us/stat/14/546].
 
     Section was formerly classified to [section 56 of Title 8][/us/usc/t8/s56], Aliens and Nationality.
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1867-03-02/ch187/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch187%2Fs1
+[/us/act/1867-03-02/ch187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch187
 [/us/stat/14/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F546
 [/us/usc/t8/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs56
 

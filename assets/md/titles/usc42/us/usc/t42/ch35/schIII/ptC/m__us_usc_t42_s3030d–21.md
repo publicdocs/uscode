@@ -23,7 +23,7 @@
 
     (3) to promote the health and well-being of older individuals by assisting such individuals to gain access to nutrition and other disease prevention and health promotion services to delay the onset of adverse health conditions resulting from poor nutritional health or sedentary behavior.
 
-([Pub. L. 89–73, title III, § 330][/us/pl/89/73/s330], as added [Pub. L. 109–365, title III, § 312][/us/pl/109/365/s312], Oct. 17, 2006, [120 Stat. 2547][/us/stat/120/2547].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 330, as added [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 312, Oct. 17, 2006, [120 Stat. 2547][/us/stat/120/2547].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/89/73/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs330
-[/us/pl/109/365/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs312
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2547
 
 

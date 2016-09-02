@@ -165,19 +165,19 @@
 
         The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall develop national guidelines for the uniform reporting of all blood lead test results to State and local health departments.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317A, as added [Pub. L. 100–572, § 3][/us/pl/100/572/s3], Oct. 31, 1988, [102 Stat. 2887][/us/stat/102/2887]; amended [Pub. L. 102–531, title III, § 303(a)][/us/pl/102/531/s303/a], Oct. 27, 1992, [106 Stat. 3484][/us/stat/106/3484]; [Pub. L. 103–183, title VII, § 705(a)][/us/pl/103/183/s705/a], Dec. 14, 1993, [107 Stat. 2241][/us/stat/107/2241]; [Pub. L. 105–392, title IV, § 404][/us/pl/105/392/s404], Nov. 13, 1998, [112 Stat. 3588][/us/stat/112/3588]; [Pub. L. 106–310, div. A, title XXV][/us/pl/106/310], §§ 2501(a), (b), 2504, Oct. 17, 2000, [114 Stat. 1161][/us/stat/114/1161], 1164; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 108–163, § 2(m)(1)][/us/pl/108/163/s2/m/1], Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317A, as added [Pub. L. 100–572][/us/pl/100/572], § 3, Oct. 31, 1988, [102 Stat. 2887][/us/stat/102/2887]; amended [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 303(a), Oct. 27, 1992, [106 Stat. 3484][/us/stat/106/3484]; [Pub. L. 103–183, title VII][/us/pl/103/183/tVII], § 705(a), Dec. 14, 1993, [107 Stat. 2241][/us/stat/107/2241]; [Pub. L. 105–392, title IV][/us/pl/105/392/tIV], § 404, Nov. 13, 1998, [112 Stat. 3588][/us/stat/112/3588]; [Pub. L. 106–310, div. A, title XXV][/us/pl/106/310/dA/tXXV], §§ 2501(a), (b), 2504, Oct. 17, 2000, [114 Stat. 1161][/us/stat/114/1161], 1164; [Pub. L. 107–251, title VI][/us/pl/107/251/tVI], § 601(a), Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 108–163][/us/pl/108/163], § 2(m)(1), Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023].)
 
  __References in Text__ 
 
-    The reference to [section 254b of this title][/us/usc/t42/s254b] the first place appearing, referred to in subsec. (a)(2), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626].
+    The reference to [section 254b of this title][/us/usc/t42/s254b] the first place appearing, referred to in subsec. (a)(2), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626].
 
-    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsec. (a)(2), was repealed by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
+    [Section 256a of this title][/us/usc/t42/s256a], referred to in subsec. (a)(2), was repealed by [Pub. L. 104–299][/us/pl/104/299], § 4(a)(3), Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
 
     The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 247b–1, [Pub. L. 95–626, title IV, § 401][/us/pl/95/626/s401], Nov. 10, 1978, [92 Stat. 3590][/us/stat/92/3590]; S. Res. 30, Mar. 7, 1979; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by [Pub. L. 97–35, title IX, § 902(a)][/us/pl/97/35/s902/a], (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561, eff. Oct. 1, 1981.
+    A prior section 247b–1, [Pub. L. 95–626, title IV][/us/pl/95/626/tIV], § 401, Nov. 10, 1978, [92 Stat. 3590][/us/stat/92/3590]; S. Res. 30, Mar. 7, 1979; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 902(a), (h), Aug. 13, 1981, [95 Stat. 559][/us/stat/95/559], 561, eff. Oct. 1, 1981.
 
  __Amendments__ 
 
@@ -185,13 +185,13 @@
 
     2002—Subsec. (a)(2). [Pub. L. 107–251][/us/pl/107/251] substituted “254b(h)” for “256”.
 
-    2000—Subsec. (d)(7), (8). [Pub. L. 106–310, § 2501(a)(1)][/us/pl/106/310/s2501/a/1], added par. (7) and redesignated former par. (7) as (8).
+    2000—Subsec. (d)(7), (8). [Pub. L. 106–310][/us/pl/106/310], § 2501(a)(1), added par. (7) and redesignated former par. (7) as (8).
 
-    Subsec. (j)(2)(F), (G). [Pub. L. 106–310, § 2501(a)(2)][/us/pl/106/310/s2501/a/2], added subpar. (F), redesignated former subpar. (F) as (G), and substituted “(F)” for “(E)”.
+    Subsec. (j)(2)(F), (G). [Pub. L. 106–310][/us/pl/106/310], § 2501(a)(2), added subpar. (F), redesignated former subpar. (F) as (G), and substituted “(F)” for “(E)”.
 
-    Subsec. (l)(1). [Pub. L. 106–310, § 2504][/us/pl/106/310/s2504], substituted “1994 through 2005” for “1994 through 2002”.
+    Subsec. (l)(1). [Pub. L. 106–310][/us/pl/106/310], § 2504, substituted “1994 through 2005” for “1994 through 2002”.
 
-    Subsec. (m). [Pub. L. 106–310, § 2501(b)][/us/pl/106/310/s2501/b], added subsec. (m).
+    Subsec. (m). [Pub. L. 106–310][/us/pl/106/310], § 2501(b), added subsec. (m).
 
     1998—Subsec. (l)(1). [Pub. L. 105–392][/us/pl/105/392] substituted “2002” for “1998”.
 
@@ -205,7 +205,7 @@
 
  __Development and Implementation of Effective Data Management by the Centers for Disease Control and Prevention__ 
 
-[Pub. L. 106–310, div. A, title XXV, § 2501(c)][/us/pl/106/310/s2501/c], Oct. 17, 2000, [114 Stat. 1161][/us/stat/114/1161], provided that:
+[Pub. L. 106–310, div. A, title XXV][/us/pl/106/310/dA/tXXV], § 2501(c), Oct. 17, 2000, [114 Stat. 1161][/us/stat/114/1161], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -241,41 +241,41 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/572/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572%2Fs3
+[/us/pl/100/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F572
 [/us/stat/102/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2887
-[/us/pl/102/531/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs303%2Fa
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3484
-[/us/pl/103/183/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs705%2Fa
+[/us/pl/103/183/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2FtVII
 [/us/stat/107/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2241
-[/us/pl/105/392/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs404
+[/us/pl/105/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtIV
 [/us/stat/112/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3588
-[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310/dA/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXV
 [/us/stat/114/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1161
-[/us/pl/107/251/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs601%2Fa
+[/us/pl/107/251/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtVI
 [/us/stat/116/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1664
-[/us/pl/108/163/s2/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fm%2F1
+[/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/stat/117/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2023
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/usc/t42/s256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a
-[/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/95/626/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs401
+[/us/pl/95/626/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtIV
 [/us/stat/92/3590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3590
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/97/35/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F559
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
-[/us/pl/106/310/s2501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2501%2Fa%2F1
-[/us/pl/106/310/s2501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2501%2Fa%2F2
-[/us/pl/106/310/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2504
-[/us/pl/106/310/s2501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2501%2Fb
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
@@ -283,7 +283,7 @@
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
 [/us/pl/108/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs3
 [/us/usc/t42/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs233
-[/us/pl/106/310/s2501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2501%2Fc
+[/us/pl/106/310/dA/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXXV
 [/us/stat/114/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1161
 [/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
 [/us/usc/t42/s9840a/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840a%2Fh

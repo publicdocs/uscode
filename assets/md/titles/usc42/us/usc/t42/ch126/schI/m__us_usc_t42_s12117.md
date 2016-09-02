@@ -23,7 +23,7 @@
 
         The agencies with enforcement authority for actions which allege employment discrimination under this subchapter and under the Rehabilitation Act of 1973 \[[29 U.S.C. 701][/us/usc/t29/s701] et seq.\] shall develop procedures to ensure that administrative complaints filed under this subchapter and under the Rehabilitation Act of 1973 are dealt with in a manner that avoids duplication of effort and prevents imposition of inconsistent or conflicting standards for the same requirements under this subchapter and the Rehabilitation Act of 1973. The Commission, the Attorney General, and the Office of Federal Contract Compliance Programs shall establish such coordinating mechanisms (similar to provisions contained in the joint regulations promulgated by the Commission and the Attorney General at part 42 of title 28 and part 1691 of title 29, Code of Federal Regulations, and the Memorandum of Understanding between the Commission and the Office of Federal Contract Compliance Programs dated January 16, 1981 (46 Fed. Reg. 7435, January 23, 1981)) in regulations implementing this subchapter and Rehabilitation Act of 1973 not later than 18 months after July 26, 1990.
 
-([Pub. L. 101–336, title I, § 107][/us/pl/101/336/s107], July 26, 1990, [104 Stat. 336][/us/stat/104/336].)
+([Pub. L. 101–336, title I][/us/pl/101/336/tI], § 107, July 26, 1990, [104 Stat. 336][/us/stat/104/336].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t42/s12116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12116
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/101/336/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs107
+[/us/pl/101/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtI
 [/us/stat/104/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F336
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

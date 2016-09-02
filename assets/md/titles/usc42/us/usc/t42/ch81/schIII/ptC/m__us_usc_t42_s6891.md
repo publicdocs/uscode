@@ -17,7 +17,7 @@
 
     The Secretary of Energy shall (through conferences, publications, and other appropriate means) encourage and facilitate the exchange of information among the States with respect to energy conservation and increased use of nondepletable energy sources.
 
-([Pub. L. 94–385, title IV, § 461][/us/pl/94/385/s461], Aug. 14, 1976, [90 Stat. 1168][/us/stat/90/1168]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], title VII, § 703, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606.)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 461, Aug. 14, 1976, [90 Stat. 1168][/us/stat/90/1168]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), title VII, § 703, Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 606.)
 
  __Transfer of Functions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/94/385/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs461
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
 [/us/stat/90/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1168
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 

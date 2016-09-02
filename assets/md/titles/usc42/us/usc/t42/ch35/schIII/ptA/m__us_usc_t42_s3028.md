@@ -125,21 +125,21 @@
 
         The amounts of any State’s allotment under subsection (b) of this section for any fiscal year which the Assistant Secretary determines will not be required for that year for the purposes described in subsection (a)(1) of this section shall be available to provide services under part B of this subchapter or part C of this subchapter, or both, in the State.
 
-([Pub. L. 89–73, title III, § 308][/us/pl/89/73/s308], as added [Pub. L. 95–478, title I, § 103(b)][/us/pl/95/478/s103/b], Oct. 18, 1978, [92 Stat. 1530][/us/stat/92/1530]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 8, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1600; [Pub. L. 98–459, title III, § 308][/us/pl/98/459/s308], Oct. 9, 1984, [98 Stat. 1777][/us/stat/98/1777]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 129(c)(2), 182(l), Nov. 29, 1987, [101 Stat. 935][/us/stat/101/935], 966; [Pub. L. 102–375, title I, § 102(b)(9)(C)][/us/pl/102/375/s102/b/9/C], (10)(A), title III, § 308, title IX, § 904(a)(14), Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1234, 1308; [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title III, § 307][/us/pl/106/501/s307], Nov. 13, 2000, [114 Stat. 2245][/us/stat/114/2245].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 308, as added [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 103(b), Oct. 18, 1978, [92 Stat. 1530][/us/stat/92/1530]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 8, Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1600; [Pub. L. 98–459, title III][/us/pl/98/459/tIII], § 308, Oct. 9, 1984, [98 Stat. 1777][/us/stat/98/1777]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], §§ 129(c)(2), 182(l), Nov. 29, 1987, [101 Stat. 935][/us/stat/101/935], 966; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 102(b)(9)(C), (10)(A), title III, § 308, title IX, § 904(a)(14), Sept. 30, 1992, [106 Stat. 1202][/us/stat/106/1202], 1234, 1308; [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 307, Nov. 13, 2000, [114 Stat. 2245][/us/stat/114/2245].)
 
  __Prior Provisions__ 
 
-    A prior section 3028, [Pub. L. 89–73, title III, § 308][/us/pl/89/73/s308], as added [Pub. L. 93–29, title III, § 301][/us/pl/93/29/s301], May 3, 1973, [87 Stat. 44][/us/stat/87/44]; [Pub. L. 94–135, title I][/us/pl/94/135], §§ 108, 112(c), Nov. 28, 1975, [89 Stat. 717][/us/stat/89/717], 719, related to model projects, prior to the general amendment of this subchapter by [Pub. L. 95–478][/us/pl/95/478].
+    A prior section 3028, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 308, as added [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 44][/us/stat/87/44]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], §§ 108, 112(c), Nov. 28, 1975, [89 Stat. 717][/us/stat/89/717], 719, related to model projects, prior to the general amendment of this subchapter by [Pub. L. 95–478][/us/pl/95/478].
 
-    Provisions similar to those comprising this section were contained in [Pub. L. 89–73, title III, § 306][/us/pl/89/73/s306], as added [Pub. L. 93–29, title III, § 301][/us/pl/93/29/s301], May 3, 1973, [87 Stat. 43][/us/stat/87/43]; [Pub. L. 94–135, title I, § 107][/us/pl/94/135/s107], Nov. 28, 1975, [89 Stat. 716][/us/stat/89/716], which was classified to [section 3026 of this title][/us/usc/t42/s3026] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
+    Provisions similar to those comprising this section were contained in [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 306, as added [Pub. L. 93–29, title III][/us/pl/93/29/tIII], § 301, May 3, 1973, [87 Stat. 43][/us/stat/87/43]; [Pub. L. 94–135, title I][/us/pl/94/135/tI], § 107, Nov. 28, 1975, [89 Stat. 716][/us/stat/89/716], which was classified to [section 3026 of this title][/us/usc/t42/s3026] prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
  __Amendments__ 
 
-    2000—Subsec. (b)(4)(A). [Pub. L. 106–501, § 307(1)(A)(ii)][/us/pl/106/501/s307/1/A/ii], substituted “40 percent” for “30 percent”.
+    2000—Subsec. (b)(4)(A). [Pub. L. 106–501][/us/pl/106/501], § 307(1)(A)(ii), substituted “40 percent” for “30 percent”.
 
-    [Pub. L. 106–501, § 307(1)(A)(i)][/us/pl/106/501/s307/1/A/i], which directed amendment of subpar. (A) by striking “in its plan under [section 3027(a)(13) of this title][/us/usc/t42/s3027/a/13] regarding Part C of this subchapter,” was executed by striking “in its plan under section 3027(a)(13) regarding part C of this subchapter,” after “the State may elect” to reflect the probable intent of Congress.
+    [Pub. L. 106–501][/us/pl/106/501], § 307(1)(A)(i), which directed amendment of subpar. (A) by striking “in its plan under [section 3027(a)(13) of this title][/us/usc/t42/s3027/a/13] regarding Part C of this subchapter,” was executed by striking “in its plan under section 3027(a)(13) regarding part C of this subchapter,” after “the State may elect” to reflect the probable intent of Congress.
 
-    Subsec. (b)(4)(B). [Pub. L. 106–501, § 307(1)(B)][/us/pl/106/501/s307/1/B], substituted “for any fiscal year” for “for fiscal year 1993, 1994, 1995, or 1996” and “to satisfy such need an additional 10 percent of the funds so received by a State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title][/us/usc/t42/s3023/b].” for “to satisfy such need—
+    Subsec. (b)(4)(B). [Pub. L. 106–501][/us/pl/106/501], § 307(1)(B), substituted “for any fiscal year” for “for fiscal year 1993, 1994, 1995, or 1996” and “to satisfy such need an additional 10 percent of the funds so received by a State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title][/us/usc/t42/s3023/b].” for “to satisfy such need—
 
     “(i) an additional 18 percent of the funds so received for fiscal year 1993;
 
@@ -147,61 +147,61 @@
 
     “(iii) an additional 10 percent of the funds so received for fiscal year 1996.”
 
-    Subsec. (b)(4)(C). [Pub. L. 106–501, § 307(1)(C)][/us/pl/106/501/s307/1/C], added subpar. (C).
+    Subsec. (b)(4)(C). [Pub. L. 106–501][/us/pl/106/501], § 307(1)(C), added subpar. (C).
 
-    Subsec. (b)(5). [Pub. L. 106–501, § 307(2)][/us/pl/106/501/s307/2], added par. (5) and struck out former par. (5) which authorized election by a State to transfer funds for fiscal years 1993 through 1996 between programs under parts B and C of this subchapter, provided for a State to obtain a need-based waiver to transfer additional funds, and related to required contents and approval of the application for such transfer of funds.
+    Subsec. (b)(5). [Pub. L. 106–501][/us/pl/106/501], § 307(2), added par. (5) and struck out former par. (5) which authorized election by a State to transfer funds for fiscal years 1993 through 1996 between programs under parts B and C of this subchapter, provided for a State to obtain a need-based waiver to transfer additional funds, and related to required contents and approval of the application for such transfer of funds.
 
     1993—[Pub. L. 103–171][/us/pl/103/171] substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-    1992—Subsec. (a)(3). [Pub. L. 102–375, § 308(1)][/us/pl/102/375/s308/1], inserted “been” after “Any State which has”.
+    1992—Subsec. (a)(3). [Pub. L. 102–375][/us/pl/102/375], § 308(1), inserted “been” after “Any State which has”.
 
-    Subsec. (b)(1)(B), (2)(B). [Pub. L. 102–375, § 904(a)(14)(A)][/us/pl/102/375/s904/a/14/A], inserted “United States” before “Virgin Islands”.
+    Subsec. (b)(1)(B), (2)(B). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(14)(A), inserted “United States” before “Virgin Islands”.
 
     Subsec. (b)(3)(B)(iii). [Pub. L. 102–375][/us/pl/102/375], §§ 102(b)(9)(C), (10)(A), 904(a)(14)(B), inserted “on aging” after “area agencies”, struck out “designated under [section 3025 of this title][/us/usc/t42/s3025]” after “such State”, and substituted “objectives” for “purposes”.
 
     Subsec. (b)(4). [Pub. L. 102–375][/us/pl/102/375], §§ 308(2)(A), 904(a)(14)(B), designated existing provisions as subpar. (A), inserted “and except as provided in subparagraph (B)” after “provision of this subchapter”, substituted “received by a State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title][/us/usc/t42/s3023/b], the” for “received under section 3023(b)(1) and (2) of this title, a”, “not more than 30 percent of the funds so received” for “a portion of the funds appropriated”, and “objectives” for “purposes”, and added subpar. (B).
 
-    Subsec. (b)(5) to (7). [Pub. L. 102–375, § 308(2)(B)][/us/pl/102/375/s308/2/B], added pars. (5) to (7) and struck out former par. (5) which read as follows:
+    Subsec. (b)(5) to (7). [Pub. L. 102–375][/us/pl/102/375], § 308(2)(B), added pars. (5) to (7) and struck out former par. (5) which read as follows:
 
     “(A) Notwithstanding any other provisions of this subchapter and except as provided in subparagraph (B), with respect to funds received under subsection (a)(1) and subsection (b) of [section 3023 of this title][/us/usc/t42/s3023], a State may elect to transfer not more than 20 per centum of the funds allotted for any fiscal year between programs under part B and part C of this subchapter, for use as the State considers appropriate. The State shall notify the Commissioner of any such election.
 
     “(B) Of the funds received under subsections (a)(1) and (b) of [section 3023 of this title][/us/usc/t42/s3023], a State may elect to transfer under subparagraph (A) not more than 30 percent of the funds allotted for any fiscal year.”
 
-    1987—Subsec. (b)(1). [Pub. L. 100–175, § 182][/us/pl/100/175/s182](l)(1), (2), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
+    1987—Subsec. (b)(1). [Pub. L. 100–175][/us/pl/100/175], § 182(l)(1), (2), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
-    Subsec. (b)(2). [Pub. L. 100–175, § 182][/us/pl/100/175/s182](l)(3), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
+    Subsec. (b)(2). [Pub. L. 100–175][/us/pl/100/175], § 182(l)(3), struck designation “(A)” after “(1)” and redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
-    Subsec. (b)(3)(C). [Pub. L. 100–175, § 182][/us/pl/100/175/s182](l)(4), substituted “the Commissioner” for “he”.
+    Subsec. (b)(3)(C). [Pub. L. 100–175][/us/pl/100/175], § 182(l)(4), substituted “the Commissioner” for “he”.
 
-    Subsec. (b)(5)(A). [Pub. L. 100–175, § 182][/us/pl/100/175/s182](l)(5), substituted “allotted” for “appropriated”.
+    Subsec. (b)(5)(A). [Pub. L. 100–175][/us/pl/100/175], § 182(l)(5), substituted “allotted” for “appropriated”.
 
-    [Pub. L. 100–175, § 129(c)(2)(A)][/us/pl/100/175/s129/c/2/A], substituted “received under subsection (a)(1)” for “received under subsection (a)”.
+    [Pub. L. 100–175][/us/pl/100/175], § 129(c)(2)(A), substituted “received under subsection (a)(1)” for “received under subsection (a)”.
 
-    Subsec. (b)(5)(B). [Pub. L. 100–175, § 182][/us/pl/100/175/s182](l)(6), substituted provision that State may elect to transfer not more than 30 percent of funds allotted for any fiscal year for provision that State may elect to transfer not more than 27 percent of funds allotted for fiscal year 1985, not more than 29 percent of funds allotted for fiscal year 1986, and not more than 30 percent of funds allotted for fiscal year 1987.
+    Subsec. (b)(5)(B). [Pub. L. 100–175][/us/pl/100/175], § 182(l)(6), substituted provision that State may elect to transfer not more than 30 percent of funds allotted for any fiscal year for provision that State may elect to transfer not more than 27 percent of funds allotted for fiscal year 1985, not more than 29 percent of funds allotted for fiscal year 1986, and not more than 30 percent of funds allotted for fiscal year 1987.
 
-    [Pub. L. 100–175, § 182][/us/pl/100/175/s182](l)(5), substituted “allotted” for “appropriated”.
+    [Pub. L. 100–175][/us/pl/100/175], § 182(l)(5), substituted “allotted” for “appropriated”.
 
-    [Pub. L. 100–175, § 129(c)(2)(B)][/us/pl/100/175/s129/c/2/B], inserted “subsections (a)(1) and (b) of” after first reference to “under”.
+    [Pub. L. 100–175][/us/pl/100/175], § 129(c)(2)(B), inserted “subsections (a)(1) and (b) of” after first reference to “under”.
 
-    1984—Subsec. (a)(1). [Pub. L. 98–459, § 308(a)(1)][/us/pl/98/459/s308/a/1], substituted “Amounts available to States under subsection (b)(1) of this section” for “Amounts appropriated under [section 3023 of this title][/us/usc/t42/s3023]”.
+    1984—Subsec. (a)(1). [Pub. L. 98–459][/us/pl/98/459], § 308(a)(1), substituted “Amounts available to States under subsection (b)(1) of this section” for “Amounts appropriated under [section 3023 of this title][/us/usc/t42/s3023]”.
 
-    Subsec. (a)(2). [Pub. L. 98–459, § 308(a)(2)][/us/pl/98/459/s308/a/2], substituted “available to a State under subsection (b)(1) of this section” for “received by a State under this section”.
+    Subsec. (a)(2). [Pub. L. 98–459][/us/pl/98/459], § 308(a)(2), substituted “available to a State under subsection (b)(1) of this section” for “received by a State under this section”.
 
-    Subsec. (b)(1). [Pub. L. 98–459, § 308(b)(6)][/us/pl/98/459/s308/b/6], added par. (1). Former par. (1), which contained provisions, with respect to allotments to States for State planning, coordination, evaluation, and administration of State plans, that each State had to be allotted funds on the basis of its population aged 60 or older as compared to all States, and specifying minimum amounts for each State of no less than one-half of 1 percent of appropriations or $300,000, whichever was greater, and for territories of no less than one-fourth of 1 percent of appropriations or $75,000, whichever was greater, was struck out.
+    Subsec. (b)(1). [Pub. L. 98–459][/us/pl/98/459], § 308(b)(6), added par. (1). Former par. (1), which contained provisions, with respect to allotments to States for State planning, coordination, evaluation, and administration of State plans, that each State had to be allotted funds on the basis of its population aged 60 or older as compared to all States, and specifying minimum amounts for each State of no less than one-half of 1 percent of appropriations or $300,000, whichever was greater, and for territories of no less than one-fourth of 1 percent of appropriations or $75,000, whichever was greater, was struck out.
 
-    Subsec. (b)(2). [Pub. L. 98–459, § 308(b)(6)][/us/pl/98/459/s308/b/6], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (b)(2). [Pub. L. 98–459][/us/pl/98/459], § 308(b)(6), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (b)(3). [Pub. L. 98–459, § 308(b)(4)][/us/pl/98/459/s308/b/4], (5), redesignated former par. (2) as (3) and struck out former par. (3) which had provided that each State would be entitled to an allotment under this section for any fiscal year in an amount which is not less than the amount of the allotment to which such State was entitled under former par. (1) for the fiscal year ending June 30, 1975.
+    Subsec. (b)(3). [Pub. L. 98–459][/us/pl/98/459], § 308(b)(4), (5), redesignated former par. (2) as (3) and struck out former par. (3) which had provided that each State would be entitled to an allotment under this section for any fiscal year in an amount which is not less than the amount of the allotment to which such State was entitled under former par. (1) for the fiscal year ending June 30, 1975.
 
-    Subsec. (b)(3)(A). [Pub. L. 98–459, § 308(b)(1)][/us/pl/98/459/s308/b/1], substituted “If the aggregate amount appropriated under [section 3023 of this title][/us/usc/t42/s3023] for a fiscal year does not exceed $800,000,000, then any” for “Any”.
+    Subsec. (b)(3)(A). [Pub. L. 98–459][/us/pl/98/459], § 308(b)(1), substituted “If the aggregate amount appropriated under [section 3023 of this title][/us/usc/t42/s3023] for a fiscal year does not exceed $800,000,000, then any” for “Any”.
 
-    Subsec. (b)(4). [Pub. L. 98–459, § 308(b)(2)][/us/pl/98/459/s308/b/2], (4), (5), redesignated par. (5) as (4), and substituted “unless the Commissioner determines” for “unless he determines”, and struck out former par. (4) which had provided that the number of individuals aged 60 or older in any State and in all States had to be determined by the Commissioner on the basis of the most recent satisfactory data available to him.
+    Subsec. (b)(4). [Pub. L. 98–459][/us/pl/98/459], § 308(b)(2), (4), (5), redesignated par. (5) as (4), and substituted “unless the Commissioner determines” for “unless he determines”, and struck out former par. (4) which had provided that the number of individuals aged 60 or older in any State and in all States had to be determined by the Commissioner on the basis of the most recent satisfactory data available to him.
 
-    Subsec. (b)(5), (6). [Pub. L. 98–459, § 308(b)(3)][/us/pl/98/459/s308/b/3], (5), redesignated par. (6) as (5), inserted “(A)” after paragraph designation and “and except as provided in subparagraph (B)”, and added subpar. (B). Former par. (5) redesignated (4).
+    Subsec. (b)(5), (6). [Pub. L. 98–459][/us/pl/98/459], § 308(b)(3), (5), redesignated par. (6) as (5), inserted “(A)” after paragraph designation and “and except as provided in subparagraph (B)”, and added subpar. (B). Former par. (5) redesignated (4).
 
-    1981—Subsec. (a)(1). [Pub. L. 97–115, § 3(d)][/us/pl/97/115/s3/d], substituted “supportive services” for “social services”.
+    1981—Subsec. (a)(1). [Pub. L. 97–115][/us/pl/97/115], § 3(d), substituted “supportive services” for “social services”.
 
-    Subsec. (b)(6). [Pub. L. 97–115, § 8][/us/pl/97/115/s8], added par. (6).
+    Subsec. (b)(6). [Pub. L. 97–115][/us/pl/97/115], § 8, added par. (6).
 
  __Effective Date of 1987 Amendment__ 
 
@@ -238,71 +238,71 @@
 [/us/usc/t42/s3023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fb
 [/us/usc/t42/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023
 [/us/usc/t42/s3018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3018%2Fa
-[/us/pl/89/73/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs308
-[/us/pl/95/478/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs103%2Fb
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1530
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1597
-[/us/pl/98/459/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs308
+[/us/pl/98/459/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtIII
 [/us/stat/98/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1777
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F935
-[/us/pl/102/375/s102/b/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs102%2Fb%2F9%2FC
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1202
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/106/501/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs307
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2245
-[/us/pl/89/73/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs308
-[/us/pl/93/29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs301
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F44
-[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F717
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/89/73/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs306
-[/us/pl/93/29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs301
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/93/29/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtIII
 [/us/stat/87/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F43
-[/us/pl/94/135/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs107
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F716
 [/us/usc/t42/s3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
-[/us/pl/106/501/s307/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs307%2F1%2FA%2Fii
-[/us/pl/106/501/s307/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs307%2F1%2FA%2Fi
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3027/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F13
-[/us/pl/106/501/s307/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs307%2F1%2FB
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fb
-[/us/pl/106/501/s307/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs307%2F1%2FC
-[/us/pl/106/501/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs307%2F2
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
-[/us/pl/102/375/s308/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs308%2F1
-[/us/pl/102/375/s904/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F14%2FA
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3025
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023%2Fb
-[/us/pl/102/375/s308/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs308%2F2%2FB
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/usc/t42/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023
 [/us/usc/t42/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023
-[/us/pl/100/175/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182
-[/us/pl/100/175/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182
-[/us/pl/100/175/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182
-[/us/pl/100/175/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182
-[/us/pl/100/175/s129/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs129%2Fc%2F2%2FA
-[/us/pl/100/175/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182
-[/us/pl/100/175/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs182
-[/us/pl/100/175/s129/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs129%2Fc%2F2%2FB
-[/us/pl/98/459/s308/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs308%2Fa%2F1
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
 [/us/usc/t42/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023
-[/us/pl/98/459/s308/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs308%2Fa%2F2
-[/us/pl/98/459/s308/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs308%2Fb%2F6
-[/us/pl/98/459/s308/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs308%2Fb%2F6
-[/us/pl/98/459/s308/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs308%2Fb%2F4
-[/us/pl/98/459/s308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs308%2Fb%2F1
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
 [/us/usc/t42/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3023
-[/us/pl/98/459/s308/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs308%2Fb%2F2
-[/us/pl/98/459/s308/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs308%2Fb%2F3
-[/us/pl/97/115/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fd
-[/us/pl/97/115/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs8
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa
 [/us/usc/t42/s3027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa

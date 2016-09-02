@@ -21,7 +21,7 @@
 
     (2) the feasibility of requiring that the relationship between an offender and victim be reported in Federal records of crimes of aggravated assault, rape, and other violent crimes.
 
-([Pub. L. 103–322, title IV, § 40509][/us/pl/103/322/s40509], Sept. 13, 1994, [108 Stat. 1950][/us/stat/108/1950].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40509, Sept. 13, 1994, [108 Stat. 1950][/us/stat/108/1950].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40509
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1950
 
 

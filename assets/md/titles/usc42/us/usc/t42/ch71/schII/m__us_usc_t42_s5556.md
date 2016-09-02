@@ -79,7 +79,7 @@
 
         (2) The agency involved shall, under appropriate agreements or other arrangements, provide for the disposition of electricity, synthetic fuels, and other byproducts of the project administered by such agency.
 
-([Pub. L. 93–473, § 7][/us/pl/93/473/s7], Oct. 26, 1974, [88 Stat. 1434][/us/stat/88/1434].)
+([Pub. L. 93–473][/us/pl/93/473], § 7, Oct. 26, 1974, [88 Stat. 1434][/us/stat/88/1434].)
 
 ----------
 
@@ -89,7 +89,7 @@
 ----------
 
 [/us/usc/t42/s5555/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5555%2Fc
-[/us/pl/93/473/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473%2Fs7
+[/us/pl/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F473
 [/us/stat/88/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1434
 
 

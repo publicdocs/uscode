@@ -49,17 +49,17 @@
 
         A State that has primary enforcement authority under this section with respect to each existing national primary drinking water regulation shall be considered to have primary enforcement authority with respect to each new or revised national primary drinking water regulation during the period beginning on the effective date of a regulation adopted and submitted by the State with respect to the new or revised national primary drinking water regulation in accordance with subsection (b)(1) of this section and ending at such time as the Administrator makes a determination under subsection (b)(2)(B) of this section with respect to the regulation.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1413, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1665][/us/stat/88/1665]; amended [Pub. L. 99–339, title I, § 101(c)(2)][/us/pl/99/339/s101/c/2], June 19, 1986, [100 Stat. 646][/us/stat/100/646]; [Pub. L. 104–182, title I][/us/pl/104/182], §§ 112, 113(b), Aug. 6, 1996, [110 Stat. 1633][/us/stat/110/1633], 1635.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1413, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1665][/us/stat/88/1665]; amended [Pub. L. 99–339, title I][/us/pl/99/339/tI], § 101(c)(2), June 19, 1986, [100 Stat. 646][/us/stat/100/646]; [Pub. L. 104–182, title I][/us/pl/104/182/tI], §§ 112, 113(b), Aug. 6, 1996, [110 Stat. 1633][/us/stat/110/1633], 1635.)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–182, § 112(a)(1)][/us/pl/104/182/s112/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “has adopted drinking water regulations which are no less stringent than the national primary drinking water regulations in effect under sections 300g–1(a) and 300g–1(b) of this title;”.
+    1996—Subsec. (a)(1). [Pub. L. 104–182][/us/pl/104/182], § 112(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “has adopted drinking water regulations which are no less stringent than the national primary drinking water regulations in effect under sections 300g–1(a) and 300g–1(b) of this title;”.
 
-    Subsec. (a)(5). [Pub. L. 104–182, § 112(b)][/us/pl/104/182/s112/b], inserted “including earthquakes, floods, hurricanes, and other natural disasters, as appropriate” after “emergency circumstances”.
+    Subsec. (a)(5). [Pub. L. 104–182][/us/pl/104/182], § 112(b), inserted “including earthquakes, floods, hurricanes, and other natural disasters, as appropriate” after “emergency circumstances”.
 
-    Subsec. (a)(6). [Pub. L. 104–182, § 113(b)][/us/pl/104/182/s113/b], added par. (6).
+    Subsec. (a)(6). [Pub. L. 104–182][/us/pl/104/182], § 113(b), added par. (6).
 
-    Subsec. (c). [Pub. L. 104–182, § 112(a)(2)][/us/pl/104/182/s112/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–182][/us/pl/104/182], § 112(a)(2), added subsec. (c).
 
     1986—Subsec. (a)(1). [Pub. L. 99–339][/us/pl/99/339] substituted “are no less stringent than the national primary drinking water regulations in effect under sections 300g–1(a) and 300g–1(b) of this title” for subpars. (A) and (B) which related to stringency of State drinking water regulations between period of promulgation and effective date of national interim drinking water regulations and during the period after such effective date.
 
@@ -72,16 +72,16 @@
 
 [/us/usc/t42/s300g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1665
-[/us/pl/99/339/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs101%2Fc%2F2
+[/us/pl/99/339/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtI
 [/us/stat/100/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F646
-[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1633
-[/us/pl/104/182/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs112%2Fa%2F1
-[/us/pl/104/182/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs112%2Fb
-[/us/pl/104/182/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs113%2Fb
-[/us/pl/104/182/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs112%2Fa%2F2
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 
 

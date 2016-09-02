@@ -85,13 +85,13 @@
 
         The Director shall widely disseminate information on grants that may be made under subsection (a) of this section to field personnel of the Corporation and to community volunteer organizations that request such information.
 
-([Pub. L. 93–113, title II, § 225][/us/pl/93/113/s225], as added [Pub. L. 101–204, title V, § 502(a)][/us/pl/101/204/s502/a], Dec. 7, 1989, [103 Stat. 1815][/us/stat/103/1815]; amended [Pub. L. 103–82, title III, § 349][/us/pl/103/82/s349], title IV, § 405(a)(6), Sept. 21, 1993, [107 Stat. 906][/us/stat/107/906], 920; [Pub. L. 111–13, title II, § 2146(d)][/us/pl/111/13/s2146/d], Apr. 21, 2009, [123 Stat. 1589][/us/stat/123/1589].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 225, as added [Pub. L. 101–204, title V][/us/pl/101/204/tV], § 502(a), Dec. 7, 1989, [103 Stat. 1815][/us/stat/103/1815]; amended [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 349, title IV, § 405(a)(6), Sept. 21, 1993, [107 Stat. 906][/us/stat/107/906], 920; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2146(d), Apr. 21, 2009, [123 Stat. 1589][/us/stat/123/1589].)
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–13, § 2146(d)(1)(A)][/us/pl/111/13/s2146/d/1/A], which directed substitution of “(9), (11), and (14)” for “(10), (12), (15), and (16)” in subpar. (B) and “(9)” for “(10)” in subpar. (C), could not be executed because the words to be stricken did not appear in par. (1).
+    2009—Subsec. (a)(1). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(1)(A), which directed substitution of “(9), (11), and (14)” for “(10), (12), (15), and (16)” in subpar. (B) and “(9)” for “(10)” in subpar. (C), could not be executed because the words to be stricken did not appear in par. (1).
 
-    Subsec. (a)(2). [Pub. L. 111–13, § 2146(d)(1)(B)][/us/pl/111/13/s2146/d/1/B], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in paragraph (3), the Director may make such grants—
+    Subsec. (a)(2). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in paragraph (3), the Director may make such grants—
 
     “(A) under the program authorized in part A of this subchapter, to support programs that address the national problems specified in subsection (b) of this section;
 
@@ -99,15 +99,15 @@
 
     “(C) under the program authorized in part C of this subchapter, to support programs that address the national problems referred to in paragraphs (1), (2), (5), (6), and (10) of subsection (b) of this section.”
 
-    Subsec. (a)(4), (5). [Pub. L. 111–13, § 2146(d)(1)(C)][/us/pl/111/13/s2146/d/1/C], added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(1)(C), added pars. (4) and (5).
 
-    Subsec. (b)(2). [Pub. L. 111–13, § 2146(d)(2)(A)][/us/pl/111/13/s2146/d/2/A], inserted “through education, prevention, treatment, and rehabilitation” after “abuse”.
+    Subsec. (b)(2). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(A), inserted “through education, prevention, treatment, and rehabilitation” after “abuse”.
 
-    Subsec. (b)(4). [Pub. L. 111–13, § 2146(d)(2)(B)][/us/pl/111/13/s2146/d/2/B], added par. (4) and struck out former par. (4), which read as follows: “Programs that match volunteer mentors with youth who need guidance.”
+    Subsec. (b)(4). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(B), added par. (4) and struck out former par. (4), which read as follows: “Programs that match volunteer mentors with youth who need guidance.”
 
-    Subsec. (b)(5). [Pub. L. 111–13, § 2146(d)(2)(C)][/us/pl/111/13/s2146/d/2/C], inserted “, including literacy programs that serve youth, and adults, with limited English proficiency” after “assistance”.
+    Subsec. (b)(5). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(C), inserted “, including literacy programs that serve youth, and adults, with limited English proficiency” after “assistance”.
 
-    Subsec. (b)(6) to (9). [Pub. L. 111–13, § 2146(d)(2)(D)][/us/pl/111/13/s2146/d/2/D]–(F), added pars. (6) and (7), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out former pars. (6) to (8), which read as follows:
+    Subsec. (b)(6) to (9). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(D)–(F), added pars. (6) and (7), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out former pars. (6) to (8), which read as follows:
 
     “(6) Programs that provide respite care, including care for frail elderly individuals and for disabled or chronically ill children living at home.
 
@@ -115,31 +115,31 @@
 
     “(8) Programs that work with boarder babies.”
 
-    Subsec. (b)(10). [Pub. L. 111–13, § 2146(d)(2)(F)][/us/pl/111/13/s2146/d/2/F], (G), redesignated par. (11) as (10) and substituted “students” for “educationally disadvantaged children” and “the academic achievement of such students” for “the basic skills of such children”. Former par. (10) redesignated (9).
+    Subsec. (b)(10). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(F), (G), redesignated par. (11) as (10) and substituted “students” for “educationally disadvantaged children” and “the academic achievement of such students” for “the basic skills of such children”. Former par. (10) redesignated (9).
 
-    Subsec. (b)(11). [Pub. L. 111–13, § 2146(d)(2)(H)][/us/pl/111/13/s2146/d/2/H], added par. (11) and struck out former par. (11), which read as follows: “Programs that address environmental needs.”
+    Subsec. (b)(11). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(H), added par. (11) and struck out former par. (11), which read as follows: “Programs that address environmental needs.”
 
-    [Pub. L. 111–13, § 2146(d)(2)(F)][/us/pl/111/13/s2146/d/2/F], redesignated par. (12) as (11). Former par. (11) redesignated (10).
+    [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(F), redesignated par. (12) as (11). Former par. (11) redesignated (10).
 
-    Subsec. (b)(12), (13). [Pub. L. 111–13, § 2146(d)(2)(F)][/us/pl/111/13/s2146/d/2/F], redesignated pars. (13) and (14) as (12) and (13), respectively. Former par. (12) redesignated (11).
+    Subsec. (b)(12), (13). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(F), redesignated pars. (13) and (14) as (12) and (13), respectively. Former par. (12) redesignated (11).
 
-    Subsec. (b)(14). [Pub. L. 111–13, § 2146(d)(2)(I)][/us/pl/111/13/s2146/d/2/I], added par. (14) and struck out former par. (14), which read as follows: “Programs that support criminal justice activities and juvenile justice activities.”
+    Subsec. (b)(14). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(I), added par. (14) and struck out former par. (14), which read as follows: “Programs that support criminal justice activities and juvenile justice activities.”
 
-    [Pub. L. 111–13, § 2146(d)(2)(F)][/us/pl/111/13/s2146/d/2/F], redesignated par. (15) as (14). Former par. (14) redesignated (13).
+    [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(F), redesignated par. (15) as (14). Former par. (14) redesignated (13).
 
-    Subsec. (b)(15) to (18). [Pub. L. 111–13, § 2146(d)(2)(J)][/us/pl/111/13/s2146/d/2/J], (K), redesignated pars. (17) and (18) as (15) and (16), respectively, and struck out former par. (16), which read as follows: “Programs that involve older volunteers working with young people in apprenticeship programs.” Former par. (15) redesignated (14).
+    Subsec. (b)(15) to (18). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(2)(J), (K), redesignated pars. (17) and (18) as (15) and (16), respectively, and struck out former par. (16), which read as follows: “Programs that involve older volunteers working with young people in apprenticeship programs.” Former par. (15) redesignated (14).
 
-    Subsec. (c)(1). [Pub. L. 111–13, § 2146(d)(3)][/us/pl/111/13/s2146/d/3], inserted “and that such applicant has expertise applicable to implementing the proposed program for which the applicant is requesting the grant” after “supported by such applicant”.
+    Subsec. (c)(1). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(3), inserted “and that such applicant has expertise applicable to implementing the proposed program for which the applicant is requesting the grant” after “supported by such applicant”.
 
-    Subsec. (e). [Pub. L. 111–13, § 2146(d)(4)][/us/pl/111/13/s2146/d/4], inserted “widely” after “shall”.
+    Subsec. (e). [Pub. L. 111–13][/us/pl/111/13], § 2146(d)(4), inserted “widely” after “shall”.
 
-    1993—Subsec. (a)(2)(B). [Pub. L. 103–82, § 349(1)][/us/pl/103/82/s349/1], substituted “paragraphs (10), (12), (15), and (16)” for “paragraph (10)”.
+    1993—Subsec. (a)(2)(B). [Pub. L. 103–82][/us/pl/103/82], § 349(1), substituted “paragraphs (10), (12), (15), and (16)” for “paragraph (10)”.
 
-    Subsec. (b)(12) to (18). [Pub. L. 103–82, § 349(2)][/us/pl/103/82/s349/2], added pars. (12) to (18).
+    Subsec. (b)(12) to (18). [Pub. L. 103–82][/us/pl/103/82], § 349(2), added pars. (12) to (18).
 
-    Subsec. (c)(1). [Pub. L. 103–82, § 349(3)][/us/pl/103/82/s349/3], struck out “under this subchapter” after “supported by such applicant”.
+    Subsec. (c)(1). [Pub. L. 103–82][/us/pl/103/82], § 349(3), struck out “under this subchapter” after “supported by such applicant”.
 
-    Subsec. (d)(1). [Pub. L. 103–82, § 349(4)][/us/pl/103/82/s349/4], added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), in each fiscal year there shall be available to the Director to make grants under subsection (a) of this section not more than—
+    Subsec. (d)(1). [Pub. L. 103–82][/us/pl/103/82], § 349(4), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), in each fiscal year there shall be available to the Director to make grants under subsection (a) of this section not more than—
 
     “(A) $6,000,000 from funds appropriated under [section 5082(a) of this title][/us/usc/t42/s5082/a];
 
@@ -147,7 +147,7 @@
 
     “(C) $9,000,000 from funds appropriated under [section 5082(c) of this title][/us/usc/t42/s5082/c].”
 
-    Subsec. (e). [Pub. L. 103–82, § 405(a)(6)][/us/pl/103/82/s405/a/6], substituted “the Corporation” for “the ACTION Agency”.
+    Subsec. (e). [Pub. L. 103–82][/us/pl/103/82], § 405(a)(6), substituted “the Corporation” for “the ACTION Agency”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -168,37 +168,37 @@
 
 [/us/usc/t42/s5082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5082
 [/us/usc/t42/s5082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5082
-[/us/pl/93/113/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs225
-[/us/pl/101/204/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs502%2Fa
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
+[/us/pl/101/204/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtV
 [/us/stat/103/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1815
-[/us/pl/103/82/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs349
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F906
-[/us/pl/111/13/s2146/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1589
-[/us/pl/111/13/s2146/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F1%2FA
-[/us/pl/111/13/s2146/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F1%2FB
-[/us/pl/111/13/s2146/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F1%2FC
-[/us/pl/111/13/s2146/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FA
-[/us/pl/111/13/s2146/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FB
-[/us/pl/111/13/s2146/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FC
-[/us/pl/111/13/s2146/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FD
-[/us/pl/111/13/s2146/d/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FF
-[/us/pl/111/13/s2146/d/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FH
-[/us/pl/111/13/s2146/d/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FF
-[/us/pl/111/13/s2146/d/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FF
-[/us/pl/111/13/s2146/d/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FI
-[/us/pl/111/13/s2146/d/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FF
-[/us/pl/111/13/s2146/d/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F2%2FJ
-[/us/pl/111/13/s2146/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F3
-[/us/pl/111/13/s2146/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fd%2F4
-[/us/pl/103/82/s349/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs349%2F1
-[/us/pl/103/82/s349/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs349%2F2
-[/us/pl/103/82/s349/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs349%2F3
-[/us/pl/103/82/s349/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs349%2F4
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t42/s5082/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5082%2Fa
 [/us/usc/t42/s5082/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5082%2Fb
 [/us/usc/t42/s5082/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5082%2Fc
-[/us/pl/103/82/s405/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fa%2F6
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

@@ -97,7 +97,7 @@
 
         In this section, the term “Commission” means the Equal Employment Opportunity Commission.
 
-([Pub. L. 110–233, title II, § 207][/us/pl/110/233/s207], May 21, 2008, [122 Stat. 914][/us/stat/122/914].)
+([Pub. L. 110–233, title II][/us/pl/110/233/tII], § 207, May 21, 2008, [122 Stat. 914][/us/stat/122/914].)
 
  __References in Text__ 
 
@@ -144,7 +144,7 @@
 [/us/usc/t42/s1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1988
 [/us/usc/t42/s1981a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981a
 [/us/usc/t42/s1981a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981a%2Fa%2F1
-[/us/pl/110/233/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs207
+[/us/pl/110/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtII
 [/us/stat/122/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F914
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

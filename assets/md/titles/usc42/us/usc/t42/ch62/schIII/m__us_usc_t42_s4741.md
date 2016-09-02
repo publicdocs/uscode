@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to strengthen the training and development of State and local government employees and officials, particularly in professional, administrative, and technical fields.
 
-([Pub. L. 91–648, title III, § 301][/us/pl/91/648/s301], Jan. 5, 1971, [84 Stat. 1916][/us/stat/84/1916].)
+([Pub. L. 91–648, title III][/us/pl/91/648/tIII], § 301, Jan. 5, 1971, [84 Stat. 1916][/us/stat/84/1916].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/648/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs301
+[/us/pl/91/648/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIII
 [/us/stat/84/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1916
 
 

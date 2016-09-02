@@ -31,7 +31,7 @@
 
         The court rendering a judgment for the plaintiff in a proceeding brought under section 1346(a)(2) or 1491 of title 28, awarding compensation for the taking of property by a Federal agency, or the Attorney General effecting a settlement of any such proceeding, shall determine and award or allow to such plaintiff, as a part of such judgment or settlement, such sum as will in the opinion of the court or the Attorney General reimburse such plaintiff for his reasonable costs, disbursements, and expenses, including reasonable attorney, appraisal, and engineering fees, actually incurred because of such proceeding.
 
-([Pub. L. 91–646, title III, § 304][/us/pl/91/646/s304], Jan. 2, 1971, [84 Stat. 1906][/us/stat/84/1906].)
+([Pub. L. 91–646, title III][/us/pl/91/646/tIII], § 304, Jan. 2, 1971, [84 Stat. 1906][/us/stat/84/1906].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/91/646/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs304
+[/us/pl/91/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtIII
 [/us/stat/84/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1906
 
 

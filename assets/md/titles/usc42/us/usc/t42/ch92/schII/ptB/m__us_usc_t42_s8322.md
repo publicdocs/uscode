@@ -69,7 +69,7 @@
 
         (2) the petitioner, despite diligent good faith efforts, is not able to make the demonstration necessary to obtain an exemption under subsection (a) or (b) of this section in the time required to prevent such impairment of service.
 
-([Pub. L. 95–620, title II, § 212][/us/pl/95/620/s212], Nov. 9, 1978, [92 Stat. 3300][/us/stat/92/3300]; [Pub. L. 100–42, § 1(c)(6)][/us/pl/100/42/s1/c/6], May 21, 1987, [101 Stat. 312][/us/stat/101/312].)
+([Pub. L. 95–620, title II][/us/pl/95/620/tII], § 212, Nov. 9, 1978, [92 Stat. 3300][/us/stat/92/3300]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6), May 21, 1987, [101 Stat. 312][/us/stat/101/312].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 
  __Amendments__ 
 
-    1987—Subsec. (a)(1). [Pub. L. 100–42, § 1(c)(6)(A)][/us/pl/100/42/s1/c/6/A]–(C), substituted “from” for “or installation from one or more of” in introductory provisions, substituted “the fuel that would be used” for “using imported petroleum” and struck out “or installation” after “powerplant” wherever appearing in subpar. (A), and struck out “or installation” after “powerplant” in subpars. (B) and (D).
+    1987—Subsec. (a)(1). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6)(A)–(C), substituted “from” for “or installation from one or more of” in introductory provisions, substituted “the fuel that would be used” for “using imported petroleum” and struck out “or installation” after “powerplant” wherever appearing in subpar. (A), and struck out “or installation” after “powerplant” in subpars. (B) and (D).
 
-    Subsec. (a)(2). [Pub. L. 100–42, § 1(c)(1)(D)][/us/pl/100/42/s1/c/1/D], struck out “—
+    Subsec. (a)(2). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(1)(D), struck out “—
 
     “(A) in the case of a new major fuel-burning installation, be made with respect to the site of such installation proposed by the petitioner; and
 
@@ -87,21 +87,21 @@
 
     after “paragraph (1) shall”.
 
-    Subsec. (a)(3). [Pub. L. 100–42, § 1(c)(6)(E)][/us/pl/100/42/s1/c/6/E], struck out par. (3) which read as follows: “Notwithstanding the preceding provisions of this subsection, a powerplant which has been granted an exemption under subsection (h) of this section may not be granted an exemption under this subsection.”
+    Subsec. (a)(3). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6)(E), struck out par. (3) which read as follows: “Notwithstanding the preceding provisions of this subsection, a powerplant which has been granted an exemption under subsection (h) of this section may not be granted an exemption under this subsection.”
 
-    Subsec. (b). [Pub. L. 100–42, § 1(c)(6)(A)][/us/pl/100/42/s1/c/6/A], (B), (F), in introductory provisions substituted “from” for “or installation from one or more of”, in par. (1) struck out “or installation” after “powerplant”, and in par. (2) struck out “in the case of a powerplant,” after “(2)”.
+    Subsec. (b). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6)(A), (B), (F), in introductory provisions substituted “from” for “or installation from one or more of”, in par. (1) struck out “or installation” after “powerplant”, and in par. (2) struck out “in the case of a powerplant,” after “(2)”.
 
-    Subsec. (d). [Pub. L. 100–42, § 1(c)(6)(A)][/us/pl/100/42/s1/c/6/A], (B), (G), struck out “(1)” before “After consideration of”, substituted “from” for “installation from one or more of” in introductory provisions, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, struck out “or installation” after “powerplant” wherever appearing in such pars., and struck out former par. (2) which read as follows: “In the case of a new major fuel-burning installation, the percentage determined by the Secretary under subparagraph (B) of paragraph (1) shall not be less than 25 percent.”
+    Subsec. (d). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6)(A), (B), (G), struck out “(1)” before “After consideration of”, substituted “from” for “installation from one or more of” in introductory provisions, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, struck out “or installation” after “powerplant” wherever appearing in such pars., and struck out former par. (2) which read as follows: “In the case of a new major fuel-burning installation, the percentage determined by the Secretary under subparagraph (B) of paragraph (1) shall not be less than 25 percent.”
 
-    Subsec. (e). [Pub. L. 100–42, § 1(c)(6)(B)][/us/pl/100/42/s1/c/6/B], struck out “or installation” after “powerplant” wherever appearing.
+    Subsec. (e). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6)(B), struck out “or installation” after “powerplant” wherever appearing.
 
-    Subsec. (g). [Pub. L. 100–42, § 1(c)(6)(H)][/us/pl/100/42/s1/c/6/H], struck out subsec. (g) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for peakload powerplants.
+    Subsec. (g). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6)(H), struck out subsec. (g) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for peakload powerplants.
 
-    Subsec. (h). [Pub. L. 100–42, § 1(c)(6)(H)][/us/pl/100/42/s1/c/6/H], struck out subsec. (h) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of petroleum for intermediate load powerplants.
+    Subsec. (h). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6)(H), struck out subsec. (h) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of petroleum for intermediate load powerplants.
 
-    Subsec. (i). [Pub. L. 100–42, § 1(c)(6)(H)][/us/pl/100/42/s1/c/6/H], struck out subsec. (i) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
+    Subsec. (i). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6)(H), struck out subsec. (i) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
 
-    Subsec. (j). [Pub. L. 100–42, § 1(c)(6)(H)][/us/pl/100/42/s1/c/6/H], struck out subsec. (j) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
+    Subsec. (j). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(6)(H), struck out subsec. (j) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
 
  __Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After__  __November 9, 1978__ 
 
@@ -114,23 +114,23 @@
 ----------
 ----------
 
-[/us/pl/95/620/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs212
+[/us/pl/95/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtII
 [/us/stat/92/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3300
-[/us/pl/100/42/s1/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F312
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/stat/92/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3289
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301
-[/us/pl/100/42/s1/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6%2FA
-[/us/pl/100/42/s1/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F1%2FD
-[/us/pl/100/42/s1/c/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6%2FE
-[/us/pl/100/42/s1/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6%2FA
-[/us/pl/100/42/s1/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6%2FA
-[/us/pl/100/42/s1/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6%2FB
-[/us/pl/100/42/s1/c/6/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6%2FH
-[/us/pl/100/42/s1/c/6/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6%2FH
-[/us/pl/100/42/s1/c/6/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6%2FH
-[/us/pl/100/42/s1/c/6/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F6%2FH
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/pl/95/620/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs902%2Fa
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301
 

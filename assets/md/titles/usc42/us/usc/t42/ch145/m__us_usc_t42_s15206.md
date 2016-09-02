@@ -17,7 +17,7 @@
 
     There is established within the Department of Justice a National Medal of Valor Office. The Office shall provide staff support to the Board to establish criteria and procedures for the submission of recommendations of nominees for the Medal of Valor and for the final design of the Medal of Valor.
 
-([Pub. L. 107–12, § 7][/us/pl/107/12/s7], May 30, 2001, [115 Stat. 22][/us/stat/115/22].)
+([Pub. L. 107–12][/us/pl/107/12], § 7, May 30, 2001, [115 Stat. 22][/us/stat/115/22].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/12/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs7
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F22
 
 

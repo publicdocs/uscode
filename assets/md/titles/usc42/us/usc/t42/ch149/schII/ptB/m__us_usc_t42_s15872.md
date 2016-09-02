@@ -21,7 +21,7 @@
 
     (2) submit to Congress the updated assessment.
 
-([Pub. L. 109–58, title II, § 226][/us/pl/109/58/s226], Aug. 8, 2005, [119 Stat. 665][/us/stat/119/665].)
+([Pub. L. 109–58, title II][/us/pl/109/58/tII], § 226, Aug. 8, 2005, [119 Stat. 665][/us/stat/119/665].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs226
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F665
 
 

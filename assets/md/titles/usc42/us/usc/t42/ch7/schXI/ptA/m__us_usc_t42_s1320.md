@@ -17,7 +17,7 @@
 
     No payment shall be made under this chapter with respect to any experimental, pilot, demonstration, or other project all or any part of which is wholly financed with Federal funds made available under this chapter (without any State, local, or other non-Federal financial participation) unless such project shall have been personally approved by the Secretary or Deputy Secretary of Health and Human Services.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1120, as added [Pub. L. 90–248, title II, § 249][/us/pl/90/248/s249], Jan. 2, 1968, [81 Stat. 919][/us/stat/81/919]; amended [Pub. L. 93–608, § 2(5)][/us/pl/93/608/s2/5], Jan. 2, 1975, [88 Stat. 1971][/us/stat/88/1971]; [Pub. L. 97–375, title I, § 107(a)][/us/pl/97/375/s107/a], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; [Pub. L. 98–369, div. B, title VI, § 2663(j)(2)(D)(v)][/us/pl/98/369/s2663/j/2/D/v], July 18, 1984, [98 Stat. 1170][/us/stat/98/1170]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1120, as added [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 249, Jan. 2, 1968, [81 Stat. 919][/us/stat/81/919]; amended [Pub. L. 93–608][/us/pl/93/608], § 2(5), Jan. 2, 1975, [88 Stat. 1971][/us/stat/88/1971]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 107(a), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(j)(2)(D)(v), July 18, 1984, [98 Stat. 1170][/us/stat/98/1170]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(c)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454.)
 
  __Amendments__ 
 
@@ -45,15 +45,15 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs249
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F919
-[/us/pl/93/608/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608%2Fs2%2F5
+[/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/stat/88/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1971
-[/us/pl/97/375/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs107%2Fa
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
-[/us/pl/98/369/s2663/j/2/D/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F2%2FD%2Fv
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1170
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

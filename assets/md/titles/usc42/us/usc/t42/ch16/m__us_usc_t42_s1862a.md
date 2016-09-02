@@ -31,7 +31,7 @@
 
     (b) It is the purpose of sections 1862a to 1862d of this title to assist in modernizing and revitalizing the Nation’s research facilities at institutions of higher education, independent non-profit research institutions and research museums, and consortia thereof, through capital investment.
 
-([Pub. L. 100–570, title II, § 202][/us/pl/100/570/s202], Oct. 31, 1988, [102 Stat. 2873][/us/stat/102/2873].)
+([Pub. L. 100–570, title II][/us/pl/100/570/tII], § 202, Oct. 31, 1988, [102 Stat. 2873][/us/stat/102/2873].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1862a, [Pub. L. 100–418, title VI, § 6402][/us/pl/100/418/s6402], Aug. 23, 1988, [102 Stat. 1542][/us/stat/102/1542], related to establishment of National Science Foundation Academic Research Facilities Modernization Program, prior to repeal by [Pub. L. 100–570, § 206][/us/pl/100/570/s206].
+    A prior section 1862a, [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6402, Aug. 23, 1988, [102 Stat. 1542][/us/stat/102/1542], related to establishment of National Science Foundation Academic Research Facilities Modernization Program, prior to repeal by [Pub. L. 100–570][/us/pl/100/570], § 206.
 
 ----------
 
@@ -52,14 +52,14 @@
 ----------
 ----------
 
-[/us/pl/100/570/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs202
+[/us/pl/100/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtII
 [/us/stat/102/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2873
 [/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
 [/us/stat/102/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2873
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
-[/us/pl/100/418/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6402
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1542
-[/us/pl/100/570/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs206
+[/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
 
 

@@ -23,7 +23,7 @@
 
         The Secretary shall make grants or enter into contracts for projects of national significance to support the development of national and State policies and practices related to the development and implementation, or expansion and enhancement, of family-centered and family-directed systems of family support services for families of children with disabilities.
 
-([Pub. L. 106–402, title II, § 211][/us/pl/106/402/s211], Oct. 30, 2000, [114 Stat. 1733][/us/stat/114/1733].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 211, Oct. 30, 2000, [114 Stat. 1733][/us/stat/114/1733].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s15091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15091
-[/us/pl/106/402/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs211
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1733
 
 

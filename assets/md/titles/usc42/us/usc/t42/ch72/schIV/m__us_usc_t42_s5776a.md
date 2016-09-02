@@ -87,11 +87,11 @@
 
             For purposes of this paragraph, submitting an application for a grant under this subchapter shall not be considered lobbying activity in violation of subparagraph (A).
 
-([Pub. L. 93–415, title IV, § 407][/us/pl/93/415/s407], as added [Pub. L. 113–38, § 4][/us/pl/113/38/s4], Sept. 30, 2013, [127 Stat. 529][/us/stat/127/529].)
+([Pub. L. 93–415, title IV][/us/pl/93/415/tIV], § 407, as added [Pub. L. 113–38][/us/pl/113/38], § 4, Sept. 30, 2013, [127 Stat. 529][/us/stat/127/529].)
 
  __Prior Provisions__ 
 
-    A prior section 5776a, [Pub. L. 93–415, title IV, § 407][/us/pl/93/415/s407], as added [Pub. L. 103–322, title XVII, § 170303(2)][/us/pl/103/322/s170303/2], Sept. 13, 1994, [108 Stat. 2043][/us/stat/108/2043], established the Missing and Exploited Children’s Task Force, prior to repeal by [Pub. L. 110–240, § 5(1)][/us/pl/110/240/s5/1], June 3, 2008, [122 Stat. 1564][/us/stat/122/1564].
+    A prior section 5776a, [Pub. L. 93–415, title IV][/us/pl/93/415/tIV], § 407, as added [Pub. L. 103–322, title XVII][/us/pl/103/322/tXVII], § 170303(2), Sept. 13, 1994, [108 Stat. 2043][/us/stat/108/2043], established the Missing and Exploited Children’s Task Force, prior to repeal by [Pub. L. 110–240][/us/pl/110/240], § 5(1), June 3, 2008, [122 Stat. 1564][/us/stat/122/1564].
 
 ----------
 
@@ -102,13 +102,13 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs511%2Fa
-[/us/pl/93/415/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs407
-[/us/pl/113/38/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs4
+[/us/pl/93/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIV
+[/us/pl/113/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38
 [/us/stat/127/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F529
-[/us/pl/93/415/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs407
-[/us/pl/103/322/s170303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs170303%2F2
+[/us/pl/93/415/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtIV
+[/us/pl/103/322/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVII
 [/us/stat/108/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2043
-[/us/pl/110/240/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs5%2F1
+[/us/pl/110/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240
 [/us/stat/122/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1564
 
 

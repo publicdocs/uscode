@@ -27,7 +27,7 @@
 
         In the case of a business associate that violates any provision of subsection (a) or (b), the provisions of sections 1176 and 1177 of the Social Security Act ([42 U.S.C. 1320d–5][/us/usc/t42/s1320d–5], 1320d–6) shall apply to the business associate with respect to such violation in the same manner as such provisions apply to a person who violates a provision of part C of title XI of such Act \[[42 U.S.C. 1320d][/us/usc/t42/s1320d] et seq.\].
 
-([Pub. L. 111–5, div. A, title XIII, § 13404][/us/pl/111/5/s13404], Feb. 17, 2009, [123 Stat. 264][/us/stat/123/264].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13404, Feb. 17, 2009, [123 Stat. 264][/us/stat/123/264].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t42/s1320d–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%935
 [/us/usc/t42/s1320d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d
-[/us/pl/111/5/s13404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13404
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F264
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F258

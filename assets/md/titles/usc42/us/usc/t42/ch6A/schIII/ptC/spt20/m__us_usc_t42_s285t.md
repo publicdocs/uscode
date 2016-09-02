@@ -147,7 +147,7 @@
 
         The Director of the Institute, as the primary Federal officials  <sup>\[5\]</sup>  <sup><sup> 5 So in original. </sup></sup>  with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review and evaluate research and other activities conducted or supported by the Institutes and Centers of the National Institutes of Health.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–3, formerly § 485E, as added [Pub. L. 106–525, title I, § 101(a)][/us/pl/106/525/s101/a], Nov. 22, 2000, [114 Stat. 2497][/us/stat/114/2497]; amended [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(44), 104(b)(1)(N), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688], 3693; renumbered § 464z–3 and amended [Pub. L. 111–148, title X, § 10334(c)(1)(D)][/us/pl/111/148/s10334/c/1/D], (2), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973]; [Pub. L. 112–74, div. F, title II, § 221(d)(3)][/us/pl/112/74/s221/d/3], Dec. 23, 2011, [125 Stat. 1090][/us/stat/125/1090].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464z–3, formerly § 485E, as added [Pub. L. 106–525, title I][/us/pl/106/525/tI], § 101(a), Nov. 22, 2000, [114 Stat. 2497][/us/stat/114/2497]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], §§ 103(b)(44), 104(b)(1)(N), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688], 3693; renumbered § 464z–3 and amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10334(c)(1)(D), (2), Mar. 23, 2010, [124 Stat. 973][/us/stat/124/973]; [Pub. L. 112–74, div. F, title II][/us/pl/112/74/dF/tII], § 221(d)(3), Dec. 23, 2011, [125 Stat. 1090][/us/stat/125/1090].)
 
  __Codification__ 
 
@@ -157,15 +157,15 @@
 
     2011—Subsec. (i)(1). [Pub. L. 112–74][/us/pl/112/74] substituted “Director of NIH” for “Director of the National Institute for Research Resources” and “283k(c)(2)” for “287a–1(c)(3)” and inserted “under such section” after “Institutions of Emerging Excellence”.
 
-    2010—[Pub. L. 111–148, § 10334(c)(1)(D)(iii)][/us/pl/111/148/s10334/c/1/D/iii], substituted “Institute” for “Center” in section catchline.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10334(c)(1)(D)(iii), substituted “Institute” for “Center” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–148, § 10334(c)(1)(D)(ii)][/us/pl/111/148/s10334/c/1/D/ii], (iii), substituted “National Institute on Minority Health and Health Disparities” for “National Center on Minority Health and Health Disparities” and “Institute” for “Center”.
+    Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(1)(D)(ii), (iii), substituted “National Institute on Minority Health and Health Disparities” for “National Center on Minority Health and Health Disparities” and “Institute” for “Center”.
 
-    Subsecs. (b), (d) to (g). [Pub. L. 111–148, § 10334(c)(1)(D)(iii)][/us/pl/111/148/s10334/c/1/D/iii], substituted “Institute” for “Center” wherever appearing.
+    Subsecs. (b), (d) to (g). [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(1)(D)(iii), substituted “Institute” for “Center” wherever appearing.
 
-    Subsec. (h). [Pub. L. 111–148, § 10334(c)(2)(C)][/us/pl/111/148/s10334/c/2/C], added at end subsec. (h) relating to interagency coordination.
+    Subsec. (h). [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(2)(C), added at end subsec. (h) relating to interagency coordination.
 
-    Subsec. (h)(1). [Pub. L. 111–148, § 10334(c)(2)(A)][/us/pl/111/148/s10334/c/2/A], in par. (1) of subsec. (h) relating to research endowments, substituted “research endowments—
+    Subsec. (h)(1). [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(2)(A), in par. (1) of subsec. (h) relating to research endowments, substituted “research endowments—
 
     “(1) at centers of excellence under [section 293 of this title][/us/usc/t42/s293]; and
 
@@ -173,15 +173,15 @@
 
     for “research endowments at centers of excellence under [section 293 of this title][/us/usc/t42/s293].”
 
-    [Pub. L. 111–148, § 10334(c)(1)(D)(iii)][/us/pl/111/148/s10334/c/1/D/iii], in par. (1) of subsec. (h) relating to research endowments, substituted “Institute” for “Center”.
+    [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(1)(D)(iii), in par. (1) of subsec. (h) relating to research endowments, substituted “Institute” for “Center”.
 
-    Subsec. (h)(2). [Pub. L. 111–148, § 10334(c)(1)(D)(iii)][/us/pl/111/148/s10334/c/1/D/iii], in par. (2) of subsec. (h) relating to research endowments, substituted “Institute” for “Center” in introductory provisions.
+    Subsec. (h)(2). [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(1)(D)(iii), in par. (2) of subsec. (h) relating to research endowments, substituted “Institute” for “Center” in introductory provisions.
 
-    Subsec. (h)(2)(A). [Pub. L. 111–148, § 10334(c)(2)(B)][/us/pl/111/148/s10334/c/2/B], in par. (2)(A) of subsec. (h) relating to research endowments, substituted “median” for “average”.
+    Subsec. (h)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(2)(B), in par. (2)(A) of subsec. (h) relating to research endowments, substituted “median” for “average”.
 
-    Subsecs. (i), (j). [Pub. L. 111–148, § 10334(c)(1)(D)(iii)][/us/pl/111/148/s10334/c/1/D/iii], substituted “Institute” for “Center” wherever appearing.
+    Subsecs. (i), (j). [Pub. L. 111–148][/us/pl/111/148], § 10334(c)(1)(D)(iii), substituted “Institute” for “Center” wherever appearing.
 
-    2007—Subsec. (k). [Pub. L. 109–482, § 104(b)(1)(N)][/us/pl/109/482/s104/b/1/N], struck out heading and text of subsec. (k). Text read as follows: “The Director of the Center shall prepare an annual report on the activities carried out or to be carried out by the Center, and shall submit each such report to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Commerce of the House of Representatives, the Secretary, and the Director of NIH. With respect to the fiscal year involved, the report shall—
+    2007—Subsec. (k). [Pub. L. 109–482][/us/pl/109/482], § 104(b)(1)(N), struck out heading and text of subsec. (k). Text read as follows: “The Director of the Center shall prepare an annual report on the activities carried out or to be carried out by the Center, and shall submit each such report to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Commerce of the House of Representatives, the Secretary, and the Director of NIH. With respect to the fiscal year involved, the report shall—
 
     “(1) describe and evaluate the progress made in health disparities research conducted or supported by the national research institutes;
 
@@ -191,7 +191,7 @@
 
     “(4) contain such recommendations as the Director considers appropriate.”
 
-    Subsec. (l). [Pub. L. 109–482, § 103(b)(44)][/us/pl/109/482/s103/b/44], struck out heading and text of subsec. (l). Text read as follows: “For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health.”
+    Subsec. (l). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(44), struck out heading and text of subsec. (l). Text read as follows: “For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health.”
 
  __Effective Date of 2007 Amendment__ 
 
@@ -199,7 +199,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–525, § 2][/us/pl/106/525/s2], Nov. 22, 2000, [114 Stat. 2495][/us/stat/114/2495], provided that: 
+[Pub. L. 106–525][/us/pl/106/525], § 2, Nov. 22, 2000, [114 Stat. 2495][/us/stat/114/2495], provided that: 
 
 > “The Congress finds as follows:
 
@@ -227,7 +227,7 @@
 
  __Public Awareness and Dissemination of Information on Health Disparities__ 
 
-[Pub. L. 106–525, title V, § 501][/us/pl/106/525/s501], Nov. 22, 2000, [114 Stat. 2510][/us/stat/114/2510], provided that:
+[Pub. L. 106–525, title V][/us/pl/106/525/tV], § 501, Nov. 22, 2000, [114 Stat. 2510][/us/stat/114/2510], provided that:
 
 >     “(a)  __Public Awareness on Health Disparities__  __.—__ 
 
@@ -249,7 +249,7 @@
 
     Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 ----------
 
@@ -267,41 +267,41 @@
 [/us/usc/t42/s284a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284a
 [/us/usc/t42/s283c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283c
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/525/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs101%2Fa
+[/us/pl/106/525/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2FtI
 [/us/stat/114/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2497
-[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/pl/111/148/s10334/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F973
-[/us/pl/112/74/s221/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fd%2F3
+[/us/pl/112/74/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtII
 [/us/stat/125/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1090
 [/us/usc/t42/s287c–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287c%E2%80%9331
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
-[/us/pl/111/148/s10334/c/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fiii
-[/us/pl/111/148/s10334/c/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fii
-[/us/pl/111/148/s10334/c/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fiii
-[/us/pl/111/148/s10334/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F2%2FC
-[/us/pl/111/148/s10334/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F2%2FA
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293
 [/us/usc/t42/s285t–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285t%E2%80%931
 [/us/usc/t42/s293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs293
-[/us/pl/111/148/s10334/c/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fiii
-[/us/pl/111/148/s10334/c/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fiii
-[/us/pl/111/148/s10334/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F2%2FB
-[/us/pl/111/148/s10334/c/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10334%2Fc%2F1%2FD%2Fiii
-[/us/pl/109/482/s104/b/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F1%2FN
-[/us/pl/109/482/s103/b/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F44
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/pl/106/525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs2
+[/us/pl/106/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525
 [/us/stat/114/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2495
-[/us/pl/106/525/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs501
+[/us/pl/106/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2FtV
 [/us/stat/114/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2510
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 

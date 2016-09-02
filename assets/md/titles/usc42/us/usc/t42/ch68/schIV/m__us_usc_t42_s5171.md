@@ -27,7 +27,7 @@
 
         In implementing this section, Federal agencies shall evaluate the natural hazards to which these facilities are exposed and shall take appropriate action to mitigate such hazards, including safe land-use and construction practices, in accordance with standards prescribed by the President.
 
-([Pub. L. 93–288, title IV, § 405][/us/pl/93/288/s405], formerly § 401, May 22, 1974, [88 Stat. 153][/us/stat/88/153]; renumbered § 405, [Pub. L. 100–707, title I, § 106(a)(2)][/us/pl/100/707/s106/a/2], Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 405, formerly § 401, May 22, 1974, [88 Stat. 153][/us/stat/88/153]; renumbered § 405, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(a)(2), Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696].)
 
  __Prior Provisions__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/93/288/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs405
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F153
-[/us/pl/100/707/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fa%2F2
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4696
 [/us/pl/93/288/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs405
 [/us/usc/t42/s5175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5175

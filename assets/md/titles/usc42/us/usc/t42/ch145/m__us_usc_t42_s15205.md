@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Attorney General such sums as may be necessary to carry out this chapter.
 
-([Pub. L. 107–12, § 6][/us/pl/107/12/s6], May 30, 2001, [115 Stat. 22][/us/stat/115/22].)
+([Pub. L. 107–12][/us/pl/107/12], § 6, May 30, 2001, [115 Stat. 22][/us/stat/115/22].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/12/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs6
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F22
 [/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F20

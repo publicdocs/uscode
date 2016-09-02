@@ -31,7 +31,7 @@
 
         Nothing in this section shall be construed to require that a private or government entity adopt or use the technology provided under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3007, as added [Pub. L. 111–5, div. A, title XIII, § 13101][/us/pl/111/5/s13101], Feb. 17, 2009, [123 Stat. 241][/us/stat/123/241].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3007, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13101, Feb. 17, 2009, [123 Stat. 241][/us/stat/123/241].)
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/usc/t42/s300jj–11/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9311%2Fc%2F3
 [/us/usc/t42/s300jj–13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9313%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F241
 
 

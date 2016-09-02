@@ -119,7 +119,7 @@
 
         The provisions of [section 1437p of this title][/us/usc/t42/s1437p] shall not apply to disposition of public housing dwelling units under a homeownership program under this section.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 32, as added [Pub. L. 105–276, title V, § 536][/us/pl/105/276/s536], Oct. 21, 1998, [112 Stat. 2586][/us/stat/112/2586].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 32, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 536, Oct. 21, 1998, [112 Stat. 2586][/us/stat/112/2586].)
 
  __Effective Date__ 
 
@@ -135,7 +135,7 @@
 [/us/usc/t42/s1437g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fd
 [/us/usc/t42/s1437p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437p
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs536
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2586
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

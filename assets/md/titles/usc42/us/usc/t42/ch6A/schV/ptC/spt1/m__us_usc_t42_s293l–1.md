@@ -89,7 +89,7 @@
 
         There is authorized to be appropriated, $25,000,000 for fiscal year 2010, $50,000,000 for fiscal year 2011, $50,000,000 for fiscal year 2012, and such sums as may be necessary for each fiscal year thereafter to carry out this section. Not to exceed $5,000,000 annually may be used for technical assistance program grants.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 749A, as added [Pub. L. 111–148, title V, § 5508(a)][/us/pl/111/148/s5508/a], Mar. 23, 2010, [124 Stat. 668][/us/stat/124/668].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 749A, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5508(a), Mar. 23, 2010, [124 Stat. 668][/us/stat/124/668].)
 
 ----------
 
@@ -103,7 +103,7 @@
 [/us/usc/t42/s1395x/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Faa
 [/us/usc/t25/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1603
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5508%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F668
 
 

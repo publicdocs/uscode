@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated $20,000,000 for each of the fiscal years 2008 through 2012 to carry out this part.
 
-([Pub. L. 103–322, title III, § 31707][/us/pl/103/322/s31707], Sept. 13, 1994, [108 Stat. 1892][/us/stat/108/1892]; [Pub. L. 110–177, title III, § 301(b)][/us/pl/110/177/s301/b], Jan. 7, 2008, [121 Stat. 2539][/us/stat/121/2539].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31707, Sept. 13, 1994, [108 Stat. 1892][/us/stat/108/1892]; [Pub. L. 110–177, title III][/us/pl/110/177/tIII], § 301(b), Jan. 7, 2008, [121 Stat. 2539][/us/stat/121/2539].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31707
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1892
-[/us/pl/110/177/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs301%2Fb
+[/us/pl/110/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtIII
 [/us/stat/121/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2539
 [/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
 

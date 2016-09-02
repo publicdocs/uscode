@@ -17,7 +17,7 @@
 
     Subject to the provisions of sections 2000a–4 and 2000g–2(b) of this title, the Director shall, on or before January 31 of each year, submit to the Congress a report of the activities of the Service during the preceding fiscal year.
 
-([Pub. L. 88–352, title X, § 1004][/us/pl/88/352/s1004], July 2, 1964, [78 Stat. 267][/us/stat/78/267].)
+([Pub. L. 88–352, title X][/us/pl/88/352/tX], § 1004, July 2, 1964, [78 Stat. 267][/us/stat/78/267].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs1004
+[/us/pl/88/352/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtX
 [/us/stat/78/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F267
 
 

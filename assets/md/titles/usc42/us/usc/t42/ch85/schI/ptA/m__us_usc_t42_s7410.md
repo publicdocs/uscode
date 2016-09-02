@@ -97,13 +97,13 @@
 
         (3)
 
-            (A) Repealed. [Pub. L. 101–549, title I, § 101(d)(1)][/us/pl/101/549/s101/d/1], Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
+            (A) Repealed. [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 101(d)(1), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
 
             (B) As soon as practicable, the Administrator shall, consistent with the purposes of this chapter and the Energy Supply and Environmental Coordination Act of 1974 \[[15 U.S.C. 791][/us/usc/t15/s791] et seq.\], review each State’s applicable implementation plans and report to the State on whether such plans can be revised in relation to fuel burning stationary sources (or persons supplying fuel to such sources) without interfering with the attainment and maintenance of any national ambient air quality standard within the period permitted in this section. If the Administrator determines that any such plan can be revised, he shall notify the State that a plan revision may be submitted by the State. Any plan revision which is submitted by the State shall, after public notice and opportunity for public hearing, be approved by the Administrator if the revision relates only to fuel burning stationary sources (or persons supplying fuel to such sources), and the plan as revised complies with paragraph (2) of this subsection. The Administrator shall approve or disapprove any revision no later than three months after its submission.
 
             (C) Neither the State, in the case of a plan (or portion thereof) approved under this subsection, nor the Administrator, in the case of a plan (or portion thereof) promulgated under subsection (c) of this section, shall be required to revise an applicable implementation plan because one or more exemptions under [section 7418 of this title][/us/usc/t42/s7418] (relating to Federal facilities), enforcement orders under section 7413(d)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, suspensions under subsection (f) or (g) of this section (relating to temporary energy or economic authority), orders under [section 7419 of this title][/us/usc/t42/s7419] (relating to primary nonferrous smelters), or extensions of compliance in decrees entered under section 7413(e)  <sup>\[1\]</sup>  of this title (relating to iron- and steel-producing operations) have been granted, if such plan would have met the requirements of this section if no such exemptions, orders, or extensions had been granted.
 
-        (4) Repealed. [Pub. L. 101–549, title I, § 101(d)(2)][/us/pl/101/549/s101/d/2], Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
+        (4) Repealed. [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 101(d)(2), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
 
         (5)
 
@@ -149,11 +149,11 @@
 
         (2)
 
-            (A) Repealed. [Pub. L. 101–549, title I, § 101(d)(3)(A)][/us/pl/101/549/s101/d/3/A], Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
+            (A) Repealed. [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 101(d)(3)(A), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
 
             (B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan’s including a parking surcharge regulation.
 
-            (C) Repealed. [Pub. L. 101–549, title I, § 101(d)(3)(B)][/us/pl/101/549/s101/d/3/B], Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
+            (C) Repealed. [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 101(d)(3)(B), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
 
             (D)
 
@@ -169,7 +169,7 @@
 
         (3) Upon application of the chief executive officer of any general purpose unit of local government, if the Administrator determines that such unit has adequate authority under State or local law, the Administrator may delegate to such unit the authority to implement and enforce within the jurisdiction of such unit any part of a plan promulgated under this subsection. Nothing in this paragraph shall prevent the Administrator from implementing or enforcing any applicable provision of a plan promulgated under this subsection.
 
-        (4) Repealed. [Pub. L. 101–549, title I, § 101(d)(3)(C)][/us/pl/101/549/s101/d/3/C], Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
+        (4) Repealed. [Pub. L. 101–549, title I][/us/pl/101/549/tI], § 101(d)(3)(C), Nov. 15, 1990, [104 Stat. 2409][/us/stat/104/2409].
 
         (5)
 
@@ -187,7 +187,7 @@
 
             (C) Any revision of an implementation plan for purposes of meeting the requirements of subparagraph (B) shall be submitted in coordination with any plan revision required under part D of this subchapter.
 
-    (d) __, (e) Repealed.__  __[__  __Pub. L. 101–549, title I, § 101(d)(4)__  __][/us/pl/101/549/s101/d/4]__  __, (5),__  __Nov. 15, 1990__  __,__  __[__  __104 Stat. 2409__  __][/us/stat/104/2409]__ 
+    (d) __, (e) Repealed.__  __[__  __Pub. L. 101–549, title I__  __][/us/pl/101/549/tI]__  __, § 101(d)(4), (5),__  __Nov. 15, 1990__  __,__  __[__  __104 Stat. 2409__  __][/us/stat/104/2409]__ 
 
     (f) __National or regional energy emergencies; determination by President__ 
 
@@ -319,15 +319,15 @@
 
         Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a comma. </sup></sup>  effectiveness, need for revision, or implementation of any plan or plan revision required under this chapter.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 110, as added [Pub. L. 91–604, § 4(a)][/us/pl/91/604/s4/a], Dec. 31, 1970, [84 Stat. 1680][/us/stat/84/1680]; amended [Pub. L. 93–319, § 4][/us/pl/93/319/s4], June 22, 1974, [88 Stat. 256][/us/stat/88/256]; [Pub. L. 95–95, title I][/us/pl/95/95], §§ 107, 108, Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691], 693; [Pub. L. 95–190, § 14(a)(1)][/us/pl/95/190/s14/a/1]–(6), Nov. 16, 1977, [91 Stat. 1399][/us/stat/91/1399]; [Pub. L. 97–23, § 3][/us/pl/97/23/s3], July 17, 1981, [95 Stat. 142][/us/stat/95/142]; [Pub. L. 101–549, title I][/us/pl/101/549], §§ 101(b)–(d), 102(h), 107(c), 108(d), title IV, § 412, Nov. 15, 1990, [104 Stat. 2404–2408][/us/stat/104/2404-2408], 2422, 2464, 2466, 2634.)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 110, as added [Pub. L. 91–604][/us/pl/91/604], § 4(a), Dec. 31, 1970, [84 Stat. 1680][/us/stat/84/1680]; amended [Pub. L. 93–319][/us/pl/93/319], § 4, June 22, 1974, [88 Stat. 256][/us/stat/88/256]; [Pub. L. 95–95, title I][/us/pl/95/95/tI], §§ 107, 108, Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691], 693; [Pub. L. 95–190][/us/pl/95/190], § 14(a)(1)–(6), Nov. 16, 1977, [91 Stat. 1399][/us/stat/91/1399]; [Pub. L. 97–23][/us/pl/97/23], § 3, July 17, 1981, [95 Stat. 142][/us/stat/95/142]; [Pub. L. 101–549, title I][/us/pl/101/549/tI], §§ 101(b)–(d), 102(h), 107(c), 108(d), title IV, § 412, Nov. 15, 1990, [104 Stat. 2404–2408][/us/stat/104/2404-2408], 2422, 2464, 2466, 2634.)
 
  __References in Text__ 
 
     The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (a)(3)(B), is [Pub. L. 93–319][/us/pl/93/319], June 22, 1974, [88 Stat. 246][/us/stat/88/246], as amended, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15][/us/usc/t15/s791] and Tables.
 
-    [Section 7413 of this title][/us/usc/t42/s7413], referred to in subsecs. (a)(3)(C), (6), (f)(5), (g)(3), and (i), was amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, subsecs. (d) and (e) of section 7413 no longer relates to final compliance orders and steel industry compliance extension, respectively.
+    [Section 7413 of this title][/us/usc/t42/s7413], referred to in subsecs. (a)(3)(C), (6), (f)(5), (g)(3), and (i), was amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, subsecs. (d) and (e) of section 7413 no longer relates to final compliance orders and steel industry compliance extension, respectively.
 
-    [Section 1857c–10 of this title][/us/usc/t42/s1857c–10], as in effect before August 7, 1977, referred to in subsecs. (f)(5) and (g)(3), was in the original “section 119, as in effect before the date of the enactment of this paragraph”, meaning section 119 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, as added June 22, 1974, [Pub. L. 93–319, § 3][/us/pl/93/319/s3], [88 Stat. 248][/us/stat/88/248], (which was classified to [section 1857c–10 of this title][/us/usc/t42/s1857c–10]) as in effect prior to the enactment of subsecs. (f)(5) and (g)(3) of this section by [Pub. L. 95–95, § 107][/us/pl/95/95/s107], Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691], effective Aug. 7, 1977. [Section 112(b)(1) of Pub. L. 95–95][/us/pl/95/95/s112/b/1] repealed section 119 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, as added by [Pub. L. 93–319][/us/pl/93/319], and provided that all references to such section 119 in any subsequent enactment which supersedes [Pub. L. 93–319][/us/pl/93/319] shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to [section 7413(d)(5) of this title][/us/usc/t42/s7413/d/5]. [Section 7413 of this title][/us/usc/t42/s7413] was subsequently amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], see note above. [Section 117(b) of Pub. L. 95–95][/us/pl/95/95/s117/b] added a new section 119 of act July 14, 1955, which is classified to [section 7419 of this title][/us/usc/t42/s7419].
+    [Section 1857c–10 of this title][/us/usc/t42/s1857c–10], as in effect before August 7, 1977, referred to in subsecs. (f)(5) and (g)(3), was in the original “section 119, as in effect before the date of the enactment of this paragraph”, meaning section 119 of [act July 14, 1955, ch. 360, title I][/us/act/1955-07-14/ch360/tI], as added June 22, 1974, [Pub. L. 93–319][/us/pl/93/319], § 3, [88 Stat. 248][/us/stat/88/248], (which was classified to [section 1857c–10 of this title][/us/usc/t42/s1857c–10]) as in effect prior to the enactment of subsecs. (f)(5) and (g)(3) of this section by [Pub. L. 95–95][/us/pl/95/95], § 107, Aug. 7, 1977, [91 Stat. 691][/us/stat/91/691], effective Aug. 7, 1977. [Section 112(b)(1) of Pub. L. 95–95][/us/pl/95/95/s112/b/1] repealed section 119 of [act July 14, 1955, ch. 360, title I][/us/act/1955-07-14/ch360/tI], as added by [Pub. L. 93–319][/us/pl/93/319], and provided that all references to such section 119 in any subsequent enactment which supersedes [Pub. L. 93–319][/us/pl/93/319] shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to [section 7413(d)(5) of this title][/us/usc/t42/s7413/d/5]. [Section 7413 of this title][/us/usc/t42/s7413] was subsequently amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], see note above. [Section 117(b) of Pub. L. 95–95][/us/pl/95/95/s117/b] added a new section 119 of act July 14, 1955, which is classified to [section 7419 of this title][/us/usc/t42/s7419].
 
  __Codification__ 
 
@@ -339,97 +339,97 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a)(1). [Pub. L. 101–549, § 101(d)(8)][/us/pl/101/549/s101/d/8], substituted “3 years (or such shorter period as the Administrator may prescribe)” for “nine months” in two places.
+    1990—Subsec. (a)(1). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(8), substituted “3 years (or such shorter period as the Administrator may prescribe)” for “nine months” in two places.
 
-    Subsec. (a)(2). [Pub. L. 101–549, § 101(b)][/us/pl/101/549/s101/b], amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereof and listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
+    Subsec. (a)(2). [Pub. L. 101–549][/us/pl/101/549], § 101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereof and listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
 
-    Subsec. (a)(3)(A). [Pub. L. 101–549, § 101(d)(1)][/us/pl/101/549/s101/d/1], struck out subpar. (A) which directed Administrator to approve any revision of an implementation plan if it met certain requirements and had been adopted by the State after reasonable notice and public hearings.
+    Subsec. (a)(3)(A). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(1), struck out subpar. (A) which directed Administrator to approve any revision of an implementation plan if it met certain requirements and had been adopted by the State after reasonable notice and public hearings.
 
-    Subsec. (a)(3)(D). [Pub. L. 101–549, § 101(d)(1)][/us/pl/101/549/s101/d/1], struck out subpar. (D) which directed that certain implementation plans be revised to include comprehensive measures and requirements.
+    Subsec. (a)(3)(D). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(1), struck out subpar. (D) which directed that certain implementation plans be revised to include comprehensive measures and requirements.
 
-    Subsec. (a)(4). [Pub. L. 101–549, § 101(d)(2)][/us/pl/101/549/s101/d/2], struck out par. (4) which set forth requirements for review procedure.
+    Subsec. (a)(4). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(2), struck out par. (4) which set forth requirements for review procedure.
 
-    Subsec. (c)(1). [Pub. L. 101–549, § 102(h)][/us/pl/101/549/s102/h], amended par. (1) generally, substituting present provisions for provisions relating to preparation and publication of regulations setting forth an implementation plan, after opportunity for a hearing, upon failure of a State to make required submission or revision.
+    Subsec. (c)(1). [Pub. L. 101–549][/us/pl/101/549], § 102(h), amended par. (1) generally, substituting present provisions for provisions relating to preparation and publication of regulations setting forth an implementation plan, after opportunity for a hearing, upon failure of a State to make required submission or revision.
 
-    Subsec. (c)(2)(A). [Pub. L. 101–549, § 101(d)(3)(A)][/us/pl/101/549/s101/d/3/A], struck out subpar. (A) which required a study and report on necessity of parking surcharge, management of parking supply, and preferential bus/carpool lane regulations to achieve and maintain national primary ambient air quality standards.
+    Subsec. (c)(2)(A). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(3)(A), struck out subpar. (A) which required a study and report on necessity of parking surcharge, management of parking supply, and preferential bus/carpool lane regulations to achieve and maintain national primary ambient air quality standards.
 
-    Subsec. (c)(2)(C). [Pub. L. 101–549, § 101(d)(3)(B)][/us/pl/101/549/s101/d/3/B], struck out subpar. (C) which authorized suspension of certain regulations and requirements relating to management of parking supply.
+    Subsec. (c)(2)(C). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(3)(B), struck out subpar. (C) which authorized suspension of certain regulations and requirements relating to management of parking supply.
 
-    Subsec. (c)(4). [Pub. L. 101–549, § 101(d)(3)(C)][/us/pl/101/549/s101/d/3/C], struck out par. (4) which permitted Governors to temporarily suspend measures in implementation plans relating to retrofits, gas rationing, and reduction of on-street parking.
+    Subsec. (c)(4). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(3)(C), struck out par. (4) which permitted Governors to temporarily suspend measures in implementation plans relating to retrofits, gas rationing, and reduction of on-street parking.
 
-    Subsec. (c)(5)(B). [Pub. L. 101–549, § 101(d)(3)(D)][/us/pl/101/549/s101/d/3/D], struck out “(including the written evidence required by part D),” after “include comprehensive measures”.
+    Subsec. (c)(5)(B). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(3)(D), struck out “(including the written evidence required by part D),” after “include comprehensive measures”.
 
-    Subsec. (d). [Pub. L. 101–549, § 101(d)(4)][/us/pl/101/549/s101/d/4], struck out subsec. (d) which defined an applicable implementation plan for purposes of this chapter.
+    Subsec. (d). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(4), struck out subsec. (d) which defined an applicable implementation plan for purposes of this chapter.
 
-    Subsec. (e). [Pub. L. 101–549, § 101(d)(5)][/us/pl/101/549/s101/d/5], struck out subsec. (e) which permitted an extension of time for attainment of a national primary ambient air quality standard.
+    Subsec. (e). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(5), struck out subsec. (e) which permitted an extension of time for attainment of a national primary ambient air quality standard.
 
-    Subsec. (f)(1). [Pub. L. 101–549, § 412][/us/pl/101/549/s412], inserted “or of any requirement under [section 7651j of this title][/us/usc/t42/s7651j] (concerning excess emissions penalties or offsets)” in subpar. (A) and in last sentence.
+    Subsec. (f)(1). [Pub. L. 101–549][/us/pl/101/549], § 412, inserted “or of any requirement under [section 7651j of this title][/us/usc/t42/s7651j] (concerning excess emissions penalties or offsets)” in subpar. (A) and in last sentence.
 
-    Subsec. (g)(1). [Pub. L. 101–549, § 101(d)(6)][/us/pl/101/549/s101/d/6], substituted “12 months of submission of the proposed plan revision” for “the required four month period” in closing provisions.
+    Subsec. (g)(1). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(6), substituted “12 months of submission of the proposed plan revision” for “the required four month period” in closing provisions.
 
-    Subsec. (h)(1). [Pub. L. 101–549, § 101(d)(7)][/us/pl/101/549/s101/d/7], substituted “5 years after November 15, 1990, and every three years thereafter” for “one year after August 7, 1977, and annually thereafter” and struck out at end “Each such document shall be revised as frequently as practicable but not less often than annually.”
+    Subsec. (h)(1). [Pub. L. 101–549][/us/pl/101/549], § 101(d)(7), substituted “5 years after November 15, 1990, and every three years thereafter” for “one year after August 7, 1977, and annually thereafter” and struck out at end “Each such document shall be revised as frequently as practicable but not less often than annually.”
 
-    Subsecs. (k) to (n). [Pub. L. 101–549, § 101(c)][/us/pl/101/549/s101/c], added subsecs. (k) to (n).
+    Subsecs. (k) to (n). [Pub. L. 101–549][/us/pl/101/549], § 101(c), added subsecs. (k) to (n).
 
-    Subsec. (o). [Pub. L. 101–549, § 107(c)][/us/pl/101/549/s107/c], added subsec. (o).
+    Subsec. (o). [Pub. L. 101–549][/us/pl/101/549], § 107(c), added subsec. (o).
 
-    Subsec. (p). [Pub. L. 101–549, § 108(d)][/us/pl/101/549/s108/d], added subsec. (p).
+    Subsec. (p). [Pub. L. 101–549][/us/pl/101/549], § 108(d), added subsec. (p).
 
     1981—Subsec. (a)(3)(C). [Pub. L. 97–23][/us/pl/97/23] inserted reference to extensions of compliance in decrees entered under [section 7413(e) of this title][/us/usc/t42/s7413/e] (relating to iron- and steel-producing operations).
 
-    1977—Subsec. (a)(2)(A). [Pub. L. 95–95, § 108(a)(1)][/us/pl/95/95/s108/a/1], substituted “(A) except as may be provided in subparagraph (I)(i) in the case of a plan” for “(A)(i) in the case of a plan”.
+    1977—Subsec. (a)(2)(A). [Pub. L. 95–95][/us/pl/95/95], § 108(a)(1), substituted “(A) except as may be provided in subparagraph (I)(i) in the case of a plan” for “(A)(i) in the case of a plan”.
 
-    Subsec. (a)(2)(B). [Pub. L. 95–95, § 108(a)(2)][/us/pl/95/95/s108/a/2], substituted “transportation controls, air quality maintenance plans, and preconstruction review of direct sources of air pollution as provided in subparagraph (D)” for “land use and transportation controls”.
+    Subsec. (a)(2)(B). [Pub. L. 95–95][/us/pl/95/95], § 108(a)(2), substituted “transportation controls, air quality maintenance plans, and preconstruction review of direct sources of air pollution as provided in subparagraph (D)” for “land use and transportation controls”.
 
-    Subsec. (a)(2)(D). [Pub. L. 95–95, § 108(a)(3)][/us/pl/95/95/s108/a/3], substituted “it includes a program to provide for the enforcement of emission limitations and regulation of the modification, construction, and operation of any stationary source, including a permit program as required in parts C and D and a permit or equivalent program for any major emitting facility, within such region as necessary to assure (i) that national ambient air quality standards are achieved and maintained, and (ii) a procedure” for “it includes a procedure”.
+    Subsec. (a)(2)(D). [Pub. L. 95–95][/us/pl/95/95], § 108(a)(3), substituted “it includes a program to provide for the enforcement of emission limitations and regulation of the modification, construction, and operation of any stationary source, including a permit program as required in parts C and D and a permit or equivalent program for any major emitting facility, within such region as necessary to assure (i) that national ambient air quality standards are achieved and maintained, and (ii) a procedure” for “it includes a procedure”.
 
-    Subsec. (a)(2)(E). [Pub. L. 95–95, § 108(a)(4)][/us/pl/95/95/s108/a/4], substituted “it contains adequate provisions (i) prohibiting any stationary source within the State from emitting any air pollutant in amounts which will (I) prevent attainment or maintenance by any other State of any such national primary or secondary ambient air quality standard, or (II) interfere with measures required to be included in the applicable implementation plan for any other State under part C to prevent significant deterioration of air quality or to protect visibility, and (ii) insuring compliance with the requirements of [section 7426 of this title][/us/usc/t42/s7426], relating to interstate pollution abatement” for “it contains adequate provisions for intergovernmental cooperation, including measures necessary to insure that emissions of air pollutants from sources located in any air quality control region will not interfere with the attainment or maintenance of such primary or secondary standard in any portion of such region outside of such State or in any other air quality control region”.
+    Subsec. (a)(2)(E). [Pub. L. 95–95][/us/pl/95/95], § 108(a)(4), substituted “it contains adequate provisions (i) prohibiting any stationary source within the State from emitting any air pollutant in amounts which will (I) prevent attainment or maintenance by any other State of any such national primary or secondary ambient air quality standard, or (II) interfere with measures required to be included in the applicable implementation plan for any other State under part C to prevent significant deterioration of air quality or to protect visibility, and (ii) insuring compliance with the requirements of [section 7426 of this title][/us/usc/t42/s7426], relating to interstate pollution abatement” for “it contains adequate provisions for intergovernmental cooperation, including measures necessary to insure that emissions of air pollutants from sources located in any air quality control region will not interfere with the attainment or maintenance of such primary or secondary standard in any portion of such region outside of such State or in any other air quality control region”.
 
-    Subsec. (a)(2)(F). [Pub. L. 95–95, § 108(a)(5)][/us/pl/95/95/s108/a/5], added cl. (vi).
+    Subsec. (a)(2)(F). [Pub. L. 95–95][/us/pl/95/95], § 108(a)(5), added cl. (vi).
 
-    Subsec. (a)(2)(H). [Pub. L. 95–190, § 14(a)(1)][/us/pl/95/190/s14/a/1], substituted “1977;” for “1977”.
+    Subsec. (a)(2)(H). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(1), substituted “1977;” for “1977”.
 
-    [Pub. L. 95–95, § 108(a)(6)][/us/pl/95/95/s108/a/6], inserted “except as provided in paragraph (3)(C),” after “or (ii)” and “or to otherwise comply with any additional requirements established under the Clean Air Act Amendments of 1977” after “to achieve the national ambient air quality primary or secondary standard which it implements”.
+    [Pub. L. 95–95][/us/pl/95/95], § 108(a)(6), inserted “except as provided in paragraph (3)(C),” after “or (ii)” and “or to otherwise comply with any additional requirements established under the Clean Air Act Amendments of 1977” after “to achieve the national ambient air quality primary or secondary standard which it implements”.
 
-    Subsec. (a)(2)(I). [Pub. L. 95–95, § 108(b)][/us/pl/95/95/s108/b], added subpar. (I).
+    Subsec. (a)(2)(I). [Pub. L. 95–95][/us/pl/95/95], § 108(b), added subpar. (I).
 
-    Subsec. (a)(2)(J). [Pub. L. 95–190, § 14(a)(2)][/us/pl/95/190/s14/a/2], substituted “; and” for “, and”.
+    Subsec. (a)(2)(J). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(2), substituted “; and” for “, and”.
 
-    [Pub. L. 95–95, § 108(b)][/us/pl/95/95/s108/b], added subpar. (J).
+    [Pub. L. 95–95][/us/pl/95/95], § 108(b), added subpar. (J).
 
-    Subsec. (a)(2)(K). [Pub. L. 95–95, § 108(b)][/us/pl/95/95/s108/b] added subpar. (K).
+    Subsec. (a)(2)(K). [Pub. L. 95–95][/us/pl/95/95], § 108(b) added subpar. (K).
 
-    Subsec. (a)(3)(C). [Pub. L. 95–95, § 108(c)][/us/pl/95/95/s108/c], added subpar. (C).
+    Subsec. (a)(3)(C). [Pub. L. 95–95][/us/pl/95/95], § 108(c), added subpar. (C).
 
-    Subsec. (a)(3)(D). [Pub. L. 95–190, § 14(a)(4)][/us/pl/95/190/s14/a/4], added subpar. (D).
+    Subsec. (a)(3)(D). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(4), added subpar. (D).
 
-    Subsec. (a)(5). [Pub. L. 95–95, § 108(e)][/us/pl/95/95/s108/e], added par. (5).
+    Subsec. (a)(5). [Pub. L. 95–95][/us/pl/95/95], § 108(e), added par. (5).
 
-    Subsec. (a)(5)(D). [Pub. L. 95–190, § 14(a)(3)][/us/pl/95/190/s14/a/3], struck out “preconstruction or premodification” before “review”.
+    Subsec. (a)(5)(D). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(3), struck out “preconstruction or premodification” before “review”.
 
-    Subsec. (a)(6). [Pub. L. 95–95, § 108(e)][/us/pl/95/95/s108/e], added par. (6).
+    Subsec. (a)(6). [Pub. L. 95–95][/us/pl/95/95], § 108(e), added par. (6).
 
-    Subsec. (c)(1). [Pub. L. 95–95, § 108(d)(1)][/us/pl/95/95/s108/d/1], (2), substituted “plan which meets the requirements of this section” for “plan for any national ambient air quality primary or secondary standard within the time prescribed” in subpar. (A) and, in provisions following subpar. (C), directed that any portion of a plan relating to any measure described in first sentence of 7421 of this title (relating to consultation) or the consultation process required under such [section 7421 of this title][/us/usc/t42/s7421] not be required to be promulgated before the date eight months after such date required for submission.
+    Subsec. (c)(1). [Pub. L. 95–95][/us/pl/95/95], § 108(d)(1), (2), substituted “plan which meets the requirements of this section” for “plan for any national ambient air quality primary or secondary standard within the time prescribed” in subpar. (A) and, in provisions following subpar. (C), directed that any portion of a plan relating to any measure described in first sentence of 7421 of this title (relating to consultation) or the consultation process required under such [section 7421 of this title][/us/usc/t42/s7421] not be required to be promulgated before the date eight months after such date required for submission.
 
-    Subsec. (c)(3) to (5). [Pub. L. 95–95, § 108(d)(3)][/us/pl/95/95/s108/d/3], added pars. (3) to (5).
+    Subsec. (c)(3) to (5). [Pub. L. 95–95][/us/pl/95/95], § 108(d)(3), added pars. (3) to (5).
 
-    Subsec. (d). [Pub. L. 95–95, § 108(f)][/us/pl/95/95/s108/f], substituted “and which implements the requirements of this section” for “and which implements a national primary or secondary ambient air quality standard in a State”.
+    Subsec. (d). [Pub. L. 95–95][/us/pl/95/95], § 108(f), substituted “and which implements the requirements of this section” for “and which implements a national primary or secondary ambient air quality standard in a State”.
 
-    Subsec. (f). [Pub. L. 95–95, § 107(a)][/us/pl/95/95/s107/a], substituted provisions relating to the handling of national or regional energy emergencies for provisions relating to the postponement of compliance by stationary sources or classes of moving sources with any requirement of applicable implementation plans.
+    Subsec. (f). [Pub. L. 95–95][/us/pl/95/95], § 107(a), substituted provisions relating to the handling of national or regional energy emergencies for provisions relating to the postponement of compliance by stationary sources or classes of moving sources with any requirement of applicable implementation plans.
 
-    Subsec. (g). [Pub. L. 95–95, § 108(g)][/us/pl/95/95/s108/g], added subsec. (g) relating to publication of comprehensive document.
+    Subsec. (g). [Pub. L. 95–95][/us/pl/95/95], § 108(g), added subsec. (g) relating to publication of comprehensive document.
 
-    [Pub. L. 95–95, § 107(b)][/us/pl/95/95/s107/b], added subsec. (g) relating to Governor’s authority to issue temporary emergency suspensions.
+    [Pub. L. 95–95][/us/pl/95/95], § 107(b), added subsec. (g) relating to Governor’s authority to issue temporary emergency suspensions.
 
-    Subsec. (h). [Pub. L. 95–190, § 14(a)(5)][/us/pl/95/190/s14/a/5], redesignated subsec. (g), added by [Pub. L. 95–95, § 108(g)][/us/pl/95/95/s108/g], as (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(5), redesignated subsec. (g), added by [Pub. L. 95–95][/us/pl/95/95], § 108(g), as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 95–190, § 14(a)(5)][/us/pl/95/190/s14/a/5], redesignated subsec. (h), added by [Pub. L. 95–95, § 108(g)][/us/pl/95/95/s108/g], as (i). Former subsec. (i) redesignated (j) and amended.
+    Subsec. (i). [Pub. L. 95–190][/us/pl/95/190], § 14(a)(5), redesignated subsec. (h), added by [Pub. L. 95–95][/us/pl/95/95], § 108(g), as (i). Former subsec. (i) redesignated (j) and amended.
 
-    Subsec. (j). [Pub. L. 95–190][/us/pl/95/190] § 14(a)(5), (6), redesignated subsec. (i), added by [Pub. L. 95–95, § 108(g)][/us/pl/95/95/s108/g], as (j) and in subsec. (j) as so redesignated, substituted “will enable such source” for “at such source will enable it”.
+    Subsec. (j). [Pub. L. 95–190][/us/pl/95/190] § 14(a)(5), (6), redesignated subsec. (i), added by [Pub. L. 95–95][/us/pl/95/95], § 108(g), as (j) and in subsec. (j) as so redesignated, substituted “will enable such source” for “at such source will enable it”.
 
-    1974—Subsec. (a)(3). [Pub. L. 93–319, § 4(a)][/us/pl/93/319/s4/a], designated existing provisions as subpar. (A) and added subpar. (B).
+    1974—Subsec. (a)(3). [Pub. L. 93–319][/us/pl/93/319], § 4(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (c). [Pub. L. 93–319, § 4(b)][/us/pl/93/319/s4/b], designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of such redesignated par. (1), and added par. (2).
+    Subsec. (c). [Pub. L. 93–319][/us/pl/93/319], § 4(b), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of such redesignated par. (1), and added par. (2).
 
  __Effective Date of 1977 Amendment__ 
 
@@ -449,7 +449,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 91–604, § 16][/us/pl/91/604/s16], Dec. 31, 1970, [84 Stat. 1713][/us/stat/84/1713], provided that:
+[Pub. L. 91–604][/us/pl/91/604], § 16, Dec. 31, 1970, [84 Stat. 1713][/us/stat/84/1713], provided that:
 
 >     “(a)
 
@@ -477,21 +477,21 @@
 [/us/usc/t42/s7603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7603
 [/us/usc/t42/s7421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7421
 [/us/usc/t42/s7427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7427
-[/us/pl/101/549/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F1
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
 [/us/usc/t15/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs791
 [/us/usc/t42/s7418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7418
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
-[/us/pl/101/549/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F2
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
-[/us/pl/101/549/s101/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F3%2FA
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
-[/us/pl/101/549/s101/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F3%2FB
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
-[/us/pl/101/549/s101/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F3%2FC
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
-[/us/pl/101/549/s101/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F4
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2409
 [/us/usc/t42/s7651j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651j
 [/us/usc/t42/s7651j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651j
@@ -510,97 +510,97 @@
 [/us/usc/t42/s7601/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7601%2Fd%2F2
 [/us/usc/t42/s7601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7601%2Fd
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs4%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1680
-[/us/pl/93/319/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs4
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F256
-[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F691
-[/us/pl/95/190/s14/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F1
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1399
-[/us/pl/97/23/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F23%2Fs3
+[/us/pl/97/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F23
 [/us/stat/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F142
-[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtI
 [/us/stat/104/2404-2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2404-2408
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F246
 [/us/usc/t15/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs791
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/93/319/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs3
+[/us/act/1955-07-14/ch360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtI
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F248
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
-[/us/pl/95/95/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs107
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/stat/91/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F691
 [/us/pl/95/95/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs112%2Fb%2F1
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
+[/us/act/1955-07-14/ch360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtI
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/usc/t42/s7413/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd%2F5
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
 [/us/pl/95/95/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs117%2Fb
 [/us/usc/t42/s7419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7419
 [/us/usc/t42/s1857c–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%935
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7417
-[/us/pl/101/549/s101/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F8
-[/us/pl/101/549/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fb
-[/us/pl/101/549/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F1
-[/us/pl/101/549/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F1
-[/us/pl/101/549/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F2
-[/us/pl/101/549/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs102%2Fh
-[/us/pl/101/549/s101/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F3%2FA
-[/us/pl/101/549/s101/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F3%2FB
-[/us/pl/101/549/s101/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F3%2FC
-[/us/pl/101/549/s101/d/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F3%2FD
-[/us/pl/101/549/s101/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F4
-[/us/pl/101/549/s101/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F5
-[/us/pl/101/549/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs412
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/usc/t42/s7651j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651j
-[/us/pl/101/549/s101/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F6
-[/us/pl/101/549/s101/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fd%2F7
-[/us/pl/101/549/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs101%2Fc
-[/us/pl/101/549/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs107%2Fc
-[/us/pl/101/549/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs108%2Fd
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
 [/us/pl/97/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F23
 [/us/usc/t42/s7413/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fe
-[/us/pl/95/95/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fa%2F1
-[/us/pl/95/95/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fa%2F2
-[/us/pl/95/95/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fa%2F3
-[/us/pl/95/95/s108/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fa%2F4
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7426
-[/us/pl/95/95/s108/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fa%2F5
-[/us/pl/95/190/s14/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F1
-[/us/pl/95/95/s108/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fa%2F6
-[/us/pl/95/95/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fb
-[/us/pl/95/190/s14/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F2
-[/us/pl/95/95/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fb
-[/us/pl/95/95/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fb
-[/us/pl/95/95/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fc
-[/us/pl/95/190/s14/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F4
-[/us/pl/95/95/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fe
-[/us/pl/95/190/s14/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F3
-[/us/pl/95/95/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fe
-[/us/pl/95/95/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fd%2F1
-[/us/usc/t42/s7421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7421
-[/us/pl/95/95/s108/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fd%2F3
-[/us/pl/95/95/s108/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Ff
-[/us/pl/95/95/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs107%2Fa
-[/us/pl/95/95/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fg
-[/us/pl/95/95/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs107%2Fb
-[/us/pl/95/190/s14/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F5
-[/us/pl/95/95/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fg
-[/us/pl/95/190/s14/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs14%2Fa%2F5
-[/us/pl/95/95/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fg
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
-[/us/pl/95/95/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs108%2Fg
-[/us/pl/93/319/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs4%2Fa
-[/us/pl/93/319/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs4%2Fb
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/usc/t42/s7421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7421
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fd
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -615,7 +615,7 @@
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/pl/95/95/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs406%2Fc
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/91/604/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs16
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1713
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/usc/t42/s7409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7409%2Fa

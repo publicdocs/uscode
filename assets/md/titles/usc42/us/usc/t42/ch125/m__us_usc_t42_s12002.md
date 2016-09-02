@@ -49,7 +49,7 @@
 
     (6) the term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other Commonwealth, territory, or possession of the United States.
 
-([Pub. L. 101–218, § 3][/us/pl/101/218/s3], Dec. 11, 1989, [103 Stat. 1859][/us/stat/103/1859]; [Pub. L. 102–486, title XII, § 1202(d)(4)][/us/pl/102/486/s1202/d/4], Oct. 24, 1992, [106 Stat. 2960][/us/stat/106/2960].)
+([Pub. L. 101–218][/us/pl/101/218], § 3, Dec. 11, 1989, [103 Stat. 1859][/us/stat/103/1859]; [Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1202(d)(4), Oct. 24, 1992, [106 Stat. 2960][/us/stat/106/2960].)
 
  __References in Text__ 
 
@@ -70,9 +70,9 @@
 
 [/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/pl/101/218/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs3
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1859
-[/us/pl/102/486/s1202/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fd%2F4
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2960
 [/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1859

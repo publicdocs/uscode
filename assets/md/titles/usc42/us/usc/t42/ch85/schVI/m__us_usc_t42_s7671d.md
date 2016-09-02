@@ -65,7 +65,7 @@
 
                 (iii) Each exception authorized under this paragraph shall terminate no later than January 1, 2040.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 605, as added [Pub. L. 101–549, title VI, § 602(a)][/us/pl/101/549/s602/a], Nov. 15, 1990, [104 Stat. 2658][/us/stat/104/2658]; amended [Pub. L. 112–81, div. A, title III, § 320][/us/pl/112/81/s320], Dec. 31, 2011, [125 Stat. 1361][/us/stat/125/1361].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title VI, § 605, as added [Pub. L. 101–549, title VI][/us/pl/101/549/tVI], § 602(a), Nov. 15, 1990, [104 Stat. 2658][/us/stat/104/2658]; amended [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 320, Dec. 31, 2011, [125 Stat. 1361][/us/stat/125/1361].)
 
  __Amendments__ 
 
@@ -81,9 +81,9 @@
 [/us/usc/t42/s7671k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7671k%2Fc
 [/us/usc/t42/s7671e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7671e
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs602%2Fa
+[/us/pl/101/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVI
 [/us/stat/104/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2658
-[/us/pl/112/81/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs320
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1361
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 

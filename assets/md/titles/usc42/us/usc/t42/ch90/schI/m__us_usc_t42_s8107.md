@@ -45,17 +45,17 @@
 
         The corporation shall prepare annually a business-type budget which shall be submitted to the Office of Management and Budget, under such rules and regulations as the President may establish as to the date of submission, the form and content, the classifications of data, and the manner in which such budget program shall be prepared and presented. The budget of the corporation as modified, amended, or revised by the President shall be transmitted to the Congress as a part of the annual budget required by chapter 11 of title 31. Amendments to the annual budget program may be submitted from time to time.
 
-([Pub. L. 95–557, title VI, § 608][/us/pl/95/557/s608], Oct. 31, 1978, [92 Stat. 2119][/us/stat/92/2119]; [Pub. L. 96–153, title III, § 307][/us/pl/96/153/s307], Dec. 21, 1979, [93 Stat. 1113][/us/stat/93/1113]; [Pub. L. 96–399, title III, § 315(3)][/us/pl/96/399/s315/3], Oct. 8, 1980, [94 Stat. 1645][/us/stat/94/1645]; [Pub. L. 97–35, title III, § 314][/us/pl/97/35/s314], Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 125\], Nov. 30, 1983, [97 Stat. 1175][/us/stat/97/1175]; [Pub. L. 98–479, title II, § 203(m)][/us/pl/98/479/s203/m], Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231]; [Pub. L. 100–242, title V, § 520(b)][/us/pl/100/242/s520/b], Feb. 5, 1988, [101 Stat. 1938][/us/stat/101/1938]; [Pub. L. 101–625, title IX, § 917(c)][/us/pl/101/625/s917/c], Nov. 28, 1990, [104 Stat. 4398][/us/stat/104/4398]; [Pub. L. 102–550, title VIII, § 831][/us/pl/102/550/s831], Oct. 28, 1992, [106 Stat. 3851][/us/stat/106/3851].)
+([Pub. L. 95–557, title VI][/us/pl/95/557/tVI], § 608, Oct. 31, 1978, [92 Stat. 2119][/us/stat/92/2119]; [Pub. L. 96–153, title III][/us/pl/96/153/tIII], § 307, Dec. 21, 1979, [93 Stat. 1113][/us/stat/93/1113]; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 315(3), Oct. 8, 1980, [94 Stat. 1645][/us/stat/94/1645]; [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 314, Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 125\], Nov. 30, 1983, [97 Stat. 1175][/us/stat/97/1175]; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 203(m), Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 520(b), Feb. 5, 1988, [101 Stat. 1938][/us/stat/101/1938]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 917(c), Nov. 28, 1990, [104 Stat. 4398][/us/stat/104/4398]; [Pub. L. 102–550, title VIII][/us/pl/102/550/tVIII], § 831, Oct. 28, 1992, [106 Stat. 3851][/us/stat/106/3851].)
 
  __References in Text__ 
 
-    The Low-Income Housing Preservation and Resident Ownership Act of 1990, referred to in subsec. (a)(2)(C), probably means the Low-Income Housing Preservation and Resident Homeownership Act of 1990, title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], which is classified principally to chapter 42 (§ 4101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 12][/us/usc/t12/s4101] and Tables.
+    The Low-Income Housing Preservation and Resident Ownership Act of 1990, referred to in subsec. (a)(2)(C), probably means the Low-Income Housing Preservation and Resident Homeownership Act of 1990, title II of [Pub. L. 100–242][/us/pl/100/242], as amended by [Pub. L. 101–625, title VI][/us/pl/101/625/tVI], § 601(a), Nov. 28, 1990, [104 Stat. 4249][/us/stat/104/4249], which is classified principally to chapter 42 (§ 4101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 12][/us/usc/t12/s4101] and Tables.
 
  __Amendments__ 
 
-    1992—Subsec. (a)(1). [Pub. L. 102–550, § 831(a)][/us/pl/102/550/s831/a], amended first sentence generally, substituting present provisions for provisions authorizing appropriations of $35,000,000 for fiscal year 1991 and $36,500,000 for fiscal year 1992.
+    1992—Subsec. (a)(1). [Pub. L. 102–550][/us/pl/102/550], § 831(a), amended first sentence generally, substituting present provisions for provisions authorizing appropriations of $35,000,000 for fiscal year 1991 and $36,500,000 for fiscal year 1992.
 
-    Subsec. (a)(2). [Pub. L. 102–550, § 831(b)][/us/pl/102/550/s831/b], substituted “any fiscal year” for “each of the fiscal years 1991 and 1992” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 102–550][/us/pl/102/550], § 831(b), substituted “any fiscal year” for “each of the fiscal years 1991 and 1992” in introductory provisions.
 
     1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated to the corporation to carry out this subchapter $19,000,000 for fiscal year 1988, and $19,000,000 for fiscal year 1989.”
 
@@ -77,7 +77,7 @@
 
  __Expansion of National Neighborhood Housing Services Network__ 
 
-[Pub. L. 101–625, title IX, § 917(a)][/us/pl/101/625/s917/a], (b), Nov. 28, 1990, [104 Stat. 4397][/us/stat/104/4397], provided that:
+[Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 917(a), (b), Nov. 28, 1990, [104 Stat. 4397][/us/stat/104/4397], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -125,30 +125,30 @@
 ----------
 
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
-[/us/pl/95/557/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs608
+[/us/pl/95/557/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtVI
 [/us/stat/92/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2119
-[/us/pl/96/153/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs307
+[/us/pl/96/153/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIII
 [/us/stat/93/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1113
-[/us/pl/96/399/s315/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs315%2F3
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1645
-[/us/pl/97/35/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs314
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F398
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1175
-[/us/pl/98/479/s203/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs203%2Fm
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2231
-[/us/pl/100/242/s520/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs520%2Fb
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1938
-[/us/pl/101/625/s917/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs917%2Fc
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4398
-[/us/pl/102/550/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs831
+[/us/pl/102/550/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVIII
 [/us/stat/106/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3851
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
-[/us/pl/101/625/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs601%2Fa
+[/us/pl/101/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVI
 [/us/stat/104/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4249
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
-[/us/pl/102/550/s831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs831%2Fa
-[/us/pl/102/550/s831/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs831%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
@@ -159,7 +159,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs371
 [/us/usc/t12/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3701
-[/us/pl/101/625/s917/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs917%2Fa
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4397
 [/us/usc/t12/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4101
 

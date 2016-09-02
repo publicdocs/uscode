@@ -19,7 +19,7 @@
 
     (b) In order to effect a transition to the advance funding method of timing appropriation action, subsection (a) of this section shall apply notwithstanding that its initial application will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.
 
-([Pub. L. 89–73, title II, § 209][/us/pl/89/73/s209], formerly § 210, as added [Pub. L. 93–29, title II, § 201(c)][/us/pl/93/29/s201/c], May 3, 1973, [87 Stat. 36][/us/stat/87/36]; renumbered § 209 and amended [Pub. L. 97–115, § 2(e)(2)][/us/pl/97/115/s2/e/2], (i), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596].)
+([Pub. L. 89–73, title II][/us/pl/89/73/tII], § 209, formerly § 210, as added [Pub. L. 93–29, title II][/us/pl/93/29/tII], § 201(c), May 3, 1973, [87 Stat. 36][/us/stat/87/36]; renumbered § 209 and amended [Pub. L. 97–115][/us/pl/97/115], § 2(e)(2), (i), Dec. 29, 1981, [95 Stat. 1596][/us/stat/95/1596].)
 
  __Prior Provisions__ 
 
@@ -27,7 +27,7 @@
 
  __Amendments__ 
 
-    1981—Subsec. (b). [Pub. L. 97–115, § 2(i)][/us/pl/97/115/s2/i], substituted “subsection (a) of this section shall apply” for “the amendment made by subsection (a) of this section shall apply”.
+    1981—Subsec. (b). [Pub. L. 97–115][/us/pl/97/115], § 2(i), substituted “subsection (a) of this section shall apply” for “the amendment made by subsection (a) of this section shall apply”.
 
 ----------
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/89/73/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs209
-[/us/pl/93/29/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs201%2Fc
+[/us/pl/89/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtII
+[/us/pl/93/29/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtII
 [/us/stat/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F36
-[/us/pl/97/115/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fe%2F2
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1596
 [/us/pl/89/73/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs209
 [/us/usc/t42/s3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3019
-[/us/pl/97/115/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fi
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 
 

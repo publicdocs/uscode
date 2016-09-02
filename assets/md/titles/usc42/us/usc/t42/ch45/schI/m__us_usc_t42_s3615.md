@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to invalidate or limit any law of a State or political subdivision of a State, or of any other jurisdiction in which this subchapter shall be effective, that grants, guarantees, or protects the same rights as are granted by this subchapter; but any law of a State, a political subdivision, or other such jurisdiction that purports to require or permit any action that would be a discriminatory housing practice under this subchapter shall to that extent be invalid.
 
-([Pub. L. 90–284, title VIII, § 816][/us/pl/90/284/s816], formerly § 815, Apr. 11, 1968, [82 Stat. 89][/us/stat/82/89]; renumbered § 816, [Pub. L. 100–430, § 8(1)][/us/pl/100/430/s8/1], Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 816, formerly § 815, Apr. 11, 1968, [82 Stat. 89][/us/stat/82/89]; renumbered § 816, [Pub. L. 100–430][/us/pl/100/430], § 8(1), Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/90/284/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs816
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F89
-[/us/pl/100/430/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F1
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1625
 [/us/pl/90/284/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs816
 [/us/usc/t42/s3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3616

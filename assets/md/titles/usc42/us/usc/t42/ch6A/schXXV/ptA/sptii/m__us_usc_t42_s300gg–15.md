@@ -119,11 +119,11 @@
 
             The medical terms described in this paragraph are hospitalization, hospital outpatient care, emergency room care, physician services, prescription drug coverage, durable medical equipment, home health care, skilled nursing care, rehabilitation services, hospice services, emergency medical transportation, and such other terms as the Secretary determines are important to define so that consumers may compare the medical benefits offered by health insurance and understand the extent of those medical benefits (or exceptions to those benefits).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2715, as added and amended [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], title X, § 10101(b), Mar. 23, 2010, [124 Stat. 132][/us/stat/124/132], 884.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2715, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(5), title X, § 10101(b), Mar. 23, 2010, [124 Stat. 132][/us/stat/124/132], 884.)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–148, § 10101(b)][/us/pl/111/148/s10101/b], substituted “and providing to applicants, enrollees, and policyholders or certificate holders” for “and providing to enrollees”.
+    2010—Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 10101(b), substituted “and providing to applicants, enrollees, and policyholders or certificate holders” for “and providing to enrollees”.
 
  __Effective Date__ 
 
@@ -141,9 +141,9 @@
 [/us/usc/t29/s1002/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F16
 [/us/usc/t29/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F5
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F132
-[/us/pl/111/148/s10101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10101%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 

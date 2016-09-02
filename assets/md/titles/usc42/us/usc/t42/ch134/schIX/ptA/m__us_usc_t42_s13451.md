@@ -63,7 +63,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this part, including all building, industry, and utility sectors energy conservation research and development, and inventions and innovation under energy conservation technical and financial assistance, $178,250,000 for fiscal year 1993 and $275,000,000 for fiscal year 1994.
 
-([Pub. L. 102–486, title XXI, § 2101][/us/pl/102/486/s2101], Oct. 24, 1992, [106 Stat. 3067][/us/stat/106/3067].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2101, Oct. 24, 1992, [106 Stat. 3067][/us/stat/106/3067].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __District Heating and Cooling Programs__ 
 
-[Pub. L. 102–486, title I, § 172][/us/pl/102/486/s172], Oct. 24, 1992, [106 Stat. 2865][/us/stat/106/2865], as amended by [Pub. L. 109–58, title II, § 206(b)][/us/pl/109/58/s206/b], Aug. 8, 2005, [119 Stat. 655][/us/stat/119/655], provided that:
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 172, Oct. 24, 1992, [106 Stat. 2865][/us/stat/106/2865], as amended by [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 206(b), Aug. 8, 2005, [119 Stat. 655][/us/stat/119/655], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -99,7 +99,7 @@
 
  __Study and Report on Vibration Reduction Technologies__ 
 
-[Pub. L. 102–486, title I, § 173][/us/pl/102/486/s173], Oct. 24, 1992, [106 Stat. 2865][/us/stat/106/2865], as amended by [Pub. L. 105–362, title IV, § 401(c)][/us/pl/105/362/s401/c], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282], provided that:
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 173, Oct. 24, 1992, [106 Stat. 2865][/us/stat/106/2865], as amended by [Pub. L. 105–362, title IV][/us/pl/105/362/tIV], § 401(c), Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -129,7 +129,7 @@
 [/us/usc/t15/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5101
 [/us/pl/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425
 [/us/usc/t15/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5301
-[/us/pl/102/486/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2101
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3067
 [/us/pl/102/486/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2106
 [/us/pl/100/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680
@@ -140,14 +140,14 @@
 [/us/usc/t15/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5301
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3067
-[/us/pl/102/486/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs172
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2865
-[/us/pl/109/58/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs206%2Fb
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F655
 [/us/usc/t42/s6865/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6865%2Fc
-[/us/pl/102/486/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs173
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2865
-[/us/pl/105/362/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs401%2Fc
+[/us/pl/105/362/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIV
 [/us/stat/112/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3282
 
 

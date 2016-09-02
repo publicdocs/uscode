@@ -61,7 +61,7 @@
 
             Notwithstanding paragraph (1), the Secretary of the Treasury may begin designing the medal at any time after October 14, 2008, and take such other action as may be necessary to be prepared to strike such medals upon receiving the certification described in such paragraph, including preparing dies and striking test pieces.
 
-([Pub. L. 110–413, § 4][/us/pl/110/413/s4], Oct. 14, 2008, [122 Stat. 4339][/us/stat/122/4339].)
+([Pub. L. 110–413][/us/pl/110/413], § 4, Oct. 14, 2008, [122 Stat. 4339][/us/stat/122/4339].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/110/413/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F413%2Fs4
+[/us/pl/110/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F413
 [/us/stat/122/4339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4339
 
 

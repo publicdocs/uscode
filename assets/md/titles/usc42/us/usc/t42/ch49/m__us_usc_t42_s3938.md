@@ -23,7 +23,7 @@
 
     (b) The accounts of the corporation and of the partnership shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States.
 
-([Pub. L. 90–448, title IX, § 908][/us/pl/90/448/s908], Aug. 1, 1968, [82 Stat. 550][/us/stat/82/550]; [Pub. L. 98–479, title I, § 104(c)(3)][/us/pl/98/479/s104/c/3], Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 908, Aug. 1, 1968, [82 Stat. 550][/us/stat/82/550]; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 104(c)(3), Oct. 17, 1984, [98 Stat. 2225][/us/stat/98/2225].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t42/s3936/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3936%2Fa%2F4
 [/us/usc/t42/s3936/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3936%2Fa%2F4
-[/us/pl/90/448/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs908
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
 [/us/stat/82/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F550
-[/us/pl/98/479/s104/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs104%2Fc%2F3
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2225
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

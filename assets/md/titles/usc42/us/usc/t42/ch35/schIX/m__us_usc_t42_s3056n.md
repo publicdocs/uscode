@@ -21,11 +21,11 @@
 
     (2) placing older individuals in community service positions strengthens the ability of the individuals to become self-sufficient, provides much-needed support to organizations that benefit from increased civic engagement, and strengthens the communities that are served by such organizations.
 
-([Pub. L. 89–73, title V, § 516][/us/pl/89/73/s516], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2587][/us/stat/120/2587].)
+([Pub. L. 89–73, title V][/us/pl/89/73/tV], § 516, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2587][/us/stat/120/2587].)
 
  __Prior Provisions__ 
 
-    A prior section 3056n, [Pub. L. 89–73, title V, § 516][/us/pl/89/73/s516], as added [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2287][/us/stat/114/2287], related to definitions, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365]. See [section 3056p(a) of this title][/us/usc/t42/s3056p/a].
+    A prior section 3056n, [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 516, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2287][/us/stat/114/2287], related to definitions, prior to the general amendment of this subchapter by [Pub. L. 109–365][/us/pl/109/365]. See [section 3056p(a) of this title][/us/usc/t42/s3056p/a].
 
 ----------
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/89/73/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs516
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2587
-[/us/pl/89/73/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs516
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2287
 [/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/usc/t42/s3056p/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056p%2Fa

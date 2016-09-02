@@ -59,7 +59,7 @@
 
         Support of a center under subsection (a) of this section may be for a period not exceeding 5 years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 452A, as added [Pub. L. 103–43, title X, § 1001][/us/pl/103/43/s1001], June 10, 1993, [107 Stat. 165][/us/stat/107/165]; amended [Pub. L. 109–482, title I, § 103(b)(29)][/us/pl/109/482/s103/b/29], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 452A, as added [Pub. L. 103–43, title X][/us/pl/103/43/tX], § 1001, June 10, 1993, [107 Stat. 165][/us/stat/107/165]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(29), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __Amendments__ 
 
@@ -77,9 +77,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1001
+[/us/pl/103/43/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtX
 [/us/stat/107/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F165
-[/us/pl/109/482/s103/b/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F29
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

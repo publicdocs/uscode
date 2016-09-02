@@ -61,7 +61,7 @@
 
         This section and the amendments made by this section shall apply to disasters declared after September 23, 1994.
 
-([Pub. L. 103–325, title V, § 582][/us/pl/103/325/s582], Sept. 23, 1994, [108 Stat. 2286][/us/stat/108/2286].)
+([Pub. L. 103–325, title V][/us/pl/103/325/tV], § 582, Sept. 23, 1994, [108 Stat. 2286][/us/stat/108/2286].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t7/s1961/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1961%2Fa
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/103/325/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs582
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2286
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

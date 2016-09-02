@@ -221,21 +221,21 @@
 
                     (II) to sell such products, or copies of such products, for profit to the entities referred to in clause (i).
 
-([Pub. L. 88–452, title VIII, § 803C][/us/pl/88/452/s803C], as added [Pub. L. 102–524, § 2][/us/pl/102/524/s2], Oct. 26, 1992, [106 Stat. 3434][/us/stat/106/3434]; amended [Pub. L. 109–394, § 2][/us/pl/109/394/s2], Dec. 14, 2006, [120 Stat. 2705][/us/stat/120/2705].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 803C, as added [Pub. L. 102–524][/us/pl/102/524], § 2, Oct. 26, 1992, [106 Stat. 3434][/us/stat/106/3434]; amended [Pub. L. 109–394][/us/pl/109/394], § 2, Dec. 14, 2006, [120 Stat. 2705][/us/stat/120/2705].)
 
  __References in Text__ 
 
     The Indian Self-Determination Act, referred to in subsec. (e)(1)(B)(ii)(III), is title I of [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206], as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25][/us/usc/t25/s450] and Tables.
 
-    [Section 3215 of title 20][/us/usc/t20/s3215], referred to in subsec. (f)(2)(B)(ii), was in the original a reference to section 5135 of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10]. Section 5135 of that Act was omitted in the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519].
+    [Section 3215 of title 20][/us/usc/t20/s3215], referred to in subsec. (f)(2)(B)(ii), was in the original a reference to section 5135 of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10]. Section 5135 of that Act was omitted in the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519].
 
  __Amendments__ 
 
-    2006—Subsec. (b)(7). [Pub. L. 109–394, § 2(1)][/us/pl/109/394/s2/1], added par. (7).
+    2006—Subsec. (b)(7). [Pub. L. 109–394][/us/pl/109/394], § 2(1), added par. (7).
 
-    Subsec. (c)(7). [Pub. L. 109–394, § 2(2)][/us/pl/109/394/s2/2], added par. (7).
+    Subsec. (c)(7). [Pub. L. 109–394][/us/pl/109/394], § 2(2), added par. (7).
 
-    Subsec. (e)(2). [Pub. L. 109–394, § 2(3)][/us/pl/109/394/s2/3], inserted “ ,except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis” before period at end.
+    Subsec. (e)(2). [Pub. L. 109–394][/us/pl/109/394], § 2(3), inserted “ ,except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis” before period at end.
 
 ----------
 
@@ -246,10 +246,10 @@
 
 [/us/usc/t42/s2991b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991b%2Fa
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
-[/us/pl/88/452/s803C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs803C
-[/us/pl/102/524/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F524%2Fs2
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/102/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F524
 [/us/stat/106/3434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3434
-[/us/pl/109/394/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394%2Fs2
+[/us/pl/109/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394
 [/us/stat/120/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2705
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
@@ -257,10 +257,10 @@
 [/us/usc/t20/s3215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3215
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3519
-[/us/pl/109/394/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394%2Fs2%2F1
-[/us/pl/109/394/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394%2Fs2%2F2
-[/us/pl/109/394/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394%2Fs2%2F3
+[/us/pl/109/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394
+[/us/pl/109/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394
+[/us/pl/109/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F394
 
 

@@ -65,7 +65,7 @@
 
         The Secretary shall, as he deems necessary, conduct an evaluation of transactions reported to the Secretary under subsection (a)(3) of this section for the purpose of determining their adverse impact, if any, on the fiscal soundness and reasonableness of charges to the health maintenance organization with respect to which they transpired. The Secretary shall evaluate the reported transactions of not less than five, or if there are more than twenty health maintenance organizations reporting such transactions, not less than one-fourth of the health maintenance organizations reporting any such transactions under subsection (a)(3) of this section.
 
-    (e) __Repealed.__  __[__  __Pub. L. 99–660, title VIII, § 810__  __][/us/pl/99/660/s810]__  __,__  __Nov. 14, 1986__  __,__  __[__  __100 Stat. 3801__  __][/us/stat/100/3801]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 99–660, title VIII__  __][/us/pl/99/660/tVIII]__  __, § 810,__  __Nov. 14, 1986__  __,__  __[__  __100 Stat. 3801__  __][/us/stat/100/3801]__ 
 
     (f) __Rates__ 
 
@@ -79,7 +79,7 @@
 
         Whoever knowingly and willfully makes or causes to be made any false statement or representation of a material fact in any statement filed pursuant to this section shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1318, as added [Pub. L. 95–559, § 9(a)][/us/pl/95/559/s9/a], Nov. 1, 1978, [92 Stat. 2135][/us/stat/92/2135]; amended [Pub. L. 97–35, title IX, § 948][/us/pl/97/35/s948], Aug. 13, 1981, [95 Stat. 577][/us/stat/95/577]; [Pub. L. 99–660, title VIII, § 810][/us/pl/99/660/s810], Nov. 14, 1986, [100 Stat. 3801][/us/stat/100/3801]; [Pub. L. 108–173, title IX, § 900(e)(2)(E)][/us/pl/108/173/s900/e/2/E], Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1318, as added [Pub. L. 95–559][/us/pl/95/559], § 9(a), Nov. 1, 1978, [92 Stat. 2135][/us/stat/92/2135]; amended [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 948, Aug. 13, 1981, [95 Stat. 577][/us/stat/95/577]; [Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 810, Nov. 14, 1986, [100 Stat. 3801][/us/stat/100/3801]; [Pub. L. 108–173, title IX][/us/pl/108/173/tIX], § 900(e)(2)(E), Dec. 8, 2003, [117 Stat. 2372][/us/stat/117/2372].)
 
  __Amendments__ 
 
@@ -93,11 +93,11 @@
 
     “(3) what action, if any, the Secretary considers necessary under [section 300e–11 of this title][/us/usc/t42/s300e–11] with respect to health maintenance organizations evaluated under subsection (d) of this section.”
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 948(a)][/us/pl/97/35/s948/a], (b), in par. (2) inserted reference to copy of the report, if any, filed with the Health Care Financing Administration, and in par. (3)(B) reorganized excluding provisions and, among revisions, inserted salaries paid to employees for services.
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 948(a), (b), in par. (2) inserted reference to copy of the report, if any, filed with the Health Care Financing Administration, and in par. (3)(B) reorganized excluding provisions and, among revisions, inserted salaries paid to employees for services.
 
-    Subsec. (b)(1). [Pub. L. 97–35, § 948(c)][/us/pl/97/35/s948/c], inserted “responsible for management or administration” after “employee”.
+    Subsec. (b)(1). [Pub. L. 97–35][/us/pl/97/35], § 948(c), inserted “responsible for management or administration” after “employee”.
 
-    Subsec. (b)(4). [Pub. L. 97–35, § 948(d)][/us/pl/97/35/s948/d], substituted “spouse, child, or parent” for “member of the immediate family”.
+    Subsec. (b)(4). [Pub. L. 97–35][/us/pl/97/35], § 948(d), substituted “spouse, child, or parent” for “member of the immediate family”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -112,24 +112,24 @@
 
 [/us/usc/t42/s1320a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933
 [/us/usc/t42/s1396a/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F38
-[/us/pl/99/660/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs810
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3801
 [/us/usc/t42/s300e–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/559/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs9%2Fa
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/stat/92/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2135
-[/us/pl/97/35/s948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs948
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F577
-[/us/pl/99/660/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs810
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3801
-[/us/pl/108/173/s900/e/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F2%2FE
+[/us/pl/108/173/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtIX
 [/us/stat/117/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2372
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/usc/t42/s300e–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%9311
-[/us/pl/97/35/s948/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs948%2Fa
-[/us/pl/97/35/s948/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs948%2Fc
-[/us/pl/97/35/s948/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs948%2Fd
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/pl/99/660/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs815%2Fa
 [/us/usc/t42/s300e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931

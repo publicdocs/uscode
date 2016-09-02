@@ -79,7 +79,7 @@
 
             A person who provides voluntary services under the authority of subparagraph (E) of paragraph (1) shall be considered to be an employee of the Federal Government for the purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and to be an employee of the Federal Government for the purposes of chapter 171 of title 28, relating to tort claims. Such a person who is not otherwise employed by the Federal Government shall not be considered to be a Federal employee for any other purpose by reason of the provision of such services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 272, as added [Pub. L. 111–148, title V, § 5315][/us/pl/111/148/s5315], Mar. 23, 2010, [124 Stat. 637][/us/stat/124/637].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 272, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5315, Mar. 23, 2010, [124 Stat. 637][/us/stat/124/637].)
 
 ----------
 
@@ -90,7 +90,7 @@
 
 [/us/usc/t5/s5373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5373
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5315
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F637
 
 

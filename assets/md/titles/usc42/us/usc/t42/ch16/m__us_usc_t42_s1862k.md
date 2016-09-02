@@ -55,7 +55,7 @@
 
         (4) Promote partnerships with industry, elementary and secondary schools, community colleges, colleges and universities, other agencies, State and local governments, and other institutions involved in science, mathematics, and engineering to enhance the delivery of math and science education and improve the technological literacy of the citizens of the United States.
 
-([Pub. L. 105–207, title I, § 101][/us/pl/105/207/s101], July 29, 1998, [112 Stat. 869][/us/stat/112/869].)
+([Pub. L. 105–207, title I][/us/pl/105/207/tI], § 101, July 29, 1998, [112 Stat. 869][/us/stat/112/869].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 
  __Indirect Costs__ 
 
-[Pub. L. 105–207, title II, § 203][/us/pl/105/207/s203], July 29, 1998, [112 Stat. 875][/us/stat/112/875], provided that:
+[Pub. L. 105–207, title II][/us/pl/105/207/tII], § 203, July 29, 1998, [112 Stat. 875][/us/stat/112/875], provided that:
 
 >     “(a)  __Matching Funds__  __.—__ 
 
@@ -113,7 +113,7 @@
 
  __Notice; Enhancement of Science and Mathematics Programs__ 
 
-[Pub. L. 105–207, title II][/us/pl/105/207], §§ 205, 206, July 29, 1998, [112 Stat. 876][/us/stat/112/876], provided that:
+[Pub. L. 105–207, title II][/us/pl/105/207/tII], §§ 205, 206, July 29, 1998, [112 Stat. 876][/us/stat/112/876], provided that:
 
 > “SEC. 205. __NOTICE.__ 
 
@@ -157,7 +157,7 @@
 
  __Definitions__ 
 
-[Pub. L. 105–207, § 2][/us/pl/105/207/s2], July 29, 1998, [112 Stat. 869][/us/stat/112/869], as amended by [Pub. L. 107–368, § 14(b)(3)][/us/pl/107/368/s14/b/3], Dec. 19, 2002, [116 Stat. 3057][/us/stat/116/3057], provided that: 
+[Pub. L. 105–207][/us/pl/105/207], § 2, July 29, 1998, [112 Stat. 869][/us/stat/112/869], as amended by [Pub. L. 107–368][/us/pl/107/368], § 14(b)(3), Dec. 19, 2002, [116 Stat. 3057][/us/stat/116/3057], provided that: 
 
 > “In this Act \[see Short Title of 1998 Amendment note set out under [section 1861 of this title][/us/usc/t42/s1861]\]:
 
@@ -192,19 +192,19 @@
 ----------
 ----------
 
-[/us/pl/105/207/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs101
+[/us/pl/105/207/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtI
 [/us/stat/112/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F869
-[/us/pl/105/207/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs203
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F875
 [/us/usc/t42/s1862c/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862c%2Fa%2F2%2FC
-[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
+[/us/pl/105/207/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2FtII
 [/us/stat/112/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F876
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
 [/us/usc/t40/s549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs549
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/105/207/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207%2Fs2
+[/us/pl/105/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F207
 [/us/stat/112/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F869
-[/us/pl/107/368/s14/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs14%2Fb%2F3
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3057
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861

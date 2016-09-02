@@ -171,7 +171,7 @@
 
         There is authorized to be appropriated to the Administrator to carry out this section $400,000,000 for each of fiscal years 2013 through 2017.
 
-([Pub. L. 112–141, div. F, title II, § 100216][/us/pl/112/141/s100216], July 6, 2012, [126 Stat. 927][/us/stat/126/927]; [Pub. L. 113–89][/us/pl/113/89], §§ 27, 30, Mar. 21, 2014, [128 Stat. 1033][/us/stat/128/1033], 1034.)
+([Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100216, July 6, 2012, [126 Stat. 927][/us/stat/126/927]; [Pub. L. 113–89][/us/pl/113/89], §§ 27, 30, Mar. 21, 2014, [128 Stat. 1033][/us/stat/128/1033], 1034.)
 
  __References in Text__ 
 
@@ -183,31 +183,31 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1)(A)(v), (vi). [Pub. L. 113–89, § 27(1)][/us/pl/113/89/s27/1], added cl. (v), redesignated former cl. (v) as (vi), and, in cl. (vi), inserted “and by non-structural flood mitigation features” before semicolon at end.
+    2014—Subsec. (b)(1)(A)(v), (vi). [Pub. L. 113–89][/us/pl/113/89], § 27(1), added cl. (v), redesignated former cl. (v) as (vi), and, in cl. (vi), inserted “and by non-structural flood mitigation features” before semicolon at end.
 
-    Subsec. (d)(1)(A). [Pub. L. 113–89, § 30(3)][/us/pl/113/89/s30/3], added subpar. (A). Former subpar. (A) redesignated (D).
+    Subsec. (d)(1)(A). [Pub. L. 113–89][/us/pl/113/89], § 30(3), added subpar. (A). Former subpar. (A) redesignated (D).
 
-    [Pub. L. 113–89, § 27(2)(C)][/us/pl/113/89/s27/2/C], added subpar. (A). Former subpar. (A) redesignated (B).
+    [Pub. L. 113–89][/us/pl/113/89], § 27(2)(C), added subpar. (A). Former subpar. (A) redesignated (B).
 
-    Subsec. (d)(1)(B). [Pub. L. 113–89, § 30(3)][/us/pl/113/89/s30/3], added subpar. (B). Former subpar. (B) redesignated (E).
+    Subsec. (d)(1)(B). [Pub. L. 113–89][/us/pl/113/89], § 30(3), added subpar. (B). Former subpar. (B) redesignated (E).
 
-    [Pub. L. 113–89, § 27(2)(A)][/us/pl/113/89/s27/2/A], redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
+    [Pub. L. 113–89][/us/pl/113/89], § 27(2)(A), redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
 
-    Subsec. (d)(1)(C). [Pub. L. 113–89, § 30(3)][/us/pl/113/89/s30/3], added subpar. (C). Former subpar. (C) redesignated (F).
+    Subsec. (d)(1)(C). [Pub. L. 113–89][/us/pl/113/89], § 30(3), added subpar. (C). Former subpar. (C) redesignated (F).
 
-    [Pub. L. 113–89, § 30(1)][/us/pl/113/89/s30/1], substituted “subparagraph (E)” for “subparagraph (B)” and struck out “and” at end.
+    [Pub. L. 113–89][/us/pl/113/89], § 30(1), substituted “subparagraph (E)” for “subparagraph (B)” and struck out “and” at end.
 
-    [Pub. L. 113–89, § 27(2)(A)][/us/pl/113/89/s27/2/A], (B), redesignated subpar. (B) as (C) and substituted “subparagraph (B)” for “subparagraph (A)”. Former subpar. (C) redesignated (D).
+    [Pub. L. 113–89][/us/pl/113/89], § 27(2)(A), (B), redesignated subpar. (B) as (C) and substituted “subparagraph (B)” for “subparagraph (A)”. Former subpar. (C) redesignated (D).
 
-    Subsec. (d)(1)(D). [Pub. L. 113–89, § 30(2)][/us/pl/113/89/s30/2], redesignated subpar. (A) as (D). Former subpar. (D) redesignated (H).
+    Subsec. (d)(1)(D). [Pub. L. 113–89][/us/pl/113/89], § 30(2), redesignated subpar. (A) as (D). Former subpar. (D) redesignated (H).
 
-    [Pub. L. 113–89, § 27(2)(A)][/us/pl/113/89/s27/2/A], redesignated subpar. (C) as (D).
+    [Pub. L. 113–89][/us/pl/113/89], § 27(2)(A), redesignated subpar. (C) as (D).
 
-    Subsec. (d)(1)(E), (F). [Pub. L. 113–89, § 30(2)][/us/pl/113/89/s30/2], redesignated subpars. (B) and (C) as (E) and (F), respectively.
+    Subsec. (d)(1)(E), (F). [Pub. L. 113–89][/us/pl/113/89], § 30(2), redesignated subpars. (B) and (C) as (E) and (F), respectively.
 
-    Subsec. (d)(1)(G). [Pub. L. 113–89, § 30(4)][/us/pl/113/89/s30/4], added subpar. (G).
+    Subsec. (d)(1)(G). [Pub. L. 113–89][/us/pl/113/89], § 30(4), added subpar. (G).
 
-    Subsec. (d)(1)(H). [Pub. L. 113–89, § 30(2)][/us/pl/113/89/s30/2], redesignated subpar. (D) as (H).
+    Subsec. (d)(1)(H). [Pub. L. 113–89][/us/pl/113/89], § 30(2), redesignated subpar. (D) as (H).
 
  __Definitions__ 
 
@@ -224,26 +224,26 @@
 [/us/usc/t42/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4011
 [/us/usc/t42/s4012a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a
 [/us/usc/t42/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4011
-[/us/pl/112/141/s100216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100216
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F927
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1033
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/113/89/s27/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F1
-[/us/pl/113/89/s30/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F3
-[/us/pl/113/89/s27/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F2%2FC
-[/us/pl/113/89/s30/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F3
-[/us/pl/113/89/s27/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F2%2FA
-[/us/pl/113/89/s30/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F3
-[/us/pl/113/89/s30/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F1
-[/us/pl/113/89/s27/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F2%2FA
-[/us/pl/113/89/s30/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F2
-[/us/pl/113/89/s27/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F2%2FA
-[/us/pl/113/89/s30/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F2
-[/us/pl/113/89/s30/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F4
-[/us/pl/113/89/s30/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F2
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/usc/t42/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004
 
 

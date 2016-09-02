@@ -17,7 +17,7 @@
 
     The Director of the Institute shall conduct and support research and related activities into the causes, prevention, and treatment of intellectual disabilities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 450, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 856][/us/stat/99/856]; amended [Pub. L. 111–256, § 2(f)(3)][/us/pl/111/256/s2/f/3], Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 450, as added [Pub. L. 99–158][/us/pl/99/158], § 2, Nov. 20, 1985, [99 Stat. 856][/us/stat/99/856]; amended [Pub. L. 111–256][/us/pl/111/256], § 2(f)(3), Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F856
-[/us/pl/111/256/s2/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Ff%2F3
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2644
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/pl/111/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2

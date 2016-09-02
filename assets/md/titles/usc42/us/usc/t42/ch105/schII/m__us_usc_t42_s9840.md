@@ -157,47 +157,47 @@
 
         (3) Notwithstanding any other provision of this Act, an Indian tribe or tribes that operates both an Early Head Start program under [section 9840a of this title][/us/usc/t42/s9840a] and a Head Start program may, at its discretion, at any time during the grant period involved, reallocate funds between the Early Head Start program and the Head Start program in order to address fluctuations in client populations, including pregnant women and children from birth to compulsory school age. The reallocation of such funds between programs by an Indian tribe or tribes during a year shall not serve as the basis for the Secretary to reduce a base grant (as defined in [section 9835(a)(7) of this title][/us/usc/t42/s9835/a/7]) for either program in succeeding years.
 
-([Pub. L. 97–35, title VI, § 645][/us/pl/97/35/s645], Aug. 13, 1981, [95 Stat. 504][/us/stat/95/504]; [Pub. L. 98–558, title I, § 105][/us/pl/98/558/s105], Oct. 30, 1984, [98 Stat. 2879][/us/stat/98/2879]; [Pub. L. 99–425, title I, § 104][/us/pl/99/425/s104], Sept. 30, 1986, [100 Stat. 966][/us/stat/100/966]; [Pub. L. 101–501, title I][/us/pl/101/501], §§ 113, 114, Nov. 3, 1990, [104 Stat. 1231][/us/stat/104/1231]; [Pub. L. 101–597, title IV, § 401(e)][/us/pl/101/597/s401/e], Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035]; [Pub. L. 103–252, title I, § 111][/us/pl/103/252/s111], May 18, 1994, [108 Stat. 637][/us/stat/108/637]; [Pub. L. 105–285, title I, § 112][/us/pl/105/285/s112], Oct. 27, 1998, [112 Stat. 2718][/us/stat/112/2718]; [Pub. L. 110–134, § 14][/us/pl/110/134/s14], Dec. 12, 2007, [121 Stat. 1415][/us/stat/121/1415].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 645, Aug. 13, 1981, [95 Stat. 504][/us/stat/95/504]; [Pub. L. 98–558, title I][/us/pl/98/558/tI], § 105, Oct. 30, 1984, [98 Stat. 2879][/us/stat/98/2879]; [Pub. L. 99–425, title I][/us/pl/99/425/tI], § 104, Sept. 30, 1986, [100 Stat. 966][/us/stat/100/966]; [Pub. L. 101–501, title I][/us/pl/101/501/tI], §§ 113, 114, Nov. 3, 1990, [104 Stat. 1231][/us/stat/104/1231]; [Pub. L. 101–597, title IV][/us/pl/101/597/tIV], § 401(e), Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035]; [Pub. L. 103–252, title I][/us/pl/103/252/tI], § 111, May 18, 1994, [108 Stat. 637][/us/stat/108/637]; [Pub. L. 105–285, title I][/us/pl/105/285/tI], § 112, Oct. 27, 1998, [112 Stat. 2718][/us/stat/112/2718]; [Pub. L. 110–134][/us/pl/110/134], § 14, Dec. 12, 2007, [121 Stat. 1415][/us/stat/121/1415].)
 
  __References in Text__ 
 
-    [Section 254c of this title][/us/usc/t42/s254c], referred to in subsec. (a)(2)(B), was in the original a reference to section 330 of the Public Health Service Act, act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of chapter 6A of this title by [Pub. L. 104–299, § 2][/us/pl/104/299/s2], Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+    [Section 254c of this title][/us/usc/t42/s254c], referred to in subsec. (a)(2)(B), was in the original a reference to section 330 of the Public Health Service Act, act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of chapter 6A of this title by [Pub. L. 104–299][/us/pl/104/299], § 2, Oct. 11, 1996, [110 Stat. 3626][/us/stat/110/3626]. Sections 2 and 3(a) of [Pub. L. 104–299][/us/pl/104/299] enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
     This Act, referred to in subsec. (d)(3), is [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], known as the Omnibus Budget Reconciliation Act of 1981. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–134, § 14(1)(A)][/us/pl/110/134/s14/1/A], added par. (a)(1) and struck out former par. (1) which related to criteria for eligibility for participation in Head Start programs assisted under this subchapter.
+    2007—Subsec. (a). [Pub. L. 110–134][/us/pl/110/134], § 14(1)(A), added par. (a)(1) and struck out former par. (1) which related to criteria for eligibility for participation in Head Start programs assisted under this subchapter.
 
-    Subsec. (a)(3) to (5). [Pub. L. 110–134, § 14(1)(B)][/us/pl/110/134/s14/1/B], added pars. (3) to (5).
+    Subsec. (a)(3) to (5). [Pub. L. 110–134][/us/pl/110/134], § 14(1)(B), added pars. (3) to (5).
 
-    Subsec. (c). [Pub. L. 110–134, § 14(2)][/us/pl/110/134/s14/2], struck out “(age 3 to compulsory school attendance)” after “eligible children”.
+    Subsec. (c). [Pub. L. 110–134][/us/pl/110/134], § 14(2), struck out “(age 3 to compulsory school attendance)” after “eligible children”.
 
-    Subsec. (d)(3). [Pub. L. 110–134, § 14(3)][/us/pl/110/134/s14/3], added par. (3) and struck out former par. (3) which read as follows: “In providing services through a Head Start program to such children, the Indian tribe may not use funds that the Secretary has determined, in accordance with [section 9835(g)(3) of this title][/us/usc/t42/s9835/g/3], are to be used for expanding Head Start programs under this subchapter.”
+    Subsec. (d)(3). [Pub. L. 110–134][/us/pl/110/134], § 14(3), added par. (3) and struck out former par. (3) which read as follows: “In providing services through a Head Start program to such children, the Indian tribe may not use funds that the Secretary has determined, in accordance with [section 9835(g)(3) of this title][/us/usc/t42/s9835/g/3], are to be used for expanding Head Start programs under this subchapter.”
 
-    1998—Subsec. (a)(1). [Pub. L. 105–285, § 112(a)][/us/pl/105/285/s112/a], substituted “criteria may provide—” for “criteria may provide”, realigned margins of subpars. (A) and (B), in subpar. (B) substituted “shall prescribe, that—” for “shall prescribe, that”, inserted “(i)” before “programs assisted under this subchapter may”, and substituted “subparagraph (A); and”, cl. (ii), and concluding provisions for “clause (A).”
+    1998—Subsec. (a)(1). [Pub. L. 105–285][/us/pl/105/285], § 112(a), substituted “criteria may provide—” for “criteria may provide”, realigned margins of subpars. (A) and (B), in subpar. (B) substituted “shall prescribe, that—” for “shall prescribe, that”, inserted “(i)” before “programs assisted under this subchapter may”, and substituted “subparagraph (A); and”, cl. (ii), and concluding provisions for “clause (A).”
 
-    Subsec. (b). [Pub. L. 105–285, § 112(b)][/us/pl/105/285/s112/b], inserted at end “A Head Start agency that provides a Head Start program with full-working-day services in collaboration with other agencies or entities may collect a family copayment to support extended day services if a copayment is required in conjunction with the collaborative. The copayment charged to families receiving services through the Head Start program shall not exceed the copayment charged to families with similar incomes and circumstances who are receiving the services through participation in a program carried out by another agency or entity.”
+    Subsec. (b). [Pub. L. 105–285][/us/pl/105/285], § 112(b), inserted at end “A Head Start agency that provides a Head Start program with full-working-day services in collaboration with other agencies or entities may collect a family copayment to support extended day services if a copayment is required in conjunction with the collaborative. The copayment charged to families receiving services through the Head Start program shall not exceed the copayment charged to families with similar incomes and circumstances who are receiving the services through participation in a program carried out by another agency or entity.”
 
-    Subsec. (c). [Pub. L. 105–285, § 112(c)][/us/pl/105/285/s112/c], inserted at end “Each Head Start program operated in a community shall be permitted to recruit and accept applications for enrollment of children throughout the year.”
+    Subsec. (c). [Pub. L. 105–285][/us/pl/105/285], § 112(c), inserted at end “Each Head Start program operated in a community shall be permitted to recruit and accept applications for enrollment of children throughout the year.”
 
-    Subsec. (d)(1)(B). [Pub. L. 105–285, § 112(d)][/us/pl/105/285/s112/d], substituted “a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary” for “a community with a near-reservation designation, as defined by the Bureau of Indian Affairs”.
+    Subsec. (d)(1)(B). [Pub. L. 105–285][/us/pl/105/285], § 112(d), substituted “a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary” for “a community with a near-reservation designation, as defined by the Bureau of Indian Affairs”.
 
-    1994—Subsec. (c). [Pub. L. 103–252, § 111(1)][/us/pl/103/252/s111/1], substituted “shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.” for “may provide more than one year of Head Start services to children from age 3 to the age of compulsory school attendance in the State in which the Head Start program is located. The Secretary may not issue or enforce any rule (as defined in [section 551(4) of title 5][/us/usc/t5/s551/4]) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
+    1994—Subsec. (c). [Pub. L. 103–252][/us/pl/103/252], § 111(1), substituted “shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.” for “may provide more than one year of Head Start services to children from age 3 to the age of compulsory school attendance in the State in which the Head Start program is located. The Secretary may not issue or enforce any rule (as defined in [section 551(4) of title 5][/us/usc/t5/s551/4]) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
 
-    Subsec. (d). [Pub. L. 103–252, § 111(2)][/us/pl/103/252/s111/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–252][/us/pl/103/252], § 111(2), added subsec. (d).
 
-    1990—Subsec. (a)(2). [Pub. L. 101–501, § 113][/us/pl/101/501/s113], substituted “1994” for “1990” in closing provisions.
+    1990—Subsec. (a)(2). [Pub. L. 101–501][/us/pl/101/501], § 113, substituted “1994” for “1990” in closing provisions.
 
     Subsec. (a)(2)(B). [Pub. L. 101–597][/us/pl/101/597] substituted “health professional shortage area” for “health manpower shortage area”.
 
-    Subsec. (c). [Pub. L. 101–501, § 114][/us/pl/101/501/s114], inserted at end “The Secretary may not issue or enforce any rule (as defined in [section 551(4) of title 5][/us/usc/t5/s551/4]) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
+    Subsec. (c). [Pub. L. 101–501][/us/pl/101/501], § 114, inserted at end “The Secretary may not issue or enforce any rule (as defined in [section 551(4) of title 5][/us/usc/t5/s551/4]) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
 
     1986—Subsec. (a)(2). [Pub. L. 99–425][/us/pl/99/425] substituted “1990” for “1986” in closing provisions.
 
-    1984—Subsec. (a)(2). [Pub. L. 98–558, § 105(a)][/us/pl/98/558/s105/a], inserted at end “During the period beginning on October 30, 1984, and ending on October 1, 1986, and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.”
+    1984—Subsec. (a)(2). [Pub. L. 98–558][/us/pl/98/558], § 105(a), inserted at end “During the period beginning on October 30, 1984, and ending on October 1, 1986, and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.”
 
-    Subsec. (c). [Pub. L. 98–558, § 105(b)][/us/pl/98/558/s105/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–558][/us/pl/98/558], § 105(b), added subsec. (c).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -231,47 +231,47 @@
 [/us/usc/t42/s9840a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840a
 [/us/usc/t42/s9840a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9840a
 [/us/usc/t42/s9835/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F7
-[/us/pl/97/35/s645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs645
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F504
-[/us/pl/98/558/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs105
+[/us/pl/98/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtI
 [/us/stat/98/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2879
-[/us/pl/99/425/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2Fs104
+[/us/pl/99/425/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425%2FtI
 [/us/stat/100/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F966
-[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
+[/us/pl/101/501/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtI
 [/us/stat/104/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1231
-[/us/pl/101/597/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fe
+[/us/pl/101/597/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtIV
 [/us/stat/104/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3035
-[/us/pl/103/252/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs111
+[/us/pl/103/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtI
 [/us/stat/108/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F637
-[/us/pl/105/285/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs112
+[/us/pl/105/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtI
 [/us/stat/112/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2718
-[/us/pl/110/134/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs14
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1415
 [/us/usc/t42/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c
-[/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
+[/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/stat/110/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3626
 [/us/pl/104/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
-[/us/pl/110/134/s14/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs14%2F1%2FA
-[/us/pl/110/134/s14/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs14%2F1%2FB
-[/us/pl/110/134/s14/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs14%2F2
-[/us/pl/110/134/s14/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs14%2F3
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/usc/t42/s9835/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fg%2F3
-[/us/pl/105/285/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs112%2Fa
-[/us/pl/105/285/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs112%2Fb
-[/us/pl/105/285/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs112%2Fc
-[/us/pl/105/285/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs112%2Fd
-[/us/pl/103/252/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs111%2F1
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
-[/us/pl/103/252/s111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs111%2F2
-[/us/pl/101/501/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs113
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
-[/us/pl/101/501/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs114
+[/us/pl/101/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
 [/us/pl/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F425
-[/us/pl/98/558/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs105%2Fa
-[/us/pl/98/558/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs105%2Fb
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127

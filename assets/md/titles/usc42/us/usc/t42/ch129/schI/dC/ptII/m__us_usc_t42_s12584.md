@@ -45,7 +45,7 @@
 
         The requirement of subsection (a) of this section relating to an assurance regarding direct benefits to businesses organized for profit shall not apply with respect to a Regional Corporation, as defined in section 3(g) of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(g)][/us/usc/t43/s1602/g]), that is established in accordance with such Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\] as a for-profit corporation but that is engaging in nonprofit activities.
 
-([Pub. L. 101–610, title I, § 132][/us/pl/101/610/s132], as added [Pub. L. 103–82, title I, § 101(b)][/us/pl/103/82/s101/b], Sept. 21, 1993, [107 Stat. 805][/us/stat/107/805].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 132, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 101(b), Sept. 21, 1993, [107 Stat. 805][/us/stat/107/805].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 132 of Pub. L. 101–610][/us/pl/101/610/s132] was renumbered section 199L and classified to [section 12655k of this title][/us/usc/t42/s12655k], prior to repeal by [Pub. L. 103–82, § 101(e)(8)(A)][/us/pl/103/82/s101/e/8/A].
+    A prior [section 132 of Pub. L. 101–610][/us/pl/101/610/s132] was renumbered section 199L and classified to [section 12655k of this title][/us/usc/t42/s12655k], prior to repeal by [Pub. L. 103–82][/us/pl/103/82], § 101(e)(8)(A).
 
 ----------
 
@@ -68,14 +68,14 @@
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t43/s1602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fg
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/101/610/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs132
-[/us/pl/103/82/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fb
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F805
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/pl/101/610/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs132
 [/us/usc/t42/s12655k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12655k
-[/us/pl/103/82/s101/e/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs101%2Fe%2F8%2FA
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 
 

@@ -23,7 +23,7 @@
 
         Subject to terms and conditions established by the Secretary, public housing agencies may form consortia for purposes of applying for grants under this subchapter.
 
-([Pub. L. 100–690, title V, § 5123][/us/pl/100/690/s5123], Nov. 18, 1988, [102 Stat. 4301][/us/stat/102/4301]; [Pub. L. 101–625, title V, § 581(a)][/us/pl/101/625/s581/a], Nov. 28, 1990, [104 Stat. 4246][/us/stat/104/4246]; [Pub. L. 102–550, title I, § 161(d)(1)][/us/pl/102/550/s161/d/1], Oct. 28, 1992, [106 Stat. 3719][/us/stat/106/3719]; [Pub. L. 104–330, title VII, § 704(1)][/us/pl/104/330/s704/1], Oct. 26, 1996, [110 Stat. 4051][/us/stat/110/4051]; [Pub. L. 105–276, title II, § 220(1)][/us/pl/105/276/s220/1], title V, § 586(c), Oct. 21, 1998, [112 Stat. 2488][/us/stat/112/2488], 2647.)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5123, Nov. 18, 1988, [102 Stat. 4301][/us/stat/102/4301]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 581(a), Nov. 28, 1990, [104 Stat. 4246][/us/stat/104/4246]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 161(d)(1), Oct. 28, 1992, [106 Stat. 3719][/us/stat/106/3719]; [Pub. L. 104–330, title VII][/us/pl/104/330/tVII], § 704(1), Oct. 26, 1996, [110 Stat. 4051][/us/stat/110/4051]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 220(1), title V, § 586(c), Oct. 21, 1998, [112 Stat. 2488][/us/stat/112/2488], 2647.)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–276, § 586(c)][/us/pl/105/276/s586/c], designated existing provisions as subsec. (a), inserted heading, substituted “recipients of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entities”, inserted “and violent” after “drug-related”, and added subsec. (b).
+    1998—[Pub. L. 105–276][/us/pl/105/276], § 586(c), designated existing provisions as subsec. (a), inserted heading, substituted “recipients of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entities”, inserted “and violent” after “drug-related”, and added subsec. (b).
 
-    [Pub. L. 105–276, § 220(1)][/us/pl/105/276/s220/1], inserted “Indian tribes” before “and private”.
+    [Pub. L. 105–276][/us/pl/105/276], § 220(1), inserted “Indian tribes” before “and private”.
 
     1996—[Pub. L. 104–330][/us/pl/104/330] struck out “(including Indian Housing Authorities)” after “grants to public housing agencies” and inserted “tribally designated housing entities,” before “and private”.
 
@@ -57,21 +57,21 @@
 ----------
 
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/100/690/s5123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5123
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4301
-[/us/pl/101/625/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs581%2Fa
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4246
-[/us/pl/102/550/s161/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs161%2Fd%2F1
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3719
-[/us/pl/104/330/s704/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs704%2F1
+[/us/pl/104/330/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVII
 [/us/stat/110/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4051
-[/us/pl/105/276/s220/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs220%2F1
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2488
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/105/276/s586/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fc
-[/us/pl/105/276/s220/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs220%2F1
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625

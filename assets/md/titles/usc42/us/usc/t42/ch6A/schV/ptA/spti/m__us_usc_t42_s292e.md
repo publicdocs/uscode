@@ -59,23 +59,23 @@
 
         Nothing in this section shall be construed to preclude the lender and the borrower, by mutual agreement, from consolidating all of the borrower’s loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time) under the terms applicable to an insured loan made at the same time as the consolidation. The lender or loan holder should provide full information to the borrower concerning the advantages and disadvantages of loan consolidation or refinancing. Nothing in this section shall be construed to preclude the consolidation of the borrower’s loans insured under this subpart under [section 1078–3 of title 20][/us/usc/t20/s1078–3]. Any loans insured pursuant to this subpart that are consolidated under [section 1078–3 of title 20][/us/usc/t20/s1078–3] shall not be eligible for special allowance payments under [section 1087–1 of title 20][/us/usc/t20/s1087–1].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 706, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2000][/us/stat/106/2000]; amended [Pub. L. 105–392, title I, § 145][/us/pl/105/392/s145], Nov. 13, 1998, [112 Stat. 3581][/us/stat/112/3581].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 706, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2000][/us/stat/106/2000]; amended [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 145, Nov. 13, 1998, [112 Stat. 3581][/us/stat/112/3581].)
 
  __Prior Provisions__ 
 
-    A prior section 292e, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 705, as added Oct. 12, 1976, [Pub. L. 94–484, title II, § 204][/us/pl/94/484/s204], [90 Stat. 2248][/us/stat/90/2248]; amended Nov. 9, 1978, [Pub. L. 95–623, § 11(f)][/us/pl/95/623/s11/f], [92 Stat. 3456][/us/stat/92/3456]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII, § 2718][/us/pl/97/35/s2718], [95 Stat. 914][/us/stat/95/914], related to establishment and maintenance of records and annual financial reports and audits, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
+    A prior section 292e, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 705, as added Oct. 12, 1976, [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 204, [90 Stat. 2248][/us/stat/90/2248]; amended Nov. 9, 1978, [Pub. L. 95–623][/us/pl/95/623], § 11(f), [92 Stat. 3456][/us/stat/92/3456]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2718, [95 Stat. 914][/us/stat/95/914], related to establishment and maintenance of records and annual financial reports and audits, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
-    Another prior section 292e, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 706, as added July 30, 1956, 779, § 2, [70 Stat. 719][/us/stat/70/719]; amended Oct. 5, 1961, [Pub. L. 87–395, § 8(c)][/us/pl/87/395/s8/c], (d), [75 Stat. 827][/us/stat/75/827]; Sept. 24, 1963, [Pub. L. 88–129, § 2(a)][/us/pl/88/129/s2/a], [77 Stat. 164][/us/stat/77/164]; Aug. 16, 1968, [Pub. L. 90–490, title IV, § 402][/us/pl/90/490/s402], [82 Stat. 789][/us/stat/82/789]; Nov. 18, 1971, [Pub. L. 92–157, title I, § 102(k)(2)(A)][/us/pl/92/157/s102/k/2/A], (B), [85 Stat. 437][/us/stat/85/437], limited amount of grant available for construction of health research facilities, including provisions relating to its maximum, reservation of amount, manner of payment, and exclusion of amounts granted by certain other funds, prior to repeal by [Pub. L. 94–484, title II, § 201(a)][/us/pl/94/484/s201/a], Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
+    Another prior section 292e, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 706, as added July 30, 1956, 779, § 2, [70 Stat. 719][/us/stat/70/719]; amended Oct. 5, 1961, [Pub. L. 87–395][/us/pl/87/395], § 8(c), (d), [75 Stat. 827][/us/stat/75/827]; Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(a), [77 Stat. 164][/us/stat/77/164]; Aug. 16, 1968, [Pub. L. 90–490, title IV][/us/pl/90/490/tIV], § 402, [82 Stat. 789][/us/stat/82/789]; Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 102(k)(2)(A), (B), [85 Stat. 437][/us/stat/85/437], limited amount of grant available for construction of health research facilities, including provisions relating to its maximum, reservation of amount, manner of payment, and exclusion of amounts granted by certain other funds, prior to repeal by [Pub. L. 94–484, title II][/us/pl/94/484/tII], § 201(a), Oct. 12, 1976, [90 Stat. 2246][/us/stat/90/2246].
 
     A prior section 706 of act July 1, 1944, was classified to [section 292f of this title][/us/usc/t42/s292f] prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
-    Another prior section 706 of act July 1, 1944, was classified to [section 230 of this title][/us/usc/t42/s230] prior to repeal by [act Apr. 27, 1956, ch. 211, § 5(e)][/us/act/1956-04-27/ch211/s5/e], [70 Stat. 117][/us/stat/70/117].
+    Another prior section 706 of act July 1, 1944, was classified to [section 230 of this title][/us/usc/t42/s230] prior to repeal by [act Apr. 27, 1956, ch. 211][/us/act/1956-04-27/ch211], § 5(e), [70 Stat. 117][/us/stat/70/117].
 
  __Amendments__ 
 
-    1998—Subsec. (d). [Pub. L. 105–392, § 145(1)][/us/pl/105/392/s145/1], in heading, substituted “refinancing or consolidation” for “consolidation” and, in first sentence, substituted “indebtedness or the refinancing of a single loan” for “indebtedness”.
+    1998—Subsec. (d). [Pub. L. 105–392][/us/pl/105/392], § 145(1), in heading, substituted “refinancing or consolidation” for “consolidation” and, in first sentence, substituted “indebtedness or the refinancing of a single loan” for “indebtedness”.
 
-    Subsec. (e). [Pub. L. 105–392, § 145(2)][/us/pl/105/392/s145/2], in heading, substituted “debts and refinancing” for “debts”, in first sentence, substituted “all of the borrower’s loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time)” for “all of the borrower’s debts into a single instrument”, and in second sentence, substituted “consolidation or refinancing” for “consolidation”.
+    Subsec. (e). [Pub. L. 105–392][/us/pl/105/392], § 145(2), in heading, substituted “debts and refinancing” for “debts”, in first sentence, substituted “all of the borrower’s loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time)” for “all of the borrower’s debts into a single instrument”, and in second sentence, substituted “consolidation or refinancing” for “consolidation”.
 
 ----------
 
@@ -93,36 +93,36 @@
 [/us/usc/t20/s1078–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%933
 [/us/usc/t20/s1087–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2000
-[/us/pl/105/392/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs145
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3581
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs204
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2248
-[/us/pl/95/623/s11/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs11%2Ff
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3456
-[/us/pl/97/35/s2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2718
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F914
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
 [/us/stat/70/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F719
-[/us/pl/87/395/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395%2Fs8%2Fc
+[/us/pl/87/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F395
 [/us/stat/75/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F827
-[/us/pl/88/129/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fa
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F164
-[/us/pl/90/490/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs402
+[/us/pl/90/490/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtIV
 [/us/stat/82/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F789
-[/us/pl/92/157/s102/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs102%2Fk%2F2%2FA
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F437
-[/us/pl/94/484/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs201%2Fa
+[/us/pl/94/484/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtII
 [/us/stat/90/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2246
 [/us/usc/t42/s292f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292f
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs230
-[/us/act/1956-04-27/ch211/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211%2Fs5%2Fe
+[/us/act/1956-04-27/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211
 [/us/stat/70/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F117
-[/us/pl/105/392/s145/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs145%2F1
-[/us/pl/105/392/s145/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs145%2F2
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
+[/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
 
 

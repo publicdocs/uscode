@@ -23,7 +23,7 @@
 
     (3) on request of any State, utility regulatory commission, or party to any action to obtain judicial review of an administrative proceeding in which the Secretary intervened or participated under paragraph (2), intervene and participate in such action.
 
-([Pub. L. 94–385, title II, § 204][/us/pl/94/385/s204], Aug. 14, 1976, [90 Stat. 1143][/us/stat/90/1143]; [Pub. L. 95–617, title I, § 143][/us/pl/95/617/s143], Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134].)
+([Pub. L. 94–385, title II][/us/pl/94/385/tII], § 204, Aug. 14, 1976, [90 Stat. 1143][/us/stat/90/1143]; [Pub. L. 95–617, title I][/us/pl/95/617/tI], § 143, Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/94/385/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs204
+[/us/pl/94/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtII
 [/us/stat/90/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1143
-[/us/pl/95/617/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs143
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3134
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 

@@ -17,7 +17,7 @@
 
     Any funds appropriated to carry out sections 14137 to 14137c of this title, not to exceed $10,000,000 for each of fiscal years 2013 through 2015, shall be derived from amounts appropriated pursuant to subsection (j) of [section 14135 of this title][/us/usc/t42/s14135] in each such fiscal year for grants under such section.
 
-([Pub. L. 112–253, § 5][/us/pl/112/253/s5], Jan. 10, 2013, [126 Stat. 2409][/us/stat/126/2409].)
+([Pub. L. 112–253][/us/pl/112/253], § 5, Jan. 10, 2013, [126 Stat. 2409][/us/stat/126/2409].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s14135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135
-[/us/pl/112/253/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253%2Fs5
+[/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/stat/126/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2409
 [/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/stat/126/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2407

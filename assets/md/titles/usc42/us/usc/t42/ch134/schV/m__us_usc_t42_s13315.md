@@ -33,7 +33,7 @@
 
         (D) an evaluation of current programs (and recommendations for future programs) that develop and promote energy efficiency and sustainable use of indigenous renewable energy resources in foreign countries to reduce the generation of greenhouse gases.
 
-([Pub. L. 102–486, title XII, § 1209][/us/pl/102/486/s1209], Oct. 24, 1992, [106 Stat. 2964][/us/stat/106/2964].)
+([Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1209, Oct. 24, 1992, [106 Stat. 2964][/us/stat/106/2964].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t42/s6276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6276
-[/us/pl/102/486/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1209
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2964
 
 

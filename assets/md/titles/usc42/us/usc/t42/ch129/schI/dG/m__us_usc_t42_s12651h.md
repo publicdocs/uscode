@@ -33,11 +33,11 @@
 
         (5) perform such other duties and functions as may be assigned or delegated by the Chief Executive Officer.
 
-([Pub. L. 101–610, title I, § 196A][/us/pl/101/610/s196A], as added [Pub. L. 103–82, title II, § 202(a)][/us/pl/103/82/s202/a], Sept. 21, 1993, [107 Stat. 887][/us/stat/107/887].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 196A, as added [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(a), Sept. 21, 1993, [107 Stat. 887][/us/stat/107/887].)
 
  __References in Text__ 
 
-    [Section 12653a of this title][/us/usc/t42/s12653a], referred to in subsec. (b)(2), was in the original “section 198A”, meaning [section 198A of Pub. L. 101–610][/us/pl/101/610/s198A], as added by [section 104(c) of Pub. L. 103–82][/us/pl/103/82/s104/c], which was repealed, and section 198B was redesignated section 198A, by [Pub. L. 111–13, title I, § 1803(a)(1)][/us/pl/111/13/s1803/a/1], (b), Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554]. Provisions similar to section 12653a are now contained in section 12653o of this title.
+    [Section 12653a of this title][/us/usc/t42/s12653a], referred to in subsec. (b)(2), was in the original “section 198A”, meaning [section 198A of Pub. L. 101–610][/us/pl/101/610/s198A], as added by [section 104(c) of Pub. L. 103–82][/us/pl/103/82/s104/c], which was repealed, and section 198B was redesignated section 198A, by [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1803(a)(1), (b), Apr. 21, 2009, [123 Stat. 1554][/us/stat/123/1554]. Provisions similar to section 12653a are now contained in section 12653o of this title.
 
  __Effective Date__ 
 
@@ -53,13 +53,13 @@
 [/us/usc/t42/s12651f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651f%2Fc
 [/us/usc/t42/s12638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12638
 [/us/usc/t42/s12638/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12638%2Fe%2F1
-[/us/pl/101/610/s196A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs196A
-[/us/pl/103/82/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fa
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F887
 [/us/usc/t42/s12653a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12653a
 [/us/pl/101/610/s198A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs198A
 [/us/pl/103/82/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fc
-[/us/pl/111/13/s1803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1803%2Fa%2F1
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1554
 [/us/pl/103/82/s202/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fi
 [/us/usc/t42/s12651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12651

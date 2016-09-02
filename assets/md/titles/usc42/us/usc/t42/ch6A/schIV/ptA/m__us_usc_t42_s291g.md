@@ -33,13 +33,13 @@
 
     as the Surgeon General may determine to be appropriate under the circumstances; and, except with regard to any project for which the application has already been approved and which is not directly affected, further payments may be withheld, in whole or in part, until there is no longer any failure to comply (or carry out the assurance or plans and specifications or provide adequate State funds, as the case may be) or, if such compliance (or other action) is impossible, until the State repays or arranges for the repayment of Federal moneys to which the recipient was not entitled.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 607, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 455][/us/stat/78/455].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 607, as added [Pub. L. 88–443][/us/pl/88/443], § 3(a), Aug. 18, 1964, [78 Stat. 455][/us/stat/78/455].)
 
  __Prior Provisions__ 
 
-    A prior section 291g, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 624, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [June 29, 1948, ch. 728, § 1][/us/act/1948-06-29/ch728/s1], [62 Stat. 1103][/us/stat/62/1103]; [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], §§ 3(b), 7, [63 Stat. 899][/us/stat/63/899], 901; [Aug. 1, 1956, ch. 852, § 19(c)][/us/act/1956-08-01/ch852/s19/c], [70 Stat. 911][/us/stat/70/911]; Sept. 25, 1962, [Pub. L. 87–688, § 4(a)(3)][/us/pl/87/688/s4/a/3], [76 Stat. 587][/us/stat/76/587], authorized allotments to States for construction, specified their amount, and provided for availability for unexpended funds, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291b of this title][/us/usc/t42/s291b].
+    A prior section 291g, [act July 1, 1944, ch. 373, title VI][/us/act/1944-07-01/ch373/tVI], § 624, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [June 29, 1948, ch. 728][/us/act/1948-06-29/ch728], § 1, [62 Stat. 1103][/us/stat/62/1103]; [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], §§ 3(b), 7, [63 Stat. 899][/us/stat/63/899], 901; [Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 19(c), [70 Stat. 911][/us/stat/70/911]; Sept. 25, 1962, [Pub. L. 87–688][/us/pl/87/688], § 4(a)(3), [76 Stat. 587][/us/stat/76/587], authorized allotments to States for construction, specified their amount, and provided for availability for unexpended funds, prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443]. See [section 291b of this title][/us/usc/t42/s291b].
 
-    Provisions similar to those comprising this section were contained in former section 291j(a), acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 632, as added [Aug. 13, 1946, ch. 958, § 2][/us/act/1946-08-13/ch958/s2], [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722, § 4][/us/act/1949-10-25/ch722/s4], [63 Stat. 900][/us/stat/63/900]; [July 12, 1954, ch. 471, § 4(g)][/us/act/1954-07-12/ch471/s4/g], [68 Stat. 466][/us/stat/68/466], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
+    Provisions similar to those comprising this section were contained in former section 291j(a), acts [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 632, as added [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 2, [60 Stat. 1041][/us/stat/60/1041]; amended [Oct. 25, 1949, ch. 722][/us/act/1949-10-25/ch722], § 4, [63 Stat. 900][/us/stat/63/900]; [July 12, 1954, ch. 471][/us/act/1954-07-12/ch471], § 4(g), [68 Stat. 466][/us/stat/68/466], prior to the general amendment of this subchapter by [Pub. L. 88–443][/us/pl/88/443].
 
  __Transfer of Functions__ 
 
@@ -58,27 +58,27 @@
 [/us/usc/t42/s291e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291e
 [/us/usc/t42/s291a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291a
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/443/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443%2Fs3%2Fa
+[/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/78/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F455
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1944-07-01/ch373/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVI
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
-[/us/act/1948-06-29/ch728/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch728%2Fs1
+[/us/act/1948-06-29/ch728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch728
 [/us/stat/62/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1103
 [/us/act/1949-10-25/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722
 [/us/stat/63/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F899
-[/us/act/1956-08-01/ch852/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs19%2Fc
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F911
-[/us/pl/87/688/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688%2Fs4%2Fa%2F3
+[/us/pl/87/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F688
 [/us/stat/76/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F587
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/usc/t42/s291b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291b
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/act/1946-08-13/ch958/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs2
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1041
-[/us/act/1949-10-25/ch722/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722%2Fs4
+[/us/act/1949-10-25/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch722
 [/us/stat/63/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F900
-[/us/act/1954-07-12/ch471/s4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471%2Fs4%2Fg
+[/us/act/1954-07-12/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-12%2Fch471
 [/us/stat/68/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F466
 [/us/pl/88/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F443
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610

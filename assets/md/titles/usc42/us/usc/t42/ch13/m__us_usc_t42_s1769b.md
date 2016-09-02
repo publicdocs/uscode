@@ -35,7 +35,7 @@
 
         The Secretary of Agriculture shall provide the Secretary of Defense with the technical assistance in the administration of the school lunch programs authorized by this section.
 
-([June 4, 1946, ch. 281, § 20][/us/act/1946-06-04/ch281/s20], formerly § 22, as added [Pub. L. 95–561, title XIV, § 1408(a)][/us/pl/95/561/s1408/a], Nov. 1, 1978, [92 Stat. 2368][/us/stat/92/2368]; renumbered § 20 and amended [Pub. L. 99–500, title III][/us/pl/99/500], §§ 328(a), 371(c)(1), Oct. 18, 1986, [100 Stat. 1783–362][/us/stat/100/1783-362], 1783–368, and [Pub. L. 99–591, title III][/us/pl/99/591], §§ 328(a), 371(c)(1), Oct. 30, 1986, [100 Stat. 3341–365][/us/stat/100/3341-365], 3341–372; renumbered § 20 and amended [Pub. L. 99–661, div. D, title II, § 4208(a)][/us/pl/99/661/s4208/a], title V, § 4501(c)(1), Nov. 14, 1986, [100 Stat. 4073][/us/stat/100/4073], 4080; [Pub. L. 101–147, title III, § 312(2)][/us/pl/101/147/s312/2], Nov. 10, 1989, [103 Stat. 916][/us/stat/103/916].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 20, formerly § 22, as added [Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1408(a), Nov. 1, 1978, [92 Stat. 2368][/us/stat/92/2368]; renumbered § 20 and amended [Pub. L. 99–500, title III][/us/pl/99/500/tIII], §§ 328(a), 371(c)(1), Oct. 18, 1986, [100 Stat. 1783–362][/us/stat/100/1783-362], 1783–368, and [Pub. L. 99–591, title III][/us/pl/99/591/tIII], §§ 328(a), 371(c)(1), Oct. 30, 1986, [100 Stat. 3341–365][/us/stat/100/3341-365], 3341–372; renumbered § 20 and amended [Pub. L. 99–661, div. D, title II][/us/pl/99/661/dD/tII], § 4208(a), title V, § 4501(c)(1), Nov. 14, 1986, [100 Stat. 4073][/us/stat/100/4073], 4080; [Pub. L. 101–147, title III][/us/pl/101/147/tIII], § 312(2), Nov. 10, 1989, [103 Stat. 916][/us/stat/103/916].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
     1989—Subsec. (b). [Pub. L. 101–147][/us/pl/101/147] substituted “reduced price” for “reduced-price”.
 
-    1986—Subsec. (d). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 328(a)][/us/pl/99/591/s328/a], and [Pub. L. 99–661, § 4208(a)][/us/pl/99/661/s4208/a], amended subsec. (d) identically, striking out “and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each lunch for each student eligible for a free lunch, and (2) the full cost of each lunch, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price lunch” after “this section”.
+    1986—Subsec. (d). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 328(a), and [Pub. L. 99–661][/us/pl/99/661], § 4208(a), amended subsec. (d) identically, striking out “and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each lunch for each student eligible for a free lunch, and (2) the full cost of each lunch, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price lunch” after “this section”.
 
  __Effective Date__ 
 
@@ -62,24 +62,24 @@
 ----------
 ----------
 
-[/us/act/1946-06-04/ch281/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs20
-[/us/pl/95/561/s1408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1408%2Fa
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2368
-[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/99/500/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2FtIII
 [/us/stat/100/1783-362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-362
-[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/591/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtIII
 [/us/stat/100/3341-365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-365
-[/us/pl/99/661/s4208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4208%2Fa
+[/us/pl/99/661/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdD%2FtII
 [/us/stat/100/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4073
-[/us/pl/101/147/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2Fs312%2F2
+[/us/pl/101/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147%2FtIII
 [/us/stat/103/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F916
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/usc/t42/s1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769
 [/us/pl/101/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F147
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s328/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs328%2Fa
-[/us/pl/99/661/s4208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4208%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/95/561/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1415
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
 

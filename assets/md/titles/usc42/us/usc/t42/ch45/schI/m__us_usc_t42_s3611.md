@@ -39,11 +39,11 @@
 
             shall be fined not more than $100,000 or imprisoned not more than one year, or both.
 
-([Pub. L. 90–284, title VIII, § 811][/us/pl/90/284/s811], as added [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2], Sept. 13, 1988, [102 Stat. 1628][/us/stat/102/1628].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 811, as added [Pub. L. 100–430][/us/pl/100/430], § 8(2), Sept. 13, 1988, [102 Stat. 1628][/us/stat/102/1628].)
 
  __Prior Provisions__ 
 
-    A prior section 3611, [Pub. L. 90–284, title VIII, § 811][/us/pl/90/284/s811], Apr. 11, 1968, [82 Stat. 87][/us/stat/82/87], related to evidence, prior to repeal by [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2].
+    A prior section 3611, [Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 811, Apr. 11, 1968, [82 Stat. 87][/us/stat/82/87], related to evidence, prior to repeal by [Pub. L. 100–430][/us/pl/100/430], § 8(2).
 
  __Effective Date__ 
 
@@ -56,12 +56,12 @@
 ----------
 ----------
 
-[/us/pl/90/284/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs811
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1628
-[/us/pl/90/284/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs811
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F87
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/100/430/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs13%2Fa
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 

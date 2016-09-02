@@ -23,7 +23,7 @@
 
     unless the adverse determination or final judgment is reversed upon further administrative or judicial review.
 
-([Pub. L. 93–438, title II, § 212][/us/pl/93/438/s212], as added [Pub. L. 109–58, title VI, § 627][/us/pl/109/58/s627], Aug. 8, 2005, [119 Stat. 784][/us/stat/119/784].)
+([Pub. L. 93–438, title II][/us/pl/93/438/tII], § 212, as added [Pub. L. 109–58, title VI][/us/pl/109/58/tVI], § 627, Aug. 8, 2005, [119 Stat. 784][/us/stat/119/784].)
 
 ----------
 
@@ -34,8 +34,8 @@
 
 [/us/usc/t42/s5851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5851
 [/us/usc/t42/s5851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5851
-[/us/pl/93/438/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs212
-[/us/pl/109/58/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs627
+[/us/pl/93/438/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtII
+[/us/pl/109/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVI
 [/us/stat/119/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F784
 
 

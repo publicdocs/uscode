@@ -29,13 +29,13 @@
 
         The Secretary shall furnish technical assistance to the States for establishing the guidelines, and each State shall furnish the Secretary with copies of its guidelines.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 467, as added [Pub. L. 98–378, § 18(a)][/us/pl/98/378/s18/a], Aug. 16, 1984, [98 Stat. 1321][/us/stat/98/1321]; amended [Pub. L. 100–485, title I, § 103(a)][/us/pl/100/485/s103/a], (b), Oct. 13, 1988, [102 Stat. 2346][/us/stat/102/2346].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 467, as added [Pub. L. 98–378][/us/pl/98/378], § 18(a), Aug. 16, 1984, [98 Stat. 1321][/us/stat/98/1321]; amended [Pub. L. 100–485, title I][/us/pl/100/485/tI], § 103(a), (b), Oct. 13, 1988, [102 Stat. 2346][/us/stat/102/2346].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–485, § 103(b)][/us/pl/100/485/s103/b], inserted “, and shall be reviewed at least once every 4 years to ensure that their application results in the determination of appropriate child support award amounts” before period at end.
+    1988—Subsec. (a). [Pub. L. 100–485][/us/pl/100/485], § 103(b), inserted “, and shall be reviewed at least once every 4 years to ensure that their application results in the determination of appropriate child support award amounts” before period at end.
 
-    Subsec. (b). [Pub. L. 100–485, § 103(a)][/us/pl/100/485/s103/a], designated existing provisions as par. (1), struck out “, but need not be binding upon such judges or other officials” after “within such State”, and added par. (2).
+    Subsec. (b). [Pub. L. 100–485][/us/pl/100/485], § 103(a), designated existing provisions as par. (1), struck out “, but need not be binding upon such judges or other officials” after “within such State”, and added par. (2).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -43,13 +43,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–378, § 18(b)][/us/pl/98/378/s18/b], Aug. 16, 1984, [98 Stat. 1322][/us/stat/98/1322], provided that: 
+[Pub. L. 98–378][/us/pl/98/378], § 18(b), Aug. 16, 1984, [98 Stat. 1322][/us/stat/98/1322], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall become effective on October 1, 1987.”
 
  __Study of Child-Rearing Costs__ 
 
-    [Pub. L. 100–485, title I, § 128][/us/pl/100/485/s128], Oct. 13, 1988, [102 Stat. 2356][/us/stat/102/2356], directed Secretary of Health and Human Services, by grant or contract, to conduct a study of patterns of expenditures on children in 2-parent families, in single-parent families following divorce or separation, and in single-parent families in which parents were never married, giving particular attention to the relative standards of living in households in which both parents and all of the children do not live together, and submit to Congress no later than 2 years after Oct. 13, 1988, a full and complete report of results of such study, including recommendations for legislative, administrative, and other actions.
+    [Pub. L. 100–485, title I][/us/pl/100/485/tI], § 128, Oct. 13, 1988, [102 Stat. 2356][/us/stat/102/2356], directed Secretary of Health and Human Services, by grant or contract, to conduct a study of patterns of expenditures on children in 2-parent families, in single-parent families following divorce or separation, and in single-parent families in which parents were never married, giving particular attention to the relative standards of living in households in which both parents and all of the children do not live together, and submit to Congress no later than 2 years after Oct. 13, 1988, a full and complete report of results of such study, including recommendations for legislative, administrative, and other actions.
 
 ----------
 
@@ -59,18 +59,18 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/98/378/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs18%2Fa
+[/us/pl/98/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378
 [/us/stat/98/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1321
-[/us/pl/100/485/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs103%2Fa
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2346
-[/us/pl/100/485/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs103%2Fb
-[/us/pl/100/485/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs103%2Fa
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/100/485/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs103%2Ff
 [/us/usc/t42/s666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs666
-[/us/pl/98/378/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs18%2Fb
+[/us/pl/98/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378
 [/us/stat/98/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1322
-[/us/pl/100/485/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs128
+[/us/pl/100/485/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtI
 [/us/stat/102/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2356
 
 

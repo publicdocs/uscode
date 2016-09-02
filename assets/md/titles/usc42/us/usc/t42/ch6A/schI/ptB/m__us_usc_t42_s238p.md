@@ -53,11 +53,11 @@
 
         (2) The term “Federal building” includes a building or portion of a building leased or rented by a Federal agency, and includes buildings on military installations of the United States.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 247, as added [Pub. L. 106–505, title IV, § 403][/us/pl/106/505/s403], Nov. 13, 2000, [114 Stat. 2337][/us/stat/114/2337].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 247, as added [Pub. L. 106–505, title IV][/us/pl/106/505/tIV], § 403, Nov. 13, 2000, [114 Stat. 2337][/us/stat/114/2337].)
 
  __Findings__ 
 
-[Pub. L. 106–505, title IV, § 402][/us/pl/106/505/s402], Nov. 13, 2000, [114 Stat. 2336][/us/stat/114/2336], provided that: 
+[Pub. L. 106–505, title IV][/us/pl/106/505/tIV], § 402, Nov. 13, 2000, [114 Stat. 2336][/us/stat/114/2336], provided that: 
 
 > “Congress makes the following findings:
 
@@ -83,7 +83,7 @@
 
  __Certain Technologies and Practices Regarding Survival Rates for Cardiac Arrest__ 
 
-[Pub. L. 106–129, § 7][/us/pl/106/129/s7], Dec. 6, 1999, [113 Stat. 1676][/us/stat/113/1676], provided that: 
+[Pub. L. 106–129][/us/pl/106/129], § 7, Dec. 6, 1999, [113 Stat. 1676][/us/stat/113/1676], provided that: 
 
 > “The Secretary of Health and Human Services shall, in consultation with the Administrator of the General Services Administration and other appropriate public and private entities, develop recommendations regarding the placement of automatic external defibrillators in Federal buildings as a means of improving the survival rates of individuals who experience cardiac arrest in such buildings, including recommendations on training, maintenance, and medical oversight, and on coordinating with the system for emergency medical services.”
 
@@ -96,11 +96,11 @@
 
 [/us/usc/t42/s238q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238q
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs403
+[/us/pl/106/505/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtIV
 [/us/stat/114/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2337
-[/us/pl/106/505/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs402
+[/us/pl/106/505/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtIV
 [/us/stat/114/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2336
-[/us/pl/106/129/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs7
+[/us/pl/106/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129
 [/us/stat/113/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1676
 
 

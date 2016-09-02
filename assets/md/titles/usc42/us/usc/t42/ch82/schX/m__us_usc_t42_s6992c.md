@@ -33,7 +33,7 @@
 
         The provisions of [section 6927(b) of this title][/us/usc/t42/s6927/b] shall apply to records, reports, and information obtained under this section in the same manner and to the same extent as such provisions apply to records, reports, and information obtained under [section 6927 of this title][/us/usc/t42/s6927].
 
-([Pub. L. 89–272, title II, § 11004][/us/pl/89/272/s11004], as added [Pub. L. 100–582, § 2(a)][/us/pl/100/582/s2/a], Nov. 1, 1988, [102 Stat. 2952][/us/stat/102/2952].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 11004, as added [Pub. L. 100–582][/us/pl/100/582], § 2(a), Nov. 1, 1988, [102 Stat. 2952][/us/stat/102/2952].)
 
 ----------
 
@@ -45,8 +45,8 @@
 [/us/usc/t42/s6992b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6992b
 [/us/usc/t42/s6927/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6927%2Fb
 [/us/usc/t42/s6927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6927
-[/us/pl/89/272/s11004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs11004
-[/us/pl/100/582/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582%2Fs2%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582
 [/us/stat/102/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2952
 
 

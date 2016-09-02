@@ -17,7 +17,7 @@
 
     The Attorney General, after consultation with appropriate members of the law enforcement community and with State and local officials, shall issue rules to carry out this chapter.
 
-([Pub. L. 98–473, title II, § 609X][/us/pl/98/473/s609X], Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609X, Oct. 12, 1984, [98 Stat. 2107][/us/stat/98/2107].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s609X]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609X
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2107
 
 

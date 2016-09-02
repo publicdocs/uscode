@@ -17,7 +17,7 @@
 
     Not later than January 15, 1982, the President shall prepare and submit to the Congress a comprehensive review of each program of the Department. Each such review shall be made available to the committee or committees of the Senate and House of Representatives having jurisdiction with respect to the annual authorization of funds, pursuant to [section 7270 of this title][/us/usc/t42/s7270], for such programs for the fiscal year beginning October 1, 1982.
 
-([Pub. L. 95–91, title X, § 1001][/us/pl/95/91/s1001], Aug. 4, 1977, [91 Stat. 612][/us/stat/91/612].)
+([Pub. L. 95–91, title X][/us/pl/95/91/tX], § 1001, Aug. 4, 1977, [91 Stat. 612][/us/stat/91/612].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s7270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7270
-[/us/pl/95/91/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs1001
+[/us/pl/95/91/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtX
 [/us/stat/91/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F612
 
 

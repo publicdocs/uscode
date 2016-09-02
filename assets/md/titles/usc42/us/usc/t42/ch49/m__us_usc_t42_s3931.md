@@ -17,7 +17,7 @@
 
     The Congress finds that the volume of housing being produced for families and individuals of low or moderate income must be increased to meet the national goal of a decent home and a suitable living environment for every American family, and declares that it is the policy of the United States to encourage the widest possible participation by private enterprise in the provision of housing for low or moderate income families. The Congress has therefore determined that one or more private organizations should be created to encourage maximum participation by private investors in programs and projects to provide low and moderate income housing.
 
-([Pub. L. 90–448, title IX, § 901][/us/pl/90/448/s901], Aug. 1, 1968, [82 Stat. 547][/us/stat/82/547].)
+([Pub. L. 90–448, title IX][/us/pl/90/448/tIX], § 901, Aug. 1, 1968, [82 Stat. 547][/us/stat/82/547].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/448/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs901
+[/us/pl/90/448/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIX
 [/us/stat/82/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F547
 
 

@@ -17,7 +17,7 @@
 
     The purpose of this part is to provide for allotments to support a protection and advocacy system (referred to in this part as a “system”) in each State to protect the legal and human rights of individuals with developmental disabilities in accordance with this part.
 
-([Pub. L. 106–402, title I, § 141][/us/pl/106/402/s141], Oct. 30, 2000, [114 Stat. 1712][/us/stat/114/1712].)
+([Pub. L. 106–402, title I][/us/pl/106/402/tI], § 141, Oct. 30, 2000, [114 Stat. 1712][/us/stat/114/1712].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs141
+[/us/pl/106/402/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtI
 [/us/stat/114/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1712
 
 

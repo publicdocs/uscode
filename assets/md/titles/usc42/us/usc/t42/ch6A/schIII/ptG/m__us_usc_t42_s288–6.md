@@ -37,7 +37,7 @@
 
             Amounts made available to carry out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which such amounts were made available.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487F, as added [Pub. L. 106–310, div. A, title X, § 1002(b)][/us/pl/106/310/s1002/b], Oct. 17, 2000, [114 Stat. 1129][/us/stat/114/1129]; amended [Pub. L. 110–85, title V, § 503(b)][/us/pl/110/85/s503/b], Sept. 27, 2007, [121 Stat. 890][/us/stat/121/890].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 487F, as added [Pub. L. 106–310, div. A, title X][/us/pl/106/310/dA/tX], § 1002(b), Oct. 17, 2000, [114 Stat. 1129][/us/stat/114/1129]; amended [Pub. L. 110–85, title V][/us/pl/110/85/tV], § 503(b), Sept. 27, 2007, [121 Stat. 890][/us/stat/121/890].)
 
  __Codification__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1002%2Fb
+[/us/pl/106/310/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtX
 [/us/stat/114/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1129
-[/us/pl/110/85/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs503%2Fb
+[/us/pl/110/85/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtV
 [/us/stat/121/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F890
 [/us/usc/t42/s288–5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288%E2%80%935a
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85

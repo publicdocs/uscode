@@ -27,7 +27,7 @@
 
     (e) initiate programs to design, construct, and operate energy facilities of sufficient size to demonstrate the technical and economic feasibility of utilizing various forms of nonnuclear energy.
 
-([Pub. L. 93–577, § 4][/us/pl/93/577/s4], Dec. 31, 1974, [88 Stat. 1880][/us/stat/88/1880]; [Pub. L. 109–58, title X, § 1009(b)(3)][/us/pl/109/58/s1009/b/3], Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].)
+([Pub. L. 93–577][/us/pl/93/577], § 4, Dec. 31, 1974, [88 Stat. 1880][/us/stat/88/1880]; [Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1009(b)(3), Aug. 8, 2005, [119 Stat. 934][/us/stat/119/934].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Classification of Recipients of Awards, Contracts, or Other Financial Arrangements; Reporting Requirement__ 
 
-[Pub. L. 95–39, title I, § 111][/us/pl/95/39/s111], June 3, 1977, [91 Stat. 186][/us/stat/91/186], provided that:
+[Pub. L. 95–39, title I][/us/pl/95/39/tI], § 111, June 3, 1977, [91 Stat. 186][/us/stat/91/186], provided that:
 
 >     “(a)
 
@@ -60,12 +60,12 @@
 ----------
 ----------
 
-[/us/pl/93/577/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577%2Fs4
+[/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1880
-[/us/pl/109/58/s1009/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fb%2F3
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/95/39/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs111
+[/us/pl/95/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtI
 [/us/stat/91/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F186
 [/us/usc/t42/s5914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5914
 

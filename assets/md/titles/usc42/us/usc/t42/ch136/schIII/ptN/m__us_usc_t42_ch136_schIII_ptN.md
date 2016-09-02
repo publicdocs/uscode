@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 109–162, title VII, § 701][/us/pl/109/162/s701], Jan. 5, 2006, [119 Stat. 3052][/us/stat/119/3052], which directed that subtitle N of the Violence Against Women Act of 1994 (part M of this subchapter) be amended by adding at the end a subtitle O consisting of section 41501 ([42 U.S.C. 14043f][/us/usc/t42/s14043f]), is reflected in the Code by setting out subtitle O as a separate part N (this part) and not as included in part M, as the probable intent of Congress.
+    [Pub. L. 109–162, title VII][/us/pl/109/162/tVII], § 701, Jan. 5, 2006, [119 Stat. 3052][/us/stat/119/3052], which directed that subtitle N of the Violence Against Women Act of 1994 (part M of this subchapter) be amended by adding at the end a subtitle O consisting of section 41501 ([42 U.S.C. 14043f][/us/usc/t42/s14043f]), is reflected in the Code by setting out subtitle O as a separate part N (this part) and not as included in part M, as the probable intent of Congress.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/162/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs701
+[/us/pl/109/162/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtVII
 [/us/stat/119/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3052
 [/us/usc/t42/s14043f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043f
 

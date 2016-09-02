@@ -45,7 +45,7 @@
 
         The term “university” has the meaning given the term “institution of higher education” in [section 1001 of title 20][/us/usc/t20/s1001].
 
-([Pub. L. 109–58, title IX, § 903][/us/pl/109/58/s903], Aug. 8, 2005, [119 Stat. 856][/us/stat/119/856].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 903, Aug. 8, 2005, [119 Stat. 856][/us/stat/119/856].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t42/s15801/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801%2F3
 [/us/usc/t20/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/109/58/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs903
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F856
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F856

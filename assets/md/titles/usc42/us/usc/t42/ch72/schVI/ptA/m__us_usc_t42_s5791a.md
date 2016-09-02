@@ -39,7 +39,7 @@
 
         (2) The Coordinator shall also cooperate with local broadcasters and State and local law enforcement agencies in establishing minimum standards under this section.
 
-([Pub. L. 108–21, title III, § 302][/us/pl/108/21/s302], Apr. 30, 2003, [117 Stat. 661][/us/stat/117/661].)
+([Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 302, Apr. 30, 2003, [117 Stat. 661][/us/stat/117/661].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/108/21/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs302
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F661
 
 

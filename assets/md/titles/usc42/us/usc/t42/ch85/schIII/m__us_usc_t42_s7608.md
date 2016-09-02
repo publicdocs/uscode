@@ -29,7 +29,7 @@
 
     the Attorney General may so certify to a district court of the United States, which may issue an order requiring the person who owns such patent to license it on such reasonable terms and conditions as the court, after hearing, may determine. Such certification may be made to the district court for the district in which the person owning the patent resides, does business, or is found.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 308, as added [Pub. L. 91–604, § 12(a)][/us/pl/91/604/s12/a], Dec. 31, 1970, [84 Stat. 1708][/us/stat/84/1708].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title III, § 308, as added [Pub. L. 91–604][/us/pl/91/604], § 12(a), Dec. 31, 1970, [84 Stat. 1708][/us/stat/84/1708].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs12%2Fa
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1708
 [/us/usc/t42/s1857h–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857h%E2%80%936
 [/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604

@@ -75,11 +75,11 @@
 
         (4) provide for any applied research necessary to improve the effectiveness of programs for the prevention of lead poisoning in infants and children.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317B, as added [Pub. L. 102–531, title III, § 303(b)][/us/pl/102/531/s303/b], Oct. 27, 1992, [106 Stat. 3488][/us/stat/106/3488]; amended [Pub. L. 103–43, title XX, § 2008(i)(1)(B)(i)][/us/pl/103/43/s2008/i/1/B/i], June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317B, as added [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 303(b), Oct. 27, 1992, [106 Stat. 3488][/us/stat/106/3488]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(i)(1)(B)(i), June 10, 1993, [107 Stat. 212][/us/stat/107/212].)
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–43][/us/pl/103/43] made technical amendment to directory language of [Pub. L. 102–531, § 303(b)][/us/pl/102/531/s303/b], which enacted this section.
+    1993—[Pub. L. 103–43][/us/pl/103/43] made technical amendment to directory language of [Pub. L. 102–531][/us/pl/102/531], § 303(b), which enacted this section.
 
  __Change of Name__ 
 
@@ -95,12 +95,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/531/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs303%2Fb
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3488
-[/us/pl/103/43/s2008/i/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fi%2F1%2FB%2Fi
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F212
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
-[/us/pl/102/531/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs303%2Fb
+[/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 

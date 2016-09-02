@@ -17,7 +17,7 @@
 
     The Secretary may extend the benefits of all school feeding programs conducted and supervised by the Department of Agriculture to include preschool programs operated as part of the school system.
 
-([Pub. L. 89–642, § 12][/us/pl/89/642/s12], Oct 11, 1966, [80 Stat. 889][/us/stat/80/889].)
+([Pub. L. 89–642][/us/pl/89/642], § 12, Oct 11, 1966, [80 Stat. 889][/us/stat/80/889].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/642/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642%2Fs12
+[/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F889
 
 

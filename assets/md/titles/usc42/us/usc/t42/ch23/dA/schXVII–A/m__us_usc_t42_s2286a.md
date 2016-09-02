@@ -59,19 +59,19 @@
 
         The functions of the Board under this subchapter do not include functions relating to the safety of atomic weapons. However, the Board shall have access to any information on atomic weapons that is within the Department of Energy and is necessary to carry out the functions of the Board.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 312, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)][/us/pl/100/456/s1441/a/1], Sept. 29, 1988, [102 Stat. 2077][/us/stat/102/2077]; amended [Pub. L. 102–190, div. C, title XXXII, § 3202(b)(2)][/us/pl/102/190/s3202/b/2], Dec. 5, 1991, [105 Stat. 1582][/us/stat/105/1582]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 112–239, div. C, title XXXII, § 3202(b)(1)][/us/pl/112/239/s3202/b/1], Jan. 2, 2013, [126 Stat. 2218][/us/stat/126/2218].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 312, as added [Pub. L. 100–456, div. A, title XIV][/us/pl/100/456/dA/tXIV], § 1441(a)(1), Sept. 29, 1988, [102 Stat. 2077][/us/stat/102/2077]; amended [Pub. L. 102–190, div. C, title XXXII][/us/pl/102/190/dC/tXXXII], § 3202(b)(2), Dec. 5, 1991, [105 Stat. 1582][/us/stat/105/1582]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 112–239, div. C, title XXXII][/us/pl/112/239/dC/tXXXII], § 3202(b)(1), Jan. 2, 2013, [126 Stat. 2218][/us/stat/126/2218].)
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, § 3202(b)(1)(A)][/us/pl/112/239/s3202/b/1/A], substituted “Mission and functions” for “Functions” in section catchline.
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 3202(b)(1)(A), substituted “Mission and functions” for “Functions” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–239, § 3202(b)(1)(C)][/us/pl/112/239/s3202/b/1/C], added subsec. (a). Former subsec. (a) redesignated (b).
+    Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 3202(b)(1)(C), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 112–239, § 3202(b)(1)(B)][/us/pl/112/239/s3202/b/1/B], (D)(i), redesignated subsec. (a) as (b) and substituted “Functions” for “In general” in heading. Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 3202(b)(1)(B), (D)(i), redesignated subsec. (a) as (b) and substituted “Functions” for “In general” in heading. Former subsec. (b) redesignated (c).
 
-    Subsec. (b)(5). [Pub. L. 112–239, § 3202(b)(1)(D)(ii)][/us/pl/112/239/s3202/b/1/D/ii], inserted “, and specifically assess risk (whenever sufficient data exists),” after “shall consider”.
+    Subsec. (b)(5). [Pub. L. 112–239][/us/pl/112/239], § 3202(b)(1)(D)(ii), inserted “, and specifically assess risk (whenever sufficient data exists),” after “shall consider”.
 
-    Subsec. (c). [Pub. L. 112–239, § 3202(b)(1)(B)][/us/pl/112/239/s3202/b/1/B], redesignated subsec. (b) as (c).
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239], § 3202(b)(1)(B), redesignated subsec. (b) as (c).
 
     1991—[Pub. L. 102–190][/us/pl/102/190] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -83,19 +83,19 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/100/456/s1441/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1441%2Fa%2F1
+[/us/pl/100/456/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXIV
 [/us/stat/102/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2077
-[/us/pl/102/190/s3202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs3202%2Fb%2F2
+[/us/pl/102/190/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdC%2FtXXXII
 [/us/stat/105/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1582
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/112/239/s3202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fb%2F1
+[/us/pl/112/239/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXII
 [/us/stat/126/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2218
-[/us/pl/112/239/s3202/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fb%2F1%2FA
-[/us/pl/112/239/s3202/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fb%2F1%2FC
-[/us/pl/112/239/s3202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fb%2F1%2FB
-[/us/pl/112/239/s3202/b/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fb%2F1%2FD%2Fii
-[/us/pl/112/239/s3202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3202%2Fb%2F1%2FB
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

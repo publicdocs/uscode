@@ -49,7 +49,7 @@
 
         (2) Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.
 
-([Pub. L. 108–21, title III, § 304][/us/pl/108/21/s304], Apr. 30, 2003, [117 Stat. 663][/us/stat/117/663].)
+([Pub. L. 108–21, title III][/us/pl/108/21/tIII], § 304, Apr. 30, 2003, [117 Stat. 663][/us/stat/117/663].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/108/21/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs304
+[/us/pl/108/21/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIII
 [/us/stat/117/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F663
 
 

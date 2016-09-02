@@ -41,7 +41,7 @@
 
     (9) The term “urban county” has the meaning given such term in [section 5302 of this title][/us/usc/t42/s5302].
 
-([Pub. L. 100–77, title IV, § 411][/us/pl/100/77/s411], July 22, 1987, [101 Stat. 495][/us/stat/101/495]; [Pub. L. 101–625, title VIII, § 832(f)(1)][/us/pl/101/625/s832/f/1], Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V, § 506(a)(1)][/us/pl/104/330/s506/a/1], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044].)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 411, July 22, 1987, [101 Stat. 495][/us/stat/101/495]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 832(f)(1), Nov. 28, 1990, [104 Stat. 4361][/us/stat/104/4361]; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 506(a)(1), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
     Amendment by [Pub. L. 104–330][/us/pl/104/330] effective Oct. 1, 1997, except as otherwise expressly provided, see [section 107 of Pub. L. 104–330][/us/pl/104/330/s107], set out as an Effective Date note under [section 4101 of Title 25][/us/usc/t25/s4101], Indians.
 
-[Pub. L. 104–330, title V, § 506(c)][/us/pl/104/330/s506/c], Oct. 26, 1996, [110 Stat. 4045][/us/stat/110/4045], as amended by [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that: 
+[Pub. L. 104–330, title V][/us/pl/104/330/tV], § 506(c), Oct. 26, 1996, [110 Stat. 4045][/us/stat/110/4045], as amended by [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that: 
 
 > “The amendments under subsections (a) \[amending this section and sections 11372 to 11376, 11382, 11401, 11403g, and 11408 of this title\] and (b) \[amending provisions formerly set out as a note under [section 11301 of this title][/us/usc/t42/s11301]\] shall apply with respect to amounts made available for assistance under title IV of the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11360][/us/usc/t42/s11360] et seq.\] and section 2 of the HUD Demonstration Act of 1993 \[[Pub. L. 103–120][/us/pl/103/120], former [42 U.S.C. 11301][/us/usc/t42/s11301] note\], respectively, for fiscal year 1998 and fiscal years thereafter.”
 
@@ -75,11 +75,11 @@
 [/us/usc/t42/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t42/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302
-[/us/pl/100/77/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs411
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F495
-[/us/pl/101/625/s832/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Ff%2F1
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4361
-[/us/pl/104/330/s506/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F1
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/usc/t42/s5302/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa%2F17
@@ -87,9 +87,9 @@
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
-[/us/pl/104/330/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fc
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4045
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/usc/t42/s11360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11360

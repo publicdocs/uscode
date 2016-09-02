@@ -103,7 +103,7 @@
 
             The term “time out” means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 595, as added [Pub. L. 106–310, div. B, title XXXII, § 3208][/us/pl/106/310/s3208], Oct. 17, 2000, [114 Stat. 1197][/us/stat/114/1197].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 595, as added [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3208, Oct. 17, 2000, [114 Stat. 1197][/us/stat/114/1197].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3208
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1197
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

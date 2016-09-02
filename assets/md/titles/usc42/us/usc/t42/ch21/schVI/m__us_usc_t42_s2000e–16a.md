@@ -27,7 +27,7 @@
 
         For purposes of sections 2000e–16a to 2000e–16c of this title, the term “violation” means a practice that violates [section 2000e–16b(a) of this title][/us/usc/t42/s2000e–16b/a].
 
-([Pub. L. 102–166, title III, § 301][/us/pl/102/166/s301], Nov. 21, 1991, [105 Stat. 1088][/us/stat/105/1088]; [Pub. L. 103–283, title III, § 312(f)(1)][/us/pl/103/283/s312/f/1], July 22, 1994, [108 Stat. 1446][/us/stat/108/1446]; [Pub. L. 104–1, title V, § 504(a)(1)][/us/pl/104/1/s504/a/1], Jan. 23, 1995, [109 Stat. 40][/us/stat/109/40].)
+([Pub. L. 102–166, title III][/us/pl/102/166/tIII], § 301, Nov. 21, 1991, [105 Stat. 1088][/us/stat/105/1088]; [Pub. L. 103–283, title III][/us/pl/103/283/tIII], § 312(f)(1), July 22, 1994, [108 Stat. 1446][/us/stat/108/1446]; [Pub. L. 104–1, title V][/us/pl/104/1/tV], § 504(a)(1), Jan. 23, 1995, [109 Stat. 40][/us/stat/109/40].)
 
  __References in Text__ 
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t42/s2000e–16b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316b%2Fa
-[/us/pl/102/166/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs301
+[/us/pl/102/166/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtIII
 [/us/stat/105/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1088
-[/us/pl/103/283/s312/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs312%2Ff%2F1
+[/us/pl/103/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtIII
 [/us/stat/108/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1446
-[/us/pl/104/1/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs504%2Fa%2F1
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F40
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/usc/t2/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1201

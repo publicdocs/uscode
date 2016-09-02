@@ -3051,7 +3051,7 @@
 
             Whenever a unit referred to in paragraph (1) elects to calculate its baseline as provided in clause (ii) of paragraph (1), the Administrator shall allocate allowances for the unit pursuant to [section 7651b(a)(1) of this title][/us/usc/t42/s7651b/a/1], this section, and [section 7651d of this title][/us/usc/t42/s7651d] (as basic Phase II allowance allocations) in an amount equal to the baseline selected multiplied by the lower of the average annual emission rate for such unit in 1989, or 1.0 lbs./mmBtu. Such allowance allocation shall be in lieu of any allocation of allowances under this section and [section 7651d of this title][/us/usc/t42/s7651d].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 404, as added [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2592][/us/stat/104/2592].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 404, as added [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2592][/us/stat/104/2592].)
 
 ----------
 
@@ -3082,7 +3082,7 @@
 [/us/usc/t42/s7651d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651d
 [/us/usc/t42/s7651d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651d
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2592
 
 

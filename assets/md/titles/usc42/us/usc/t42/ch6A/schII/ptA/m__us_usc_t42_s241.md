@@ -83,7 +83,7 @@
 
         The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery and infant mortality.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 301, [58 Stat. 691][/us/stat/58/691]; [July 3, 1946, ch. 538, § 7(a)][/us/act/1946-07-03/ch538/s7/a], (b), [60 Stat. 423][/us/stat/60/423]; [June 16, 1948, ch. 481, § 4(e)][/us/act/1948-06-16/ch481/s4/e], (f), [62 Stat. 467][/us/stat/62/467]; [June 24, 1948, ch. 621, § 4(e)][/us/act/1948-06-24/ch621/s4/e], (f), [62 Stat. 601][/us/stat/62/601]; [June 25, 1948, ch. 654, § 1][/us/act/1948-06-25/ch654/s1], [62 Stat. 1017][/us/stat/62/1017]; [July 3, 1956, ch. 510, § 4][/us/act/1956-07-03/ch510/s4], [70 Stat. 490][/us/stat/70/490]; [Pub. L. 86–798][/us/pl/86/798], Sept. 15, 1960, [74 Stat. 1053][/us/stat/74/1053]; [Pub. L. 87–838, § 2][/us/pl/87/838/s2], Oct. 17, 1962, [76 Stat. 1073][/us/stat/76/1073]; [Pub. L. 89–115, § 3][/us/pl/89/115/s3], Aug. 9, 1965, [79 Stat. 448][/us/stat/79/448]; [Pub. L. 90–174, § 9][/us/pl/90/174/s9], Dec. 5, 1967, [81 Stat. 540][/us/stat/81/540]; [Pub. L. 91–513, title I, § 3(a)][/us/pl/91/513/s3/a], Oct. 27, 1970, [84 Stat. 1241][/us/stat/84/1241]; [Pub. L. 91–515, title II, § 292][/us/pl/91/515/s292], Oct. 30, 1970, [84 Stat. 1308][/us/stat/84/1308]; [Pub. L. 92–218, § 6(a)(2)][/us/pl/92/218/s6/a/2], Dec. 23, 1971, [85 Stat. 785][/us/stat/85/785]; [Pub. L. 92–423, § 7(b)][/us/pl/92/423/s7/b], Sept. 19, 1972, [86 Stat. 687][/us/stat/86/687]; [Pub. L. 93–282, title I, § 122(b)][/us/pl/93/282/s122/b], May 14, 1974, [88 Stat. 132][/us/stat/88/132]; [Pub. L. 93–348, title I, § 104(a)(1)][/us/pl/93/348/s104/a/1], July 12, 1974, [88 Stat. 346][/us/stat/88/346]; [Pub. L. 93–352, title I, § 111][/us/pl/93/352/s111], July 23, 1974, [88 Stat. 360][/us/stat/88/360]; [Pub. L. 94–278, title I, § 111][/us/pl/94/278/s111], Apr. 22, 1976, [90 Stat. 405][/us/stat/90/405]; [Pub. L. 95–622, title II][/us/pl/95/622], §§ 261, 262, Nov. 9, 1978, [92 Stat. 3434][/us/stat/92/3434]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 99–158, § 3(a)(5)][/us/pl/99/158/s3/a/5], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879]; [Pub. L. 99–570, title IV, § 4021(b)(2)][/us/pl/99/570/s4021/b/2], Oct. 27, 1986, [100 Stat. 3207–124][/us/stat/100/3207-124]; [Pub. L. 99–660, title I, § 104][/us/pl/99/660/s104], Nov. 14, 1986, [100 Stat. 3751][/us/stat/100/3751]; [Pub. L. 100–607, title I, § 163(1)][/us/pl/100/607/s163/1], (2), Nov. 4, 1988, [102 Stat. 3062][/us/stat/102/3062]; [Pub. L. 103–43, title XX, § 2009][/us/pl/103/43/s2009], June 10, 1993, [107 Stat. 213][/us/stat/107/213]; [Pub. L. 109–450, § 3(a)][/us/pl/109/450/s3/a], Dec. 22, 2006, [120 Stat. 3341][/us/stat/120/3341].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 301, [58 Stat. 691][/us/stat/58/691]; [July 3, 1946, ch. 538][/us/act/1946-07-03/ch538], § 7(a), (b), [60 Stat. 423][/us/stat/60/423]; [June 16, 1948, ch. 481][/us/act/1948-06-16/ch481], § 4(e), (f), [62 Stat. 467][/us/stat/62/467]; [June 24, 1948, ch. 621][/us/act/1948-06-24/ch621], § 4(e), (f), [62 Stat. 601][/us/stat/62/601]; [June 25, 1948, ch. 654][/us/act/1948-06-25/ch654], § 1, [62 Stat. 1017][/us/stat/62/1017]; [July 3, 1956, ch. 510][/us/act/1956-07-03/ch510], § 4, [70 Stat. 490][/us/stat/70/490]; [Pub. L. 86–798][/us/pl/86/798], Sept. 15, 1960, [74 Stat. 1053][/us/stat/74/1053]; [Pub. L. 87–838][/us/pl/87/838], § 2, Oct. 17, 1962, [76 Stat. 1073][/us/stat/76/1073]; [Pub. L. 89–115][/us/pl/89/115], § 3, Aug. 9, 1965, [79 Stat. 448][/us/stat/79/448]; [Pub. L. 90–174][/us/pl/90/174], § 9, Dec. 5, 1967, [81 Stat. 540][/us/stat/81/540]; [Pub. L. 91–513, title I][/us/pl/91/513/tI], § 3(a), Oct. 27, 1970, [84 Stat. 1241][/us/stat/84/1241]; [Pub. L. 91–515, title II][/us/pl/91/515/tII], § 292, Oct. 30, 1970, [84 Stat. 1308][/us/stat/84/1308]; [Pub. L. 92–218][/us/pl/92/218], § 6(a)(2), Dec. 23, 1971, [85 Stat. 785][/us/stat/85/785]; [Pub. L. 92–423][/us/pl/92/423], § 7(b), Sept. 19, 1972, [86 Stat. 687][/us/stat/86/687]; [Pub. L. 93–282, title I][/us/pl/93/282/tI], § 122(b), May 14, 1974, [88 Stat. 132][/us/stat/88/132]; [Pub. L. 93–348, title I][/us/pl/93/348/tI], § 104(a)(1), July 12, 1974, [88 Stat. 346][/us/stat/88/346]; [Pub. L. 93–352, title I][/us/pl/93/352/tI], § 111, July 23, 1974, [88 Stat. 360][/us/stat/88/360]; [Pub. L. 94–278, title I][/us/pl/94/278/tI], § 111, Apr. 22, 1976, [90 Stat. 405][/us/stat/90/405]; [Pub. L. 95–622, title II][/us/pl/95/622/tII], §§ 261, 262, Nov. 9, 1978, [92 Stat. 3434][/us/stat/92/3434]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 99–158][/us/pl/99/158], § 3(a)(5), Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879]; [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4021(b)(2), Oct. 27, 1986, [100 Stat. 3207–124][/us/stat/100/3207-124]; [Pub. L. 99–660, title I][/us/pl/99/660/tI], § 104, Nov. 14, 1986, [100 Stat. 3751][/us/stat/100/3751]; [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 163(1), (2), Nov. 4, 1988, [102 Stat. 3062][/us/stat/102/3062]; [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2009, June 10, 1993, [107 Stat. 213][/us/stat/107/213]; [Pub. L. 109–450][/us/pl/109/450], § 3(a), Dec. 22, 2006, [120 Stat. 3341][/us/stat/120/3341].)
 
  __Amendments__ 
 
@@ -97,27 +97,27 @@
 
     Subsec. (c). [Pub. L. 99–660][/us/pl/99/660] added subsec. (c).
 
-    1985—Subsec. (a)(3). [Pub. L. 99–158, § 3(a)(5)(A)][/us/pl/99/158/s3/a/5/A], substituted “as are recommended by the advisory council to the entity of the Department supporting such projects or, in the case of mental health projects, by the National Advisory Mental Health Council; and make, upon recommendation of the advisory council to the appropriate entity of the Department or the National Advisory Mental Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research” for “as are recommended by the National Advisory Health Council, or, with respect to cancer, recommended by the National Cancer Advisory Board, or, with respect to mental health, recommended by the National Advisory Mental Health Council, or with respect to heart, blood vessel, lung, and blood diseases and blood resources, recommended by the National Heart, Lung, and Blood Advisory Council, or, with respect to dental diseases and conditions, recommended by the National Advisory Dental Research Council; and include in the grants for any such project grants of penicillin and other antibiotic compounds for use in such project; and make, upon recommendation of the National Advisory Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research: Provided, That such uniform percentage, not to exceed 15 per centum, as the Secretary may determine, of the amounts provided for grants for research projects for any fiscal year through the appropriations for the National Institutes of Health may be transferred from such appropriations to a separate account to be available for such research grants-in-aid for such fiscal year”.
+    1985—Subsec. (a)(3). [Pub. L. 99–158][/us/pl/99/158], § 3(a)(5)(A), substituted “as are recommended by the advisory council to the entity of the Department supporting such projects or, in the case of mental health projects, by the National Advisory Mental Health Council; and make, upon recommendation of the advisory council to the appropriate entity of the Department or the National Advisory Mental Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research” for “as are recommended by the National Advisory Health Council, or, with respect to cancer, recommended by the National Cancer Advisory Board, or, with respect to mental health, recommended by the National Advisory Mental Health Council, or with respect to heart, blood vessel, lung, and blood diseases and blood resources, recommended by the National Heart, Lung, and Blood Advisory Council, or, with respect to dental diseases and conditions, recommended by the National Advisory Dental Research Council; and include in the grants for any such project grants of penicillin and other antibiotic compounds for use in such project; and make, upon recommendation of the National Advisory Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research: Provided, That such uniform percentage, not to exceed 15 per centum, as the Secretary may determine, of the amounts provided for grants for research projects for any fiscal year through the appropriations for the National Institutes of Health may be transferred from such appropriations to a separate account to be available for such research grants-in-aid for such fiscal year”.
 
-    Subsec. (a)(8). [Pub. L. 99–158, § 3(a)(5)(B)][/us/pl/99/158/s3/a/5/B], substituted “recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers” for “recommendation of the National Advisory Health Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems”.
+    Subsec. (a)(8). [Pub. L. 99–158][/us/pl/99/158], § 3(a)(5)(B), substituted “recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers” for “recommendation of the National Advisory Health Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems”.
 
     1978—[Pub. L. 95–622][/us/pl/95/622] designated existing provisions as subsec. (a), redesignated former pars. (a) to (h) as (1) to (8), respectively, substituted “Secretary” for “Surgeon General” wherever appearing, and inserted following par. (8) provisions relating to authority of Secretary to make available to individuals and entities substances and living organisms, and added subsec. (b).
 
     1976—Subsecs. (c), (h). [Pub. L. 94–278][/us/pl/94/278] substituted “heart, blood vessel, lung, and blood diseases and blood resources” for “heart diseases” and “National Heart, Lung and Blood Advisory Council” for “National Heart and Lung Advisory Council”.
 
-    1974—Subsec. (c). [Pub. L. 93–348, § 104(a)(1)][/us/pl/93/348/s104/a/1], redesignated subsec. (d) as (c) and substituted “research projects” for “research or research training projects” in two places, “general support of their research” for “general support of their research and research training programs” and “research grants-in-aid” for “research and research training program grants-in-aid”. Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
+    1974—Subsec. (c). [Pub. L. 93–348][/us/pl/93/348], § 104(a)(1), redesignated subsec. (d) as (c) and substituted “research projects” for “research or research training projects” in two places, “general support of their research” for “general support of their research and research training programs” and “research grants-in-aid” for “research and research training program grants-in-aid”. Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
 
-    Subsec. (d). [Pub. L. 93–348, § 104(a)(1)(C)][/us/pl/93/348/s104/a/1/C], redesignated subsec. (e) as (d).
+    Subsec. (d). [Pub. L. 93–348][/us/pl/93/348], § 104(a)(1)(C), redesignated subsec. (e) as (d).
 
     [Pub. L. 93–282][/us/pl/93/282] substituted “mental health, including research on the use and effect of alcohol and other psychoactive drugs” for “the use and effect of drugs” in former concluding provisions of [section 242a(a) of this title][/us/usc/t42/s242a/a]. See 1988 Amendment note above.
 
-    Subsecs. (e), (f). [Pub. L. 93–348, § 104(a)(1)(C)][/us/pl/93/348/s104/a/1/C], redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
+    Subsecs. (e), (f). [Pub. L. 93–348][/us/pl/93/348], § 104(a)(1)(C), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
 
     Subsec. (g). [Pub. L. 93–352][/us/pl/93/352] struck out “during the fiscal year ending June 30, 1966, and each of the eight succeeding fiscal years” after “Enter into contracts”. Notwithstanding directory language that amendment be made to subsec. (h), the amendment was executed to subsec. (g) to reflect the probable intent of Congress and the intervening redesignation of subsec. (h) as (g) by [Pub. L. 93–348][/us/pl/93/348].
 
-    [Pub. L. 93–348, § 104(a)(1)(C)][/us/pl/93/348/s104/a/1/C], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+    [Pub. L. 93–348][/us/pl/93/348], § 104(a)(1)(C), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-    Subsecs. (h), (i). [Pub. L. 93–348, § 104(a)(1)(C)][/us/pl/93/348/s104/a/1/C], redesignated subsecs. (h) and (i) as (g) and (h), respectively.
+    Subsecs. (h), (i). [Pub. L. 93–348][/us/pl/93/348], § 104(a)(1)(C), redesignated subsecs. (h) and (i) as (g) and (h), respectively.
 
     1972—Subsecs. (d), (i). [Pub. L. 92–423][/us/pl/92/423] substituted “National Heart and Lung Advisory Council” for “National Advisory Heart Council”.
 
@@ -171,13 +171,13 @@
 
  __Coordination of Data Surveys and Reports__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VII, § 703(e)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title VII, § 703(e)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–402, provided that: 
 
 > “The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children’s health.”
 
  __Female Genital Mutilation__ 
 
-[Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title V, § 520\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–250; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that:
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title V, § 520\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–250; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that:
 
 >     “(a)
 
@@ -203,11 +203,11 @@
 
  __Sentinel Disease Concept Study__ 
 
-    [Pub. L. 103–43, title XIX, § 1910][/us/pl/103/43/s1910], June 10, 1993, [107 Stat. 205][/us/stat/107/205], directed Secretary of Health and Human Services, in cooperation with Agency for Toxic Substances and Disease Registry and Centers for Disease Control and Prevention, to design and implement a pilot sentinel disease surveillance system for identifying relationship between occupation of household members and incidence of subsequent conditions or diseases in other members of household, and required Director of the National Institutes of Health to prepare and submit to Congress, not later than 4 years after June 10, 1993, a report concerning this project.
+    [Pub. L. 103–43, title XIX][/us/pl/103/43/tXIX], § 1910, June 10, 1993, [107 Stat. 205][/us/stat/107/205], directed Secretary of Health and Human Services, in cooperation with Agency for Toxic Substances and Disease Registry and Centers for Disease Control and Prevention, to design and implement a pilot sentinel disease surveillance system for identifying relationship between occupation of household members and incidence of subsequent conditions or diseases in other members of household, and required Director of the National Institutes of Health to prepare and submit to Congress, not later than 4 years after June 10, 1993, a report concerning this project.
 
  __Study of Thyroid Morbidity for Hanford, Washington__ 
 
-    [Pub. L. 100–607, title I, § 161][/us/pl/100/607/s161], Nov. 4, 1988, [102 Stat. 3059][/us/stat/102/3059], as amended by [Pub. L. 102–531, title III, § 312(e)(1)][/us/pl/102/531/s312/e/1], Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506], directed Secretary of Health and Human Services, acting through Director of Centers for Disease Control and Prevention, to conduct a study of thyroid morbidity of the population, including Indian tribes and tribal organizations, in vicinity of Hanford, in State of Washington, authorized Director to contract out portions of study, and required Director, not later than 42 months after Nov. 4, 1988, to transmit a report, including such study, to Congress, chief executive officers of States of Oregon and Washington, and governing officials of Indian tribes in vicinity of Hanford, Washington.
+    [Pub. L. 100–607, title I][/us/pl/100/607/tI], § 161, Nov. 4, 1988, [102 Stat. 3059][/us/stat/102/3059], as amended by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(e)(1), Oct. 27, 1992, [106 Stat. 3506][/us/stat/106/3506], directed Secretary of Health and Human Services, acting through Director of Centers for Disease Control and Prevention, to conduct a study of thyroid morbidity of the population, including Indian tribes and tribal organizations, in vicinity of Hanford, in State of Washington, authorized Director to contract out portions of study, and required Director, not later than 42 months after Nov. 4, 1988, to transmit a report, including such study, to Congress, chief executive officers of States of Oregon and Washington, and governing officials of Indian tribes in vicinity of Hanford, Washington.
 
  __National Commission on Sleep Disorders Research__ 
 
@@ -215,17 +215,17 @@
 
  __Research With Respect to Health Resources and Services Administration__ 
 
-    [Pub. L. 100–607, title VI, § 632][/us/pl/100/607/s632], Nov. 4, 1988, [102 Stat. 3147][/us/stat/102/3147], provided that with respect to any program of research pursuant to this chapter, any such program carried out in fiscal year 1987 by an agency other than Health Resources and Services Administration (or appropriate to be carried out by such an agency) could not, for each of fiscal years 1989 through 1991, be carried out by such Administration.
+    [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 632, Nov. 4, 1988, [102 Stat. 3147][/us/stat/102/3147], provided that with respect to any program of research pursuant to this chapter, any such program carried out in fiscal year 1987 by an agency other than Health Resources and Services Administration (or appropriate to be carried out by such an agency) could not, for each of fiscal years 1989 through 1991, be carried out by such Administration.
 
  __Continuing Care for Psychiatric Patients in Former Clinical Research Center at National Institute on Drug Abuse__ 
 
-[Pub. L. 99–117, § 10][/us/pl/99/117/s10], Oct. 7, 1985, [99 Stat. 494][/us/stat/99/494], provided that: 
+[Pub. L. 99–117][/us/pl/99/117], § 10, Oct. 7, 1985, [99 Stat. 494][/us/stat/99/494], provided that: 
 
 > “In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[[42 U.S.C. 241][/us/usc/t42/s241]\] with respect to mental health, the Secretary of Health and Human Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
 
  __Analysis of Thyroid Cancer; Creation and Publication of Radioepidemiological Tables__ 
 
-[Pub. L. 97–414, § 7][/us/pl/97/414/s7], Jan. 4, 1983, [96 Stat. 2059][/us/stat/96/2059], as amended by [Pub. L. 109–482, title I, § 104(b)(3)(A)][/us/pl/109/482/s104/b/3/A], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694], provided that:
+[Pub. L. 97–414][/us/pl/97/414], § 7, Jan. 4, 1983, [96 Stat. 2059][/us/stat/96/2059], as amended by [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 104(b)(3)(A), Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694], provided that:
 
 >     “(a)
 
@@ -253,7 +253,7 @@
 
  __Termination of Advisory Committees__ 
 
-    [Pub. L. 93–641, § 6][/us/pl/93/641/s6], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+    [Pub. L. 93–641][/us/pl/93/641], § 6, Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275], set out as a note under [section 217a of this title][/us/usc/t42/s217a], provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
  __Executive Order No. 13435__ 
 
@@ -342,55 +342,55 @@
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F691
-[/us/act/1946-07-03/ch538/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538%2Fs7%2Fa
+[/us/act/1946-07-03/ch538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch538
 [/us/stat/60/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F423
-[/us/act/1948-06-16/ch481/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-16%2Fch481%2Fs4%2Fe
+[/us/act/1948-06-16/ch481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-16%2Fch481
 [/us/stat/62/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F467
-[/us/act/1948-06-24/ch621/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch621%2Fs4%2Fe
+[/us/act/1948-06-24/ch621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch621
 [/us/stat/62/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F601
-[/us/act/1948-06-25/ch654/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch654%2Fs1
+[/us/act/1948-06-25/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch654
 [/us/stat/62/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1017
-[/us/act/1956-07-03/ch510/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch510%2Fs4
+[/us/act/1956-07-03/ch510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-03%2Fch510
 [/us/stat/70/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F490
 [/us/pl/86/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F798
 [/us/stat/74/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1053
-[/us/pl/87/838/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F838%2Fs2
+[/us/pl/87/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F838
 [/us/stat/76/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1073
-[/us/pl/89/115/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F115%2Fs3
+[/us/pl/89/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F115
 [/us/stat/79/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F448
-[/us/pl/90/174/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174%2Fs9
+[/us/pl/90/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F174
 [/us/stat/81/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F540
-[/us/pl/91/513/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs3%2Fa
+[/us/pl/91/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtI
 [/us/stat/84/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1241
-[/us/pl/91/515/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs292
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1308
-[/us/pl/92/218/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F218%2Fs6%2Fa%2F2
+[/us/pl/92/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F218
 [/us/stat/85/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F785
-[/us/pl/92/423/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F423%2Fs7%2Fb
+[/us/pl/92/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F423
 [/us/stat/86/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F687
-[/us/pl/93/282/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs122%2Fb
+[/us/pl/93/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2FtI
 [/us/stat/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F132
-[/us/pl/93/348/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2Fs104%2Fa%2F1
+[/us/pl/93/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2FtI
 [/us/stat/88/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F346
-[/us/pl/93/352/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F352%2Fs111
+[/us/pl/93/352/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F352%2FtI
 [/us/stat/88/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F360
-[/us/pl/94/278/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2Fs111
+[/us/pl/94/278/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278%2FtI
 [/us/stat/90/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F405
-[/us/pl/95/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622
+[/us/pl/95/622/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtII
 [/us/stat/92/3434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3434
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/99/158/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fa%2F5
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
-[/us/pl/99/570/s4021/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4021%2Fb%2F2
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-124
-[/us/pl/99/660/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs104
+[/us/pl/99/660/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtI
 [/us/stat/100/3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3751
-[/us/pl/100/607/s163/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs163%2F1
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3062
-[/us/pl/103/43/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2009
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F213
-[/us/pl/109/450/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450%2Fs3%2Fa
+[/us/pl/109/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450
 [/us/stat/120/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3341
 [/us/pl/109/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
@@ -398,19 +398,19 @@
 [/us/usc/t42/s242a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242a
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
-[/us/pl/99/158/s3/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fa%2F5%2FA
-[/us/pl/99/158/s3/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fa%2F5%2FB
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
+[/us/pl/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158
 [/us/pl/95/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622
 [/us/pl/94/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F278
-[/us/pl/93/348/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2Fs104%2Fa%2F1
-[/us/pl/93/348/s104/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2Fs104%2Fa%2F1%2FC
+[/us/pl/93/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348
+[/us/pl/93/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348
 [/us/pl/93/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282
 [/us/usc/t42/s242a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242a%2Fa
-[/us/pl/93/348/s104/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2Fs104%2Fa%2F1%2FC
+[/us/pl/93/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348
 [/us/pl/93/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F352
 [/us/pl/93/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348
-[/us/pl/93/348/s104/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2Fs104%2Fa%2F1%2FC
-[/us/pl/93/348/s104/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348%2Fs104%2Fa%2F1%2FC
+[/us/pl/93/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348
+[/us/pl/93/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F348
 [/us/pl/92/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F423
 [/us/pl/92/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F218
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
@@ -429,31 +429,31 @@
 [/us/pl/92/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F218
 [/us/pl/92/218/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F218%2Fs7
 [/us/usc/t42/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs218
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/103/43/s1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs1910
+[/us/pl/103/43/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXIX
 [/us/stat/107/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F205
-[/us/pl/100/607/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs161
+[/us/pl/100/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtI
 [/us/stat/102/3059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3059
-[/us/pl/102/531/s312/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fe%2F1
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3506
 [/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
 [/us/stat/102/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3060
-[/us/pl/100/607/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs632
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3147
-[/us/pl/99/117/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs10
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F494
 [/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
-[/us/pl/97/414/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs7
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2059
-[/us/pl/109/482/s104/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs104%2Fb%2F3%2FA
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3694
 [/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
-[/us/pl/93/641/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs6
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/usc/t42/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs217a
 

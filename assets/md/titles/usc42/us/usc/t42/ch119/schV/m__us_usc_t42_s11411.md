@@ -173,7 +173,7 @@
 
         (5) the term “Secretary” means the Secretary of Housing and Urban Development, except as otherwise provided.
 
-([Pub. L. 100–77, title V, § 501][/us/pl/100/77/s501], July 22, 1987, [101 Stat. 509][/us/stat/101/509]; [Pub. L. 100–628, title V, § 501][/us/pl/100/628/s501], Nov. 7, 1988, [102 Stat. 3240][/us/stat/102/3240]; [Pub. L. 101–645, title IV, § 401(a)][/us/pl/101/645/s401/a], Nov. 29, 1990, [104 Stat. 4719][/us/stat/104/4719]; [Pub. L. 102–484, div. B, title XXVIII, § 2824][/us/pl/102/484/s2824], Oct. 23, 1992, [106 Stat. 2608][/us/stat/106/2608]; [Pub. L. 103–421, § 2(d)][/us/pl/103/421/s2/d], Oct. 25, 1994, [108 Stat. 4352][/us/stat/108/4352]; [Pub. L. 108–199, div. G, title II, § 216(4)][/us/pl/108/199/s216/4], Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394].)
+([Pub. L. 100–77, title V][/us/pl/100/77/tV], § 501, July 22, 1987, [101 Stat. 509][/us/stat/101/509]; [Pub. L. 100–628, title V][/us/pl/100/628/tV], § 501, Nov. 7, 1988, [102 Stat. 3240][/us/stat/102/3240]; [Pub. L. 101–645, title IV][/us/pl/101/645/tIV], § 401(a), Nov. 29, 1990, [104 Stat. 4719][/us/stat/104/4719]; [Pub. L. 102–484, div. B, title XXVIII][/us/pl/102/484/dB/tXXVIII], § 2824, Oct. 23, 1992, [106 Stat. 2608][/us/stat/106/2608]; [Pub. L. 103–421][/us/pl/103/421], § 2(d), Oct. 25, 1994, [108 Stat. 4352][/us/stat/108/4352]; [Pub. L. 108–199, div. G, title II][/us/pl/108/199/dG/tII], § 216(4), Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394].)
 
  __References in Text__ 
 
@@ -185,7 +185,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “section 524(a)(2) and (3) of title 40” substituted for “section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 483(b)(2)][/us/usc/t40/s483/b/2])”, in subsecs.(b)(2)(A)(ii) and (f)(1), “section 550(a)–(d) of title 40” substituted for “paragraphs (1) and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484(k)(1)][/us/usc/t40/s484/k/1] and (4))”, in subsecs. (d)(4)(A) and (f)(3)(A), “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484][/us/usc/t40/s484])”, in subsec. (f)(3)(A), “[section 550 of title 40][/us/usc/t40/s550]” substituted for “section 203(k) of such Act”, meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), “[section 550 of title 40][/us/usc/t40/s550]” substituted for “section 203(k) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484(k)][/us/usc/t40/s484/k])”, and, in subsec. (i)(2), “[section 102 of title 40][/us/usc/t40/s102]” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 472][/us/usc/t40/s472])”, on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a), “section 524(a)(2) and (3) of title 40” substituted for “section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 483(b)(2)][/us/usc/t40/s483/b/2])”, in subsecs.(b)(2)(A)(ii) and (f)(1), “section 550(a)–(d) of title 40” substituted for “paragraphs (1) and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484(k)(1)][/us/usc/t40/s484/k/1] and (4))”, in subsecs. (d)(4)(A) and (f)(3)(A), “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484][/us/usc/t40/s484])”, in subsec. (f)(3)(A), “[section 550 of title 40][/us/usc/t40/s550]” substituted for “section 203(k) of such Act”, meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), “[section 550 of title 40][/us/usc/t40/s550]” substituted for “section 203(k) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484(k)][/us/usc/t40/s484/k])”, and, in subsec. (i)(2), “[section 102 of title 40][/us/usc/t40/s102]” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 472][/us/usc/t40/s472])”, on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -193,45 +193,45 @@
 
     1994—Subsecs. (h), (i). [Pub. L. 103–421][/us/pl/103/421] added subsec. (h) and redesignated former subsec. (h) as (i).
 
-    1992—Subsec. (c)(4)(C). [Pub. L. 102–484, § 2824(a)][/us/pl/102/484/s2824/a], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “For purposes of subparagraph (A), property shall be considered to remain available for application for use to assist the homeless if, subsequent to the 60-day holding period provided under subsection (d) of this section—
+    1992—Subsec. (c)(4)(C). [Pub. L. 102–484][/us/pl/102/484], § 2824(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “For purposes of subparagraph (A), property shall be considered to remain available for application for use to assist the homeless if, subsequent to the 60-day holding period provided under subsection (d) of this section—
 
     “(i) no application or written expression of interest has been made under any law for use of the property for any purpose; and
 
     “(ii) the Administrator has not received a bona fide offer to purchase the property or advertised for the sale of the property by public auction.”
 
-    Subsec. (f)(2). [Pub. L. 102–484, § 2824(b)][/us/pl/102/484/s2824/b], inserted “or” after “Unutilized”.
+    Subsec. (f)(2). [Pub. L. 102–484][/us/pl/102/484], § 2824(b), inserted “or” after “Unutilized”.
 
     1990—[Pub. L. 101–645][/us/pl/101/645] amended section generally, substituting present provisions consisting of subsecs. (a) to (h) for former provisions consisting of subsecs. (a) to (e).
 
-    1988—[Pub. L. 100–628, § 501(1)][/us/pl/100/628/s501/1], substituted “unutilized and underutilized” for “underutilized” in section catchline.
+    1988—[Pub. L. 100–628][/us/pl/100/628], § 501(1), substituted “unutilized and underutilized” for “underutilized” in section catchline.
 
-    Subsec. (a). [Pub. L. 100–628, § 501(2)][/us/pl/100/628/s501/2], substituted “unutilized or underutilized” for “underutilized” in heading and text and inserted “, within 2 months after collecting such information,” before “shall identify” in text.
+    Subsec. (a). [Pub. L. 100–628][/us/pl/100/628], § 501(2), substituted “unutilized or underutilized” for “underutilized” in heading and text and inserted “, within 2 months after collecting such information,” before “shall identify” in text.
 
-    Subsec. (b)(1). [Pub. L. 100–628, § 501(3)(A)][/us/pl/100/628/s501/3/A], inserted “or to make the property available, on an interim basis, for use as facilities to assist the homeless” after “agency’s need”.
+    Subsec. (b)(1). [Pub. L. 100–628][/us/pl/100/628], § 501(3)(A), inserted “or to make the property available, on an interim basis, for use as facilities to assist the homeless” after “agency’s need”.
 
-    Subsec. (b)(2). [Pub. L. 100–628, § 501(3)(B)][/us/pl/100/628/s501/3/B], inserted before period at end “or made available on an interim basis for use as facilities to assist the homeless”.
+    Subsec. (b)(2). [Pub. L. 100–628][/us/pl/100/628], § 501(3)(B), inserted before period at end “or made available on an interim basis for use as facilities to assist the homeless”.
 
-    Subsec. (d). [Pub. L. 100–628, § 501(4)(A)][/us/pl/100/628/s501/4/A], struck out “by lease” after “property” in heading.
+    Subsec. (d). [Pub. L. 100–628][/us/pl/100/628], § 501(4)(A), struck out “by lease” after “property” in heading.
 
-    Subsec. (d)(1). [Pub. L. 100–628, § 501(4)(B)][/us/pl/100/628/s501/4/B], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Federal buildings or property may be made available under this section only through the use of leases for at least 1 year. Ownership of the buildings and property shall not be transferred from the Federal Government.”
+    Subsec. (d)(1). [Pub. L. 100–628][/us/pl/100/628], § 501(4)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Federal buildings or property may be made available under this section only through the use of leases for at least 1 year. Ownership of the buildings and property shall not be transferred from the Federal Government.”
 
-    Subsec. (d)(2). [Pub. L. 100–628, § 501(4)(C)][/us/pl/100/628/s501/4/C], substituted “With respect to property identified under subsection (a) which has been designated as surplus property,” for “To permit leases of surplus Federal buildings and other real property under this section,”.
+    Subsec. (d)(2). [Pub. L. 100–628][/us/pl/100/628], § 501(4)(C), substituted “With respect to property identified under subsection (a) which has been designated as surplus property,” for “To permit leases of surplus Federal buildings and other real property under this section,”.
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–645, title IV, § 401(b)][/us/pl/101/645/s401/b], Nov. 29, 1990, [104 Stat. 4723][/us/stat/104/4723], provided that: 
+[Pub. L. 101–645, title IV][/us/pl/101/645/tIV], § 401(b), Nov. 29, 1990, [104 Stat. 4723][/us/stat/104/4723], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective 90 days after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
  __Regulations__ 
 
-[Pub. L. 101–645, title IV, § 401(d)][/us/pl/101/645/s401/d], Nov. 29, 1990, [104 Stat. 4723][/us/stat/104/4723], provided that: 
+[Pub. L. 101–645, title IV][/us/pl/101/645/tIV], § 401(d), Nov. 29, 1990, [104 Stat. 4723][/us/stat/104/4723], provided that: 
 
 > “No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
 
  __Consultation and Report Regarding Use of National Guard Facilities as Overnight Shelters for Homeless Individuals__ 
 
-[Pub. L. 102–550, title XIV, § 1411][/us/pl/102/550/s1411], Oct. 28, 1992, [106 Stat. 4039][/us/stat/106/4039], provided that:
+[Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1411, Oct. 28, 1992, [106 Stat. 4039][/us/stat/106/4039], provided that:
 
 >     “(a)  __Use of Available Space at National Guard Facilities__  __.—__ 
 
@@ -251,7 +251,7 @@
 
  __Unutilized and Underutilized Property for Purposes of 1990 Amendment__ 
 
-[Pub. L. 101–645, title IV, § 401(c)][/us/pl/101/645/s401/c], Nov. 29, 1990, [104 Stat. 4723][/us/stat/104/4723], as amended by [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that: 
+[Pub. L. 101–645, title IV][/us/pl/101/645/tIV], § 401(c), Nov. 29, 1990, [104 Stat. 4723][/us/stat/104/4723], as amended by [Pub. L. 106–400][/us/pl/106/400], § 2, Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that: 
 
 > “For purposes of section 501 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11411][/us/usc/t42/s11411]) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
 
@@ -269,17 +269,17 @@
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
-[/us/pl/100/77/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs501
+[/us/pl/100/77/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtV
 [/us/stat/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F509
-[/us/pl/100/628/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs501
+[/us/pl/100/628/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtV
 [/us/stat/102/3240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3240
-[/us/pl/101/645/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs401%2Fa
+[/us/pl/101/645/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtIV
 [/us/stat/104/4719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4719
-[/us/pl/102/484/s2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs2824
+[/us/pl/102/484/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdB%2FtXXVIII
 [/us/stat/106/2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2608
-[/us/pl/103/421/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F421%2Fs2%2Fd
+[/us/pl/103/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F421
 [/us/stat/108/4352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4352
-[/us/pl/108/199/s216/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs216%2F4
+[/us/pl/108/199/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdG%2FtII
 [/us/stat/118/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F394
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1808
@@ -298,29 +298,29 @@
 [/us/usc/t40/s484/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs484%2Fk
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
 [/us/usc/t40/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs472
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/103/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F421
-[/us/pl/102/484/s2824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs2824%2Fa
-[/us/pl/102/484/s2824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs2824%2Fb
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/101/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645
-[/us/pl/100/628/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs501%2F1
-[/us/pl/100/628/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs501%2F2
-[/us/pl/100/628/s501/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs501%2F3%2FA
-[/us/pl/100/628/s501/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs501%2F3%2FB
-[/us/pl/100/628/s501/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs501%2F4%2FA
-[/us/pl/100/628/s501/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs501%2F4%2FB
-[/us/pl/100/628/s501/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs501%2F4%2FC
-[/us/pl/101/645/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs401%2Fb
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
+[/us/pl/101/645/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtIV
 [/us/stat/104/4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4723
-[/us/pl/101/645/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs401%2Fd
+[/us/pl/101/645/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtIV
 [/us/stat/104/4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4723
-[/us/pl/102/550/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1411
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4039
-[/us/pl/101/645/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs401%2Fc
+[/us/pl/101/645/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtIV
 [/us/stat/104/4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4723
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
+[/us/pl/106/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400
 [/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
 [/us/usc/t42/s11411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11411
 

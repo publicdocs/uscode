@@ -39,7 +39,7 @@
 
         (2) undertake demonstration and commercial application projects as provided in [section 12005 of this title][/us/usc/t42/s12005].
 
-([Pub. L. 101–218, § 2][/us/pl/101/218/s2], Dec. 11, 1989, [103 Stat. 1859][/us/stat/103/1859]; [Pub. L. 102–486, title XII, § 1202(d)(1)][/us/pl/102/486/s1202/d/1]–(3), Oct. 24, 1992, [106 Stat. 2959][/us/stat/106/2959], 2960.)
+([Pub. L. 101–218][/us/pl/101/218], § 2, Dec. 11, 1989, [103 Stat. 1859][/us/stat/103/1859]; [Pub. L. 102–486, title XII][/us/pl/102/486/tXII], § 1202(d)(1)–(3), Oct. 24, 1992, [106 Stat. 2959][/us/stat/106/2959], 2960.)
 
  __References in Text__ 
 
@@ -47,11 +47,11 @@
 
  __Amendments__ 
 
-    1992—Subsec. (b). [Pub. L. 102–486, § 1202(d)(1)][/us/pl/102/486/s1202/d/1], substituted “[section 13541 of this title][/us/usc/t42/s13541]” for “authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 ([42 U.S.C. 5901–592][/us/usc/t42/s5901–592]0) and other law applicable to the Secretary” and “demonstration, and commercial application” for “and demonstration”.
+    1992—Subsec. (b). [Pub. L. 102–486][/us/pl/102/486], § 1202(d)(1), substituted “[section 13541 of this title][/us/usc/t42/s13541]” for “authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 ([42 U.S.C. 5901–592][/us/usc/t42/s5901–592]0) and other law applicable to the Secretary” and “demonstration, and commercial application” for “and demonstration”.
 
-    Subsec. (b)(4). [Pub. L. 102–486, § 1202(d)(2)][/us/pl/102/486/s1202/d/2], substituted “efforts” for “research and development efforts” and “demonstration and commercial application projects” for “joint ventures”.
+    Subsec. (b)(4). [Pub. L. 102–486][/us/pl/102/486], § 1202(d)(2), substituted “efforts” for “research and development efforts” and “demonstration and commercial application projects” for “joint ventures”.
 
-    Subsec. (c). [Pub. L. 102–486, § 1202(d)(3)][/us/pl/102/486/s1202/d/3], substituted “[section 13541 of this title][/us/usc/t42/s13541], is authorized and directed to—” and pars. (1) and (2) for “the authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 ([42 U.S.C. 5901–592][/us/usc/t42/s5901–592]0) and other law applicable to the Secretary—
+    Subsec. (c). [Pub. L. 102–486][/us/pl/102/486], § 1202(d)(3), substituted “[section 13541 of this title][/us/usc/t42/s13541], is authorized and directed to—” and pars. (1) and (2) for “the authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 ([42 U.S.C. 5901–592][/us/usc/t42/s5901–592]0) and other law applicable to the Secretary—
 
     “(1) is authorized and directed to—
 
@@ -63,7 +63,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–218, § 1][/us/pl/101/218/s1], Dec. 11, 1989, [103 Stat. 1859][/us/stat/103/1859], provided: 
+[Pub. L. 101–218][/us/pl/101/218], § 1, Dec. 11, 1989, [103 Stat. 1859][/us/stat/103/1859], provided: 
 
 > “That this Act \[enacting this chapter and amending sections 6276 and 8243 of this title, [section 2857 of Title 10][/us/usc/t10/s2857], Armed Forces, and [section 2194 of Title 22][/us/usc/t22/s2194], Foreign Relations and Intercourse\] may be referred to as the ‘Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989’.”
 
@@ -78,24 +78,24 @@
 [/us/usc/t42/s13541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13541
 [/us/usc/t42/s12003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12003
 [/us/usc/t42/s12005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12005
-[/us/pl/101/218/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs2
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1859
-[/us/pl/102/486/s1202/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fd%2F1
+[/us/pl/102/486/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXII
 [/us/stat/106/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2959
 [/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1859
-[/us/pl/102/486/s1202/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fd%2F1
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s13541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13541
 [/us/usc/t42/s5901–592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901%E2%80%93592
-[/us/pl/102/486/s1202/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fd%2F2
-[/us/pl/102/486/s1202/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1202%2Fd%2F3
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t42/s13541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13541
 [/us/usc/t42/s5901–592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901%E2%80%93592
 [/us/usc/t42/s12003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12003
 [/us/usc/t42/s12005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12005
 [/us/usc/t42/s12005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12005%2Fc
 [/us/usc/t42/s12005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12005%2Fb
-[/us/pl/101/218/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs1
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1859
 [/us/usc/t10/s2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2857
 [/us/usc/t22/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194

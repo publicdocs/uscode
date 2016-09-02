@@ -17,7 +17,7 @@
 
     The Government of the United States of America shall not be liable for any damages or third party liability arising out of or resulting from the joint program: Provided, however, That nothing in this section shall deprive any person of any rights under [section 2210 of this title][/us/usc/t42/s2210]: And provided further, That nothing in this section shall apply to arrangements made by the Commission under a research and development program authorized in [section 2292 of this title][/us/usc/t42/s2292]. The Government of the United States shall take such steps as may be necessary, including appropriate disclaimer or indemnity arrangements, in order to carry out the provisions of this section.
 
-([Pub. L. 85–846, § 7][/us/pl/85/846/s7], Aug. 28, 1958, [72 Stat. 1086][/us/stat/72/1086]; [Pub. L. 87–206, § 20][/us/pl/87/206/s20], Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479].)
+([Pub. L. 85–846][/us/pl/85/846], § 7, Aug. 28, 1958, [72 Stat. 1086][/us/stat/72/1086]; [Pub. L. 87–206][/us/pl/87/206], § 20, Sept. 6, 1961, [75 Stat. 479][/us/stat/75/479].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t42/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2210
 [/us/usc/t42/s2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2292
-[/us/pl/85/846/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846%2Fs7
+[/us/pl/85/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F846
 [/us/stat/72/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1086
-[/us/pl/87/206/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206%2Fs20
+[/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/stat/75/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F479
 [/us/pl/87/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F206
 [/us/usc/t42/s2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2292

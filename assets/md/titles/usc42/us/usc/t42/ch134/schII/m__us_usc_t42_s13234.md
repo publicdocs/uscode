@@ -23,7 +23,7 @@
 
         The Federal Energy Regulatory Commission may, under [section 824d of title 16][/us/usc/t16/s824d], allow recovery of expenses in advance by electric utilities for research, development, and demonstration activities by the Electric Power Research Institute for projects on electric motor vehicles, if the Commission finds that the benefits, including environmental benefits, to existing and future ratepayers resulting from such activities exceed all direct costs to existing and future ratepayers. To the maximum extent practicable, through the establishment of cofunding requirements applicable to each project, the costs of such activities shall be provided, in part, through contributions of cash, personnel, services, equipment, and other resources, by sources other than the recovery of expenses pursuant to this section.
 
-([Pub. L. 102–486, title IV, § 408][/us/pl/102/486/s408], Oct. 24, 1992, [106 Stat. 2881][/us/stat/106/2881].)
+([Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 408, Oct. 24, 1992, [106 Stat. 2881][/us/stat/106/2881].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t15/s717c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717c
 [/us/usc/t16/s824d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824d
-[/us/pl/102/486/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs408
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2881
 [/us/pl/102/486/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs408
 [/us/pl/102/486/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs408

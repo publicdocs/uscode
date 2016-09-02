@@ -97,7 +97,7 @@
 
         The Secretary may, through the quality measure development program under [section 299b–31 of this title][/us/usc/t42/s299b–31], award grants or contracts to eligible entities for the purpose of funding the development of performance measures that assess the use and effectiveness of medication therapy management services.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 935, as added and amended [Pub. L. 111–148, title III, § 3503][/us/pl/111/148/s3503], title X, § 10501(f)(4), Mar. 23, 2010, [124 Stat. 516][/us/stat/124/516], 996.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 935, as added and amended [Pub. L. 111–148, title III][/us/pl/111/148/tIII], § 3503, title X, § 10501(f)(4), Mar. 23, 2010, [124 Stat. 516][/us/stat/124/516], 996.)
 
  __Prior Provisions__ 
 
@@ -105,7 +105,7 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(3). [Pub. L. 111–148, § 10501(f)(4)][/us/pl/111/148/s10501/f/4], made technical amendment to reference in original act which appears in text as reference to [section 280g–12 of this title][/us/usc/t42/s280g–12].
+    2010—Subsec. (b)(3). [Pub. L. 111–148][/us/pl/111/148], § 10501(f)(4), made technical amendment to reference in original act which appears in text as reference to [section 280g–12 of this title][/us/usc/t42/s280g–12].
 
 ----------
 
@@ -120,10 +120,10 @@
 [/us/usc/t42/s1395aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aaa
 [/us/usc/t42/s299b–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9331
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3503
+[/us/pl/111/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIII
 [/us/stat/124/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F516
 [/us/usc/t42/s299c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299c%E2%80%934
-[/us/pl/111/148/s10501/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Ff%2F4
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s280g–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g%E2%80%9312
 
 

@@ -153,7 +153,7 @@
 
         Nothing in this Act shall be construed to relieve any health care provider from providing emergency services as required by State or Federal law, including [section 1395dd of this title][/us/usc/t42/s1395dd] (popularly known as “EMTALA”).
 
-([Pub. L. 111–148, title I, § 1303][/us/pl/111/148/s1303], title X, § 10104(c), Mar. 23, 2010, [124 Stat. 168][/us/stat/124/168], 896.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1303, title X, § 10104(c), Mar. 23, 2010, [124 Stat. 168][/us/stat/124/168], 896.)
 
  __References in Text__ 
 
@@ -165,7 +165,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, § 10104(c)][/us/pl/111/148/s10104/c], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to special rules relating to coverage of abortion services, application of State and Federal laws regarding abortion, and application of emergency services laws.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10104(c), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to special rules relating to coverage of abortion services, application of State and Federal laws regarding abortion, and application of emergency services laws.
 
  __Ex. Ord. No. 13535. Ensuring Enforcement and Implementation of Abortion Restrictions in the Patient Protection and Affordable Care Act__ 
 
@@ -206,7 +206,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t42/s18082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18082
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
 [/us/usc/t42/s1395dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd
-[/us/pl/111/148/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1303
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F168
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
@@ -216,7 +216,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
-[/us/pl/111/148/s10104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fc
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s300a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%937
 [/us/pl/111/8/s508/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs508%2Fd%2F1

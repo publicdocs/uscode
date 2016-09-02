@@ -17,7 +17,7 @@
 
     The Director of the National Science Foundation may utilize funds appropriated to carry out grants to institutions of higher education (as such term is defined in [section 1001(a) of title 20][/us/usc/t20/s1001/a]) to provide financial support for post-graduate research in fields with potential commercial applications to match, in whole or in part, any private sector grant of financial assistance to any post-doctoral program in such a field of study.
 
-([Pub. L. 111–358, title V, § 522][/us/pl/111/358/s522], Jan. 4, 2011, [124 Stat. 4017][/us/stat/124/4017].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 522, Jan. 4, 2011, [124 Stat. 4017][/us/stat/124/4017].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/pl/111/358/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs522
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4017
 
 

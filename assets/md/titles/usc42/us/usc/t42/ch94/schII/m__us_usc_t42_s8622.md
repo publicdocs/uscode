@@ -55,7 +55,7 @@
 
     (11) The term “State median income” means the State median income promulgated by the Secretary in accordance with procedures established under [section 1397a(a)(6) of this title][/us/usc/t42/s1397a/a/6] (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
 
-([Pub. L. 97–35, title XXVI, § 2603][/us/pl/97/35/s2603], Aug. 13, 1981, [95 Stat. 894][/us/stat/95/894]; [Pub. L. 97–115, § 16][/us/pl/97/115/s16], Dec. 29, 1981, [95 Stat. 1609][/us/stat/95/1609]; [Pub. L. 98–558, title VI, § 602][/us/pl/98/558/s602], Oct. 30, 1984, [98 Stat. 2890][/us/stat/98/2890]; [Pub. L. 103–252, title III][/us/pl/103/252], §§ 304(b), 311(c)(2), May 18, 1994, [108 Stat. 658][/us/stat/108/658], 662; [Pub. L. 105–285, title III][/us/pl/105/285], §§ 303, 304(a), Oct. 27, 1998, [112 Stat. 2756][/us/stat/112/2756]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(EE), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(EE), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
+([Pub. L. 97–35, title XXVI][/us/pl/97/35/tXXVI], § 2603, Aug. 13, 1981, [95 Stat. 894][/us/stat/95/894]; [Pub. L. 97–115][/us/pl/97/115], § 16, Dec. 29, 1981, [95 Stat. 1609][/us/stat/95/1609]; [Pub. L. 98–558, title VI][/us/pl/98/558/tVI], § 602, Oct. 30, 1984, [98 Stat. 2890][/us/stat/98/2890]; [Pub. L. 103–252, title III][/us/pl/103/252/tIII], §§ 304(b), 311(c)(2), May 18, 1994, [108 Stat. 658][/us/stat/108/658], 662; [Pub. L. 105–285, title III][/us/pl/105/285/tIII], §§ 303, 304(a), Oct. 27, 1998, [112 Stat. 2756][/us/stat/112/2756]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(A), (B), (2)(EE), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(EE), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
 
  __References in Text__ 
 
@@ -71,33 +71,33 @@
 
  __Amendments__ 
 
-    2008—Par. (1)(E). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(EE), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    2008—Par. (1)(E). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(A), (B), (2)(EE), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    1998—Pars. (1) to (3). [Pub. L. 105–285, § 304(a)(3)][/us/pl/105/285/s304/a/3], (4), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
+    1998—Pars. (1) to (3). [Pub. L. 105–285][/us/pl/105/285], § 304(a)(3), (4), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
 
-    Par. (4). [Pub. L. 105–285, § 304(a)(3)][/us/pl/105/285/s304/a/3], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    Par. (4). [Pub. L. 105–285][/us/pl/105/285], § 304(a)(3), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    [Pub. L. 105–285, § 303][/us/pl/105/285/s303], substituted “The term” for “the term” and a period for the semicolon at end.
+    [Pub. L. 105–285][/us/pl/105/285], § 303, substituted “The term” for “the term” and a period for the semicolon at end.
 
-    Pars. (5), (6). [Pub. L. 105–285, § 304(a)(3)][/us/pl/105/285/s304/a/3], redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (8).
+    Pars. (5), (6). [Pub. L. 105–285][/us/pl/105/285], § 304(a)(3), redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (8).
 
-    Pars. (7) to (11). [Pub. L. 105–285, § 304(a)(1)][/us/pl/105/285/s304/a/1], (2), added par. (7) and redesignated formers pars. (6) to (9) as (8) to (11), respectively.
+    Pars. (7) to (11). [Pub. L. 105–285][/us/pl/105/285], § 304(a)(1), (2), added par. (7) and redesignated formers pars. (6) to (9) as (8) to (11), respectively.
 
-    1994—Par. (1). [Pub. L. 103–252, § 304(b)(1)][/us/pl/103/252/s304/b/1], (2), added par. (1). Former par. (1) redesignated (2).
+    1994—Par. (1). [Pub. L. 103–252][/us/pl/103/252], § 304(b)(1), (2), added par. (1). Former par. (1) redesignated (2).
 
-    Par. (2). [Pub. L. 103–252, § 311(c)(2)][/us/pl/103/252/s311/c/2], which directed the substitution of “The” for “the” and a period for the semicolon at end, could not be executed because the word “the” and a semicolon did not appear in par. (2) after the redesignations by [Pub. L. 103–252, § 304(b)(1)][/us/pl/103/252/s304/b/1]. See below.
+    Par. (2). [Pub. L. 103–252][/us/pl/103/252], § 311(c)(2), which directed the substitution of “The” for “the” and a period for the semicolon at end, could not be executed because the word “the” and a semicolon did not appear in par. (2) after the redesignations by [Pub. L. 103–252][/us/pl/103/252], § 304(b)(1). See below.
 
-    [Pub. L. 103–252, § 304(b)(1)][/us/pl/103/252/s304/b/1], redesignated par. (1) as (2). Former par. (2) redesignated (4).
+    [Pub. L. 103–252][/us/pl/103/252], § 304(b)(1), redesignated par. (1) as (2). Former par. (2) redesignated (4).
 
-    Par. (3). [Pub. L. 103–252, § 304(b)(3)][/us/pl/103/252/s304/b/3], added par. (3). Former par. (3) redesignated (5).
+    Par. (3). [Pub. L. 103–252][/us/pl/103/252], § 304(b)(3), added par. (3). Former par. (3) redesignated (5).
 
-    Par. (4). [Pub. L. 103–252, § 304(b)(1)][/us/pl/103/252/s304/b/1], redesignated par. (2) as (4). Former par. (4) redesignated (6).
+    Par. (4). [Pub. L. 103–252][/us/pl/103/252], § 304(b)(1), redesignated par. (2) as (4). Former par. (4) redesignated (6).
 
-    Pars. (5) to (9). [Pub. L. 103–252, § 304(b)(1)][/us/pl/103/252/s304/b/1], redesignated pars. (3) to (7) as (5) to (9), respectively.
+    Pars. (5) to (9). [Pub. L. 103–252][/us/pl/103/252], § 304(b)(1), redesignated pars. (3) to (7) as (5) to (9), respectively.
 
-    1984—Par. (1). [Pub. L. 98–558, § 602(a)][/us/pl/98/558/s602/a], struck out “intervention” after “energy crisis” and inserted “and other household energy-related emergencies” at the end.
+    1984—Par. (1). [Pub. L. 98–558][/us/pl/98/558], § 602(a), struck out “intervention” after “energy crisis” and inserted “and other household energy-related emergencies” at the end.
 
-    Par. (4). [Pub. L. 98–558, § 602(b)][/us/pl/98/558/s602/b], substituted “the income poverty line as prescribed and revised at least annually pursuant to [section 9902(2) of this title][/us/usc/t42/s9902/2],” for “the income poverty guidelines for the nonfarm population of the United States as prescribed by the Office of Management and Budget (and as adjusted annually pursuant to [section 9902(2) of this title][/us/usc/t42/s9902/2])”.
+    Par. (4). [Pub. L. 98–558][/us/pl/98/558], § 602(b), substituted “the income poverty line as prescribed and revised at least annually pursuant to [section 9902(2) of this title][/us/usc/t42/s9902/2],” for “the income poverty guidelines for the nonfarm population of the United States as prescribed by the Office of Management and Budget (and as adjusted annually pursuant to [section 9902(2) of this title][/us/usc/t42/s9902/2])”.
 
     1981—[Pub. L. 97–115][/us/pl/97/115] designated par. (2)(A) as par. (2), substituted provisions including individuals and groups of individuals who are living together as one economic unit for whom residential energy is customarily purchased in the form of rent in the definition of household, for provisions including individuals who occupy a housing unit in such definition, and struck out par. (2)(B), which provided that for purposes of subpar. (A), one or more rooms shall be treated as a housing unit when occupied as a separate living quarters.
 
@@ -127,19 +127,19 @@
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t42/s1397a/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397a%2Fa%2F6
-[/us/pl/97/35/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2603
+[/us/pl/97/35/tXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVI
 [/us/stat/95/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F894
-[/us/pl/97/115/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs16
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1609
-[/us/pl/98/558/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs602
+[/us/pl/98/558/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVI
 [/us/stat/98/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2890
-[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2FtIII
 [/us/stat/108/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F658
-[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2FtIII
 [/us/stat/112/2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2756
-[/us/pl/110/234/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FA
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1095-1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095-1097
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
@@ -151,21 +151,21 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
-[/us/pl/105/285/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs304%2Fa%2F3
-[/us/pl/105/285/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs304%2Fa%2F3
-[/us/pl/105/285/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs303
-[/us/pl/105/285/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs304%2Fa%2F3
-[/us/pl/105/285/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs304%2Fa%2F1
-[/us/pl/103/252/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs304%2Fb%2F1
-[/us/pl/103/252/s311/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs311%2Fc%2F2
-[/us/pl/103/252/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs304%2Fb%2F1
-[/us/pl/103/252/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs304%2Fb%2F1
-[/us/pl/103/252/s304/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs304%2Fb%2F3
-[/us/pl/103/252/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs304%2Fb%2F1
-[/us/pl/103/252/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs304%2Fb%2F1
-[/us/pl/98/558/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs602%2Fa
-[/us/pl/98/558/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs602%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/103/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
+[/us/pl/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115

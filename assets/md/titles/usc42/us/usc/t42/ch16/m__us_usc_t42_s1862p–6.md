@@ -35,7 +35,7 @@
 
         The Director shall require that every recipient of a research grant from the Foundation proposing to include 1 or more students enrolled in certificate, associate, or baccalaureate degree programs in carrying out the research under the grant shall request support, including stipend support, for such undergraduate students as part of the research proposal itself rather than as a supplement to the research proposal, unless such undergraduate participation was not foreseeable at the time of the original proposal.
 
-([Pub. L. 111–358, title V, § 514][/us/pl/111/358/s514], Jan. 4, 2011, [124 Stat. 4011][/us/stat/124/4011].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 514, Jan. 4, 2011, [124 Stat. 4011][/us/stat/124/4011].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs514
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4011
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2
 [/us/usc/t42/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6621

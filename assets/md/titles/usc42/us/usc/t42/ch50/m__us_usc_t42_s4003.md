@@ -43,7 +43,7 @@
 
     (b) The Administrator is authorized to define or redefine, by rules and regulations, any scientific or technical term used in this Act, insofar as such definition is not inconsistent with the purposes of this Act.
 
-([Pub. L. 93–234, § 3][/us/pl/93/234/s3], Dec. 31, 1973, [87 Stat. 976][/us/stat/87/976]; [Pub. L. 95–128, title VII, § 703(b)][/us/pl/95/128/s703/b], Oct. 12, 1977, [91 Stat. 1145][/us/stat/91/1145]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(e)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 100–707, title I, § 109(t)][/us/pl/100/707/s109/t], Nov. 23, 1988, [102 Stat. 4710][/us/stat/102/4710]; [Pub. L. 103–325, title V, § 511(a)][/us/pl/103/325/s511/a], Sept. 23, 1994, [108 Stat. 2255][/us/stat/108/2255]; [Pub. L. 111–203, title III, § 368][/us/pl/111/203/s368], July 21, 2010, [124 Stat. 1557][/us/stat/124/1557]; [Pub. L. 112–141, div. F, title II, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
+([Pub. L. 93–234][/us/pl/93/234], § 3, Dec. 31, 1973, [87 Stat. 976][/us/stat/87/976]; [Pub. L. 95–128, title VII][/us/pl/95/128/tVII], § 703(b), Oct. 12, 1977, [91 Stat. 1145][/us/stat/91/1145]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(e)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(t), Nov. 23, 1988, [102 Stat. 4710][/us/stat/102/4710]; [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 511(a), Sept. 23, 1994, [108 Stat. 2255][/us/stat/108/2255]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 368, July 21, 2010, [124 Stat. 1557][/us/stat/124/1557]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100238(a)(1), July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
 
  __References in Text__ 
 
@@ -63,15 +63,15 @@
 
     2010—Subsec. (a)(5). [Pub. L. 111–203][/us/pl/111/203] struck out “, the Office of Thrift Supervision” after “the Comptroller of the Currency”.
 
-    1994—Subsec. (a)(5). [Pub. L. 103–325, § 511(a)(1)][/us/pl/103/325/s511/a/1], added par. (5) and struck out former par. (5) which read as follows: “ ‘Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, and the National Credit Union Administration; and”.
+    1994—Subsec. (a)(5). [Pub. L. 103–325][/us/pl/103/325], § 511(a)(1), added par. (5) and struck out former par. (5) which read as follows: “ ‘Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, and the National Credit Union Administration; and”.
 
-    Subsec. (a)(7) to (11). [Pub. L. 103–325, § 511(a)(2)][/us/pl/103/325/s511/a/2], (3), added pars. (7) to (11).
+    Subsec. (a)(7) to (11). [Pub. L. 103–325][/us/pl/103/325], § 511(a)(2), (3), added pars. (7) to (11).
 
     1988—Subsec. (a)(4). [Pub. L. 100–707][/us/pl/100/707] substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
 
-    1983—Subsec. (a)(6). [Pub. L. 98–181, § 451(e)(2)][/us/pl/98/181/s451/e/2], substituted definition of “Director” meaning the Director of the Federal Emergency Management Agency for definition of “Secretary” meaning the Secretary of Housing and Urban Development.
+    1983—Subsec. (a)(6). [Pub. L. 98–181][/us/pl/98/181], § 451(e)(2), substituted definition of “Director” meaning the Director of the Federal Emergency Management Agency for definition of “Secretary” meaning the Secretary of Housing and Urban Development.
 
-    Subsec. (b). [Pub. L. 98–181, § 451(e)(1)][/us/pl/98/181/s451/e/1], substituted “Director” for “Secretary”.
+    Subsec. (b). [Pub. L. 98–181][/us/pl/98/181], § 451(e)(1), substituted “Director” for “Secretary”.
 
     1977—Subsec. (a)(4). [Pub. L. 95–128][/us/pl/95/128] substituted “assistance pursuant to the Disaster Relief Act of 1974 (other than assistance under such Act in connection with a flood)” for “assistance for emergency work essential for the protection and preservation of life and property performed pursuant to the Disaster Relief Act of 1970 or any subsequent Act of Congress which supersedes or modifies the Disaster Relief Act of 1970”.
 
@@ -93,19 +93,19 @@
 ----------
 
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/93/234/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs3
+[/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/stat/87/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F976
-[/us/pl/95/128/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs703%2Fb
+[/us/pl/95/128/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtVII
 [/us/stat/91/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1145
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/100/707/s109/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Ft
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4710
-[/us/pl/103/325/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs511%2Fa
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2255
-[/us/pl/111/203/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs368
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1557
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
 [/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/stat/87/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F975
@@ -116,11 +116,11 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/103/325/s511/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs511%2Fa%2F1
-[/us/pl/103/325/s511/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs511%2Fa%2F2
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
-[/us/pl/98/181/s451/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fe%2F2
-[/us/pl/98/181/s451/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fe%2F1
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351

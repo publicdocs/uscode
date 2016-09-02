@@ -17,7 +17,7 @@
 
     The Secretary shall ensure that each participating jurisdiction, and each jurisdiction seeking to become a participating jurisdiction, complies with the requirements of [section 12707 of this title][/us/usc/t42/s12707].
 
-([Pub. L. 101–625, title II, § 285][/us/pl/101/625/s285], Nov. 28, 1990, [104 Stat. 4126][/us/stat/104/4126].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 285, Nov. 28, 1990, [104 Stat. 4126][/us/stat/104/4126].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s12707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12707
-[/us/pl/101/625/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs285
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4126
 
 

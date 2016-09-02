@@ -147,19 +147,19 @@
 
     (21) The term “Governor” means the chief executive officer of a State or his designee.
 
-([Pub. L. 94–163, title III, § 391][/us/pl/94/163/s391], as added [Pub. L. 95–619, title III, § 302(a)][/us/pl/95/619/s302/a], Nov. 9, 1978, [92 Stat. 3239][/us/stat/92/3239]; amended [Pub. L. 98–454, title VI, § 601(e)][/us/pl/98/454/s601/e], Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–440, § 6(b)][/us/pl/101/440/s6/b], Oct. 18, 1990, [104 Stat. 1011][/us/stat/104/1011]; [Pub. L. 105–388, § 5(a)(9)][/us/pl/105/388/s5/a/9], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 391, as added [Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(a), Nov. 9, 1978, [92 Stat. 3239][/us/stat/92/3239]; amended [Pub. L. 98–454, title VI][/us/pl/98/454/tVI], § 601(e), Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–440][/us/pl/101/440], § 6(b), Oct. 18, 1990, [104 Stat. 1011][/us/stat/104/1011]; [Pub. L. 105–388][/us/pl/105/388], § 5(a)(9), Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478].)
 
  __Amendments__ 
 
     1998—Par. (2)(B). [Pub. L. 105–388][/us/pl/105/388] substituted a semicolon for period at end.
 
-    1990—Par. (1). [Pub. L. 101–440, § 6(b)(1)][/us/pl/101/440/s6/b/1], substituted “May 1, 1989” for “April 20, 1977”.
+    1990—Par. (1). [Pub. L. 101–440][/us/pl/101/440], § 6(b)(1), substituted “May 1, 1989” for “April 20, 1977”.
 
-    Par. (2). [Pub. L. 101–440, § 6(b)(2)][/us/pl/101/440/s6/b/2], (3), in introductory provision substituted “maintain or reduce energy consumption and reduce energy costs” for “reduce energy consumption” and in subpar. (C) inserted “and load management systems” after “systems”.
+    Par. (2). [Pub. L. 101–440][/us/pl/101/440], § 6(b)(2), (3), in introductory provision substituted “maintain or reduce energy consumption and reduce energy costs” for “reduce energy consumption” and in subpar. (C) inserted “and load management systems” after “systems”.
 
-    Par. (8). [Pub. L. 101–440, § 6(b)(4)][/us/pl/101/440/s6/b/4], inserted “administrative facilities,” after “dormitories,”.
+    Par. (8). [Pub. L. 101–440][/us/pl/101/440], § 6(b)(4), inserted “administrative facilities,” after “dormitories,”.
 
-    Par. (17)(A). [Pub. L. 101–440, § 6(b)(5)][/us/pl/101/440/s6/b/5], substituted “or energy cost savings” for “and related cost savings”.
+    Par. (17)(A). [Pub. L. 101–440][/us/pl/101/440], § 6(b)(5), substituted “or energy cost savings” for “and related cost savings”.
 
     1986—Par. (5)(B). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -167,13 +167,13 @@
 
  __Separability__ 
 
-[Pub. L. 95–619, title III, § 302(c)][/us/pl/95/619/s302/c], Nov. 9, 1978, [92 Stat. 3248][/us/stat/92/3248], provided that: 
+[Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 302(c), Nov. 9, 1978, [92 Stat. 3248][/us/stat/92/3248], provided that: 
 
 > “If any provision of this title \[enacting sections 6371 to 6371j and section 6372 to 6372i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section and [section 6372 of this title][/us/usc/t42/s6372]\] or the application thereof to any person or circumstances be held invalid, the provisions of other sections of this title and their application to other persons or circumstances shall not be affected thereby.”
 
  __Congressional Statement of Findings and Purposes__ 
 
-[Pub. L. 95–619, title III, § 301][/us/pl/95/619/s301], Nov. 9, 1978, [92 Stat. 3238][/us/stat/92/3238], provided:
+[Pub. L. 95–619, title III][/us/pl/95/619/tIII], § 301, Nov. 9, 1978, [92 Stat. 3238][/us/stat/92/3238], provided:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -202,28 +202,28 @@
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t42/s6322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6322
 [/us/usc/t42/s6371c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371c
-[/us/pl/94/163/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs391
-[/us/pl/95/619/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3239
-[/us/pl/98/454/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs601%2Fe
+[/us/pl/98/454/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtVI
 [/us/stat/98/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1736
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/101/440/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs6%2Fb
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1011
-[/us/pl/105/388/s5/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs5%2Fa%2F9
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3478
 [/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
-[/us/pl/101/440/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs6%2Fb%2F1
-[/us/pl/101/440/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs6%2Fb%2F2
-[/us/pl/101/440/s6/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs6%2Fb%2F4
-[/us/pl/101/440/s6/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs6%2Fb%2F5
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
-[/us/pl/95/619/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs302%2Fc
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3248
 [/us/usc/t42/s6372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6372
-[/us/pl/95/619/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs301
+[/us/pl/95/619/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIII
 [/us/stat/92/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3238
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 

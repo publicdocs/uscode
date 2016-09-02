@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Attorney General to carry out this Act (including to reimburse the Federal judiciary for any reasonable costs incurred in implementing such Act, as determined by the Attorney General) such sums as may be necessary.
 
-([Pub. L. 106–546, § 9][/us/pl/106/546/s9], Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735].)
+([Pub. L. 106–546][/us/pl/106/546], § 9, Dec. 19, 2000, [114 Stat. 2735][/us/stat/114/2735].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/106/546/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs9
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2735
 [/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2726

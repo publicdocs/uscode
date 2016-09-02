@@ -123,7 +123,7 @@
 
         Notwithstanding any other provision of law, reasonable expenses of States in carrying out the program under this section shall be treated, for purposes of [section 1396b(a) of this title][/us/usc/t42/s1396b/a], in the same manner as State expenditures specified in paragraph (7) of such section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1940, as added [Pub. L. 110–252, title VII, § 7001(d)(1)][/us/pl/110/252/s7001/d/1], June 30, 2008, [122 Stat. 2391][/us/stat/122/2391].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1940, as added [Pub. L. 110–252, title VII][/us/pl/110/252/tVII], § 7001(d)(1), June 30, 2008, [122 Stat. 2391][/us/stat/122/2391].)
 
  __References in Text__ 
 
@@ -148,7 +148,7 @@
 [/us/usc/t42/s1396b/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fi%2F2
 [/us/usc/t42/s1396b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/110/252/s7001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs7001%2Fd%2F1
+[/us/pl/110/252/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtVII
 [/us/stat/122/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2391
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697

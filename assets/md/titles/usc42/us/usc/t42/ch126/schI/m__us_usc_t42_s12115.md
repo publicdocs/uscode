@@ -17,7 +17,7 @@
 
     Every employer, employment agency, labor organization, or joint labor-management committee covered under this subchapter shall post notices in an accessible format to applicants, employees, and members describing the applicable provisions of this chapter, in the manner prescribed by [section 2000e–10 of this title][/us/usc/t42/s2000e–10].
 
-([Pub. L. 101–336, title I, § 105][/us/pl/101/336/s105], July 26, 1990, [104 Stat. 336][/us/stat/104/336].)
+([Pub. L. 101–336, title I][/us/pl/101/336/tI], § 105, July 26, 1990, [104 Stat. 336][/us/stat/104/336].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s2000e–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9310
-[/us/pl/101/336/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs105
+[/us/pl/101/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtI
 [/us/stat/104/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F336
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

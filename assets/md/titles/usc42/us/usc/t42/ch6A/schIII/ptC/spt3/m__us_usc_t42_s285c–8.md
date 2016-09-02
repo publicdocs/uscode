@@ -27,7 +27,7 @@
 
         In carrying out the program established under subsection (a) of this section, the Director of the Institute shall carry out activities to facilitate and enhance knowledge and understanding of nutritional disorders, including obesity, on the part of health professionals, patients, and the public through the effective dissemination of information.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 434, as added [Pub. L. 103–43, title VI, § 601][/us/pl/103/43/s601]\[(a)\], June 10, 1993, [107 Stat. 161][/us/stat/107/161].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 434, as added [Pub. L. 103–43, title VI][/us/pl/103/43/tVI], § 601\[(a)\], June 10, 1993, [107 Stat. 161][/us/stat/107/161].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs601
+[/us/pl/103/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtVI
 [/us/stat/107/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F161
 
 

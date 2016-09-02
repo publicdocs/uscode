@@ -287,7 +287,7 @@
 
             There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 
-([Pub. L. 109–347, title VII, § 709][/us/pl/109/347/s709], Oct. 13, 2006, [120 Stat. 1947][/us/stat/120/1947].)
+([Pub. L. 109–347, title VII][/us/pl/109/347/tVII], § 709, Oct. 13, 2006, [120 Stat. 1947][/us/stat/120/1947].)
 
  __References in Text__ 
 
@@ -307,7 +307,7 @@
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
-[/us/pl/109/347/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs709
+[/us/pl/109/347/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVII
 [/us/stat/120/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1947
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932

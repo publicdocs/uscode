@@ -47,7 +47,7 @@
 
         Except for the requirements of subsection (b)(6) of this section, the regulations promulgated under sections 13726 to 13726c of this title shall not provide stricter standards with respect to private prisoner transport companies than are applicable, without exception, to the United States Marshals Service, Federal Bureau of Prisons, and the Immigration and Naturalization Service when transporting violent prisoners under comparable circumstances.
 
-([Pub. L. 106–560, § 4][/us/pl/106/560/s4], Dec. 21, 2000, [114 Stat. 2785][/us/stat/114/2785].)
+([Pub. L. 106–560][/us/pl/106/560], § 4, Dec. 21, 2000, [114 Stat. 2785][/us/stat/114/2785].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
-[/us/pl/106/560/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560%2Fs4
+[/us/pl/106/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560
 [/us/stat/114/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2785
 [/us/pl/106/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F560
 [/us/stat/114/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2784

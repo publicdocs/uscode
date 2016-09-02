@@ -45,7 +45,7 @@
 
         The Director shall pay participants in training sessions a stipend of $400 a week during training.
 
-([Pub. L. 103–322, title XX, § 200108][/us/pl/103/322/s200108], Sept. 13, 1994, [108 Stat. 2054][/us/stat/108/2054]; [Pub. L. 105–277, div. C, title I, § 138(a)][/us/pl/105/277/s138/a], Oct. 21, 1998, [112 Stat. 2681–597][/us/stat/112/2681-597]; [Pub. L. 107–273, div. C, title I, § 11006(2)][/us/pl/107/273/s11006/2], Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200108, Sept. 13, 1994, [108 Stat. 2054][/us/stat/108/2054]; [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 138(a), Oct. 21, 1998, [112 Stat. 2681–597][/us/stat/112/2681-597]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11006(2), Nov. 2, 2002, [116 Stat. 1817][/us/stat/116/1817].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
     2002—Subsec. (f). [Pub. L. 107–273][/us/pl/107/273] substituted “$400” for “$250”.
 
-    1998—Subsec. (b). [Pub. L. 105–277, § 138(a)(1)][/us/pl/105/277/s138/a/1], added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “A participant in a State Police Corps program shall attend two 8-week training sessions at a training center, one during the summer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director.”
+    1998—Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 138(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “A participant in a State Police Corps program shall attend two 8-week training sessions at a training center, one during the summer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director.”
 
-    Subsec. (c). [Pub. L. 105–277, § 138(a)(2)][/us/pl/105/277/s138/a/2], substituted “The Police Corps” for “The 16 weeks of Police Corps”.
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 138(a)(2), substituted “The Police Corps” for “The 16 weeks of Police Corps”.
 
 ----------
 
@@ -66,18 +66,18 @@
 ----------
 ----------
 
-[/us/pl/103/322/s200108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200108
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2054
-[/us/pl/105/277/s138/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs138%2Fa
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-597
-[/us/pl/107/273/s11006/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11006%2F2
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1817
 [/us/usc/t42/s14099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14099
 [/us/pl/103/322/s200110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200110
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t42/s14099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14099
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/105/277/s138/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs138%2Fa%2F1
-[/us/pl/105/277/s138/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs138%2Fa%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

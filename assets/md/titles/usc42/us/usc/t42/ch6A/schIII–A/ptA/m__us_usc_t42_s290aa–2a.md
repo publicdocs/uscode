@@ -35,7 +35,7 @@
 
         The Secretary may obligate funds to carry out this section with such appropriations as are available.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 503A, as added [Pub. L. 106–310, div. B, title XXXIV, § 3406][/us/pl/106/310/s3406], Oct. 17, 2000, [114 Stat. 1221][/us/stat/114/1221].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 503A, as added [Pub. L. 106–310, div. B, title XXXIV][/us/pl/106/310/dB/tXXXIV], § 3406, Oct. 17, 2000, [114 Stat. 1221][/us/stat/114/1221].)
 
  __Change of Name__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/310/s3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3406
+[/us/pl/106/310/dB/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIV
 [/us/stat/114/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1221
 
 

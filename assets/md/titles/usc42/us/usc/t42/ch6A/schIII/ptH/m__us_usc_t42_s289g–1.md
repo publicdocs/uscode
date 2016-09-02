@@ -115,7 +115,7 @@
 
         For purposes of this section, the term “human fetal tissue” means tissue or cells obtained from a dead human embryo or fetus after a spontaneous or induced abortion, or after a stillbirth.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 498A, as added [Pub. L. 103–43, title I, § 111][/us/pl/103/43/s111], June 10, 1993, [107 Stat. 129][/us/stat/107/129].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 498A, as added [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 111, June 10, 1993, [107 Stat. 129][/us/stat/107/129].)
 
  __Change of Name__ 
 
@@ -125,7 +125,7 @@
 
  __Nullification of Moratorium__ 
 
-[Pub. L. 103–43, title I, § 113][/us/pl/103/43/s113], June 10, 1993, [107 Stat. 132][/us/stat/107/132], provided that:
+[Pub. L. 103–43, title I][/us/pl/103/43/tI], § 113, June 10, 1993, [107 Stat. 132][/us/stat/107/132], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -161,7 +161,7 @@
 
  __Report by General Accounting Office on Adequacy of Requirements__ 
 
-    [Pub. L. 103–43, title I, § 114][/us/pl/103/43/s114], June 10, 1993, [107 Stat. 132][/us/stat/107/132], provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Services had been conducted in accordance with this section and whether and to what extent there have been violations of [section 289g–2 of this title][/us/usc/t42/s289g–2] and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
+    [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 114, June 10, 1993, [107 Stat. 132][/us/stat/107/132], provided that, with respect to research on the transplantation of human fetal tissue for therapeutic purposes, the Comptroller General of the United States was to conduct an audit for the purpose of determining whether and to what extent such research conducted or supported by Secretary of Health and Human Services had been conducted in accordance with this section and whether and to what extent there have been violations of [section 289g–2 of this title][/us/usc/t42/s289g–2] and directed the Comptroller General to complete the audit and report the findings to Congress, not later than May 19, 1995.
 
 ----------
 
@@ -171,11 +171,11 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs111
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F129
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/103/43/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs113
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F132
 [/us/usc/t42/s289g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%931
 [/us/usc/t42/s289a–1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%931%2Fb%2F2
@@ -183,7 +183,7 @@
 [/us/usc/t42/s289g–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%932%2Fa
 [/us/usc/t42/s289a–1/b/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%931%2Fb%2F5%2FB%2Fii
 [/us/usc/t42/s289g–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%931%2Ff
-[/us/pl/103/43/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs114
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F132
 [/us/usc/t42/s289g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289g%E2%80%932
 

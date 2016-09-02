@@ -99,7 +99,7 @@
 
         The term “State” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands.
 
-([Pub. L. 106–279, § 3][/us/pl/106/279/s3], Oct. 6, 2000, [114 Stat. 826][/us/stat/114/826].)
+([Pub. L. 106–279][/us/pl/106/279], § 3, Oct. 6, 2000, [114 Stat. 826][/us/stat/114/826].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 [/us/usc/t42/s14941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14941%2Fa
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/usc/t42/s1320a–3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%933%2Fa%2F3
-[/us/pl/106/279/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279%2Fs3
+[/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F826
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825

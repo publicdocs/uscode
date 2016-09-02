@@ -87,11 +87,11 @@
 
             Section 300gg–23(a)(1) 1 of this title shall not be construed as superseding a State law described in paragraph (1).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2725, formerly § 2704, as added [Pub. L. 104–204, title VI, § 604(a)(3)][/us/pl/104/204/s604/a/3], Sept. 26, 1996, [110 Stat. 2939][/us/stat/110/2939]; renumbered § 2725 and amended [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(2), 1563(c)(3), formerly § 1562(c)(3), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 911.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2725, formerly § 2704, as added [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 604(a)(3), Sept. 26, 1996, [110 Stat. 2939][/us/stat/110/2939]; renumbered § 2725 and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(2), 1563(c)(3), formerly § 1562(c)(3), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 911.)
 
  __References in Text__ 
 
-    [Section 300gg–23 of this title][/us/usc/t42/s300gg–23], referred to in subsec. (f), was in the original section “2723”, and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1001(4), 1563(c)(14)(B), formerly § 1562(c)(14)(B), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 269, 911.
+    [Section 300gg–23 of this title][/us/usc/t42/s300gg–23], referred to in subsec. (f), was in the original section “2723”, and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(4), 1563(c)(14)(B), formerly § 1562(c)(14)(B), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 269, 911.
 
  __Codification__ 
 
@@ -99,27 +99,27 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–148, § 1563(c)(3)(A)][/us/pl/111/148/s1563/c/3/A], formerly § 1562(c)(3)(A), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “group or individual health insurance coverage” for “group health insurance coverage” in introductory provisions.
+    2010—Subsec. (a)(1). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(3)(A), formerly § 1562(c)(3)(A), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “group or individual health insurance coverage” for “group health insurance coverage” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 111–148, § 1563(c)(3)(B)(i)][/us/pl/111/148/s1563/c/3/B/i], formerly § 1562(c)(3)(B)(i), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “group or individual health insurance coverage” for “group health insurance coverage in connection with a group health plan” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(3)(B)(i), formerly § 1562(c)(3)(B)(i), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “group or individual health insurance coverage” for “group health insurance coverage in connection with a group health plan” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 111–148, § 1563(c)(3)(B)(ii)][/us/pl/111/148/s1563/c/3/B/ii], formerly § 1562(c)(3)(B)(ii), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “plan or coverage” for “plan”.
+    Subsec. (b)(1). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(3)(B)(ii), formerly § 1562(c)(3)(B)(ii), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “plan or coverage” for “plan”.
 
-    Subsec. (c)(2). [Pub. L. 111–148, § 1563(c)(3)(C)(i)][/us/pl/111/148/s1563/c/3/C/i], formerly § 1562(c)(3)(C)(i), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “health insurance issuer offering group or individual health insurance coverage” for “group health insurance coverage offered by a health insurance issuer”.
+    Subsec. (c)(2). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(3)(C)(i), formerly § 1562(c)(3)(C)(i), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “health insurance issuer offering group or individual health insurance coverage” for “group health insurance coverage offered by a health insurance issuer”.
 
-    Subsec. (c)(3). [Pub. L. 111–148, § 1563(c)(3)(C)(ii)][/us/pl/111/148/s1563/c/3/C/ii], formerly § 1562(c)(3)(C)(ii), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “health insurance issuer” for “issuer”.
+    Subsec. (c)(3). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(3)(C)(ii), formerly § 1562(c)(3)(C)(ii), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “health insurance issuer” for “issuer”.
 
-    Subsec. (e). [Pub. L. 111–148, § 1563(c)(3)(D)][/us/pl/111/148/s1563/c/3/D], formerly § 1562(c)(3)(D), as renumbered by [Pub. L. 111–148, § 10107(b)(1)][/us/pl/111/148/s10107/b/1], substituted “group or individual health insurance coverage” for “group health insurance coverage”.
+    Subsec. (e). [Pub. L. 111–148][/us/pl/111/148], § 1563(c)(3)(D), formerly § 1562(c)(3)(D), as renumbered by [Pub. L. 111–148][/us/pl/111/148], § 10107(b)(1), substituted “group or individual health insurance coverage” for “group health insurance coverage”.
 
  __Effective Date__ 
 
-[Pub. L. 104–204, title VI, § 604(c)][/us/pl/104/204/s604/c], Sept. 26, 1996, [110 Stat. 2941][/us/stat/110/2941], provided that: 
+[Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 604(c), Sept. 26, 1996, [110 Stat. 2941][/us/stat/110/2941], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 300gg–21 and 300gg–23 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
 
  __Congressional Findings__ 
 
-[Pub. L. 104–204, title VI, § 602][/us/pl/104/204/s602], Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935], provided that: 
+[Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 602, Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935], provided that: 
 
 > “Congress finds that—
 
@@ -136,30 +136,30 @@
 
 [/us/usc/t29/s1185/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185%2Fd
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/104/204/s604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs604%2Fa%2F3
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2939
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s300gg–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9323
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/usc/t42/s300gg–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%934
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s1563/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F3%2FA
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F3%2FB%2Fi
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F3%2FB%2Fii
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F3%2FC%2Fi
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F3%2FC%2Fii
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/111/148/s1563/c/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Fc%2F3%2FD
-[/us/pl/111/148/s10107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10107%2Fb%2F1
-[/us/pl/104/204/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs604%2Fc
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2941
-[/us/pl/104/204/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs602
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2935
 
 

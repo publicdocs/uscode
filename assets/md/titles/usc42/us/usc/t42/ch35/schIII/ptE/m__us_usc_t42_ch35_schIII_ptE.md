@@ -17,11 +17,11 @@
 
  __Prior Provisions__ 
 
-    A prior part E, consisting of section 3030l of this title, related to authorization of grant program for States to provide additional assistance for special needs of older individuals, prior to repeal by [Pub. L. 106–501, title III, § 314(1)][/us/pl/106/501/s314/1], Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253]. See Prior Provisions note set out under [section 3030g–22 of this title][/us/usc/t42/s3030g–22].
+    A prior part E, consisting of section 3030l of this title, related to authorization of grant program for States to provide additional assistance for special needs of older individuals, prior to repeal by [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 314(1), Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253]. See Prior Provisions note set out under [section 3030g–22 of this title][/us/usc/t42/s3030g–22].
 
     A prior part F of this subchapter, consisting of sections 3030m to 3030o of this title, was redesignated part D of this subchapter.
 
-    A prior part G of this subchapter consisting of sections 3030p to 3030r of this title, related to supportive activities for caretakers who provide in-home services to frail older individuals, prior to repeal by [Pub. L. 106–501, title III, § 316(1)][/us/pl/106/501/s316/1], Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253]. See Prior Provisions notes set out under [section 3030n of this title][/us/usc/t42/s3030n].
+    A prior part G of this subchapter consisting of sections 3030p to 3030r of this title, related to supportive activities for caretakers who provide in-home services to frail older individuals, prior to repeal by [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 316(1), Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253]. See Prior Provisions notes set out under [section 3030n of this title][/us/usc/t42/s3030n].
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/106/501/s314/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs314%2F1
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2253
 [/us/usc/t42/s3030g–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030g%E2%80%9322
-[/us/pl/106/501/s316/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs316%2F1
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2253
 [/us/usc/t42/s3030n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030n
 

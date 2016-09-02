@@ -43,7 +43,7 @@
 
             (B) any other act, omission, or occurrence for which the United States or the legal organization associated with the Federal firefighter is legally responsible under the laws applicable to the foreign fire organization.
 
-([Pub. L. 100–428, § 4][/us/pl/100/428/s4], as added [Pub. L. 112–74, div. E, title IV, § 411(5)][/us/pl/112/74/s411/5], Dec. 23, 2011, [125 Stat. 1040][/us/stat/125/1040].)
+([Pub. L. 100–428][/us/pl/100/428], § 4, as added [Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 411(5), Dec. 23, 2011, [125 Stat. 1040][/us/stat/125/1040].)
 
  __Prior Provisions__ 
 
@@ -57,8 +57,8 @@
 ----------
 
 [/us/usc/t42/s1856n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1856n
-[/us/pl/100/428/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F428%2Fs4
-[/us/pl/112/74/s411/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs411%2F5
+[/us/pl/100/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F428
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1040
 [/us/pl/100/428/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F428%2Fs4
 

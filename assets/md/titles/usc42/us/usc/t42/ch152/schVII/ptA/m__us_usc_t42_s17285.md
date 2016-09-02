@@ -41,7 +41,7 @@
 
         (2) continue to produce safe, abundant, and affordable food, feed, and fiber.
 
-([Pub. L. 110–140, title VIII, § 806][/us/pl/110/140/s806], Dec. 19, 2007, [121 Stat. 1722][/us/stat/121/1722].)
+([Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 806, Dec. 19, 2007, [121 Stat. 1722][/us/stat/121/1722].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs806
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1722
 
 

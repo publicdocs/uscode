@@ -73,7 +73,7 @@
 
         In carrying out activities of the Centers of Excellence or other programs under this section, the Secretary shall not duplicate other Federal foodborne illness response efforts.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–5, as added [Pub. L. 111–353, title II, § 210(b)][/us/pl/111/353/s210/b], Jan. 4, 2011, [124 Stat. 3950][/us/stat/124/3950].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399V–5, as added [Pub. L. 111–353, title II][/us/pl/111/353/tII], § 210(b), Jan. 4, 2011, [124 Stat. 3950][/us/stat/124/3950].)
 
 ----------
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/353/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs210%2Fb
+[/us/pl/111/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2FtII
 [/us/stat/124/3950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3950
 
 

@@ -155,7 +155,7 @@
 
             If an individual is not, or is not reasonably expected to be for the entire period for which enrollment is sought, a citizen or national of the United States or an alien lawfully present in the United States, the individual shall not be treated as a qualified individual and may not be covered under a qualified health plan in the individual market that is offered through an Exchange.
 
-([Pub. L. 111–148, title I, § 1312][/us/pl/111/148/s1312], title X, § 10104(i), Mar. 23, 2010, [124 Stat. 182][/us/stat/124/182], 901.)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1312, title X, § 10104(i), Mar. 23, 2010, [124 Stat. 182][/us/stat/124/182], 901.)
 
  __References in Text__ 
 
@@ -167,13 +167,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–148, § 10104(i)(1)][/us/pl/111/148/s10104/i/1], inserted “and for which such individual is eligible” before period at end.
+    2010—Subsec. (a)(1). [Pub. L. 111–148][/us/pl/111/148], § 10104(i)(1), inserted “and for which such individual is eligible” before period at end.
 
-    Subsec. (e). [Pub. L. 111–148, § 10104(i)(2)(B)][/us/pl/111/148/s10104/i/2/B], struck out concluding provisions which read as follows: “Such procedures may include the establishment of rate schedules for broker commissions paid by health benefits plans offered through an exchange.”
+    Subsec. (e). [Pub. L. 111–148][/us/pl/111/148], § 10104(i)(2)(B), struck out concluding provisions which read as follows: “Such procedures may include the establishment of rate schedules for broker commissions paid by health benefits plans offered through an exchange.”
 
-    Subsec. (e)(1). [Pub. L. 111–148, § 10104(i)(2)(A)][/us/pl/111/148/s10104/i/2/A], inserted “and employers” after “enroll individuals”.
+    Subsec. (e)(1). [Pub. L. 111–148][/us/pl/111/148], § 10104(i)(2)(A), inserted “and employers” after “enroll individuals”.
 
-    Subsec. (f)(1)(A)(ii). [Pub. L. 111–148, § 10104(i)(3)][/us/pl/111/148/s10104/i/3], struck out “(except with respect to territorial agreements under this subsection)” before period at end.
+    Subsec. (f)(1)(A)(ii). [Pub. L. 111–148][/us/pl/111/148], § 10104(i)(3), struck out “(except with respect to territorial agreements under this subsection)” before period at end.
 
 ----------
 
@@ -186,7 +186,7 @@
 [/us/usc/t42/s18022/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fe
 [/us/usc/t42/s18022/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18022%2Fe%2F2
 [/us/usc/t26/s5000A/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5000A%2Ff
-[/us/pl/111/148/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1312
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F182
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
@@ -194,9 +194,9 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
-[/us/pl/111/148/s10104/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fi%2F1
-[/us/pl/111/148/s10104/i/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fi%2F2%2FB
-[/us/pl/111/148/s10104/i/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fi%2F2%2FA
-[/us/pl/111/148/s10104/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fi%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

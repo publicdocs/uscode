@@ -53,7 +53,7 @@
 
             From the amount reserved pursuant to [section 629f(b)(4)(A) of this title][/us/usc/t42/s629f/b/4/A] for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section, that has provided to the Secretary such documentation as may be necessary to verify that the State has complied with [section 629f(b)(4)(B)(ii) of this title][/us/usc/t42/s629f/b/4/B/ii] during the fiscal year, an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, “subsection (e)(2)” shall be substituted for “such paragraph (1)”.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 433, as added [Pub. L. 103–66, title XIII, § 13711(a)(2)][/us/pl/103/66/s13711/a/2], Aug. 10, 1993, [107 Stat. 653][/us/stat/107/653]; amended [Pub. L. 107–133, title I][/us/pl/107/133], §§ 103, 106(a)(2), Jan. 17, 2002, [115 Stat. 2415][/us/stat/115/2415], 2417; [Pub. L. 109–288][/us/pl/109/288], §§ 4(a)(2), 5(b)(1)(A), 6(f)(4), Sept. 28, 2006, [120 Stat. 1237][/us/stat/120/1237], 1242, 1247; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (D), (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (D), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 112–34, title I, § 102(g)(2)][/us/pl/112/34/s102/g/2], Sept. 30, 2011, [125 Stat. 372][/us/stat/125/372].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 433, as added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13711(a)(2), Aug. 10, 1993, [107 Stat. 653][/us/stat/107/653]; amended [Pub. L. 107–133, title I][/us/pl/107/133/tI], §§ 103, 106(a)(2), Jan. 17, 2002, [115 Stat. 2415][/us/stat/115/2415], 2417; [Pub. L. 109–288][/us/pl/109/288], §§ 4(a)(2), 5(b)(1)(A), 6(f)(4), Sept. 28, 2006, [120 Stat. 1237][/us/stat/120/1237], 1242, 1247; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (D), (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 112–34, title I][/us/pl/112/34/tI], § 102(g)(2), Sept. 30, 2011, [125 Stat. 372][/us/stat/125/372].)
 
  __Codification__ 
 
@@ -65,33 +65,33 @@
 
  __Amendments__ 
 
-    2011—Subsec. (c)(2). [Pub. L. 112–34, § 102(g)(2)(A)][/us/pl/112/34/s102/g/2/A], substituted “Supplemental nutrition assistance program benefits” for “Food stamp” in heading.
+    2011—Subsec. (c)(2). [Pub. L. 112–34][/us/pl/112/34], § 102(g)(2)(A), substituted “Supplemental nutrition assistance program benefits” for “Food stamp” in heading.
 
-    Subsec. (c)(2)(A). [Pub. L. 112–34, § 102(g)(2)(B)][/us/pl/112/34/s102/g/2/B], substituted “receiving supplemental nutrition assistance program benefits” for “receiving supplemental nutrition assistance program benefits benefits” in two places.
+    Subsec. (c)(2)(A). [Pub. L. 112–34][/us/pl/112/34], § 102(g)(2)(B), substituted “receiving supplemental nutrition assistance program benefits” for “receiving supplemental nutrition assistance program benefits benefits” in two places.
 
-    2008—Subsec. (c)(1). [Pub. L. 110–246, § 4002(b)(1)(D)][/us/pl/110/246/s4002/b/1/D], (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+    2008—Subsec. (c)(1). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
-    Subsec. (c)(2)(A). [Pub. L. 110–246, § 4002(b)(1)(D)][/us/pl/110/246/s4002/b/1/D], (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing.
+    Subsec. (c)(2)(A). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing.
 
-    [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(V), made technical amendment to reference in original act which appears in text as reference to [section 2025(c) of title 7][/us/usc/t7/s2025/c].
+    [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(V), made technical amendment to reference in original act which appears in text as reference to [section 2025(c) of title 7][/us/usc/t7/s2025/c].
 
-    Subsec. (e)(2). [Pub. L. 110–246, § 4002(b)(1)(D)][/us/pl/110/246/s4002/b/1/D], (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+    Subsec. (e)(2). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
-    2006—Subsec. (a). [Pub. L. 109–288, § 5(b)(1)(A)][/us/pl/109/288/s5/b/1/A], inserted “or tribal consortia” after “tribes” in heading and inserted at end of text “If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.”
+    2006—Subsec. (a). [Pub. L. 109–288][/us/pl/109/288], § 5(b)(1)(A), inserted “or tribal consortia” after “tribes” in heading and inserted at end of text “If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.”
 
-    Subsec. (b). [Pub. L. 109–288, § 6(f)(4)][/us/pl/109/288/s6/f/4], substituted “section 623” for “section 621”.
+    Subsec. (b). [Pub. L. 109–288][/us/pl/109/288], § 6(f)(4), substituted “section 623” for “section 621”.
 
-    Subsec. (d). [Pub. L. 109–288, § 4(a)(2)(A)][/us/pl/109/288/s4/a/2/A], inserted “subsection (a), (b), or (c) of” after “to a State under” and “specified in”.
+    Subsec. (d). [Pub. L. 109–288][/us/pl/109/288], § 4(a)(2)(A), inserted “subsection (a), (b), or (c) of” after “to a State under” and “specified in”.
 
-    Subsec. (e). [Pub. L. 109–288, § 4(a)(2)(B)][/us/pl/109/288/s4/a/2/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–288][/us/pl/109/288], § 4(a)(2)(B), added subsec. (e).
 
-    2002—Subsec. (a). [Pub. L. 107–133, § 106(a)(2)(A)][/us/pl/107/133/s106/a/2/A], substituted “section 629f(b)(3)” for “section 629(d)(3)”.
+    2002—Subsec. (a). [Pub. L. 107–133][/us/pl/107/133], § 106(a)(2)(A), substituted “section 629f(b)(3)” for “section 629(d)(3)”.
 
-    Subsec. (b). [Pub. L. 107–133, § 106(a)(2)(B)][/us/pl/107/133/s106/a/2/B], substituted “section 629f(a)” for “section 629(b)” and “section 629f(b)” for “section 629(d)”.
+    Subsec. (b). [Pub. L. 107–133][/us/pl/107/133], § 106(a)(2)(B), substituted “section 629f(a)” for “section 629(b)” and “section 629f(b)” for “section 629(d)”.
 
-    Subsec. (c)(1). [Pub. L. 107–133, § 106(a)(2)(C)][/us/pl/107/133/s106/a/2/C], substituted “section 629f(a)” for “section 629(b)” and “section 629f(b)” for “section 629(d)”.
+    Subsec. (c)(1). [Pub. L. 107–133][/us/pl/107/133], § 106(a)(2)(C), substituted “section 629f(a)” for “section 629(b)” and “section 629f(b)” for “section 629(d)”.
 
-    Subsec. (d). [Pub. L. 107–133, § 103][/us/pl/107/133/s103], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–133][/us/pl/107/133], § 103, added subsec. (d).
 
  __Effective Date of 2011 Amendment__ 
 
@@ -132,17 +132,17 @@
 [/us/usc/t42/s629f/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629f%2Fb%2F4%2FA
 [/us/usc/t42/s629f/b/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629f%2Fb%2F4%2FB%2Fii
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/66/s13711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13711%2Fa%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F653
-[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
+[/us/pl/107/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2FtI
 [/us/stat/115/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2415
 [/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
 [/us/stat/120/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1237
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/34/s102/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fg%2F2
+[/us/pl/112/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2FtI
 [/us/stat/125/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F372
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -150,21 +150,21 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t42/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs633
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
-[/us/pl/112/34/s102/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fg%2F2%2FA
-[/us/pl/112/34/s102/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs102%2Fg%2F2%2FB
-[/us/pl/110/246/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FD
-[/us/pl/110/246/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FD
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s2025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc
-[/us/pl/110/246/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FD
-[/us/pl/109/288/s5/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs5%2Fb%2F1%2FA
-[/us/pl/109/288/s6/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs6%2Ff%2F4
-[/us/pl/109/288/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs4%2Fa%2F2%2FA
-[/us/pl/109/288/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288%2Fs4%2Fa%2F2%2FB
-[/us/pl/107/133/s106/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs106%2Fa%2F2%2FA
-[/us/pl/107/133/s106/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs106%2Fa%2F2%2FB
-[/us/pl/107/133/s106/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs106%2Fa%2F2%2FC
-[/us/pl/107/133/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133%2Fs103
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/109/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F288
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
+[/us/pl/107/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F133
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/112/34/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs107
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622

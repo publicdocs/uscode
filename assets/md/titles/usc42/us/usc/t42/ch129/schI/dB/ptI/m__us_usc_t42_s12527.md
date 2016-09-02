@@ -27,13 +27,13 @@
 
         If a State, territory, Indian tribe, or local educational agency is prohibited by law from providing for the participation of students or teachers from private nonprofit schools as required by subsection (a), or if the Corporation determines that a State, territory, Indian tribe, or local educational agency substantially fails or is unwilling to provide for such participation on an equitable basis, the Chief Executive Officer shall waive such requirements and shall arrange for the provision of services to such students and teachers.
 
-([Pub. L. 101–610, title I, § 115][/us/pl/101/610/s115], as added [Pub. L. 111–13, title I, § 1201][/us/pl/111/13/s1201], Apr. 21, 2009, [123 Stat. 1473][/us/stat/123/1473].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 115, as added [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1201, Apr. 21, 2009, [123 Stat. 1473][/us/stat/123/1473].)
 
  __Prior Provisions__ 
 
-    A prior section 12527, [Pub. L. 101–610, title I, § 115][/us/pl/101/610/s115], as added [Pub. L. 103–82, title I, § 103(a)(2)][/us/pl/103/82/s103/a/2], Sept. 21, 1993, [107 Stat. 830][/us/stat/107/830], related to consideration of applications, prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
+    A prior section 12527, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 115, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 103(a)(2), Sept. 21, 1993, [107 Stat. 830][/us/stat/107/830], related to consideration of applications, prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
 
-    Another prior section 12527, [Pub. L. 101–610, title I, § 117][/us/pl/101/610/s117], Nov. 16, 1990, [104 Stat. 3138][/us/stat/104/3138]; [Pub. L. 102–10, § 4(5)][/us/pl/102/10/s4/5], Mar. 12, 1991, [105 Stat. 30][/us/stat/105/30], prescribed authorized uses of funds, prior to repeal by [Pub. L. 103–82, § 103(a)(2)][/us/pl/103/82/s103/a/2].
+    Another prior section 12527, [Pub. L. 101–610, title I][/us/pl/101/610/tI], § 117, Nov. 16, 1990, [104 Stat. 3138][/us/stat/104/3138]; [Pub. L. 102–10][/us/pl/102/10], § 4(5), Mar. 12, 1991, [105 Stat. 30][/us/stat/105/30], prescribed authorized uses of funds, prior to repeal by [Pub. L. 103–82][/us/pl/103/82], § 103(a)(2).
 
     A prior [section 115 of Pub. L. 101–610][/us/pl/101/610/s115] was classified to [section 12525 of this title][/us/usc/t42/s12525] prior to repeal by [Pub. L. 103–82][/us/pl/103/82].
 
@@ -44,18 +44,18 @@
 ----------
 ----------
 
-[/us/pl/101/610/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs115
-[/us/pl/111/13/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1201
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1473
-[/us/pl/101/610/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs115
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F830
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
-[/us/pl/101/610/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs117
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3138
-[/us/pl/102/10/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10%2Fs4%2F5
+[/us/pl/102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F10
 [/us/stat/105/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F30
-[/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/101/610/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs115
 [/us/usc/t42/s12525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12525
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

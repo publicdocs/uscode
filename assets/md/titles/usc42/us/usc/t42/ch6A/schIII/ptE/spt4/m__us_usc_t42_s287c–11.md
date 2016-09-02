@@ -65,11 +65,11 @@
 
         As used in this section, the term “dietary supplement” has the meaning given the term in [section 321(ff) of title 21][/us/usc/t21/s321/ff].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 485C, as added [Pub. L. 103–417, § 13(a)][/us/pl/103/417/s13/a], Oct. 25, 1994, [108 Stat. 4334][/us/stat/108/4334]; amended [Pub. L. 109–482, title I, § 103(b)(43)][/us/pl/109/482/s103/b/43], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 485C, as added [Pub. L. 103–417][/us/pl/103/417], § 13(a), Oct. 25, 1994, [108 Stat. 4334][/us/stat/108/4334]; amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(43), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __References in Text__ 
 
-    The Office of Alternative Medicine, referred to in subsec. (c)(2), probably should be a reference to the National Center for Complementary and Integrative Health. Establishment of the Office of Alternative Medicine was repealed and authority for the National Center for Complementary and Alternative Medicine was enacted by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VI, § 601\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–387. The National Center for Complementary and Alternative Medicine was renamed the National Center for Complementary and Integrative Health by [Pub. L. 113–235, div. G, title II, § 224(1)][/us/pl/113/235/s224/1], Dec. 16, 2014, [128 Stat. 2490][/us/stat/128/2490]. See [section 287c–21 of this title][/us/usc/t42/s287c–21] and Prior Provisions note under [section 283g of this title][/us/usc/t42/s283g].
+    The Office of Alternative Medicine, referred to in subsec. (c)(2), probably should be a reference to the National Center for Complementary and Integrative Health. Establishment of the Office of Alternative Medicine was repealed and authority for the National Center for Complementary and Alternative Medicine was enacted by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VI, § 601\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–387. The National Center for Complementary and Alternative Medicine was renamed the National Center for Complementary and Integrative Health by [Pub. L. 113–235, div. G, title II][/us/pl/113/235/dG/tII], § 224(1), Dec. 16, 2014, [128 Stat. 2490][/us/stat/128/2490]. See [section 287c–21 of this title][/us/usc/t42/s287c–21] and Prior Provisions note under [section 283g of this title][/us/usc/t42/s283g].
 
  __Amendments__ 
 
@@ -88,13 +88,13 @@
 
 [/us/usc/t21/s321/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fff
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/417/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417%2Fs13%2Fa
+[/us/pl/103/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F417
 [/us/stat/108/4334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4334
-[/us/pl/109/482/s103/b/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F43
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/235/s224/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F1
+[/us/pl/113/235/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtII
 [/us/stat/128/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2490
 [/us/usc/t42/s287c–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs287c%E2%80%9321
 [/us/usc/t42/s283g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283g

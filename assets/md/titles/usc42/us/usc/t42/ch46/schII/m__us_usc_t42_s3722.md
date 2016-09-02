@@ -79,37 +79,37 @@
 
         (5) exercise the powers and functions set out in subchapter VIII of this chapter.
 
-([Pub. L. 90–351, title I, § 202][/us/pl/90/351/s202], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1172][/us/stat/93/1172]; amended [Pub. L. 98–473, title II, § 604(b)][/us/pl/98/473/s604/b], Oct. 12, 1984, [98 Stat. 2078][/us/stat/98/2078]; [Pub. L. 103–322, title XXXIII, § 330001(h)(1)][/us/pl/103/322/s330001/h/1], Sept. 13, 1994, [108 Stat. 2139][/us/stat/108/2139]; [Pub. L. 107–296, title II, § 237][/us/pl/107/296/s237], Nov. 25, 2002, [116 Stat. 2162][/us/stat/116/2162]; [Pub. L. 112–166, § 2(h)(3)][/us/pl/112/166/s2/h/3], Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 202, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1172][/us/stat/93/1172]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 604(b), Oct. 12, 1984, [98 Stat. 2078][/us/stat/98/2078]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330001(h)(1), Sept. 13, 1994, [108 Stat. 2139][/us/stat/108/2139]; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 237, Nov. 25, 2002, [116 Stat. 2162][/us/stat/116/2162]; [Pub. L. 112–166][/us/pl/112/166], § 2(h)(3), Aug. 10, 2012, [126 Stat. 1285][/us/stat/126/1285].)
 
  __Prior Provisions__ 
 
-    A prior section 3722, [Pub. L. 90–351, title I, § 202][/us/pl/90/351/s202], June 19, 1968, [82 Stat. 198][/us/stat/82/198]; [Pub. L. 93–83, § 2][/us/pl/93/83/s2], Aug. 6, 1973, [87 Stat. 198][/us/stat/87/198], provided for making of grants to State planning agencies, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
+    A prior section 3722, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 202, June 19, 1968, [82 Stat. 198][/us/stat/82/198]; [Pub. L. 93–83][/us/pl/93/83], § 2, Aug. 6, 1973, [87 Stat. 198][/us/stat/87/198], provided for making of grants to State planning agencies, prior to the general amendment of this chapter by [Pub. L. 96–157][/us/pl/96/157].
 
  __Amendments__ 
 
     2012—Subsec. (b). [Pub. L. 112–166][/us/pl/112/166] struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
-    2002—Subsec. (c)(3). [Pub. L. 107–296, § 237(1)][/us/pl/107/296/s237/1], inserted “, including cost effectiveness where practical,” after “evaluate the effectiveness”.
+    2002—Subsec. (c)(3). [Pub. L. 107–296][/us/pl/107/296], § 237(1), inserted “, including cost effectiveness where practical,” after “evaluate the effectiveness”.
 
-    Subsec. (c)(10), (11). [Pub. L. 107–296, § 237(2)][/us/pl/107/296/s237/2], added pars. (10) and (11).
+    Subsec. (c)(10), (11). [Pub. L. 107–296][/us/pl/107/296], § 237(2), added pars. (10) and (11).
 
     1994—Subsec. (c)(2)(E). [Pub. L. 103–322][/us/pl/103/322] substituted “crime,” for “crime,,”.
 
-    1984—Subsec. (b). [Pub. L. 98–473, § 604(b)(1)][/us/pl/98/473/s604/b/1], required Director to report to Attorney General through Assistant Attorney General.
+    1984—Subsec. (b). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(1), required Director to report to Attorney General through Assistant Attorney General.
 
-    Subsec. (c)(2)(A). [Pub. L. 98–473, § 604(b)(2)(A)(i)][/us/pl/98/473/s604/b/2/A/i], struck out “, including programs authorized by [section 3713 of this title][/us/usc/t42/s3713]” after “system goals”.
+    Subsec. (c)(2)(A). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(A)(i), struck out “, including programs authorized by [section 3713 of this title][/us/usc/t42/s3713]” after “system goals”.
 
-    Subsec. (c)(2)(E). [Pub. L. 98–473, § 604(b)(2)(A)(ii)][/us/pl/98/473/s604/b/2/A/ii], struck out “the prevention and reduction of parental kidnaping” after “reduction of crime,”.
+    Subsec. (c)(2)(E). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(A)(ii), struck out “the prevention and reduction of parental kidnaping” after “reduction of crime,”.
 
-    Subsec. (c)(3). [Pub. L. 98–473, § 604(b)(2)(B)][/us/pl/98/473/s604/b/2/B], substituted “chapter” for “subchapter”.
+    Subsec. (c)(3). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(B), substituted “chapter” for “subchapter”.
 
-    Subsec. (c)(4) to (7). [Pub. L. 98–473, § 604(b)(2)(C)][/us/pl/98/473/s604/b/2/C], (F), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) relating to evaluation of programs and projects under other subchapters of this chapter to determine their impact upon criminal and civil justice systems and achievement of purposes and policies of this chapter and for dissemination of information.
+    Subsec. (c)(4) to (7). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(C), (F), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) relating to evaluation of programs and projects under other subchapters of this chapter to determine their impact upon criminal and civil justice systems and achievement of purposes and policies of this chapter and for dissemination of information.
 
-    Subsec. (c)(8). [Pub. L. 98–473, § 604(b)(2)(D)(i)][/us/pl/98/473/s604/b/2/D/i], (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V of this chapter” for “subchapter VI of this chapter”. Former par. (8) redesignated (7).
+    Subsec. (c)(8). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V of this chapter” for “subchapter VI of this chapter”. Former par. (8) redesignated (7).
 
-    Subsec. (c)(9). [Pub. L. 98–473, § 604(b)(2)(E)][/us/pl/98/473/s604/b/2/E], (F), redesignated par. (11) as (9), and struck out former par. (9) relating to a biennial report to President and Congress on state of justice research.
+    Subsec. (c)(9). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(E), (F), redesignated par. (11) as (9), and struck out former par. (9) relating to a biennial report to President and Congress on state of justice research.
 
-    Subsec. (c)(10), (11). [Pub. L. 98–473, § 604(b)(2)(F)][/us/pl/98/473/s604/b/2/F], redesignated pars. (10) and (11) as (8) and (9), respectively.
+    Subsec. (c)(10), (11). [Pub. L. 98–473][/us/pl/98/473], § 604(b)(2)(F), redesignated pars. (10) and (11) as (8) and (9), respectively.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -125,7 +125,7 @@
 
  __Report on Drug-testing Technologies__ 
 
-[Pub. L. 107–273, div. B, title II, § 2201][/us/pl/107/273/s2201], Nov. 2, 2002, [116 Stat. 1793][/us/stat/116/1793], provided that:
+[Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2201, Nov. 2, 2002, [116 Stat. 1793][/us/stat/116/1793], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -137,7 +137,7 @@
 
  __Anti-Stalking Legislation Evaluation, Model Development, Dissemination and Report__ 
 
-    [Pub. L. 102–395, title I, § 109(b)][/us/pl/102/395/s109/b], Oct. 6, 1992, [106 Stat. 1842][/us/stat/106/1842], directed Attorney General, acting through Director of National Institute of Justice, to evaluate existing and proposed anti-stalking legislation in the States, develop model anti-stalking legislation that is constitutional and enforceable, prepare and disseminate to State authorities the findings made as a result of such evaluation, and report to Congress the findings and the need or appropriateness of further action by the Federal Government by Sept. 30, 1993.
+    [Pub. L. 102–395, title I][/us/pl/102/395/tI], § 109(b), Oct. 6, 1992, [106 Stat. 1842][/us/stat/106/1842], directed Attorney General, acting through Director of National Institute of Justice, to evaluate existing and proposed anti-stalking legislation in the States, develop model anti-stalking legislation that is constitutional and enforceable, prepare and disseminate to State authorities the findings made as a result of such evaluation, and report to Congress the findings and the need or appropriateness of further action by the Federal Government by Sept. 30, 1993.
 
 ----------
 
@@ -146,35 +146,35 @@
 ----------
 ----------
 
-[/us/pl/90/351/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs202
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1172
-[/us/pl/98/473/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2078
-[/us/pl/103/322/s330001/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330001%2Fh%2F1
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2139
-[/us/pl/107/296/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs237
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2162
-[/us/pl/112/166/s2/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fh%2F3
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1285
-[/us/pl/90/351/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs202
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
 [/us/stat/82/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F198
-[/us/pl/93/83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F83%2Fs2
+[/us/pl/93/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F83
 [/us/stat/87/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F198
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/107/296/s237/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs237%2F1
-[/us/pl/107/296/s237/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs237%2F2
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/98/473/s604/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fb%2F1
-[/us/pl/98/473/s604/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fb%2F2%2FA%2Fi
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t42/s3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3713
-[/us/pl/98/473/s604/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fb%2F2%2FA%2Fii
-[/us/pl/98/473/s604/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fb%2F2%2FB
-[/us/pl/98/473/s604/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fb%2F2%2FC
-[/us/pl/98/473/s604/b/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fb%2F2%2FD%2Fi
-[/us/pl/98/473/s604/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fb%2F2%2FE
-[/us/pl/98/473/s604/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs604%2Fb%2F2%2FF
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113
@@ -184,9 +184,9 @@
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s609AA/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609AA%2Fa
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
-[/us/pl/107/273/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2201
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1793
-[/us/pl/102/395/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2Fs109%2Fb
+[/us/pl/102/395/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtI
 [/us/stat/106/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1842
 
 

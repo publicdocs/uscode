@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary to carry out this subpart $200,000,000, to remain available until expended.
 
-([Pub. L. 109–58, title VII, § 723][/us/pl/109/58/s723], Aug. 8, 2005, [119 Stat. 821][/us/stat/119/821].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 723, Aug. 8, 2005, [119 Stat. 821][/us/stat/119/821].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs723
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F821
 
 

@@ -39,7 +39,7 @@
 
         (6) such sums as are necessary for each of fiscal years 2011 through 2020.
 
-([Pub. L. 109–58, title VIII, § 809][/us/pl/109/58/s809], Aug. 8, 2005, [119 Stat. 851][/us/stat/119/851].)
+([Pub. L. 109–58, title VIII][/us/pl/109/58/tVIII], § 809, Aug. 8, 2005, [119 Stat. 851][/us/stat/119/851].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs809
+[/us/pl/109/58/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVIII
 [/us/stat/119/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F851
 
 

@@ -17,7 +17,7 @@
 
     In this Act and future Acts, up to 4 percent of program direction funds available to the National Energy Technology Laboratory may be used to support Department of Energy activities not included in this Fossil Energy account: Provided further, That in this Act and future Acts, the salaries for Federal employees performing research and development activities at the National Energy Technology Laboratory can continue to be funded from any appropriate DOE program accounts.
 
-([Pub. L. 110–161, div. C, title III][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1958][/us/stat/121/1958].)
+([Pub. L. 110–161, div. C, title III][/us/pl/110/161/dC/tIII], Dec. 26, 2007, [121 Stat. 1958][/us/stat/121/1958].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdC%2FtIII
 [/us/stat/121/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1958
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/stat/121/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1937

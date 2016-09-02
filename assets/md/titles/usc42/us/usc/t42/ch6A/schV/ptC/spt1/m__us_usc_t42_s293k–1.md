@@ -51,7 +51,7 @@
 
         There is authorized to be appropriated to carry out this section, $10,000,000 for the period of fiscal years 2011 through 2013.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 747A, as added [Pub. L. 111–148, title V, § 5302][/us/pl/111/148/s5302], Mar. 23, 2010, [124 Stat. 617][/us/stat/124/617].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 747A, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5302, Mar. 23, 2010, [124 Stat. 617][/us/stat/124/617].)
 
 ----------
 
@@ -64,7 +64,7 @@
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/usc/t20/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5302
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F617
 
 

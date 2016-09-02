@@ -17,7 +17,7 @@
 
     It is the intent of the Congress that the Secretary of Agriculture shall process applications for leases of National Forest System lands and for permits to explore, drill, and develop resources on land leased from the Forest Service, notwithstanding the current status of any plan being prepared under [section 1604 of title 16][/us/usc/t16/s1604].
 
-([Pub. L. 96–294, title II, § 262][/us/pl/96/294/s262], June 30, 1980, [94 Stat. 710][/us/stat/94/710].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 262, June 30, 1980, [94 Stat. 710][/us/stat/94/710].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
-[/us/pl/96/294/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs262
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F710
 
 

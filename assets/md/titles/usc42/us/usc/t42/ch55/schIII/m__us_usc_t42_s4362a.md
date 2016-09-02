@@ -17,7 +17,7 @@
 
     The Director of the National Center for Health Statistics and the head of the Center for Disease Control (or the successor to such entity) shall each serve as members of the Task Force on Environmental Cancer and Heart and Lung Disease established under [section 4362 of this title][/us/usc/t42/s4362].
 
-([Pub. L. 95–623, § 9][/us/pl/95/623/s9], Nov. 9, 1978, [92 Stat. 3455][/us/stat/92/3455].)
+([Pub. L. 95–623][/us/pl/95/623], § 9, Nov. 9, 1978, [92 Stat. 3455][/us/stat/92/3455].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III, § 312][/us/pl/102/531/s312], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
+    Centers for Disease Control changed to Centers for Disease Control and Prevention by [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312, Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504].
 
 ----------
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t42/s4362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4362
-[/us/pl/95/623/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623%2Fs9
+[/us/pl/95/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F623
 [/us/stat/92/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3455
-[/us/pl/102/531/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
 
 

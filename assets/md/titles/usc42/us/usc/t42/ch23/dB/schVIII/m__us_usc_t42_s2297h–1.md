@@ -23,7 +23,7 @@
 
         Proceeds from the sale of the United States’ interest in the Corporation shall be deposited in the general fund of the Treasury.
 
-([Pub. L. 104–134, title III, § 3103][/us/pl/104/134/s3103], Apr. 26, 1996, [110 Stat. 1321–336][/us/stat/110/1321-336].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3103, Apr. 26, 1996, [110 Stat. 1321–336][/us/stat/110/1321-336].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/134/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3103
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-336
 
 

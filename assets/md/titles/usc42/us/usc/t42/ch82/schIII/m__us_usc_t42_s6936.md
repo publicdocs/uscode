@@ -27,7 +27,7 @@
 
         (3) In the case of any unit in which the liner and leachate collection system has been installed pursuant to the requirements of this section and in good faith compliance with the Administrator’s regulations and guidance documents governing liners and leachate collection systems, no liner or leachate collection system which is different from that which was so installed pursuant to this section shall be required for such unit by the Administrator when issuing the first permit under [section 6925 of this title][/us/usc/t42/s6925] to such facility, except that the Administrator shall not be precluded from requiring installation of a new liner when the Administrator has reason to believe that any liner installed pursuant to the requirements of this section is leaking. The Administrator may, under [section 6924 of this title][/us/usc/t42/s6924], amend the requirements for liners and leachate collection systems required under this section as may be necessary to provide additional protection for human health and the environment.
 
-([Pub. L. 89–272, title II, § 3015][/us/pl/89/272/s3015], as added [Pub. L. 98–616, title II, § 243(a)][/us/pl/98/616/s243/a], Nov. 8, 1984, [98 Stat. 3260][/us/stat/98/3260].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 3015, as added [Pub. L. 98–616, title II][/us/pl/98/616/tII], § 243(a), Nov. 8, 1984, [98 Stat. 3260][/us/stat/98/3260].)
 
 ----------
 
@@ -43,8 +43,8 @@
 [/us/usc/t42/s6925/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fe
 [/us/usc/t42/s6925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925
 [/us/usc/t42/s6924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6924
-[/us/pl/89/272/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs3015
-[/us/pl/98/616/s243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs243%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtII
 [/us/stat/98/3260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3260
 
 

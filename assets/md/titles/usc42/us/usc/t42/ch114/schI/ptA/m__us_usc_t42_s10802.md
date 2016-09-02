@@ -59,33 +59,33 @@
 
     (8) The term “American Indian consortium” means a consortium established under part C of the Developmental Disabilities Assistance and Bill of Rights Act  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  ([42 U.S.C. 6042][/us/usc/t42/s6042] et seq.).
 
-([Pub. L. 99–319, title I, § 102][/us/pl/99/319/s102], May 23, 1986, [100 Stat. 478][/us/stat/100/478]; [Pub. L. 100–509, § 3][/us/pl/100/509/s3], Oct. 20, 1988, [102 Stat. 2543][/us/stat/102/2543]; [Pub. L. 102–173][/us/pl/102/173], §§ 4, 10(1), Nov. 27, 1991, [105 Stat. 1217][/us/stat/105/1217], 1219; [Pub. L. 106–310, div. B, title XXXII, § 3206(b)][/us/pl/106/310/s3206/b], Oct. 17, 2000, [114 Stat. 1194][/us/stat/114/1194]; [Pub. L. 106–402, title IV, § 401(b)(13)(A)][/us/pl/106/402/s401/b/13/A], Oct. 30, 2000, [114 Stat. 1739][/us/stat/114/1739].)
+([Pub. L. 99–319, title I][/us/pl/99/319/tI], § 102, May 23, 1986, [100 Stat. 478][/us/stat/100/478]; [Pub. L. 100–509][/us/pl/100/509], § 3, Oct. 20, 1988, [102 Stat. 2543][/us/stat/102/2543]; [Pub. L. 102–173][/us/pl/102/173], §§ 4, 10(1), Nov. 27, 1991, [105 Stat. 1217][/us/stat/105/1217], 1219; [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3206(b), Oct. 17, 2000, [114 Stat. 1194][/us/stat/114/1194]; [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(b)(13)(A), Oct. 30, 2000, [114 Stat. 1739][/us/stat/114/1739].)
 
  __References in Text__ 
 
     The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in par. (2), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677]. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title][/us/usc/t42/s15001] and Tables.
 
-    The Developmental Disabilities Assistance and Bill of Rights Act, referred to in par. (8), is title I of [Pub. L. 88–164][/us/pl/88/164], as added by [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2662][/us/stat/98/2662], which was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. Part C of the Act was classified generally to subchapter III (§ 6041 et seq.) of chapter 75 of this title. Provisions similar to former part C of the Act are contained in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000, [Pub. L. 106–402][/us/pl/106/402], which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title.
+    The Developmental Disabilities Assistance and Bill of Rights Act, referred to in par. (8), is title I of [Pub. L. 88–164][/us/pl/88/164], as added by [Pub. L. 98–527][/us/pl/98/527], § 2, Oct. 19, 1984, [98 Stat. 2662][/us/stat/98/2662], which was repealed by [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(a), Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. Part C of the Act was classified generally to subchapter III (§ 6041 et seq.) of chapter 75 of this title. Provisions similar to former part C of the Act are contained in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000, [Pub. L. 106–402][/us/pl/106/402], which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title.
 
  __Amendments__ 
 
     2000—Par. (2). [Pub. L. 106–402][/us/pl/106/402] substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act”.
 
-    Par. (4). [Pub. L. 106–310, § 3206(b)(1)(A)][/us/pl/106/310/s3206/b/1/A], inserted “, except as provided in [section 10804(d) of this title][/us/usc/t42/s10804/d],” after “means” in introductory provisions.
+    Par. (4). [Pub. L. 106–310][/us/pl/106/310], § 3206(b)(1)(A), inserted “, except as provided in [section 10804(d) of this title][/us/usc/t42/s10804/d],” after “means” in introductory provisions.
 
-    Par. (4)(B). [Pub. L. 106–310, § 3206(b)(1)(B)][/us/pl/106/310/s3206/b/1/B], designated existing provisions as cl. (i), redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
+    Par. (4)(B). [Pub. L. 106–310][/us/pl/106/310], § 3206(b)(1)(B), designated existing provisions as cl. (i), redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
 
-    Par. (8). [Pub. L. 106–310, § 3206(b)(2)][/us/pl/106/310/s3206/b/2], added par. (8).
+    Par. (8). [Pub. L. 106–310][/us/pl/106/310], § 3206(b)(2), added par. (8).
 
-    1991—Par. (1). [Pub. L. 102–173, § 10(1)][/us/pl/102/173/s10/1], substituted “individual with mental illness” for “mentally ill individual” wherever appearing.
+    1991—Par. (1). [Pub. L. 102–173][/us/pl/102/173], § 10(1), substituted “individual with mental illness” for “mentally ill individual” wherever appearing.
 
     Pars. (3) to (7). [Pub. L. 102–173][/us/pl/102/173] added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, and substituted “individual with mental illness” for “mentally ill individual” wherever appearing in pars. (4) and (5).
 
-    1988—Par. (1). [Pub. L. 100–509, § 3(1)][/us/pl/100/509/s3/1], inserted “or death” after “caused, injury”.
+    1988—Par. (1). [Pub. L. 100–509][/us/pl/100/509], § 3(1), inserted “or death” after “caused, injury”.
 
-    Par. (3)(B). [Pub. L. 100–509, § 3(2)][/us/pl/100/509/s3/2], designated existing provisions as cl. (i), substituted “, even if the whereabouts of such inpatient or resident are unknown;” for period at end, and added cls. (ii) and (iii).
+    Par. (3)(B). [Pub. L. 100–509][/us/pl/100/509], § 3(2), designated existing provisions as cl. (i), substituted “, even if the whereabouts of such inpatient or resident are unknown;” for period at end, and added cls. (ii) and (iii).
 
-    Par. (4). [Pub. L. 100–509, § 3(3)][/us/pl/100/509/s3/3], inserted “or death” after “injury” in two places and inserted before period at end “, including the failure to maintain adequate numbers of appropriately trained staff”.
+    Par. (4). [Pub. L. 100–509][/us/pl/100/509], § 3(3), inserted “or death” after “injury” in two places and inserted before period at end “, including the failure to maintain adequate numbers of appropriately trained staff”.
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -101,35 +101,35 @@
 [/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
 [/us/usc/t42/s10804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10804%2Fd
 [/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
-[/us/pl/99/319/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs102
+[/us/pl/99/319/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtI
 [/us/stat/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F478
-[/us/pl/100/509/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs3
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/stat/102/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2543
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
 [/us/stat/105/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1217
-[/us/pl/106/310/s3206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fb
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1194
-[/us/pl/106/402/s401/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F13%2FA
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1739
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
 [/us/pl/88/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164
-[/us/pl/98/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527%2Fs2
+[/us/pl/98/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527
 [/us/stat/98/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2662
-[/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
-[/us/pl/106/310/s3206/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fb%2F1%2FA
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/usc/t42/s10804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10804%2Fd
-[/us/pl/106/310/s3206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fb%2F1%2FB
-[/us/pl/106/310/s3206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fb%2F2
-[/us/pl/102/173/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173%2Fs10%2F1
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
-[/us/pl/100/509/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs3%2F1
-[/us/pl/100/509/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs3%2F2
-[/us/pl/100/509/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509%2Fs3%2F3
+[/us/pl/102/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F173
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
+[/us/pl/100/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F509
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

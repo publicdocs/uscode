@@ -41,7 +41,7 @@
 
         To carry out this section, there are authorized to be appropriated to the Administrator of the United States Agency for International Development $200,000,000 for each of the fiscal years 2008 through 2012.
 
-([Pub. L. 110–140, title IX, § 911][/us/pl/110/140/s911], Dec. 19, 2007, [121 Stat. 1725][/us/stat/121/1725].)
+([Pub. L. 110–140, title IX][/us/pl/110/140/tIX], § 911, Dec. 19, 2007, [121 Stat. 1725][/us/stat/121/1725].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs911
+[/us/pl/110/140/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIX
 [/us/stat/121/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1725
 
 

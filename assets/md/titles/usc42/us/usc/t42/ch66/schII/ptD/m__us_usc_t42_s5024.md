@@ -17,7 +17,7 @@
 
     Whenever locally generated contributions made to National Senior Service Corps projects under this subchapter are in excess of the amount required by the Director, the Director may not restrict the manner in which such contributions are expended if expenditures from locally generated contributions are not inconsistent with the provisions of this chapter.
 
-([Pub. L. 93–113, title II, § 224][/us/pl/93/113/s224], as added [Pub. L. 98–288, § 16(a)][/us/pl/98/288/s16/a], May 21, 1984, [98 Stat. 194][/us/stat/98/194]; amended [Pub. L. 99–551, § 10(b)(1)][/us/pl/99/551/s10/b/1], Oct. 27, 1986, [100 Stat. 3077][/us/stat/100/3077]; [Pub. L. 101–204, title IX, § 902(6)][/us/pl/101/204/s902/6], Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826]; [Pub. L. 103–82, title III, § 341(b)(3)][/us/pl/103/82/s341/b/3], Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904]; [Pub. L. 103–304, § 3(b)(9)][/us/pl/103/304/s3/b/9], Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568]; [Pub. L. 111–13, title II, § 2146(c)][/us/pl/111/13/s2146/c], Apr. 21, 2009, [123 Stat. 1589][/us/stat/123/1589].)
+([Pub. L. 93–113, title II][/us/pl/93/113/tII], § 224, as added [Pub. L. 98–288][/us/pl/98/288], § 16(a), May 21, 1984, [98 Stat. 194][/us/stat/98/194]; amended [Pub. L. 99–551][/us/pl/99/551], § 10(b)(1), Oct. 27, 1986, [100 Stat. 3077][/us/stat/100/3077]; [Pub. L. 101–204, title IX][/us/pl/101/204/tIX], § 902(6), Dec. 7, 1989, [103 Stat. 1826][/us/stat/103/1826]; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 341(b)(3), Sept. 21, 1993, [107 Stat. 904][/us/stat/107/904]; [Pub. L. 103–304][/us/pl/103/304], § 3(b)(9), Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568]; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2146(c), Apr. 21, 2009, [123 Stat. 1589][/us/stat/123/1589].)
 
  __References in Text__ 
 
@@ -54,18 +54,18 @@
 ----------
 ----------
 
-[/us/pl/93/113/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs224
-[/us/pl/98/288/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs16%2Fa
+[/us/pl/93/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtII
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F194
-[/us/pl/99/551/s10/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs10%2Fb%2F1
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3077
-[/us/pl/101/204/s902/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs902%2F6
+[/us/pl/101/204/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtIX
 [/us/stat/103/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1826
-[/us/pl/103/82/s341/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs341%2Fb%2F3
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F904
-[/us/pl/103/304/s3/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F9
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1568
-[/us/pl/111/13/s2146/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2146%2Fc
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1589
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

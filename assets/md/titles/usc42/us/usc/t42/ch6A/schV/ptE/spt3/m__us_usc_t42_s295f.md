@@ -79,7 +79,7 @@
 
         There is authorized to be appropriated $30,000,000 for each of fiscal years 2010 through 2014 to carry out subsection (c)(1)(A) and $20,000,000 for each of fiscal years 2010 through 2013 to carry out subsection (c)(1)(B).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 775, as added [Pub. L. 111–148, title V, § 5203][/us/pl/111/148/s5203], Mar. 23, 2010, [124 Stat. 607][/us/stat/124/607].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 775, as added [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5203, Mar. 23, 2010, [124 Stat. 607][/us/stat/124/607].)
 
  __References in Text__ 
 
@@ -87,9 +87,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 295f, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 770, as added Oct. 22, 1965, [Pub. L. 89–290, § 2(a)][/us/pl/89/290/s2/a], [79 Stat. 1052][/us/stat/79/1052]; amended Aug. 16, 1968, [Pub. L. 90–490, title I, § 111(a)][/us/pl/90/490/s111/a], [82 Stat. 774][/us/stat/82/774]; Nov. 18, 1971, [Pub. L. 92–157, title I, § 104(a)][/us/pl/92/157/s104/a], [85 Stat. 437][/us/stat/85/437]; Oct. 12, 1976, [Pub. L. 94–484, title I, § 101(k)][/us/pl/94/484/s101/k], title V, § 501(a)–(c), [90 Stat. 2245][/us/stat/90/2245], 2290, 2291; Aug. 13, 1981, [Pub. L. 97–35, title XXVII, § 2746(a)(1)][/us/pl/97/35/s2746/a/1], [95 Stat. 927][/us/stat/95/927]; Oct. 22, 1985, [Pub. L. 99–129, title II, § 211(a)(1)][/us/pl/99/129/s211/a/1], [99 Stat. 537][/us/stat/99/537]; Nov. 4, 1988, [Pub. L. 100–607, title VI, § 606(a)][/us/pl/100/607/s606/a], [102 Stat. 3127][/us/stat/102/3127], related to capitation grants for schools of public health, prior to repeal by [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 773, as added Nov. 4, 1988, [Pub. L. 100–607, title VI, § 606(b)][/us/pl/100/607/s606/b], [102 Stat. 3127][/us/stat/102/3127], effective Oct. 1, 1990.
+    A prior section 295f, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 770, as added Oct. 22, 1965, [Pub. L. 89–290][/us/pl/89/290], § 2(a), [79 Stat. 1052][/us/stat/79/1052]; amended Aug. 16, 1968, [Pub. L. 90–490, title I][/us/pl/90/490/tI], § 111(a), [82 Stat. 774][/us/stat/82/774]; Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 104(a), [85 Stat. 437][/us/stat/85/437]; Oct. 12, 1976, [Pub. L. 94–484, title I][/us/pl/94/484/tI], § 101(k), title V, § 501(a)–(c), [90 Stat. 2245][/us/stat/90/2245], 2290, 2291; Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2746(a)(1), [95 Stat. 927][/us/stat/95/927]; Oct. 22, 1985, [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 211(a)(1), [99 Stat. 537][/us/stat/99/537]; Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 606(a), [102 Stat. 3127][/us/stat/102/3127], related to capitation grants for schools of public health, prior to repeal by [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 773, as added Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 606(b), [102 Stat. 3127][/us/stat/102/3127], effective Oct. 1, 1990.
 
-    A prior section 775 of act July 1, 1944, was renumbered section 772 by [Pub. L. 94–484][/us/pl/94/484], and was classified to [section 295f–2 of this title][/us/usc/t42/s295f–2] prior to repeal by [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 773, as added Nov. 4, 1988, [Pub. L. 100–607, title VI, § 606(b)][/us/pl/100/607/s606/b], [102 Stat. 3127][/us/stat/102/3127].
+    A prior section 775 of act July 1, 1944, was renumbered section 772 by [Pub. L. 94–484][/us/pl/94/484], and was classified to [section 295f–2 of this title][/us/usc/t42/s295f–2] prior to repeal by [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 773, as added Nov. 4, 1988, [Pub. L. 100–607, title VI][/us/pl/100/607/tVI], § 606(b), [102 Stat. 3127][/us/stat/102/3127].
 
 ----------
 
@@ -99,31 +99,31 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s5203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5203
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F607
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/89/290/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290%2Fs2%2Fa
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/89/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F290
 [/us/stat/79/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1052
-[/us/pl/90/490/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2Fs111%2Fa
+[/us/pl/90/490/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtI
 [/us/stat/82/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F774
-[/us/pl/92/157/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs104%2Fa
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F437
-[/us/pl/94/484/s101/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs101%2Fk
+[/us/pl/94/484/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtI
 [/us/stat/90/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2245
-[/us/pl/97/35/s2746/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2746%2Fa%2F1
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F927
-[/us/pl/99/129/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs211%2Fa%2F1
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F537
-[/us/pl/100/607/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs606%2Fa
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3127
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs606%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3127
 [/us/pl/94/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484
 [/us/usc/t42/s295f–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295f%E2%80%932
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/100/607/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs606%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/100/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVI
 [/us/stat/102/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3127
 
 

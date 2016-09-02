@@ -125,7 +125,7 @@
 
                 Information obtained under subparagraph (B) regarding the medical condition or history of any employee are subject to the requirements of subparagraphs (B) and (C) of paragraph (3).
 
-([Pub. L. 101–336, title I, § 102][/us/pl/101/336/s102], July 26, 1990, [104 Stat. 331][/us/stat/104/331]; [Pub. L. 102–166, title I, § 109(b)(2)][/us/pl/102/166/s109/b/2], Nov. 21, 1991, [105 Stat. 1077][/us/stat/105/1077]; [Pub. L. 110–325, § 5(a)][/us/pl/110/325/s5/a], Sept. 25, 2008, [122 Stat. 3557][/us/stat/122/3557].)
+([Pub. L. 101–336, title I][/us/pl/101/336/tI], § 102, July 26, 1990, [104 Stat. 331][/us/stat/104/331]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], § 109(b)(2), Nov. 21, 1991, [105 Stat. 1077][/us/stat/105/1077]; [Pub. L. 110–325][/us/pl/110/325], § 5(a), Sept. 25, 2008, [122 Stat. 3557][/us/stat/122/3557].)
 
  __References in Text__ 
 
@@ -133,9 +133,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–325, § 5(a)(1)][/us/pl/110/325/s5/a/1], substituted “on the basis of disability” for “with a disability because of the disability of such individual”.
+    2008—Subsec. (a). [Pub. L. 110–325][/us/pl/110/325], § 5(a)(1), substituted “on the basis of disability” for “with a disability because of the disability of such individual”.
 
-    Subsec. (b). [Pub. L. 110–325, § 5(a)(2)][/us/pl/110/325/s5/a/2], substituted “discriminate against a qualified individual on the basis of disability” for “discriminate” in introductory provisions.
+    Subsec. (b). [Pub. L. 110–325][/us/pl/110/325], § 5(a)(2), substituted “discriminate against a qualified individual on the basis of disability” for “discriminate” in introductory provisions.
 
     1991—Subsecs. (c), (d). [Pub. L. 102–166][/us/pl/102/166] added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -154,17 +154,17 @@
 ----------
 ----------
 
-[/us/pl/101/336/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs102
+[/us/pl/101/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtI
 [/us/stat/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F331
-[/us/pl/102/166/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs109%2Fb%2F2
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1077
-[/us/pl/110/325/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs5%2Fa
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3557
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/110/325/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs5%2Fa%2F1
-[/us/pl/110/325/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs5%2Fa%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/pl/110/325/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs8

@@ -69,31 +69,31 @@
 
         (K) encourages individuals who distribute nutrition services under subpart II to provide, to homebound older individuals, available medical information approved by health care professionals, such as informational brochures and information on how to get vaccines, including vaccines for influenza, pneumonia, and shingles, in the individuals’ communities.
 
-([Pub. L. 89–73, title III, § 339][/us/pl/89/73/s339], as added [Pub. L. 106–501, title III, § 313][/us/pl/106/501/s313], Nov. 13, 2000, [114 Stat. 2252][/us/stat/114/2252]; amended [Pub. L. 109–365, title III, § 316][/us/pl/109/365/s316], Oct. 17, 2006, [120 Stat. 2548][/us/stat/120/2548].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 339, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 313, Nov. 13, 2000, [114 Stat. 2252][/us/stat/114/2252]; amended [Pub. L. 109–365, title III][/us/pl/109/365/tIII], § 316, Oct. 17, 2006, [120 Stat. 2548][/us/stat/120/2548].)
 
  __Codification__ 
 
-    [Pub. L. 106–501, § 313][/us/pl/106/501/s313], which directed amendment of subpart 4 of part C of title III of the Older Americans Act of 1965 ([Pub. L. 89–73][/us/pl/89/73]) by striking section 339 and inserting this section, was executed in this subpart, which is subpart 3 of part C of title III of the Act, by repealing prior section 3030g–21, and inserting this section, to reflect the probable intent of Congress and the redesignation of subpart 4 of part C of title III of the Act as subpart 3 by [Pub. L. 106–501, § 312(b)][/us/pl/106/501/s312/b].
+    [Pub. L. 106–501][/us/pl/106/501], § 313, which directed amendment of subpart 4 of part C of title III of the Older Americans Act of 1965 ([Pub. L. 89–73][/us/pl/89/73]) by striking section 339 and inserting this section, was executed in this subpart, which is subpart 3 of part C of title III of the Act, by repealing prior section 3030g–21, and inserting this section, to reflect the probable intent of Congress and the redesignation of subpart 4 of part C of title III of the Act as subpart 3 by [Pub. L. 106–501][/us/pl/106/501], § 312(b).
 
  __Prior Provisions__ 
 
-    A prior section 3030g–21, [Pub. L. 89–73, title III, § 339][/us/pl/89/73/s339], as added [Pub. L. 102–375, title III, § 317][/us/pl/102/375/s317], Sept. 30, 1992, [106 Stat. 1241][/us/stat/106/1241], related to compliance with dietary guidelines prior to repeal by [Pub. L. 106–501, title III, § 313][/us/pl/106/501/s313], Nov. 13, 2000, [114 Stat. 2252][/us/stat/114/2252]. See Codification note above.
+    A prior section 3030g–21, [Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 339, as added [Pub. L. 102–375, title III][/us/pl/102/375/tIII], § 317, Sept. 30, 1992, [106 Stat. 1241][/us/stat/106/1241], related to compliance with dietary guidelines prior to repeal by [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 313, Nov. 13, 2000, [114 Stat. 2252][/us/stat/114/2252]. See Codification note above.
 
  __Amendments__ 
 
-    2006—Par. (1). [Pub. L. 109–365, § 316(1)][/us/pl/109/365/s316/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “solicit the advice of a dietitian or individual with comparable expertise in the planning of nutritional services, and”.
+    2006—Par. (1). [Pub. L. 109–365][/us/pl/109/365], § 316(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “solicit the advice of a dietitian or individual with comparable expertise in the planning of nutritional services, and”.
 
-    Par. (2)(A)(i). [Pub. L. 109–365, § 316(2)(A)(i)][/us/pl/109/365/s316/2/A/i], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “comply with the Dietary Guidelines for Americans, published by the Secretary and the Secretary of Agriculture,”.
+    Par. (2)(A)(i). [Pub. L. 109–365][/us/pl/109/365], § 316(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “comply with the Dietary Guidelines for Americans, published by the Secretary and the Secretary of Agriculture,”.
 
-    Par. (2)(A)(ii)(I). [Pub. L. 109–365, § 316(2)(A)(ii)][/us/pl/109/365/s316/2/A/ii], substituted “dietary reference intakes” for “daily recommended dietary allowances as”.
+    Par. (2)(A)(ii)(I). [Pub. L. 109–365][/us/pl/109/365], § 316(2)(A)(ii), substituted “dietary reference intakes” for “daily recommended dietary allowances as”.
 
-    Par. (2)(D). [Pub. L. 109–365, § 316(2)(B)][/us/pl/109/365/s316/2/B], inserted “joint” after “encourages”.
+    Par. (2)(D). [Pub. L. 109–365][/us/pl/109/365], § 316(2)(B), inserted “joint” after “encourages”.
 
-    Par. (2)(G). [Pub. L. 109–365, § 316(2)(C)][/us/pl/109/365/s316/2/C], amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “ensures that meal providers carry out such project with the advice of dietitians (or individuals with comparable expertise), meal participants, and other individuals knowledgeable with regard to the needs of older individuals,”.
+    Par. (2)(G). [Pub. L. 109–365][/us/pl/109/365], § 316(2)(C), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “ensures that meal providers carry out such project with the advice of dietitians (or individuals with comparable expertise), meal participants, and other individuals knowledgeable with regard to the needs of older individuals,”.
 
-    Par. (2)(H). [Pub. L. 109–365, § 316(2)(D)][/us/pl/109/365/s316/2/D], struck out “and accompany” after “home with”.
+    Par. (2)(H). [Pub. L. 109–365][/us/pl/109/365], § 316(2)(D), struck out “and accompany” after “home with”.
 
-    Par. (2)(J), (K). [Pub. L. 109–365, § 316(2)(E)][/us/pl/109/365/s316/2/E], (F), added subpars. (J) and (K) and struck out former subpar. (J) which read as follows: “provide for nutrition screening and, where appropriate, for nutrition education and counseling.”
+    Par. (2)(J), (K). [Pub. L. 109–365][/us/pl/109/365], § 316(2)(E), (F), added subpars. (J) and (K) and struck out former subpar. (J) which read as follows: “provide for nutrition screening and, where appropriate, for nutrition education and counseling.”
 
 ----------
 
@@ -103,25 +103,25 @@
 ----------
 
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
-[/us/pl/89/73/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs339
-[/us/pl/106/501/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs313
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2252
-[/us/pl/109/365/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs316
+[/us/pl/109/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIII
 [/us/stat/120/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2548
-[/us/pl/106/501/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs313
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
-[/us/pl/106/501/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs312%2Fb
-[/us/pl/89/73/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs339
-[/us/pl/102/375/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs317
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/102/375/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtIII
 [/us/stat/106/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1241
-[/us/pl/106/501/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs313
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2252
-[/us/pl/109/365/s316/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs316%2F1
-[/us/pl/109/365/s316/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs316%2F2%2FA%2Fi
-[/us/pl/109/365/s316/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs316%2F2%2FA%2Fii
-[/us/pl/109/365/s316/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs316%2F2%2FB
-[/us/pl/109/365/s316/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs316%2F2%2FC
-[/us/pl/109/365/s316/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs316%2F2%2FD
-[/us/pl/109/365/s316/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs316%2F2%2FE
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 
 

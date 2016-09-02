@@ -43,7 +43,7 @@
 
         (5) Encouragement of cooperation, coordination, and mutual support between private sector and other entities and organizations and Federal agencies to combat human trafficking, including the involvement of State, local, and tribal government agencies to the extent Federal programs are involved.
 
-([Pub. L. 114–22, title VI, § 606][/us/pl/114/22/s606], May 29, 2015, [129 Stat. 260][/us/stat/129/260].)
+([Pub. L. 114–22, title VI][/us/pl/114/22/tVI], § 606, May 29, 2015, [129 Stat. 260][/us/stat/129/260].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs606
+[/us/pl/114/22/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtVI
 [/us/stat/129/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F260
 
 

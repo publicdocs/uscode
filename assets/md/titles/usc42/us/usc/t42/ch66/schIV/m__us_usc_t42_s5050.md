@@ -17,7 +17,7 @@
 
     The Director shall take necessary steps to coordinate volunteer programs authorized under this chapter with one another, with community action programs, and with other related Fed­eral, State, and local programs. The Director shall also consult with the heads of other Federal, State, and local agencies responsible for programs related to the purposes of this chapter with a view to encouraging greater use of volunteer services in those programs and establishing in connection with them systematic procedures for the recruitment, referral, or necessary preservice orientation or training of volunteers serving pursuant to this chapter. The Director, in consultation with the Director of the Office of Personnel Management and the Secretaries of Labor, Commerce, and the Treasury and officials of other appropriate departments and agencies, shall take all appropriate steps to encourage State and local governments, charitable and service organizations, and private employers (1) to take into account experience in volunteer work in the consideration of applicants for employment; and (2) to make provisions for the listing and description of volunteer work on all employment application forms.
 
-([Pub. L. 93–113, title IV, § 410][/us/pl/93/113/s410], Oct. 1, 1973, [87 Stat. 410][/us/stat/87/410]; [Pub. L. 96–143, § 10][/us/pl/96/143/s10], Dec. 13, 1979, [93 Stat. 1078][/us/stat/93/1078].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 410, Oct. 1, 1973, [87 Stat. 410][/us/stat/87/410]; [Pub. L. 96–143][/us/pl/96/143], § 10, Dec. 13, 1979, [93 Stat. 1078][/us/stat/93/1078].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/113/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs410
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
 [/us/stat/87/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F410
-[/us/pl/96/143/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs10
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1078
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

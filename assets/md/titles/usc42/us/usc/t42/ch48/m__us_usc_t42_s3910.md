@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3907.md) | [Next](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3911.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3910)
+[Previous](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3908 _us_usc_t42_s3909.md) | [Next](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3911.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3910)
 
 ## § 3910. Omitted
 
  __Codification__ 
 
-    Section, [Pub. L. 90–448, title IV, § 411][/us/pl/90/448/s411], Aug. 1, 1968, [82 Stat. 516][/us/stat/82/516], which related to real property taxation was omitted pursuant to [section 4528 of this title][/us/usc/t42/s4528], which terminated authority to guarantee bonds, debentures, notes, or other obligations under this chapter after Dec. 31, 1970, with exceptions now inapplicable.
+    Section, [Pub. L. 90–448, title IV][/us/pl/90/448/tIV], § 411, Aug. 1, 1968, [82 Stat. 516][/us/stat/82/516], which related to real property taxation was omitted pursuant to [section 4528 of this title][/us/usc/t42/s4528], which terminated authority to guarantee bonds, debentures, notes, or other obligations under this chapter after Dec. 31, 1970, with exceptions now inapplicable.
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3907.md) | [Next](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3911.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3910)
+[Previous](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3908 _us_usc_t42_s3909.md) | [Next](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3911.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3910)
 
 ----------
 ----------
 
-[/us/pl/90/448/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs411
+[/us/pl/90/448/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtIV
 [/us/stat/82/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F516
 [/us/usc/t42/s4528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4528
 

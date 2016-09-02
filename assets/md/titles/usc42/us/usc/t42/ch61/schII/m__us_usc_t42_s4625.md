@@ -59,7 +59,7 @@
 
         Notwithstanding [section 4601(1) of this title][/us/usc/t42/s4601/1], in any case in which a displacing agency acquires property for a program or project, any person who occupies such property on a rental basis for a short term or a period subject to termination when the property is needed for the program or project shall be eligible for advisory services to the extent determined by the displacing agency.
 
-([Pub. L. 91–646, title II, § 205][/us/pl/91/646/s205], Jan. 2, 1971, [84 Stat. 1897][/us/stat/84/1897]; [Pub. L. 100–17, title IV, § 408][/us/pl/100/17/s408], Apr. 2, 1987, [101 Stat. 252][/us/stat/101/252].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 205, Jan. 2, 1971, [84 Stat. 1897][/us/stat/84/1897]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 408, Apr. 2, 1987, [101 Stat. 252][/us/stat/101/252].)
 
  __References in Text__ 
 
@@ -82,9 +82,9 @@
 
 [/us/usc/t42/s5122/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122%2F2
 [/us/usc/t42/s4601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601%2F1
-[/us/pl/91/646/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs205
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1897
-[/us/pl/100/17/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs408
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F252
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

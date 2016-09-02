@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall use the same assessment methodology across all geological provinces, areas, and regions in preparing and issuing national geological assessments to ensure accurate comparisons of geological resources.
 
-([Pub. L. 109–58, title III, § 364(b)][/us/pl/109/58/s364/b], Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 364(b), Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs364%2Fb
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F723
 
 

@@ -201,7 +201,7 @@
 
                 If a provision of any agreement between the United States and the Russian Federation, other than the Russian HEU Agreement, relating to the importation of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, into the United States conflicts with a provision of this section, the provision of this section shall supersede the provision of the agreement to the extent of the conflict.
 
-([Pub. L. 104–134, title III, § 3112A][/us/pl/104/134/s3112A], as added [Pub. L. 110–329, div. C, title VIII, § 8118(2)][/us/pl/110/329/s8118/2], Sept. 30, 2008, [122 Stat. 3647][/us/stat/122/3647].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3112A, as added [Pub. L. 110–329, div. C, title VIII][/us/pl/110/329/dC/tVIII], § 8118(2), Sept. 30, 2008, [122 Stat. 3647][/us/stat/122/3647].)
 
  __Codification__ 
 
@@ -216,8 +216,8 @@
 
 [/us/usc/t42/s2297h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%2F4
 [/us/usc/t42/s2297h/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297h%2F11
-[/us/pl/104/134/s3112A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3112A
-[/us/pl/110/329/s8118/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs8118%2F2
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
+[/us/pl/110/329/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdC%2FtVIII
 [/us/stat/122/3647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3647
 
 

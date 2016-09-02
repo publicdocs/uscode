@@ -37,27 +37,27 @@
 
     (10) Freedom, independence, and the free exercise of individual initiative in planning and managing their own lives, full participation in the planning and operation of community-based services and programs provided for their benefit, and protection against abuse, neglect, and exploitation.
 
-([Pub. L. 89–73, title I, § 101][/us/pl/89/73/s101], July 14, 1965, [79 Stat. 219][/us/stat/79/219]; [Pub. L. 93–29, title I, § 102][/us/pl/93/29/s102], May 3, 1973, [87 Stat. 30][/us/stat/87/30]; [Pub. L. 95–478, title I, § 101][/us/pl/95/478/s101], Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513]; [Pub. L. 97–115, § 2(a)(1)][/us/pl/97/115/s2/a/1], Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 98–459, title I, § 102][/us/pl/98/459/s102], Oct. 9, 1984, [98 Stat. 1767][/us/stat/98/1767]; [Pub. L. 100–175, title I, § 101][/us/pl/100/175/s101], Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928]; [Pub. L. 102–375, title I, § 101][/us/pl/102/375/s101], title IX, § 904(a)(1), Sept. 30, 1992, [106 Stat. 1197][/us/stat/106/1197], 1305.)
+([Pub. L. 89–73, title I][/us/pl/89/73/tI], § 101, July 14, 1965, [79 Stat. 219][/us/stat/79/219]; [Pub. L. 93–29, title I][/us/pl/93/29/tI], § 102, May 3, 1973, [87 Stat. 30][/us/stat/87/30]; [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 101, Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513]; [Pub. L. 97–115][/us/pl/97/115], § 2(a)(1), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 98–459, title I][/us/pl/98/459/tI], § 102, Oct. 9, 1984, [98 Stat. 1767][/us/stat/98/1767]; [Pub. L. 100–175, title I][/us/pl/100/175/tI], § 101, Nov. 29, 1987, [101 Stat. 928][/us/stat/101/928]; [Pub. L. 102–375, title I][/us/pl/102/375/tI], § 101, title IX, § 904(a)(1), Sept. 30, 1992, [106 Stat. 1197][/us/stat/106/1197], 1305.)
 
  __Amendments__ 
 
-    1992—Par. (4). [Pub. L. 102–375, § 101][/us/pl/102/375/s101], inserted “, including support to family members and other persons providing voluntary care to older individuals needing long-term care services” after “homes”.
+    1992—Par. (4). [Pub. L. 102–375][/us/pl/102/375], § 101, inserted “, including support to family members and other persons providing voluntary care to older individuals needing long-term care services” after “homes”.
 
-    Par. (8). [Pub. L. 102–375, § 904(a)(1)][/us/pl/102/375/s904/a/1], substituted “vulnerable older individuals” for “the vulnerable elderly”.
+    Par. (8). [Pub. L. 102–375][/us/pl/102/375], § 904(a)(1), substituted “vulnerable older individuals” for “the vulnerable elderly”.
 
-    1987—[Pub. L. 100–175, § 101(1)][/us/pl/100/175/s101/1], substituted “United States,” for “United States and” and inserted “, and of Indian tribes” after “subdivisions”.
+    1987—[Pub. L. 100–175][/us/pl/100/175], § 101(1), substituted “United States,” for “United States and” and inserted “, and of Indian tribes” after “subdivisions”.
 
-    Par. (3). [Pub. L. 100–175, § 101(2)][/us/pl/100/175/s101/2], substituted “Obtaining and maintaining suitable” for “Suitable”.
+    Par. (3). [Pub. L. 100–175][/us/pl/100/175], § 101(2), substituted “Obtaining and maintaining suitable” for “Suitable”.
 
-    Par. (7). [Pub. L. 100–175, § 101(3)][/us/pl/100/175/s101/3], substituted “Participating in and contributing to” for “Pursuit of”.
+    Par. (7). [Pub. L. 100–175][/us/pl/100/175], § 101(3), substituted “Participating in and contributing to” for “Pursuit of”.
 
-    Par. (10). [Pub. L. 100–175, § 101(4)][/us/pl/100/175/s101/4], substituted “lives,” for “lives and”, and inserted “, and protection against abuse, neglect, and exploitation” before period at end.
+    Par. (10). [Pub. L. 100–175][/us/pl/100/175], § 101(4), substituted “lives,” for “lives and”, and inserted “, and protection against abuse, neglect, and exploitation” before period at end.
 
-    1984—Par. (4). [Pub. L. 98–459, § 102(a)][/us/pl/98/459/s102/a], inserted reference to a comprehensive array of community-based, long-term care services adequate to appropriately sustain older people in their communities and in their homes.
+    1984—Par. (4). [Pub. L. 98–459][/us/pl/98/459], § 102(a), inserted reference to a comprehensive array of community-based, long-term care services adequate to appropriately sustain older people in their communities and in their homes.
 
-    Par. (8). [Pub. L. 98–459, § 102(b)][/us/pl/98/459/s102/b], inserted reference to emphasis on maintaining a continuum of care for the vulnerable elderly.
+    Par. (8). [Pub. L. 98–459][/us/pl/98/459], § 102(b), inserted reference to emphasis on maintaining a continuum of care for the vulnerable elderly.
 
-    Par. (10). [Pub. L. 98–459, § 102(c)][/us/pl/98/459/s102/c], inserted reference to full participation in the planning and operation of community-based services and programs provided for the benefit of older people.
+    Par. (10). [Pub. L. 98–459][/us/pl/98/459], § 102(c), inserted reference to full participation in the planning and operation of community-based services and programs provided for the benefit of older people.
 
     1981—Par. (7). [Pub. L. 97–115][/us/pl/97/115] included a reference to education and training.
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 103–171, § 4(b)][/us/pl/103/171/s4/b], Dec. 2, 1993, [107 Stat. 1991][/us/stat/107/1991], provided that: 
+[Pub. L. 103–171][/us/pl/103/171], § 4(b), Dec. 2, 1993, [107 Stat. 1991][/us/stat/107/1991], provided that: 
 
 > “The amendments made by—
 
@@ -77,7 +77,7 @@
 
 >     of the Older Americans Act Amendments of 1992 ([Public Law 102–375][/us/pl/102/375]; [106 Stat. 1221][/us/stat/106/1221] et seq.) shall not apply with respect to fiscal year 1993.”
 
-[Pub. L. 102–375, title IX, § 905][/us/pl/102/375/s905], Sept. 30, 1992, [106 Stat. 1309][/us/stat/106/1309], provided that:
+[Pub. L. 102–375, title IX][/us/pl/102/375/tIX], § 905, Sept. 30, 1992, [106 Stat. 1309][/us/stat/106/1309], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -111,7 +111,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–175, title VII, § 701][/us/pl/100/175/s701], Nov. 29, 1987, [101 Stat. 983][/us/stat/101/983], provided that:
+[Pub. L. 100–175, title VII][/us/pl/100/175/tVII], § 701, Nov. 29, 1987, [101 Stat. 983][/us/stat/101/983], provided that:
 
 >     “(a)  __General Effective Date__  __.—__ 
 
@@ -133,7 +133,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–459, title VIII, § 803][/us/pl/98/459/s803], Oct. 9, 1984, [98 Stat. 1793][/us/stat/98/1793], provided that:
+[Pub. L. 98–459, title VIII][/us/pl/98/459/tVIII], § 803, Oct. 9, 1984, [98 Stat. 1793][/us/stat/98/1793], provided that:
 
 >     “(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, and 3037b of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, [section 3056 of this title][/us/usc/t42/s3056], and [section 631 of Title 29][/us/usc/t29/s631], and amending provisions set out as a note under former [section 3045 of this title][/us/usc/t42/s3045]\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1984\].
 
@@ -149,119 +149,119 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–478, title V, § 504][/us/pl/95/478/s504], Oct. 18, 1978, [92 Stat. 1559][/us/stat/92/1559], provided that: 
+[Pub. L. 95–478, title V][/us/pl/95/478/tV], § 504, Oct. 18, 1978, [92 Stat. 1559][/us/stat/92/1559], provided that: 
 
 > “This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–19, § 1][/us/pl/110/19/s1], Apr. 23, 2007, [121 Stat. 84][/us/stat/121/84], provided that: 
+[Pub. L. 110–19][/us/pl/110/19], § 1, Apr. 23, 2007, [121 Stat. 84][/us/stat/121/84], provided that: 
 
 > “This Act \[amending [section 3030a of this title][/us/usc/t42/s3030a] and enacting provisions set out as a note under [section 3030a of this title][/us/usc/t42/s3030a]\] may be cited as the ‘Older Americans Reauthorization Technical Corrections Act’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–365, § 1(a)][/us/pl/109/365/s1/a], Oct. 17, 2006, [120 Stat. 2522][/us/stat/120/2522], provided that: 
+[Pub. L. 109–365][/us/pl/109/365], § 1(a), Oct. 17, 2006, [120 Stat. 2522][/us/stat/120/2522], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Amendments of 2006’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–501, § 1][/us/pl/106/501/s1], Nov. 13, 2000, [114 Stat. 2226][/us/stat/114/2226], provided that: 
+[Pub. L. 106–501][/us/pl/106/501], § 1, Nov. 13, 2000, [114 Stat. 2226][/us/stat/114/2226], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Amendments of 2000’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–171, § 1][/us/pl/103/171/s1], Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], provided that: 
+[Pub. L. 103–171][/us/pl/103/171], § 1, Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Technical Amendments of 1993’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–375, § 1(a)][/us/pl/102/375/s1/a], Sept. 30, 1992, [106 Stat. 1195][/us/stat/106/1195], provided that: 
+[Pub. L. 102–375][/us/pl/102/375], § 1(a), Sept. 30, 1992, [106 Stat. 1195][/us/stat/106/1195], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Amendments of 1992’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–175, § 1][/us/pl/100/175/s1], Nov. 29, 1987, [101 Stat. 926][/us/stat/101/926], provided that: 
+[Pub. L. 100–175][/us/pl/100/175], § 1, Nov. 29, 1987, [101 Stat. 926][/us/stat/101/926], provided that: 
 
 > “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and [section 2 of Title 29][/us/usc/t29/s2], Labor, and repealing provisions set out as a note under [section 3058 of this title][/us/usc/t42/s3058]\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–269, § 1][/us/pl/99/269/s1], Apr. 1, 1986, [100 Stat. 78][/us/stat/100/78], provided: 
+[Pub. L. 99–269][/us/pl/99/269], § 1, Apr. 1, 1986, [100 Stat. 78][/us/stat/100/78], provided: 
 
 > “That this Act \[amending [section 3030a of this title][/us/usc/t42/s3030a] and enacting provisions set out as notes under [section 3030a of this title][/us/usc/t42/s3030a]\] may be cited as the ‘Older Americans Act Amendments of 1986’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–459, § 1][/us/pl/98/459/s1], Oct. 9, 1984, [98 Stat. 1767][/us/stat/98/1767], provided that: 
+[Pub. L. 98–459][/us/pl/98/459], § 1, Oct. 9, 1984, [98 Stat. 1767][/us/stat/98/1767], provided that: 
 
 > “This Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, 3037b, and 3058 to 3058d of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title, and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 3056 and 3058 of this title, and [section 631 of Title 29][/us/usc/t29/s631], and amending provisions set out as a note under [section 3045 of this title][/us/usc/t42/s3045]\] may be cited as the ‘Older Americans Act Amendments of 1984’.”
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–115, § 1(a)][/us/pl/97/115/s1/a], Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595], provided that: 
+[Pub. L. 97–115][/us/pl/97/115], § 1(a), Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595], provided that: 
 
 > “This act \[enacting sections 3031, 3032, 3035 to 3035e, 3037, and 3037a of this title, amending this section, sections 3002 to 3003, 3012, 3013, 3015 to 3020d, 3021 to 3028, 3030, 3030a, 3030d, 3030g, 3035b, 3035e, 3036, 3056, 3056a, 3056c, 3056d, 3056f, 3057 to 3057g, 8622, 9902 to 9904, and 9911 of this title, and [section 1087–2 of Title 20][/us/usc/t20/s1087–2], Education, repealing [section 3014 of this title][/us/usc/t42/s3014], and enacting a provision set out as a note under [section 3045 of this title][/us/usc/t42/s3045]\] may be cited as the ‘Older Americans Act Amendments of 1981’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–478, § 1(a)][/us/pl/95/478/s1/a], Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513], provided that: 
+[Pub. L. 95–478][/us/pl/95/478], § 1(a), Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513], provided that: 
 
 > “This Act \[enacting sections 3020b to 3020d, 3030 to 3030g, 3035b to 3035h, 3057 to 3057g and 6106a of this title, amending this section, sections 3002, 3011 to 3017, 3020a, 3021 to 3029, 3031 to 3035, 3036 to 3037a, 3056 to 3056f, 5001, 5011, 5012, 5082, 6101, 6103 and 6104 of this title, repealing sections 3035a, 3041 to 3041f, 3042 and 3045 to 3045i of this title, enacting provisions set out as notes under this section and sections 1975c, 3021, and 3045 of this title, amending provisions set out as a note under this section, and repealing provision set out as a note under [section 3056 of this title][/us/usc/t42/s3056]\] may be cited as the ‘Comprehensive Older Americans Act Amendments of 1978’.”
 
  __Short Title of 1975 Amendment__ 
 
-[Pub. L. 94–135, § 1][/us/pl/94/135/s1], Nov. 28, 1975, [89 Stat. 713][/us/stat/89/713], provided: 
+[Pub. L. 94–135][/us/pl/94/135], § 1, Nov. 28, 1975, [89 Stat. 713][/us/stat/89/713], provided: 
 
 > “That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082 of this title and sections 1008a, 1208a, and 1341 of Title 20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under [section 5001 of this title][/us/usc/t42/s5001] and [section 871 of Title 29][/us/usc/t29/s871], Labor, and amending provisions set out as a note under [section 2809 of this title][/us/usc/t42/s2809]\] may be cited as the ‘Older Americans Amendments of 1975’.”
 
  __Short Title of 1973 Amendment__ 
 
-[Pub. L. 93–29, § 1][/us/pl/93/29/s1], May 3, 1973, [87 Stat. 30][/us/stat/87/30], provided: 
+[Pub. L. 93–29][/us/pl/93/29], § 1, May 3, 1973, [87 Stat. 30][/us/stat/87/30], provided: 
 
 > “That this Act \[enacting chapter 35A of this title, subchs. III to V of this chapter, sections 3003, 3012, 3013 to 3020, 3044, 3045 of this title, and sections 351, 351c, 361 to 364, 1008a, and 1208a of Title 20, Education, amending this section, sections 3011, 3012, 3044a, 3044b, 3044e, and 3045a to 3045f of this title, and sections 351c, 351d, 351e, 1211, 1504, and 1505 of Title 20, repealing former subchs. III (sections 3021 to 3024a, and 3025 of this title), IV (sections 3031 and 3032 of this title), V (sections 3041 to 3043 of this title), and VIII (sections 3051 to 3055 of this title) of this chapter, and enacting provisions set out as notes under sections 2809, 3044b, and 3061 of this title and [section 361 of Title 20][/us/usc/t20/s361]\] may be cited as the ‘Older Americans Comprehensive Services Amendments of 1973’.”
 
  __Short Title of 1967 Amendment__ 
 
-[Pub. L. 90–42, § 1][/us/pl/90/42/s1], July 1, 1967, [81 Stat. 106][/us/stat/81/106], provided: 
+[Pub. L. 90–42][/us/pl/90/42], § 1, July 1, 1967, [81 Stat. 106][/us/stat/81/106], provided: 
 
 > “That this Act \[enacting [section 3043 of this title][/us/usc/t42/s3043] and amending sections 3002, 3021, 3022, 3024, 3031, and 3051 to 3053 of this title\] may be cited as the ‘Older Americans Act Amendments of 1967’.”
 
  __Short Title__ 
 
-[Pub. L. 89–73, § 1][/us/pl/89/73/s1], July 14, 1965, [79 Stat. 218][/us/stat/79/218], provided: 
+[Pub. L. 89–73][/us/pl/89/73], § 1, July 14, 1965, [79 Stat. 218][/us/stat/79/218], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Older Americans Act of 1965’.”
 
-[Pub. L. 89–73, title III, § 371][/us/pl/89/73/s371], as added [Pub. L. 106–501, title III, § 316(2)][/us/pl/106/501/s316/2], Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253], provided that: 
+[Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 371, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 316(2), Nov. 13, 2000, [114 Stat. 2253][/us/stat/114/2253], provided that: 
 
 > “This part \[part E (§§ 371–376) of title III of [Pub. L. 89–73][/us/pl/89/73], enacting part E of subchapter III of this chapter\] may be cited as the ‘National Family Caregiver Support Act’.”
 
-[Pub. L. 89–73, title V, § 501][/us/pl/89/73/s501], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563], provided that: 
+[Pub. L. 89–73, title V][/us/pl/89/73/tV], § 501, as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563], provided that: 
 
 > “This title \[enacting subchapter IX of this chapter\] may be cited as the ‘Community Service Senior Opportunities Act’.”
 
-    [Pub. L. 89–73, title V, § 501][/us/pl/89/73/s501], as added [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2267][/us/stat/114/2267], provided that title V of [Pub. L. 89–73][/us/pl/89/73], enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of [Pub. L. 89–73][/us/pl/89/73] by [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563].
+    [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 501, as added [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2267][/us/stat/114/2267], provided that title V of [Pub. L. 89–73][/us/pl/89/73], enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of [Pub. L. 89–73][/us/pl/89/73] by [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563].
 
-    [Pub. L. 89–73, title V, § 501][/us/pl/89/73/s501], formerly title IX, § 901, as added by [Pub. L. 94–135, title I, § 113(a)][/us/pl/94/135/s113/a], Nov. 28, 1975, [89 Stat. 720][/us/stat/89/720], and renumbered by [Pub. L. 95–478, title I, § 105(a)][/us/pl/95/478/s105/a], Oct. 18, 1978, [92 Stat. 1547][/us/stat/92/1547], provided that title V of [Pub. L. 89–73][/us/pl/89/73], enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of [Pub. L. 89–73][/us/pl/89/73] by [Pub. L. 106–501, title V, § 501][/us/pl/106/501/s501], Nov. 13, 2000, [114 Stat. 2267][/us/stat/114/2267].
+    [Pub. L. 89–73, title V][/us/pl/89/73/tV], § 501, formerly title IX, § 901, as added by [Pub. L. 94–135, title I][/us/pl/94/135/tI], § 113(a), Nov. 28, 1975, [89 Stat. 720][/us/stat/89/720], and renumbered by [Pub. L. 95–478, title I][/us/pl/95/478/tI], § 105(a), Oct. 18, 1978, [92 Stat. 1547][/us/stat/92/1547], provided that title V of [Pub. L. 89–73][/us/pl/89/73], enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of [Pub. L. 89–73][/us/pl/89/73] by [Pub. L. 106–501, title V][/us/pl/106/501/tV], § 501, Nov. 13, 2000, [114 Stat. 2267][/us/stat/114/2267].
 
  __Regulations__ 
 
-[Pub. L. 102–375, title IX, § 902][/us/pl/102/375/s902], Sept. 30, 1992, [106 Stat. 1305][/us/stat/106/1305], provided that: 
+[Pub. L. 102–375, title IX][/us/pl/102/375/tIX], § 902, Sept. 30, 1992, [106 Stat. 1305][/us/stat/106/1305], provided that: 
 
 > “Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\].”
 
  __Study of Effectiveness of State Long-Term Care Ombudsman Programs__ 
 
-    [Pub. L. 102–375, title II, § 211][/us/pl/102/375/s211], Sept. 30, 1992, [106 Stat. 1215][/us/stat/106/1215], as amended by [Pub. L. 103–171, § 4(a)(2)][/us/pl/103/171/s4/a/2], Dec. 2, 1993, [107 Stat. 1991][/us/stat/107/1991], provided that not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
+    [Pub. L. 102–375, title II][/us/pl/102/375/tII], § 211, Sept. 30, 1992, [106 Stat. 1215][/us/stat/106/1215], as amended by [Pub. L. 103–171][/us/pl/103/171], § 4(a)(2), Dec. 2, 1993, [107 Stat. 1991][/us/stat/107/1991], provided that not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
 
  __Study on Board and Care Facility Quality__ 
 
-[Pub. L. 102–375, title II, § 212][/us/pl/102/375/s212], Sept. 30, 1992, [106 Stat. 1216][/us/stat/106/1216], provided that:
+[Pub. L. 102–375, title II][/us/pl/102/375/tII], § 212, Sept. 30, 1992, [106 Stat. 1216][/us/stat/106/1216], provided that:
 
 >     “(a)  __Arrangement for Study Committee__  __.—__ 
 
@@ -361,7 +361,7 @@
 
  __Study on Home Care Quality__ 
 
-[Pub. L. 102–375, title II, § 213][/us/pl/102/375/s213], Sept. 30, 1992, [106 Stat. 1218][/us/stat/106/1218], provided that:
+[Pub. L. 102–375, title II][/us/pl/102/375/tII], § 213, Sept. 30, 1992, [106 Stat. 1218][/us/stat/106/1218], provided that:
 
 >     “(a)  __Establishment Study of Committee__  __.—__ 
 
@@ -415,7 +415,7 @@
 
  __Long-Term Health Care Workers__ 
 
-[Pub. L. 102–375, title VIII][/us/pl/102/375], subtitle A, Sept. 30, 1992, [106 Stat. 1293–1295][/us/stat/106/1293-1295], provided that:
+[Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], subtitle A, Sept. 30, 1992, [106 Stat. 1293–1295][/us/stat/106/1293-1295], provided that:
 
 > “SEC. 801. __DEFINITIONS.__ 
 
@@ -571,13 +571,13 @@
 
  __Limitation on Authority To Enter Into Contracts__ 
 
-[Pub. L. 102–375, title IX, § 901][/us/pl/102/375/s901], Sept. 30, 1992, [106 Stat. 1305][/us/stat/106/1305], provided that: 
+[Pub. L. 102–375, title IX][/us/pl/102/375/tIX], § 901, Sept. 30, 1992, [106 Stat. 1305][/us/stat/106/1305], provided that: 
 
 > “Any authority to enter into contracts under this Act \[see Tables for classification\] or an amendment made by this Act shall be effective only to the extent or in such amounts as are provided in advance in appropriations Acts.”
 
  __White House Conference on Aging__ 
 
-[Pub. L. 100–175, title II][/us/pl/100/175], Nov. 29, 1987, [101 Stat. 967–971][/us/stat/101/967-971], as amended by [Pub. L. 102–375, title VIII][/us/pl/102/375], §§ 831–836, 839(a), Sept. 30, 1992, [106 Stat. 1300–1305][/us/stat/106/1300-1305]; [Pub. L. 103–171, § 6][/us/pl/103/171/s6], Dec. 2, 1993, [107 Stat. 1992][/us/stat/107/1992]; [Pub. L. 106–501, § 211][/us/pl/106/501/s211], Nov. 13, 2000, [114 Stat. 2235][/us/stat/114/2235]; [Pub. L. 109–365, title IX, § 901(a)][/us/pl/109/365/s901/a], Oct. 17, 2006, [120 Stat. 2598][/us/stat/120/2598], provided that:
+[Pub. L. 100–175, title II][/us/pl/100/175/tII], Nov. 29, 1987, [101 Stat. 967–971][/us/stat/101/967-971], as amended by [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], §§ 831–836, 839(a), Sept. 30, 1992, [106 Stat. 1300–1305][/us/stat/106/1300-1305]; [Pub. L. 103–171][/us/pl/103/171], § 6, Dec. 2, 1993, [107 Stat. 1992][/us/stat/107/1992]; [Pub. L. 106–501][/us/pl/106/501], § 211, Nov. 13, 2000, [114 Stat. 2235][/us/stat/114/2235]; [Pub. L. 109–365, title IX][/us/pl/109/365/tIX], § 901(a), Oct. 17, 2006, [120 Stat. 2598][/us/stat/120/2598], provided that:
 
 > “SEC. 201. __AUTHORIZATION OF THE CONFERENCE.__ 
 
@@ -781,13 +781,13 @@
 
     \[For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48][/us/usc/t48/s1681], Territories and Insular Possessions.\]
 
-\[[Pub. L. 102–375, title VIII, § 837][/us/pl/102/375/s837], Sept. 30, 1992, [106 Stat. 1304][/us/stat/106/1304], provided that: 
+\[[Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 837, Sept. 30, 1992, [106 Stat. 1304][/us/stat/106/1304], provided that: 
 
 > “All personnel assigned or engaged under \[former\] section 202(b) or section 203(a)(5) \[now section 202(a)(5)\] of the Older Americans Act Amendments of 1987 \[[Pub. L. 100–175][/us/pl/100/175], set out above\] ([42 U.S.C. 3001][/us/usc/t42/s3001] note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to be assigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of [Pub. L. 100–175][/us/pl/100/175], set out above\].”
 
 \]
 
-    [Pub. L. 95–478, title II][/us/pl/95/478], §§ 201–207, Oct. 18, 1978, [92 Stat. 1551–1554][/us/stat/92/1551-1554], as amended by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], authorized the President to call a White House Conference on Aging in 1981 to develop recommendations relating to economic well-being, health care, housing, social services, and employment of the aging.
+    [Pub. L. 95–478, title II][/us/pl/95/478/tII], §§ 201–207, Oct. 18, 1978, [92 Stat. 1551–1554][/us/stat/92/1551-1554], as amended by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], authorized the President to call a White House Conference on Aging in 1981 to develop recommendations relating to economic well-being, health care, housing, social services, and employment of the aging.
 
  __Executive Order No. 11022__ 
 
@@ -800,49 +800,49 @@
 ----------
 ----------
 
-[/us/pl/89/73/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs101
+[/us/pl/89/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtI
 [/us/stat/79/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F219
-[/us/pl/93/29/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs102
+[/us/pl/93/29/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtI
 [/us/stat/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F30
-[/us/pl/95/478/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs101
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1513
-[/us/pl/97/115/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs2%2Fa%2F1
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1595
-[/us/pl/98/459/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs102
+[/us/pl/98/459/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtI
 [/us/stat/98/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1767
-[/us/pl/100/175/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs101
+[/us/pl/100/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtI
 [/us/stat/101/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F928
-[/us/pl/102/375/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs101
+[/us/pl/102/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtI
 [/us/stat/106/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1197
-[/us/pl/102/375/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs101
-[/us/pl/102/375/s904/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs904%2Fa%2F1
-[/us/pl/100/175/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs101%2F1
-[/us/pl/100/175/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs101%2F2
-[/us/pl/100/175/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs101%2F3
-[/us/pl/100/175/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs101%2F4
-[/us/pl/98/459/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs102%2Fa
-[/us/pl/98/459/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs102%2Fb
-[/us/pl/98/459/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs102%2Fc
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
 [/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/93/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29
-[/us/pl/103/171/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs4%2Fb
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1991
 [/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/stat/106/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1221
-[/us/pl/102/375/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs905
+[/us/pl/102/375/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtIX
 [/us/stat/106/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1309
 [/us/usc/t42/s1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1766
 [/us/usc/t42/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3015
 [/us/usc/t42/s3056h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056h
-[/us/pl/100/175/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs701
+[/us/pl/100/175/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtVII
 [/us/stat/101/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F983
 [/us/usc/t29/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2
 [/us/usc/t42/s3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058
 [/us/usc/t42/s3026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3026%2Fa
 [/us/usc/t42/s3027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa
 [/us/usc/t42/s2991b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991b%E2%80%931
-[/us/pl/98/459/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs803
+[/us/pl/98/459/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2FtVIII
 [/us/stat/98/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1793
 [/us/usc/t42/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056
 [/us/usc/t29/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs631
@@ -850,107 +850,107 @@
 [/us/usc/t42/s3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3017
 [/us/usc/t42/s3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3017
 [/us/usc/t42/s3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3037
-[/us/pl/95/478/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs504
+[/us/pl/95/478/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtV
 [/us/stat/92/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1559
-[/us/pl/110/19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F19%2Fs1
+[/us/pl/110/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F19
 [/us/stat/121/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F84
 [/us/usc/t42/s3030a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030a
 [/us/usc/t42/s3030a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030a
-[/us/pl/109/365/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs1%2Fa
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
 [/us/stat/120/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2522
-[/us/pl/106/501/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs1
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/stat/114/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2226
-[/us/pl/103/171/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs1
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1988
-[/us/pl/102/375/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs1%2Fa
+[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
 [/us/stat/106/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1195
-[/us/pl/100/175/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs1
+[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/stat/101/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F926
 [/us/usc/t29/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2
 [/us/usc/t42/s3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058
-[/us/pl/99/269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F269%2Fs1
+[/us/pl/99/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F269
 [/us/stat/100/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F78
 [/us/usc/t42/s3030a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030a
 [/us/usc/t42/s3030a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3030a
-[/us/pl/98/459/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459%2Fs1
+[/us/pl/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F459
 [/us/stat/98/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1767
 [/us/usc/t29/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs631
 [/us/usc/t42/s3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3045
-[/us/pl/97/115/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs1%2Fa
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1595
 [/us/usc/t20/s1087–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%932
 [/us/usc/t42/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3014
 [/us/usc/t42/s3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3045
-[/us/pl/95/478/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs1%2Fa
+[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/stat/92/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1513
 [/us/usc/t42/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056
-[/us/pl/94/135/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs1
+[/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F713
 [/us/usc/t42/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5001
 [/us/usc/t29/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs871
 [/us/usc/t42/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809
-[/us/pl/93/29/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs1
+[/us/pl/93/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29
 [/us/stat/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F30
 [/us/usc/t20/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs361
-[/us/pl/90/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42%2Fs1
+[/us/pl/90/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F42
 [/us/stat/81/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F106
 [/us/usc/t42/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3043
-[/us/pl/89/73/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs1
+[/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
-[/us/pl/89/73/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs371
-[/us/pl/106/501/s316/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs316%2F2
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2253
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
-[/us/pl/89/73/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs501
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2563
-[/us/pl/89/73/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs501
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2267
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2563
-[/us/pl/89/73/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs501
-[/us/pl/94/135/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2Fs113%2Fa
+[/us/pl/89/73/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtV
+[/us/pl/94/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135%2FtI
 [/us/stat/89/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F720
-[/us/pl/95/478/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs105%2Fa
+[/us/pl/95/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtI
 [/us/stat/92/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1547
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
-[/us/pl/106/501/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs501
+[/us/pl/106/501/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtV
 [/us/stat/114/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2267
-[/us/pl/102/375/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs902
+[/us/pl/102/375/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtIX
 [/us/stat/106/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1305
-[/us/pl/102/375/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs211
+[/us/pl/102/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtII
 [/us/stat/106/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1215
-[/us/pl/103/171/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs4%2Fa%2F2
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1991
-[/us/pl/102/375/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs212
+[/us/pl/102/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtII
 [/us/stat/106/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1216
 [/us/usc/t42/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3002
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/usc/t42/s1372e/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1372e%2Fe
 [/us/usc/t42/s1382e/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fe
-[/us/pl/102/375/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs213
+[/us/pl/102/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtII
 [/us/stat/106/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1218
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1293-1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1293-1295
 [/us/usc/t42/s1395i–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fa
 [/us/usc/t42/s1320a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%2Fa
 [/us/usc/t42/s3027/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3027%2Fa%2F9
-[/us/pl/102/375/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs901
+[/us/pl/102/375/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtIX
 [/us/stat/106/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1305
-[/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
+[/us/pl/100/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtII
 [/us/stat/101/967-971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F967-971
-[/us/pl/102/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1300-1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1300-1305
-[/us/pl/103/171/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs6
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1992
-[/us/pl/106/501/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs211
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/stat/114/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2235
-[/us/pl/109/365/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs901%2Fa
+[/us/pl/109/365/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtIX
 [/us/stat/120/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2598
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
@@ -961,14 +961,14 @@
 [/us/pl/110/372/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F372%2Fs2%2Fd%2F3
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/102/375/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs837
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1304
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
-[/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/95/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2FtII
 [/us/stat/92/1551-1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1551-1554
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 
 

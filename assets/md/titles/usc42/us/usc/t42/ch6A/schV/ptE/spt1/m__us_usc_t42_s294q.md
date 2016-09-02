@@ -293,7 +293,7 @@
 
             (E) any other health professional the Comptroller General of the United States determines appropriate.
 
-([Pub. L. 111–148, title V, § 5101][/us/pl/111/148/s5101], title X, § 10501(a), Mar. 23, 2010, [124 Stat. 592][/us/stat/124/592], 993; [Pub. L. 113–128, title V, § 512(y)][/us/pl/113/128/s512/y], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
+([Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5101, title X, § 10501(a), Mar. 23, 2010, [124 Stat. 592][/us/stat/124/592], 993; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(y), July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
 
  __References in Text__ 
 
@@ -307,7 +307,7 @@
 
     The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(3)(D), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
-    The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(3)(D), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
+    The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(3)(D), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
     Section 5103, referred to in subsec. (d)(8), means [section 5103 of Pub. L. 111–148][/us/pl/111/148/s5103].
 
@@ -315,7 +315,7 @@
 
  __Codification__ 
 
-    In subsec. (f)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (f)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
@@ -323,23 +323,23 @@
 
     Prior sections 294q to 294q–3 were omitted in the general amendment of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
-    Section 294q, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 744, formerly § 745, as added Sept. 24, 1963, [Pub. L. 88–129, § 2(b)][/us/pl/88/129/s2/b], [77 Stat. 173][/us/stat/77/173]; amended Nov. 18, 1971, [Pub. L. 92–157, title I, § 105(f)(2)][/us/pl/92/157/s105/f/2], [85 Stat. 451][/us/stat/85/451]; renumbered § 744, Oct. 12, 1976, [Pub. L. 94–484, title IV, § 406(a)(2)][/us/pl/94/484/s406/a/2], [90 Stat. 2268][/us/stat/90/2268], related to administrative provisions. See [section 292u of this title][/us/usc/t42/s292u].
+    Section 294q, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 744, formerly § 745, as added Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(b), [77 Stat. 173][/us/stat/77/173]; amended Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 105(f)(2), [85 Stat. 451][/us/stat/85/451]; renumbered § 744, Oct. 12, 1976, [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 406(a)(2), [90 Stat. 2268][/us/stat/90/2268], related to administrative provisions. See [section 292u of this title][/us/usc/t42/s292u].
 
-    Section 294q–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 745, as added Oct. 22, 1985, [Pub. L. 99–129, title II, § 209(h)(2)][/us/pl/99/129/s209/h/2], [99 Stat. 535][/us/stat/99/535], related to student loan information to be furnished to students. See [section 292v of this title][/us/usc/t42/s292v].
+    Section 294q–1, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 745, as added Oct. 22, 1985, [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 209(h)(2), [99 Stat. 535][/us/stat/99/535], related to student loan information to be furnished to students. See [section 292v of this title][/us/usc/t42/s292v].
 
-    Section 294q–2, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 746, as added Oct. 22, 1985, [Pub. L. 99–129, title II, § 209(h)(2)][/us/pl/99/129/s209/h/2], [99 Stat. 536][/us/stat/99/536], related to procedures for appeal of terminations of agreements with schools. See [section 292w of this title][/us/usc/t42/s292w].
+    Section 294q–2, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 746, as added Oct. 22, 1985, [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 209(h)(2), [99 Stat. 536][/us/stat/99/536], related to procedures for appeal of terminations of agreements with schools. See [section 292w of this title][/us/usc/t42/s292w].
 
-    Section 294q–3, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 747, formerly § 745, as added and renumbered § 747, Oct. 22, 1985, [Pub. L. 99–129, title II, § 209(a)(4)][/us/pl/99/129/s209/a/4], (h)(1), [99 Stat. 532][/us/stat/99/532], 535, defined “school of pharmacy”.
+    Section 294q–3, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 747, formerly § 745, as added and renumbered § 747, Oct. 22, 1985, [Pub. L. 99–129, title II][/us/pl/99/129/tII], § 209(a)(4), (h)(1), [99 Stat. 532][/us/stat/99/532], 535, defined “school of pharmacy”.
 
  __Amendments__ 
 
     2014—Subsec. (d)(3)(D). [Pub. L. 113–128][/us/pl/113/128] substituted “other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act,” for “other health care workforce programs, including those supported through the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.),”.
 
-    2010—Subsec. (c)(2)(B)(i)(II). [Pub. L. 111–148, § 10501(a)(1)][/us/pl/111/148/s10501/a/1], inserted “, including representatives of small business and self-employed individuals” after “employers”.
+    2010—Subsec. (c)(2)(B)(i)(II). [Pub. L. 111–148][/us/pl/111/148], § 10501(a)(1), inserted “, including representatives of small business and self-employed individuals” after “employers”.
 
-    Subsec. (d)(4)(A)(iv), (v). [Pub. L. 111–148, § 10501(a)(2)][/us/pl/111/148/s10501/a/2], added cl. (iv) and redesignated former cl. (iv) as (v).
+    Subsec. (d)(4)(A)(iv), (v). [Pub. L. 111–148][/us/pl/111/148], § 10501(a)(2), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-    Subsec. (i)(2)(A), (C). [Pub. L. 111–148, § 10501(a)(3)][/us/pl/111/148/s10501/a/3], which directed insertion of “optometrists, ophthalmologists,” after “occupational therapists,” in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words “occupational therapists,” do not appear in subpar. (B).
+    Subsec. (i)(2)(A), (C). [Pub. L. 111–148][/us/pl/111/148], § 10501(a)(3), which directed insertion of “optometrists, ophthalmologists,” after “occupational therapists,” in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words “occupational therapists,” do not appear in subpar. (B).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -347,7 +347,7 @@
 
  __Purpose__ 
 
-[Pub. L. 111–148, title V, § 5001][/us/pl/111/148/s5001], Mar. 23, 2010, [124 Stat. 588][/us/stat/124/588], provided that: 
+[Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5001, Mar. 23, 2010, [124 Stat. 588][/us/stat/124/588], provided that: 
 
 > “The purpose of this title \[see Tables for classification\] is to improve access to and the delivery of health care services for all individuals, particularly low income, underserved, uninsured, minority, health disparity, and rural populations by—
 
@@ -361,7 +361,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–148, title V, § 5002(a)][/us/pl/111/148/s5002/a], Mar. 23, 2010, [124 Stat. 588][/us/stat/124/588], provided that: 
+[Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5002(a), Mar. 23, 2010, [124 Stat. 588][/us/stat/124/588], provided that: 
 
 > “In this title \[see Tables for classification\]:
 
@@ -441,9 +441,9 @@
 [/us/usc/t42/s294r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294r
 [/us/usc/t42/s294n/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294n%2Fb
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/148/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5101
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F592
-[/us/pl/113/128/s512/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fy
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
 [/us/pl/92/463/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs5
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
@@ -460,46 +460,46 @@
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F683
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/pl/111/148/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5103
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/129/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F173
-[/us/pl/92/157/s105/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs105%2Ff%2F2
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F451
-[/us/pl/94/484/s406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs406%2Fa%2F2
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2268
 [/us/usc/t42/s292u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292u
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/129/s209/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs209%2Fh%2F2
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F535
 [/us/usc/t42/s292v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292v
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/129/s209/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs209%2Fh%2F2
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F536
 [/us/usc/t42/s292w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292w
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/129/s209/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs209%2Fa%2F4
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/99/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2FtII
 [/us/stat/99/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F532
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/111/148/s10501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fa%2F1
-[/us/pl/111/148/s10501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fa%2F2
-[/us/pl/111/148/s10501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fa%2F3
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/111/148/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5001
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F588
-[/us/pl/111/148/s5002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F588
 [/us/usc/t42/s295p/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs295p%2F5
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, jurisdiction over matters transferred to the Department of Energy from the Energy Research and Development Administration which on the effective date of such transfer were required by law, regulation, or administrative order to be made on the record after an opportunity for an agency hearing may be assigned to the Federal Energy Regulatory Commission or retained by the Secretary at his discretion.
 
-([Pub. L. 95–238, title I, § 104(a)][/us/pl/95/238/s104/a], Feb. 25, 1978, [92 Stat. 53][/us/stat/92/53].)
+([Pub. L. 95–238, title I][/us/pl/95/238/tI], § 104(a), Feb. 25, 1978, [92 Stat. 53][/us/stat/92/53].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/238/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs104%2Fa
+[/us/pl/95/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtI
 [/us/stat/92/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F53
 
 

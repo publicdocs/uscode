@@ -37,7 +37,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section $21,900,000 for fiscal year 1993 and such sums as may be necessary for subsequent fiscal years, to be derived from sums authorized under [section 13471(c) of this title][/us/usc/t42/s13471/c].
 
-([Pub. L. 102–486, title XXI, § 2117][/us/pl/102/486/s2117], Oct. 24, 1992, [106 Stat. 3075][/us/stat/106/3075].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2117, Oct. 24, 1992, [106 Stat. 3075][/us/stat/106/3075].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t42/s13471/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13471%2Fc
-[/us/pl/102/486/s2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2117
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3075
 
 

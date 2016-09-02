@@ -37,7 +37,7 @@
 
         (2) Developing the next generation of low-emission, high efficiency diesel engine technologies, including homogeneous charge compression ignition technology.
 
-([Pub. L. 109–58, title VII, § 754][/us/pl/109/58/s754], Aug. 8, 2005, [119 Stat. 828][/us/stat/119/828].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 754, Aug. 8, 2005, [119 Stat. 828][/us/stat/119/828].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs754
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F828
 
 

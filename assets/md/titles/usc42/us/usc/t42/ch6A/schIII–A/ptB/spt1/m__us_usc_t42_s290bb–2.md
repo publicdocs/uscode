@@ -67,11 +67,11 @@
 
         There are authorized to be appropriated to carry out this section, $300,000,000 for fiscal year 2001 and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 509, as added [Pub. L. 102–321, title I, § 108(a)][/us/pl/102/321/s108/a], July 10, 1992, [106 Stat. 341][/us/stat/106/341]; amended [Pub. L. 106–310, div. B, title XXXIII, § 3301(b)][/us/pl/106/310/s3301/b], Oct. 17, 2000, [114 Stat. 1207][/us/stat/114/1207].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 509, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 108(a), July 10, 1992, [106 Stat. 341][/us/stat/106/341]; amended [Pub. L. 106–310, div. B, title XXXIII][/us/pl/106/310/dB/tXXXIII], § 3301(b), Oct. 17, 2000, [114 Stat. 1207][/us/stat/114/1207].)
 
  __Prior Provisions__ 
 
-    A prior section 290bb–2, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title V, § 513, formerly § 512, formerly [Pub. L. 91–616, title V, § 504][/us/pl/91/616/s504], formerly § 503, as added [Pub. L. 94–371, § 7][/us/pl/94/371/s7], July 26, 1976, [90 Stat. 1039][/us/stat/90/1039]; amended [Pub. L. 96–180, § 15][/us/pl/96/180/s15], Jan. 2, 1980, [93 Stat. 1305][/us/stat/93/1305]; renumbered [§ 504 of Pub. L. 91–616][/us/pl/91/616/s504] and amended [Pub. L. 97–35, title IX, § 965(a)][/us/pl/97/35/s965/a], (c), Aug. 13, 1981, [95 Stat. 594][/us/stat/95/594]; [Pub. L. 97–414, § 9(e)][/us/pl/97/414/s9/e], Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064]; renumbered § 512 of act July 1, 1944, and amended Apr. 26, 1983, [Pub. L. 98–24, § 2(b)(9)][/us/pl/98/24/s2/b/9], [97 Stat. 179][/us/stat/97/179]; renumbered § 513 and amended Oct. 19, 1984, [Pub. L. 98–509, title II][/us/pl/98/509], §§ 206(a), 207(a), [98 Stat. 2361][/us/stat/98/2361], 2362; Oct. 27, 1986, [Pub. L. 99–570, title IV, § 4010(a)][/us/pl/99/570/s4010/a], [100 Stat. 3207–115][/us/stat/100/3207-115]; July 22, 1987, [Pub. L. 100–77, title VI, § 613(c)][/us/pl/100/77/s613/c], [101 Stat. 524][/us/stat/101/524]; Nov. 4, 1988, [Pub. L. 100–607, title VIII, § 822][/us/pl/100/607/s822], [102 Stat. 3171][/us/stat/102/3171]; Nov. 7, 1988, [Pub. L. 100–628, title VI, § 622][/us/pl/100/628/s622], [102 Stat. 3244][/us/stat/102/3244]; Nov. 18, 1988, [Pub. L. 100–690, title II, § 2056(a)][/us/pl/100/690/s2056/a], [102 Stat. 4211][/us/stat/102/4211]; Aug. 16, 1989, [Pub. L. 101–93, § 5(t)(1)][/us/pl/101/93/s5/t/1], [103 Stat. 615][/us/stat/103/615]; Nov. 29, 1990, [Pub. L. 101–645, title V, § 522][/us/pl/101/645/s522], [104 Stat. 4734][/us/stat/104/4734], authorized appropriations to carry out alcohol abuse and alcoholism research, prior to repeal by [Pub. L. 102–321, § 122(d)][/us/pl/102/321/s122/d]\[(e)\].
+    A prior section 290bb–2, [act July 1, 1944, ch. 373, title V][/us/act/1944-07-01/ch373/tV], § 513, formerly § 512, formerly [Pub. L. 91–616, title V][/us/pl/91/616/tV], § 504, formerly § 503, as added [Pub. L. 94–371][/us/pl/94/371], § 7, July 26, 1976, [90 Stat. 1039][/us/stat/90/1039]; amended [Pub. L. 96–180][/us/pl/96/180], § 15, Jan. 2, 1980, [93 Stat. 1305][/us/stat/93/1305]; renumbered § 504 of [Pub. L. 91–616][/us/pl/91/616] and amended [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 965(a), (c), Aug. 13, 1981, [95 Stat. 594][/us/stat/95/594]; [Pub. L. 97–414][/us/pl/97/414], § 9(e), Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064]; renumbered § 512 of act July 1, 1944, and amended Apr. 26, 1983, [Pub. L. 98–24][/us/pl/98/24], § 2(b)(9), [97 Stat. 179][/us/stat/97/179]; renumbered § 513 and amended Oct. 19, 1984, [Pub. L. 98–509, title II][/us/pl/98/509/tII], §§ 206(a), 207(a), [98 Stat. 2361][/us/stat/98/2361], 2362; Oct. 27, 1986, [Pub. L. 99–570, title IV][/us/pl/99/570/tIV], § 4010(a), [100 Stat. 3207–115][/us/stat/100/3207-115]; July 22, 1987, [Pub. L. 100–77, title VI][/us/pl/100/77/tVI], § 613(c), [101 Stat. 524][/us/stat/101/524]; Nov. 4, 1988, [Pub. L. 100–607, title VIII][/us/pl/100/607/tVIII], § 822, [102 Stat. 3171][/us/stat/102/3171]; Nov. 7, 1988, [Pub. L. 100–628, title VI][/us/pl/100/628/tVI], § 622, [102 Stat. 3244][/us/stat/102/3244]; Nov. 18, 1988, [Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2056(a), [102 Stat. 4211][/us/stat/102/4211]; Aug. 16, 1989, [Pub. L. 101–93][/us/pl/101/93], § 5(t)(1), [103 Stat. 615][/us/stat/103/615]; Nov. 29, 1990, [Pub. L. 101–645, title V][/us/pl/101/645/tV], § 522, [104 Stat. 4734][/us/stat/104/4734], authorized appropriations to carry out alcohol abuse and alcoholism research, prior to repeal by [Pub. L. 102–321][/us/pl/102/321], § 122(d)\[(e)\].
 
     A prior section 509 of act July 1, 1944, which was classified to [section 290aa–7 of this title][/us/usc/t42/s290aa–7], was renumbered section 516 of act July 1, 1944, by [Pub. L. 102–321][/us/pl/102/321] and transferred to [section 290bb–22 of this title][/us/usc/t42/s290bb–22].
 
@@ -91,40 +91,40 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs108%2Fa
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F341
-[/us/pl/106/310/s3301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3301%2Fb
+[/us/pl/106/310/dB/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXIII
 [/us/stat/114/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1207
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/616/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs504
-[/us/pl/94/371/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs7
+[/us/act/1944-07-01/ch373/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtV
+[/us/pl/91/616/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2FtV
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1039
-[/us/pl/96/180/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs15
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
 [/us/stat/93/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1305
-[/us/pl/91/616/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs504
-[/us/pl/97/35/s965/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs965%2Fa
+[/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F594
-[/us/pl/97/414/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fe
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2064
-[/us/pl/98/24/s2/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F9
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F179
-[/us/pl/98/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509
+[/us/pl/98/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F509%2FtII
 [/us/stat/98/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2361
-[/us/pl/99/570/s4010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4010%2Fa
+[/us/pl/99/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIV
 [/us/stat/100/3207-115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-115
-[/us/pl/100/77/s613/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs613%2Fc
+[/us/pl/100/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtVI
 [/us/stat/101/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F524
-[/us/pl/100/607/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs822
+[/us/pl/100/607/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2FtVIII
 [/us/stat/102/3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3171
-[/us/pl/100/628/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs622
+[/us/pl/100/628/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVI
 [/us/stat/102/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3244
-[/us/pl/100/690/s2056/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2056%2Fa
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4211
-[/us/pl/101/93/s5/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93%2Fs5%2Ft%2F1
+[/us/pl/101/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F93
 [/us/stat/103/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F615
-[/us/pl/101/645/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs522
+[/us/pl/101/645/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtV
 [/us/stat/104/4734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4734
-[/us/pl/102/321/s122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs122%2Fd
+[/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s290aa–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290aa%E2%80%937
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/usc/t42/s290bb–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%9322

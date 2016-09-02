@@ -31,7 +31,7 @@
 
     For the purposes of this section, the term “chief executive officer of the appropriate political subdivision” shall mean appropriate principal executive officer or governing body having primary responsibility with respect to the community facility or service involved, but shall not, in any case, mean any public housing authority, or its governing body, or any of its officers, acting in such capacity.
 
-([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title I, § 103, [65 Stat. 294][/us/stat/65/294]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title I, § 103, [65 Stat. 294][/us/stat/65/294]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __Transfer of Functions__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t42/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1591
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F294
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1581
 

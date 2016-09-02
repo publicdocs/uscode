@@ -103,11 +103,11 @@
 
         (2) Underground injection endangers drinking water sources if such injection may result in the presence in underground water which supplies or can reasonably be expected to supply any public water system of any contaminant, and if the presence of such contaminant may result in such system’s not complying with any national primary drinking water regulation or may otherwise adversely affect the health of persons.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1421, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1674][/us/stat/88/1674]; amended [Pub. L. 95–190, § 6(b)][/us/pl/95/190/s6/b], Nov. 16, 1977, [91 Stat. 1396][/us/stat/91/1396]; [Pub. L. 96–502][/us/pl/96/502], §§ 3, 4(c), Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title II, § 201(a)][/us/pl/99/339/s201/a], June 19, 1986, [100 Stat. 653][/us/stat/100/653]; [Pub. L. 104–182, title V, § 501(b)(1)][/us/pl/104/182/s501/b/1], Aug. 6, 1996, [110 Stat. 1691][/us/stat/110/1691]; [Pub. L. 109–58, title III, § 322][/us/pl/109/58/s322], Aug. 8, 2005, [119 Stat. 694][/us/stat/119/694].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1421, as added [Pub. L. 93–523][/us/pl/93/523], § 2(a), Dec. 16, 1974, [88 Stat. 1674][/us/stat/88/1674]; amended [Pub. L. 95–190][/us/pl/95/190], § 6(b), Nov. 16, 1977, [91 Stat. 1396][/us/stat/91/1396]; [Pub. L. 96–502][/us/pl/96/502], §§ 3, 4(c), Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 201(a), June 19, 1986, [100 Stat. 653][/us/stat/100/653]; [Pub. L. 104–182, title V][/us/pl/104/182/tV], § 501(b)(1), Aug. 6, 1996, [110 Stat. 1691][/us/stat/110/1691]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 322, Aug. 8, 2005, [119 Stat. 694][/us/stat/119/694].)
 
  __References in Text__ 
 
-    [Section 300j–6(b) of this title][/us/usc/t42/s300j–6/b], referred to in subsec. (b)(1)(D), was repealed, and a new section 300j–6(b) relating to administrative penalty orders was added, by [Pub. L. 104–182, title I, § 129(a)][/us/pl/104/182/s129/a], Aug. 6, 1996, [110 Stat. 1660][/us/stat/110/1660].
+    [Section 300j–6(b) of this title][/us/usc/t42/s300j–6/b], referred to in subsec. (b)(1)(D), was repealed, and a new section 300j–6(b) relating to administrative penalty orders was added, by [Pub. L. 104–182, title I][/us/pl/104/182/tI], § 129(a), Aug. 6, 1996, [110 Stat. 1660][/us/stat/110/1660].
 
  __Amendments__ 
 
@@ -117,9 +117,9 @@
 
     1986—Subsec. (b)(2)(A). [Pub. L. 99–339][/us/pl/99/339] inserted “or natural gas storage operations” after “production”.
 
-    1980—Subsec. (b)(1)(A). [Pub. L. 96–502, § 4(c)][/us/pl/96/502/s4/c], substituted “effective on the date on which the applicable underground injection control program takes effect” for “effective three years after December 16, 1974”.
+    1980—Subsec. (b)(1)(A). [Pub. L. 96–502][/us/pl/96/502], § 4(c), substituted “effective on the date on which the applicable underground injection control program takes effect” for “effective three years after December 16, 1974”.
 
-    Subsec. (d)(1). [Pub. L. 96–502, § 3][/us/pl/96/502/s3], inserted provision that such term does not include the underground injection of natural gas for purposes of storage.
+    Subsec. (d)(1). [Pub. L. 96–502][/us/pl/96/502], § 3, inserted provision that such term does not include the underground injection of natural gas for purposes of storage.
 
     1977—Subsec. (b)(3). [Pub. L. 95–190][/us/pl/95/190] added par. (3).
 
@@ -133,26 +133,26 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s300h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300h%E2%80%931
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1674
-[/us/pl/95/190/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs6%2Fb
+[/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/stat/91/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1396
 [/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/stat/94/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2738
-[/us/pl/99/339/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs201%2Fa
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F653
-[/us/pl/104/182/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Fb%2F1
+[/us/pl/104/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtV
 [/us/stat/110/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1691
-[/us/pl/109/58/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs322
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F694
 [/us/usc/t42/s300j–6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%936%2Fb
-[/us/pl/104/182/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs129%2Fa
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1660
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
-[/us/pl/96/502/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs4%2Fc
-[/us/pl/96/502/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502%2Fs3
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
+[/us/pl/96/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F502
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 
 

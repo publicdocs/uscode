@@ -107,7 +107,7 @@
 
         There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to carry out the purposes of this section, but not to exceed $400,000,000 for fiscal year 1979 and $400,000,000 for fiscal year 1980. Authority granted to the Secretary under subsection (a) of this section may be exercised only to the extent as may be provided in advance in appropriation Acts.
 
-([Pub. L. 95–620, title VI, § 602][/us/pl/95/620/s602], Nov. 9, 1978, [92 Stat. 3327][/us/stat/92/3327].)
+([Pub. L. 95–620, title VI][/us/pl/95/620/tVI], § 602, Nov. 9, 1978, [92 Stat. 3327][/us/stat/92/3327].)
 
  __References in Text__ 
 
@@ -124,7 +124,7 @@
 
 [/us/usc/t15/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs792
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/95/620/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs602
+[/us/pl/95/620/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVI
 [/us/stat/92/3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3327
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/pl/95/620/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs901

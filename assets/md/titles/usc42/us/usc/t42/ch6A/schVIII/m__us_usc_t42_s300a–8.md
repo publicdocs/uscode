@@ -25,7 +25,7 @@
 
     who coerces or endeavors to coerce any person to undergo an abortion or sterilization procedure by threatening such person with the loss of, or disqualification for the receipt of, any benefit or service under a program receiving Federal financial assistance shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
 
-([Pub. L. 94–63, title II, § 205][/us/pl/94/63/s205], July 29, 1975, [89 Stat. 308][/us/stat/89/308].)
+([Pub. L. 94–63, title II][/us/pl/94/63/tII], § 205, July 29, 1975, [89 Stat. 308][/us/stat/89/308].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/94/63/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs205
+[/us/pl/94/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2FtII
 [/us/stat/89/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F308
 [/us/pl/94/63/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs608
 [/us/usc/t42/s247b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b

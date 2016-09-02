@@ -49,29 +49,29 @@
 
         The Attorney General shall annually compile and broadly disseminate (including through electronic publication) information about successful data collection and communication systems that meet the purposes described in this section. Such dissemination shall target States, State and local courts, Indian tribal governments, and units of local government.
 
-([Pub. L. 90–351, title I, § 2102][/us/pl/90/351/s2102], as added [Pub. L. 103–322, title IV, § 40231(a)(3)][/us/pl/103/322/s40231/a/3], Sept. 13, 1994, [108 Stat. 1933][/us/stat/108/1933]; amended [Pub. L. 106–386, div. B, title I, § 1101(a)(3)][/us/pl/106/386/s1101/a/3], (b)(3), Oct. 28, 2000, [114 Stat. 1492][/us/stat/114/1492], 1493; [Pub. L. 109–162, title I, § 102(c)][/us/pl/109/162/s102/c], Jan. 5, 2006, [119 Stat. 2977][/us/stat/119/2977]; [Pub. L. 113–4, title I, § 102(a)(2)][/us/pl/113/4/s102/a/2], Mar. 7, 2013, [127 Stat. 72][/us/stat/127/72].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2102, as added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40231(a)(3), Sept. 13, 1994, [108 Stat. 1933][/us/stat/108/1933]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1101(a)(3), (b)(3), Oct. 28, 2000, [114 Stat. 1492][/us/stat/114/1492], 1493; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 102(c), Jan. 5, 2006, [119 Stat. 2977][/us/stat/119/2977]; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 102(a)(2), Mar. 7, 2013, [127 Stat. 72][/us/stat/127/72].)
 
  __References in Text__ 
 
-    [Section 3796hh(c)(4) of this title][/us/usc/t42/s3796hh/c/4], referred to in subsec. (a)(1)(B), was redesignated [section 3796hh(c)(1)(D) of this title][/us/usc/t42/s3796hh/c/1/D] by [Pub. L. 113–4, title I, § 102(a)(1)(B)(vi)][/us/pl/113/4/s102/a/1/B/vi], Mar. 7, 2013, [127 Stat. 72][/us/stat/127/72].
+    [Section 3796hh(c)(4) of this title][/us/usc/t42/s3796hh/c/4], referred to in subsec. (a)(1)(B), was redesignated [section 3796hh(c)(1)(D) of this title][/us/usc/t42/s3796hh/c/1/D] by [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 102(a)(1)(B)(vi), Mar. 7, 2013, [127 Stat. 72][/us/stat/127/72].
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–4, § 102(a)(2)(A)][/us/pl/113/4/s102/a/2/A], inserted “court,” after “tribal government,” in introductory provisions.
+    2013—Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4], § 102(a)(2)(A), inserted “court,” after “tribal government,” in introductory provisions.
 
-    Subsec. (a)(4). [Pub. L. 113–4, § 102(a)(2)(B)][/us/pl/113/4/s102/a/2/B], substituted “victim service providers and, as appropriate, population specific organizations” for “nonprofit, private sexual assault and domestic violence programs”.
+    Subsec. (a)(4). [Pub. L. 113–4][/us/pl/113/4], § 102(a)(2)(B), substituted “victim service providers and, as appropriate, population specific organizations” for “nonprofit, private sexual assault and domestic violence programs”.
 
     2006—Subsec. (b)(1), (2). [Pub. L. 109–162][/us/pl/109/162] inserted “, dating violence, sexual assault, or stalking” after “involving domestic violence”.
 
-    2000—Subsec. (a)(1)(B). [Pub. L. 106–386, § 1101(b)(3)][/us/pl/106/386/s1101/b/3], inserted before semicolon “or, in the case of the condition set forth in sub[section 3796hh(c)(4) of this title][/us/usc/t42/s3796hh/c/4], the expiration of the 2-year period beginning on October 28, 2000”.
+    2000—Subsec. (a)(1)(B). [Pub. L. 106–386][/us/pl/106/386], § 1101(b)(3), inserted before semicolon “or, in the case of the condition set forth in sub[section 3796hh(c)(4) of this title][/us/usc/t42/s3796hh/c/4], the expiration of the 2-year period beginning on October 28, 2000”.
 
-    Subsec. (b)(1). [Pub. L. 106–386, § 1101(a)(3)(A)(i)][/us/pl/106/386/s1101/a/3/A/i], struck out “and” at the end.
+    Subsec. (b)(1). [Pub. L. 106–386][/us/pl/106/386], § 1101(a)(3)(A)(i), struck out “and” at the end.
 
-    Subsec. (b)(2). [Pub. L. 106–386, § 1101(a)(3)(A)(ii)][/us/pl/106/386/s1101/a/3/A/ii], substituted “, including the enforcement of protection orders from other States and jurisdictions (including tribal jurisdictions);” for period at end.
+    Subsec. (b)(2). [Pub. L. 106–386][/us/pl/106/386], § 1101(a)(3)(A)(ii), substituted “, including the enforcement of protection orders from other States and jurisdictions (including tribal jurisdictions);” for period at end.
 
-    Subsec. (b)(3), (4). [Pub. L. 106–386, § 1101(a)(3)(A)(iii)][/us/pl/106/386/s1101/a/3/A/iii], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 106–386][/us/pl/106/386], § 1101(a)(3)(A)(iii), added pars. (3) and (4).
 
-    Subsec. (c). [Pub. L. 106–386, § 1101(a)(3)(B)][/us/pl/106/386/s1101/a/3/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–386][/us/pl/106/386], § 1101(a)(3)(B), added subsec. (c).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -91,28 +91,28 @@
 [/us/usc/t42/s3796hh/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh%2Fc
 [/us/usc/t42/s3796hh/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh%2Fa
 [/us/usc/t42/s3796hh/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh%2Fb
-[/us/pl/90/351/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2102
-[/us/pl/103/322/s40231/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40231%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1933
-[/us/pl/106/386/s1101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fa%2F3
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1492
-[/us/pl/109/162/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs102%2Fc
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2977
-[/us/pl/113/4/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs102%2Fa%2F2
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F72
 [/us/usc/t42/s3796hh/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh%2Fc%2F4
 [/us/usc/t42/s3796hh/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh%2Fc%2F1%2FD
-[/us/pl/113/4/s102/a/1/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs102%2Fa%2F1%2FB%2Fvi
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F72
-[/us/pl/113/4/s102/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs102%2Fa%2F2%2FA
-[/us/pl/113/4/s102/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs102%2Fa%2F2%2FB
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/106/386/s1101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fb%2F3
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/usc/t42/s3796hh/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796hh%2Fc%2F4
-[/us/pl/106/386/s1101/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fa%2F3%2FA%2Fi
-[/us/pl/106/386/s1101/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fa%2F3%2FA%2Fii
-[/us/pl/106/386/s1101/a/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fa%2F3%2FA%2Fiii
-[/us/pl/106/386/s1101/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fa%2F3%2FB
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261

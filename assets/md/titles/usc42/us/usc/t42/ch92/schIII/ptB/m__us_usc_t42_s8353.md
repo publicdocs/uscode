@@ -29,13 +29,13 @@
 
         (2) The Secretary shall forward a copy of any such petition to the Federal Energy Regulatory Commission promptly after it is filed with the Secretary and shall consult with the Commission before making any finding on such petition under paragraph (l).
 
-([Pub. L. 95–620, title III, § 313][/us/pl/95/620/s313], Nov. 9, 1978, [92 Stat. 3313][/us/stat/92/3313]; [Pub. L. 100–42, § 1(c)(10)][/us/pl/100/42/s1/c/10], (13), May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
+([Pub. L. 95–620, title III][/us/pl/95/620/tIII], § 313, Nov. 9, 1978, [92 Stat. 3313][/us/stat/92/3313]; [Pub. L. 100–42][/us/pl/100/42], § 1(c)(10), (13), May 21, 1987, [101 Stat. 313][/us/stat/101/313].)
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–42, § 1(c)(13)][/us/pl/100/42/s1/c/13], struck out “or installation” after “powerplant” in introductory provisions.
+    1987—Subsec. (a). [Pub. L. 100–42][/us/pl/100/42], § 1(c)(13), struck out “or installation” after “powerplant” in introductory provisions.
 
-    [Pub. L. 100–42, § 1(c)(10)][/us/pl/100/42/s1/c/10], which directed the substitution of “or (i)” for “(i), or (j)” was executed by making the substitution for “(i) or (j)” to reflect the probable intent of Congress.
+    [Pub. L. 100–42][/us/pl/100/42], § 1(c)(10), which directed the substitution of “or (i)” for “(i), or (j)” was executed by making the substitution for “(i) or (j)” to reflect the probable intent of Congress.
 
  __Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After__  __November 9, 1978__ 
 
@@ -49,12 +49,12 @@
 ----------
 
 [/us/usc/t42/s8352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8352%2Fb
-[/us/pl/95/620/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs313
+[/us/pl/95/620/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtIII
 [/us/stat/92/3313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3313
-[/us/pl/100/42/s1/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F10
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/stat/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F313
-[/us/pl/100/42/s1/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F13
-[/us/pl/100/42/s1/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42%2Fs1%2Fc%2F10
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
+[/us/pl/100/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F42
 [/us/pl/95/620/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs902%2Fa
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301
 

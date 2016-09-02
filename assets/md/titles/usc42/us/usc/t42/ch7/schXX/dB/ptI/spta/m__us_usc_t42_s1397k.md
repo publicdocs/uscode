@@ -93,7 +93,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2021, as added [Pub. L. 111–148, title VI, § 6703(a)(1)(C)][/us/pl/111/148/s6703/a/1/C], Mar. 23, 2010, [124 Stat. 786][/us/stat/124/786].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2021, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6703(a)(1)(C), Mar. 23, 2010, [124 Stat. 786][/us/stat/124/786].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@
 [/us/usc/t42/s1397j–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397j%E2%80%931%2Fa
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/148/s6703/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fa%2F1%2FC
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F786
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 

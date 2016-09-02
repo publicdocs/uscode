@@ -17,7 +17,7 @@
 
     For each fiscal year, there is authorized to be appropriated, out of money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Secretary of Agriculture (hereinafter referred to as “the Secretary”) to carry out the provisions of this chapter, other than sections 1761 and 1766 of this title. Appropriations to carry out the provisions of this chapter and of the Child Nutrition Act of 1966 \[[42 U.S.C. 1771][/us/usc/t42/s1771] et seq.\] for any fiscal year are authorized to be made a year in advance of the beginning of the fiscal year in which the funds will become available for disbursement to the States. Notwithstanding any other provision of law, any funds appropriated to carry out the provisions of this chapter and the Child Nutrition Act of 1966 shall remain available for the purposes of the Act for which appropriated until expended.
 
-([June 4, 1946, ch. 281, § 3][/us/act/1946-06-04/ch281/s3], [60 Stat. 230][/us/stat/60/230]; [Pub. L. 87–823, § 1][/us/pl/87/823/s1], Oct. 15, 1962, [76 Stat. 944][/us/stat/76/944]; [Pub. L. 90–302, § 1][/us/pl/90/302/s1], May 8, 1968, [82 Stat. 117][/us/stat/82/117]; [Pub. L. 91–248, § 1(a)][/us/pl/91/248/s1/a], May 14, 1970, [84 Stat. 208][/us/stat/84/208]; [Pub. L. 93–326, § 7][/us/pl/93/326/s7], June 30, 1974, [88 Stat. 287][/us/stat/88/287]; [Pub. L. 94–105, § 24][/us/pl/94/105/s24], Oct. 7, 1975, [89 Stat. 529][/us/stat/89/529]; [Pub. L. 99–500, title III, § 371(a)(2)][/us/pl/99/500/s371/a/2], Oct. 18, 1986, [100 Stat. 1783–368][/us/stat/100/1783-368], and [Pub. L. 99–591, title III, § 371(a)(2)][/us/pl/99/591/s371/a/2], Oct. 30, 1986, [100 Stat. 3341–371][/us/stat/100/3341-371]; [Pub. L. 99–661, div. D, title V, § 4501(a)(2)][/us/pl/99/661/s4501/a/2], Nov. 14, 1986, [100 Stat. 4080][/us/stat/100/4080].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 3, [60 Stat. 230][/us/stat/60/230]; [Pub. L. 87–823][/us/pl/87/823], § 1, Oct. 15, 1962, [76 Stat. 944][/us/stat/76/944]; [Pub. L. 90–302][/us/pl/90/302], § 1, May 8, 1968, [82 Stat. 117][/us/stat/82/117]; [Pub. L. 91–248][/us/pl/91/248], § 1(a), May 14, 1970, [84 Stat. 208][/us/stat/84/208]; [Pub. L. 93–326][/us/pl/93/326], § 7, June 30, 1974, [88 Stat. 287][/us/stat/88/287]; [Pub. L. 94–105][/us/pl/94/105], § 24, Oct. 7, 1975, [89 Stat. 529][/us/stat/89/529]; [Pub. L. 99–500, title III][/us/pl/99/500/tIII], § 371(a)(2), Oct. 18, 1986, [100 Stat. 1783–368][/us/stat/100/1783-368], and [Pub. L. 99–591, title III][/us/pl/99/591/tIII], § 371(a)(2), Oct. 30, 1986, [100 Stat. 3341–371][/us/stat/100/3341-371]; [Pub. L. 99–661, div. D, title V][/us/pl/99/661/dD/tV], § 4501(a)(2), Nov. 14, 1986, [100 Stat. 4080][/us/stat/100/4080].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Appropriations as Functions of Health and Human Services__ 
 
-[Pub. L. 90–302, § 1][/us/pl/90/302/s1], May 8, 1968, [82 Stat. 117][/us/stat/82/117], as amended by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], provided in part that: 
+[Pub. L. 90–302][/us/pl/90/302], § 1, May 8, 1968, [82 Stat. 117][/us/stat/82/117], as amended by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], provided in part that: 
 
 > “Appropriations shall be considered Health and Human Services functions for budget purposes rather than functions of Agriculture.”
 
@@ -55,23 +55,23 @@
 ----------
 
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/act/1946-06-04/ch281/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs3
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
-[/us/pl/87/823/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823%2Fs1
+[/us/pl/87/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823
 [/us/stat/76/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F944
-[/us/pl/90/302/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F302%2Fs1
+[/us/pl/90/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F302
 [/us/stat/82/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F117
-[/us/pl/91/248/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248%2Fs1%2Fa
+[/us/pl/91/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F248
 [/us/stat/84/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F208
-[/us/pl/93/326/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F326%2Fs7
+[/us/pl/93/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F326
 [/us/stat/88/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F287
-[/us/pl/94/105/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105%2Fs24
+[/us/pl/94/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F105
 [/us/stat/89/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F529
-[/us/pl/99/500/s371/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs371%2Fa%2F2
+[/us/pl/99/500/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2FtIII
 [/us/stat/100/1783-368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-368
-[/us/pl/99/591/s371/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs371%2Fa%2F2
+[/us/pl/99/591/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtIII
 [/us/stat/100/3341-371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-371
-[/us/pl/99/661/s4501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs4501%2Fa%2F2
+[/us/pl/99/661/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdD%2FtV
 [/us/stat/100/4080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4080
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
@@ -88,9 +88,9 @@
 [/us/pl/90/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F302
 [/us/pl/87/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F823
 [/us/usc/t42/s1759a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1759a
-[/us/pl/90/302/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F302%2Fs1
+[/us/pl/90/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F302
 [/us/stat/82/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F117
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 
 

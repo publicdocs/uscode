@@ -163,11 +163,11 @@
 
         This section may be cited as the “John Heinz Neighborhood Development Act”.
 
-([Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 123\], Nov. 30, 1983, [97 Stat. 1172][/us/stat/97/1172]; [Pub. L. 98–479, title I, § 101(b)(2)][/us/pl/98/479/s101/b/2], (3), Oct. 17, 1984, [98 Stat. 2220][/us/stat/98/2220]; [Pub. L. 100–242, title V][/us/pl/100/242], §§ 521, 525, Feb. 5, 1988, [101 Stat. 1938][/us/stat/101/1938], 1939; [Pub. L. 101–625, title IX, § 915][/us/pl/101/625/s915], Nov. 28, 1990, [104 Stat. 4395][/us/stat/104/4395]; [Pub. L. 102–550, title VIII, § 832][/us/pl/102/550/s832], Oct. 28, 1992, [106 Stat. 3852][/us/stat/106/3852]; [Pub. L. 105–362, title VII, § 701(d)][/us/pl/105/362/s701/d], Nov. 10, 1998, [112 Stat. 3287][/us/stat/112/3287].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 123\], Nov. 30, 1983, [97 Stat. 1172][/us/stat/97/1172]; [Pub. L. 98–479, title I][/us/pl/98/479/tI], § 101(b)(2), (3), Oct. 17, 1984, [98 Stat. 2220][/us/stat/98/2220]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], §§ 521, 525, Feb. 5, 1988, [101 Stat. 1938][/us/stat/101/1938], 1939; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], § 915, Nov. 28, 1990, [104 Stat. 4395][/us/stat/104/4395]; [Pub. L. 102–550, title VIII][/us/pl/102/550/tVIII], § 832, Oct. 28, 1992, [106 Stat. 3852][/us/stat/106/3852]; [Pub. L. 105–362, title VII][/us/pl/105/362/tVII], § 701(d), Nov. 10, 1998, [112 Stat. 3287][/us/stat/112/3287].)
 
  __References in Text__ 
 
-    The Federal Deposit Insurance Act, referred to in subsec. (a)(3)(A), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (a)(3)(A), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
 
     The Federal Credit Union Act, referred to in subsec. (a)(3)(A), is [act June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], [48 Stat. 1216][/us/stat/48/1216], as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see [section 1751 of Title 12][/us/usc/t12/s1751] and Tables.
 
@@ -183,59 +183,59 @@
 
     1998—Subsecs. (f) to (h). [Pub. L. 105–362][/us/pl/105/362] redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f) which read as follows: “The Secretary shall submit a report to the Congress, not later than 3 months after the end of each fiscal year in which payments are made under this section, regarding the program under this section. The report shall contain a summary of the activities carried out under this section during such fiscal year and any findings, conclusions, and recommendations for legislation regarding the program.”
 
-    1992—[Pub. L. 102–550, § 832(b)(1)][/us/pl/102/550/s832/b/1], substituted “John Heinz Neighborhood Development Program” for “Neighborhood Development Demonstration” as section catchline.
+    1992—[Pub. L. 102–550][/us/pl/102/550], § 832(b)(1), substituted “John Heinz Neighborhood Development Program” for “Neighborhood Development Demonstration” as section catchline.
 
-    Subsec. (a)(2). [Pub. L. 102–550, § 832(d)(1)][/us/pl/102/550/s832/d/1]–(3), (4), redesignated subpars. (A) to (E) of par. (2) as cls. (i) to (v), respectively, of subpar. (A) of par. (2) and added subpar. (B).
+    Subsec. (a)(2). [Pub. L. 102–550][/us/pl/102/550], § 832(d)(1)–(3), (4), redesignated subpars. (A) to (E) of par. (2) as cls. (i) to (v), respectively, of subpar. (A) of par. (2) and added subpar. (B).
 
-    Subsec. (a)(2)(A)(iii). [Pub. L. 102–550, § 832(g)(1)][/us/pl/102/550/s832/g/1], substituted “one year” for “three years”.
+    Subsec. (a)(2)(A)(iii). [Pub. L. 102–550][/us/pl/102/550], § 832(g)(1), substituted “one year” for “three years”.
 
-    Subsec. (a)(2)(A)(iv). [Pub. L. 102–550, § 832(e)(1)][/us/pl/102/550/s832/e/1], added cl. (iv) and struck out former cl. (iv) which read as follows: “an organization that operates within an area that meets the requirements for Federal assistance under [section 5318 of this title][/us/usc/t42/s5318]; and”.
+    Subsec. (a)(2)(A)(iv). [Pub. L. 102–550][/us/pl/102/550], § 832(e)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: “an organization that operates within an area that meets the requirements for Federal assistance under [section 5318 of this title][/us/usc/t42/s5318]; and”.
 
-    Subsec. (a)(3), (4). [Pub. L. 102–550, § 832(e)(2)][/us/pl/102/550/s832/e/2], (3), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (a)(3), (4). [Pub. L. 102–550][/us/pl/102/550], § 832(e)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b)(1). [Pub. L. 102–550, § 832(f)(1)][/us/pl/102/550/s832/f/1], inserted “, and from neighborhood development funding organizations,” after “neighborhoods”.
+    Subsec. (b)(1). [Pub. L. 102–550][/us/pl/102/550], § 832(f)(1), inserted “, and from neighborhood development funding organizations,” after “neighborhoods”.
 
-    [Pub. L. 102–550, § 832(b)(2)][/us/pl/102/550/s832/b/2], (3), struck out “demonstration” before “program” and substituted “to support eligible” for “to determine the feasibility of supporting eligible”.
+    [Pub. L. 102–550][/us/pl/102/550], § 832(b)(2), (3), struck out “demonstration” before “program” and substituted “to support eligible” for “to determine the feasibility of supporting eligible”.
 
-    Subsec. (b)(2). [Pub. L. 102–550, § 832(b)(2)][/us/pl/102/550/s832/b/2], (g)(2), struck out “demonstration” before “program.” and substituted “For fiscal year 1993 and thereafter, not more than 50 percent” for “Not more than 30 per centum”.
+    Subsec. (b)(2). [Pub. L. 102–550][/us/pl/102/550], § 832(b)(2), (g)(2), struck out “demonstration” before “program.” and substituted “For fiscal year 1993 and thereafter, not more than 50 percent” for “Not more than 30 per centum”.
 
-    Subsec. (b)(3)(B). [Pub. L. 102–550, § 832(f)(2)(A)][/us/pl/102/550/s832/f/2/A], struck out “and” at end.
+    Subsec. (b)(3)(B). [Pub. L. 102–550][/us/pl/102/550], § 832(f)(2)(A), struck out “and” at end.
 
-    Subsec. (b)(3)(C). [Pub. L. 102–550, § 832(f)(2)(B)][/us/pl/102/550/s832/f/2/B], substituted “, especially in cooperation with a neighborhood development funding organization, except that an eligible neighborhood development organization shall be deemed to have the full benefit of the cooperation of a neighborhood development funding organization if the eligible neighborhood development organization—” and cls. (i) and (ii) for period at end.
+    Subsec. (b)(3)(C). [Pub. L. 102–550][/us/pl/102/550], § 832(f)(2)(B), substituted “, especially in cooperation with a neighborhood development funding organization, except that an eligible neighborhood development organization shall be deemed to have the full benefit of the cooperation of a neighborhood development funding organization if the eligible neighborhood development organization—” and cls. (i) and (ii) for period at end.
 
-    Subsec. (b)(3)(D). [Pub. L. 102–550, § 832(f)(2)(C)][/us/pl/102/550/s832/f/2/C], added subpar. (D).
+    Subsec. (b)(3)(D). [Pub. L. 102–550][/us/pl/102/550], § 832(f)(2)(C), added subpar. (D).
 
-    Subsec. (c)(3). [Pub. L. 102–550, § 832(f)(3)][/us/pl/102/550/s832/f/3], inserted before semicolon “and by the extent of participation in the proposed activities by a neighborhood development funding organization that has a branch or office in the neighborhood, except that an eligible neighborhood development organization shall be deemed to have the full benefit of the participation of a neighborhood development funding organization if the eligible neighborhood development organization—” and subpars. (A) and (B).
+    Subsec. (c)(3). [Pub. L. 102–550][/us/pl/102/550], § 832(f)(3), inserted before semicolon “and by the extent of participation in the proposed activities by a neighborhood development funding organization that has a branch or office in the neighborhood, except that an eligible neighborhood development organization shall be deemed to have the full benefit of the participation of a neighborhood development funding organization if the eligible neighborhood development organization—” and subpars. (A) and (B).
 
-    Subsec. (e)(1). [Pub. L. 102–550, § 832(f)(4)][/us/pl/102/550/s832/f/4], inserted “, and from neighborhood development funding organizations,” after “neighborhood”.
+    Subsec. (e)(1). [Pub. L. 102–550][/us/pl/102/550], § 832(f)(4), inserted “, and from neighborhood development funding organizations,” after “neighborhood”.
 
-    Subsec. (e)(3). [Pub. L. 102–550, § 832(b)(4)][/us/pl/102/550/s832/b/4], inserted before period “, except that, if appropriations for this section exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization”.
+    Subsec. (e)(3). [Pub. L. 102–550][/us/pl/102/550], § 832(b)(4), inserted before period “, except that, if appropriations for this section exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization”.
 
-    Subsec. (e)(5)(A). [Pub. L. 102–550, § 832(c)][/us/pl/102/550/s832/c], substituted “comprehensive housing affordability strategy of such unit approved under [section 12705 of this title][/us/usc/t42/s12705] or the statement of community development activities and community development plans of the unit submitted under [section 5304(m) of this title][/us/usc/t42/s5304/m]” for “housing and community development plans of such unit”.
+    Subsec. (e)(5)(A). [Pub. L. 102–550][/us/pl/102/550], § 832(c), substituted “comprehensive housing affordability strategy of such unit approved under [section 12705 of this title][/us/usc/t42/s12705] or the statement of community development activities and community development plans of the unit submitted under [section 5304(m) of this title][/us/usc/t42/s5304/m]” for “housing and community development plans of such unit”.
 
-    Subsec. (e)(6)(C). [Pub. L. 102–550, § 832(b)(5)(A)][/us/pl/102/550/s832/b/5/A], inserted “and” after “programs;”.
+    Subsec. (e)(6)(C). [Pub. L. 102–550][/us/pl/102/550], § 832(b)(5)(A), inserted “and” after “programs;”.
 
-    Subsec. (e)(6)(D), (E). [Pub. L. 102–550, § 832(b)(5)(B)][/us/pl/102/550/s832/b/5/B]–(D), redesignated subpar. (E) as (D), substituted “program” for “demonstration”, and struck out former subpar. (D) which read as follows: “shall undertake any other activity the Secretary deems necessary to carry out this section, which shall include an evaluation and report to Congress on the demonstration and may include the performance of research, planning, and administration, either directly, or when in the Secretary’s judgment such activity will be carried out more effectively, more rapidly, or at less cost, by contract or grant; and”.
+    Subsec. (e)(6)(D), (E). [Pub. L. 102–550][/us/pl/102/550], § 832(b)(5)(B)–(D), redesignated subpar. (E) as (D), substituted “program” for “demonstration”, and struck out former subpar. (D) which read as follows: “shall undertake any other activity the Secretary deems necessary to carry out this section, which shall include an evaluation and report to Congress on the demonstration and may include the performance of research, planning, and administration, either directly, or when in the Secretary’s judgment such activity will be carried out more effectively, more rapidly, or at less cost, by contract or grant; and”.
 
-    Subsec. (f). [Pub. L. 102–550, § 832(b)(6)][/us/pl/102/550/s832/b/6], added subsec. (f) and struck out former subsec. (f) which read as follows: “The Secretary shall submit to the Congress—
+    Subsec. (f). [Pub. L. 102–550][/us/pl/102/550], § 832(b)(6), added subsec. (f) and struck out former subsec. (f) which read as follows: “The Secretary shall submit to the Congress—
 
     “(1) not later than three months after the end of each fiscal year in which payments are made under this section, an interim report containing a summary of the activities carried out under this section during such fiscal year and any preliminary findings or conclusions drawn from the demonstration program; and
 
     “(2) not later than March 15 of the year after the end of the last fiscal year in which such payments are made, a final report containing a summary of all activities carried out under this section, the evaluation required in subsection (e)(6)(D) of this section and any findings, conclusions, or recommendations for legislation drawn from the demonstration program.”
 
-    Subsec. (g). [Pub. L. 102–550, § 832(a)][/us/pl/102/550/s832/a], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “To the extent provided in appropriations Acts, of the amounts made available for assistance under [section 5303 of this title][/us/usc/t42/s5303], $2,000,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 shall be available to carry out this section.”
+    Subsec. (g). [Pub. L. 102–550][/us/pl/102/550], § 832(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “To the extent provided in appropriations Acts, of the amounts made available for assistance under [section 5303 of this title][/us/usc/t42/s5303], $2,000,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 shall be available to carry out this section.”
 
-    Subsec. (h). [Pub. L. 102–550, § 832(b)(7)][/us/pl/102/550/s832/b/7], added subsec. (h).
+    Subsec. (h). [Pub. L. 102–550][/us/pl/102/550], § 832(b)(7), added subsec. (h).
 
     1990—Subsec. (g). [Pub. L. 101–625][/us/pl/101/625] amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “There are authorized to be appropriated to carry out this section $2,000,000 for fiscal year 1988, and $2,000,000 for fiscal year 1989.”
 
-    1988—Subsec. (e)(3). [Pub. L. 100–242, § 525][/us/pl/100/242/s525], substituted “under this section” for “under this Act”.
+    1988—Subsec. (e)(3). [Pub. L. 100–242][/us/pl/100/242], § 525, substituted “under this section” for “under this Act”.
 
-    Subsec. (g). [Pub. L. 100–242, § 521][/us/pl/100/242/s521], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For purposes of carrying out this section, there are authorized to be appropriated not to exceed $2,000,000 for each of the fiscal years 1984 and 1985.”
+    Subsec. (g). [Pub. L. 100–242][/us/pl/100/242], § 521, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For purposes of carrying out this section, there are authorized to be appropriated not to exceed $2,000,000 for each of the fiscal years 1984 and 1985.”
 
-    1984—Subsec. (b)(3)(A), (B). [Pub. L. 98–479, § 101(b)(2)][/us/pl/98/479/s101/b/2], substituted “subsection (a)(1)” for “subsection (a)(4)” wherever appearing.
+    1984—Subsec. (b)(3)(A), (B). [Pub. L. 98–479][/us/pl/98/479], § 101(b)(2), substituted “subsection (a)(1)” for “subsection (a)(4)” wherever appearing.
 
-    Subsec. (c). [Pub. L. 98–479, § 101(b)(3)][/us/pl/98/479/s101/b/3], struck out “(1)” before “The Secretary shall award” and redesignated subpars. (A) to (D) as pars. (1) to (4), respectively.
+    Subsec. (c). [Pub. L. 98–479][/us/pl/98/479], § 101(b)(3), struck out “(1)” before “The Secretary shall award” and redesignated subpars. (A) to (D) as pars. (1) to (4), respectively.
 
 ----------
 
@@ -255,19 +255,19 @@
 [/us/usc/t42/s5304/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5304%2Fm
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1172
-[/us/pl/98/479/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fb%2F2
+[/us/pl/98/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtI
 [/us/stat/98/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2220
-[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1938
-[/us/pl/101/625/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs915
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4395
-[/us/pl/102/550/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832
+[/us/pl/102/550/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVIII
 [/us/stat/106/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3852
-[/us/pl/105/362/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs701%2Fd
+[/us/pl/105/362/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVII
 [/us/stat/112/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3287
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
@@ -278,34 +278,34 @@
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
-[/us/pl/102/550/s832/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fb%2F1
-[/us/pl/102/550/s832/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fd%2F1
-[/us/pl/102/550/s832/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fg%2F1
-[/us/pl/102/550/s832/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fe%2F1
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
-[/us/pl/102/550/s832/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fe%2F2
-[/us/pl/102/550/s832/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Ff%2F1
-[/us/pl/102/550/s832/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fb%2F2
-[/us/pl/102/550/s832/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fb%2F2
-[/us/pl/102/550/s832/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Ff%2F2%2FA
-[/us/pl/102/550/s832/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Ff%2F2%2FB
-[/us/pl/102/550/s832/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Ff%2F2%2FC
-[/us/pl/102/550/s832/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Ff%2F3
-[/us/pl/102/550/s832/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Ff%2F4
-[/us/pl/102/550/s832/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fb%2F4
-[/us/pl/102/550/s832/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fc
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/usc/t42/s5304/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5304%2Fm
-[/us/pl/102/550/s832/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fb%2F5%2FA
-[/us/pl/102/550/s832/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fb%2F5%2FB
-[/us/pl/102/550/s832/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fb%2F6
-[/us/pl/102/550/s832/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
-[/us/pl/102/550/s832/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs832%2Fb%2F7
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
-[/us/pl/100/242/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs525
-[/us/pl/100/242/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs521
-[/us/pl/98/479/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fb%2F2
-[/us/pl/98/479/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs101%2Fb%2F3
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 
 

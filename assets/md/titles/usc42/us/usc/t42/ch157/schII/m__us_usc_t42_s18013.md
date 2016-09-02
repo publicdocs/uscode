@@ -17,7 +17,7 @@
 
     Not later than 1 year after March 23, 2010, and annually thereafter, the Secretary of Labor shall prepare an aggregate annual report, using data collected from the Annual Return/Report of Employee Benefit Plan (Department of Labor Form 5500), that shall include general information on self-insured group health plans (including plan type, number of participants, benefits offered, funding arrangements, and benefit arrangements) as well as data from the financial filings of self-insured employers (including information on assets, liabilities, contributions, investments, and expenses). The Secretary shall submit such reports to the appropriate committees of Congress.
 
-([Pub. L. 111–148, title I, § 1253][/us/pl/111/148/s1253], as added [Pub. L. 111–148, title X, § 10103(f)(2)][/us/pl/111/148/s10103/f/2], Mar. 23, 2010, [124 Stat. 895][/us/stat/124/895].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1253, as added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10103(f)(2), Mar. 23, 2010, [124 Stat. 895][/us/stat/124/895].)
 
  __Prior Provisions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1253
-[/us/pl/111/148/s10103/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10103%2Ff%2F2
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F895
 [/us/pl/111/148/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1253
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg

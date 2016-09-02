@@ -161,7 +161,7 @@
 
         All laborers and mechanics employed by contractors and subcontractors in the performance of construction work financed in whole or in part by a loan guaranteed under this subchapter shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40. With respect to the labor standards in this subsection, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 ([64 Stat. 1267][/us/stat/64/1267]; 5 U.S.C. App.) and [section 3145 of title 40][/us/usc/t40/s3145].
 
-([Pub. L. 109–58, title XVII, § 1702][/us/pl/109/58/s1702], Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117]; [Pub. L. 111–85, title III, § 310][/us/pl/111/85/s310], Oct. 28, 2009, [123 Stat. 2873][/us/stat/123/2873]; [Pub. L. 112–74, div. B, title III, § 305(1)][/us/pl/112/74/s305/1], Dec. 23, 2011, [125 Stat. 877][/us/stat/125/877].)
+([Pub. L. 109–58, title XVII][/us/pl/109/58/tXVII], § 1702, Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117]; [Pub. L. 111–85, title III][/us/pl/111/85/tIII], § 310, Oct. 28, 2009, [123 Stat. 2873][/us/stat/123/2873]; [Pub. L. 112–74, div. B, title III][/us/pl/112/74/dB/tIII], § 305(1), Dec. 23, 2011, [125 Stat. 877][/us/stat/125/877].)
 
  __References in Text__ 
 
@@ -190,11 +190,11 @@
 [/us/usc/t15/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720
 [/us/stat/64/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1267
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/109/58/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1702
+[/us/pl/109/58/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVII
 [/us/stat/119/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1117
-[/us/pl/111/85/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs310
+[/us/pl/111/85/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2FtIII
 [/us/stat/123/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2873
-[/us/pl/112/74/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs305%2F1
+[/us/pl/112/74/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdB%2FtIII
 [/us/stat/125/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F877
 [/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
 [/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324

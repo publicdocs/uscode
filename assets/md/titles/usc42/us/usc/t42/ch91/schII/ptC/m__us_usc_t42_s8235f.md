@@ -45,7 +45,7 @@
 
         (5) sections 2, 3, and 4 of the Act entitled “An Act to amend section 2 of the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914, as amended (U.S.C., title 15, sec. 13), and for other purposes” approved June 19, 1936 ([15 U.S.C. 21a][/us/usc/t15/s21a], 13a, and 13b, commonly known as the Robinson-Patman Antidiscrimination Act).
 
-([Pub. L. 95–619, title II, § 267][/us/pl/95/619/s267], as added [Pub. L. 96–294, title V, § 562][/us/pl/96/294/s562], June 30, 1980, [94 Stat. 749][/us/stat/94/749].)
+([Pub. L. 95–619, title II][/us/pl/95/619/tII], § 267, as added [Pub. L. 96–294, title V][/us/pl/96/294/tV], § 562, June 30, 1980, [94 Stat. 749][/us/stat/94/749].)
 
  __References in Text__ 
 
@@ -70,8 +70,8 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8
 [/us/usc/t15/s21a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs21a
-[/us/pl/95/619/s267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs267
-[/us/pl/96/294/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs562
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
+[/us/pl/96/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtV
 [/us/stat/94/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F749
 [/us/usc/t42/s8216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8216
 [/us/usc/t42/s8229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8229

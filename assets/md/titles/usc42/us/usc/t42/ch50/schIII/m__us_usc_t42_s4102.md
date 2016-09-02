@@ -51,7 +51,7 @@
 
         (2) inform property owners about how the implementation of mitigation methods described in paragraph (1) may affect risk premium rates for flood insurance coverage under the National Flood Insurance Program.
 
-([Pub. L. 90–448, title XIII, § 1361][/us/pl/90/448/s1361], Aug. 1, 1968, [82 Stat. 587][/us/stat/82/587]; [Pub. L. 91–152, title IV, § 410(c)][/us/pl/91/152/s410/c], Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958]; [Pub. L. 113–89, § 26(a)(1)][/us/pl/113/89/s26/a/1], Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1361, Aug. 1, 1968, [82 Stat. 587][/us/stat/82/587]; [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 410(c), Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100238(b)(1), July 6, 2012, [126 Stat. 958][/us/stat/126/958]; [Pub. L. 113–89][/us/pl/113/89], § 26(a)(1), Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032].)
 
  __Amendments__ 
 
@@ -71,13 +71,13 @@
 
  __Guidelines__ 
 
-[Pub. L. 113–89, § 26(a)(2)][/us/pl/113/89/s26/a/2], Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032], provided that: 
+[Pub. L. 113–89][/us/pl/113/89], § 26(a)(2), Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032], provided that: 
 
 > “The Administrator \[of the Federal Emergency Management Agency\] shall issue the guidelines required under section 1361(d) of the National Flood Insurance Act of 1968 ([42 U.S.C. 4102(d)][/us/usc/t42/s4102/d]), as added by the amendment made by paragraph (1) of this subsection, not later than the expiration of the 1-year period beginning on the date of the enactment of this Act \[Mar. 21, 2014\].”
 
  __Task Force on Natural and Beneficial Functions of the Floodplain__ 
 
-    [Pub. L. 103–325, title V, § 562][/us/pl/103/325/s562], Sept. 23, 1994, [108 Stat. 2276][/us/stat/108/2276], established the Task Force on Natural and Beneficial Functions of the Floodplain to conduct a study on the functions of the floodplain that reduce flood-related losses and provided for its termination 24 months after its last member was designated.
+    [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 562, Sept. 23, 1994, [108 Stat. 2276][/us/stat/108/2276], established the Task Force on Natural and Beneficial Functions of the Floodplain to conduct a study on the functions of the floodplain that reduce flood-related losses and provided for its termination 24 months after its last member was designated.
 
 ----------
 
@@ -86,15 +86,15 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1361
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F587
-[/us/pl/91/152/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs410%2Fc
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F397
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
-[/us/pl/113/89/s26/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs26%2Fa%2F1
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1032
 [/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -102,10 +102,10 @@
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/113/89/s26/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs26%2Fa%2F2
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/stat/128/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1032
 [/us/usc/t42/s4102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102%2Fd
-[/us/pl/103/325/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs562
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2276
 
 

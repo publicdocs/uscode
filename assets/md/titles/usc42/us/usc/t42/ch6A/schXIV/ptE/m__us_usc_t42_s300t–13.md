@@ -35,11 +35,11 @@
 
         Grants under subsection (a) of this section shall be made on such terms and conditions as the Secretary may prescribe.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1643, as added [Pub. L. 96–79, title III, § 301(a)][/us/pl/96/79/s301/a], Oct. 4, 1979, [93 Stat. 639][/us/stat/93/639].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1643, as added [Pub. L. 96–79, title III][/us/pl/96/79/tIII], § 301(a), Oct. 4, 1979, [93 Stat. 639][/us/stat/93/639].)
 
  __References in Text__ 
 
-    [Section 300m of this title][/us/usc/t42/s300m], referred to in subsec. (a), was in the original a reference to section 1521 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799]. [Pub. L. 101–354, § 2][/us/pl/101/354/s2], Aug. 10, 1990, [104 Stat. 410][/us/stat/104/410], enacted section 1503 of act July 1, 1944, which is classified to [section 300m of this title][/us/usc/t42/s300m].
+    [Section 300m of this title][/us/usc/t42/s300m], referred to in subsec. (a), was in the original a reference to section 1521 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII][/us/pl/99/660/tVII], § 701(a), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799]. [Pub. L. 101–354][/us/pl/101/354], § 2, Aug. 10, 1990, [104 Stat. 410][/us/stat/104/410], enacted section 1503 of act July 1, 1944, which is classified to [section 300m of this title][/us/usc/t42/s300m].
 
 ----------
 
@@ -49,12 +49,12 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/96/79/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs301%2Fa
+[/us/pl/96/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtIII
 [/us/stat/93/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F639
 [/us/usc/t42/s300m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m
-[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/pl/99/660/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
-[/us/pl/101/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F354%2Fs2
+[/us/pl/101/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F354
 [/us/stat/104/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F410
 [/us/usc/t42/s300m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300m
 

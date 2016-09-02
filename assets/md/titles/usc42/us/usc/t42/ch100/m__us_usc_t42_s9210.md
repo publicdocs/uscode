@@ -51,7 +51,7 @@
 
     The Secretary, as appropriate, may merge any continuing or on-going studies within the Department of Energy or any other Federal agency with those required under this section to avoid any unnecessary duplication of effort or funding.
 
-([Pub. L. 96–345, § 11][/us/pl/96/345/s11], Sept. 8, 1980, [94 Stat. 1145][/us/stat/94/1145]; [Pub. L. 99–386, title I, § 104(b)][/us/pl/99/386/s104/b], Aug. 22, 1986, [100 Stat. 821][/us/stat/100/821].)
+([Pub. L. 96–345][/us/pl/96/345], § 11, Sept. 8, 1980, [94 Stat. 1145][/us/stat/94/1145]; [Pub. L. 99–386, title I][/us/pl/99/386/tI], § 104(b), Aug. 22, 1986, [100 Stat. 821][/us/stat/100/821].)
 
  __Amendments__ 
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/96/345/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345%2Fs11
+[/us/pl/96/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F345
 [/us/stat/94/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1145
-[/us/pl/99/386/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs104%2Fb
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F821
 [/us/pl/99/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

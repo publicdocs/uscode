@@ -17,11 +17,11 @@
 
     The provisions of this part shall not apply with respect to a religious nonmedical health care institution (as defined in [section 1395x(ss)(1) of this title][/us/usc/t42/s1395x/ss/1]).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1162, as added [Pub. L. 97–248, title I, § 143][/us/pl/97/248/s143], Sept. 3, 1982, [96 Stat. 393][/us/stat/96/393]; amended [Pub. L. 105–33, title IV, § 4454(c)(2)][/us/pl/105/33/s4454/c/2], Aug. 5, 1997, [111 Stat. 431][/us/stat/111/431].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1162, as added [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 143, Sept. 3, 1982, [96 Stat. 393][/us/stat/96/393]; amended [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4454(c)(2), Aug. 5, 1997, [111 Stat. 431][/us/stat/111/431].)
 
  __Prior Provisions__ 
 
-    A prior section 1320c–11, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1162, as added Oct. 30, 1972, [Pub. L. 92–603, title II, § 249F(b)][/us/pl/92/603/s249F/b], [86 Stat. 1440][/us/stat/86/1440]; amended Dec. 5, 1980, [Pub. L. 96–499, title IX][/us/pl/96/499], §§ 922(a), 927(b), [94 Stat. 2628][/us/stat/94/2628], 2630; Aug. 13, 1981, 97–35, title XXI, § 2113(h), [95 Stat. 795][/us/stat/95/795], related to Statewide Professional Standards Review Councils, prior to the general revision of this part by [Pub. L. 97–248][/us/pl/97/248].
+    A prior section 1320c–11, [act Aug. 14, 1935, ch. 531, title XI][/us/act/1935-08-14/ch531/tXI], § 1162, as added Oct. 30, 1972, [Pub. L. 92–603, title II][/us/pl/92/603/tII], § 249F(b), [86 Stat. 1440][/us/stat/86/1440]; amended Dec. 5, 1980, [Pub. L. 96–499, title IX][/us/pl/96/499/tIX], §§ 922(a), 927(b), [94 Stat. 2628][/us/stat/94/2628], 2630; Aug. 13, 1981, 97–35, title XXI, § 2113(h), [95 Stat. 795][/us/stat/95/795], related to Statewide Professional Standards Review Councils, prior to the general revision of this part by [Pub. L. 97–248][/us/pl/97/248].
 
  __Amendments__ 
 
@@ -40,14 +40,14 @@
 
 [/us/usc/t42/s1395x/ss/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fss%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/248/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs143
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F393
-[/us/pl/105/33/s4454/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4454%2Fc%2F2
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F431
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/92/603/s249F/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs249F%2Fb
+[/us/act/1935-08-14/ch531/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtXI
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1440
-[/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
+[/us/pl/96/499/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIX
 [/us/stat/94/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2628
 [/us/stat/95/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F795
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248

@@ -37,7 +37,7 @@
 
         For each of the requirements of this section, the regulations may vary for different types of medical waste and for different types of medical waste generators.
 
-([Pub. L. 89–272, title II, § 11003][/us/pl/89/272/s11003], as added [Pub. L. 100–582, § 2(a)][/us/pl/100/582/s2/a], Nov. 1, 1988, [102 Stat. 2952][/us/stat/102/2952].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 11003, as added [Pub. L. 100–582][/us/pl/100/582], § 2(a), Nov. 1, 1988, [102 Stat. 2952][/us/stat/102/2952].)
 
 ----------
 
@@ -51,8 +51,8 @@
 [/us/usc/t42/s6992a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6992a
 [/us/usc/t42/s6992a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6992a
 [/us/usc/t42/s6992a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6992a
-[/us/pl/89/272/s11003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs11003
-[/us/pl/100/582/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582%2Fs2%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582
 [/us/stat/102/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2952
 
 

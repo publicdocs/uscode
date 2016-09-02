@@ -27,7 +27,7 @@
 
         The Corporation, and any legal assistance program assisted by the Corporation, shall be eligible to be treated as an organization described in [section 170(c)(2)(B) of title 26][/us/usc/t26/s170/c/2/B] and as an organization described in [section 501(c)(3) of title 26][/us/usc/t26/s501/c/3] which is exempt from taxation under [section 501(a) of title 26][/us/usc/t26/s501/a]. If such treatments are conferred in accordance with the provisions of title 26, the Corporation, and legal assistance programs assisted by the Corporation, shall be subject to all provisions of title 26 relevant to the conduct of organizations exempt from taxation.
 
-([Pub. L. 88–452, title X, § 1003][/us/pl/88/452/s1003], as added [Pub. L. 93–355, § 2][/us/pl/93/355/s2], July 25, 1974, [88 Stat. 379][/us/stat/88/379]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 88–452, title X][/us/pl/88/452/tX], § 1003, as added [Pub. L. 93–355][/us/pl/93/355], § 2, July 25, 1974, [88 Stat. 379][/us/stat/88/379]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Transition to Legal Services Corporation Program__ 
 
-[Pub. L. 93–355, § 3(a)][/us/pl/93/355/s3/a]–(d)(1), (e), July 25, 1974, [88 Stat. 389][/us/stat/88/389], 390, provided that:
+[Pub. L. 93–355][/us/pl/93/355], § 3(a)–(d)(1), (e), July 25, 1974, [88 Stat. 389][/us/stat/88/389], 390, provided that:
 
 >     “(a) Notwithstanding any other provision of law, effective ninety days after the date of the first meeting of the Board of Directors of the Legal Services Corporation established under the Legal Services Corporation Act (title X of the Economic Opportunity Act of 1964, as added by this Act) \[this subchapter\], the Legal Services Corporation shall succeed to all rights of the Federal Government to capital equipment in the possession of legal services programs or activities assisted pursuant to section 222(a)(3), 230, 232 \[sections 2809(a)(3), 2823, and 2825 of this title\], or any other provision of the Economic Opportunity Act of 1964 \[this chapter\].
 
@@ -73,13 +73,13 @@
 [/us/usc/t26/s170/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fc%2F2%2FB
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/88/452/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs1003
-[/us/pl/93/355/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs2
+[/us/pl/88/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtX
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F379
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/93/355/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355%2Fs3%2Fa
+[/us/pl/93/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F355
 [/us/stat/88/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F389
 [/us/usc/t42/s2809/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F3
 

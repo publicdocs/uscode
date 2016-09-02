@@ -103,7 +103,7 @@
 
             (B) to modify the authority to provide pregnancy-related services under a waiver specified in paragraph (1)(B).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2112, as added [Pub. L. 111–3, title I, § 111(a)][/us/pl/111/3/s111/a], Feb. 4, 2009, [123 Stat. 26][/us/stat/123/26].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2112, as added [Pub. L. 111–3, title I][/us/pl/111/3/tI], § 111(a), Feb. 4, 2009, [123 Stat. 26][/us/stat/123/26].)
 
  __Effective Date__ 
 
@@ -125,7 +125,7 @@
 [/us/usc/t42/s1397jj/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397jj%2Fa
 [/us/usc/t42/s1397jj/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397jj%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/3/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs111%2Fa
+[/us/pl/111/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtI
 [/us/stat/123/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F26
 [/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396

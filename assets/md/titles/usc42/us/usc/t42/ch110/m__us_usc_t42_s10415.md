@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10414.md) | [Next](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10416.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10415)
 
-## § 10415. Repealed. [Pub. L. 108–36, title IV, § 410][/us/pl/108/36/s410], June 25, 2003, [117 Stat. 827][/us/stat/117/827]
+## § 10415. Repealed. [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 410, June 25, 2003, [117 Stat. 827][/us/stat/117/827]
 
-    Section, [Pub. L. 98–457, title III, § 315][/us/pl/98/457/s315], as added [Pub. L. 102–295, title III, § 321][/us/pl/102/295/s321], May 28, 1992, [106 Stat. 210][/us/stat/106/210], related to model State leadership grants for domestic violence intervention.
+    Section, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 315, as added [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 321, May 28, 1992, [106 Stat. 210][/us/stat/106/210], related to model State leadership grants for domestic violence intervention.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/108/36/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs410
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F827
-[/us/pl/98/457/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs315
-[/us/pl/102/295/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs321
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F210
 
 

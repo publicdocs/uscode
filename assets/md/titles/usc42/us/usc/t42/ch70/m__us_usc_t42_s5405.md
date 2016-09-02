@@ -31,7 +31,7 @@
 
     (b) A certified copy of the transcript of the record and proceedings under this section shall be furnished by the Secretary to any interested party at his request and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the order have previously been initiated or become final under subsection (a) of this section.
 
-([Pub. L. 93–383, title VI, § 606][/us/pl/93/383/s606], Aug. 22, 1974, [88 Stat. 702][/us/stat/88/702].)
+([Pub. L. 93–383, title VI][/us/pl/93/383/tVI], § 606, Aug. 22, 1974, [88 Stat. 702][/us/stat/88/702].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t42/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5403
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/93/383/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs606
+[/us/pl/93/383/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVI
 [/us/stat/88/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F702
 
 

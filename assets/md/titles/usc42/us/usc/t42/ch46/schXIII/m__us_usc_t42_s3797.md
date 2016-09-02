@@ -57,23 +57,23 @@
 
         Notwithstanding the provisions of section 3744(c)(3) 1 of this title, any construction projects which were funded under this chapter, as in effect before December 27, 1979, and which were budgeted in anticipation of receiving additional Federal funding for such construction may continue for two years to be funded under this chapter.
 
-([Pub. L. 90–351, title I, § 2601][/us/pl/90/351/s2601], formerly § 1301, as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1221][/us/stat/93/1221]; amended [Pub. L. 98–473, title II, § 609G][/us/pl/98/473/s609G], Oct. 12, 1984, [98 Stat. 2100][/us/stat/98/2100]; renumbered § 1401, [Pub. L. 99–570, title I, § 1552(a)(2)][/us/pl/99/570/s1552/a/2], Oct. 27, 1986, [100 Stat. 3207–41][/us/stat/100/3207-41]; renumbered § 1501, renumbered § 1601, [Pub. L. 101–647, title II, § 241(a)(1)(B)][/us/pl/101/647/s241/a/1/B], title VIII, § 801(a)(2), Nov. 29, 1990, [104 Stat. 4810][/us/stat/104/4810], 4825; renumbered § 1701, [Pub. L. 102–521, § 4(a)(2)][/us/pl/102/521/s4/a/2], Oct. 25, 1992, [106 Stat. 3404][/us/stat/106/3404]; renumbered § 1801, renumbered § 1901, renumbered § 2001, renumbered § 2101, renumbered § 2201, renumbered § 2301, renumbered § 2401, renumbered § 2501, [Pub. L. 103–322, title I, § 10003(a)(2)][/us/pl/103/322/s10003/a/2], title II, § 20201(a)(2), title III, § 32101(a)(2), title IV, §§ 40121(a)(2), 40231(a)(2), title V, § 50001(a)(2), title XXI, §§ 210201(a)(2), 210302(c)(1)(B), Sept. 13, 1994, [108 Stat. 1808][/us/stat/108/1808], 1819, 1898, 1910, 1932, 1955, 2062, 2066, renumbered § 2601, [Pub. L. 105–181, § 3(a)(2)][/us/pl/105/181/s3/a/2], June 16, 1998, [112 Stat. 512][/us/stat/112/512].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 2601, formerly § 1301, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1221][/us/stat/93/1221]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609G, Oct. 12, 1984, [98 Stat. 2100][/us/stat/98/2100]; renumbered § 1401, [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1552(a)(2), Oct. 27, 1986, [100 Stat. 3207–41][/us/stat/100/3207-41]; renumbered § 1501, renumbered § 1601, [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 241(a)(1)(B), title VIII, § 801(a)(2), Nov. 29, 1990, [104 Stat. 4810][/us/stat/104/4810], 4825; renumbered § 1701, [Pub. L. 102–521][/us/pl/102/521], § 4(a)(2), Oct. 25, 1992, [106 Stat. 3404][/us/stat/106/3404]; renumbered § 1801, renumbered § 1901, renumbered § 2001, renumbered § 2101, renumbered § 2201, renumbered § 2301, renumbered § 2401, renumbered § 2501, [Pub. L. 103–322, title I][/us/pl/103/322/tI], § 10003(a)(2), title II, § 20201(a)(2), title III, § 32101(a)(2), title IV, §§ 40121(a)(2), 40231(a)(2), title V, § 50001(a)(2), title XXI, §§ 210201(a)(2), 210302(c)(1)(B), Sept. 13, 1994, [108 Stat. 1808][/us/stat/108/1808], 1819, 1898, 1910, 1932, 1955, 2062, 2066, renumbered § 2601, [Pub. L. 105–181][/us/pl/105/181], § 3(a)(2), June 16, 1998, [112 Stat. 512][/us/stat/112/512].)
 
  __References in Text__ 
 
     The Justice System Improvement Act of 1979, referred to in subsec. (e), is [Pub. L. 96–157][/us/pl/96/157], Dec. 27, 1979, [93 Stat. 1167][/us/stat/93/1167], as amended, which is classified principally to this chapter (§ 3701 et seq.). For complete classification of this Act to the Code, see Short Title of 1979 Amendment note under [section 3711 of this title][/us/usc/t42/s3711] and Tables.
 
-    Subchapter V of this chapter, referred to in subsec. (h), was repealed and former subchapter VI was redesignated as V by [Pub. L. 98–473, title II][/us/pl/98/473], §§ 607, 608(e), Oct. 12, 1984, [98 Stat. 2086][/us/stat/98/2086], 2087, which was also repealed and a new subchapter V enacted by [Pub. L. 100–690, title VI, § 6091(a)][/us/pl/100/690/s6091/a], Nov. 18, 1988, [102 Stat. 4328][/us/stat/102/4328].
+    Subchapter V of this chapter, referred to in subsec. (h), was repealed and former subchapter VI was redesignated as V by [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 607, 608(e), Oct. 12, 1984, [98 Stat. 2086][/us/stat/98/2086], 2087, which was also repealed and a new subchapter V enacted by [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6091(a), Nov. 18, 1988, [102 Stat. 4328][/us/stat/102/4328].
 
     The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (i), is [Pub. L. 93–415][/us/pl/93/415], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under [section 5601 of this title][/us/usc/t42/s5601] and Tables.
 
-    [Section 3744(c)(3) of this title][/us/usc/t42/s3744/c/3], referred to in subsec. (j), is a reference to [section 3744(c)(3) of this title][/us/usc/t42/s3744/c/3] as in effect prior to the general amendment of [section 3744 of this title][/us/usc/t42/s3744] by [Pub. L. 98–473][/us/pl/98/473], and subsequent repeal by [Pub. L. 100–690, title VI, § 6091(a)][/us/pl/100/690/s6091/a], Nov. 18, 1988, [102 Stat. 4328][/us/stat/102/4328].
+    [Section 3744(c)(3) of this title][/us/usc/t42/s3744/c/3], referred to in subsec. (j), is a reference to [section 3744(c)(3) of this title][/us/usc/t42/s3744/c/3] as in effect prior to the general amendment of [section 3744 of this title][/us/usc/t42/s3744] by [Pub. L. 98–473][/us/pl/98/473], and subsequent repeal by [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6091(a), Nov. 18, 1988, [102 Stat. 4328][/us/stat/102/4328].
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–473, § 609G(1)][/us/pl/98/473/s609G/1], designated existing provisions as par. (1) and added par. (2).
+    1984—Subsec. (a). [Pub. L. 98–473][/us/pl/98/473], § 609G(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsecs. (j), (k). [Pub. L. 98–473, § 609G(2)][/us/pl/98/473/s609G/2], (3), redesignated subsec. (k) as (j) and struck out former subsec. (j) relating to State planning agency meeting representation requirement as competent to carry out functions, powers, and duties of State criminal justice council.
+    Subsecs. (j), (k). [Pub. L. 98–473][/us/pl/98/473], § 609G(2), (3), redesignated subsec. (k) as (j) and struck out former subsec. (j) relating to State planning agency meeting representation requirement as competent to carry out functions, powers, and duties of State criminal justice council.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -95,27 +95,27 @@
 ----------
 
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
-[/us/pl/90/351/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2601
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1221
-[/us/pl/98/473/s609G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609G
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2100
-[/us/pl/99/570/s1552/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1552%2Fa%2F2
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-41
-[/us/pl/101/647/s241/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs241%2Fa%2F1%2FB
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4810
-[/us/pl/102/521/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs4%2Fa%2F2
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3404
-[/us/pl/103/322/s10003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs10003%2Fa%2F2
+[/us/pl/103/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtI
 [/us/stat/108/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1808
-[/us/pl/105/181/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181%2Fs3%2Fa%2F2
+[/us/pl/105/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F181
 [/us/stat/112/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F512
 [/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1167
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2086
-[/us/pl/100/690/s6091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6091%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4328
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
@@ -124,10 +124,10 @@
 [/us/usc/t42/s3744/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3744%2Fc%2F3
 [/us/usc/t42/s3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3744
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/100/690/s6091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6091%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4328
-[/us/pl/98/473/s609G/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609G%2F1
-[/us/pl/98/473/s609G/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609G%2F2
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s609AA/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609AA%2Fa
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711

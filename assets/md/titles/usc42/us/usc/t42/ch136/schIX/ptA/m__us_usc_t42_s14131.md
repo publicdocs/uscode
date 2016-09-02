@@ -57,7 +57,7 @@
 
         (3) Notwithstanding any other provision of law, the Attorney General shall make available to the Director of the National Institute of Justice during the first fiscal year in which funds are distributed under this subtitle up to $250,000 from the funds available under part X of Title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3796kk][/us/usc/t42/s3796kk] et seq.\] to carry out this subsection.
 
-([Pub. L. 103–322, title XXI, § 210303][/us/pl/103/322/s210303], Sept. 13, 1994, [108 Stat. 2068][/us/stat/108/2068].)
+([Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210303, Sept. 13, 1994, [108 Stat. 2068][/us/stat/108/2068].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t42/s3796kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796kk
-[/us/pl/103/322/s210303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210303
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2068
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

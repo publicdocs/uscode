@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    Subchapter X of this chapter, referred to in text, was in the original “title IV of this Act”, meaning title IV of [act Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], [65 Stat. 310][/us/stat/65/310], as amended, which enacted sections 1593 to 1593d of this title and was repealed by [act June 30, 1953, ch. 170, § 19][/us/act/1953-06-30/ch170/s19], [67 Stat. 126][/us/stat/67/126].
+    Subchapter X of this chapter, referred to in text, was in the original “title IV of this Act”, meaning title IV of [act Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], [65 Stat. 310][/us/stat/65/310], as amended, which enacted sections 1593 to 1593d of this title and was repealed by [act June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 19, [67 Stat. 126][/us/stat/67/126].
 
 ----------
 
@@ -34,7 +34,7 @@
 [/us/stat/65/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F307
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F310
-[/us/act/1953-06-30/ch170/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs19
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F126
 
 

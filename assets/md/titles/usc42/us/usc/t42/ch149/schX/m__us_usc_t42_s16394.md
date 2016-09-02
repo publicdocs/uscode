@@ -17,7 +17,7 @@
 
     The Secretary shall ensure that each program authorized by this Act or an amendment made by this Act includes an outreach component to provide information, as appropriate, to manufacturers, consumers, engineers, architects, builders, energy service companies, institutions of higher education, facility planners and managers, State and local governments, and other entities.
 
-([Pub. L. 109–58, title X, § 1004][/us/pl/109/58/s1004], Aug. 8, 2005, [119 Stat. 930][/us/stat/119/930].)
+([Pub. L. 109–58, title X][/us/pl/109/58/tX], § 1004, Aug. 8, 2005, [119 Stat. 930][/us/stat/119/930].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1004
+[/us/pl/109/58/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtX
 [/us/stat/119/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F930
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F594

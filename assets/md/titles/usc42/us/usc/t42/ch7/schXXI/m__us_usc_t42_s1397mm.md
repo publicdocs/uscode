@@ -157,7 +157,7 @@
 
         (6) such other outreach initiatives as the Secretary determines would increase public awareness of the programs under this subchapter and subchapter XIX.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2113, as added [Pub. L. 111–3, title II, § 201(a)][/us/pl/111/3/s201/a], Feb. 4, 2009, [123 Stat. 35][/us/stat/123/35]; amended [Pub. L. 111–148, title X, § 10203(d)(2)(E)][/us/pl/111/148/s10203/d/2/E], Mar. 23, 2010, [124 Stat. 931][/us/stat/124/931]; [Pub. L. 114–10, title III, § 303][/us/pl/114/10/s303], Apr. 16, 2015, [129 Stat. 158][/us/stat/129/158].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XXI, § 2113, as added [Pub. L. 111–3, title II][/us/pl/111/3/tII], § 201(a), Feb. 4, 2009, [123 Stat. 35][/us/stat/123/35]; amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10203(d)(2)(E), Mar. 23, 2010, [124 Stat. 931][/us/stat/124/931]; [Pub. L. 114–10, title III][/us/pl/114/10/tIII], § 303, Apr. 16, 2015, [129 Stat. 158][/us/stat/129/158].)
 
  __References in Text__ 
 
@@ -169,13 +169,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–10, § 303(1)][/us/pl/114/10/s303/1], substituted “2017” for “2015”.
+    2015—Subsec. (a)(1). [Pub. L. 114–10][/us/pl/114/10], § 303(1), substituted “2017” for “2015”.
 
-    Subsec. (g). [Pub. L. 114–10, § 303(2)][/us/pl/114/10/s303/2], inserted “and $40,000,000 for the period of fiscal years 2016 and 2017” after “2015”.
+    Subsec. (g). [Pub. L. 114–10][/us/pl/114/10], § 303(2), inserted “and $40,000,000 for the period of fiscal years 2016 and 2017” after “2015”.
 
-    2010—Subsec. (a)(1). [Pub. L. 111–148, § 10203(d)(2)(E)(i)][/us/pl/111/148/s10203/d/2/E/i], substituted “2015” for “2013”.
+    2010—Subsec. (a)(1). [Pub. L. 111–148][/us/pl/111/148], § 10203(d)(2)(E)(i), substituted “2015” for “2013”.
 
-    Subsec. (g). [Pub. L. 111–148, § 10203(d)(2)(E)(ii)][/us/pl/111/148/s10203/d/2/E/ii], substituted “$140,000,000 for the period of fiscal years 2009 through 2015” for “$100,000,000 for the period of fiscal years 2009 through 2013”.
+    Subsec. (g). [Pub. L. 111–148][/us/pl/111/148], § 10203(d)(2)(E)(ii), substituted “$140,000,000 for the period of fiscal years 2009 through 2015” for “$100,000,000 for the period of fiscal years 2009 through 2013”.
 
  __Effective Date__ 
 
@@ -200,11 +200,11 @@
 [/us/usc/t42/s1397dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd
 [/us/usc/t42/s1397ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/111/3/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs201%2Fa
+[/us/pl/111/3/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtII
 [/us/stat/123/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F35
-[/us/pl/111/148/s10203/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10203%2Fd%2F2%2FE
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F931
-[/us/pl/114/10/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs303
+[/us/pl/114/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtIII
 [/us/stat/129/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F158
 [/us/pl/94/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437
 [/us/stat/90/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1400
@@ -215,10 +215,10 @@
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/pl/114/10/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs303%2F1
-[/us/pl/114/10/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs303%2F2
-[/us/pl/111/148/s10203/d/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10203%2Fd%2F2%2FE%2Fi
-[/us/pl/111/148/s10203/d/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10203%2Fd%2F2%2FE%2Fii
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 

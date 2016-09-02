@@ -33,7 +33,7 @@
 
             The President, by and with the advice and consent of the Senate, shall appoint the Commissioner.
 
-([Pub. L. 101–501, title IX, § 915][/us/pl/101/501/s915], Nov. 3, 1990, [104 Stat. 1263][/us/stat/104/1263].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 915, Nov. 3, 1990, [104 Stat. 1263][/us/stat/104/1263].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/101/501/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs915
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1263
 [/us/pl/101/501/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs915
 [/us/pl/101/501/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs915

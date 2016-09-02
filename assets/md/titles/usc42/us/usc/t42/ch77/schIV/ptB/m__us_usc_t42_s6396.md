@@ -17,7 +17,7 @@
 
     No State law or State program in effect on December 22, 1975, or which may become effective thereafter, shall be superseded by any provision of title I or II of this Act (other than any provision of such title which amends another law) or any rule, regulation, or order thereunder, except insofar as such State law or State program is in conflict with such provision, rule, regulation, or order.
 
-([Pub. L. 94–163, title V, § 526][/us/pl/94/163/s526], Dec. 22, 1975, [89 Stat. 964][/us/stat/89/964].)
+([Pub. L. 94–163, title V][/us/pl/94/163/tV], § 526, Dec. 22, 1975, [89 Stat. 964][/us/stat/89/964].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/94/163/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs526
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F964
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F875

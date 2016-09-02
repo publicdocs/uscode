@@ -51,7 +51,7 @@
 
         Any guarantee of a loan to a nonprofit private agency made by the Secretary pursuant to this part shall be incontestable in the hands of an applicant on whose behalf such guarantee is made, and as to any person who makes or contracts to make a loan to such applicant in reliance thereon, except for fraud or misrepresentation on the part of such applicant or such other person.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 623, as added [Pub. L. 91–296, title II, § 201][/us/pl/91/296/s201], June 30, 1970, [84 Stat. 346][/us/stat/84/346].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 623, as added [Pub. L. 91–296, title II][/us/pl/91/296/tII], § 201, June 30, 1970, [84 Stat. 346][/us/stat/84/346].)
 
 ----------
 
@@ -67,7 +67,7 @@
 [/us/usc/t42/s291c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291c%2Fa
 [/us/usc/t42/s291e/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291e%2Fe
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs201
+[/us/pl/91/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtII
 [/us/stat/84/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F346
 
 

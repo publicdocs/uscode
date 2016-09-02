@@ -65,7 +65,7 @@
 
         In evaluating the extent of the drug-related crime problem pursuant to subsection (c) of this section, the Secretary may consider whether housing projects proposed for assistance are located in a high intensity drug trafficking area designated pursuant to section 1504  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  of title 21.
 
-([Pub. L. 100–690, title V, § 5125][/us/pl/100/690/s5125], Nov. 18, 1988, [102 Stat. 4302][/us/stat/102/4302]; [Pub. L. 101–625, title V, § 581(a)][/us/pl/101/625/s581/a], Nov. 28, 1990, [104 Stat. 4246][/us/stat/104/4246]; [Pub. L. 102–550, title I, § 161(d)(3)][/us/pl/102/550/s161/d/3], Oct. 28, 1992, [106 Stat. 3719][/us/stat/106/3719]; [Pub. L. 104–330, title VII, § 704(3)][/us/pl/104/330/s704/3], Oct. 26, 1996, [110 Stat. 4051][/us/stat/110/4051]; [Pub. L. 105–276, title II, § 220(3)][/us/pl/105/276/s220/3], title V, § 586(e), Oct. 21, 1998, [112 Stat. 2488][/us/stat/112/2488], 2647.)
+([Pub. L. 100–690, title V][/us/pl/100/690/tV], § 5125, Nov. 18, 1988, [102 Stat. 4302][/us/stat/102/4302]; [Pub. L. 101–625, title V][/us/pl/101/625/tV], § 581(a), Nov. 28, 1990, [104 Stat. 4246][/us/stat/104/4246]; [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 161(d)(3), Oct. 28, 1992, [106 Stat. 3719][/us/stat/106/3719]; [Pub. L. 104–330, title VII][/us/pl/104/330/tVII], § 704(3), Oct. 26, 1996, [110 Stat. 4051][/us/stat/110/4051]; [Pub. L. 105–276, title II][/us/pl/105/276/tII], § 220(3), title V, § 586(e), Oct. 21, 1998, [112 Stat. 2488][/us/stat/112/2488], 2647.)
 
  __References in Text__ 
 
@@ -73,31 +73,31 @@
 
     Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (b)(2)(A), is [section 503(a) of Pub. L. 105–276][/us/pl/105/276/s503/a], which is set out as an Effective Date of 1998 Amendment note under [section 1437 of this title][/us/usc/t42/s1437].
 
-    [Section 1504 of title 21][/us/usc/t21/s1504], referred to in subsec. (e), was repealed by [Pub. L. 100–690, title I, § 1009][/us/pl/100/690/s1009], Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188], as amended.
+    [Section 1504 of title 21][/us/usc/t21/s1504], referred to in subsec. (e), was repealed by [Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1009, Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188], as amended.
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–276, § 586(e)(1)][/us/pl/105/276/s586/e/1], substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity” in first sentence and “or violent crime in and around” for “crime on the premises” in second sentence, and inserted before period at end “, which plan shall be coordinated with and may be included in the public housing agency plan submitted to the Secretary pursuant to [section 1437c–1 of this title][/us/usc/t42/s1437c–1]”.
+    1998—Subsec. (a). [Pub. L. 105–276][/us/pl/105/276], § 586(e)(1), substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity” in first sentence and “or violent crime in and around” for “crime on the premises” in second sentence, and inserted before period at end “, which plan shall be coordinated with and may be included in the public housing agency plan submitted to the Secretary pursuant to [section 1437c–1 of this title][/us/usc/t42/s1437c–1]”.
 
-    [Pub. L. 105–276, § 220(3)][/us/pl/105/276/s220/3], inserted “an Indian tribe” after “resident management corporation,”.
+    [Pub. L. 105–276][/us/pl/105/276], § 220(3), inserted “an Indian tribe” after “resident management corporation,”.
 
-    Subsec. (b). [Pub. L. 105–276, § 586(e)(5)][/us/pl/105/276/s586/e/5], (6), added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsec. (b). [Pub. L. 105–276][/us/pl/105/276], § 586(e)(5), (6), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    [Pub. L. 105–276, § 586(e)(2)(A)][/us/pl/105/276/s586/e/2/A], inserted introductory provisions and struck out former introductory provisions which read as follows: “Except as provided by subsections (c) and (d) of this section the Secretary shall approve applications under this subchapter based exclusively on—”.
+    [Pub. L. 105–276][/us/pl/105/276], § 586(e)(2)(A), inserted introductory provisions and struck out former introductory provisions which read as follows: “Except as provided by subsections (c) and (d) of this section the Secretary shall approve applications under this subchapter based exclusively on—”.
 
-    Subsec. (b)(1). [Pub. L. 105–276, § 586(e)(2)(B)][/us/pl/105/276/s586/e/2/B], substituted “or violent crime problem in and around” for “crime problem in”.
+    Subsec. (b)(1). [Pub. L. 105–276][/us/pl/105/276], § 586(e)(2)(B), substituted “or violent crime problem in and around” for “crime problem in”.
 
-    Subsec. (c). [Pub. L. 105–276, § 586(e)(5)][/us/pl/105/276/s586/e/5], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 105–276][/us/pl/105/276], § 586(e)(5), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    [Pub. L. 105–276, § 586(e)(3)(A)][/us/pl/105/276/s586/e/3/A], substituted “subsection (c)” for “subsection (b)” in introductory provisions.
+    [Pub. L. 105–276][/us/pl/105/276], § 586(e)(3)(A), substituted “subsection (c)” for “subsection (b)” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 105–276, § 586(e)(3)(B)][/us/pl/105/276/s586/e/3/B], inserted “or violent” after “drug-related” in two places.
+    Subsec. (c)(2). [Pub. L. 105–276][/us/pl/105/276], § 586(e)(3)(B), inserted “or violent” after “drug-related” in two places.
 
-    Subsec. (d). [Pub. L. 105–276, § 586(e)(5)][/us/pl/105/276/s586/e/5], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 105–276][/us/pl/105/276], § 586(e)(5), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    [Pub. L. 105–276, § 586(e)(4)][/us/pl/105/276/s586/e/4], substituted “subsection (c)” for “subsection (b)”.
+    [Pub. L. 105–276][/us/pl/105/276], § 586(e)(4), substituted “subsection (c)” for “subsection (b)”.
 
-    Subsec. (e). [Pub. L. 105–276, § 586(e)(5)][/us/pl/105/276/s586/e/5], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 105–276][/us/pl/105/276], § 586(e)(5), redesignated subsec. (d) as (e).
 
     1996—Subsec. (a). [Pub. L. 104–330][/us/pl/104/330] inserted “a tribally designated housing entity,” after “resident management corporation,”.
 
@@ -122,15 +122,15 @@
 
 [/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
-[/us/pl/100/690/s5125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs5125
+[/us/pl/100/690/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtV
 [/us/stat/102/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4302
-[/us/pl/101/625/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs581%2Fa
+[/us/pl/101/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtV
 [/us/stat/104/4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4246
-[/us/pl/102/550/s161/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs161%2Fd%2F3
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3719
-[/us/pl/104/330/s704/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs704%2F3
+[/us/pl/104/330/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtVII
 [/us/stat/110/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4051
-[/us/pl/105/276/s220/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs220%2F3
+[/us/pl/105/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtII
 [/us/stat/112/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2488
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
@@ -138,20 +138,20 @@
 [/us/pl/105/276/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503%2Fa
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/usc/t21/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1504
-[/us/pl/100/690/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1009
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
 [/us/stat/102/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4188
-[/us/pl/105/276/s586/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F1
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
-[/us/pl/105/276/s220/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs220%2F3
-[/us/pl/105/276/s586/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F5
-[/us/pl/105/276/s586/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F2%2FA
-[/us/pl/105/276/s586/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F2%2FB
-[/us/pl/105/276/s586/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F5
-[/us/pl/105/276/s586/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F3%2FA
-[/us/pl/105/276/s586/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F3%2FB
-[/us/pl/105/276/s586/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F5
-[/us/pl/105/276/s586/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F4
-[/us/pl/105/276/s586/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs586%2Fe%2F5
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625

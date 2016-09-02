@@ -31,11 +31,11 @@
 
         The Administrator shall coordinate with the Secretaries of the Department of Energy and the Department of Transportation in carrying out the Administrator’s duties under this part.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 250, as added [Pub. L. 101–549, title II, § 229(a)][/us/pl/101/549/s229/a], Nov. 15, 1990, [104 Stat. 2528][/us/stat/104/2528].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 250, as added [Pub. L. 101–549, title II][/us/pl/101/549/tII], § 229(a), Nov. 15, 1990, [104 Stat. 2528][/us/stat/104/2528].)
 
  __Codification__ 
 
-    In subsec. (c), “chapter 301 of title 49” substituted for “the National Motor Vehicle Traffic Safety Act of 1966 \[[15 U.S.C. 1381][/us/usc/t15/s1381] et seq.\]”, meaning “the National Traffic and Motor Vehicle Safety Act of 1966 \[[15 U.S.C. 1381][/us/usc/t15/s1381] et seq.\]”, on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (c), “chapter 301 of title 49” substituted for “the National Motor Vehicle Traffic Safety Act of 1966 \[[15 U.S.C. 1381][/us/usc/t15/s1381] et seq.\]”, meaning “the National Traffic and Motor Vehicle Safety Act of 1966 \[[15 U.S.C. 1381][/us/usc/t15/s1381] et seq.\]”, on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 ----------
 
@@ -46,11 +46,11 @@
 
 [/us/usc/t42/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7410
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs229%2Fa
+[/us/pl/101/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtII
 [/us/stat/104/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2528
 [/us/usc/t15/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1381
 [/us/usc/t15/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1381
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 
 

@@ -129,7 +129,7 @@
 
     (29) The term “Phase II bonus allowance allocations” means, for calendar year 2000 through 2009, inclusive, and only for such years, allocations made by the Administrator pursuant to [section 7651b of this title][/us/usc/t42/s7651b], subsections (a)(2), (b)(2), (c)(4), (d)(3) (except as otherwise provided therein), and (h)(2) of [section 7651d of this title][/us/usc/t42/s7651d], and [section 7651e of this title][/us/usc/t42/s7651e].
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 402, as added [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2585][/us/stat/104/2585].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 402, as added [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2585][/us/stat/104/2585].)
 
  __References in Text__ 
 
@@ -137,7 +137,7 @@
 
  __Codification__ 
 
-    Another section 402 of act July 14, 1955, as added by [Pub. L. 91–604, § 14][/us/pl/91/604/s14], Dec. 31, 1970, [84 Stat. 1709][/us/stat/84/1709], is classified to [section 7641 of this title][/us/usc/t42/s7641].
+    Another section 402 of act July 14, 1955, as added by [Pub. L. 91–604][/us/pl/91/604], § 14, Dec. 31, 1970, [84 Stat. 1709][/us/stat/84/1709], is classified to [section 7641 of this title][/us/usc/t42/s7641].
 
 ----------
 
@@ -160,10 +160,10 @@
 [/us/usc/t42/s7651d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651d
 [/us/usc/t42/s7651e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7651e
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2585
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs14
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1709
 [/us/usc/t42/s7641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7641
 

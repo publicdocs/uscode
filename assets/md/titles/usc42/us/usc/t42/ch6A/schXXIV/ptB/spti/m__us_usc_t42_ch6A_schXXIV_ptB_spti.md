@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–146, § 7(b)(1)][/us/pl/104/146/s7/b/1], May 20, 1996, [110 Stat. 1368][/us/stat/110/1368], added heading “subpart i—general grant provisions”.
+    1996—[Pub. L. 104–146][/us/pl/104/146], § 7(b)(1), May 20, 1996, [110 Stat. 1368][/us/stat/110/1368], added heading “subpart i—general grant provisions”.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/146/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs7%2Fb%2F1
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1368
 
 

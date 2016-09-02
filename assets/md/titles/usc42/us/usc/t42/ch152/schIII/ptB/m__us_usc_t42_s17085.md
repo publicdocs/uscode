@@ -63,7 +63,7 @@
 
             After the study required by [section 17084(b) of this title][/us/usc/t42/s17084/b] is completed, the Administrator of the Environmental Protection Agency, in consultation with the Secretary and following an opportunity for public notice and comment, may develop a voluntary program to recognize commercial building owners and tenants that use high-performance energy efficiency measures in the design and construction of separate spaces.
 
-([Pub. L. 110–140, title IV, § 425][/us/pl/110/140/s425], as added [Pub. L. 114–11, title I, § 104(a)][/us/pl/114/11/s104/a], Apr. 30, 2015, [129 Stat. 185][/us/stat/129/185].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 425, as added [Pub. L. 114–11, title I][/us/pl/114/11/tI], § 104(a), Apr. 30, 2015, [129 Stat. 185][/us/stat/129/185].)
 
 ----------
 
@@ -76,8 +76,8 @@
 [/us/usc/t42/s17084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17084
 [/us/usc/t42/s6294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294a
 [/us/usc/t42/s17084/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17084%2Fb
-[/us/pl/110/140/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs425
-[/us/pl/114/11/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2Fs104%2Fa
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
+[/us/pl/114/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F11%2FtI
 [/us/stat/129/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F185
 
 

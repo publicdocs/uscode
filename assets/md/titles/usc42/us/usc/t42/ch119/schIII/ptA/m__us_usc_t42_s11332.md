@@ -33,7 +33,7 @@
 
         (5) coordinate with other Federal, State, and local government assistance programs available in the locality.
 
-([Pub. L. 100–77, title III, § 302][/us/pl/100/77/s302], July 22, 1987, [101 Stat. 490][/us/stat/101/490]; [Pub. L. 101–645, title II, § 202(a)][/us/pl/101/645/s202/a], Nov. 29, 1990, [104 Stat. 4675][/us/stat/104/4675].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 302, July 22, 1987, [101 Stat. 490][/us/stat/101/490]; [Pub. L. 101–645, title II][/us/pl/101/645/tII], § 202(a), Nov. 29, 1990, [104 Stat. 4675][/us/stat/104/4675].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Implementation of 1990 Amendment__ 
 
-[Pub. L. 101–645, title II, § 202(b)][/us/pl/101/645/s202/b], Nov. 29, 1990, [104 Stat. 4675][/us/stat/104/4675], provided that: 
+[Pub. L. 101–645, title II][/us/pl/101/645/tII], § 202(b), Nov. 29, 1990, [104 Stat. 4675][/us/stat/104/4675], provided that: 
 
 > “Each local board under the Emergency Food and Shelter Program whose membership shall include a member of an Indian tribe by reason of the amendment made by subsection (a) \[amending this section\] shall comply with the requirement made by such amendment not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Nov. 29, 1990\].”
 
@@ -54,14 +54,14 @@
 
 [/us/usc/t25/s1452/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452%2Fd
 [/us/usc/t42/s5302/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa%2F17
-[/us/pl/100/77/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs302
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F490
-[/us/pl/101/645/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs202%2Fa
+[/us/pl/101/645/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtII
 [/us/stat/104/4675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4675
 [/us/pl/101/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645
 [/us/usc/t25/s1452/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452%2Fd
 [/us/usc/t42/s5302/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa%2F17
-[/us/pl/101/645/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs202%2Fb
+[/us/pl/101/645/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtII
 [/us/stat/104/4675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4675
 
 

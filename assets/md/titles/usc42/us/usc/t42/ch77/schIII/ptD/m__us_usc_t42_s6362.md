@@ -35,13 +35,13 @@
 
         Subsection (b) of this section shall not apply to any authority exercised under any provision of law designed to protect the public health or safety.
 
-([Pub. L. 94–163, title III, § 382][/us/pl/94/163/s382], Dec. 22, 1975, [89 Stat. 939][/us/stat/89/939]; [Pub. L. 103–272, § 4(h)][/us/pl/103/272/s4/h], July 5, 1994, [108 Stat. 1364][/us/stat/108/1364].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 382, Dec. 22, 1975, [89 Stat. 939][/us/stat/89/939]; [Pub. L. 103–272][/us/pl/103/272], § 4(h), July 5, 1994, [108 Stat. 1364][/us/stat/108/1364].)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–272, § 4(h)(1)][/us/pl/103/272/s4/h/1], added subsec. (a) and struck out former subsec. (a) which related to reports to Congress by Federal agencies, feasibility of additional savings in energy consumption, and administration of laws permitting inefficient use of energy.
+    1994—Subsec. (a). [Pub. L. 103–272][/us/pl/103/272], § 4(h)(1), added subsec. (a) and struck out former subsec. (a) which related to reports to Congress by Federal agencies, feasibility of additional savings in energy consumption, and administration of laws permitting inefficient use of energy.
 
-    Subsec. (b). [Pub. L. 103–272, § 4(h)(2)][/us/pl/103/272/s4/h/2], substituted “subsection (a)” for “subsection (a)(1)”.
+    Subsec. (b). [Pub. L. 103–272][/us/pl/103/272], § 4(h)(2), substituted “subsection (a)” for “subsection (a)(1)”.
 
  __Abolition of Interstate Commerce Commission and Transfer of Functions__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/94/163/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs382
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F939
-[/us/pl/103/272/s4/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fh
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1364
-[/us/pl/103/272/s4/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fh%2F1
-[/us/pl/103/272/s4/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fh%2F2
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101

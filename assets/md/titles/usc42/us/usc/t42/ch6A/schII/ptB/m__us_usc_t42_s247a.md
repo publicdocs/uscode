@@ -27,13 +27,13 @@
 
         The Secretary shall promote the establishment of a national network to coordinate the family support groups described in subsection (a) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 316, as added [Pub. L. 99–319, title IV, § 401][/us/pl/99/319/s401], May 23, 1986, [100 Stat. 489][/us/stat/100/489]; amended [Pub. L. 103–43, title XX, § 2008(a)][/us/pl/103/43/s2008/a], June 10, 1993, [107 Stat. 210][/us/stat/107/210].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 316, as added [Pub. L. 99–319, title IV][/us/pl/99/319/tIV], § 401, May 23, 1986, [100 Stat. 489][/us/stat/100/489]; amended [Pub. L. 103–43, title XX][/us/pl/103/43/tXX], § 2008(a), June 10, 1993, [107 Stat. 210][/us/stat/107/210].)
 
  __Prior Provisions__ 
 
-    A prior section 247a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 316, as added Nov. 10, 1978, [Pub. L. 95–626, title II, § 208(a)][/us/pl/95/626/s208/a], [92 Stat. 3586][/us/stat/92/3586]; amended Aug. 13, 1981, [Pub. L. 97–35, title XXI, § 2193(a)(1)(A)][/us/pl/97/35/s2193/a/1/A], [95 Stat. 826][/us/stat/95/826], related to lead-based paint poisoning prevention programs, prior to repeal by [Pub. L. 97–35, title XXI, § 2193(b)(1)][/us/pl/97/35/s2193/b/1], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].
+    A prior section 247a, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 316, as added Nov. 10, 1978, [Pub. L. 95–626, title II][/us/pl/95/626/tII], § 208(a), [92 Stat. 3586][/us/stat/92/3586]; amended Aug. 13, 1981, [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(a)(1)(A), [95 Stat. 826][/us/stat/95/826], related to lead-based paint poisoning prevention programs, prior to repeal by [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2193(b)(1), Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].
 
-    Another prior section 247a, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 316, as added Oct. 30, 1970, [Pub. L. 91–515, title II, § 281][/us/pl/91/515/s281], [84 Stat. 1307][/us/stat/84/1307], provided for establishment, composition, qualifications of members, terms of office, vacancies, reappointment, compensation, travel expenses, and functions of National Advisory Council on Comprehensive Health Planning Programs, prior to repeal by [Pub. L. 93–641, § 5(d)][/us/pl/93/641/s5/d], Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275].
+    Another prior section 247a, [act July 1, 1944, ch. 373, title III][/us/act/1944-07-01/ch373/tIII], § 316, as added Oct. 30, 1970, [Pub. L. 91–515, title II][/us/pl/91/515/tII], § 281, [84 Stat. 1307][/us/stat/84/1307], provided for establishment, composition, qualifications of members, terms of office, vacancies, reappointment, compensation, travel expenses, and functions of National Advisory Council on Comprehensive Health Planning Programs, prior to repeal by [Pub. L. 93–641][/us/pl/93/641], § 5(d), Jan. 4, 1975, [88 Stat. 2275][/us/stat/88/2275].
 
  __Amendments__ 
 
@@ -47,21 +47,21 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/319/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2Fs401
+[/us/pl/99/319/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319%2FtIV
 [/us/stat/100/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F489
-[/us/pl/103/43/s2008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2008%2Fa
+[/us/pl/103/43/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtXX
 [/us/stat/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F210
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/95/626/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs208%2Fa
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/95/626/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtII
 [/us/stat/92/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3586
-[/us/pl/97/35/s2193/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fa%2F1%2FA
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F826
-[/us/pl/97/35/s2193/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fb%2F1
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/515/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2Fs281
+[/us/act/1944-07-01/ch373/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtIII
+[/us/pl/91/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F515%2FtII
 [/us/stat/84/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1307
-[/us/pl/93/641/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs5%2Fd
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2275
 [/us/pl/103/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43
 

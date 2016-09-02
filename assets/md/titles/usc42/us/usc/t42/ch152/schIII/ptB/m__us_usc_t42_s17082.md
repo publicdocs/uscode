@@ -107,7 +107,7 @@
 
         (4) $200,000,000 for each of fiscal years 2013 through 2018.
 
-([Pub. L. 110–140, title IV, § 422][/us/pl/110/140/s422], Dec. 19, 2007, [121 Stat. 1604][/us/stat/121/1604].)
+([Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 422, Dec. 19, 2007, [121 Stat. 1604][/us/stat/121/1604].)
 
 ----------
 
@@ -118,7 +118,7 @@
 
 [/us/usc/t42/s7256/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256%2Fg
 [/us/usc/t42/s16352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16352
-[/us/pl/110/140/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs422
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1604
 
 

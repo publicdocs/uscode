@@ -39,7 +39,7 @@
 
         The Administrator shall not implement the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government until 9 months after the date of submission of the report under this subsection unless it would be impossible to continue to effectively carry out the National Flood Insurance Program operations during this time.
 
-([Pub. L. 90–448, title XIII, § 1340][/us/pl/90/448/s1340], Aug. 1, 1968, [82 Stat. 584][/us/stat/82/584]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1), (4)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 101–137, § 3][/us/pl/101/137/s3], Nov. 3, 1989, [103 Stat. 824][/us/stat/103/824]; [Pub. L. 112–141, div. F, title II, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
+([Pub. L. 90–448, title XIII][/us/pl/90/448/tXIII], § 1340, Aug. 1, 1968, [82 Stat. 584][/us/stat/82/584]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(d)(1), (4)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 101–137][/us/pl/101/137], § 3, Nov. 3, 1989, [103 Stat. 824][/us/stat/103/824]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100238(b)(1), July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
 
  __References in Text__ 
 
@@ -59,13 +59,13 @@
 
     “(4) contain such recommendations as the Director deems advisable.”
 
-    1983—Subsec. (a). [Pub. L. 98–181, § 451(d)(1)][/us/pl/98/181/s451/d/1], in provisions preceding par. (1), substituted “Director” for “Secretary”.
+    1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181], § 451(d)(1), in provisions preceding par. (1), substituted “Director” for “Secretary”.
 
-    Subsec. (a)(2). [Pub. L. 98–181, § 451(d)(4)][/us/pl/98/181/s451/d/4], struck out “officers and employees of the Department of Housing and Urban Development, and” before “such other officers”.
+    Subsec. (a)(2). [Pub. L. 98–181][/us/pl/98/181], § 451(d)(4), struck out “officers and employees of the Department of Housing and Urban Development, and” before “such other officers”.
 
-    [Pub. L. 98–181, § 451(d)(1)][/us/pl/98/181/s451/d/1], substituted “Director” for “Secretary”.
+    [Pub. L. 98–181][/us/pl/98/181], § 451(d)(1), substituted “Director” for “Secretary”.
 
-    Subsec. (b). [Pub. L. 98–181, § 451(d)(1)][/us/pl/98/181/s451/d/1], substituted “Director” for “Secretary” wherever appearing.
+    Subsec. (b). [Pub. L. 98–181][/us/pl/98/181], § 451(d)(1), substituted “Director” for “Secretary” wherever appearing.
 
  __Transfer of Functions__ 
 
@@ -82,23 +82,23 @@
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t42/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4017
-[/us/pl/90/448/s1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1340
+[/us/pl/90/448/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIII
 [/us/stat/82/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F584
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/101/137/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F137%2Fs3
+[/us/pl/101/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F137
 [/us/stat/103/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F824
-[/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/101/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F137
-[/us/pl/98/181/s451/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F1
-[/us/pl/98/181/s451/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F4
-[/us/pl/98/181/s451/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F1
-[/us/pl/98/181/s451/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs451%2Fd%2F1
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

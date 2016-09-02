@@ -29,7 +29,7 @@
 
         Subject to the authority, direction, and control of the Secretary, the Director of the Office shall perform such duties and exercise such powers as the Secretary may prescribe.
 
-([Pub. L. 95–91, title II, § 216][/us/pl/95/91/s216], as added [Pub. L. 106–65, div. C, title XXXII, § 3204(a)][/us/pl/106/65/s3204/a], Oct. 5, 1999, [113 Stat. 956][/us/stat/113/956]; amended [Pub. L. 109–364, div. C, title XXXI, § 3117(f)][/us/pl/109/364/s3117/f], Oct. 17, 2006, [120 Stat. 2508][/us/stat/120/2508].)
+([Pub. L. 95–91, title II][/us/pl/95/91/tII], § 216, as added [Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3204(a), Oct. 5, 1999, [113 Stat. 956][/us/stat/113/956]; amended [Pub. L. 109–364, div. C, title XXXI][/us/pl/109/364/dC/tXXXI], § 3117(f), Oct. 17, 2006, [120 Stat. 2508][/us/stat/120/2508].)
 
  __Amendments__ 
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/95/91/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs216
-[/us/pl/106/65/s3204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3204%2Fa
+[/us/pl/95/91/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtII
+[/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F956
-[/us/pl/109/364/s3117/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs3117%2Ff
+[/us/pl/109/364/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdC%2FtXXXI
 [/us/stat/120/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2508
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299

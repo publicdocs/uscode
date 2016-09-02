@@ -31,7 +31,7 @@
 
         The President shall prescribe such rules and regulations as are necessary to carry out this section.
 
-([Pub. L. 93–288, title IV, § 420][/us/pl/93/288/s420], formerly § 417, May 22, 1974, [88 Stat. 158][/us/stat/88/158]; renumbered § 420, [Pub. L. 100–707, title I, § 106(j)][/us/pl/100/707/s106/j], Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705]; [Pub. L. 106–390, title III, § 303(a)][/us/pl/106/390/s303/a], Oct. 30, 2000, [114 Stat. 1572][/us/stat/114/1572].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 420, formerly § 417, May 22, 1974, [88 Stat. 158][/us/stat/88/158]; renumbered § 420, [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 106(j), Nov. 23, 1988, [102 Stat. 4705][/us/stat/102/4705]; [Pub. L. 106–390, title III][/us/pl/106/390/tIII], § 303(a), Oct. 30, 2000, [114 Stat. 1572][/us/stat/114/1572].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–390, title III, § 303(b)][/us/pl/106/390/s303/b], Oct. 30, 2000, [114 Stat. 1573][/us/stat/114/1573], provided that: 
+[Pub. L. 106–390, title III][/us/pl/106/390/tIII], § 303(b), Oct. 30, 2000, [114 Stat. 1573][/us/stat/114/1573], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect 1 year after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -51,14 +51,14 @@
 ----------
 
 [/us/usc/t42/s5170b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170b
-[/us/pl/93/288/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs420
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F158
-[/us/pl/100/707/s106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fj
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4705
-[/us/pl/106/390/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs303%2Fa
+[/us/pl/106/390/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtIII
 [/us/stat/114/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1572
 [/us/pl/106/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390
-[/us/pl/106/390/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs303%2Fb
+[/us/pl/106/390/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtIII
 [/us/stat/114/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1573
 
 

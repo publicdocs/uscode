@@ -53,7 +53,7 @@
 
         For the purposes of this section, the term “vessel” includes an ocean thermal energy conversion facility or plantship, and the term “provisions of this chapter” or “provision of this chapter” includes any rule, regulation, or order issued pursuant to this chapter and any term or condition of any license issued pursuant to this chapter.
 
-([Pub. L. 96–320, title III, § 303][/us/pl/96/320/s303], Aug. 3, 1980, [94 Stat. 996][/us/stat/94/996]; [Pub. L. 98–623, title VI, § 602(a)(10)][/us/pl/98/623/s602/a/10], Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411].)
+([Pub. L. 96–320, title III][/us/pl/96/320/tIII], § 303, Aug. 3, 1980, [94 Stat. 996][/us/stat/94/996]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(a)(10), Nov. 8, 1984, [98 Stat. 3411][/us/stat/98/3411].)
 
  __References in Text__ 
 
@@ -78,9 +78,9 @@
 
 [/us/usc/t42/s9151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9151
 [/us/usc/t42/s9125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9125
-[/us/pl/96/320/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs303
+[/us/pl/96/320/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIII
 [/us/stat/94/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F996
-[/us/pl/98/623/s602/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F10
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3411
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

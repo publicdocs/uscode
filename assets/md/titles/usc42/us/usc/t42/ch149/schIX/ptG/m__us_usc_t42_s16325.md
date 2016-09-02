@@ -23,7 +23,7 @@
 
         The Secretary may require that an individual receiving a scholarship under this section serve as a full-time employee of the Department or a National Laboratory for a fixed period in return for receiving the scholarship.
 
-([Pub. L. 109–58, title IX, § 984A][/us/pl/109/58/s984A], Aug. 8, 2005, [119 Stat. 908][/us/stat/119/908].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 984A, Aug. 8, 2005, [119 Stat. 908][/us/stat/119/908].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s984A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs984A
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F908
 
 

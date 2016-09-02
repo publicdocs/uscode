@@ -73,7 +73,7 @@
 
         (4) fosters the undertaking of housing and community development activities in a coordinated and mutually supportive manner by Federal agencies and programs, as well as by communities.
 
-([Pub. L. 93–383, title I, § 101][/us/pl/93/383/s101], Aug. 22, 1974, [88 Stat. 633][/us/stat/88/633]; [Pub. L. 95–128, title I, § 101][/us/pl/95/128/s101], Oct. 12, 1977, [91 Stat. 1111][/us/stat/91/1111]; [Pub. L. 96–399, title I, § 104(a)][/us/pl/96/399/s104/a], Oct. 8, 1980, [94 Stat. 1616][/us/stat/94/1616]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title I, § 101(a)\], Nov. 30, 1983, [97 Stat. 1159][/us/stat/97/1159]; [Pub. L. 100–242, title V, § 502(a)][/us/pl/100/242/s502/a], (b), Feb. 5, 1988, [101 Stat. 1923][/us/stat/101/1923]; [Pub. L. 101–625, title IX][/us/pl/101/625], §§ 902(a), 913(a), Nov. 28, 1990, [104 Stat. 4385][/us/stat/104/4385], 4392; [Pub. L. 103–233, title II, § 232(a)(2)(A)][/us/pl/103/233/s232/a/2/A], Apr. 11, 1994, [108 Stat. 367][/us/stat/108/367].)
+([Pub. L. 93–383, title I][/us/pl/93/383/tI], § 101, Aug. 22, 1974, [88 Stat. 633][/us/stat/88/633]; [Pub. L. 95–128, title I][/us/pl/95/128/tI], § 101, Oct. 12, 1977, [91 Stat. 1111][/us/stat/91/1111]; [Pub. L. 96–399, title I][/us/pl/96/399/tI], § 104(a), Oct. 8, 1980, [94 Stat. 1616][/us/stat/94/1616]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title I, § 101(a)\], Nov. 30, 1983, [97 Stat. 1159][/us/stat/97/1159]; [Pub. L. 100–242, title V][/us/pl/100/242/tV], § 502(a), (b), Feb. 5, 1988, [101 Stat. 1923][/us/stat/101/1923]; [Pub. L. 101–625, title IX][/us/pl/101/625/tIX], §§ 902(a), 913(a), Nov. 28, 1990, [104 Stat. 4385][/us/stat/104/4385], 4392; [Pub. L. 103–233, title II][/us/pl/103/233/tII], § 232(a)(2)(A), Apr. 11, 1994, [108 Stat. 367][/us/stat/108/367].)
 
  __References in Text__ 
 
@@ -83,37 +83,37 @@
 
     1994—Subsec. (c). [Pub. L. 103–233][/us/pl/103/233] inserted “or a grant” after “guarantee” in second sentence.
 
-    1990—Subsec. (c). [Pub. L. 101–625, § 913(a)][/us/pl/101/625/s913/a], inserted “to States and units of general local government” after first reference to “Federal assistance provided” in second sentence.
+    1990—Subsec. (c). [Pub. L. 101–625][/us/pl/101/625], § 913(a), inserted “to States and units of general local government” after first reference to “Federal assistance provided” in second sentence.
 
-    [Pub. L. 101–625, § 902(a)][/us/pl/101/625/s902/a], substituted “70 percent” for “60 percent” in second sentence.
+    [Pub. L. 101–625][/us/pl/101/625], § 902(a), substituted “70 percent” for “60 percent” in second sentence.
 
-    1988—Subsec. (c). [Pub. L. 100–242, § 502(a)][/us/pl/100/242/s502/a], substituted “60” for “51”.
+    1988—Subsec. (c). [Pub. L. 100–242][/us/pl/100/242], § 502(a), substituted “60” for “51”.
 
-    Subsec. (c)(6). [Pub. L. 100–242, § 502(b)][/us/pl/100/242/s502/b], struck out “to attract persons of higher income” before semicolon at end.
+    Subsec. (c)(6). [Pub. L. 100–242][/us/pl/100/242], § 502(b), struck out “to attract persons of higher income” before semicolon at end.
 
-    1983—Subsec. (c). [Pub. L. 98–181, § 101(a)(1)][/us/pl/98/181/s101/a/1], inserted “and of the community development program of each grantee under this chapter” in provisions preceding par. (1).
+    1983—Subsec. (c). [Pub. L. 98–181][/us/pl/98/181], § 101(a)(1), inserted “and of the community development program of each grantee under this chapter” in provisions preceding par. (1).
 
-    [Pub. L. 98–181, § 101(a)(2)][/us/pl/98/181/s101/a/2], inserted “not less than 51 percent of the aggregate of the Federal assistance provided under [section 5306 of this title][/us/usc/t42/s5306] and, if applicable, the funds received as a result of a guarantee under [section 5308 of this title][/us/usc/t42/s5308], shall be used for the support of activities that benefit persons of low and moderate income, and” in provisions preceding par. (1).
+    [Pub. L. 98–181][/us/pl/98/181], § 101(a)(2), inserted “not less than 51 percent of the aggregate of the Federal assistance provided under [section 5306 of this title][/us/usc/t42/s5306] and, if applicable, the funds received as a result of a guarantee under [section 5308 of this title][/us/usc/t42/s5308], shall be used for the support of activities that benefit persons of low and moderate income, and” in provisions preceding par. (1).
 
-    1980—Subsec. (a)(3). [Pub. L. 96–399, § 104(a)(1)][/us/pl/96/399/s104/a/1]–(3), added par. (3).
+    1980—Subsec. (a)(3). [Pub. L. 96–399][/us/pl/96/399], § 104(a)(1)–(3), added par. (3).
 
-    Subsec. (b)(4). [Pub. L. 96–399, § 104(a)(4)][/us/pl/96/399/s104/a/4]–(6), added par. (4).
+    Subsec. (b)(4). [Pub. L. 96–399][/us/pl/96/399], § 104(a)(4)–(6), added par. (4).
 
-    Subsec. (c)(9). [Pub. L. 96–399, § 104(a)(7)][/us/pl/96/399/s104/a/7]–(9), added par. (9).
+    Subsec. (c)(9). [Pub. L. 96–399][/us/pl/96/399], § 104(a)(7)–(9), added par. (9).
 
-    1977—Subsec. (c)(8). [Pub. L. 95–128, § 101(a)][/us/pl/95/128/s101/a], added par. (8).
+    1977—Subsec. (c)(8). [Pub. L. 95–128][/us/pl/95/128], § 101(a), added par. (8).
 
-    Subsec. (d)(4). [Pub. L. 95–128, § 101(b)][/us/pl/95/128/s101/b], provided that the development activities be undertaken by Federal agencies and programs as well as by communities.
+    Subsec. (d)(4). [Pub. L. 95–128][/us/pl/95/128], § 101(b), provided that the development activities be undertaken by Federal agencies and programs as well as by communities.
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–233, title II, § 209][/us/pl/103/233/s209], Apr. 11, 1994, [108 Stat. 366][/us/stat/108/366], provided that: 
+[Pub. L. 103–233, title II][/us/pl/103/233/tII], § 209, Apr. 11, 1994, [108 Stat. 366][/us/stat/108/366], provided that: 
 
 > “The amendments made by this title \[enacting sections 5321 and 12840 of this title and amending this section and sections 5304, 5305, 5308, 5318, 12704, 12744, 12745, 12750, 12833, 12838, and 12893 of this title\] shall apply with respect to any amounts made available to carry out title II of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12721][/us/usc/t42/s12721] et seq.\] after the date of the enactment of this Act \[Apr. 11, 1994\] and any amounts made available to carry out such title before such date of enactment that remain uncommitted on such date. The Secretary shall issue any regulations necessary to carry out the amendments made by this title not later than the expiration of the 45-day period beginning on the date of the enactment of this Act.”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–550, § 2][/us/pl/102/550/s2], Oct. 28, 1992, [106 Stat. 3681][/us/stat/106/3681], provided that: 
+[Pub. L. 102–550][/us/pl/102/550], § 2, Oct. 28, 1992, [106 Stat. 3681][/us/stat/106/3681], provided that: 
 
 > “The provisions of this Act \[see Tables for classification\] and the amendments made by this Act shall take effect and shall apply upon the date of the enactment of this Act \[Oct. 28, 1992\], unless such provisions or amendments specifically provide for effectiveness or applicability upon another date certain.”
 
@@ -127,61 +127,61 @@
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–128, title I, § 114][/us/pl/95/128/s114], Oct. 12, 1977, [91 Stat. 1128][/us/stat/91/1128], provided that: 
+[Pub. L. 95–128, title I][/us/pl/95/128/tI], § 114, Oct. 12, 1977, [91 Stat. 1128][/us/stat/91/1128], provided that: 
 
 > “The amendments made by this title \[enacting [section 5318 of this title][/us/usc/t42/s5318], amending this section, sections 1452b, 5302 to 5308, and 5313 of this title, and section 461 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as a note under [section 5313 of this title][/us/usc/t42/s5313]\] shall become effective October 1, 1977.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–146, § 1][/us/pl/108/146/s1], Dec. 3, 2003, [117 Stat. 1883][/us/stat/117/1883], provided that: 
+[Pub. L. 108–146][/us/pl/108/146], § 1, Dec. 3, 2003, [117 Stat. 1883][/us/stat/117/1883], provided that: 
 
 > “This Act \[amending [section 5305 of this title][/us/usc/t42/s5305]\] may be cited as the ‘Tornado Shelters Act’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–550, § 1(a)][/us/pl/102/550/s1/a], Oct. 28, 1992, [106 Stat. 3672][/us/stat/106/3672], provided that: 
+[Pub. L. 102–550][/us/pl/102/550], § 1(a), Oct. 28, 1992, [106 Stat. 3672][/us/stat/106/3672], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Housing and Community Development Act of 1992’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–242, § 1(a)][/us/pl/100/242/s1/a], Feb. 5, 1988, [101 Stat. 1815][/us/stat/101/1815], provided that: 
+[Pub. L. 100–242][/us/pl/100/242], § 1(a), Feb. 5, 1988, [101 Stat. 1815][/us/stat/101/1815], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Housing and Community Development Act of 1987’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–272, title III, § 3001(a)][/us/pl/99/272/s3001/a], Apr. 7, 1986, [100 Stat. 101][/us/stat/100/101], provided that: 
+[Pub. L. 99–272, title III][/us/pl/99/272/tIII], § 3001(a), Apr. 7, 1986, [100 Stat. 101][/us/stat/100/101], provided that: 
 
 > “This title \[amending sections 1437b, 1437g, 1452b, 1483, 1485, 1487, 1490, 1490c, 4026, 4056, 4101, 5302, and 5308 of this title, and sections 1703, 1715h, 1715l, 1715z, 1715z–9, 1715z–10, 1715z–14, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, and 2811 of Title 12, Banks and Banking, enacting provisions set out as notes under [section 5308 of this title][/us/usc/t42/s5308], and amending provisions set out as a note under [section 1701q of Title 12][/us/usc/t12/s1701q]\] may be cited as the ‘Housing and Community Development Reconciliation Amendments of 1985’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–479, § 1][/us/pl/98/479/s1], Oct. 17, 1984, [98 Stat. 2218][/us/stat/98/2218], provided: 
+[Pub. L. 98–479][/us/pl/98/479], § 1, Oct. 17, 1984, [98 Stat. 2218][/us/stat/98/2218], provided: 
 
 > “That this Act \[amending sections 1437a, 1437b, 1437d, 1437f, 1437h, 1437l, 1437o, 1438 to 1440, 1452, 1455, 1456, 1471, 1472, 1480, 1481, 1483, 1485, 1487, 1490, 1490a to 1490c, 1493, 2414, 3337, 3535, 3541, 3936, 3938, 4016, 4017, 4101, 4105, 4124, 4502, 5302, 5304 to 5306, 5308, 5312, 5317, 5318, 5403, 6863, 8004, 8010, and 8107 of this title, sections 1425a, 1457, 1701c, 1701h, 1701q, 1701s, 1701x, 1701z–2, 1701z–13, 1702, 1705, 1706e, 1709, 1713, 1715d, 1715h, 1715l, 1715n, 1715y, 1715z, 1715z–1, 1715z–1a, 1715z–5 to 1715z–9, 1717, 1719, 1721, 1723a, 1723g, 1723h, 1732, 1735f–5, 1735f–9, 1749, 1749a, 1749c, 1749aaa, 1749aaa–3, 1749bbb–8, 1749bbb–13, 1749bbb–17, 1750c, 1757, 2706, 2709, 3612, and 3618 of Title 12, Banks and Banking, and sections 1635 and 1715 of Title 15, Commerce and Trade, enacting provisions set out as notes under sections 1472 and 5305 of this title and sections 1715b, 1732 and 3618 of Title 12, and amending provisions set out as notes under sections 602, 5316, and 5318 of this title and [section 1701z–6 of Title 12][/us/usc/t12/s1701z–6]\] may be cited as the ‘Housing and Community Development Technical Amendments Act of 1984’.”
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–35, title III, § 300][/us/pl/97/35/s300], Aug. 13, 1981, [95 Stat. 384][/us/stat/95/384], provided that: 
+[Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 300, Aug. 13, 1981, [95 Stat. 384][/us/stat/95/384], provided that: 
 
 > “This subtitle \[subtitle A (§§ 300–371) of title III of [Pub. L. 97–35][/us/pl/97/35], enacting sections 1437j–1, 1437n, and 4028 of this title and sections 1701z–14, 1735f–9, 1735f–10, 2294a, and 3701 to 3717 of Title 12, Banks and Banking, amending sections 1436a, 1437 to 1437d, 1437f, 1437g, 1437i, 1437j, 1437l, 1439, 1452b, 1483, 1485, 1487, 1490a, 1490c, 4017, 4026, 4056, 4081, 4127, 4518, 5302 to 5313, 5316, 5318, 5320, and 8107 of this title and sections 1701s, 1701j–2, 1701q, 1701x, 1701z–1, 1701z–14, 1703, 1706e, 1709–1, 1713, 1715e, 1715h, 1715k, 1715l, 1715n, 1715v, 1715y, 1715z, 1715z–1, 1715z–1a, 1715z–1b, 1715z–7, 1715z–9, 1715z–10, 1720, 1721, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, and 1749bbb–3 of Title 12, repealing sections 8121 to 8124 of this title and section 461 of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under 1436a, 1437a, 1437f, 4028, 5304, 5305, 5306, 5318 of this title and sections 1703, 1720, and 3701 of Title 12, and repealing provisions set out as notes under [section 8121 of this title][/us/usc/t42/s8121] and [section 1701s of Title 12][/us/usc/t12/s1701s]\] may be cited as the ‘Housing and Community Development Amendments of 1981’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–399, § 1][/us/pl/96/399/s1], Oct. 8, 1980, [94 Stat. 1614][/us/stat/94/1614], provided: 
+[Pub. L. 96–399][/us/pl/96/399], § 1, Oct. 8, 1980, [94 Stat. 1614][/us/stat/94/1614], provided: 
 
 > “That this Act \[enacting sections 1436a, 1436b, 1437l, 1437m, 1490j and 5320 of this title, sections 1735f–8 and 2809 to 2811 of Title 12, Banks and Banking, and sections 3601 to 3616 of Title 15, Commerce and Trade, amending this section, sections 1437c, 1437d, 1437f, 1437g, 1437k, 1439, 1441c, 1452b, 1471, 1472, 1480, 1483 to 1487, 1490a, 1490c to 1490e, 3535, 4127, 5302 to 5308, 5316 to 5318, 5401 to 5404, 5406 to 5416, 5419, 5421 to 5423, 5425, 6833, 6835, 8004, 8102, 8105, 8107, and 8124 of this title, sections 86a, 1425a, 1454, 1701q, 1701s, 1701u, 1701z–1, 1701z–11, 1703, 1706e, 1707, 1709, 1709–1, 1713, 1715d, 1715e, 1715h, 1715k, 1715l to 1715n, 1715u to 1715w, 1715y to 1715z–1, 1715z–1a, 1715z–5 to 1715z–7, 1715z–9, 1715z–10, 1717, 1720, 1721, 1723e, 1735c, 1735f–7a, 1748h–1, 1748h–2, 1749bb, 1749aaa and 2803 of Title 12 and sections 461 and 484b of former Title 40, Public Buildings, Property and Works, repealing [section 2809 of Title 12][/us/usc/t12/s2809], enacting provisions set out as notes under sections 1472, 3535, 5302, 5313, 5401, 5424 and 8106 of this title, sections 86a, 1701z–6, 1703, 1715d, 1715z, 1717, 1723a, 1723e and 3305 of Title 12, [section 3601 of Title 15][/us/usc/t15/s3601], and section 461 of former Title 40, and amending provisions set out as notes under [section 5401 of this title][/us/usc/t42/s5401] and sections 86a, 1701z–6, 1723e, and 1735f–4 of Title 12\] may be cited as the ‘Housing and Community Development Act of 1980’.”
 
  __Short Title of 1979 Amendment__ 
 
-[Pub. L. 96–153, § 1][/us/pl/96/153/s1], Dec. 21, 1979, [93 Stat. 1101][/us/stat/93/1101], provided: 
+[Pub. L. 96–153][/us/pl/96/153], § 1, Dec. 21, 1979, [93 Stat. 1101][/us/stat/93/1101], provided: 
 
 > “That this Act \[enacting [section 1735f–7 of Title 12][/us/usc/t12/s1735f–7], Banks and Banking, [section 1719a of Title 15][/us/usc/t15/s1719a], Commerce and Trade, and [section 1437k of this title][/us/usc/t42/s1437k], amending [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, sections 90, 1426, 1431, 1451, 1452, 1455, 1464, 1701q, 1701s, 1701z–1, 1701z–11, 1703, 1706e, 1709, 1709–1, 1713, 1715e, 1715h, 1715k, 1715l, 1715m, 1715v, 1715y, 1715z, 1715z–1, 1715z–1a, 1715z–6, 1715z–7, 1715z–9, 1715z–10, 1717, 1728, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, 1757, 1787, and 1821 of Title 12, sections 1701, 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of Title 15, section 461 of former Title 40, Public Buildings, Property, and Works, and sections 1437a, 1437c, 1437d, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1474, 1479, 1480, 1483, 1484, 1485, 1486, 1487, 1490a, 1490c, 3533a, 3541, 4026, 4056, 4127, 5302, 5303, 5304, 5306, 5318, 5419, 8107, 8123, 8124, and 8146 of this title, and enacting provisions set out as notes under sections 1701, 1701q, 1701s, 1703, 1709, 1723e, and 1728 of Title 12, [section 1701 of Title 15][/us/usc/t15/s1701], and sections 1437a, 1437f, and 5304 of this title\] may be cited as the ‘Housing and Community Development Amendments of 1979’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–557, § 1][/us/pl/95/557/s1], Oct. 31, 1978, [92 Stat. 2080][/us/stat/92/2080], provided that: 
+[Pub. L. 95–557][/us/pl/95/557], § 1, Oct. 31, 1978, [92 Stat. 2080][/us/stat/92/2080], provided that: 
 
 > “This Act \[enacting sections 3541, 5319, 8001 to 8010, 8101 to 8107, 8121 to 8124, and 8141 to 8146 of this title and sections 1701z–9 to 1701z–13, 1715z–1a, 1715z–1b, 1735f–6, of Title 12, Banks and Banking, amending sections 1437a, 1437c, 1437e, 1437f, 1437g, 1441c, 1452b, 1476, 1480, 1483 to 1487, 1490a, 1490c, 1490e, 3371, 3535, 4026, 4056, 4127, 4521, 5304, 5305, 5307, 5318 and 5425, of this title, sections 1454, 1701j–2, 1701q, 1701z–1, 1703, 1706e, 1709, 1709–1, 1713, 1715h, 1715l, 1715n, 1715y, 1715z, 1715z–1, 1715z–5, 1715z–6, 1715z–9, 1715z–10, 1715z–11, 1715w, 1717, 1720, 1735c, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749bbb, and 1749bbb–3 of Title 12, [section 1702 of Title 15][/us/usc/t15/s1702], Commerce and Trade, and sections 461 and 484b of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under sections 1437c, 1437f, 1441, 1476, 1480, 5313, 8001, 8101, 8121, and  8141  of  this  title  and  sections  1454,  1701z–6, 1701z–9, 1709, 1715z–1, and 1723e of Title 12\] may be cited as the ‘Housing and Community Development Amendments of 1978’.”
 
@@ -193,13 +193,13 @@
 
  __Short Title__ 
 
-[Pub. L. 93–383, § 1][/us/pl/93/383/s1], Aug. 22, 1974, [88 Stat. 633][/us/stat/88/633], provided: 
+[Pub. L. 93–383][/us/pl/93/383], § 1, Aug. 22, 1974, [88 Stat. 633][/us/stat/88/633], provided: 
 
 > “That this Act \[enacting this chapter, sections 1701j–2, 1701l–1, 1701z–5, 1701z–6, 1706e, 1715z–9 to 1715z–11, and 1735f–3 to 1735f–5 of Title 12, Banks and Banking, [section 803a of Title 20][/us/usc/t20/s803a], Education, and sections 1437 to 1437j, 1438 to 1440, 1490e to 1490g, 4104a, and 5401 to 5426 of this title, amending sections 5315 and 5316 of Title 5, Government Organization and Employees, sections 24, 371, 1431, 1436, 1454, 1464, 1701q, 1701u, 1701x, 1701z–3, 1703, 1709, 1709–1, 1713, 1715e, 1715h, 1715k to 1715n, 1715v, 1715w, 1715y, 1715z, 1715z–1, 1715z–3, 1715z–6, 1715z–7, 1717, 1718, 1719, 1723a, 1735b, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749aaa–4, 1749aaa–5, 1757, 1759, 1761b, 1761d, 1763, 1772, 1782, 1786, and 1788 of Title 12, sections 1701 to 1703 of Title 15, Commerce and Trade, sections 801, 802, and 806 of Title 20, section 711 of former Title 31, Money and Finance, sections 460 and 461 of former Title 40, Public Buildings, Property, and Works, sections 1441a, 1441c, 1452b, 1453, 1471, 1472, 1474, 1476 to 1478, 1483, 1485, 1487, 1490, 1490a, 1490c, 1490d, 1586, 3311, 3533, 3604 to 3606, 3631, 4014, 4512, 4514 to 4516, 4519, and 4532 of this title, and sections 1602 and 1602a of former Title 49, Transportation, repealing sections 1411d and 1455a of this title, and enacting provisions set out as notes under this section, sections 1464, 1701q, 1715l, 1715z–1, 1716b, and 1723a of Title 12, [section 1703 of Title 15][/us/usc/t15/s1703], sections 1410, 1421b, 1437, 1437a, 1437f, 3532, and 5401 of this title, and section 1602a of former Title 49\] may be cited as the ‘Housing and Community Development Act of 1974’.”
 
  __Additional Assistance for Neighborhood Stabilization Program__ 
 
-[Pub. L. 111–203, title XIV, § 1497][/us/pl/111/203/s1497], July 21, 2010, [124 Stat. 2209][/us/stat/124/2209], provided that:
+[Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1497, July 21, 2010, [124 Stat. 2209][/us/stat/124/2209], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -273,17 +273,17 @@
 
  __Acquisition of Tenant-Occupied Foreclosed Dwelling or Residential Real Property__ 
 
-[Pub. L. 111–5, div. A, title XII][/us/pl/111/5], Feb. 17, 2009, [123 Stat. 218][/us/stat/123/218], provided in part: 
+[Pub. L. 111–5, div. A, title XII][/us/pl/111/5/dA/tXII], Feb. 17, 2009, [123 Stat. 218][/us/stat/123/218], provided in part: 
 
 > “That in the case of any acquisition of a foreclosed upon dwelling or residential real property acquired after the date of enactment \[probably means the date of enactment of [Pub. L. 111–5][/us/pl/111/5], Feb. 17, 2009\] with any amounts made available under this heading \[Community Development Fund\] or under division B, title III of the Housing and Economic Recovery Act of 2008 ([Public Law 110–289][/us/pl/110/289]) \[set out below\], the initial successor in interest in such property pursuant to the foreclosure shall assume such interest subject to: (1) the provision by such successor in interest of a notice to vacate to any bona fide tenant at least 90 days before the effective date of such notice; and (2) the rights of any bona fide tenant, as of the date of such notice of foreclosure: (A) under any bona fide lease entered into before the notice of foreclosure to occupy the premises until the end of the remaining term of the lease, except that a successor in interest may terminate a lease effective on the date of sale of the unit to a purchaser who will occupy the unit as a primary residence, subject to the receipt by the tenant of the 90-day notice under this paragraph; or (B) without a lease or with a lease terminable at will under State law, subject to the receipt by the tenant of the 90-day notice under this paragraph, except that nothing in this paragraph shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants: Provided further, That, for purposes of this paragraph, a lease or tenancy shall be considered bona fide only if: (1) the mortgagor under the contract is not the tenant; (2) the lease or tenancy was the result of an arms-length transaction; and (3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property: Provided further, That the recipient of any grant or loan from amounts made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 ([Public Law 110–289][/us/pl/110/289]) may not refuse to lease a dwelling unit in housing assisted with such loan or grant to a holder of a voucher or certificate of eligibility under section 8 of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f]) because of the status of the prospective tenant as such a holder: Provided further, That in the case of any qualified foreclosed housing for which funds made available under this heading or, after the date of enactment, under division B, title III of the Housing and Economic Recovery Act of 2008 ([Public Law 110–289][/us/pl/110/289]) are used and in which a recipient of assistance under section 8(o) of the U.S. Housing Act of 1937 resides at the time of foreclosure, the initial successor in interest shall be subject to the lease and to the housing assistance payments contract for the occupied unit: Provided further, That vacating the property prior to sale shall not constitute good cause for termination of the tenancy unless the property is unmarketable while occupied or unless the owner or subsequent purchaser desires the unit for personal or family use: Provided further, That if a public housing agency is unable to make payments under the contract to the immediate successor in interest after foreclosures, due to (1) an action or inaction by the successor in interest, including the rejection of payments or the failure of the successor to maintain the unit in compliance with section 8(o)(8) of the United States Housing Act of 1937 (42 U.S.C.1437f) or (2) an inability to identify the successor, the agency may use funds that would have been used to pay the rental amount on behalf of the family—(i) to pay for utilities that are the responsibility of the owner under the lease or applicable law, after taking reasonable steps to notify the owner that it intends to make payments to a utility provider in lieu of payments to the owner, except prior notification shall not be required in any case in which the unit will be or has been rendered uninhabitable due to the termination or threat of termination of service, in which case the public housing agency shall notify the owner within a reasonable time after making such payment; or (ii) for the family’s reasonable moving costs, including security deposit costs: Provided further, That this paragraph shall not preempt any Federal, State or local law that provides more protections for tenants”.
 
  __Emergency Assistance for the Redevelopment of Abandoned and Foreclosed Homes__ 
 
-[Pub. L. 111–5, div. A, title XII][/us/pl/111/5], Feb. 17, 2009, [123 Stat. 218][/us/stat/123/218], provided in part: 
+[Pub. L. 111–5, div. A, title XII][/us/pl/111/5/dA/tXII], Feb. 17, 2009, [123 Stat. 218][/us/stat/123/218], provided in part: 
 
 > “That the recipient of any grant or loan from amounts made available under this heading \[Community Development Fund\] or, after the date of enactment under division B, title III of the Housing and Economic Recovery Act of 2008 \[[Pub. L. 110–289][/us/pl/110/289], set out below\], may not refuse to lease a dwelling unit in housing with such loan or grant to a participant under section 8 of the United States Housing Act of 1937 (42 U.S.C 1437f) because of the status of the prospective tenant as such a participant”.
 
-[Pub. L. 110–289, div. B, title III][/us/pl/110/289], July 30, 2008, [122 Stat. 2850][/us/stat/122/2850], as amended by [Pub. L. 111–5, div. A, title XII][/us/pl/111/5], Feb. 17, 2009, [123 Stat. 218][/us/stat/123/218]; [Pub. L. 111–22, div. A, title I, § 105(a)][/us/pl/111/22/s105/a], May 20, 2009, [123 Stat. 1638][/us/stat/123/1638]; [Pub. L. 111–203, title XIV, § 1497(b)(1)(A)][/us/pl/111/203/s1497/b/1/A], July 21, 2010, [124 Stat. 2210][/us/stat/124/2210], provided that:
+[Pub. L. 110–289, div. B, title III][/us/pl/110/289/dB/tIII], July 30, 2008, [122 Stat. 2850][/us/stat/122/2850], as amended by [Pub. L. 111–5, div. A, title XII][/us/pl/111/5/dA/tXII], Feb. 17, 2009, [123 Stat. 218][/us/stat/123/218]; [Pub. L. 111–22, div. A, title I][/us/pl/111/22/dA/tI], § 105(a), May 20, 2009, [123 Stat. 1638][/us/stat/123/1638]; [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1497(b)(1)(A), July 21, 2010, [124 Stat. 2210][/us/stat/124/2210], provided that:
 
 > “SEC. 2301. __EMERGENCY ASSISTANCE FOR THE REDEVELOPMENT OF ABANDONED AND FORECLOSED HOMES.__ 
 
@@ -439,9 +439,9 @@
 
 >     “Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701]\], the amount appropriated under section 2301(a) of this Act shall be $3,920,000,000 and the amount appropriated under section 2401 of this Act \[[122 Stat. 2854][/us/stat/122/2854]\] shall be $180,000,000: Provided, That of the amount appropriated under section 2401 of this Act pursuant to this section, not less than 15 percent shall be provided to counseling organizations that target counseling services regarding loss mitigation to minority and low-income homeowners or provide such services in neighborhoods with high concentrations of minority and low-income homeowners: Provided further, That of amounts appropriated under such section 2401 $30,000,000 shall be used by the Neighborhood Reinvestment Corporation (referred to in this section as the ‘NRC’) to make grants to counseling intermediaries approved by the Department of Housing and Urban Development or the NRC to hire attorneys to assist homeowners who have legal issues directly related to the homeowner’s foreclosure, delinquency or short sale. Such attorneys shall be capable of assisting homeowners of owner-occupied homes with mortgages in default, in danger of default, or subject to or at risk of foreclosure and who have legal issues that cannot be handled by counselors already employed by such intermediaries: Provided further, That of the amounts provided for in the prior provisos the NRC shall give priority consideration to counseling intermediaries and legal organizations that (1) provide legal assistance in the 100 metropolitan statistical areas (as defined by the Director of the Office of Management and Budget) with the highest home foreclosure rates, and (2) have the capacity to begin using the financial assistance within 90 days after receipt of the assistance: Provided further, That no funds provided under this Act shall be used to provide, obtain, or arrange on behalf of a homeowner, legal representation involving or for the purposes of civil litigation: Provided further, That the NRC, in awarding counseling grants under section 2401 of this Act, may consider, where appropriate, whether the entity has implemented a written plan for providing in-person counseling and for making contact, including personal contact, with defaulted mortgagors, for the purpose of providing counseling or providing information about available counseling.”
 
-    \[[Pub. L. 111–203, § 1497(b)(1)(A)][/us/pl/111/203/s1497/b/1/A], which directed amendment of [section 2301(f)(3)(A)(ii) of Pub. L. 110–289][/us/pl/110/289/s2301/f/3/A/ii], set out above, by striking out “for the purchase and redevelopment of abandoned and foreclosed upon homes or residential properties that will be used”, was executed by striking out “for the purchase and redevelopment of abandoned or foreclosed upon homes or residential properties that will be used” before “to house”, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 111–203][/us/pl/111/203], § 1497(b)(1)(A), which directed amendment of [section 2301(f)(3)(A)(ii) of Pub. L. 110–289][/us/pl/110/289/s2301/f/3/A/ii], set out above, by striking out “for the purchase and redevelopment of abandoned and foreclosed upon homes or residential properties that will be used”, was executed by striking out “for the purchase and redevelopment of abandoned or foreclosed upon homes or residential properties that will be used” before “to house”, to reflect the probable intent of Congress.\]
 
-\[[Pub. L. 111–22, div. A, title I, § 105(b)][/us/pl/111/22/s105/b], May 20, 2009, [123 Stat. 1638][/us/stat/123/1638], provided that: 
+\[[Pub. L. 111–22, div. A, title I][/us/pl/111/22/dA/tI], § 105(b), May 20, 2009, [123 Stat. 1638][/us/stat/123/1638], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 2301 of Pub. L. 110–289][/us/pl/110/289/s2301], set out above\] shall take effect as if enacted on the date of enactment of the Foreclosure Prevention Act of 2008 ([Public Law 110–289][/us/pl/110/289]) \[July 30, 2008\].”
 
@@ -449,7 +449,7 @@
 
  __Income Eligibility for Home and CDBG Programs__ 
 
-[Pub. L. 105–276, title V, § 590][/us/pl/105/276/s590], Oct. 21, 1998, [112 Stat. 2651][/us/stat/112/2651], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 590, Oct. 21, 1998, [112 Stat. 2651][/us/stat/112/2651], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -465,7 +465,7 @@
 
  __Findings and Purpose__ 
 
-[Pub. L. 100–242, § 2][/us/pl/100/242/s2], Feb. 5, 1988, [101 Stat. 1819][/us/stat/101/1819], provided that:
+[Pub. L. 100–242][/us/pl/100/242], § 2, Feb. 5, 1988, [101 Stat. 1819][/us/stat/101/1819], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -491,7 +491,7 @@
 
  __Budget Compliance__ 
 
-[Pub. L. 100–242, § 3][/us/pl/100/242/s3], Feb. 5, 1988, [101 Stat. 1819][/us/stat/101/1819], provided that:
+[Pub. L. 100–242][/us/pl/100/242], § 3, Feb. 5, 1988, [101 Stat. 1819][/us/stat/101/1819], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -503,19 +503,19 @@
 
  __Credit Limitation__ 
 
-[Pub. L. 100–242, § 4][/us/pl/100/242/s4], Feb. 5, 1988, [101 Stat. 1819][/us/stat/101/1819], provided that: 
+[Pub. L. 100–242][/us/pl/100/242], § 4, Feb. 5, 1988, [101 Stat. 1819][/us/stat/101/1819], provided that: 
 
 > “Any new credit authority (as defined in section 3 of the Congressional Budget Act of 1974 \[[2 U.S.C. 622][/us/usc/t2/s622]\]) which is provided by this Act \[see Short Title of 1988 Amendment note above\], or by an amendment made by this Act, shall be effective only to such extent or in such amounts as are provided in appropriation Acts.”
 
  __Limitation on Spending Authority__ 
 
-[Pub. L. 100–242, § 5][/us/pl/100/242/s5], Feb. 5, 1988, [101 Stat. 1820][/us/stat/101/1820], provided that: 
+[Pub. L. 100–242][/us/pl/100/242], § 5, Feb. 5, 1988, [101 Stat. 1820][/us/stat/101/1820], provided that: 
 
 > “Any new spending authority (as defined in section 401(c) of the Congressional Budget Act of 1974 \[[2 U.S.C. 651(c)][/us/usc/t2/s651/c]\]) which is provided by this Act, or by an amendment made by this Act \[see Short Title of 1988 Amendment note above\], shall be effective only to such extent or in such amounts as are provided in appropriation Acts.”
 
  __Limitation on Withholding or Conditioning of Assistance__ 
 
-[Pub. L. 93–383, title VIII, § 817][/us/pl/93/383/s817], Aug. 22, 1974, [88 Stat. 739][/us/stat/88/739], as amended by [Pub. L. 98–181, title I][/us/pl/98/181] \[title III, § 302(c)\], Nov. 30, 1983, [97 Stat. 1206][/us/stat/97/1206], provided that: 
+[Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 817, Aug. 22, 1974, [88 Stat. 739][/us/stat/88/739], as amended by [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title III, § 302(c)\], Nov. 30, 1983, [97 Stat. 1206][/us/stat/97/1206], provided that: 
 
 > “Assistance provided for in this Act \[see Short Title note above\] the National Housing Act, \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\], the Housing Act of 1949 \[[42 U.S.C. 1441][/us/usc/t42/s1441] et seq.\], the Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under [section 3331 of this title][/us/usc/t42/s3331]\], the Housing and Urban Development Acts of 1965, 1968, 1969, and 1970 \[see Short Title notes set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking\], and section 17 of the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437]o\] shall not be withheld or made subject to conditions or preference by reason of the tax-exempt status of bonds or other obligations issued or to be issued to provide financing for use in connection with such assistance, except where otherwise expressly provided or authorized by law.”
 
@@ -528,40 +528,40 @@
 
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/usc/t42/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5308
-[/us/pl/93/383/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs101
+[/us/pl/93/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtI
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
-[/us/pl/95/128/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs101
+[/us/pl/95/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtI
 [/us/stat/91/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1111
-[/us/pl/96/399/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs104%2Fa
+[/us/pl/96/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtI
 [/us/stat/94/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1616
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1159
-[/us/pl/100/242/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs502%2Fa
+[/us/pl/100/242/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtV
 [/us/stat/101/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1923
-[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIX
 [/us/stat/104/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4385
-[/us/pl/103/233/s232/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs232%2Fa%2F2%2FA
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F367
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
 [/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
-[/us/pl/101/625/s913/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs913%2Fa
-[/us/pl/101/625/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs902%2Fa
-[/us/pl/100/242/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs502%2Fa
-[/us/pl/100/242/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs502%2Fb
-[/us/pl/98/181/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs101%2Fa%2F1
-[/us/pl/98/181/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs101%2Fa%2F2
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t42/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5306
 [/us/usc/t42/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5308
-[/us/pl/96/399/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs104%2Fa%2F1
-[/us/pl/96/399/s104/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs104%2Fa%2F4
-[/us/pl/96/399/s104/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs104%2Fa%2F7
-[/us/pl/95/128/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs101%2Fa
-[/us/pl/95/128/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs101%2Fb
-[/us/pl/103/233/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs209
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F366
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
-[/us/pl/102/550/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs2
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3681
 [/us/pl/101/625/s913/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs913%2Fa
 [/us/usc/t42/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5303
@@ -570,50 +570,50 @@
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/98/181/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs110%2Fb
 [/us/usc/t42/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5316
-[/us/pl/95/128/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs114
+[/us/pl/95/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtI
 [/us/stat/91/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1128
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
 [/us/usc/t42/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5313
-[/us/pl/108/146/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F146%2Fs1
+[/us/pl/108/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F146
 [/us/stat/117/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1883
 [/us/usc/t42/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5305
-[/us/pl/102/550/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1%2Fa
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
-[/us/pl/100/242/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs1%2Fa
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1815
-[/us/pl/99/272/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs3001%2Fa
+[/us/pl/99/272/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIII
 [/us/stat/100/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F101
 [/us/usc/t42/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5308
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
-[/us/pl/98/479/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs1
+[/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
 [/us/stat/98/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2218
 [/us/usc/t12/s1701z–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701z%E2%80%936
-[/us/pl/97/35/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs300
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F384
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s8121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8121
 [/us/usc/t12/s1701s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701s
-[/us/pl/96/399/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs1
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
 [/us/stat/94/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1614
 [/us/usc/t12/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2809
 [/us/usc/t15/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3601
 [/us/usc/t42/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5401
-[/us/pl/96/153/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs1
+[/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/stat/93/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1101
 [/us/usc/t12/s1735f–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735f%E2%80%937
 [/us/usc/t15/s1719a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1719a
 [/us/usc/t42/s1437k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437k
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t15/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1701
-[/us/pl/95/557/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs1
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/stat/92/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2080
 [/us/usc/t15/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1702
 [/us/pl/95/128/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs1
-[/us/pl/93/383/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs1
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/stat/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F633
 [/us/usc/t20/s803a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs803a
 [/us/usc/t15/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1703
-[/us/pl/111/203/s1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1497
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2209
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F217
@@ -631,23 +631,23 @@
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F217
-[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXII
 [/us/stat/123/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F218
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
-[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXII
 [/us/stat/123/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F218
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
-[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/289/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtIII
 [/us/stat/122/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2850
-[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXII
 [/us/stat/123/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F218
-[/us/pl/111/22/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs105%2Fa
+[/us/pl/111/22/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtI
 [/us/stat/123/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1638
-[/us/pl/111/203/s1497/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1497%2Fb%2F1%2FA
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2210
 [/us/usc/t42/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
@@ -656,33 +656,33 @@
 [/us/stat/122/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2854
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/stat/122/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2854
-[/us/pl/111/203/s1497/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1497%2Fb%2F1%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/110/289/s2301/f/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2301%2Ff%2F3%2FA%2Fii
-[/us/pl/111/22/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs105%2Fb
+[/us/pl/111/22/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtI
 [/us/stat/123/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1638
 [/us/pl/110/289/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2301
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
-[/us/pl/105/276/s590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs590
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2651
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
 [/us/usc/t42/s12704/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704%2F10
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
 [/us/usc/t42/s5302/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5302%2Fa%2F20
-[/us/pl/100/242/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs2
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1819
-[/us/pl/100/242/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs3
-[/us/stat/101/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1819
-[/us/usc/t2/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs622
-[/us/pl/100/242/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs4
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1819
 [/us/usc/t2/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs622
-[/us/pl/100/242/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs5
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
+[/us/stat/101/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1819
+[/us/usc/t2/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs622
+[/us/pl/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242
 [/us/stat/101/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1820
 [/us/usc/t2/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc
-[/us/pl/93/383/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs817
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F739
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1206
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437

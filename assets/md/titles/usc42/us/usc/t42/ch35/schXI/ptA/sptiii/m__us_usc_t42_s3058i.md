@@ -183,37 +183,37 @@
 
         In order to receive funds made available to carry out this section, an entity shall comply with all applicable laws, regulations, and guidelines.
 
-([Pub. L. 89–73, title VII, § 721][/us/pl/89/73/s721], as added [Pub. L. 102–375, title VII, § 703(b)][/us/pl/102/375/s703/b], Sept. 30, 1992, [106 Stat. 1282][/us/stat/106/1282]; amended [Pub. L. 106–501, title VII, § 705][/us/pl/106/501/s705], title VIII, § 801(e)(3), Nov. 13, 2000, [114 Stat. 2290][/us/stat/114/2290], 2293; [Pub. L. 109–365, title VII, § 702][/us/pl/109/365/s702], Oct. 17, 2006, [120 Stat. 2591][/us/stat/120/2591].)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 721, as added [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 703(b), Sept. 30, 1992, [106 Stat. 1282][/us/stat/106/1282]; amended [Pub. L. 106–501, title VII][/us/pl/106/501/tVII], § 705, title VIII, § 801(e)(3), Nov. 13, 2000, [114 Stat. 2290][/us/stat/114/2290], 2293; [Pub. L. 109–365, title VII][/us/pl/109/365/tVII], § 702, Oct. 17, 2006, [120 Stat. 2591][/us/stat/120/2591].)
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–365, § 702(1)][/us/pl/109/365/s702/1], substituted “programs to address” for “programs for the prevention of”.
+    2006—Subsec. (a). [Pub. L. 109–365][/us/pl/109/365], § 702(1), substituted “programs to address” for “programs for the prevention of”.
 
-    Subsec. (b). [Pub. L. 109–365, § 702(2)(A)][/us/pl/109/365/s702/2/A], substituted “programs for the prevention, detection, assessment, and treatment of, intervention in, investigation of, and response to elder abuse, neglect, and exploitation (including financial exploitation), including—” for “programs for the prevention and treatment of elder abuse, neglect, and exploitation (including financial exploitation), including—” in introductory provisions.
+    Subsec. (b). [Pub. L. 109–365][/us/pl/109/365], § 702(2)(A), substituted “programs for the prevention, detection, assessment, and treatment of, intervention in, investigation of, and response to elder abuse, neglect, and exploitation (including financial exploitation), including—” for “programs for the prevention and treatment of elder abuse, neglect, and exploitation (including financial exploitation), including—” in introductory provisions.
 
-    Subsec. (b)(2) to (9). [Pub. L. 109–365, § 702(2)(B)][/us/pl/109/365/s702/2/B], (C), added par. (2) and redesignated former pars. (2) to (8) as (3) to (9), respectively.
+    Subsec. (b)(2) to (9). [Pub. L. 109–365][/us/pl/109/365], § 702(2)(B), (C), added par. (2) and redesignated former pars. (2) to (8) as (3) to (9), respectively.
 
-    Subsec. (b)(10) to (12). [Pub. L. 109–365, § 702(2)(D)][/us/pl/109/365/s702/2/D]–(F), added pars. (10) to (12).
+    Subsec. (b)(10) to (12). [Pub. L. 109–365][/us/pl/109/365], § 702(2)(D)–(F), added pars. (10) to (12).
 
-    Subsec. (e)(2). [Pub. L. 109–365, § 702(3)][/us/pl/109/365/s702/3], substituted “subsection (b)(9)(B)(i)” for “subsection (b)(8)(B)(i)” and “subsection (b)(9)(B)(ii)” for “subsection (b)(8)(B)(ii)”.
+    Subsec. (e)(2). [Pub. L. 109–365][/us/pl/109/365], § 702(3), substituted “subsection (b)(9)(B)(i)” for “subsection (b)(8)(B)(i)” and “subsection (b)(9)(B)(ii)” for “subsection (b)(8)(B)(ii)”.
 
-    Subsecs. (h) to (j). [Pub. L. 109–365, § 702(4)][/us/pl/109/365/s702/4], added subsecs. (h) to (j).
+    Subsecs. (h) to (j). [Pub. L. 109–365][/us/pl/109/365], § 702(4), added subsecs. (h) to (j).
 
-    2000—Subsec. (a). [Pub. L. 106–501, § 801(e)(3)][/us/pl/106/501/s801/e/3], substituted “[section 3058a of this title][/us/usc/t42/s3058a] and made available to carry out this subpart” for “[section 3058a(b) of this title][/us/usc/t42/s3058a/b]”.
+    2000—Subsec. (a). [Pub. L. 106–501][/us/pl/106/501], § 801(e)(3), substituted “[section 3058a of this title][/us/usc/t42/s3058a] and made available to carry out this subpart” for “[section 3058a(b) of this title][/us/usc/t42/s3058a/b]”.
 
-    Subsec. (b). [Pub. L. 106–501, § 705(1)(A)][/us/pl/106/501/s705/1/A], in introductory provisions, inserted “(including financial exploitation)” after “exploitation”.
+    Subsec. (b). [Pub. L. 106–501][/us/pl/106/501], § 705(1)(A), in introductory provisions, inserted “(including financial exploitation)” after “exploitation”.
 
-    Subsec. (b)(2). [Pub. L. 106–501, § 705(1)(B)][/us/pl/106/501/s705/1/B], inserted “, State and local law enforcement systems, and courts of competent jurisdiction” after “service program”.
+    Subsec. (b)(2). [Pub. L. 106–501][/us/pl/106/501], § 705(1)(B), inserted “, State and local law enforcement systems, and courts of competent jurisdiction” after “service program”.
 
-    Subsec. (b)(5). [Pub. L. 106–501, § 705(1)(C)][/us/pl/106/501/s705/1/C], inserted “including caregivers described in part E of subchapter III of this chapter,” after “individuals,”.
+    Subsec. (b)(5). [Pub. L. 106–501][/us/pl/106/501], § 705(1)(C), inserted “including caregivers described in part E of subchapter III of this chapter,” after “individuals,”.
 
-    Subsec. (d)(8). [Pub. L. 106–501, § 705(2)][/us/pl/106/501/s705/2], inserted “State and local” before “law enforcement programs” and “, and services provided by agencies and courts of competent jurisdiction” before period at end.
+    Subsec. (d)(8). [Pub. L. 106–501][/us/pl/106/501], § 705(2), inserted “State and local” before “law enforcement programs” and “, and services provided by agencies and courts of competent jurisdiction” before period at end.
 
-    Subsec. (g). [Pub. L. 106–501, § 705(3)][/us/pl/106/501/s705/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–501][/us/pl/106/501], § 705(3), added subsec. (g).
 
  __Declaration of Purpose__ 
 
-[Pub. L. 102–375, title VII, § 703(a)][/us/pl/102/375/s703/a], Sept. 30, 1992, [106 Stat. 1282][/us/stat/106/1282], provided that: 
+[Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 703(a), Sept. 30, 1992, [106 Stat. 1282][/us/stat/106/1282], provided that: 
 
 > “The purpose of this section \[enacting this subpart\] is to assist States in the design, development, and coordination of comprehensive services of the State and local levels to prevent, treat, and remedy elder abuse, neglect, and exploitation.”
 
@@ -228,28 +228,28 @@
 [/us/usc/t42/s3058a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058a
 [/us/usc/t42/s1396b/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fq
 [/us/usc/t42/s3017/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3017%2Fg
-[/us/pl/89/73/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs721
-[/us/pl/102/375/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs703%2Fb
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1282
-[/us/pl/106/501/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs705
+[/us/pl/106/501/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVII
 [/us/stat/114/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2290
-[/us/pl/109/365/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs702
+[/us/pl/109/365/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtVII
 [/us/stat/120/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2591
-[/us/pl/109/365/s702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs702%2F1
-[/us/pl/109/365/s702/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs702%2F2%2FA
-[/us/pl/109/365/s702/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs702%2F2%2FB
-[/us/pl/109/365/s702/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs702%2F2%2FD
-[/us/pl/109/365/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs702%2F3
-[/us/pl/109/365/s702/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs702%2F4
-[/us/pl/106/501/s801/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fe%2F3
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/109/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3058a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058a
 [/us/usc/t42/s3058a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058a%2Fb
-[/us/pl/106/501/s705/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs705%2F1%2FA
-[/us/pl/106/501/s705/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs705%2F1%2FB
-[/us/pl/106/501/s705/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs705%2F1%2FC
-[/us/pl/106/501/s705/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs705%2F2
-[/us/pl/106/501/s705/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs705%2F3
-[/us/pl/102/375/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs703%2Fa
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1282
 
 

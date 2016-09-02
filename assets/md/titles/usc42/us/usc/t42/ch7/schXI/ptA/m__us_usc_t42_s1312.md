@@ -17,7 +17,7 @@
 
     In order to assist the States to extend the scope and content, and improve the quality, of medical care and medical services for which payments are made to or on behalf of needy and low-income individuals under this chapter and in order to promote better public understanding about medical care and medical assistance for needy and low-income individuals, the Secretary shall develop and revise from time to time guides or recommended standards as to the level, content, and quality of medical care and medical services for the use of the States in evaluating and improving their public assistance medical care programs and their programs of medical assistance; shall secure periodic reports from the States on items included in, and the quantity of, medical care and medical services for which expenditures under such programs are made; and shall from time to time publish data secured from these reports and other information necessary to carry out the purposes of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1112, as added [Pub. L. 86–778, title VII, § 705][/us/pl/86/778/s705], Sept. 13, 1960, [74 Stat. 995][/us/stat/74/995]; amended [Pub. L. 89–97, title IV, § 408(c)][/us/pl/89/97/s408/c], July 30, 1965, [79 Stat. 422][/us/stat/79/422].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1112, as added [Pub. L. 86–778, title VII][/us/pl/86/778/tVII], § 705, Sept. 13, 1960, [74 Stat. 995][/us/stat/74/995]; amended [Pub. L. 89–97, title IV][/us/pl/89/97/tIV], § 408(c), July 30, 1965, [79 Stat. 422][/us/stat/79/422].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/86/778/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs705
+[/us/pl/86/778/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVII
 [/us/stat/74/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F995
-[/us/pl/89/97/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs408%2Fc
+[/us/pl/89/97/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIV
 [/us/stat/79/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F422
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 

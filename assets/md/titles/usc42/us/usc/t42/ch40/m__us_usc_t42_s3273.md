@@ -17,7 +17,7 @@
 
     It is further the sense of the Congress that the Secretary shall make a reasonable effort to assure that the contributions of any State or other public agency under any cooperative agreement which may be entered into between the Secretary and such State or other public agency with respect to a soil survey shall be a substantial portion of the cost of such soil survey.
 
-([Pub. L. 89–560, § 3][/us/pl/89/560/s3], Sept. 7, 1966, [80 Stat. 706][/us/stat/80/706].)
+([Pub. L. 89–560][/us/pl/89/560], § 3, Sept. 7, 1966, [80 Stat. 706][/us/stat/80/706].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/560/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F560%2Fs3
+[/us/pl/89/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F560
 [/us/stat/80/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F706
 
 

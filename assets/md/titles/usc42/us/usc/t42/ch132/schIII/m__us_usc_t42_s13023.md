@@ -45,7 +45,7 @@
 
         The Administrator shall make grants under subsections (a) and (b) of this section consistent with sections 5666, 5673, and 5676 of this title.
 
-([Pub. L. 101–647, title II, § 223][/us/pl/101/647/s223], Nov. 29, 1990, [104 Stat. 4797][/us/stat/104/4797]; [Pub. L. 107–273, div. C, title II, § 12221(b)(1)(D)][/us/pl/107/273/s12221/b/1/D], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 223, Nov. 29, 1990, [104 Stat. 4797][/us/stat/104/4797]; [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12221(b)(1)(D), Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].)
 
  __Amendments__ 
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/101/647/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs223
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4797
-[/us/pl/107/273/s12221/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12221%2Fb%2F1%2FD
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

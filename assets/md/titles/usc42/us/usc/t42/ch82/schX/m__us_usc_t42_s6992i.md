@@ -29,11 +29,11 @@
 
         Nothing in this subchapter shall affect the authority of the Administrator to regulate medical waste, including medical waste listed under [section 6992a of this title][/us/usc/t42/s6992a], under subchapter III of this chapter.
 
-([Pub. L. 89–272, title II, § 11009][/us/pl/89/272/s11009], formerly § 11010, as added [Pub. L. 100–582, § 2(a)][/us/pl/100/582/s2/a], Nov. 1, 1988, [102 Stat. 2957][/us/stat/102/2957]; renumbered § 11009, [Pub. L. 105–362, title V, § 501(h)(1)(B)][/us/pl/105/362/s501/h/1/B], Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 11009, formerly § 11010, as added [Pub. L. 100–582][/us/pl/100/582], § 2(a), Nov. 1, 1988, [102 Stat. 2957][/us/stat/102/2957]; renumbered § 11009, [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(h)(1)(B), Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284].)
 
  __References in Text__ 
 
-    The Paperwork Reduction Act of 1980, referred to in subsec. (b), is [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
+    The Paperwork Reduction Act of 1980, referred to in subsec. (b), is [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
 
  __Prior Provisions__ 
 
@@ -47,14 +47,14 @@
 ----------
 
 [/us/usc/t42/s6992a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6992a
-[/us/pl/89/272/s11009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs11009
-[/us/pl/100/582/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582%2Fs2%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/100/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F582
 [/us/stat/102/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2957
-[/us/pl/105/362/s501/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs501%2Fh%2F1%2FB
+[/us/pl/105/362/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtV
 [/us/stat/112/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3284
 [/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2812
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F163
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 [/us/pl/89/272/s11009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs11009

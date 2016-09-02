@@ -77,7 +77,7 @@
 
         There is authorized to be appropriated to the Secretary, for deposit in the loan fund established by [section 291j–6 of this title][/us/usc/t42/s291j–6], $30,000,000 to provide initial capital for the making of direct loans by the Secretary to public agencies for the modernization or construction of facilities referred to in subsection (a)(1) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 627, as added [Pub. L. 91–296, title II, § 201][/us/pl/91/296/s201], June 30, 1970, [84 Stat. 349][/us/stat/84/349]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 627, as added [Pub. L. 91–296, title II][/us/pl/91/296/tII], § 201, June 30, 1970, [84 Stat. 349][/us/stat/84/349]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
@@ -85,7 +85,7 @@
 
  __Commitments for Direct Loans to Public Agencies__ 
 
-[Pub. L. 91–667, title II, § 200][/us/pl/91/667/s200], Jan. 11, 1971, [84 Stat. 2007][/us/stat/84/2007], provided: 
+[Pub. L. 91–667, title II][/us/pl/91/667/tII], § 200, Jan. 11, 1971, [84 Stat. 2007][/us/stat/84/2007], provided: 
 
 > “That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[[42 U.S.C. 291j–7][/us/usc/t42/s291j–7]\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received.”
 
@@ -100,12 +100,12 @@
 [/us/usc/t42/s291j–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291j%E2%80%936
 [/us/usc/t42/s291j–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291j%E2%80%936
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/91/296/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2Fs201
+[/us/pl/91/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F296%2FtII
 [/us/stat/84/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F349
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/91/667/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F667%2Fs200
+[/us/pl/91/667/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F667%2FtII
 [/us/stat/84/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2007
 [/us/usc/t42/s291j–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs291j%E2%80%937
 

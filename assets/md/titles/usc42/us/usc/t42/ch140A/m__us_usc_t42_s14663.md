@@ -17,7 +17,7 @@
 
     A State that receives a grant award under this chapter may use such funds received to establish or expand programs developed to improve the reporting of unidentified persons in accordance with the assurances provided in the application submitted pursuant to [section 14662(b) of this title][/us/usc/t42/s14662/b].
 
-([Pub. L. 106–177, title II, § 204][/us/pl/106/177/s204], Mar. 10, 2000, [114 Stat. 36][/us/stat/114/36].)
+([Pub. L. 106–177, title II][/us/pl/106/177/tII], § 204, Mar. 10, 2000, [114 Stat. 36][/us/stat/114/36].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s14662/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14662%2Fb
-[/us/pl/106/177/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F177%2Fs204
+[/us/pl/106/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F177%2FtII
 [/us/stat/114/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F36
 
 

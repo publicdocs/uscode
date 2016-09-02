@@ -69,7 +69,7 @@
 
         In this section, the term “State” includes only the several States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 106–310, div. A, title XIV, § 1404][/us/pl/106/310/s1404], Oct. 17, 2000, [114 Stat. 1143][/us/stat/114/1143].)
+([Pub. L. 106–310, div. A, title XIV][/us/pl/106/310/dA/tXIV], § 1404, Oct. 17, 2000, [114 Stat. 1143][/us/stat/114/1143].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 [/us/usc/t42/s9859a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9859a
 [/us/usc/t42/s9859a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9859a
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/pl/106/310/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1404
+[/us/pl/106/310/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdA%2FtXIV
 [/us/stat/114/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1143
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230

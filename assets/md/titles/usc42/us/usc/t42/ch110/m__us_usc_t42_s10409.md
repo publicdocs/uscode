@@ -35,11 +35,11 @@
 
         An amount provided under a grant to an eligible entity shall be used for the services described in [section 10408(b) of this title][/us/usc/t42/s10408/b].
 
-([Pub. L. 98–457, title III, § 309][/us/pl/98/457/s309], as added [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3496][/us/stat/124/3496].)
+([Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 309, as added [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3496][/us/stat/124/3496].)
 
  __Prior Provisions__ 
 
-    A prior section 10409, [Pub. L. 98–457, title III, § 310][/us/pl/98/457/s310], Oct. 9, 1984, [98 Stat. 1763][/us/stat/98/1763]; [Pub. L. 100–294, title III, § 301][/us/pl/100/294/s301], Apr. 25, 1988, [102 Stat. 124][/us/stat/102/124]; [Pub. L. 102–295, title III, § 316][/us/pl/102/295/s316], May 28, 1992, [106 Stat. 206][/us/stat/106/206]; [Pub. L. 103–322, title IV, § 40241][/us/pl/103/322/s40241], Sept. 13, 1994, [108 Stat. 1934][/us/stat/108/1934]; [Pub. L. 104–235, title II, § 203][/us/pl/104/235/s203], Oct. 3, 1996, [110 Stat. 3089][/us/stat/110/3089]; [Pub. L. 106–386, div. B, title II, § 1202(a)][/us/pl/106/386/s1202/a], Oct. 28, 2000, [114 Stat. 1505][/us/stat/114/1505]; [Pub. L. 108–36, title IV, § 406(a)][/us/pl/108/36/s406/a], (b), June 25, 2003, [117 Stat. 827][/us/stat/117/827], related to authorization of appropriations, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10403 of this title][/us/usc/t42/s10403].
+    A prior section 10409, [Pub. L. 98–457, title III][/us/pl/98/457/tIII], § 310, Oct. 9, 1984, [98 Stat. 1763][/us/stat/98/1763]; [Pub. L. 100–294, title III][/us/pl/100/294/tIII], § 301, Apr. 25, 1988, [102 Stat. 124][/us/stat/102/124]; [Pub. L. 102–295, title III][/us/pl/102/295/tIII], § 316, May 28, 1992, [106 Stat. 206][/us/stat/106/206]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40241, Sept. 13, 1994, [108 Stat. 1934][/us/stat/108/1934]; [Pub. L. 104–235, title II][/us/pl/104/235/tII], § 203, Oct. 3, 1996, [110 Stat. 3089][/us/stat/110/3089]; [Pub. L. 106–386, div. B, title II][/us/pl/106/386/dB/tII], § 1202(a), Oct. 28, 2000, [114 Stat. 1505][/us/stat/114/1505]; [Pub. L. 108–36, title IV][/us/pl/108/36/tIV], § 406(a), (b), June 25, 2003, [117 Stat. 827][/us/stat/117/827], related to authorization of appropriations, prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320]. See [section 10403 of this title][/us/usc/t42/s10403].
 
     A prior [section 309 of Pub. L. 98–457][/us/pl/98/457/s309] was renumbered section 320 and transferred to [section 10421 of this title][/us/usc/t42/s10421] prior to the general amendment of this chapter by [Pub. L. 111–320][/us/pl/111/320].
 
@@ -58,22 +58,22 @@
 [/us/usc/t42/s10406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10406%2Fc
 [/us/usc/t42/s10407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10407%2Fa
 [/us/usc/t42/s10408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10408%2Fb
-[/us/pl/98/457/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs309
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3496
-[/us/pl/98/457/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2Fs310
+[/us/pl/98/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457%2FtIII
 [/us/stat/98/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1763
-[/us/pl/100/294/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2Fs301
+[/us/pl/100/294/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F294%2FtIII
 [/us/stat/102/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F124
-[/us/pl/102/295/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs316
+[/us/pl/102/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2FtIII
 [/us/stat/106/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F206
-[/us/pl/103/322/s40241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40241
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1934
-[/us/pl/104/235/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs203
+[/us/pl/104/235/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2FtII
 [/us/stat/110/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3089
-[/us/pl/106/386/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1202%2Fa
+[/us/pl/106/386/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtII
 [/us/stat/114/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1505
-[/us/pl/108/36/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2Fs406%2Fa
+[/us/pl/108/36/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F36%2FtIV
 [/us/stat/117/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F827
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/usc/t42/s10403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10403

@@ -141,13 +141,13 @@
 
         (2) notwithstanding paragraph (c)(4) of such section, any fee that the covered entity may impose for providing such individual with a copy of such information (or a summary or explanation of such information) if such copy (or summary or explanation) is in an electronic form shall not be greater than the entity’s labor costs in responding to the request for the copy (or summary or explanation).
 
-([Pub. L. 111–5, div. A, title XIII, § 13405][/us/pl/111/5/s13405], Feb. 17, 2009, [123 Stat. 264][/us/stat/123/264].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13405, Feb. 17, 2009, [123 Stat. 264][/us/stat/123/264].)
 
  __References in Text__ 
 
-    Section 13423, referred to in subsec. (b)(3), means [section 13423 of div. A of Pub. L. 111–5][/us/pl/111/5/s13423], which is set out as an Effective Date note under [section 17931 of this title][/us/usc/t42/s17931].
+    Section 13423, referred to in subsec. (b)(3), means [section 13423 of div. A of Pub. L. 111–5][/us/pl/111/5/dA/s13423], which is set out as an Effective Date note under [section 17931 of this title][/us/usc/t42/s17931].
 
-    Section 13101, referred to in subsec. (c)(2), means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/s13101].
+    Section 13101, referred to in subsec. (c)(2), means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/dA/s13101].
 
 ----------
 
@@ -158,10 +158,10 @@
 
 [/us/usc/t42/s17953/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17953%2Fc
 [/us/usc/t42/s300jj–12/b/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9312%2Fb%2F2%2FB%2Fiv
-[/us/pl/111/5/s13405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13405
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F264
-[/us/pl/111/5/s13423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13423
+[/us/pl/111/5/dA/s13423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2Fs13423
 [/us/usc/t42/s17931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17931
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2Fs13101
 
 

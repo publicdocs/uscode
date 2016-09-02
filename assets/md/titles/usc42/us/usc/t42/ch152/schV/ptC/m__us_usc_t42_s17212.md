@@ -59,7 +59,7 @@
 
         (4) the necessary components of such an adaptive management program.
 
-([Pub. L. 110–140, title VI, § 633][/us/pl/110/140/s633], Dec. 19, 2007, [121 Stat. 1686][/us/stat/121/1686].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 633, Dec. 19, 2007, [121 Stat. 1686][/us/stat/121/1686].)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs633
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1686
 
 

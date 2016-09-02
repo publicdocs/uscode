@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_ch6A_schVIII–A_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptB/m__us_usc_t42_ch6A_schVIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9329)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_s300a–21...300a–28.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptB/m__us_usc_t42_ch6A_schVIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9329)
 
 ## § 300a–29. Omitted
 
  __Codification__ 
 
-    Section, [Pub. L. 95–626, title III, § 301][/us/pl/95/626/s301], Nov. 10, 1978, [92 Stat. 3590][/us/stat/92/3590], provided that grants or contracts made under this subchapter would be considered to have been made under this chapter for the purposes of sections 300l–2(e) and 300m–3(c)(6) of this title.
+    Section, [Pub. L. 95–626, title III][/us/pl/95/626/tIII], § 301, Nov. 10, 1978, [92 Stat. 3590][/us/stat/92/3590], provided that grants or contracts made under this subchapter would be considered to have been made under this chapter for the purposes of sections 300l–2(e) and 300m–3(c)(6) of this title.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_ch6A_schVIII–A_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptB/m__us_usc_t42_ch6A_schVIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9329)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_s300a–21...300a–28.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptB/m__us_usc_t42_ch6A_schVIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9329)
 
 ----------
 ----------
 
-[/us/pl/95/626/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs301
+[/us/pl/95/626/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtIII
 [/us/stat/92/3590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3590
 
 

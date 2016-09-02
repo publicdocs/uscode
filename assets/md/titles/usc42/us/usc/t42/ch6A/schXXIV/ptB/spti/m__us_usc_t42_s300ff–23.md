@@ -125,7 +125,7 @@
 
         For purposes of the requirement of [section 300ff–22(b)(1) of this title][/us/usc/t42/s300ff–22/b/1], expenditures of grants under [section 300ff–21 of this title][/us/usc/t42/s300ff–21] for or through consortia under this section are deemed to be support services, not core medical services. The preceding sentence may not be construed as having any legal effect on the provisions of subsection (a) that relate to authorized expenditures of the grant.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2613, as added [Pub. L. 101–381, title II, § 201][/us/pl/101/381/s201], Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; amended [Pub. L. 104–146, § 3(c)(2)][/us/pl/104/146/s3/c/2], May 20, 1996, [110 Stat. 1354][/us/stat/110/1354]; [Pub. L. 106–345, title II, § 203][/us/pl/106/345/s203], Oct. 20, 2000, [114 Stat. 1331][/us/stat/114/1331]; [Pub. L. 109–415, title II][/us/pl/109/415], §§ 201(b), 204(a), title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2787][/us/stat/120/2787], 2796, 2820; [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2613, as added [Pub. L. 101–381, title II][/us/pl/101/381/tII], § 201, Aug. 18, 1990, [104 Stat. 586][/us/stat/104/586]; amended [Pub. L. 104–146][/us/pl/104/146], § 3(c)(2), May 20, 1996, [110 Stat. 1354][/us/stat/110/1354]; [Pub. L. 106–345, title II][/us/pl/106/345/tII], § 203, Oct. 20, 2000, [114 Stat. 1331][/us/stat/114/1331]; [Pub. L. 109–415, title II][/us/pl/109/415/tII], §§ 201(b), 204(a), title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2787][/us/stat/120/2787], 2796, 2820; [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), (3)(A), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885].)
 
  __Codification__ 
 
@@ -137,35 +137,35 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415, § 703][/us/pl/109/415/s703], and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+    2009—[Pub. L. 111–87][/us/pl/111/87] repealed [Pub. L. 109–415][/us/pl/109/415], § 703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-    2006—[Pub. L. 109–415, § 703][/us/pl/109/415/s703], which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87, § 2(a)(1)][/us/pl/111/87/s2/a/1], effective Sept. 30, 2009.
+    2006—[Pub. L. 109–415][/us/pl/109/415], § 703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by [Pub. L. 111–87][/us/pl/111/87], § 2(a)(1), effective Sept. 30, 2009.
 
-    [Pub. L. 109–415, § 702(3)][/us/pl/109/415/s702/3], substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+    [Pub. L. 109–415][/us/pl/109/415], § 702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 
-    Subsec. (a). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
+    Subsec. (a). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part” in introductory provisions.
 
-    [Pub. L. 109–415, § 201(b)(1)][/us/pl/109/415/s201/b/1], in introductory provisions substituted “may, subject to subsection (f), use” for “may use” and “[section 300ff–22(a) of this title][/us/usc/t42/s300ff–22/a]” for “[section 300ff–22(a)(1) of this title][/us/usc/t42/s300ff–22/a/1]”.
+    [Pub. L. 109–415][/us/pl/109/415], § 201(b)(1), in introductory provisions substituted “may, subject to subsection (f), use” for “may use” and “[section 300ff–22(a) of this title][/us/usc/t42/s300ff–22/a]” for “[section 300ff–22(a)(1) of this title][/us/usc/t42/s300ff–22/a/1]”.
 
-    Subsec. (d). [Pub. L. 109–415, § 204(a)][/us/pl/109/415/s204/a], substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
+    Subsec. (d). [Pub. L. 109–415][/us/pl/109/415], § 204(a), substituted “[section 300ff–21 of this title][/us/usc/t42/s300ff–21]” for “this part”.
 
-    Subsec. (f). [Pub. L. 109–415, § 201(b)(2)][/us/pl/109/415/s201/b/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–415][/us/pl/109/415], § 201(b)(2), added subsec. (f).
 
-    2000—Subsec. (b)(1)(A). [Pub. L. 106–345, § 203(1)(A)][/us/pl/106/345/s203/1/A], inserted “, particularly those experiencing disparities in access and services and those who reside in historically underserved communities” before semicolon.
+    2000—Subsec. (b)(1)(A). [Pub. L. 106–345][/us/pl/106/345], § 203(1)(A), inserted “, particularly those experiencing disparities in access and services and those who reside in historically underserved communities” before semicolon.
 
-    Subsec. (b)(1)(B). [Pub. L. 106–345, § 203(1)(B)][/us/pl/106/345/s203/1/B], inserted “is consistent with the comprehensive plan under [section 300ff–27(b)(4) of this title][/us/usc/t42/s300ff–27/b/4] and” after “by such consortium”.
+    Subsec. (b)(1)(B). [Pub. L. 106–345][/us/pl/106/345], § 203(1)(B), inserted “is consistent with the comprehensive plan under [section 300ff–27(b)(4) of this title][/us/usc/t42/s300ff–27/b/4] and” after “by such consortium”.
 
-    Subsec. (c)(1)(F). [Pub. L. 106–345, § 203(2)][/us/pl/106/345/s203/2], added subpar. (F).
+    Subsec. (c)(1)(F). [Pub. L. 106–345][/us/pl/106/345], § 203(2), added subpar. (F).
 
-    Subsec. (c)(2)(D). [Pub. L. 106–345, § 203(3)][/us/pl/106/345/s203/3], added subpar. (D).
+    Subsec. (c)(2)(D). [Pub. L. 106–345][/us/pl/106/345], § 203(3), added subpar. (D).
 
-    1996—Subsec. (a)(1). [Pub. L. 104–146, § 3(c)(2)(A)(i)][/us/pl/104/146/s3/c/2/A/i], inserted “(or private for-profit providers or organizations if such entities are the only available providers of quality HIV care in the area)” after “nonprofit private,”.
+    1996—Subsec. (a)(1). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(2)(A)(i), inserted “(or private for-profit providers or organizations if such entities are the only available providers of quality HIV care in the area)” after “nonprofit private,”.
 
-    Subsec. (a)(2)(A). [Pub. L. 104–146, § 3(c)(2)(A)(ii)][/us/pl/104/146/s3/c/2/A/ii], inserted “substance abuse treatment, mental health treatment,” after “nursing,” and “prophylactic treatment for opportunistic infections, treatment education to take place in the context of health care delivery,” after “monitoring,”.
+    Subsec. (a)(2)(A). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(2)(A)(ii), inserted “substance abuse treatment, mental health treatment,” after “nursing,” and “prophylactic treatment for opportunistic infections, treatment education to take place in the context of health care delivery,” after “monitoring,”.
 
-    Subsec. (c)(1)(C). [Pub. L. 104–146, § 3(c)(2)(B)(i)][/us/pl/104/146/s3/c/2/B/i], inserted “and youth centered” after “family centered”.
+    Subsec. (c)(1)(C). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(2)(B)(i), inserted “and youth centered” after “family centered”.
 
-    Subsec. (c)(2)(C). [Pub. L. 104–146, § 3(c)(2)(B)(ii)][/us/pl/104/146/s3/c/2/B/ii], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 104–146][/us/pl/104/146], § 3(c)(2)(B)(ii), added subpar. (C).
 
  __Effective Date of 2009 Amendment; Revival of Section__ 
 
@@ -191,40 +191,40 @@
 [/us/usc/t42/s300ff–22/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fb%2F1
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/101/381/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2Fs201
+[/us/pl/101/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F381%2FtII
 [/us/stat/104/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F586
-[/us/pl/104/146/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/stat/110/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1354
-[/us/pl/106/345/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs203
+[/us/pl/106/345/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2FtII
 [/us/stat/114/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1331
-[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2FtII
 [/us/stat/120/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2787
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
 [/us/stat/123/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2885
 [/us/pl/104/146/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2
 [/us/usc/t42/s300ff–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
-[/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
-[/us/pl/109/415/s702/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs702%2F3
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs201%2Fb%2F1
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fa
 [/us/usc/t42/s300ff–22/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9322%2Fa%2F1
-[/us/pl/109/415/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs204%2Fa
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
 [/us/usc/t42/s300ff–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9321
-[/us/pl/109/415/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs201%2Fb%2F2
-[/us/pl/106/345/s203/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs203%2F1%2FA
-[/us/pl/106/345/s203/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs203%2F1%2FB
+[/us/pl/109/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
 [/us/usc/t42/s300ff–27/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9327%2Fb%2F4
-[/us/pl/106/345/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs203%2F2
-[/us/pl/106/345/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs203%2F3
-[/us/pl/104/146/s3/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2%2FA%2Fi
-[/us/pl/104/146/s3/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2%2FA%2Fii
-[/us/pl/104/146/s3/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2%2FB%2Fi
-[/us/pl/104/146/s3/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs3%2Fc%2F2%2FB%2Fii
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/106/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
+[/us/pl/104/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146
 [/us/pl/111/87/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87%2Fs2%2Fa%2F1
 [/us/pl/109/415/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F415%2Fs703
 [/us/pl/111/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F87

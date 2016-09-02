@@ -21,19 +21,19 @@
 
     (2) to provide for the creation of a Strategic Petroleum Reserve capable of reducing the impact of severe energy supply interruptions;
 
-    (3) Repealed. [Pub. L. 106–469, title I, § 102(2)][/us/pl/106/469/s102/2], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029];
+    (3) Repealed. [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 102(2), Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029];
 
     (4) to conserve energy supplies through energy conservation programs, and, where necessary, the regulation of certain energy uses;
 
     (5) to provide for improved energy efficiency of motor vehicles, major appliances, and certain other consumer products;
 
-    (6) Repealed. [Pub. L. 106–469, title I, § 102(2)][/us/pl/106/469/s102/2], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029];
+    (6) Repealed. [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 102(2), Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029];
 
     (7) to provide a means for verification of energy data to assure the reliability of energy data; and
 
     (8) to conserve water by improving the water efficiency of certain plumbing products and appliances.
 
-([Pub. L. 94–163, § 2][/us/pl/94/163/s2], Dec. 22, 1975, [89 Stat. 874][/us/stat/89/874]; [Pub. L. 102–486, title I, § 123(a)][/us/pl/102/486/s123/a], Oct. 24, 1992, [106 Stat. 2817][/us/stat/106/2817]; [Pub. L. 106–469, title I, § 102][/us/pl/106/469/s102], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029].)
+([Pub. L. 94–163][/us/pl/94/163], § 2, Dec. 22, 1975, [89 Stat. 874][/us/stat/89/874]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 123(a), Oct. 24, 1992, [106 Stat. 2817][/us/stat/106/2817]; [Pub. L. 106–469, title I][/us/pl/106/469/tI], § 102, Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029].)
 
  __References in Text__ 
 
@@ -41,123 +41,123 @@
 
  __Amendments__ 
 
-    2000—Par. (1). [Pub. L. 106–469, § 102(1)][/us/pl/106/469/s102/1], struck out “standby” after “grant specific” and “, subject to congressional review, to impose rationing, to reduce demand for energy through the implementation of energy conservation plans, and” after “the President”.
+    2000—Par. (1). [Pub. L. 106–469][/us/pl/106/469], § 102(1), struck out “standby” after “grant specific” and “, subject to congressional review, to impose rationing, to reduce demand for energy through the implementation of energy conservation plans, and” after “the President”.
 
-    Par. (3). [Pub. L. 106–469, § 102(2)][/us/pl/106/469/s102/2], struck out par. (3) which read as follows: “to increase the supply of fossil fuels in the United States, through price incentives and production requirements;”.
+    Par. (3). [Pub. L. 106–469][/us/pl/106/469], § 102(2), struck out par. (3) which read as follows: “to increase the supply of fossil fuels in the United States, through price incentives and production requirements;”.
 
-    Par. (6). [Pub. L. 106–469, § 102(2)][/us/pl/106/469/s102/2], struck out par. (6) which read as follows: “to reduce the demand for petroleum products and natural gas through programs designed to provide greater availability and use of this Nation’s abundant coal resources;”.
+    Par. (6). [Pub. L. 106–469][/us/pl/106/469], § 102(2), struck out par. (6) which read as follows: “to reduce the demand for petroleum products and natural gas through programs designed to provide greater availability and use of this Nation’s abundant coal resources;”.
 
     1992—Par. (8). [Pub. L. 102–486][/us/pl/102/486] added par. (8).
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–263, § 1][/us/pl/113/263/s1], Dec. 18, 2014, [128 Stat. 2937][/us/stat/128/2937], provided that: 
+[Pub. L. 113–263][/us/pl/113/263], § 1, Dec. 18, 2014, [128 Stat. 2937][/us/stat/128/2937], provided that: 
 
 > “This Act \[amending [section 6295 of this title][/us/usc/t42/s6295]\] may be cited as the ‘EPS Service Parts Act of 2014’.”
 
-[Pub. L. 113–79, title XII, § 12401][/us/pl/113/79/s12401], Feb. 7, 2014, [128 Stat. 997][/us/stat/128/997], provided that: 
+[Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12401, Feb. 7, 2014, [128 Stat. 997][/us/stat/128/997], provided that: 
 
 > “This subtitle \[subtitle D (§§ 12401–12410) of title XII of [Pub. L. 113–79][/us/pl/113/79], amending provisions set out as a note under this section\] may be cited as the ‘Oilheat Efficiency, Renewable Fuel Research and Jobs Training Act of 2014’.”
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–210, § 1][/us/pl/112/210/s1], Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], provided that: 
+[Pub. L. 112–210][/us/pl/112/210], § 1, Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], provided that: 
 
 > “This Act \[enacting [section 6351 of this title][/us/usc/t42/s6351], amending sections 6291, 6294, 6295, 6297, 6311, 6313, 6314, 6316, and 8253 of this title, and enacting provisions set out as notes under sections 6291 and 6295 of this title\] may be cited as the ‘American Energy Manufacturing Technical Corrections Act’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–469, § 1][/us/pl/106/469/s1], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029], provided that: 
+[Pub. L. 106–469][/us/pl/106/469], § 1, Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Energy Act of 2000’.”
 
-[Pub. L. 106–469, title I, § 101][/us/pl/106/469/s101], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029], provided that: 
+[Pub. L. 106–469, title I][/us/pl/106/469/tI], § 101, Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029], provided that: 
 
 > “This title \[amending this section and sections 6231, 6232, 6234, 6239 to 6241, 6245 to 6247, 6249, 6249a, 6251, 6276 and 6285 of this title, repealing sections 6211, 6214, 6233, 6235 to 6238, 6244, 6249b, 6261 to 6264, 6281 and 6282 of this title, and repealing provisions set out as notes under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be cited as the ‘Energy Policy and Conservation Act Amendments of 2000’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–388, § 1][/us/pl/105/388/s1], Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477], provided that: 
+[Pub. L. 105–388][/us/pl/105/388], § 1, Nov. 13, 1998, [112 Stat. 3477][/us/stat/112/3477], provided that: 
 
 > “This Act \[enacting [section 13220 of this title][/us/usc/t42/s13220], amending sections 2296a, 2296a–2, 2297g–1, 6241, 6291, 6292, 6294, 6295, 6306, 6316, 6322, 6325, 6371, 6371c, 6371f, 6371i, 6372c, 6372h, 6374, 6383, 6422, 6802, 6872, 8217, 8231, 8235e, 8259, 8287, 8287c, and 13218 of this title and [section 3503 of Title 25][/us/usc/t25/s3503], Indians, enacting provisions set out as notes under [section 6241 of this title][/us/usc/t42/s6241], and amending and repealing provisions set out as notes under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be cited as the ‘Energy Conservation Reauthorization Act of 1998’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–406, § 1][/us/pl/103/406/s1], Oct. 22, 1994, [108 Stat. 4209][/us/stat/108/4209], provided: 
+[Pub. L. 103–406][/us/pl/103/406], § 1, Oct. 22, 1994, [108 Stat. 4209][/us/stat/108/4209], provided: 
 
 > “That this Act \[amending sections 6251 and 6285 of this title and enacting provisions set out as a note below\] may be cited as the ‘Energy Policy and Conservation Act Amendments Act of 1994’.”
 
-[Pub. L. 103–406, title I, § 101][/us/pl/103/406/s101], Oct. 22, 1994, [108 Stat. 4209][/us/stat/108/4209], provided that: 
+[Pub. L. 103–406, title I][/us/pl/103/406/tI], § 101, Oct. 22, 1994, [108 Stat. 4209][/us/stat/108/4209], provided that: 
 
 > “This title \[amending sections 6251 and 6285 of this title\] may be cited as the ‘Energy Policy and Conservation Act Amendments of 1994’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–440, § 1][/us/pl/101/440/s1], Oct. 18, 1990, [104 Stat. 1006][/us/stat/104/1006], provided that: 
+[Pub. L. 101–440][/us/pl/101/440], § 1, Oct. 18, 1990, [104 Stat. 1006][/us/stat/104/1006], provided that: 
 
 > “This Act \[amending sections 6322, 6323, 6324 to 6326, 6371, 6371e, 6371f, 6861 to 6865, 6871, and 6872 of this title and repealing [section 6327 of this title][/us/usc/t42/s6327]\] may be cited as the ‘State Energy Efficiency Programs Improvement Act of 1990’.”
 
-[Pub. L. 101–383, § 1][/us/pl/101/383/s1], Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727], provided that: 
+[Pub. L. 101–383][/us/pl/101/383], § 1, Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727], provided that: 
 
 > “This Act \[enacting sections 6249 to 6249c of this title, amending sections 6202, 6232, 6239 to 6241, 6247, 6251, and 6285 of this title, and amending provisions set out as a note under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Amendments of 1990’.”
 
-[Pub. L. 101–360, § 1][/us/pl/101/360/s1], Aug. 10, 1990, [104 Stat. 421][/us/stat/104/421], provided: 
+[Pub. L. 101–360][/us/pl/101/360], § 1, Aug. 10, 1990, [104 Stat. 421][/us/stat/104/421], provided: 
 
 > “That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Short-Term Extension Amendment of 1990’.”
 
-[Pub. L. 101–262, § 1][/us/pl/101/262/s1], Mar. 31, 1990, [104 Stat. 124][/us/stat/104/124], provided: 
+[Pub. L. 101–262][/us/pl/101/262], § 1, Mar. 31, 1990, [104 Stat. 124][/us/stat/104/124], provided: 
 
 > “That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Extension Amendment of 1990’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–494, § 1][/us/pl/100/494/s1], Oct. 14, 1988, [102 Stat. 2441][/us/stat/102/2441], provided that: 
+[Pub. L. 100–494][/us/pl/100/494], § 1, Oct. 14, 1988, [102 Stat. 2441][/us/stat/102/2441], provided that: 
 
 > “This Act \[enacting sections 6374 to 6374d of this title and [section 2013 of Title 15][/us/usc/t15/s2013], Commerce and Trade, amending sections 2001, 2002, and 2006 of Title 15, and enacting provisions set out as notes under [section 6374 of this title][/us/usc/t42/s6374] and sections 2006, 2013, and 2512 of Title 15\] may be cited as the ‘Alternative Motor Fuels Act of 1988’.”
 
-[Pub. L. 100–357, § 1][/us/pl/100/357/s1], June 28, 1988, [102 Stat. 671][/us/stat/102/671], provided that: 
+[Pub. L. 100–357][/us/pl/100/357], § 1, June 28, 1988, [102 Stat. 671][/us/stat/102/671], provided that: 
 
 > “This Act \[amending sections 6291 to 6295 and 6297 of this title\] may be referred to as the ‘National Appliance Energy Conservation Amendments of 1988’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–12, § 1][/us/pl/100/12/s1], Mar. 17, 1987, [101 Stat. 103][/us/stat/101/103], provided that: 
+[Pub. L. 100–12][/us/pl/100/12], § 1, Mar. 17, 1987, [101 Stat. 103][/us/stat/101/103], provided that: 
 
 > “This Act \[amending sections 6291 to 6297, 6299, 6302, 6303, 6305, 6306, 6308, and 6309 of this title\] may be referred to as the ‘National Appliance Energy Conservation Act of 1987’.”
 
  __Short Title of 1985 Amendment__ 
 
-[Pub. L. 99–58, § 1][/us/pl/99/58/s1], July 2, 1985, [99 Stat. 102][/us/stat/99/102], provided that: 
+[Pub. L. 99–58][/us/pl/99/58], § 1, July 2, 1985, [99 Stat. 102][/us/stat/99/102], provided that: 
 
 > “This Act \[enacting sections 6251, 6264, 6285, and 7277 of this title, amending sections 6239, 6240, 6241, 6247, and 6272 of this title, repealing [section 6401 of this title][/us/usc/t42/s6401], enacting provisions set out as notes under [section 7277 of this title][/us/usc/t42/s7277], and amending provisions set out as a note under [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense\] may be cited as the ‘Energy and Conservation Amendments Act of 1985’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–370, § 1][/us/pl/98/370/s1], July 18, 1984, [98 Stat. 1211][/us/stat/98/1211], provided: 
+[Pub. L. 98–370][/us/pl/98/370], § 1, July 18, 1984, [98 Stat. 1211][/us/stat/98/1211], provided: 
 
 > “That this Act \[enacting [section 6276 of this title][/us/usc/t42/s6276] and a provision set out as a note under section 627\] may be cited as the ‘Renewable Energy Industry Development Act of 1983’.”
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–229, § 1][/us/pl/97/229/s1], Aug. 3, 1982, [96 Stat. 248][/us/stat/96/248], provided that: 
+[Pub. L. 97–229][/us/pl/97/229], § 1, Aug. 3, 1982, [96 Stat. 248][/us/stat/96/248], provided that: 
 
 > “This Act \[enacting sections 6281, 6282, and 6385 of this title, amending sections 6239, 6240, 6247, 6271, and 6272 of this title, and enacting provisions set out as notes under sections 6234, 6240, and 6245 of this title\] may be cited as the ‘Energy Emergency Preparedness Act of 1982’.”
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–35, title X, § 1031][/us/pl/97/35/s1031], Aug. 13, 1981, [95 Stat. 618][/us/stat/95/618], provided that: 
+[Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1031, Aug. 13, 1981, [95 Stat. 618][/us/stat/95/618], provided that: 
 
 > “This subtitle \[subtitle C (§§ 1031–1038) of title X of [Pub. L. 97–35][/us/pl/97/35], enacting [section 6247 of this title][/us/usc/t42/s6247], amending sections 6240, 6245, and 6246 of this title, and enacting provisions set out as notes under sections 6231, 6240, and 6247 of this title\] may be cited as the ‘Strategic Petroleum Reserve Amendments Act of 1981’.”
 
  __Short Title__ 
 
-[Pub. L. 94–163, § 1][/us/pl/94/163/s1], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], provided in part: 
+[Pub. L. 94–163][/us/pl/94/163], § 1, Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], provided in part: 
 
 > “That this Act \[enacting this chapter and sections 757 to 760h and 2001 to 2012 of Title 15, Commerce and Trade, amending sections 753, 754, 755, 792, 796, and 1901 of Title 15 and [section 4511 of Title 50][/us/usc/t50/s4511], War and National Defense, enacting provisions set out as notes under this section, sections 753 and 796 of Title 15, and [section 4511 of Title 50][/us/usc/t50/s4511], and repealing provisions formerly set out as a note under [section 1904 of Title 12][/us/usc/t12/s1904], Banks and Banking\] may be cited as the ‘Energy Policy and Conservation Act’.”
 
  __National Oilheat Research Alliance__ 
 
-[Pub. L. 106–469, title VII][/us/pl/106/469], Nov. 9, 2000, [114 Stat. 2043][/us/stat/114/2043], as amended by [Pub. L. 109–58, title III, § 302][/us/pl/109/58/s302], Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685]; [Pub. L. 113–79, title XII][/us/pl/113/79], §§ 12402–12410, Feb. 7, 2014, [128 Stat. 997–1005][/us/stat/128/997-1005], provided that:
+[Pub. L. 106–469, title VII][/us/pl/106/469/tVII], Nov. 9, 2000, [114 Stat. 2043][/us/stat/114/2043], as amended by [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 302, Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685]; [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], §§ 12402–12410, Feb. 7, 2014, [128 Stat. 997–1005][/us/stat/128/997-1005], provided that:
 
 > “SEC. 701. __SHORT TITLE.__ 
 
@@ -945,7 +945,7 @@
 
 >             Each report, and any subsequent changes to the report, described in this paragraph shall be made publically available, with notice of availability provided to the Secretary, and posted on the website of the Alliance.
 
-> “SEC. 708. \[Repealed. [Pub. L. 113–79, title XII, § 12407][/us/pl/113/79/s12407], Feb. 7, 2014, [128 Stat. 1004][/us/stat/128/1004]\]
+> “SEC. 708. \[Repealed. [Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12407, Feb. 7, 2014, [128 Stat. 1004][/us/stat/128/1004]\]
 
 > “SEC. 709. __COMPLIANCE.__ 
 
@@ -1148,96 +1148,96 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 ----------
 ----------
 
-[/us/pl/106/469/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102%2F2
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
-[/us/pl/106/469/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102%2F2
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
-[/us/pl/94/163/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs2
+[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F874
-[/us/pl/102/486/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fa
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2817
-[/us/pl/106/469/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
-[/us/pl/106/469/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102%2F1
-[/us/pl/106/469/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102%2F2
-[/us/pl/106/469/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102%2F2
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/113/263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263%2Fs1
+[/us/pl/113/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263
 [/us/stat/128/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2937
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/113/79/s12401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12401
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F997
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/112/210/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs1
+[/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1514
 [/us/usc/t42/s6351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6351
-[/us/pl/106/469/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs1
+[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
-[/us/pl/106/469/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs101
+[/us/pl/106/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtI
 [/us/stat/114/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2029
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
-[/us/pl/105/388/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388%2Fs1
+[/us/pl/105/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F388
 [/us/stat/112/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3477
 [/us/usc/t42/s13220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13220
 [/us/usc/t25/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3503
 [/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
-[/us/pl/103/406/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F406%2Fs1
+[/us/pl/103/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F406
 [/us/stat/108/4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4209
-[/us/pl/103/406/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F406%2Fs101
+[/us/pl/103/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F406%2FtI
 [/us/stat/108/4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4209
-[/us/pl/101/440/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs1
+[/us/pl/101/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440
 [/us/stat/104/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1006
 [/us/usc/t42/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6327
-[/us/pl/101/383/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs1
+[/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/stat/104/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F727
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
-[/us/pl/101/360/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F360%2Fs1
+[/us/pl/101/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F360
 [/us/stat/104/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F421
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
-[/us/pl/101/262/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F262%2Fs1
+[/us/pl/101/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F262
 [/us/stat/104/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F124
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
-[/us/pl/100/494/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs1
+[/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2441
 [/us/usc/t15/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2013
 [/us/usc/t42/s6374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6374
-[/us/pl/100/357/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357%2Fs1
+[/us/pl/100/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F357
 [/us/stat/102/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F671
-[/us/pl/100/12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs1
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F103
-[/us/pl/99/58/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58%2Fs1
+[/us/pl/99/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F58
 [/us/stat/99/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F102
 [/us/usc/t42/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6401
 [/us/usc/t42/s7277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7277
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
-[/us/pl/98/370/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F370%2Fs1
+[/us/pl/98/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F370
 [/us/stat/98/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1211
 [/us/usc/t42/s6276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6276
-[/us/pl/97/229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs1
+[/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 [/us/stat/96/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F248
-[/us/pl/97/35/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1031
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F618
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t42/s6247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6247
-[/us/pl/94/163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs1
+[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/usc/t50/s4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4511
 [/us/usc/t12/s1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1904
-[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/106/469/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtVII
 [/us/stat/114/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2043
-[/us/pl/109/58/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs302
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F685
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/997-1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F997-1005
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s4082/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4082%2Fa%2F2
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
 [/us/usc/t42/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6861
-[/us/pl/113/79/s12407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12407
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1004
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F8

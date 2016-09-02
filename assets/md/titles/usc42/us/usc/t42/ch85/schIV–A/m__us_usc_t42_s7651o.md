@@ -375,11 +375,11 @@
 
         The Administrator may terminate the withholding of allowances and the auction sales under this section if the Administrator determines that, during any period of 3 consecutive calendar years after 2002, less than 20 percent of the allowances available in the auction subaccount have been purchased. Pursuant to regulations under this section, the Administrator may by delegation or contract provide for the conduct of sales or auctions under the Administrator’s supervision by other departments or agencies of the United States Government or by nongovernmental agencies, groups, or organizations.
 
-([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 416, as added [Pub. L. 101–549, title IV, § 401][/us/pl/101/549/s401], Nov. 15, 1990, [104 Stat. 2626][/us/stat/104/2626].)
+([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title IV, § 416, as added [Pub. L. 101–549, title IV][/us/pl/101/549/tIV], § 401, Nov. 15, 1990, [104 Stat. 2626][/us/stat/104/2626].)
 
  __References in Text__ 
 
-    [Section 79b of title 15][/us/usc/t15/s79b], referred to in subsec. (a)(2)(C), was repealed by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. See [section 16451(1) of this title][/us/usc/t42/s16451/1].
+    [Section 79b of title 15][/us/usc/t15/s79b], referred to in subsec. (a)(2)(C), was repealed by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. See [section 16451(1) of this title][/us/usc/t42/s16451/1].
 
 ----------
 
@@ -394,10 +394,10 @@
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/101/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs401
+[/us/pl/101/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIV
 [/us/stat/104/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2626
 [/us/usc/t15/s79b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs79b
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 [/us/usc/t42/s16451/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16451%2F1
 

@@ -27,7 +27,7 @@
 
         An applicant shall include an evaluation plan by which the success of the plan will be measured, including the articulation of specific, objective indicia of performance, how the indicia will be evaluated, and a projected timetable for carrying out the evaluation.
 
-([Pub. L. 103–322, title III, § 30303][/us/pl/103/322/s30303], Sept. 13, 1994, [108 Stat. 1845][/us/stat/108/1845].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 30303, Sept. 13, 1994, [108 Stat. 1845][/us/stat/108/1845].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s30303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30303
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1845
 
 

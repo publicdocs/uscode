@@ -17,11 +17,11 @@
 
     The Attorney General, the Assistant Attorney General, the Director of the National Institute of Justice, the Director of the Bureau of Justice Statistics, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, and the Director of the Bureau of Justice Assistance may delegate to any of their respective officers or employees such functions under this chapter as they deem appropriate.
 
-([Pub. L. 90–351, title I, § 805][/us/pl/90/351/s805], as added [Pub. L. 98–473, title II, § 609B(g)][/us/pl/98/473/s609B/g], Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 805, as added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609B(g), Oct. 12, 1984, [98 Stat. 2093][/us/stat/98/2093].)
 
  __Prior Provisions__ 
 
-    A prior section 3786, [Pub. L. 90–351, title I, § 806][/us/pl/90/351/s806], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1204][/us/stat/93/1204], contained provisions similar to this section, prior to repeal by [section 609B(e) of Pub. L. 98–473][/us/pl/98/473/s609B/e].
+    A prior section 3786, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 806, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1204][/us/stat/93/1204], contained provisions similar to this section, prior to repeal by [section 609B(e) of Pub. L. 98–473][/us/pl/98/473/s609B/e].
 
     A prior [section 805 of Pub. L. 90–351][/us/pl/90/351/s805] was renumbered section 804 and was classified to [section 3785 of this title][/us/usc/t42/s3785] prior to repeal by [Pub. L. 109–162][/us/pl/109/162].
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/90/351/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs805
-[/us/pl/98/473/s609B/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fg
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2093
-[/us/pl/90/351/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs806
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1204
 [/us/pl/98/473/s609B/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609B%2Fe
 [/us/pl/90/351/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs805

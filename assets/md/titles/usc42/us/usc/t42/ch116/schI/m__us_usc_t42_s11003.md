@@ -67,7 +67,7 @@
 
         The regional response teams, as established pursuant to the National Contingency Plan as established under [section 9605 of this title][/us/usc/t42/s9605], may review and comment upon an emergency plan or other issues related to preparation, implementation, or exercise of such a plan upon request of a local emergency planning committee. Such review shall not delay implementation of the plan.
 
-([Pub. L. 99–499, title III, § 303][/us/pl/99/499/s303], Oct. 17, 1986, [100 Stat. 1731][/us/stat/100/1731].)
+([Pub. L. 99–499, title III][/us/pl/99/499/tIII], § 303, Oct. 17, 1986, [100 Stat. 1731][/us/stat/100/1731].)
 
 ----------
 
@@ -80,7 +80,7 @@
 [/us/usc/t42/s11004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11004
 [/us/usc/t42/s9605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9605
 [/us/usc/t42/s9605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9605
-[/us/pl/99/499/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs303
+[/us/pl/99/499/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtIII
 [/us/stat/100/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1731
 
 

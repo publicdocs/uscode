@@ -37,7 +37,7 @@
 
     (10) Rapists may use the threat of pursuing custody or parental rights to coerce survivors into not prosecuting rape, or otherwise harass, intimidate, or manipulate them.
 
-([Pub. L. 114–22, title IV, § 403][/us/pl/114/22/s403], May 29, 2015, [129 Stat. 256][/us/stat/129/256].)
+([Pub. L. 114–22, title IV][/us/pl/114/22/tIV], § 403, May 29, 2015, [129 Stat. 256][/us/stat/129/256].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/114/22/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs403
+[/us/pl/114/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIV
 [/us/stat/129/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F256
 
 

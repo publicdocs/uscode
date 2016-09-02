@@ -19,7 +19,7 @@
 
     (b) The Federal share of any project for which a grant is made under this section shall be 100 per centum of the cost of the project.
 
-([Pub. L. 94–369, title I, § 103][/us/pl/94/369/s103], July 22, 1976, [90 Stat. 999][/us/stat/90/999].)
+([Pub. L. 94–369, title I][/us/pl/94/369/tI], § 103, July 22, 1976, [90 Stat. 999][/us/stat/90/999].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/369/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs103
+[/us/pl/94/369/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtI
 [/us/stat/90/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F999
 
 

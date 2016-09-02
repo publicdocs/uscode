@@ -81,7 +81,7 @@
 
         (B) to the assessment of whether available surface and groundwater supplies will be available to meet the future needs of the United States.
 
-([Pub. L. 111–11, title IX, § 9501][/us/pl/111/11/s9501], Mar. 30, 2009, [123 Stat. 1329][/us/stat/123/1329].)
+([Pub. L. 111–11, title IX][/us/pl/111/11/tIX], § 9501, Mar. 30, 2009, [123 Stat. 1329][/us/stat/123/1329].)
 
 ----------
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs9501
+[/us/pl/111/11/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIX
 [/us/stat/123/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1329
 
 

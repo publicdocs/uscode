@@ -2257,7 +2257,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937" data-uslm-ref="/us/usc/t42/s1320a–7">1320a–7</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937l" data-uslm-ref="/us/usc/t42/s1320a–7l">1320a–7l.</a>  </td>
 
     <td> Nationwide program for national and State background checks on direct patient access employees of long-term care facilities and providers.  </td>
 
@@ -3409,7 +3409,7 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395" data-uslm-ref="/us/usc/t42/s1395">1395</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395l" data-uslm-ref="/us/usc/t42/s1395l">1395l.</a>  </td>
 
     <td> Payment of benefits.  </td>
 
@@ -3441,7 +3441,7 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395" data-uslm-ref="/us/usc/t42/s1395">1395</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395o" data-uslm-ref="/us/usc/t42/s1395o">1395o.</a>  </td>
 
     <td> Eligible individuals.  </td>
 
@@ -4057,7 +4057,7 @@ Part E—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395" data-uslm-ref="/us/usc/t42/s1395">1395</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395ll" data-uslm-ref="/us/usc/t42/s1395ll">1395ll.</a>  </td>
 
     <td> Studies and recommendations.  </td>
 
@@ -4081,7 +4081,7 @@ Part E—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395" data-uslm-ref="/us/usc/t42/s1395">1395</a>oo.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395oo" data-uslm-ref="/us/usc/t42/s1395oo">1395oo.</a>  </td>
 
     <td> Provider Reimbursement Review Board.  </td>
 
@@ -4297,7 +4297,7 @@ Part E—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395" data-uslm-ref="/us/usc/t42/s1395">1395</a>lll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395lll" data-uslm-ref="/us/usc/t42/s1395lll">1395lll.</a>  </td>
 
     <td> Standardized post-acute care (PAC) assessment data for quality, payment, and discharge planning.  </td>
 
@@ -4441,7 +4441,7 @@ SUBCHAPTER XIX—GRANTS TO STATES FOR MEDICAL ASSISTANCE PROGRAMS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1396" data-uslm-ref="/us/usc/t42/s1396">1396</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1396l" data-uslm-ref="/us/usc/t42/s1396l">1396l.</a>  </td>
 
     <td> Hospital providers of nursing facility services.  </td>
 
@@ -4465,7 +4465,7 @@ SUBCHAPTER XIX—GRANTS TO STATES FOR MEDICAL ASSISTANCE PROGRAMS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1396" data-uslm-ref="/us/usc/t42/s1396">1396</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1396o" data-uslm-ref="/us/usc/t42/s1396o">1396o.</a>  </td>
 
     <td> Use of enrollment fees, premiums, deductions, cost sharing, and similar charges.  </td>
 
@@ -4473,7 +4473,7 @@ SUBCHAPTER XIX—GRANTS TO STATES FOR MEDICAL ASSISTANCE PROGRAMS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1396" data-uslm-ref="/us/usc/t42/s1396">1396</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1396o" data-uslm-ref="/us/usc/t42/s1396o">1396o</a>–1.  </td>
 
     <td> State option for alternative premiums and cost sharing.  </td>
 
@@ -4905,7 +4905,7 @@ subpart b—elder abuse, neglect, and exploitation forensic centers  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1397" data-uslm-ref="/us/usc/t42/s1397">1397</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1397l" data-uslm-ref="/us/usc/t42/s1397l">1397l.</a>  </td>
 
     <td> Establishment and support of elder abuse, neglect, and exploitation forensic centers.  </td>
 
@@ -5065,7 +5065,7 @@ SUBCHAPTER XXI—STATE CHILDREN’S HEALTH INSURANCE PROGRAM  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1397" data-uslm-ref="/us/usc/t42/s1397">1397</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1397ll" data-uslm-ref="/us/usc/t42/s1397ll">1397ll.</a>  </td>
 
     <td> Optional coverage of targeted low-income pregnant women through a State plan amendment.  </td>
 

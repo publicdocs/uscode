@@ -61,7 +61,7 @@
 
         The Federal share of the cost of providing the vouchers shall be not more than 80 percent.
 
-([Pub. L. 106–402, title III, § 303][/us/pl/106/402/s303], Oct. 30, 2000, [114 Stat. 1735][/us/stat/114/1735].)
+([Pub. L. 106–402, title III][/us/pl/106/402/tIII], § 303, Oct. 30, 2000, [114 Stat. 1735][/us/stat/114/1735].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/106/402/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs303
+[/us/pl/106/402/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIII
 [/us/stat/114/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1735
 
 

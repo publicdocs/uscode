@@ -173,7 +173,7 @@
 
             In this subsection, the term “Medicare beneficiary” means an individual who is entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] and enrolled under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\].
 
-([Pub. L. 111–148, title IV, § 4202][/us/pl/111/148/s4202], Mar. 23, 2010, [124 Stat. 566][/us/stat/124/566].)
+([Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4202, Mar. 23, 2010, [124 Stat. 566][/us/stat/124/566].)
 
  __References in Text__ 
 
@@ -194,7 +194,7 @@
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
-[/us/pl/111/148/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4202
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F566
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

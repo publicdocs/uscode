@@ -49,11 +49,11 @@
 
         With respect to each waiver granted under this section, not later than 1 year after the expiration of such waiver, and at any time during the waiver period that the Assistant Secretary may require, the State agency shall prepare and submit to the Assistant Secretary a report evaluating the impact of the waiver on the operation and effectiveness of programs and services provided under this subchapter.
 
-([Pub. L. 89–73, title III, § 316][/us/pl/89/73/s316], as added [Pub. L. 106–501, title III, § 310][/us/pl/106/501/s310], Nov. 13, 2000, [114 Stat. 2249][/us/stat/114/2249].)
+([Pub. L. 89–73, title III][/us/pl/89/73/tIII], § 316, as added [Pub. L. 106–501, title III][/us/pl/106/501/tIII], § 310, Nov. 13, 2000, [114 Stat. 2249][/us/stat/114/2249].)
 
  __Codification__ 
 
-    [Pub. L. 106–501, § 310][/us/pl/106/501/s310], which directed the addition of this section at the end of Part A of title III ([42 U.S.C. 3021][/us/usc/t42/s3021] et seq.), was executed by adding this section at the end of Part A of title III of the Older Americans Act of 1965 to reflect the probable intent of Congress.
+    [Pub. L. 106–501][/us/pl/106/501], § 310, which directed the addition of this section at the end of Part A of title III ([42 U.S.C. 3021][/us/usc/t42/s3021] et seq.), was executed by adding this section at the end of Part A of title III of the Older Americans Act of 1965 to reflect the probable intent of Congress.
 
 ----------
 
@@ -67,10 +67,10 @@
 [/us/usc/t42/s3028/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3028%2Fb
 [/us/usc/t42/s3029/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3029%2Fc
 [/us/usc/t42/s3024/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3024%2Fd
-[/us/pl/89/73/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs316
-[/us/pl/106/501/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs310
+[/us/pl/89/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIII
+[/us/pl/106/501/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIII
 [/us/stat/114/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2249
-[/us/pl/106/501/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs310
+[/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3021
 
 

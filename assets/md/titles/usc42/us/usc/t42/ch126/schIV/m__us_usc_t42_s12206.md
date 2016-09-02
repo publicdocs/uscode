@@ -77,7 +77,7 @@
 
         An employer, public accommodation, or other entity covered under this chapter shall not be excused from compliance with the requirements of this chapter because of any failure to receive technical assistance under this section, including any failure in the development or dissemination of any technical assistance manual authorized by this section.
 
-([Pub. L. 101–336, title V, § 507][/us/pl/101/336/s507], formerly § 506, July 26, 1990, [104 Stat. 371][/us/stat/104/371]; renumbered § 507, [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
+([Pub. L. 101–336, title V][/us/pl/101/336/tV], § 507, formerly § 506, July 26, 1990, [104 Stat. 371][/us/stat/104/371]; renumbered § 507, [Pub. L. 110–325][/us/pl/110/325], § 6(a)(2), Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
 
  __References in Text__ 
 
@@ -97,9 +97,9 @@
 ----------
 
 [/us/usc/t42/s12184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12184
-[/us/pl/101/336/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs507
+[/us/pl/101/336/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtV
 [/us/stat/104/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F371
-[/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

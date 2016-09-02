@@ -21,7 +21,7 @@
 
     (2) provide an assurance that funds received under this part shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs funded under this part.
 
-([Pub. L. 103–322, title III, § 30304][/us/pl/103/322/s30304], Sept. 13, 1994, [108 Stat. 1845][/us/stat/108/1845].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 30304, Sept. 13, 1994, [108 Stat. 1845][/us/stat/108/1845].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s30304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs30304
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1845
 
 

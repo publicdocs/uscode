@@ -17,7 +17,7 @@
 
     Congress calls on the President to convene a national summit on violence in America prior to convening the Commission established under this subchapter.
 
-([Pub. L. 103–322, title XXVII, § 270001][/us/pl/103/322/s270001], Sept. 13, 1994, [108 Stat. 2089][/us/stat/108/2089].)
+([Pub. L. 103–322, title XXVII][/us/pl/103/322/tXXVII], § 270001, Sept. 13, 1994, [108 Stat. 2089][/us/stat/108/2089].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s270001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs270001
+[/us/pl/103/322/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVII
 [/us/stat/108/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2089
 
 

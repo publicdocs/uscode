@@ -113,7 +113,7 @@
 
             For purposes of this subsection, the term “underrepresented minority individuals” means individuals who are members of racial or ethnic minority groups that are underrepresented in the health professions including nursing.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 738, as added [Pub. L. 105–392, title I, § 101(a)][/us/pl/105/392/s101/a], Nov. 13, 1998, [112 Stat. 3532][/us/stat/112/3532]; amended [Pub. L. 111–148, title V, § 5402(a)][/us/pl/111/148/s5402/a], title X, § 10501(d), Mar. 23, 2010, [124 Stat. 644][/us/stat/124/644], 995.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 738, as added [Pub. L. 105–392, title I][/us/pl/105/392/tI], § 101(a), Nov. 13, 1998, [112 Stat. 3532][/us/stat/112/3532]; amended [Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5402(a), title X, § 10501(d), Mar. 23, 2010, [124 Stat. 644][/us/stat/124/644], 995.)
 
  __References in Text__ 
 
@@ -121,17 +121,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 293b, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 738, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2025][/us/stat/106/2025], related to loan repayments and fellowships regarding faculty positions, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
+    A prior section 293b, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 738, as added [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 2025][/us/stat/106/2025], related to loan repayments and fellowships regarding faculty positions, prior to the general amendment of this part by [Pub. L. 105–392][/us/pl/105/392].
 
-    Another prior section 293b, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 722, as added Sept. 24, 1963, [Pub. L. 88–129, § 2(b)][/us/pl/88/129/s2/b], [77 Stat. 168][/us/stat/77/168]; amended Aug. 16, 1968, [Pub. L. 90–490, title I][/us/pl/90/490], §§ 102(a), 104(a), [82 Stat. 773][/us/stat/82/773], 774; Nov. 18, 1971, [Pub. L. 92–157, title I, § 102(b)][/us/pl/92/157/s102/b], (j)(4), (7), [85 Stat. 431][/us/stat/85/431], 436, 437; Oct. 12, 1976, [Pub. L. 94–484, title III, § 304][/us/pl/94/484/s304], [90 Stat. 2255][/us/stat/90/2255]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII, § 2723(e)][/us/pl/97/35/s2723/e], [95 Stat. 916][/us/stat/95/916], related to amounts of grants and grants for multipurpose facilities, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
+    Another prior section 293b, [act July 1, 1944, ch. 373, title VII][/us/act/1944-07-01/ch373/tVII], § 722, as added Sept. 24, 1963, [Pub. L. 88–129][/us/pl/88/129], § 2(b), [77 Stat. 168][/us/stat/77/168]; amended Aug. 16, 1968, [Pub. L. 90–490, title I][/us/pl/90/490/tI], §§ 102(a), 104(a), [82 Stat. 773][/us/stat/82/773], 774; Nov. 18, 1971, [Pub. L. 92–157, title I][/us/pl/92/157/tI], § 102(b), (j)(4), (7), [85 Stat. 431][/us/stat/85/431], 436, 437; Oct. 12, 1976, [Pub. L. 94–484, title III][/us/pl/94/484/tIII], § 304, [90 Stat. 2255][/us/stat/90/2255]; Aug. 13, 1981, [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2723(e), [95 Stat. 916][/us/stat/95/916], related to amounts of grants and grants for multipurpose facilities, prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
     A prior section 738 of act July 1, 1944, was classified to [section 294k of this title][/us/usc/t42/s294k] prior to the general revision of this subchapter by [Pub. L. 102–408][/us/pl/102/408].
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–148, § 5402(a)][/us/pl/111/148/s5402/a], substituted “$30,000” for “$20,000”.
+    2010—Subsec. (a)(1). [Pub. L. 111–148][/us/pl/111/148], § 5402(a), substituted “$30,000” for “$20,000”.
 
-    Subsec. (a)(3). [Pub. L. 111–148, § 10501(d)][/us/pl/111/148/s10501/d], inserted “schools offering physician assistant education programs,” after “public health,”.
+    Subsec. (a)(3). [Pub. L. 111–148][/us/pl/111/148], § 10501(d), inserted “schools offering physician assistant education programs,” after “public health,”.
 
 ----------
 
@@ -142,29 +142,29 @@
 
 [/us/usc/t42/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/105/392/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs101%2Fa
+[/us/pl/105/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2FtI
 [/us/stat/112/3532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3532
-[/us/pl/111/148/s5402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5402%2Fa
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F644
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2025
 [/us/pl/105/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/88/129/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129%2Fs2%2Fb
+[/us/act/1944-07-01/ch373/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373%2FtVII
+[/us/pl/88/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F129
 [/us/stat/77/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F168
-[/us/pl/90/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490
+[/us/pl/90/490/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F490%2FtI
 [/us/stat/82/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F773
-[/us/pl/92/157/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2Fs102%2Fb
+[/us/pl/92/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F157%2FtI
 [/us/stat/85/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F431
-[/us/pl/94/484/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs304
+[/us/pl/94/484/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIII
 [/us/stat/90/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2255
-[/us/pl/97/35/s2723/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2723%2Fe
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F916
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s294k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294k
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
-[/us/pl/111/148/s5402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5402%2Fa
-[/us/pl/111/148/s10501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fd
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

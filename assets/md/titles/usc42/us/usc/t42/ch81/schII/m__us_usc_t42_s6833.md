@@ -97,17 +97,17 @@
 
             (B) Funding provided to States under paragraph (2) for each fiscal year shall not exceed one-half of the excess of funding under this subsection over $5,000,000 for the fiscal year.
 
-([Pub. L. 94–385, title III, § 304][/us/pl/94/385/s304], as added [Pub. L. 102–486, title I, § 101(a)(2)][/us/pl/102/486/s101/a/2], Oct. 24, 1992, [106 Stat. 2783][/us/stat/106/2783]; amended [Pub. L. 109–58, title I, § 128][/us/pl/109/58/s128], Aug. 8, 2005, [119 Stat. 619][/us/stat/119/619].)
+([Pub. L. 94–385, title III][/us/pl/94/385/tIII], § 304, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 101(a)(2), Oct. 24, 1992, [106 Stat. 2783][/us/stat/106/2783]; amended [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 128, Aug. 8, 2005, [119 Stat. 619][/us/stat/119/619].)
 
  __Prior Provisions__ 
 
-    A prior section 6833, [Pub. L. 94–385, title III, § 304][/us/pl/94/385/s304], Aug. 14, 1976, [90 Stat. 1146][/us/stat/90/1146]; [Pub. L. 95–91, title III][/us/pl/95/91], §§ 301(a), 304(a), title VII, §§ 703, 707, 709(e)(1), Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 580, 606, 608; [Pub. L. 96–399, title III, § 326(a)][/us/pl/96/399/s326/a]–(c), Oct. 8, 1980, [94 Stat. 1649][/us/stat/94/1649]; [Pub. L. 97–35, title X, § 1041(a)][/us/pl/97/35/s1041/a], (c), Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], related to development and promulgation of energy conservation voluntary performance standards for new commercial and residential buildings, prior to repeal by [Pub. L. 102–486, title I, § 101(a)(2)][/us/pl/102/486/s101/a/2], Oct. 24, 1992, [106 Stat. 2783][/us/stat/106/2783].
+    A prior section 6833, [Pub. L. 94–385, title III][/us/pl/94/385/tIII], § 304, Aug. 14, 1976, [90 Stat. 1146][/us/stat/90/1146]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], §§ 301(a), 304(a), title VII, §§ 703, 707, 709(e)(1), Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577], 580, 606, 608; [Pub. L. 96–399, title III][/us/pl/96/399/tIII], § 326(a)–(c), Oct. 8, 1980, [94 Stat. 1649][/us/stat/94/1649]; [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1041(a), (c), Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], related to development and promulgation of energy conservation voluntary performance standards for new commercial and residential buildings, prior to repeal by [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 101(a)(2), Oct. 24, 1992, [106 Stat. 2783][/us/stat/106/2783].
 
  __Amendments__ 
 
-    2005—Subsec. (e)(1). [Pub. L. 109–58, § 128(1)][/us/pl/109/58/s128/1], inserted “, including increasing and verifying compliance with such codes” before period at end of first sentence.
+    2005—Subsec. (e)(1). [Pub. L. 109–58][/us/pl/109/58], § 128(1), inserted “, including increasing and verifying compliance with such codes” before period at end of first sentence.
 
-    Subsec. (e)(2) to (4). [Pub. L. 109–58, § 128(2)][/us/pl/109/58/s128/2], added pars. (2) to (4) and struck out former par. (2) which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this subsection.”
+    Subsec. (e)(2) to (4). [Pub. L. 109–58][/us/pl/109/58], § 128(2), added pars. (2) to (4) and struck out former par. (2) which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this subsection.”
 
 ----------
 
@@ -116,24 +116,24 @@
 ----------
 ----------
 
-[/us/pl/94/385/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs304
-[/us/pl/102/486/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs101%2Fa%2F2
+[/us/pl/94/385/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIII
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2783
-[/us/pl/109/58/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs128
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F619
-[/us/pl/94/385/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs304
+[/us/pl/94/385/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIII
 [/us/stat/90/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1146
-[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/96/399/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs326%2Fa
+[/us/pl/96/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtIII
 [/us/stat/94/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1649
-[/us/pl/97/35/s1041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1041%2Fa
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F621
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/102/486/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs101%2Fa%2F2
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2783
-[/us/pl/109/58/s128/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs128%2F1
-[/us/pl/109/58/s128/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs128%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

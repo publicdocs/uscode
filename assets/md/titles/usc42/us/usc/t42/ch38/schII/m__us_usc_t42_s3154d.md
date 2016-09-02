@@ -35,7 +35,7 @@
 
         There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2004 through 2008, to remain available until expended.
 
-([Pub. L. 89–136, title II, § 218][/us/pl/89/136/s218], as added [Pub. L. 108–373, title II, § 213(a)][/us/pl/108/373/s213/a], Oct. 27, 2004, [118 Stat. 1766][/us/stat/118/1766].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 218, as added [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 213(a), Oct. 27, 2004, [118 Stat. 1766][/us/stat/118/1766].)
 
 ----------
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t42/s3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3222
-[/us/pl/89/136/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs218
-[/us/pl/108/373/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs213%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1766
 
 

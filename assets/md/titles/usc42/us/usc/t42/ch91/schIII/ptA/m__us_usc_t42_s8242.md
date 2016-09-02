@@ -17,7 +17,7 @@
 
     The Secretary, in consultation with the Administrator of the General Services Administration, shall develop and carry out a program to demonstrate the application to buildings of solar heating and solar heating and cooling technology in Federal buildings.
 
-([Pub. L. 95–619, title V, § 522][/us/pl/95/619/s522], Nov. 9, 1978, [92 Stat. 3276][/us/stat/92/3276].)
+([Pub. L. 95–619, title V][/us/pl/95/619/tV], § 522, Nov. 9, 1978, [92 Stat. 3276][/us/stat/92/3276].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/619/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs522
+[/us/pl/95/619/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtV
 [/us/stat/92/3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3276
 
 

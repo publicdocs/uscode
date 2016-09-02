@@ -33,7 +33,7 @@
 
         The Administrator of General Services shall include, in each report submitted under [section 8262a of this title][/us/usc/t42/s8262a], the estimated energy cost of leased buildings or space in which the Federal Government does not directly pay the utility bills.
 
-([Pub. L. 102–486, title I, § 159][/us/pl/102/486/s159], Oct. 24, 1992, [106 Stat. 2857][/us/stat/106/2857].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 159, Oct. 24, 1992, [106 Stat. 2857][/us/stat/106/2857].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t42/s8258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8258
 [/us/usc/t42/s8262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262a
-[/us/pl/102/486/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs159
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2857
 
 

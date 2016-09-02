@@ -143,11 +143,11 @@
 
             (B) termination of benefits under this subchapter in the event that the individual has earnings that exceed the level of earnings established by the Commissioner to represent substantial gainful activity.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 221, as added [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 106(g), [68 Stat. 1081][/us/stat/68/1081]; amended [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(c)(7), (8), (h), [70 Stat. 818][/us/stat/70/818], 823; [Pub. L. 90–248, title I, § 158(c)(3)][/us/pl/90/248/s158/c/3], (4), Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869]; [Pub. L. 96–265, title III][/us/pl/96/265], §§ 304(a)–(f), 311(a), June 9, 1980, [94 Stat. 453–456][/us/stat/94/453-456], 460; [Pub. L. 97–455][/us/pl/97/455], §§ 3(a), 6, Jan. 12, 1983, [96 Stat. 2499][/us/stat/96/2499], 2500; [Pub. L. 98–369, div. B, title VI, § 2663(a)(14)][/us/pl/98/369/s2663/a/14], July 18, 1984, [98 Stat. 1164][/us/stat/98/1164]; [Pub. L. 98–460][/us/pl/98/460], §§ 6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802], 1804, 1805, 1811; [Pub. L. 99–514, title XVIII, § 1883(a)(9)][/us/pl/99/514/s1883/a/9], Oct. 22, 1986, [100 Stat. 2916][/us/stat/100/2916]; [Pub. L. 100–647, title VIII, § 8012(a)][/us/pl/100/647/s8012/a], Nov. 10, 1988, [102 Stat. 3789][/us/stat/102/3789]; [Pub. L. 101–239, title X, § 10306(a)(1)][/us/pl/101/239/s10306/a/1], Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484]; [Pub. L. 101–508, title V, § 5128(a)][/us/pl/101/508/s5128/a], Nov. 5, 1990, [104 Stat. 1388–286][/us/stat/104/1388-286]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 106–170, title I][/us/pl/106/170], §§ 101(b)(1)(A), 111(a), Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873], 1881; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 114–74, title VIII, § 832(a)][/us/pl/114/74/s832/a], Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 221, as added [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 106(g), [68 Stat. 1081][/us/stat/68/1081]; amended [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(c)(7), (8), (h), [70 Stat. 818][/us/stat/70/818], 823; [Pub. L. 90–248, title I][/us/pl/90/248/tI], § 158(c)(3), (4), Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869]; [Pub. L. 96–265, title III][/us/pl/96/265/tIII], §§ 304(a)–(f), 311(a), June 9, 1980, [94 Stat. 453–456][/us/stat/94/453-456], 460; [Pub. L. 97–455][/us/pl/97/455], §§ 3(a), 6, Jan. 12, 1983, [96 Stat. 2499][/us/stat/96/2499], 2500; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369/dB/tVI], § 2663(a)(14), July 18, 1984, [98 Stat. 1164][/us/stat/98/1164]; [Pub. L. 98–460][/us/pl/98/460], §§ 6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802], 1804, 1805, 1811; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1883(a)(9), Oct. 22, 1986, [100 Stat. 2916][/us/stat/100/2916]; [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8012(a), Nov. 10, 1988, [102 Stat. 3789][/us/stat/102/3789]; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10306(a)(1), Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484]; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5128(a), Nov. 5, 1990, [104 Stat. 1388–286][/us/stat/104/1388-286]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 106–170, title I][/us/pl/106/170/tI], §§ 101(b)(1)(A), 111(a), Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873], 1881; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 832(a), Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613].)
 
  __Amendment of Subsection (h)__ 
 
-    [Pub. L. 114–74, title VIII, § 832][/us/pl/114/74/s832], Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613], provided that, applicable with respect to determinations of disability made on or after the date that is 1 year after Nov. 2, 2015, subsection (h) of this section is amended to read as follows:
+    [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 832, Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613], provided that, applicable with respect to determinations of disability made on or after the date that is 1 year after Nov. 2, 2015, subsection (h) of this section is amended to read as follows:
 
     (h) An initial determination under subsection (a), (c), (g), or (i) shall not be made until the Commissioner of Social Security has made every reasonable effort to ensure—
 
@@ -157,7 +157,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 421, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 221, as added [July 18, 1952, ch. 945, § 3(e)][/us/act/1952-07-18/ch945/s3/e], [66 Stat. 772][/us/stat/66/772]; amended by 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631], relating to disability determinations, ceased to be in effect at the close of June 30, 1953. See section 3(g) of act July 18, 1952, set out as an Effective and Termination Date of 1952 Amendment note under [section 413 of this title][/us/usc/t42/s413].
+    A prior section 421, [act Aug. 14, 1935, ch. 531, title II][/us/act/1935-08-14/ch531/tII], § 221, as added [July 18, 1952, ch. 945][/us/act/1952-07-18/ch945], § 3(e), [66 Stat. 772][/us/stat/66/772]; amended by 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631], relating to disability determinations, ceased to be in effect at the close of June 30, 1953. See section 3(g) of act July 18, 1952, set out as an Effective and Termination Date of 1952 Amendment note under [section 413 of this title][/us/usc/t42/s413].
 
  __Amendments__ 
 
@@ -165,9 +165,9 @@
 
     2004—Subsec. (e). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    1999—Subsec. (i)(5). [Pub. L. 106–170, § 101(b)(1)(A)][/us/pl/106/170/s101/b/1/A], added par. (5).
+    1999—Subsec. (i)(5). [Pub. L. 106–170][/us/pl/106/170], § 101(b)(1)(A), added par. (5).
 
-    Subsec. (m). [Pub. L. 106–170, § 111(a)][/us/pl/106/170/s111/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 106–170][/us/pl/106/170], § 111(a), added subsec. (m).
 
     1994—[Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary” wherever appearing except where appearing before “of Labor” in subsec. (b)(3)(B) and substituted “the Commissioner deems” for “he deems” and “the Commissioner finds” for “he finds” in subsec. (a)(2), “the Commissioner’s” for “his” wherever appearing in subsecs. (b)(1), (c)(1), and (g), “the Commissioner has complied” for “he has complied” in subsec. (b)(1), “Commissioner’s” for “Secretary’s” in subsec. (d), and “prescribed by the Commissioner” for “prescribed by him” in subsec. (g).
 
@@ -185,43 +185,43 @@
 
     1986—Subsec. (e). [Pub. L. 99–514][/us/pl/99/514] struck out “under this section” before “shall be entitled”.
 
-    1984—Subsec. (a)(1)(A). [Pub. L. 98–460, § 17(a)(2)][/us/pl/98/460/s17/a/2], (b), temporarily substituted “subsection (b)(1)(C) of this section” for “subsection (b)(1) of this section”. See Effective and Termination Dates of 1984 Amendments note below.
+    1984—Subsec. (a)(1)(A). [Pub. L. 98–460][/us/pl/98/460], § 17(a)(2), (b), temporarily substituted “subsection (b)(1)(C) of this section” for “subsection (b)(1) of this section”. See Effective and Termination Dates of 1984 Amendments note below.
 
-    Subsec. (b)(1). [Pub. L. 98–460, § 17(a)(1)][/us/pl/98/460/s17/a/1], (b), temporarily amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the Secretary finds, after notice and opportunity for a hearing, that a State agency is substantially failing to make disability determinations in a manner consistent with his regulations and other written guidelines, the Secretary shall, not earlier than 180 days following his finding, and after he has complied with the requirements of paragraph (3), make the disability determinations referred to in subsection (a)(1) of this section.” See Effective and Termination Dates of 1984 Amendments note below.
+    Subsec. (b)(1). [Pub. L. 98–460][/us/pl/98/460], § 17(a)(1), (b), temporarily amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the Secretary finds, after notice and opportunity for a hearing, that a State agency is substantially failing to make disability determinations in a manner consistent with his regulations and other written guidelines, the Secretary shall, not earlier than 180 days following his finding, and after he has complied with the requirements of paragraph (3), make the disability determinations referred to in subsection (a)(1) of this section.” See Effective and Termination Dates of 1984 Amendments note below.
 
-    Subsec. (b)(3). [Pub. L. 98–460, § 17(a)(3)][/us/pl/98/460/s17/a/3], (b), temporarily substituted “Except as provided in subparagraph (D)(i) of paragraph (1), the Secretary” for “The Secretary” in subpars. (A) and (B). See Effective and Termination Dates of 1984 Amendments note below.
+    Subsec. (b)(3). [Pub. L. 98–460][/us/pl/98/460], § 17(a)(3), (b), temporarily substituted “Except as provided in subparagraph (D)(i) of paragraph (1), the Secretary” for “The Secretary” in subpars. (A) and (B). See Effective and Termination Dates of 1984 Amendments note below.
 
-    Subsec. (d). [Pub. L. 98–460, § 17(a)(4)][/us/pl/98/460/s17/a/4], (b), temporarily substituted “Except as provided in subsection (b)(1)(D) of this section, any individual” for “Any individual”. See Effective and Termination Dates of 1984 Amendments note below.
+    Subsec. (d). [Pub. L. 98–460][/us/pl/98/460], § 17(a)(4), (b), temporarily substituted “Except as provided in subsection (b)(1)(D) of this section, any individual” for “Any individual”. See Effective and Termination Dates of 1984 Amendments note below.
 
     Subsec. (e). [Pub. L. 98–369][/us/pl/98/369] substituted “Federal Disability Insurance Trust Fund is charged” for “Federal Disability Trust Fund is charged”.
 
-    Subsec. (h). [Pub. L. 98–460, § 8(a)][/us/pl/98/460/s8/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 98–460][/us/pl/98/460], § 8(a), added subsec. (h).
 
-    Subsec. (i)(4). [Pub. L. 98–460, § 6(a)][/us/pl/98/460/s6/a], added par. (4).
+    Subsec. (i)(4). [Pub. L. 98–460][/us/pl/98/460], § 6(a), added par. (4).
 
-    Subsec. (j). [Pub. L. 98–460, § 9(a)(1)][/us/pl/98/460/s9/a/1], added subsec. (j).
+    Subsec. (j). [Pub. L. 98–460][/us/pl/98/460], § 9(a)(1), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 98–460, § 10(a)][/us/pl/98/460/s10/a], added subsec. (k).
+    Subsec. (k). [Pub. L. 98–460][/us/pl/98/460], § 10(a), added subsec. (k).
 
     1983—Subsec. (i). [Pub. L. 97–455][/us/pl/97/455] designated existing provisions as par. (1), inserted “, subject to paragraph (2)” after “at least once every 3 years”, and added pars. (2) and (3).
 
-    1980—Subsec. (a). [Pub. L. 96–265, § 304(a)][/us/pl/96/265/s304/a], completely revised provisions under which determinations are to be made by State agencies.
+    1980—Subsec. (a). [Pub. L. 96–265][/us/pl/96/265], § 304(a), completely revised provisions under which determinations are to be made by State agencies.
 
-    Subsec. (b). [Pub. L. 96–265, § 304(b)][/us/pl/96/265/s304/b], substituted provisions covering the making of disability determinations by the Secretary rather than by the State for provisions relating to agreements between the Secretary and the State under which the State would make disability determinations.
+    Subsec. (b). [Pub. L. 96–265][/us/pl/96/265], § 304(b), substituted provisions covering the making of disability determinations by the Secretary rather than by the State for provisions relating to agreements between the Secretary and the State under which the State would make disability determinations.
 
-    Subsec. (c). [Pub. L. 96–265, § 304(c)][/us/pl/96/265/s304/c], designated existing provisions as par. (1), inserted provision that a review by the Secretary on his own motion of a State agency determination may be made before or after any action is taken to implement that determination, and added pars. (2) and (3).
+    Subsec. (c). [Pub. L. 96–265][/us/pl/96/265], § 304(c), designated existing provisions as par. (1), inserted provision that a review by the Secretary on his own motion of a State agency determination may be made before or after any action is taken to implement that determination, and added pars. (2) and (3).
 
-    Subsec. (d). [Pub. L. 96–265, § 304(d)][/us/pl/96/265/s304/d], substituted “subsection (a), (b), (c), or (g) of this section” for “subsection (a), (c), or (g) of this section”.
+    Subsec. (d). [Pub. L. 96–265][/us/pl/96/265], § 304(d), substituted “subsection (a), (b), (c), or (g) of this section” for “subsection (a), (c), or (g) of this section”.
 
-    Subsec. (e). [Pub. L. 96–265, § 304(e)][/us/pl/96/265/s304/e], substituted “which is making disability determinations under subsection (a)(1)” for “which has an agreement with the Secretary”, substituted “as determined by the Secretary” for “as may be mutually agreed upon”, and substituted “making disability determinations under subsection (a)(1)” for “carrying out the agreement under this section”.
+    Subsec. (e). [Pub. L. 96–265][/us/pl/96/265], § 304(e), substituted “which is making disability determinations under subsection (a)(1)” for “which has an agreement with the Secretary”, substituted “as determined by the Secretary” for “as may be mutually agreed upon”, and substituted “making disability determinations under subsection (a)(1)” for “carrying out the agreement under this section”.
 
-    Subsec. (g). [Pub. L. 96–265, § 304(f)][/us/pl/96/265/s304/f], substituted “does not undertake to perform disability determinations under subsection (a)(1) of this section, or which has been found by the Secretary to have substantially failed to make disability determinations in a manner consistent with his regulations and guidelines” for “has no agreement under subsection (b) of this section” and “for whom no State undertakes to make disability determinations” for “not included in an agreement under subsection (b) of this section”.
+    Subsec. (g). [Pub. L. 96–265][/us/pl/96/265], § 304(f), substituted “does not undertake to perform disability determinations under subsection (a)(1) of this section, or which has been found by the Secretary to have substantially failed to make disability determinations in a manner consistent with his regulations and guidelines” for “has no agreement under subsection (b) of this section” and “for whom no State undertakes to make disability determinations” for “not included in an agreement under subsection (b) of this section”.
 
-    Subsec. (i). [Pub. L. 96–265, § 311(a)][/us/pl/96/265/s311/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 96–265][/us/pl/96/265], § 311(a), added subsec. (i).
 
-    1968—Subsec. (a). [Pub. L. 90–248, § 158(c)(3)][/us/pl/90/248/s158/c/3], substituted in first sentence reference to “423(d)” for “423(c)”.
+    1968—Subsec. (a). [Pub. L. 90–248][/us/pl/90/248], § 158(c)(3), substituted in first sentence reference to “423(d)” for “423(c)”.
 
-    Subsec. (c). [Pub. L. 90–248, § 158(c)(4)][/us/pl/90/248/s158/c/4], substituted reference to “423(d)” for “423(c)”.
+    Subsec. (c). [Pub. L. 90–248][/us/pl/90/248], § 158(c)(4), substituted reference to “423(d)” for “423(c)”.
 
     1956—Subsec. (a). Act Aug. 1, 1956, § 103(c)(7), inserted reference to [section 423(c) of this title][/us/usc/t42/s423/c].
 
@@ -233,7 +233,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–74, title VIII, § 832(b)][/us/pl/114/74/s832/b], Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613], provided that: 
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 832(b), Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations of disability made on or after the date that is 1 year after the date of the enactment of this Act \[Nov. 2, 2015\].”
 
@@ -241,7 +241,7 @@
 
     Amendment by [section 101(b)(1)(A) of Pub. L. 106–170][/us/pl/106/170/s101/b/1/A] effective with the first month following one year after Dec. 17, 1999, subject to [section 101(d) of Pub. L. 106–170][/us/pl/106/170/s101/d], see [section 101(c) of Pub. L. 106–170][/us/pl/106/170/s101/c], set out as an Effective Date note under [section 1320b–19 of this title][/us/usc/t42/s1320b–19].
 
-[Pub. L. 106–170, title I, § 111(b)][/us/pl/106/170/s111/b], Dec. 17, 1999, [113 Stat. 1881][/us/stat/113/1881], provided that: 
+[Pub. L. 106–170, title I][/us/pl/106/170/tI], § 111(b), Dec. 17, 1999, [113 Stat. 1881][/us/stat/113/1881], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2002.”
 
@@ -251,29 +251,29 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title V, § 5128(b)][/us/pl/101/508/s5128/b], Nov. 5, 1990, [104 Stat. 1388–287][/us/stat/104/1388-287], provided that: 
+[Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5128(b), Nov. 5, 1990, [104 Stat. 1388–287][/us/stat/104/1388-287], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations made by State agencies in fiscal years after fiscal year 1990.”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title X, § 10306(a)(3)][/us/pl/101/239/s10306/a/3], Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484], provided that: 
+[Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10306(a)(3), Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to notices issued on or after July 1, 1990.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VIII, § 8012(b)][/us/pl/100/647/s8012/b], Nov. 10, 1988, [102 Stat. 3789][/us/stat/102/3789], provided that: 
+[Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8012(b), Nov. 10, 1988, [102 Stat. 3789][/us/stat/102/3789], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to reports required to be submitted after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
  __Effective and Termination Dates of 1984 Amendment__ 
 
-[Pub. L. 98–460, § 8(c)][/us/pl/98/460/s8/c], Oct. 9, 1984, [98 Stat. 1804][/us/stat/98/1804], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 8(c), Oct. 9, 1984, [98 Stat. 1804][/us/stat/98/1804], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1382c of this title][/us/usc/t42/s1382c]\] shall apply to determinations made after 60 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
-[Pub. L. 98–460, § 17(b)][/us/pl/98/460/s17/b], Oct. 9, 1984, [98 Stat. 1812][/us/stat/98/1812], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 17(b), Oct. 9, 1984, [98 Stat. 1812][/us/stat/98/1812], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Oct. 9, 1984\] and shall expire on December 31, 1987. The provisions of the Social Security Act amended by subsection (a) of this section (as such provisions were in effect immediately before the date of the enactment of this Act) shall be effective after December 31, 1987.”
 
@@ -281,17 +281,17 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–455, § 3(b)][/us/pl/97/455/s3/b], Jan. 12, 1983, [96 Stat. 2499][/us/stat/96/2499], provided that: 
+[Pub. L. 97–455][/us/pl/97/455], § 3(b), Jan. 12, 1983, [96 Stat. 2499][/us/stat/96/2499], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[Jan. 12, 1983\].”
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–265, title III, § 304(h)][/us/pl/96/265/s304/h], June 9, 1980, [94 Stat. 456][/us/stat/94/456], provided that: 
+[Pub. L. 96–265, title III][/us/pl/96/265/tIII], § 304(h), June 9, 1980, [94 Stat. 456][/us/stat/94/456], provided that: 
 
 > “The amendments made by subsections (a), (b), (d), (e), and (f) \[amending this section\] shall be effective beginning with the twelfth month following the month in which this Act is enacted \[June 1980\]. Any State that, on the effective date of the amendments made by this section, has in effect an agreement with the Secretary of Health and Human Services under section 221(a) of the Social Security Act \[[42 U.S.C. 421(a)][/us/usc/t42/s421/a]\] (as in effect prior to such amendments) will be deemed to have given to the Secretary the notice specified in section 221(a)(1) of such Act as amended by this section, in lieu of continuing such agreement in effect after the effective date of such amendments. Thereafter, a State may notify the Secretary in writing that it no longer wishes to make disability determinations, effective not less than 180 days after the notification is given.”
 
-[Pub. L. 96–265, title III, § 311(b)][/us/pl/96/265/s311/b], June 9, 1980, [94 Stat. 460][/us/stat/94/460], provided that: 
+[Pub. L. 96–265, title III][/us/pl/96/265/tIII], § 311(b), June 9, 1980, [94 Stat. 460][/us/stat/94/460], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 1982.”
 
@@ -301,7 +301,7 @@
 
  __Expansion of Cooperative Disability Investigations Units__ 
 
-[Pub. L. 114–74, title VIII, § 811][/us/pl/114/74/s811], Nov. 2, 2015, [129 Stat. 601][/us/stat/129/601], provided that:
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 811, Nov. 2, 2015, [129 Stat. 601][/us/stat/129/601], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -313,7 +313,7 @@
 
  __Report on Work-Related Continuing Disability Reviews__ 
 
-[Pub. L. 114–74, title VIII, § 845(b)][/us/pl/114/74/s845/b], Nov. 2, 2015, [129 Stat. 618][/us/stat/129/618], provided that:
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 845(b), Nov. 2, 2015, [129 Stat. 618][/us/stat/129/618], provided that:
 
 >     “The Commissioner of Social Security shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the number of work-related continuing disability reviews conducted each year to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity. Such report shall include—
 
@@ -355,13 +355,13 @@
 
  __Election Under Subsection (__  __l__  __)(1) by Current Recipients__ 
 
-[Pub. L. 101–239, title X, § 10306(a)(2)][/us/pl/101/239/s10306/a/2], Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484], provided that: 
+[Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10306(a)(2), Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484], provided that: 
 
 > “Not later than July 1, 1990, the Secretary of Health and Human Services shall provide every individual receiving benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] on the basis of disability by reason of blindness an opportunity to make an election under section 221(l)(1) of such Act \[[42 U.S.C. 421][/us/usc/t42/s421](l)(1)\] (as added by paragraph (1)).”
 
  __Moratorium on Mental Impairment Reviews__ 
 
-[Pub. L. 98–460, § 5][/us/pl/98/460/s5], Oct. 9, 1984, [98 Stat. 1801][/us/stat/98/1801], provided that:
+[Pub. L. 98–460][/us/pl/98/460], § 5, Oct. 9, 1984, [98 Stat. 1801][/us/stat/98/1801], provided that:
 
 >     “(a) The Secretary of Health and Human Services (hereafter in this section referred to as the ‘Secretary’) shall revise the criteria embodied under the category ‘Mental Disorders’ in the ‘Listing of Impairments’ in effect on the date of the enactment of this Act \[Oct. 9, 1984\] under appendix 1 to subpart P of part 404 of title 20 of the Code of Federal Regulations. The revised criteria and listings, alone and in combination with assessments of the residual functional capacity of the individuals involved, shall be designed to realistically evaluate the ability of a mentally impaired individual to engage in substantial gainful activity in a competitive workplace environment. Regulations establishing such revised criteria and listings shall be published no later than 120 days after the date of the enactment of this Act.
 
@@ -389,23 +389,23 @@
 
  __Institution of Notification System__ 
 
-[Pub. L. 98–460, § 6(c)][/us/pl/98/460/s6/c], Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 6(c), Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802], provided that: 
 
 > “The Secretary shall institute a system of notification required by the amendments made by subsections (a) and (b) \[amending this section and [section 1383b of this title][/us/usc/t42/s1383b]\] as soon as is practicable after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
  __Demonstration Projects; Opportunity for Personal Appearance Prior to Disability Determinations; Report to Congressional Committees__ 
 
-    [Pub. L. 98–460, § 6(d)][/us/pl/98/460/s6/d], (e), Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802], 1803, required the Secretary of Health and Human Services, as soon as practicable after Oct. 9, 1984, to implement demonstration projects in at least five States in which the opportunity for a personal appearance prior to a determination of ineligibility for disability benefits under [42 U.S.C. 421(i)][/us/usc/t42/s421/i] or prior to initial disability determinations under [42 U.S.C. 421(a)][/us/usc/t42/s421/a], (c), (g) and title XVI of the Social Security Act ([42 U.S.C. 1381][/us/usc/t42/s1381] et seq.) was substituted for the face to face evidentiary hearing required by [42 U.S.C. 405(b)(2)][/us/usc/t42/s405/b/2], and to report to the appropriate committees of Congress by Dec. 31, 1986.
+    [Pub. L. 98–460][/us/pl/98/460], § 6(d), (e), Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802], 1803, required the Secretary of Health and Human Services, as soon as practicable after Oct. 9, 1984, to implement demonstration projects in at least five States in which the opportunity for a personal appearance prior to a determination of ineligibility for disability benefits under [42 U.S.C. 421(i)][/us/usc/t42/s421/i] or prior to initial disability determinations under [42 U.S.C. 421(a)][/us/usc/t42/s421/a], (c), (g) and title XVI of the Social Security Act ([42 U.S.C. 1381][/us/usc/t42/s1381] et seq.) was substituted for the face to face evidentiary hearing required by [42 U.S.C. 405(b)(2)][/us/usc/t42/s405/b/2], and to report to the appropriate committees of Congress by Dec. 31, 1986.
 
  __Promulgation of Regulations__ 
 
-[Pub. L. 98–460, § 9(a)(2)][/us/pl/98/460/s9/a/2], Oct. 9, 1984, [98 Stat. 1805][/us/stat/98/1805], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 9(a)(2), Oct. 9, 1984, [98 Stat. 1805][/us/stat/98/1805], provided that: 
 
 > “The Secretary of Health and Human Services shall prescribe regulations required under section 221(j) of the Social Security Act \[[42 U.S.C. 421(j)][/us/usc/t42/s421/j]\] not later than 180 days after the date of the enactment of this Act \[Oct. 9, 1984\].”
 
  __Frequency of Continuing Eligibility Reviews__ 
 
-[Pub. L. 98–460, § 15][/us/pl/98/460/s15], Oct. 9, 1984, [98 Stat. 1808][/us/stat/98/1808], provided that: 
+[Pub. L. 98–460][/us/pl/98/460], § 15, Oct. 9, 1984, [98 Stat. 1808][/us/stat/98/1808], provided that: 
 
 > “The Secretary of Health and Human Services shall promulgate final regulations, within 180 days after the date of the enactment of this Act \[Oct. 9, 1984\], which establish the standards to be used by the Secretary in determining the frequency of reviews under section 221(i) of the Social Security Act \[[42 U.S.C. 421(j)][/us/usc/t42/s421/j]\]. Until such regulations have been issued as final regulations, no individual may be reviewed more than once under section 221(i) of the Social Security Act.”
 
@@ -413,45 +413,45 @@
 
 Provisions authorizing payment of travel expenses either on an actual cost or commuted basis, to an individual for travel incident to medical examinations, and to parties, their representatives and all reasonably necessary witnesses for travel within the United States, Puerto Rico, and the Virgin Islands, to reconsider interviews and to proceedings before administrative law judges under subchapters II, XVI, and XVIII of this chapter were contained in the following appropriation acts:
 
-    Oct. 18, 1978, [Pub. L. 95–480, title II][/us/pl/95/480], [92 Stat. 1582][/us/stat/92/1582].
+    Oct. 18, 1978, [Pub. L. 95–480, title II][/us/pl/95/480/tII], [92 Stat. 1582][/us/stat/92/1582].
 
-    Sept. 30, 1976, [Pub. L. 94–439, title II][/us/pl/94/439], [90 Stat. 1432][/us/stat/90/1432].
+    Sept. 30, 1976, [Pub. L. 94–439, title II][/us/pl/94/439/tII], [90 Stat. 1432][/us/stat/90/1432].
 
-    Jan. 28, 1976, [Pub. L. 94–206, title II][/us/pl/94/206], [90 Stat. 17][/us/stat/90/17].
+    Jan. 28, 1976, [Pub. L. 94–206, title II][/us/pl/94/206/tII], [90 Stat. 17][/us/stat/90/17].
 
-    Dec. 7, 1974, [Pub. L. 93–517, title II][/us/pl/93/517], [88 Stat. 1645][/us/stat/88/1645].
+    Dec. 7, 1974, [Pub. L. 93–517, title II][/us/pl/93/517/tII], [88 Stat. 1645][/us/stat/88/1645].
 
-    Dec. 18, 1973, [Pub. L. 93–192, title II][/us/pl/93/192], [87 Stat. 759][/us/stat/87/759].
+    Dec. 18, 1973, [Pub. L. 93–192, title II][/us/pl/93/192/tII], [87 Stat. 759][/us/stat/87/759].
 
-    Aug. 10, 1971, [Pub. L. 92–80, title II][/us/pl/92/80], [85 Stat. 296][/us/stat/85/296].
+    Aug. 10, 1971, [Pub. L. 92–80, title II][/us/pl/92/80/tII], [85 Stat. 296][/us/stat/85/296].
 
-    Jan. 11, 1971, [Pub. L. 91–667, title II][/us/pl/91/667], [84 Stat. 2013][/us/stat/84/2013].
+    Jan. 11, 1971, [Pub. L. 91–667, title II][/us/pl/91/667/tII], [84 Stat. 2013][/us/stat/84/2013].
 
-    Mar. 5, 1970, [Pub. L. 91–204, title II][/us/pl/91/204], [84 Stat. 41][/us/stat/84/41].
+    Mar. 5, 1970, [Pub. L. 91–204, title II][/us/pl/91/204/tII], [84 Stat. 41][/us/stat/84/41].
 
-    Oct. 11, 1968, [Pub. L. 90–557, title II][/us/pl/90/557], [82 Stat. 988][/us/stat/82/988].
+    Oct. 11, 1968, [Pub. L. 90–557, title II][/us/pl/90/557/tII], [82 Stat. 988][/us/stat/82/988].
 
-    Nov. 8, 1967, [Pub. L. 90–132, title II][/us/pl/90/132], [81 Stat. 402][/us/stat/81/402].
+    Nov. 8, 1967, [Pub. L. 90–132, title II][/us/pl/90/132/tII], [81 Stat. 402][/us/stat/81/402].
 
-    Nov. 7, 1966, [Pub. L. 89–787, title II][/us/pl/89/787], [80 Stat. 1395][/us/stat/80/1395].
+    Nov. 7, 1966, [Pub. L. 89–787, title II][/us/pl/89/787/tII], [80 Stat. 1395][/us/stat/80/1395].
 
-    Aug. 31, 1965, [Pub. L. 89–156, title II][/us/pl/89/156], [79 Stat. 604][/us/stat/79/604].
+    Aug. 31, 1965, [Pub. L. 89–156, title II][/us/pl/89/156/tII], [79 Stat. 604][/us/stat/79/604].
 
-    Sept. 19, 1964, [Pub. L. 88–605, title II][/us/pl/88/605], [78 Stat. 974][/us/stat/78/974].
+    Sept. 19, 1964, [Pub. L. 88–605, title II][/us/pl/88/605/tII], [78 Stat. 974][/us/stat/78/974].
 
-    Oct. 11, 1963, [Pub. L. 88–136, title II][/us/pl/88/136], [77 Stat. 239][/us/stat/77/239].
+    Oct. 11, 1963, [Pub. L. 88–136, title II][/us/pl/88/136/tII], [77 Stat. 239][/us/stat/77/239].
 
-    Aug. 14, 1962, [Pub. L. 87–582, title II][/us/pl/87/582], [76 Stat. 375][/us/stat/76/375].
+    Aug. 14, 1962, [Pub. L. 87–582, title II][/us/pl/87/582/tII], [76 Stat. 375][/us/stat/76/375].
 
-    Sept. 22, 1961, [Pub. L. 87–290, title II][/us/pl/87/290], [75 Stat. 604][/us/stat/75/604].
+    Sept. 22, 1961, [Pub. L. 87–290, title II][/us/pl/87/290/tII], [75 Stat. 604][/us/stat/75/604].
 
-    Sept. 2, 1960, [Pub. L. 86–703, title II][/us/pl/86/703], [74 Stat. 769][/us/stat/74/769].
+    Sept. 2, 1960, [Pub. L. 86–703, title II][/us/pl/86/703/tII], [74 Stat. 769][/us/stat/74/769].
 
-    Aug. 14, 1959, [Pub. L. 86–158, title II][/us/pl/86/158], [73 Stat. 352][/us/stat/73/352].
+    Aug. 14, 1959, [Pub. L. 86–158, title II][/us/pl/86/158/tII], [73 Stat. 352][/us/stat/73/352].
 
-    Aug. 1, 1958, [Pub. L. 85–580, title II][/us/pl/85/580], [72 Stat. 471][/us/stat/72/471].
+    Aug. 1, 1958, [Pub. L. 85–580, title II][/us/pl/85/580/tII], [72 Stat. 471][/us/stat/72/471].
 
-    June 29, 1957, [Pub. L. 85–67, title II][/us/pl/85/67], [71 Stat. 221][/us/stat/71/221].
+    June 29, 1957, [Pub. L. 85–67, title II][/us/pl/85/67/tII], [71 Stat. 221][/us/stat/71/221].
 
     [June 29, 1956, ch. 477][/us/act/1956-06-29/ch477], title II, [70 Stat. 434][/us/stat/70/434].
 
@@ -459,13 +459,13 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 
  __Review of Decisions Rendered by Administrative Law Judges as Result of Disability Hearings; Report to Congress__ 
 
-[Pub. L. 96–265, title III, § 304(g)][/us/pl/96/265/s304/g], June 9, 1980, [94 Stat. 456][/us/stat/94/456], provided that: 
+[Pub. L. 96–265, title III][/us/pl/96/265/tIII], § 304(g), June 9, 1980, [94 Stat. 456][/us/stat/94/456], provided that: 
 
 > “The Secretary of Health and Human Services shall implement a program of reviewing, on his own motion, decisions rendered by administrative law judges as a result of hearings under section 221(d) of the Social Security Act \[[42 U.S.C. 421(d)][/us/usc/t42/s421/d]\], and shall report to the Congress by January 1, 1982, on his progress.”
 
  __Assumption by Secretary of Functions and Operations of State Disability Determination Units__ 
 
-    [Pub. L. 96–265, title III, § 304(i)][/us/pl/96/265/s304/i], June 9, 1980, [94 Stat. 457][/us/stat/94/457], directed Secretary of Health and Human Services to submit to Congress by July 1, 1980, a detailed plan on how he intended to assume functions and operations of a State disability determination unit when this became necessary under amendments made by this section \[amending this section\], and how he intended to meet requirements of section 221(b)(3) of Social Security Act \[[42 U.S.C. 421(b)(3)][/us/usc/t42/s421/b/3]\]. Such plan was to assume the uninterrupted operation of disability determination function and utilization of best qualified personnel to carry out such function, and was to include recommendations for any amendment of Federal law or regulation required to carry out such plan.
+    [Pub. L. 96–265, title III][/us/pl/96/265/tIII], § 304(i), June 9, 1980, [94 Stat. 457][/us/stat/94/457], directed Secretary of Health and Human Services to submit to Congress by July 1, 1980, a detailed plan on how he intended to assume functions and operations of a State disability determination unit when this became necessary under amendments made by this section \[amending this section\], and how he intended to meet requirements of section 221(b)(3) of Social Security Act \[[42 U.S.C. 421(b)(3)][/us/usc/t42/s421/b/3]\]. Such plan was to assume the uninterrupted operation of disability determination function and utilization of best qualified personnel to carry out such function, and was to include recommendations for any amendment of Federal law or regulation required to carry out such plan.
 
 ----------
 
@@ -489,108 +489,108 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 [/us/stat/68/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1081
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F818
-[/us/pl/90/248/s158/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fc%2F3
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F869
-[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/453-456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F453-456
 [/us/pl/97/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455
 [/us/stat/96/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2499
-[/us/pl/98/369/s2663/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fa%2F14
+[/us/pl/98/369/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVI
 [/us/stat/98/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1164
 [/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1802
-[/us/pl/99/514/s1883/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1883%2Fa%2F9
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2916
-[/us/pl/100/647/s8012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8012%2Fa
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3789
-[/us/pl/101/239/s10306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10306%2Fa%2F1
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2484
-[/us/pl/101/508/s5128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5128%2Fa
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-286
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
-[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1873
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/114/74/s832/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs832%2Fa
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F613
-[/us/pl/114/74/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs832
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F613
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/act/1952-07-18/ch945/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs3%2Fe
+[/us/act/1935-08-14/ch531/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtII
+[/us/act/1952-07-18/ch945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945
 [/us/stat/66/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F772
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/106/170/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F1%2FA
-[/us/pl/106/170/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs111%2Fa
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/460/s17/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs17%2Fa%2F2
-[/us/pl/98/460/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs17%2Fa%2F1
-[/us/pl/98/460/s17/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs17%2Fa%2F3
-[/us/pl/98/460/s17/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs17%2Fa%2F4
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/98/460/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs8%2Fa
-[/us/pl/98/460/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs6%2Fa
-[/us/pl/98/460/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs9%2Fa%2F1
-[/us/pl/98/460/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs10%2Fa
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/pl/97/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455
-[/us/pl/96/265/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fa
-[/us/pl/96/265/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fb
-[/us/pl/96/265/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fc
-[/us/pl/96/265/s304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fd
-[/us/pl/96/265/s304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fe
-[/us/pl/96/265/s304/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Ff
-[/us/pl/96/265/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs311%2Fa
-[/us/pl/90/248/s158/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fc%2F3
-[/us/pl/90/248/s158/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fc%2F4
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/usc/t42/s423/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fc
-[/us/pl/114/74/s832/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs832%2Fb
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F613
 [/us/pl/106/170/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F1%2FA
 [/us/pl/106/170/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fd
 [/us/pl/106/170/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fc
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
-[/us/pl/106/170/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs111%2Fb
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1881
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/101/508/s5128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5128%2Fb
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-287
-[/us/pl/101/239/s10306/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10306%2Fa%2F3
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2484
-[/us/pl/100/647/s8012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8012%2Fb
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3789
-[/us/pl/98/460/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs8%2Fc
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1804
 [/us/usc/t42/s1382c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382c
-[/us/pl/98/460/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs17%2Fb
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1812
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/97/455/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455%2Fs3%2Fb
+[/us/pl/97/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455
 [/us/stat/96/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2499
-[/us/pl/96/265/s304/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fh
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F456
 [/us/usc/t42/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fa
-[/us/pl/96/265/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs311%2Fb
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F460
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/pl/90/248/s158/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fe
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
-[/us/pl/114/74/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs811
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F601
-[/us/pl/114/74/s845/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs845%2Fb
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F618
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
@@ -598,80 +598,80 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 [/us/usc/t42/s1319b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1319b%E2%80%9319
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/usc/t42/s422/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fd
-[/us/pl/101/239/s10306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10306%2Fa%2F2
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2484
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421
-[/us/pl/98/460/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs5
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1801
 [/us/usc/t42/s421/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1382h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382h
 [/us/usc/t42/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fe
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/98/460/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs6%2Fc
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1802
 [/us/usc/t42/s1383b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383b
-[/us/pl/98/460/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs6%2Fd
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1802
 [/us/usc/t42/s421/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi
 [/us/usc/t42/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fa
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fb%2F2
-[/us/pl/98/460/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs9%2Fa%2F2
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1805
 [/us/usc/t42/s421/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fj
-[/us/pl/98/460/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460%2Fs15
+[/us/pl/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F460
 [/us/stat/98/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1808
 [/us/usc/t42/s421/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fj
-[/us/pl/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F480
+[/us/pl/95/480/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F480%2FtII
 [/us/stat/92/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1582
-[/us/pl/94/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F439
+[/us/pl/94/439/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F439%2FtII
 [/us/stat/90/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1432
-[/us/pl/94/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F206
+[/us/pl/94/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F206%2FtII
 [/us/stat/90/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F17
-[/us/pl/93/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F517
+[/us/pl/93/517/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F517%2FtII
 [/us/stat/88/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1645
-[/us/pl/93/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F192
+[/us/pl/93/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F192%2FtII
 [/us/stat/87/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F759
-[/us/pl/92/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F80
+[/us/pl/92/80/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F80%2FtII
 [/us/stat/85/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F296
-[/us/pl/91/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F667
+[/us/pl/91/667/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F667%2FtII
 [/us/stat/84/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2013
-[/us/pl/91/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F204
+[/us/pl/91/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F204%2FtII
 [/us/stat/84/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F41
-[/us/pl/90/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F557
+[/us/pl/90/557/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F557%2FtII
 [/us/stat/82/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F988
-[/us/pl/90/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F132
+[/us/pl/90/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F132%2FtII
 [/us/stat/81/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F402
-[/us/pl/89/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F787
+[/us/pl/89/787/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F787%2FtII
 [/us/stat/80/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1395
-[/us/pl/89/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F156
+[/us/pl/89/156/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F156%2FtII
 [/us/stat/79/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F604
-[/us/pl/88/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F605
+[/us/pl/88/605/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F605%2FtII
 [/us/stat/78/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F974
-[/us/pl/88/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F136
+[/us/pl/88/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F136%2FtII
 [/us/stat/77/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F239
-[/us/pl/87/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F582
+[/us/pl/87/582/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F582%2FtII
 [/us/stat/76/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F375
-[/us/pl/87/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F290
+[/us/pl/87/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F290%2FtII
 [/us/stat/75/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F604
-[/us/pl/86/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F703
+[/us/pl/86/703/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F703%2FtII
 [/us/stat/74/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F769
-[/us/pl/86/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F158
+[/us/pl/86/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F158%2FtII
 [/us/stat/73/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F352
-[/us/pl/85/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F580
+[/us/pl/85/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F580%2FtII
 [/us/stat/72/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F471
-[/us/pl/85/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F67
+[/us/pl/85/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F67%2FtII
 [/us/stat/71/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F221
 [/us/act/1956-06-29/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch477
 [/us/stat/70/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F434
 [/us/act/1955-08-01/ch437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-01%2Fch437
 [/us/stat/69/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F408
-[/us/pl/96/265/s304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fg
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F456
 [/us/usc/t42/s421/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fd
-[/us/pl/96/265/s304/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs304%2Fi
+[/us/pl/96/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtIII
 [/us/stat/94/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F457
 [/us/usc/t42/s421/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fb%2F3
 

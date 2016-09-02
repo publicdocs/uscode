@@ -29,7 +29,7 @@
 
         (4) an offender aids or abets any person over whom jurisdiction exists under this subsection in committing an offense under this section or conspires with any person over whom jurisdiction exists under this subsection to commit an offense under this section.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 92, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 936][/us/stat/68/936]; amended [Pub. L. 85–479, § 2][/us/pl/85/479/s2], July 2, 1958, [72 Stat. 277][/us/stat/72/277]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 108–458, title VI][/us/pl/108/458], §§ 6803(b), 6904(a), Dec. 17, 2004, [118 Stat. 3768][/us/stat/118/3768], 3771.)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 92, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 936][/us/stat/68/936]; amended [Pub. L. 85–479][/us/pl/85/479], § 2, July 2, 1958, [72 Stat. 277][/us/stat/72/277]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], §§ 6803(b), 6904(a), Dec. 17, 2004, [118 Stat. 3768][/us/stat/118/3768], 3771.)
 
  __Prior Provisions__ 
 
@@ -37,19 +37,19 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–458, § 6904(a)(1)][/us/pl/108/458/s6904/a/1], designated existing provisions as subsec. (a).
+    2004—[Pub. L. 108–458][/us/pl/108/458], § 6904(a)(1), designated existing provisions as subsec. (a).
 
-    [Pub. L. 108–458, § 6803(b)(2)][/us/pl/108/458/s6803/b/2], inserted “participate in the development of,” after “interstate or foreign commerce,”.
+    [Pub. L. 108–458][/us/pl/108/458], § 6803(b)(2), inserted “participate in the development of,” after “interstate or foreign commerce,”.
 
-    [Pub. L. 108–458, § 6803(b)(1)][/us/pl/108/458/s6803/b/1], inserted “, inside or outside of the United States,” after “for any person”.
+    [Pub. L. 108–458][/us/pl/108/458], § 6803(b)(1), inserted “, inside or outside of the United States,” after “for any person”.
 
-    Subsec. (a). [Pub. L. 108–458, § 6904(a)(4)][/us/pl/108/458/s6904/a/4], which directed amendment by striking out “transfer or receive in interstate or foreign commerce,” before “manufacture”, was executed by striking out such phrase before “participate in the development of, manufacture” to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 108–458, § 6803(b)(2)][/us/pl/108/458/s6803/b/2]. See above.
+    Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 6904(a)(4), which directed amendment by striking out “transfer or receive in interstate or foreign commerce,” before “manufacture”, was executed by striking out such phrase before “participate in the development of, manufacture” to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 108–458][/us/pl/108/458], § 6803(b)(2). See above.
 
-    [Pub. L. 108–458, § 6904(a)(3)][/us/pl/108/458/s6904/a/3], (5), (6), inserted “receive,” after “acquire,”, struck out “or” before “export”, and inserted “, or use, or possess and threaten to use,” before “any atomic weapon”.
+    [Pub. L. 108–458][/us/pl/108/458], § 6904(a)(3), (5), (6), inserted “receive,” after “acquire,”, struck out “or” before “export”, and inserted “, or use, or possess and threaten to use,” before “any atomic weapon”.
 
-    [Pub. L. 108–458, § 6904(a)(2)][/us/pl/108/458/s6904/a/2], which directed amendment by inserting “knowingly” after “for any person to”, was executed by making the insertion after “for any person, inside or outside of the United States, to” to reflect the probable intent of Congress and the amendment by [Pub. L. 108–458, § 6803(b)(1)][/us/pl/108/458/s6803/b/1]. See above.
+    [Pub. L. 108–458][/us/pl/108/458], § 6904(a)(2), which directed amendment by inserting “knowingly” after “for any person to”, was executed by making the insertion after “for any person, inside or outside of the United States, to” to reflect the probable intent of Congress and the amendment by [Pub. L. 108–458][/us/pl/108/458], § 6803(b)(1). See above.
 
-    Subsec. (b). [Pub. L. 108–458, § 6904(a)(7)][/us/pl/108/458/s6904/a/7], added subsec. (b).
+    Subsec. (b). [Pub. L. 108–458][/us/pl/108/458], § 6904(a)(7), added subsec. (b).
 
     1958—[Pub. L. 85–479][/us/pl/85/479] included transfers or receipts in foreign commerce.
 
@@ -62,24 +62,24 @@
 
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F936
-[/us/pl/85/479/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479%2Fs2
+[/us/pl/85/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479
 [/us/stat/72/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F277
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3768
 [/us/usc/t42/s1806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1806%2Fb
-[/us/pl/108/458/s6904/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6904%2Fa%2F1
-[/us/pl/108/458/s6803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6803%2Fb%2F2
-[/us/pl/108/458/s6803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6803%2Fb%2F1
-[/us/pl/108/458/s6904/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6904%2Fa%2F4
-[/us/pl/108/458/s6803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6803%2Fb%2F2
-[/us/pl/108/458/s6904/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6904%2Fa%2F3
-[/us/pl/108/458/s6904/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6904%2Fa%2F2
-[/us/pl/108/458/s6803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6803%2Fb%2F1
-[/us/pl/108/458/s6904/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6904%2Fa%2F7
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/85/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F479
 
 

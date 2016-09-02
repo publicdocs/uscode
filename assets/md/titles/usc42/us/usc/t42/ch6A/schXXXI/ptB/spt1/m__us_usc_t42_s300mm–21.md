@@ -155,7 +155,7 @@
 
             The monitoring benefits under paragraph (1) shall be provided through the Clinical Center of Excellence for the type of individual involved or, in the case of an individual residing outside the New York metropolitan area, under an arrangement under [section 300mm–23 of this title][/us/usc/t42/s300mm–23].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3311, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3635][/us/stat/124/3635]; amended [Pub. L. 114–113, div. O, title III, § 302(d)][/us/pl/114/113/s302/d], Dec. 18, 2015, [129 Stat. 2999][/us/stat/129/2999].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3311, as added [Pub. L. 111–347, title I][/us/pl/111/347/tI], § 101, Jan. 2, 2011, [124 Stat. 3635][/us/stat/124/3635]; amended [Pub. L. 114–113, div. O, title III][/us/pl/114/113/dO/tIII], § 302(d), Dec. 18, 2015, [129 Stat. 2999][/us/stat/129/2999].)
 
  __Amendments__ 
 
@@ -174,9 +174,9 @@
 [/us/usc/t42/s300mm–61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9361
 [/us/usc/t42/s300mm–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9323
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
+[/us/pl/111/347/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtI
 [/us/stat/124/3635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3635
-[/us/pl/114/113/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fd
+[/us/pl/114/113/dO/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIII
 [/us/stat/129/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2999
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 

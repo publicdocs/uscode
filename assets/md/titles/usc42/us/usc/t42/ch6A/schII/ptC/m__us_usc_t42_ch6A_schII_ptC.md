@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–626, title I, § 113(a)(1)][/us/pl/95/626/s113/a/1], Nov. 10, 1978, [92 Stat. 3562][/us/stat/92/3562], struck out heading “Subpart I—General Provisions”.
+    1978—[Pub. L. 95–626, title I][/us/pl/95/626/tI], § 113(a)(1), Nov. 10, 1978, [92 Stat. 3562][/us/stat/92/3562], struck out heading “Subpart I—General Provisions”.
 
-    1976—[Pub. L. 94–484, title IV, § 407(a)][/us/pl/94/484/s407/a], Oct. 12, 1976, [90 Stat. 2268][/us/stat/90/2268], added heading “Subpart I—General Provisions”.
+    1976—[Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(a), Oct. 12, 1976, [90 Stat. 2268][/us/stat/90/2268], added heading “Subpart I—General Provisions”.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/95/626/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs113%2Fa%2F1
+[/us/pl/95/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2FtI
 [/us/stat/92/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3562
-[/us/pl/94/484/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fa
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2268
 
 

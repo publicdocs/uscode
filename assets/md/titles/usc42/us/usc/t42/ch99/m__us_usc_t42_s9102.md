@@ -53,7 +53,7 @@
 
     (18) “United States citizen” means (A) any individual who is a citizen of the United States by law, birth, or naturalization; (B) any Federal, State, or local government in the United States, or any entity of any such government; or (C) any corporation, partnership, association, or other entity, organized or existing under the laws of the United States, or of any State, which has as its president or other executive officer and as its chairman of the board of directors, or holder of similar office, an individual who is a United States citizen and which has no more of its directors who are not United States citizens than constitute a minority of the number required for a quorum necessary to conduct the business of the board.
 
-([Pub. L. 96–320, § 3][/us/pl/96/320/s3], Aug. 3, 1980, [94 Stat. 975][/us/stat/94/975]; [Pub. L. 98–623, title VI, § 602(a)(2)][/us/pl/98/623/s602/a/2], (e)(7), Nov. 8, 1984, [98 Stat. 3410][/us/stat/98/3410], 3412.)
+([Pub. L. 96–320][/us/pl/96/320], § 3, Aug. 3, 1980, [94 Stat. 975][/us/stat/94/975]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(a)(2), (e)(7), Nov. 8, 1984, [98 Stat. 3410][/us/stat/98/3410], 3412.)
 
  __References in Text__ 
 
@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1984—Par. (11). [Pub. L. 98–623, § 602(a)(2)][/us/pl/98/623/s602/a/2], substituted “standing, fixed or moored in whole or in part seaward of the highwater mark” for “standing or moored in or beyond the territorial sea of the United States”.
+    1984—Par. (11). [Pub. L. 98–623][/us/pl/98/623], § 602(a)(2), substituted “standing, fixed or moored in whole or in part seaward of the highwater mark” for “standing or moored in or beyond the territorial sea of the United States”.
 
-    [Pub. L. 98–623, § 602(e)(7)][/us/pl/98/623/s602/e/7], substituted “fresh water” for “freshwater”.
+    [Pub. L. 98–623][/us/pl/98/623], § 602(e)(7), substituted “fresh water” for “freshwater”.
 
  __Territorial Sea of United States__ 
 
@@ -87,9 +87,9 @@
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8
-[/us/pl/96/320/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs3
+[/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F975
-[/us/pl/98/623/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F2
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3410
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974
@@ -103,8 +103,8 @@
 [/us/act/1894-08-27/ch349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349
 [/us/stat/28/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F570
 [/us/usc/t15/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8
-[/us/pl/98/623/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fa%2F2
-[/us/pl/98/623/s602/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F7
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 
 

@@ -17,7 +17,7 @@
 
     The Director shall ensure that all final project reports and citations of published research documents resulting from research funded, in whole or in part, by the Foundation, are made available to the public in a timely manner and in electronic form through the Foundation’s Web site.
 
-([Pub. L. 110–69, title VII, § 7010][/us/pl/110/69/s7010], Aug. 9, 2007, [121 Stat. 680][/us/stat/121/680].)
+([Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7010, Aug. 9, 2007, [121 Stat. 680][/us/stat/121/680].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s7010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7010
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F680
 [/us/pl/110/69/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7001
 

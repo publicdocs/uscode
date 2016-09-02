@@ -139,13 +139,13 @@
 
             [Section 1437p of this title][/us/usc/t42/s1437p] shall not apply to the demolition of public housing projects removed from the inventory of the public housing agency under this section.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 33, as added [Pub. L. 105–276, title V, § 537(a)][/us/pl/105/276/s537/a], Oct. 21, 1998, [112 Stat. 2588][/us/stat/112/2588].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 33, as added [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 537(a), Oct. 21, 1998, [112 Stat. 2588][/us/stat/112/2588].)
 
  __References in Text__ 
 
     Title I of the Housing and Community Development Act of 1992, referred to in subsec. (c)(2)(B), is title I of [Pub. L. 102–550][/us/pl/102/550], Oct. 28, 1992, [106 Stat. 3681][/us/stat/106/3681]. For complete classification of title I to the Code, see Tables.
 
-    Section 1437l of this title, referred to in subsec. (f)(1), (2), was repealed by [Pub. L. 105–276, title V, § 522(a)][/us/pl/105/276/s522/a], Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
+    Section 1437l of this title, referred to in subsec. (f)(1), (2), was repealed by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 522(a), Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564].
 
     Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (f)(1), (3), is [section 503(a) of Pub. L. 105–276][/us/pl/105/276/s503/a], which is set out as an Effective Date of 1998 Amendment note under [section 1437 of this title][/us/usc/t42/s1437].
 
@@ -155,7 +155,7 @@
 
  __Transition__ 
 
-[Pub. L. 105–276, title V, § 537(c)][/us/pl/105/276/s537/c], Oct. 21, 1998, [112 Stat. 2592][/us/stat/112/2592], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 537(c), Oct. 21, 1998, [112 Stat. 2592][/us/stat/112/2592], provided that:
 
 >     “(1)  __Use of amounts__  __.—__ 
 
@@ -177,17 +177,17 @@
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
 [/us/usc/t42/s1437p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437p
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/105/276/s537/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs537%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2588
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3681
-[/us/pl/105/276/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
 [/us/pl/105/276/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503%2Fa
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
 [/us/pl/105/276/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs503
 [/us/usc/t42/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437
-[/us/pl/105/276/s537/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs537%2Fc
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2592
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/stat/110/1321-279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-279

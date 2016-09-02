@@ -17,7 +17,7 @@
 
     Each State and local government shall use payments made under this subchapter for the maintenance of basic services customarily provided to persons in that State or in the area under the jurisdiction of that local government, as the case may be. State and local governments may not use emergency support payments made under this subchapter for the acquisition of supplies and materials or for construction, except for normal supplies or repairs necessary to maintain basic services.
 
-([Pub. L. 94–369, title II, § 204][/us/pl/94/369/s204], July 22, 1976, [90 Stat. 1006][/us/stat/90/1006]; [Pub. L. 94–447, title II, § 201(4)][/us/pl/94/447/s201/4], Oct. 1, 1976, [90 Stat. 1498][/us/stat/90/1498]; [Pub. L. 95–30, title VI, § 604][/us/pl/95/30/s604], May 23, 1977, [91 Stat. 166][/us/stat/91/166].)
+([Pub. L. 94–369, title II][/us/pl/94/369/tII], § 204, July 22, 1976, [90 Stat. 1006][/us/stat/90/1006]; [Pub. L. 94–447, title II][/us/pl/94/447/tII], § 201(4), Oct. 1, 1976, [90 Stat. 1498][/us/stat/90/1498]; [Pub. L. 95–30, title VI][/us/pl/95/30/tVI], § 604, May 23, 1977, [91 Stat. 166][/us/stat/91/166].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/94/369/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2Fs204
+[/us/pl/94/369/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F369%2FtII
 [/us/stat/90/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1006
-[/us/pl/94/447/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F447%2Fs201%2F4
+[/us/pl/94/447/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F447%2FtII
 [/us/stat/90/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1498
-[/us/pl/95/30/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs604
+[/us/pl/95/30/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtVI
 [/us/stat/91/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F166
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/94/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F447

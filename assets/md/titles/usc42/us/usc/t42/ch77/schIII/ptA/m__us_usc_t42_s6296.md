@@ -57,33 +57,33 @@
 
         (3) The provisions of [section 796(d) of title 15][/us/usc/t15/s796/d] shall apply with respect to information obtained under this subsection to the same extent and in the same manner as they apply with respect to energy information obtained under [section 796 of title 15][/us/usc/t15/s796].
 
-([Pub. L. 94–163, title III, § 326][/us/pl/94/163/s326], Dec. 22, 1975, [89 Stat. 926][/us/stat/89/926]; [Pub. L. 95–619, title IV, § 425(d)][/us/pl/95/619/s425/d], title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3265][/us/stat/92/3265], 3288; [Pub. L. 100–12][/us/pl/100/12], §§ 6, 11(a)(2), (b)(3), Mar. 17, 1987, [101 Stat. 117][/us/stat/101/117], 125; [Pub. L. 102–486, title I, § 123(g)][/us/pl/102/486/s123/g], Oct. 24, 1992, [106 Stat. 2829][/us/stat/106/2829].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 326, Dec. 22, 1975, [89 Stat. 926][/us/stat/89/926]; [Pub. L. 95–619, title IV][/us/pl/95/619/tIV], § 425(d), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3265][/us/stat/92/3265], 3288; [Pub. L. 100–12][/us/pl/100/12], §§ 6, 11(a)(2), (b)(3), Mar. 17, 1987, [101 Stat. 117][/us/stat/101/117], 125; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 123(g), Oct. 24, 1992, [106 Stat. 2829][/us/stat/106/2829].)
 
  __Amendments__ 
 
-    1992—Subsec. (b)(4). [Pub. L. 102–486, § 123(g)(1)][/us/pl/102/486/s123/g/1], inserted “or water use” after “consumption”.
+    1992—Subsec. (b)(4). [Pub. L. 102–486][/us/pl/102/486], § 123(g)(1), inserted “or water use” after “consumption”.
 
-    Subsec. (d)(1). [Pub. L. 102–486, § 123(g)(2)][/us/pl/102/486/s123/g/2], substituted “, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use” for “or energy use”.
+    Subsec. (d)(1). [Pub. L. 102–486][/us/pl/102/486], § 123(g)(2), substituted “, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use” for “or energy use”.
 
-    1987—Subsec. (a). [Pub. L. 100–12, § 11(b)(3)(A)][/us/pl/100/12/s11/b/3/A], inserted heading.
+    1987—Subsec. (a). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(3)(A), inserted heading.
 
-    Subsec. (b). [Pub. L. 100–12, § 11(b)(3)(B)][/us/pl/100/12/s11/b/3/B], inserted heading.
+    Subsec. (b). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(3)(B), inserted heading.
 
-    Subsec. (b)(3)(A). [Pub. L. 100–12, § 11(a)(2)][/us/pl/100/12/s11/a/2], inserted “established in or” before “prescribed under”.
+    Subsec. (b)(3)(A). [Pub. L. 100–12][/us/pl/100/12], § 11(a)(2), inserted “established in or” before “prescribed under”.
 
-    Subsec. (c). [Pub. L. 100–12, § 11(b)(3)(C)][/us/pl/100/12/s11/b/3/C], inserted heading.
+    Subsec. (c). [Pub. L. 100–12][/us/pl/100/12], § 11(b)(3)(C), inserted heading.
 
-    Subsec. (d). [Pub. L. 100–12, § 6][/us/pl/100/12/s6], inserted “Information requirements” as heading and amended text generally. Prior to amendment, text read as follows: “For purposes of carrying out this part, the Secretary may require, under authority otherwise available to him under this part or other provisions of law administered by him, each manufacturer of covered products to submit such information or reports of any kind or nature directly to the Secretary with respect to energy efficiency of such covered products, and with respect to the economic impact of any proposed energy efficiency standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy efficiency standards for such products and to insure compliance with the requirements of this part. The provisions of [section 796(d) of title 15][/us/usc/t15/s796/d] shall apply with respect to information obtained under this subsection to the same extent and in the same manner as it applies with respect to energy information obtained under [section 796 of title 15][/us/usc/t15/s796].”
+    Subsec. (d). [Pub. L. 100–12][/us/pl/100/12], § 6, inserted “Information requirements” as heading and amended text generally. Prior to amendment, text read as follows: “For purposes of carrying out this part, the Secretary may require, under authority otherwise available to him under this part or other provisions of law administered by him, each manufacturer of covered products to submit such information or reports of any kind or nature directly to the Secretary with respect to energy efficiency of such covered products, and with respect to the economic impact of any proposed energy efficiency standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy efficiency standards for such products and to insure compliance with the requirements of this part. The provisions of [section 796(d) of title 15][/us/usc/t15/s796/d] shall apply with respect to information obtained under this subsection to the same extent and in the same manner as it applies with respect to energy information obtained under [section 796 of title 15][/us/usc/t15/s796].”
 
-    1978—Subsec. (b)(1). [Pub. L. 95–619, § 425(d)(2)][/us/pl/95/619/s425/d/2], inserted requirement that manufacturers of covered products give notice to the Secretary of models affected by rules promulgated under [section 6294 of this title][/us/usc/t42/s6294] and expanded the notice requirement itself to include models manufactured more than sixty days after the date a particular rule takes effect.
+    1978—Subsec. (b)(1). [Pub. L. 95–619][/us/pl/95/619], § 425(d)(2), inserted requirement that manufacturers of covered products give notice to the Secretary of models affected by rules promulgated under [section 6294 of this title][/us/usc/t42/s6294] and expanded the notice requirement itself to include models manufactured more than sixty days after the date a particular rule takes effect.
 
-    Subsec. (b)(2). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
+    Subsec. (b)(2). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 
-    Subsec. (b)(3). [Pub. L. 95–619, § 425(d)(3)][/us/pl/95/619/s425/d/3], authorized Secretary to request submission of covered products for purposes of ascertaining whether a particular product complies with standards under [section 6295 of this title][/us/usc/t42/s6295] and also authorized Secretary to designate testing laboratories for the submitted products.
+    Subsec. (b)(3). [Pub. L. 95–619][/us/pl/95/619], § 425(d)(3), authorized Secretary to request submission of covered products for purposes of ascertaining whether a particular product complies with standards under [section 6295 of this title][/us/usc/t42/s6295] and also authorized Secretary to designate testing laboratories for the submitted products.
 
-    Subsec. (b)(5). [Pub. L. 95–619, § 691(b)(2)][/us/pl/95/619/s691/b/2], substituted “Secretary” for “Administrator”.
+    Subsec. (b)(5). [Pub. L. 95–619][/us/pl/95/619], § 691(b)(2), substituted “Secretary” for “Administrator”.
 
-    Subsec. (d). [Pub. L. 95–619, § 425(d)(1)][/us/pl/95/619/s425/d/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–619][/us/pl/95/619], § 425(d)(1), added subsec. (d).
 
 ----------
 
@@ -104,29 +104,29 @@
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
 [/us/usc/t15/s796/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fd
 [/us/usc/t15/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796
-[/us/pl/94/163/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs326
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
 [/us/stat/89/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F926
-[/us/pl/95/619/s425/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fd
+[/us/pl/95/619/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtIV
 [/us/stat/92/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3265
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F117
-[/us/pl/102/486/s123/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fg
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2829
-[/us/pl/102/486/s123/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fg%2F1
-[/us/pl/102/486/s123/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs123%2Fg%2F2
-[/us/pl/100/12/s11/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F3%2FA
-[/us/pl/100/12/s11/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F3%2FB
-[/us/pl/100/12/s11/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fa%2F2
-[/us/pl/100/12/s11/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs11%2Fb%2F3%2FC
-[/us/pl/100/12/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12%2Fs6
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
+[/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/usc/t15/s796/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fd
 [/us/usc/t15/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796
-[/us/pl/95/619/s425/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fd%2F2
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t42/s6294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
-[/us/pl/95/619/s425/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fd%2F3
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
-[/us/pl/95/619/s425/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs425%2Fd%2F1
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 
 

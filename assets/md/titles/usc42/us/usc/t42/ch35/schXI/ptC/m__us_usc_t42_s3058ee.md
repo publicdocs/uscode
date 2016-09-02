@@ -23,7 +23,7 @@
 
         State agencies and area agencies on aging shall not request information or data from providers that is not pertinent to services furnished under this subchapter or to a payment made for the services.
 
-([Pub. L. 89–73, title VII, § 764][/us/pl/89/73/s764], as added [Pub. L. 102–375, title VII, § 707][/us/pl/102/375/s707], Sept. 30, 1992, [106 Stat. 1291][/us/stat/106/1291]; amended [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title VIII, § 801(e)(6)][/us/pl/106/501/s801/e/6], Nov. 13, 2000, [114 Stat. 2293][/us/stat/114/2293].)
+([Pub. L. 89–73, title VII][/us/pl/89/73/tVII], § 764, as added [Pub. L. 102–375, title VII][/us/pl/102/375/tVII], § 707, Sept. 30, 1992, [106 Stat. 1291][/us/stat/106/1291]; amended [Pub. L. 103–171][/us/pl/103/171], § 3(a)(13), Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990]; [Pub. L. 106–501, title VIII][/us/pl/106/501/tVIII], § 801(e)(6), Nov. 13, 2000, [114 Stat. 2293][/us/stat/114/2293].)
 
  __Amendments__ 
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/89/73/s764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs764
-[/us/pl/102/375/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs707
+[/us/pl/89/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtVII
+[/us/pl/102/375/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVII
 [/us/stat/106/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1291
-[/us/pl/103/171/s3/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs3%2Fa%2F13
+[/us/pl/103/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171
 [/us/stat/107/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1990
-[/us/pl/106/501/s801/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs801%2Fe%2F6
+[/us/pl/106/501/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtVIII
 [/us/stat/114/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2293
 [/us/pl/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501
 [/us/usc/t42/s3058aa/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3058aa%2Fc

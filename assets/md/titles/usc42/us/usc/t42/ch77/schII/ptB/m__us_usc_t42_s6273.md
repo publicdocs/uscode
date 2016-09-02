@@ -37,7 +37,7 @@
 
         if the President determines with respect to a particular meeting, (A) that such suspension is essential to the developing or carrying out of the international energy program, (B) that such suspension relates solely to the purpose of international allocation of petroleum products and the information system provided in such program, and (C) that the meeting deals with matters described in [section 552(b)(1) of title 5][/us/usc/t5/s552/b/1]. Such determination by the President shall be in writing, shall set forth a detailed explanation of reasons justifying the granting of such suspension, and shall be published in the Federal Register at a reasonable time prior to the effective date of any such suspension.
 
-([Pub. L. 94–163, title II, § 253][/us/pl/94/163/s253], Dec. 22, 1975, [89 Stat. 898][/us/stat/89/898]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288].)
+([Pub. L. 94–163, title II][/us/pl/94/163/tII], § 253, Dec. 22, 1975, [89 Stat. 898][/us/stat/89/898]; [Pub. L. 95–619, title VI][/us/pl/95/619/tVI], § 691(b)(2), Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
     Sections 10 and 11 of the Federal Advisory Committee Act, referred to in subsec. (c)(1), are sections 10 and 11 of [Pub. L. 92–463][/us/pl/92/463], which are set out in the Appendix to Title 5, Government Organization and Employees.
 
-    Section 17 of the Federal Energy Administration Act of 1974, referred to in subsec. (c)(2), was classified to [section 776 of Title 15][/us/usc/t15/s776], Commerce and Trade, prior to repeal by [Pub. L. 105–28, § 2(b)(2)][/us/pl/105/28/s2/b/2], July 18, 1997, [111 Stat. 245][/us/stat/111/245].
+    Section 17 of the Federal Energy Administration Act of 1974, referred to in subsec. (c)(2), was classified to [section 776 of Title 15][/us/usc/t15/s776], Commerce and Trade, prior to repeal by [Pub. L. 105–28][/us/pl/105/28], § 2(b)(2), July 18, 1997, [111 Stat. 245][/us/stat/111/245].
 
  __Amendments__ 
 
@@ -70,16 +70,16 @@
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F1
-[/us/pl/94/163/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs253
+[/us/pl/94/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtII
 [/us/stat/89/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F898
-[/us/pl/95/619/s691/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs691%2Fb%2F2
+[/us/pl/95/619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtVI
 [/us/stat/92/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3288
 [/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F96
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/usc/t15/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs776
-[/us/pl/105/28/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28%2Fs2%2Fb%2F2
+[/us/pl/105/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F28
 [/us/stat/111/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F245
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161

@@ -43,7 +43,7 @@
 
         (2) For purposes of this subsection, the term “hospital” includes a State or local public hospital, a private profit hospital, a private nonprofit hospital, a general or special hospital, and any other type of hospital (excluding a hospital owned or operated by an agency of the Federal Government), and any related facilities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 335, as added [Pub. L. 94–484, title IV, § 407(b)(3)][/us/pl/94/484/s407/b/3], Oct. 12, 1976, [90 Stat. 2275][/us/stat/90/2275]; amended [Pub. L. 97–35, title XXVII, § 2705][/us/pl/97/35/s2705], Aug. 13, 1981, [95 Stat. 907][/us/stat/95/907]; [Pub. L. 101–597, title I, § 106][/us/pl/101/597/s106], title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3018][/us/stat/104/3018], 3035; [Pub. L. 107–251, title III, § 306][/us/pl/107/251/s306], Oct. 26, 2002, [116 Stat. 1648][/us/stat/116/1648].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 335, as added [Pub. L. 94–484, title IV][/us/pl/94/484/tIV], § 407(b)(3), Oct. 12, 1976, [90 Stat. 2275][/us/stat/90/2275]; amended [Pub. L. 97–35, title XXVII][/us/pl/97/35/tXXVII], § 2705, Aug. 13, 1981, [95 Stat. 907][/us/stat/95/907]; [Pub. L. 101–597, title I][/us/pl/101/597/tI], § 106, title IV, § 401(b)\[(a)\], Nov. 16, 1990, [104 Stat. 3018][/us/stat/104/3018], 3035; [Pub. L. 107–251, title III][/us/pl/107/251/tIII], § 306, Oct. 26, 2002, [116 Stat. 1648][/us/stat/116/1648].)
 
  __References in Text__ 
 
@@ -53,13 +53,13 @@
 
     2002—Subsec. (e)(1)(B). [Pub. L. 107–251][/us/pl/107/251] substituted “titles XVIII, XIX, or XXI of the Social Security Act” for “titles XVIII or XIX of the Social Security Act”.
 
-    1990—Subsecs. (a), (b)(1)(A), (2), (d). [Pub. L. 101–597, § 401(b)][/us/pl/101/597/s401/b]\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
+    1990—Subsecs. (a), (b)(1)(A), (2), (d). [Pub. L. 101–597][/us/pl/101/597], § 401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
-    Subsec. (e)(1)(A). [Pub. L. 101–597, § 106][/us/pl/101/597/s106], substituted “authorized Corps member admitting privileges” for “authorized physician or dentist member of the Corps admitting privileges”.
+    Subsec. (e)(1)(A). [Pub. L. 101–597][/us/pl/101/597], § 106, substituted “authorized Corps member admitting privileges” for “authorized physician or dentist member of the Corps admitting privileges”.
 
-    1981—Subsec. (a)(2). [Pub. L. 97–35, § 2705(a)][/us/pl/97/35/s2705/a], substituted provisions respecting cooperation with other health care providers, for provisions respecting direct health services programs.
+    1981—Subsec. (a)(2). [Pub. L. 97–35][/us/pl/97/35], § 2705(a), substituted provisions respecting cooperation with other health care providers, for provisions respecting direct health services programs.
 
-    Subsec. (c)(4). [Pub. L. 97–35, § 2705(b)][/us/pl/97/35/s2705/b], struck out cl. (4) relating to appropriate continuing education programs.
+    Subsec. (c)(4). [Pub. L. 97–35][/us/pl/97/35], § 2705(b), struck out cl. (4) relating to appropriate continuing education programs.
 
 ----------
 
@@ -71,21 +71,21 @@
 [/us/usc/t42/s254f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254f
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/484/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2Fs407%2Fb%2F3
+[/us/pl/94/484/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F484%2FtIV
 [/us/stat/90/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2275
-[/us/pl/97/35/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2705
+[/us/pl/97/35/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXVII
 [/us/stat/95/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F907
-[/us/pl/101/597/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs106
+[/us/pl/101/597/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtI
 [/us/stat/104/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3018
-[/us/pl/107/251/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2Fs306
+[/us/pl/107/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251%2FtIII
 [/us/stat/116/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1648
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
-[/us/pl/101/597/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs106
-[/us/pl/97/35/s2705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2705%2Fa
-[/us/pl/97/35/s2705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2705%2Fb
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/101/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 
 

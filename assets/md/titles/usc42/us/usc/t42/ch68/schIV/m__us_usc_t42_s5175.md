@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t42/ch68/schIV/m__us_usc_t42_s5174.md) | [Next](./../../../../..//us/usc/t42/ch68/schIV/m__us_usc_t42_s5176.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5175)
 
-## § 5175. Repealed. [Pub. L. 100–707, title I, § 105(m)(2)][/us/pl/100/707/s105/m/2], Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696]
+## § 5175. Repealed. [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(m)(2), Nov. 23, 1988, [102 Stat. 4696][/us/stat/102/4696]
 
-    Section, [Pub. L. 93–288, title IV, § 405][/us/pl/93/288/s405], May 22, 1974, [88 Stat. 155][/us/stat/88/155], related to protection of environment.
+    Section, [Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 405, May 22, 1974, [88 Stat. 155][/us/stat/88/155], related to protection of environment.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/100/707/s105/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fm%2F2
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4696
-[/us/pl/93/288/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs405
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
 [/us/stat/88/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F155
 
 

@@ -73,7 +73,7 @@
 
         There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2007 through 2010.
 
-([Pub. L. 109–248, title III, § 301][/us/pl/109/248/s301], July 27, 2006, [120 Stat. 617][/us/stat/120/617].)
+([Pub. L. 109–248, title III][/us/pl/109/248/tIII], § 301, July 27, 2006, [120 Stat. 617][/us/stat/120/617].)
 
 ----------
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t42/s16911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16911
-[/us/pl/109/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs301
+[/us/pl/109/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtIII
 [/us/stat/120/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F617
 
 

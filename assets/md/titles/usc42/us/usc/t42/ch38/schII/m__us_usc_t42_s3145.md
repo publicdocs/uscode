@@ -53,11 +53,11 @@
 
             Notwithstanding any requirement as to the amount or source of non-Federal funds that may be applicable to a Federal program, funds provided under this section may be used to increase the Federal share for specific projects under the program that are carried out in areas described in [section 3161(a) of this title][/us/usc/t42/s3161/a] above the Federal share of the cost of the project authorized by the law governing the program.
 
-([Pub. L. 89–136, title II, § 205][/us/pl/89/136/s205], as added [Pub. L. 105–393, title I, § 102(a)][/us/pl/105/393/s102/a], Nov. 13, 1998, [112 Stat. 3603][/us/stat/112/3603]; amended [Pub. L. 108–373, title II, § 203][/us/pl/108/373/s203], Oct. 27, 2004, [118 Stat. 1760][/us/stat/118/1760].)
+([Pub. L. 89–136, title II][/us/pl/89/136/tII], § 205, as added [Pub. L. 105–393, title I][/us/pl/105/393/tI], § 102(a), Nov. 13, 1998, [112 Stat. 3603][/us/stat/112/3603]; amended [Pub. L. 108–373, title II][/us/pl/108/373/tII], § 203, Oct. 27, 2004, [118 Stat. 1760][/us/stat/118/1760].)
 
  __Amendments__ 
 
-    2004—Subsec. (b). [Pub. L. 108–373, § 203(a)][/us/pl/108/373/s203/a], added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+    2004—Subsec. (b). [Pub. L. 108–373][/us/pl/108/373], § 203(a), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
     “(1) In general.—On the application of an eligible recipient, the Secretary may make a supplementary grant for a project for which the eligible recipient is eligible but, because of the eligible recipient’s economic situation, for which the eligible recipient cannot provide the required non-Federal share.
 
@@ -67,13 +67,13 @@
 
     “(B) direct grants authorized under this subchapter.”
 
-    Subsec. (c)(1), (2). [Pub. L. 108–373, § 203(b)(1)][/us/pl/108/373/s203/b/1], added pars. (1) and (2) and struck out former pars. (1) and (2), which read as follows:
+    Subsec. (c)(1), (2). [Pub. L. 108–373][/us/pl/108/373], § 203(b)(1), added pars. (1) and (2) and struck out former pars. (1) and (2), which read as follows:
 
     “(1) Amount of supplementary grants.—Subject to paragraph (4), the amount of a supplementary grant under this subchapter for a project shall not exceed the applicable percentage of the cost of the project established by regulations promulgated by the Secretary, except that the non-Federal share of the cost of a project (including assumptions of debt) shall not be less than 20 percent.
 
     “(2) Form of supplementary grants.—In accordance with such regulations as the Secretary may promulgate, the Secretary shall make supplementary grants by increasing the amounts of grants authorized under this subchapter or by the payment of funds made available under this chapter to the heads of the Federal agencies responsible for carrying out the applicable Federal programs.”
 
-    Subsec. (c)(4). [Pub. L. 108–373, § 203(b)(2)][/us/pl/108/373/s203/b/2], struck out heading and text of par. (4). Text read as follows:
+    Subsec. (c)(4). [Pub. L. 108–373][/us/pl/108/373], § 203(b)(2), struck out heading and text of par. (4). Text read as follows:
 
     “(A) Indian tribes.—In the case of a grant to an Indian tribe, the Secretary may reduce the non-Federal share below the percentage specified in paragraph (1) or may waive the non-Federal share.
 
@@ -88,13 +88,13 @@
 
 [/us/usc/t42/s3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3144
 [/us/usc/t42/s3161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3161%2Fa
-[/us/pl/89/136/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2Fs205
-[/us/pl/105/393/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2Fs102%2Fa
+[/us/pl/89/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136%2FtII
+[/us/pl/105/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F393%2FtI
 [/us/stat/112/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3603
-[/us/pl/108/373/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs203
+[/us/pl/108/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2FtII
 [/us/stat/118/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1760
-[/us/pl/108/373/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs203%2Fa
-[/us/pl/108/373/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs203%2Fb%2F1
-[/us/pl/108/373/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373%2Fs203%2Fb%2F2
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
+[/us/pl/108/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F373
 
 

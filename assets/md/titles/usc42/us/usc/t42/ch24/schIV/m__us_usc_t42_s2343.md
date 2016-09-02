@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1962—Subsec. (b). [Pub. L. 87–719, § 10][/us/pl/87/719/s10], struck out “, and also subject to the right of an occupant of a Government-owned single family or duplex house to buy such house by paying an amount equal to the highest bid” after “bids” in first sentence.
+    1962—Subsec. (b). [Pub. L. 87–719][/us/pl/87/719], § 10, struck out “, and also subject to the right of an occupant of a Government-owned single family or duplex house to buy such house by paying an amount equal to the highest bid” after “bids” in first sentence.
 
-    Subsec. (c). [Pub. L. 87–719, § 11][/us/pl/87/719/s11], struck out “, but the Commission shall give an occupant of a Government-owned single family or duplex house such further opportunity to purchase such house as shall be fair and equitable”.
+    Subsec. (c). [Pub. L. 87–719][/us/pl/87/719], § 11, struck out “, but the Commission shall give an occupant of a Government-owned single family or duplex house such further opportunity to purchase such house as shall be fair and equitable”.
 
     1961—Subsec. (c). [Pub. L. 87–174][/us/pl/87/174] substituted “ninety days” for “one year”.
 
@@ -60,8 +60,8 @@
 [/us/stat/75/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F409
 [/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 [/us/stat/76/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F665
-[/us/pl/87/719/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs10
-[/us/pl/87/719/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719%2Fs11
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
+[/us/pl/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F719
 [/us/pl/87/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F174
 
 

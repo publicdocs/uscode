@@ -31,11 +31,11 @@
 
         Not later than May 15, 1999, the Attorney General shall submit a report to the Congress which contains the recommendation of the Attorney General concerning the extension of the program under this section.
 
-([Pub. L. 103–322, title II, § 20110][/us/pl/103/322/s20110], as added [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20110, as added [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title I, § 114(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–21; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __References in Text__ 
 
-    [Section 1252(j) of title 8][/us/usc/t8/s1252/j], referred to in subsecs. (a) to (c), was redesignated [section 1231(i) of title 8][/us/usc/t8/s1231/i] by [Pub. L. 104–208, div. C, title III, § 306(a)(1)][/us/pl/104/208/s306/a/1], Sept. 30, 1996, [110 Stat. 3009–607][/us/stat/110/3009-607].
+    [Section 1252(j) of title 8][/us/usc/t8/s1252/j], referred to in subsecs. (a) to (c), was redesignated [section 1231(i) of title 8][/us/usc/t8/s1231/i] by [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 306(a)(1), Sept. 30, 1996, [110 Stat. 3009–607][/us/stat/110/3009-607].
 
 ----------
 
@@ -45,14 +45,14 @@
 ----------
 
 [/us/usc/t42/s13708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13708
-[/us/pl/103/322/s20110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20110
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/usc/t8/s1252/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1252%2Fj
 [/us/usc/t8/s1231/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1231%2Fi
-[/us/pl/104/208/s306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs306%2Fa%2F1
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-607
 
 

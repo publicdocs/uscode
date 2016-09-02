@@ -19,7 +19,7 @@
 
     (b) The Commissioner and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of any agency which receives financial assistance under this subchapter that are pertinent to the financial assistance received under this subchapter.
 
-([Pub. L. 88–452, title VIII, § 809][/us/pl/88/452/s809], formerly § 808, as added [Pub. L. 93–644, § 11][/us/pl/93/644/s11], Jan. 4, 1975, [88 Stat. 2325][/us/stat/88/2325]; renumbered § 809, [Pub. L. 100–175, title V, § 502(3)][/us/pl/100/175/s502/3], Nov. 29, 1987, [101 Stat. 973][/us/stat/101/973]; amended [Pub. L. 102–375, title VIII, § 822(9)][/us/pl/102/375/s822/9], Sept. 30, 1992, [106 Stat. 1298][/us/stat/106/1298].)
+([Pub. L. 88–452, title VIII][/us/pl/88/452/tVIII], § 809, formerly § 808, as added [Pub. L. 93–644][/us/pl/93/644], § 11, Jan. 4, 1975, [88 Stat. 2325][/us/stat/88/2325]; renumbered § 809, [Pub. L. 100–175, title V][/us/pl/100/175/tV], § 502(3), Nov. 29, 1987, [101 Stat. 973][/us/stat/101/973]; amended [Pub. L. 102–375, title VIII][/us/pl/102/375/tVIII], § 822(9), Sept. 30, 1992, [106 Stat. 1298][/us/stat/106/1298].)
 
  __Prior Provisions__ 
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/88/452/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs809
-[/us/pl/93/644/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs11
+[/us/pl/88/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2FtVIII
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
 [/us/stat/88/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2325
-[/us/pl/100/175/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs502%2F3
+[/us/pl/100/175/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2FtV
 [/us/stat/101/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F973
-[/us/pl/102/375/s822/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs822%2F9
+[/us/pl/102/375/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2FtVIII
 [/us/stat/106/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1298
 [/us/pl/88/452/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs809
 [/us/usc/t42/s2991h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991h

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10417.md) | [Next](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10421.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10420)
+[Previous](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10418 _us_usc_t42_s10419.md) | [Next](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10421.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10420)
 
 ## § 10420. Grants to support families in the justice system
 
@@ -117,7 +117,7 @@
 
             The requirements of this section shall not apply to funds allocated for the program described in paragraph (1).
 
-([Pub. L. 106–386, div. B, title III, § 1301][/us/pl/106/386/s1301], as added [Pub. L. 113–4, title I, § 104(a)][/us/pl/113/4/s104/a], Mar. 7, 2013, [127 Stat. 73][/us/stat/127/73].)
+([Pub. L. 106–386, div. B, title III][/us/pl/106/386/dB/tIII], § 1301, as added [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 104(a), Mar. 7, 2013, [127 Stat. 73][/us/stat/127/73].)
 
  __References in Text__ 
 
@@ -129,7 +129,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 10420, [Pub. L. 106–386, div. B, title III, § 1301][/us/pl/106/386/s1301], Oct. 28, 2000, [114 Stat. 1509][/us/stat/114/1509]; [Pub. L. 109–162, § 3(b)(2)][/us/pl/109/162/s3/b/2], title III, § 306, title IX, § 906(d), formerly § 906(e), title XI, § 1135(b), Jan. 5, 2006, [119 Stat. 2971][/us/stat/119/2971], 3016, 3081, 3109, renumbered § 906(d), [Pub. L. 109–271, § 7(b)(2)(B)][/us/pl/109/271/s7/b/2/B], Aug. 12, 2006, [120 Stat. 764][/us/stat/120/764]; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), 7(d)(2), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 766, related to safe havens for children, prior to repeal by [Pub. L. 113–4, title I, § 104(a)][/us/pl/113/4/s104/a], Mar. 7, 2013, [127 Stat. 73][/us/stat/127/73].
+    A prior section 10420, [Pub. L. 106–386, div. B, title III][/us/pl/106/386/dB/tIII], § 1301, Oct. 28, 2000, [114 Stat. 1509][/us/stat/114/1509]; [Pub. L. 109–162][/us/pl/109/162], § 3(b)(2), title III, § 306, title IX, § 906(d), formerly § 906(e), title XI, § 1135(b), Jan. 5, 2006, [119 Stat. 2971][/us/stat/119/2971], 3016, 3081, 3109, renumbered § 906(d), [Pub. L. 109–271][/us/pl/109/271], § 7(b)(2)(B), Aug. 12, 2006, [120 Stat. 764][/us/stat/120/764]; [Pub. L. 109–271][/us/pl/109/271], §§ 2(d), 7(d)(2), 8(b), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752], 766, related to safe havens for children, prior to repeal by [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 104(a), Mar. 7, 2013, [127 Stat. 73][/us/stat/127/73].
 
  __Effective Date__ 
 
@@ -141,27 +141,27 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10417.md) | [Next](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10421.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10420)
+[Previous](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10418 _us_usc_t42_s10419.md) | [Next](./../../../..//us/usc/t42/ch110/m__us_usc_t42_s10421.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10420)
 
 ----------
 ----------
 
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
-[/us/pl/106/386/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1301
-[/us/pl/113/4/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs104%2Fa
+[/us/pl/106/386/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIII
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F73
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
 [/us/pl/90/351/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs2015
 [/us/usc/t42/s3796gg–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%9310
-[/us/pl/106/386/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1301
+[/us/pl/106/386/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIII
 [/us/stat/114/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1509
-[/us/pl/109/162/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs3%2Fb%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/stat/119/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2971
-[/us/pl/109/271/s7/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs7%2Fb%2F2%2FB
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F764
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F752
-[/us/pl/113/4/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs104%2Fa
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F73
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261

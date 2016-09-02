@@ -71,11 +71,11 @@
 
             The Director shall promptly disseminate research results under this subsection to Federal, State, and local entities involved in combating drug abuse and addiction.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464N, as added [Pub. L. 102–321, title I, § 123(b)][/us/pl/102/321/s123/b], July 10, 1992, [106 Stat. 361][/us/stat/106/361]; amended [Pub. L. 102–352, § 2(a)(4)][/us/pl/102/352/s2/a/4], Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 106–310, div. B, title XXXVI, § 3631][/us/pl/106/310/s3631], Oct. 17, 2000, [114 Stat. 1235][/us/stat/114/1235]; [Pub. L. 107–273, div. B, title II, § 2203][/us/pl/107/273/s2203], Nov. 2, 2002, [116 Stat. 1794][/us/stat/116/1794]; [Pub. L. 109–482, title I, § 103(b)(34)][/us/pl/109/482/s103/b/34], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 464N, as added [Pub. L. 102–321, title I][/us/pl/102/321/tI], § 123(b), July 10, 1992, [106 Stat. 361][/us/stat/106/361]; amended [Pub. L. 102–352][/us/pl/102/352], § 2(a)(4), Aug. 26, 1992, [106 Stat. 938][/us/stat/106/938]; [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3631, Oct. 17, 2000, [114 Stat. 1235][/us/stat/114/1235]; [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2203, Nov. 2, 2002, [116 Stat. 1794][/us/stat/116/1794]; [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(b)(34), Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].)
 
  __References in Text__ 
 
-    [Section 292a of this title][/us/usc/t42/s292a], referred to in subsec. (b), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see sections 292o and 295p of this title.
+    [Section 292a of this title][/us/usc/t42/s292a], referred to in subsec. (b), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. [Pub. L. 102–408][/us/pl/102/408] enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see sections 292o and 295p of this title.
 
  __Amendments__ 
 
@@ -107,18 +107,18 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs123%2Fb
+[/us/pl/102/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtI
 [/us/stat/106/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F361
-[/us/pl/102/352/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352%2Fs2%2Fa%2F4
+[/us/pl/102/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F352
 [/us/stat/106/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F938
-[/us/pl/106/310/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3631
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1235
-[/us/pl/107/273/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2203
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1794
-[/us/pl/109/482/s103/b/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F34
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/usc/t42/s292a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292a
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482

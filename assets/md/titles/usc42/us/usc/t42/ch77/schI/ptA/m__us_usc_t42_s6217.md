@@ -45,7 +45,7 @@
 
         Using the inventory, the Secretary of Energy shall make periodic assessments of economically recoverable resources accounting for a range of parameters such as current costs, commodity prices, technology, and regulations.
 
-([Pub. L. 106–469, title VI, § 604][/us/pl/106/469/s604], Nov. 9, 2000, [114 Stat. 2041][/us/stat/114/2041]; [Pub. L. 109–58, title III, § 364(a)][/us/pl/109/58/s364/a], Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723].)
+([Pub. L. 106–469, title VI][/us/pl/106/469/tVI], § 604, Nov. 9, 2000, [114 Stat. 2041][/us/stat/114/2041]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 364(a), Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723].)
 
  __Codification__ 
 
@@ -53,13 +53,13 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(1). [Pub. L. 109–58, § 364(a)(1)(A)][/us/pl/109/58/s364/a/1/A], struck out “reserve” before “estimates” and “and” after the semicolon.
+    2005—Subsec. (a)(1). [Pub. L. 109–58][/us/pl/109/58], § 364(a)(1)(A), struck out “reserve” before “estimates” and “and” after the semicolon.
 
-    Subsec. (a)(2), (3). [Pub. L. 109–58, § 364(a)(1)(B)][/us/pl/109/58/s364/a/1/B], added pars. (2) and (3) and struck out former par. (2) which read as follows: “the extent and nature of any restrictions or impediments to the development of such resources.”
+    Subsec. (a)(2), (3). [Pub. L. 109–58][/us/pl/109/58], § 364(a)(1)(B), added pars. (2) and (3) and struck out former par. (2) which read as follows: “the extent and nature of any restrictions or impediments to the development of such resources.”
 
-    Subsec. (b). [Pub. L. 109–58, § 364(a)(2)][/us/pl/109/58/s364/a/2], substituted “resource” for “reserve” and “publicly” for “publically”.
+    Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 364(a)(2), substituted “resource” for “reserve” and “publicly” for “publically”.
 
-    Subsec. (d). [Pub. L. 109–58, § 364(a)(3)][/us/pl/109/58/s364/a/3], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to implement this section.”
+    Subsec. (d). [Pub. L. 109–58][/us/pl/109/58], § 364(a)(3), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to implement this section.”
 
  __Change of Name__ 
 
@@ -72,13 +72,13 @@
 ----------
 ----------
 
-[/us/pl/106/469/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs604
+[/us/pl/106/469/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtVI
 [/us/stat/114/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2041
-[/us/pl/109/58/s364/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs364%2Fa
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F723
-[/us/pl/109/58/s364/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs364%2Fa%2F1%2FA
-[/us/pl/109/58/s364/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs364%2Fa%2F1%2FB
-[/us/pl/109/58/s364/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs364%2Fa%2F2
-[/us/pl/109/58/s364/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs364%2Fa%2F3
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

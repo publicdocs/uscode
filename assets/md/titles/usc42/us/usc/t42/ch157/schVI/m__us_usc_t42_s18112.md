@@ -17,7 +17,7 @@
 
     Not later than 30 days after March 23, 2010, the Secretary of Health and Human Services shall publish on the Internet website of the Department of Health and Human Services, a list of all of the authorities provided to the Secretary under this Act (and the amendments made by this Act).
 
-([Pub. L. 111–148, title I, § 1552][/us/pl/111/148/s1552], Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1552, Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1552
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F258
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119

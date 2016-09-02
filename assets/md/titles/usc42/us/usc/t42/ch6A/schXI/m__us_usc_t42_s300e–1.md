@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e.md) | [Next](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931)
+[Previous](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e.md) | [Next](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–2 _us_usc_t42_s300e–3.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931)
 
 ## § 300e–1. Definitions
 
@@ -107,15 +107,15 @@
 
     (9) The term “non-metropolitan area” means an area no part of which is within an area designated as a standard metropolitan statistical area by the Office of Management and Budget and which does not contain a city whose population exceeds fifty thousand individuals.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1302, as added [Pub. L. 93–222, § 2][/us/pl/93/222/s2], Dec. 29, 1973, [87 Stat. 917][/us/stat/87/917]; amended [Pub. L. 94–460, title I][/us/pl/94/460], §§ 102(b), 104, 105(b), (c), 106, 117(b)(1), (2), Oct. 8, 1976, [90 Stat. 1946–1948][/us/stat/90/1946-1948], 1955; [Pub. L. 95–559, § 11(e)][/us/pl/95/559/s11/e], Nov. 1, 1978, [92 Stat. 2139][/us/stat/92/2139]; [Pub. L. 97–35, title IX, § 942(f)][/us/pl/97/35/s942/f]–(j), Aug. 13, 1981, [95 Stat. 574][/us/stat/95/574], 575; [Pub. L. 97–414, § 9(c)][/us/pl/97/414/s9/c], Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064]; [Pub. L. 99–660, title VIII][/us/pl/99/660], §§ 812(a), 814, Nov. 14, 1986, [100 Stat. 3801][/us/stat/100/3801], 3802; [Pub. L. 100–517, § 6(b)][/us/pl/100/517/s6/b], Oct. 24, 1988, [102 Stat. 2579][/us/stat/102/2579].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1302, as added [Pub. L. 93–222][/us/pl/93/222], § 2, Dec. 29, 1973, [87 Stat. 917][/us/stat/87/917]; amended [Pub. L. 94–460, title I][/us/pl/94/460/tI], §§ 102(b), 104, 105(b), (c), 106, 117(b)(1), (2), Oct. 8, 1976, [90 Stat. 1946–1948][/us/stat/90/1946-1948], 1955; [Pub. L. 95–559][/us/pl/95/559], § 11(e), Nov. 1, 1978, [92 Stat. 2139][/us/stat/92/2139]; [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 942(f)–(j), Aug. 13, 1981, [95 Stat. 574][/us/stat/95/574], 575; [Pub. L. 97–414][/us/pl/97/414], § 9(c), Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064]; [Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], §§ 812(a), 814, Nov. 14, 1986, [100 Stat. 3801][/us/stat/100/3801], 3802; [Pub. L. 100–517][/us/pl/100/517], § 6(b), Oct. 24, 1988, [102 Stat. 2579][/us/stat/102/2579].)
 
  __References in Text__ 
 
-    [Section 300e–9(d) of this title][/us/usc/t42/s300e–9/d], referred to in par. (4)(C), was redesignated [section 300e–9(c) of this title][/us/usc/t42/s300e–9/c] by [Pub. L. 100–517, § 7(b)][/us/pl/100/517/s7/b], Oct. 24, 1988, [102 Stat. 2580][/us/stat/102/2580].
+    [Section 300e–9(d) of this title][/us/usc/t42/s300e–9/d], referred to in par. (4)(C), was redesignated [section 300e–9(c) of this title][/us/usc/t42/s300e–9/c] by [Pub. L. 100–517][/us/pl/100/517], § 7(b), Oct. 24, 1988, [102 Stat. 2580][/us/stat/102/2580].
 
  __Amendments__ 
 
-    1988—Par. (8)(C). [Pub. L. 100–517, § 6(b)(1)][/us/pl/100/517/s6/b/1], amended third sentence generally. Prior to amendment, third sentence read as follows: “If a health maintenance organization is to fix rates of payment for individuals and families by groups, it shall—
+    1988—Par. (8)(C). [Pub. L. 100–517][/us/pl/100/517], § 6(b)(1), amended third sentence generally. Prior to amendment, third sentence read as follows: “If a health maintenance organization is to fix rates of payment for individuals and families by groups, it shall—
 
     “(i) classify all of the members of the organization into classes based on factors which the health maintenance organization determines predict the differences in the use of health services by the individuals or families in each class and which have not been disapproved by the Secretary,
 
@@ -123,51 +123,51 @@
 
     “(iii) fix the rates of payment for the individuals and families of a group on the basis of a composite of the organization’s revenue requirements determined under clause (ii) for providing services to them as members of the classes established under clause (i).”
 
-    [Pub. L. 100–517, § 6(b)(2)][/us/pl/100/517/s6/b/2], inserted at end “If a health maintenance organization is to fix rates of payment for a group under clause (ii), it shall, upon request of the entity with which it contracts to provide services to such group, disclose to that entity the method and data used in calculating the rates of payment.”
+    [Pub. L. 100–517][/us/pl/100/517], § 6(b)(2), inserted at end “If a health maintenance organization is to fix rates of payment for a group under clause (ii), it shall, upon request of the entity with which it contracts to provide services to such group, disclose to that entity the method and data used in calculating the rates of payment.”
 
-    1986—Par. (1). [Pub. L. 99–660, § 814(a)][/us/pl/99/660/s814/a], inserted “psychologist,” in two places in fourth sentence.
+    1986—Par. (1). [Pub. L. 99–660][/us/pl/99/660], § 814(a), inserted “psychologist,” in two places in fourth sentence.
 
-    [Pub. L. 99–660, § 812(a)][/us/pl/99/660/s812/a], (b)(1), temporarily inserted “Such term includes a health service directly associated with an organ transplant only if such organ transplant was required to be included in basic health services on April 15, 1985.” in closing provisions. See Effective and Termination Dates of 1986 Amendment note below.
+    [Pub. L. 99–660][/us/pl/99/660], § 812(a), (b)(1), temporarily inserted “Such term includes a health service directly associated with an organ transplant only if such organ transplant was required to be included in basic health services on April 15, 1985.” in closing provisions. See Effective and Termination Dates of 1986 Amendment note below.
 
-    Par. (2). [Pub. L. 99–660, § 814(a)][/us/pl/99/660/s814/a], inserted “psychologist,” in two places.
+    Par. (2). [Pub. L. 99–660][/us/pl/99/660], § 814(a), inserted “psychologist,” in two places.
 
-    Par. (4)(A). [Pub. L. 99–660, § 814(b)][/us/pl/99/660/s814/b], substituted “podiatrists, and psychologists” for “and podiatrists”.
+    Par. (4)(A). [Pub. L. 99–660][/us/pl/99/660], § 814(b), substituted “podiatrists, and psychologists” for “and podiatrists”.
 
-    Par. (5). [Pub. L. 99–660, § 814(c)][/us/pl/99/660/s814/c], inserted “psychology,”.
+    Par. (5). [Pub. L. 99–660][/us/pl/99/660], § 814(c), inserted “psychology,”.
 
-    1983—Par. (5)(B). [Pub. L. 97–414][/us/pl/97/414] amended directory language of [Pub. L. 97–35, § 942(i)][/us/pl/97/35/s942/i], to correct a typographical error, and did not involve any change in text. See 1981 Amendment note below.
+    1983—Par. (5)(B). [Pub. L. 97–414][/us/pl/97/414] amended directory language of [Pub. L. 97–35][/us/pl/97/35], § 942(i), to correct a typographical error, and did not involve any change in text. See 1981 Amendment note below.
 
-    1981—Par. (1). [Pub. L. 97–35, § 942(f)][/us/pl/97/35/s942/f], struck out provisions authorizing health maintenance organizations to maintain, etc., drug use profiles of members.
+    1981—Par. (1). [Pub. L. 97–35][/us/pl/97/35], § 942(f), struck out provisions authorizing health maintenance organizations to maintain, etc., drug use profiles of members.
 
-    Par. (2). [Pub. L. 97–35, § 942(g)][/us/pl/97/35/s942/g], substituted provisions to include services not included under par. (1), for provisions enumerating specific services, substituted “health service provided by a physician” for “service of a physician described in the preceding sentence”, and struck out provisions authorizing health maintenance organizations to maintain, etc., drug use profiles of members.
+    Par. (2). [Pub. L. 97–35][/us/pl/97/35], § 942(g), substituted provisions to include services not included under par. (1), for provisions enumerating specific services, substituted “health service provided by a physician” for “service of a physician described in the preceding sentence”, and struck out provisions authorizing health maintenance organizations to maintain, etc., drug use profiles of members.
 
-    Par. (4)(C)(i). [Pub. L. 97–35, § 942(h)][/us/pl/97/35/s942/h], inserted provisions relating to applicability to qualified organizations.
+    Par. (4)(C)(i). [Pub. L. 97–35][/us/pl/97/35], § 942(h), inserted provisions relating to applicability to qualified organizations.
 
-    Par. (5)(B). [Pub. L. 97–35, § 942(i)][/us/pl/97/35/s942/i], as amended by [Pub. L. 97–414, § 9(c)][/us/pl/97/414/s9/c], struck out “(i)” after “feasible”, and struck out cl. (ii) which related to continuing education.
+    Par. (5)(B). [Pub. L. 97–35][/us/pl/97/35], § 942(i), as amended by [Pub. L. 97–414][/us/pl/97/414], § 9(c), struck out “(i)” after “feasible”, and struck out cl. (ii) which related to continuing education.
 
-    Par. (8). [Pub. L. 97–35, § 942(j)][/us/pl/97/35/s942/j], reorganized and restructured provisions and, among many changes, provided for determinations based upon subpars. (B) and (C), and set out determinations respecting differentials contained in former subpars. (B) and (C) as subpar. (D).
+    Par. (8). [Pub. L. 97–35][/us/pl/97/35], § 942(j), reorganized and restructured provisions and, among many changes, provided for determinations based upon subpars. (B) and (C), and set out determinations respecting differentials contained in former subpars. (B) and (C) as subpar. (D).
 
     1978—Par. (1). [Pub. L. 95–559][/us/pl/95/559] inserted provisions to exclude a health service which the Secretary, upon application of a health maintenance organization, determines is unusual and infrequently provided and not necessary for protection of individual health and that the Secretary publish in Federal Register each determination made by him under preceding sentence.
 
-    1976—Par. (1). [Pub. L. 94–460, § 104(a)][/us/pl/94/460/s104/a], substituted reference to immunization, well-child care from birth, periodic health evaluations for adults, and children’s ear examinations conducted to determine need for hearing correction for reference to preventive dental care for children in (H) and, in the provisions following subpar. (H), inserted reference to “other health care personnel”.
+    1976—Par. (1). [Pub. L. 94–460][/us/pl/94/460], § 104(a), substituted reference to immunization, well-child care from birth, periodic health evaluations for adults, and children’s ear examinations conducted to determine need for hearing correction for reference to preventive dental care for children in (H) and, in the provisions following subpar. (H), inserted reference to “other health care personnel”.
 
-    Par. (2). [Pub. L. 94–460, § 104(b)][/us/pl/94/460/s104/b], substituted “basic health service” for “basic health service under paragraph (1)(A) or (1)(H)” in subpars. (B) and (C), added subpar. (G), and inserted reference to “other health care personnel” in provisions following subpar. (G).
+    Par. (2). [Pub. L. 94–460][/us/pl/94/460], § 104(b), substituted “basic health service” for “basic health service under paragraph (1)(A) or (1)(H)” in subpars. (B) and (C), added subpar. (G), and inserted reference to “other health care personnel” in provisions following subpar. (G).
 
     Par. (4)(C). [Pub. L. 94–460][/us/pl/94/460], §§ 102(b)(1), 106, substituted “as their principal professional activity engage in the coordinated practice of their profession and as a group responsibility have substantial responsibility for the delivery of health services to members of a health maintenance organization” for “as their principal professional activity and as a group responsibility engage in the coordinated practice of their profession for a health maintenance organization” in cl. (i), substituted “similar plan unrelated to the provision of specific health services” for “plan” in cl. (ii), struck out former cl. (iv) which covered the utilization of additional professional personnel, allied health professions personnel, and other health personnel as are available and appropriate for the effective and efficient delivery of the services of the members of the group, redesignated former cl. (v) as (iv), and added cl. (v).
 
-    Par. (5)(B). [Pub. L. 94–460, § 102(b)(2)][/us/pl/94/460/s102/b/2], struck out former cl. (i) which covered the utilization of additional professional personnel, allied health professions personnel, and other personnel as are available and appropriate for the effective and efficient delivery of the services of the persons who are parties to the arrangement, and redesignated former cls. (ii) and (iii) as (i) and (ii), respectively.
+    Par. (5)(B). [Pub. L. 94–460][/us/pl/94/460], § 102(b)(2), struck out former cl. (i) which covered the utilization of additional professional personnel, allied health professions personnel, and other personnel as are available and appropriate for the effective and efficient delivery of the services of the persons who are parties to the arrangement, and redesignated former cls. (ii) and (iii) as (i) and (ii), respectively.
 
-    Par. (6). [Pub. L. 94–460, § 117(b)(1)][/us/pl/94/460/s117/b/1], substituted provisions defining “health systems agency” for provisions defining “section 314(a) State health planning agency” and “section 314(b) areawide health planning agency”.
+    Par. (6). [Pub. L. 94–460][/us/pl/94/460], § 117(b)(1), substituted provisions defining “health systems agency” for provisions defining “section 314(a) State health planning agency” and “section 314(b) areawide health planning agency”.
 
-    Par. (7). [Pub. L. 94–460, § 117(b)(2)][/us/pl/94/460/s117/b/2], substituted “State health planning and development agency which” for “section 314(a) State health planning agency whose section 314(a) plan” and “health systems agency designated for a health service area which” for “section 314(b) areawide health planning agency whose section 314(b) plan”.
+    Par. (7). [Pub. L. 94–460][/us/pl/94/460], § 117(b)(2), substituted “State health planning and development agency which” for “section 314(a) State health planning agency whose section 314(a) plan” and “health systems agency designated for a health service area which” for “section 314(b) areawide health planning agency whose section 314(b) plan”.
 
-    Par. (8). [Pub. L. 94–460, § 105(b)][/us/pl/94/460/s105/b], (c), substituted “to reflect differences in marketing costs and the different administrative costs” for “to reflect the different administrative costs” in subpar. (A) preceding cl. (i), added subpar. (B), and redesignated former subpar. (B) as (C).
+    Par. (8). [Pub. L. 94–460][/us/pl/94/460], § 105(b), (c), substituted “to reflect differences in marketing costs and the different administrative costs” for “to reflect the different administrative costs” in subpar. (A) preceding cl. (i), added subpar. (B), and redesignated former subpar. (B) as (C).
 
  __Effective and Termination Dates of 1986 Amendment__ 
 
-    [Pub. L. 99–660, title VIII, § 812(b)(1)][/us/pl/99/660/s812/b/1], Nov. 14, 1986, [100 Stat. 3801][/us/stat/100/3801], which provided that amendment by subsection (a), amending this section, was to take effect on Oct. 1, 1985, and was to cease to be in effect on Apr. 1, 1988, was repealed by [Pub. L. 100–517, § 6(a)][/us/pl/100/517/s6/a], Oct. 24, 1988, [102 Stat. 2579][/us/stat/102/2579].
+    [Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 812(b)(1), Nov. 14, 1986, [100 Stat. 3801][/us/stat/100/3801], which provided that amendment by subsection (a), amending this section, was to take effect on Oct. 1, 1985, and was to cease to be in effect on Apr. 1, 1988, was repealed by [Pub. L. 100–517][/us/pl/100/517], § 6(a), Oct. 24, 1988, [102 Stat. 2579][/us/stat/102/2579].
 
-[Pub. L. 99–660, title VIII, § 815][/us/pl/99/660/s815], Nov. 14, 1986, [100 Stat. 3802][/us/stat/100/3802], provided that:
+[Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 815, Nov. 14, 1986, [100 Stat. 3802][/us/stat/100/3802], provided that:
 
 >     “(a) Except as provided in subsection (b) and section 812(b) \[enacting provisions set out as notes above and below\], this title and the amendments made by this title \[amending this section and sections 300e–4, 300e–5 to 300e–10, 300e–16, and 300e–17 of this title, repealing sections 300e–2, 300e–3, and 300e–4a of this title, and enacting provisions set out as notes under this section and sections 201, 300e, 300e–4, and 300e–5 of this title\] shall take effect on October 1, 1985.
 
@@ -179,84 +179,72 @@
 
  __Construction__ 
 
-[Pub. L. 99–660, title VIII, § 816][/us/pl/99/660/s816], Nov. 14, 1986, [100 Stat. 3802][/us/stat/100/3802], provided that: 
+[Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 816, Nov. 14, 1986, [100 Stat. 3802][/us/stat/100/3802], provided that: 
 
 > “The provisions of this title and of the amendments made by this title \[amending this section and sections 300e–4, 300e–5 to 300e–10, 300e–16, and 300e–17 of this title, repealing sections 300e–2, 300e–3, and 300e–4a of this title, and enacting provisions set out as notes under this section and sections 201, 300e, 300e–4, and 300e–5 of this title\] do not authorize the appropriation of any funds for fiscal year 1986.”
 
  __Basic Health Service Status of Certain Organ Transplant Services After__  __April 1, 1988__ 
 
-    [Pub. L. 99–660, title VIII, § 812(b)(2)][/us/pl/99/660/s812/b/2], Nov. 14, 1986, [100 Stat. 3801][/us/stat/100/3801], which provided that after Apr. 1, 1988, for purposes of this subchapter, no health service directly associated with an organ transplant was to be considered to be a basic health service if such service would otherwise have been added as a basic health service between Apr. 15, 1985, and Apr. 1, 1988, was repealed by [Pub. L. 100–517, § 6(a)][/us/pl/100/517/s6/a], Oct. 24, 1988, [102 Stat. 2579][/us/stat/102/2579].
+    [Pub. L. 99–660, title VIII][/us/pl/99/660/tVIII], § 812(b)(2), Nov. 14, 1986, [100 Stat. 3801][/us/stat/100/3801], which provided that after Apr. 1, 1988, for purposes of this subchapter, no health service directly associated with an organ transplant was to be considered to be a basic health service if such service would otherwise have been added as a basic health service between Apr. 15, 1985, and Apr. 1, 1988, was repealed by [Pub. L. 100–517][/us/pl/100/517], § 6(a), Oct. 24, 1988, [102 Stat. 2579][/us/stat/102/2579].
 
  __Reports Respecting Medically Underserved Areas and Population Groups and Non-Metropolitan Areas__ 
 
-    [Pub. L. 93–222, § 5][/us/pl/93/222/s5], Dec. 29, 1973, [87 Stat. 935][/us/stat/87/935], directed Secretary of Health, Education, and Welfare to report to Congress the criteria used in the designation of medically underserved areas and population groups for purposes of par. (7) of this section by Dec. 29, 1973, and report to Congress the areas and population groups designated under par. (7) of this section, the comments of State and areawide health planning agencies, and areas which meet the definitional standards of par. (9) of this section for non-metropolitan areas by Dec. 29, 1974, and that the Office of Management and Budget may review such reports before their submission to Congress.
-
-§§ 300e–2, 300e–3. __Repealed.__  __[__  __Pub. L. 99–660, title VIII, § 803(a)__  __][/us/pl/99/660/s803/a]__  __,__  __Nov. 14, 1986__  __,__  __[__  __100 Stat. 3799__  __][/us/stat/100/3799]__ 
-
-    Section 300e–2, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1303, as added Dec. 29, 1973, [Pub. L. 93–222, § 2][/us/pl/93/222/s2], [87 Stat. 920][/us/stat/87/920]; amended Oct. 8, 1976, [Pub. L. 94–460, title I][/us/pl/94/460], §§ 107(a), 109(d)(1), 117(b)(3), [90 Stat. 1948][/us/stat/90/1948], 1950, 1955; Aug. 13, 1981, [Pub. L. 97–35, title IX, § 947(a)][/us/pl/97/35/s947/a], [95 Stat. 577][/us/stat/95/577], provided for grants and contracts for feasibility surveys.
-
-    Section 300e–3, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIII, § 1304, as added Dec. 29, 1973, [Pub. L. 93–222, § 2][/us/pl/93/222/s2], [87 Stat. 921][/us/stat/87/921]; amended Apr. 21, 1976, [Pub. L. 94–273, § 40][/us/pl/94/273/s40], [90 Stat. 381][/us/stat/90/381]; Oct. 8, 1976, [Pub. L. 94–460, title I][/us/pl/94/460], §§ 107(b), 108(a), (b), (d)(1), 109(d)(2), (3), (e), 113(a), 117(b)(4), [90 Stat. 1948–1950][/us/stat/90/1948-1950], 1953, 1955; Nov. 1, 1978, [Pub. L. 95–559][/us/pl/95/559], §§ 2(a), 3(a)–(c), 6, [92 Stat. 2131][/us/stat/92/2131], 2134; July 10, 1979, [Pub. L. 96–32, § 2(a)][/us/pl/96/32/s2/a], [93 Stat. 82][/us/stat/93/82]; Aug. 13, 1981, [Pub. L. 97–35, title IX][/us/pl/97/35], §§ 941(c), 947(b), [95 Stat. 573][/us/stat/95/573], 577, provided for grants, contracts, and loan guarantees for planning and for initial development costs.
-
- __Effective Date of Repeal__ 
-
-    Repeal not applicable to any grant made or contract entered into under this subchapter before Oct. 1, 1985, see [section 803(c) of Pub. L. 99–660][/us/pl/99/660/s803/c], set out as an Effective Date of 1986 Amendment note under [section 300e–5 of this title][/us/usc/t42/s300e–5].
-
-    Repeal effective Oct. 1, 1985, see [section 815(a) of Pub. L. 99–660][/us/pl/99/660/s815/a], set out as an Effective and Termination Dates of 1986 Amendment note under [section 300e–1 of this title][/us/usc/t42/s300e–1].
+    [Pub. L. 93–222][/us/pl/93/222], § 5, Dec. 29, 1973, [87 Stat. 935][/us/stat/87/935], directed Secretary of Health, Education, and Welfare to report to Congress the criteria used in the designation of medically underserved areas and population groups for purposes of par. (7) of this section by Dec. 29, 1973, and report to Congress the areas and population groups designated under par. (7) of this section, the comments of State and areawide health planning agencies, and areas which meet the definitional standards of par. (9) of this section for non-metropolitan areas by Dec. 29, 1974, and that the Office of Management and Budget may review such reports before their submission to Congress.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e.md) | [Next](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931)
+[Previous](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e.md) | [Next](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–2 _us_usc_t42_s300e–3.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931)
 
 ----------
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F917
-[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2FtI
 [/us/stat/90/1946-1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1946-1948
-[/us/pl/95/559/s11/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559%2Fs11%2Fe
+[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
 [/us/stat/92/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2139
-[/us/pl/97/35/s942/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs942%2Ff
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F574
-[/us/pl/97/414/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fc
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2064
-[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3801
-[/us/pl/100/517/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs6%2Fb
+[/us/pl/100/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517
 [/us/stat/102/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2579
 [/us/usc/t42/s300e–9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fd
 [/us/usc/t42/s300e–9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%939%2Fc
-[/us/pl/100/517/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs7%2Fb
+[/us/pl/100/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517
 [/us/stat/102/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2580
-[/us/pl/100/517/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs6%2Fb%2F1
-[/us/pl/100/517/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs6%2Fb%2F2
-[/us/pl/99/660/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs814%2Fa
-[/us/pl/99/660/s812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs812%2Fa
-[/us/pl/99/660/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs814%2Fa
-[/us/pl/99/660/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs814%2Fb
-[/us/pl/99/660/s814/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs814%2Fc
+[/us/pl/100/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517
+[/us/pl/100/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
+[/us/pl/99/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
-[/us/pl/97/35/s942/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs942%2Fi
-[/us/pl/97/35/s942/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs942%2Ff
-[/us/pl/97/35/s942/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs942%2Fg
-[/us/pl/97/35/s942/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs942%2Fh
-[/us/pl/97/35/s942/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs942%2Fi
-[/us/pl/97/414/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fc
-[/us/pl/97/35/s942/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs942%2Fj
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
-[/us/pl/94/460/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs104%2Fa
-[/us/pl/94/460/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs104%2Fb
 [/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
-[/us/pl/94/460/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs102%2Fb%2F2
-[/us/pl/94/460/s117/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs117%2Fb%2F1
-[/us/pl/94/460/s117/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs117%2Fb%2F2
-[/us/pl/94/460/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs105%2Fb
-[/us/pl/99/660/s812/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs812%2Fb%2F1
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3801
-[/us/pl/100/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs6%2Fa
+[/us/pl/100/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517
 [/us/stat/102/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2579
-[/us/pl/99/660/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs815
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3802
 [/us/usc/t42/s300e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e
 [/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
@@ -266,39 +254,13 @@
 [/us/usc/t42/s300e–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%9311
 [/us/pl/94/460/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460%2Fs118
 [/us/usc/t42/s300e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e
-[/us/pl/99/660/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs816
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3802
-[/us/pl/99/660/s812/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs812%2Fb%2F2
+[/us/pl/99/660/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVIII
 [/us/stat/100/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3801
-[/us/pl/100/517/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517%2Fs6%2Fa
+[/us/pl/100/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F517
 [/us/stat/102/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2579
-[/us/pl/93/222/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs5
+[/us/pl/93/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222
 [/us/stat/87/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F935
-[/us/pl/99/660/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fa
-[/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
-[/us/stat/87/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F920
-[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
-[/us/stat/90/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1948
-[/us/pl/97/35/s947/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs947%2Fa
-[/us/stat/95/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F577
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F222%2Fs2
-[/us/stat/87/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F921
-[/us/pl/94/273/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs40
-[/us/stat/90/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F381
-[/us/pl/94/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F460
-[/us/stat/90/1948-1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1948-1950
-[/us/pl/95/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F559
-[/us/stat/92/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2131
-[/us/pl/96/32/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F32%2Fs2%2Fa
-[/us/stat/93/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F82
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/stat/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F573
-[/us/pl/99/660/s803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs803%2Fc
-[/us/usc/t42/s300e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%935
-[/us/pl/99/660/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs815%2Fa
-[/us/usc/t42/s300e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%931
 
 

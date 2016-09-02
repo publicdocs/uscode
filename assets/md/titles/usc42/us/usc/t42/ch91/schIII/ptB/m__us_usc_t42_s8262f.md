@@ -31,13 +31,13 @@
 
         Each Inspector General established under section 2 of the Inspector General Act of 1978 (5 U.S.C. App.) is encouraged to conduct periodic reviews of agency compliance with part 3 of title V of the National Energy Conservation Policy Act \[[42 U.S.C. 8251][/us/usc/t42/s8251] et seq.\], the provisions of this subtitle, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and other laws relating to energy consumption. Such reviews shall not be inconsistent with the performance of the required duties of the Inspector General’s office.
 
-([Pub. L. 102–486, title I, § 160][/us/pl/102/486/s160], Oct. 24, 1992, [106 Stat. 2858][/us/stat/106/2858].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 160, Oct. 24, 1992, [106 Stat. 2858][/us/stat/106/2858].)
 
  __References in Text__ 
 
     Sections 2 and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (c), are sections 2 and 11(2) of [Pub. L. 95–452][/us/pl/95/452], which are set out in the Appendix to Title 5, Government Organization and Employees.
 
-    Section 8E as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988, referred to in subsec. (a), probably means section 8E of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], as added by [Pub. L. 100–504, title I, § 104(a)][/us/pl/100/504/s104/a], Oct. 18, 1988, [102 Stat. 2522][/us/stat/102/2522]. Section 8E of the Inspector General Act of 1978 was successively renumbered section 8F by [Pub. L. 103–82, title II, § 202(g)(1)][/us/pl/103/82/s202/g/1], Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], then section 8G by [Pub. L. 103–204, § 23(a)(3)][/us/pl/103/204/s23/a/3], Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408], and is set out in the Appendix to Title 5.
+    Section 8E as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988, referred to in subsec. (a), probably means section 8E of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], as added by [Pub. L. 100–504, title I][/us/pl/100/504/tI], § 104(a), Oct. 18, 1988, [102 Stat. 2522][/us/stat/102/2522]. Section 8E of the Inspector General Act of 1978 was successively renumbered section 8F by [Pub. L. 103–82, title II][/us/pl/103/82/tII], § 202(g)(1), Sept. 21, 1993, [107 Stat. 889][/us/stat/107/889], then section 8G by [Pub. L. 103–204][/us/pl/103/204], § 23(a)(3), Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408], and is set out in the Appendix to Title 5.
 
     The National Energy Conservation Policy Act, referred to in subsecs. (a)(1) and (c), is [Pub. L. 95–619][/us/pl/95/619], Nov. 9, 1978, [92 Stat. 3206][/us/stat/92/3206], as amended. Part 3 of title V of the Act is classified generally to part B (§ 8251 et seq.) of subchapter III of chapter 91 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title][/us/usc/t42/s8201] and Tables.
 
@@ -67,15 +67,15 @@
 [/us/pl/100/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504
 [/us/usc/t42/s8253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8253
 [/us/usc/t42/s8251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8251
-[/us/pl/102/486/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs160
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2858
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/100/504/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2Fs104%2Fa
+[/us/pl/100/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F504%2FtI
 [/us/stat/102/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2522
-[/us/pl/103/82/s202/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs202%2Fg%2F1
+[/us/pl/103/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtII
 [/us/stat/107/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F889
-[/us/pl/103/204/s23/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs23%2Fa%2F3
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2408
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/stat/92/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3206

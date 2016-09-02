@@ -51,11 +51,11 @@
 
         The purpose of this chapter is to promote the interests of social service program beneficiaries and taxpayers and to sustain the availability of programs, nonprofit organizations, and governmental entities that depend on volunteer contributions by reforming the laws to provide certain protections from liability abuses related to volunteers serving nonprofit organizations and governmental entities.
 
-([Pub. L. 105–19, § 2][/us/pl/105/19/s2], June 18, 1997, [111 Stat. 218][/us/stat/111/218].)
+([Pub. L. 105–19][/us/pl/105/19], § 2, June 18, 1997, [111 Stat. 218][/us/stat/111/218].)
 
  __Effective Date__ 
 
-[Pub. L. 105–19, § 7][/us/pl/105/19/s7], June 18, 1997, [111 Stat. 223][/us/stat/111/223], provided that:
+[Pub. L. 105–19][/us/pl/105/19], § 7, June 18, 1997, [111 Stat. 223][/us/stat/111/223], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -67,7 +67,7 @@
 
  __Short Title__ 
 
-[Pub. L. 105–19, § 1][/us/pl/105/19/s1], June 18, 1997, [111 Stat. 218][/us/stat/111/218], provided that: 
+[Pub. L. 105–19][/us/pl/105/19], § 1, June 18, 1997, [111 Stat. 218][/us/stat/111/218], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Volunteer Protection Act of 1997’.”
 
@@ -78,11 +78,11 @@
 ----------
 ----------
 
-[/us/pl/105/19/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19%2Fs2
+[/us/pl/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19
 [/us/stat/111/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F218
-[/us/pl/105/19/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19%2Fs7
+[/us/pl/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19
 [/us/stat/111/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F223
-[/us/pl/105/19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19%2Fs1
+[/us/pl/105/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F19
 [/us/stat/111/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F218
 
 

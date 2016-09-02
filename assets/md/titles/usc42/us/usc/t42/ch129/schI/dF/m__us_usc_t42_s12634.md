@@ -35,7 +35,7 @@
 
         A program may not receive assistance under the national service laws for the sole purpose of referring individuals to Federal assistance programs or State assistance programs funded in part by the Federal Government.
 
-([Pub. L. 101–610, title I, § 174][/us/pl/101/610/s174], Nov. 16, 1990, [104 Stat. 3160][/us/stat/104/3160]; [Pub. L. 111–13, title I, § 1603][/us/pl/111/13/s1603], Apr. 21, 2009, [123 Stat. 1529][/us/stat/123/1529].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 174, Nov. 16, 1990, [104 Stat. 3160][/us/stat/104/3160]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1603, Apr. 21, 2009, [123 Stat. 1529][/us/stat/123/1529].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/101/610/s174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs174
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3160
-[/us/pl/111/13/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1603
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1529
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13

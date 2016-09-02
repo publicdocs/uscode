@@ -17,7 +17,7 @@
 
     The Director of the Institute, acting through the head of the Division of AIDS, shall, consistent with the peer-review process of the National Institutes of Health, carry out research on, and development of, safe and effective methods for use by women to prevent the transmission of the human immunodeficiency virus, which may include microbicides.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 447C, as added [Pub. L. 110–293, title II, § 203(c)][/us/pl/110/293/s203/c], July 30, 2008, [122 Stat. 2941][/us/stat/122/2941].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 447C, as added [Pub. L. 110–293, title II][/us/pl/110/293/tII], § 203(c), July 30, 2008, [122 Stat. 2941][/us/stat/122/2941].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/110/293/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs203%2Fc
+[/us/pl/110/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtII
 [/us/stat/122/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2941
 
 

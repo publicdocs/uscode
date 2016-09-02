@@ -61,23 +61,23 @@
 
         In this section the term “restorative justice program” means a program that emphasizes the moral accountability of an offender toward the victim and the affected community and may include community reparations boards, restitution (in the form of monetary payment or service to the victim or, where no victim can be identified, service to the affected community), and mediation between victim and offender.
 
-([Pub. L. 90–351, title I, § 1801][/us/pl/90/351/s1801], as added [Pub. L. 107–273, div. C, title II, § 12102(a)][/us/pl/107/273/s12102/a], Nov. 2, 2002, [116 Stat. 1859][/us/stat/116/1859]; amended [Pub. L. 109–162, title XI][/us/pl/109/162], §§ 1165, 1186, Jan. 5, 2006, [119 Stat. 3121][/us/stat/119/3121], 3127.)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1801, as added [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12102(a), Nov. 2, 2002, [116 Stat. 1859][/us/stat/116/1859]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], §§ 1165, 1186, Jan. 5, 2006, [119 Stat. 3121][/us/stat/119/3121], 3127.)
 
  __Prior Provisions__ 
 
-    A prior section 3796ee, [Pub. L. 90–351, title I, § 1801][/us/pl/90/351/s1801], as added [Pub. L. 103–322, title II, § 20201(a)(3)][/us/pl/103/322/s20201/a/3], Sept. 13, 1994, [108 Stat. 1819][/us/stat/108/1819]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(34), (f)(26)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–426, 2681–433, authorized grants for the purpose of developing alternative methods of punishment for young offenders, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
+    A prior section 3796ee, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1801, as added [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20201(a)(3), Sept. 13, 1994, [108 Stat. 1819][/us/stat/108/1819]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(34), (f)(26)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–426, 2681–433, authorized grants for the purpose of developing alternative methods of punishment for young offenders, prior to the general amendment of this subchapter by [Pub. L. 107–273][/us/pl/107/273].
 
     A prior [section 1801 of Pub. L. 90–351][/us/pl/90/351/s1801] was renumbered section 2601 and is classified to [section 3797 of this title][/us/usc/t42/s3797].
 
  __Amendments__ 
 
-    2006—Subsec. (b)(13). [Pub. L. 109–162, § 1186][/us/pl/109/162/s1186], amended par. (13) generally. Prior to amendment, par. (13) read as follows: “establishing and maintaining accountability-based programs that are designed to enhance school safety;”.
+    2006—Subsec. (b)(13). [Pub. L. 109–162][/us/pl/109/162], § 1186, amended par. (13) generally. Prior to amendment, par. (13) read as follows: “establishing and maintaining accountability-based programs that are designed to enhance school safety;”.
 
-    Subsec. (b)(17). [Pub. L. 109–162, § 1165][/us/pl/109/162/s1165], added par. (17).
+    Subsec. (b)(17). [Pub. L. 109–162][/us/pl/109/162], § 1165, added par. (17).
 
  __Effective Date__ 
 
-[Pub. L. 107–273, div. C, title II, § 12102(b)][/us/pl/107/273/s12102/b], Nov. 2, 2002, [116 Stat. 1869][/us/stat/116/1869], provided that: 
+[Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12102(b), Nov. 2, 2002, [116 Stat. 1869][/us/stat/116/1869], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this subchapter\] shall take effect on the first day of the first fiscal year that begins after the date of enactment of this Act \[Nov. 2, 2002\].”
 
@@ -88,22 +88,22 @@
 ----------
 ----------
 
-[/us/pl/90/351/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1801
-[/us/pl/107/273/s12102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12102%2Fa
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1859
-[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3121
-[/us/pl/90/351/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1801
-[/us/pl/103/322/s20201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20201%2Fa%2F3
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1819
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/90/351/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1801
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
-[/us/pl/109/162/s1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1186
-[/us/pl/109/162/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1165
-[/us/pl/107/273/s12102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12102%2Fb
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1869
 
 

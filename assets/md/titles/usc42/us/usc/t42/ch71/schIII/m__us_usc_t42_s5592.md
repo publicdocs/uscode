@@ -23,7 +23,7 @@
 
     (3) Encouragement should be given in the conduct of programs under this subchapter to those projects in which funds are appropriated by any State or political subdivision thereof for the purpose of sharing costs with the Federal Government for the purchase and installation of photovoltaic components and systems.
 
-([Pub. L. 95–590, § 13][/us/pl/95/590/s13], Nov. 4, 1978, [92 Stat. 2521][/us/stat/92/2521].)
+([Pub. L. 95–590][/us/pl/95/590], § 13, Nov. 4, 1978, [92 Stat. 2521][/us/stat/92/2521].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/590/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs13
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2521
 
 

@@ -17,7 +17,7 @@
 
     It is critical that NASA maintain an Agency space technology base that helps align mission directorate investments and supports long term needs to complement mission-directorate funded research and support, where appropriate, multiple users, building upon its Innovative Partnerships Program and other partnering approaches.
 
-([Pub. L. 111–267, title IX, § 904][/us/pl/111/267/s904], Oct. 11, 2010, [124 Stat. 2836][/us/stat/124/2836].)
+([Pub. L. 111–267, title IX][/us/pl/111/267/tIX], § 904, Oct. 11, 2010, [124 Stat. 2836][/us/stat/124/2836].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs904
+[/us/pl/111/267/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtIX
 [/us/stat/124/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2836
 
 

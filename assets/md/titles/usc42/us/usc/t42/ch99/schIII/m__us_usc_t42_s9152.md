@@ -49,7 +49,7 @@
 
         Any ocean thermal energy conversion facility or plantship licensed pursuant to this chapter and any other vessel documented or numbered under the laws of the United States, except a public vessel engaged in noncommercial activities, used in any violation of this chapter or of any rule, regulation, order, license, or term or condition thereof, or other requirements of this chapter, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof, whenever it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
 
-([Pub. L. 96–320, title III, § 302][/us/pl/96/320/s302], Aug. 3, 1980, [94 Stat. 995][/us/stat/94/995]; [Pub. L. 98–623, title VI, § 602(e)(5)][/us/pl/98/623/s602/e/5], Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
+([Pub. L. 96–320, title III][/us/pl/96/320/tIII], § 302, Aug. 3, 1980, [94 Stat. 995][/us/stat/94/995]; [Pub. L. 98–623, title VI][/us/pl/98/623/tVI], § 602(e)(5), Nov. 8, 1984, [98 Stat. 3412][/us/stat/98/3412].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 [/us/usc/t42/s9113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9113
 [/us/usc/t42/s9151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9151
 [/us/usc/t42/s9151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9151
-[/us/pl/96/320/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs302
+[/us/pl/96/320/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtIII
 [/us/stat/94/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F995
-[/us/pl/98/623/s602/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs602%2Fe%2F5
+[/us/pl/98/623/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtVI
 [/us/stat/98/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3412
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

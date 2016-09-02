@@ -23,7 +23,7 @@
 
     (3) the value of any property conveyed or transferred to the Secretary, whether as a tax on the instrument, the privilege of conveying or transferring, or the recordation thereof; nor shall the failure to pay or collect any such tax be a ground for refusal to record or file such instruments, or for failure to impart notice, or prevent the enforcement of its provisions in any State or Federal court.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 528, as added [Pub. L. 95–128, title V, § 512(a)][/us/pl/95/128/s512/a], Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142]; amended [Pub. L. 98–479, title II, § 204(c)(3)][/us/pl/98/479/s204/c/3], Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 528, as added [Pub. L. 95–128, title V][/us/pl/95/128/tV], § 512(a), Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142]; amended [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 204(c)(3), Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233].)
 
  __Amendments__ 
 
@@ -31,13 +31,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–128, title V, § 512(c)][/us/pl/95/128/s512/c], Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142], provided that: 
+[Pub. L. 95–128, title V][/us/pl/95/128/tV], § 512(c), Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall become effective as of January 1, 1977.”
 
  __Refund of Tax Payments Prior to__  __October 12, 1977__  __, Barred; Federal Officers or Employees Not Liable for Such Payments__ 
 
-[Pub. L. 95–128, title V, § 512(b)][/us/pl/95/128/s512/b], Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142], provided that: 
+[Pub. L. 95–128, title V][/us/pl/95/128/tV], § 512(b), Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142], provided that: 
 
 > “Notwithstanding any other provision of law, no State, Commonwealth, territory, possession, district, or local political subdivision which has received, prior to the date of enactment of this Act \[Oct. 12, 1977\], tax payments from the Department of Agriculture based on property held by the Farmers Home Administration shall be liable for, or be obligated to refund, the amount of any such payment, which, if it had been made after the date of enactment of this Act, would have been authorized by the provisions of section 528 of the Housing Act of 1949 \[this section\], and no officer or employee of the United States shall incur or be under any liability by reason of having made or authorized any such payments.”
 
@@ -49,14 +49,14 @@
 ----------
 
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
-[/us/pl/95/128/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs512%2Fa
+[/us/pl/95/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtV
 [/us/stat/91/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1142
-[/us/pl/98/479/s204/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs204%2Fc%2F3
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2233
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/95/128/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs512%2Fc
+[/us/pl/95/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtV
 [/us/stat/91/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1142
-[/us/pl/95/128/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs512%2Fb
+[/us/pl/95/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtV
 [/us/stat/91/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1142
 
 

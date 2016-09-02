@@ -31,7 +31,7 @@
 
         The Commission may use the United States mails in the same manner and under the same conditions as other Federal agencies.
 
-([Pub. L. 103–322, title XXVII, § 270007][/us/pl/103/322/s270007], Sept. 13, 1994, [108 Stat. 2095][/us/stat/108/2095].)
+([Pub. L. 103–322, title XXVII][/us/pl/103/322/tXXVII], § 270007, Sept. 13, 1994, [108 Stat. 2095][/us/stat/108/2095].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s270007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs270007
+[/us/pl/103/322/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVII
 [/us/stat/108/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2095
 
 

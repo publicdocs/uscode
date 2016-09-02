@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–43, title I, § 141(a)(2)][/us/pl/103/43/s141/a/2], June 10, 1993, [107 Stat. 136][/us/stat/107/136], redesignated part G “General Provisions” as H. Former part H “National Foundation for Biomedical Research” redesignated I.
+    1993—[Pub. L. 103–43, title I][/us/pl/103/43/tI], § 141(a)(2), June 10, 1993, [107 Stat. 136][/us/stat/107/136], redesignated part G “General Provisions” as H. Former part H “National Foundation for Biomedical Research” redesignated I.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/43/s141/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs141%2Fa%2F2
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F136
 
 

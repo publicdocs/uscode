@@ -31,7 +31,7 @@
 
     (7) The term “treatment services”, subject to [section 300x–31 of this title][/us/usc/t42/s300x–31], means treatment for substance abuse.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1934, as added [Pub. L. 102–321, title II, § 202][/us/pl/102/321/s202], July 10, 1992, [106 Stat. 402][/us/stat/106/402].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIX, § 1934, as added [Pub. L. 102–321, title II][/us/pl/102/321/tII], § 202, July 10, 1992, [106 Stat. 402][/us/stat/106/402].)
 
  __Prior Provisions__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t42/s300x–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9331
 [/us/usc/t42/s300x–31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%9331
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/321/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs202
+[/us/pl/102/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2FtII
 [/us/stat/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F402
 [/us/usc/t42/s300y–24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300y%E2%80%9324
 

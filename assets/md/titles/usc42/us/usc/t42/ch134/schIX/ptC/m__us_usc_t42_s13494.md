@@ -41,7 +41,7 @@
 
         Any technology selected by the Secretary for recommendation for prototype demonstration under this section shall to the maximum extent possible exhibit the characteristics set forth in [section 13493(a) of this title][/us/usc/t42/s13493/a].
 
-([Pub. L. 102–486, title XXI, § 2124][/us/pl/102/486/s2124], Oct. 24, 1992, [106 Stat. 3084][/us/stat/106/3084].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2124, Oct. 24, 1992, [106 Stat. 3084][/us/stat/106/3084].)
 
 ----------
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t42/s13493/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13493%2Fa
 [/us/usc/t42/s13493/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13493%2Fa
-[/us/pl/102/486/s2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2124
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3084
 
 

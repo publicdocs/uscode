@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7261c.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7263.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7262)
 
-## § 7262. Repealed. [Pub. L. 104–206, title V, § 502][/us/pl/104/206/s502], Sept. 30, 1996, [110 Stat. 3002][/us/stat/110/3002]
+## § 7262. Repealed. [Pub. L. 104–206, title V][/us/pl/104/206/tV], § 502, Sept. 30, 1996, [110 Stat. 3002][/us/stat/110/3002]
 
-    Section, [Pub. L. 95–91, title VI, § 652][/us/pl/95/91/s652], Aug. 4, 1977, [91 Stat. 601][/us/stat/91/601], authorized Secretary to accept gifts, bequests, and devises of property for purpose of aiding or facilitating work of Department.
+    Section, [Pub. L. 95–91, title VI][/us/pl/95/91/tVI], § 652, Aug. 4, 1977, [91 Stat. 601][/us/stat/91/601], authorized Secretary to accept gifts, bequests, and devises of property for purpose of aiding or facilitating work of Department.
 
  __Codification__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/104/206/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2Fs502
+[/us/pl/104/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2FtV
 [/us/stat/110/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3002
-[/us/pl/95/91/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs652
+[/us/pl/95/91/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVI
 [/us/stat/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F601
 [/us/pl/104/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206
 [/us/usc/t42/s7262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7262

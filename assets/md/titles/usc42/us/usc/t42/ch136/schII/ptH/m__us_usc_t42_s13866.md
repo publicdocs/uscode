@@ -23,7 +23,7 @@
 
         The Attorney General shall submit to the Congress a report by October 1 of each year in which grants are made available under this part which shall contain a detailed statement regarding grant awards, activities of grant recipients, a compilation of statistical information submitted by applicants, and an evaluation of programs established under this part.
 
-([Pub. L. 103–322, title III, § 31706][/us/pl/103/322/s31706], Sept. 13, 1994, [108 Stat. 1892][/us/stat/108/1892].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31706, Sept. 13, 1994, [108 Stat. 1892][/us/stat/108/1892].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s13863/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13863%2Fc
-[/us/pl/103/322/s31706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31706
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1892
 
 

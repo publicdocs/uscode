@@ -37,7 +37,7 @@
 
         (3) encourage States and local governments to adopt and enforce such standards through their existing building codes and other construction control mechanisms, or to apply them through a special approval process.
 
-([Pub. L. 94–385, title III, § 302][/us/pl/94/385/s302], Aug. 14, 1976, [90 Stat. 1144][/us/stat/90/1144]; [Pub. L. 97–35, title X, § 1041(a)][/us/pl/97/35/s1041/a], Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621].)
+([Pub. L. 94–385, title III][/us/pl/94/385/tIII], § 302, Aug. 14, 1976, [90 Stat. 1144][/us/stat/90/1144]; [Pub. L. 97–35, title X][/us/pl/97/35/tX], § 1041(a), Aug. 13, 1981, [95 Stat. 621][/us/stat/95/621].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/94/385/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs302
+[/us/pl/94/385/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIII
 [/us/stat/90/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1144
-[/us/pl/97/35/s1041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1041%2Fa
+[/us/pl/97/35/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtX
 [/us/stat/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F621
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

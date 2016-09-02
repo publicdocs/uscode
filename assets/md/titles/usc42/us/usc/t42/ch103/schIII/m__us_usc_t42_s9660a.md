@@ -27,7 +27,7 @@
 
         Grants shall be awarded to nonprofit organizations which demonstrate experience in implementing and operating worker health and safety training and education programs and demonstrate the ability to reach and involve in training programs target populations of workers who are or will be engaged in hazardous waste removal or containment or emergency response operations.
 
-([Pub. L. 99–499, title I, § 126(g)][/us/pl/99/499/s126/g], Oct. 17, 1986, [100 Stat. 1692][/us/stat/100/1692].)
+([Pub. L. 99–499, title I][/us/pl/99/499/tI], § 126(g), Oct. 17, 1986, [100 Stat. 1692][/us/stat/100/1692].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/99/499/s126/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs126%2Fg
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1692
 
 

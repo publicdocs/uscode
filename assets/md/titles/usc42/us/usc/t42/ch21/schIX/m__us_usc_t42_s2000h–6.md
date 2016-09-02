@@ -17,7 +17,7 @@
 
     If any provision of this Act or the application thereof to any person or circumstances is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby.
 
-([Pub. L. 88–352, title XI, § 1106][/us/pl/88/352/s1106], July 2, 1964, [78 Stat. 268][/us/stat/78/268].)
+([Pub. L. 88–352, title XI][/us/pl/88/352/tXI], § 1106, July 2, 1964, [78 Stat. 268][/us/stat/78/268].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs1106
+[/us/pl/88/352/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtXI
 [/us/stat/78/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F268
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

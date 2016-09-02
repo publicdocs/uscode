@@ -41,7 +41,7 @@
 
         For all programs in this section, the Administrator shall place special emphasis on providing opportunities for education and training of women and minority groups.
 
-([Pub. L. 95–477, § 6][/us/pl/95/477/s6], Oct. 18, 1978, [92 Stat. 1510][/us/stat/92/1510].)
+([Pub. L. 95–477][/us/pl/95/477], § 6, Oct. 18, 1978, [92 Stat. 1510][/us/stat/92/1510].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Contracts by Office of Research and Development of the Environmental Protection Agency__ 
 
-[Pub. L. 108–7, div. K, title III][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 509][/us/stat/117/509], provided in part: 
+[Pub. L. 108–7, div. K, title III][/us/pl/108/7/dK/tIII], Feb. 20, 2003, [117 Stat. 509][/us/stat/117/509], provided in part: 
 
 > “That the Office of Research and Development of the Environmental Protection Agency may hereafter contract directly with individuals or indirectly with institutions or nonprofit organizations, without regard to [41 U.S.C. 5][/us/usc/t41/s5] \[see [41 U.S.C. 6101][/us/usc/t41/s6101]\], for the temporary or intermittent personal services of students or recent graduates, who shall be considered employees for the purposes of chapters 57 and 81 of title 5, United States Code, relating to compensation for travel and work injuries, and chapter 171 of title 28, United States Code, relating to tort claims, but shall not be considered to be Federal employees for any other purposes.”
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/95/477/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477%2Fs6
+[/us/pl/95/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F477
 [/us/stat/92/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1510
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dK/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtIII
 [/us/stat/117/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F509
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101

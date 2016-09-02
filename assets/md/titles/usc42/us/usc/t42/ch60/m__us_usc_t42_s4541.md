@@ -49,7 +49,7 @@
 
         (5) increased Federal commitment to research into the behavioral and biomedical etiology of, the treatment of, and the mental and physical health and social and economic consequences of, alcohol abuse and alcoholism.
 
-([Pub. L. 91–616, § 2][/us/pl/91/616/s2], as added [Pub. L. 93–282, title I, § 102(a)][/us/pl/93/282/s102/a], May 14, 1974, [88 Stat. 126][/us/stat/88/126]; amended [Pub. L. 94–371, § 2][/us/pl/94/371/s2], July 26, 1976, [90 Stat. 1035][/us/stat/90/1035]; [Pub. L. 95–622, title II, § 268(a)][/us/pl/95/622/s268/a], Nov. 9, 1978, [92 Stat. 3437][/us/stat/92/3437]; [Pub. L. 96–180, § 2][/us/pl/96/180/s2], Jan. 2, 1980, [93 Stat. 1301][/us/stat/93/1301].)
+([Pub. L. 91–616][/us/pl/91/616], § 2, as added [Pub. L. 93–282, title I][/us/pl/93/282/tI], § 102(a), May 14, 1974, [88 Stat. 126][/us/stat/88/126]; amended [Pub. L. 94–371][/us/pl/94/371], § 2, July 26, 1976, [90 Stat. 1035][/us/stat/90/1035]; [Pub. L. 95–622, title II][/us/pl/95/622/tII], § 268(a), Nov. 9, 1978, [92 Stat. 3437][/us/stat/92/3437]; [Pub. L. 96–180][/us/pl/96/180], § 2, Jan. 2, 1980, [93 Stat. 1301][/us/stat/93/1301].)
 
  __References in Text__ 
 
@@ -57,19 +57,19 @@
 
  __Amendments__ 
 
-    1980—Subsec. (a)(2). [Pub. L. 96–180, § 2(a)][/us/pl/96/180/s2/a], substituted current findings of number of alcoholics or problem drinkers in the country (approximately ten million or 7 percent of the adults) for 1974 findings of number of alcohol abusers and alcoholics of estimated number of ninety-five million drinkers in the Nation (minimum of nine million or 7 per centum of the adults).
+    1980—Subsec. (a)(2). [Pub. L. 96–180][/us/pl/96/180], § 2(a), substituted current findings of number of alcoholics or problem drinkers in the country (approximately ten million or 7 percent of the adults) for 1974 findings of number of alcohol abusers and alcoholics of estimated number of ninety-five million drinkers in the Nation (minimum of nine million or 7 per centum of the adults).
 
-    Subsec. (a)(3). [Pub. L. 96–180, § 2(a)][/us/pl/96/180/s2/a], substituted current findings respecting annual cost of over $43,000,000,000 to the United States for alcoholism and other related problems in lost production, motor vehicle and other accidents, and other items, for 1974 findings respecting minimum annual problem drinking costs of $15,000,000 to the national economy in lost working time and identical other items.
+    Subsec. (a)(3). [Pub. L. 96–180][/us/pl/96/180], § 2(a), substituted current findings respecting annual cost of over $43,000,000,000 to the United States for alcoholism and other related problems in lost production, motor vehicle and other accidents, and other items, for 1974 findings respecting minimum annual problem drinking costs of $15,000,000 to the national economy in lost working time and identical other items.
 
-    Subsec. (a)(6). [Pub. L. 96–180, § 2(b)(1)][/us/pl/96/180/s2/b/1], inserted congressional finding respecting contribution of alcohol abuse and alcoholism to domestic violence.
+    Subsec. (a)(6). [Pub. L. 96–180][/us/pl/96/180], § 2(b)(1), inserted congressional finding respecting contribution of alcohol abuse and alcoholism to domestic violence.
 
-    Subsec. (a)(7). [Pub. L. 96–180, § 2(b)(3)][/us/pl/96/180/s2/b/3], added par. (7). Former par. (7) redesignated (8).
+    Subsec. (a)(7). [Pub. L. 96–180][/us/pl/96/180], § 2(b)(3), added par. (7). Former par. (7) redesignated (8).
 
-    Subsec. (a)(8). [Pub. L. 96–180, § 2(b)(2)][/us/pl/96/180/s2/b/2], redesignated former par. (7) as (8) and enlisted cooperation of employers, employee associations, and associations of concerned individuals in treatment and rehabilitation of alcoholics.
+    Subsec. (a)(8). [Pub. L. 96–180][/us/pl/96/180], § 2(b)(2), redesignated former par. (7) as (8) and enlisted cooperation of employers, employee associations, and associations of concerned individuals in treatment and rehabilitation of alcoholics.
 
-    Subsec. (b)(2). [Pub. L. 96–180, § 2(c)(1)][/us/pl/96/180/s2/c/1], struck out “and” at end.
+    Subsec. (b)(2). [Pub. L. 96–180][/us/pl/96/180], § 2(c)(1), struck out “and” at end.
 
-    Subsec. (b)(3) to (5). [Pub. L. 96–180, § 2(c)(3)][/us/pl/96/180/s2/c/3], added pars. (3) and (4) and redesignated former par. (3) as (5).
+    Subsec. (b)(3) to (5). [Pub. L. 96–180][/us/pl/96/180], § 2(c)(3), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
     1978—Subsec. (a)(6), (7). [Pub. L. 95–622][/us/pl/95/622] added par. (6) and redesignated former par. (6) as (7).
 
@@ -77,31 +77,31 @@
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–180, § 1(a)][/us/pl/96/180/s1/a], Jan. 2, 1980, [93 Stat. 1301][/us/stat/93/1301], provided that: 
+[Pub. L. 96–180][/us/pl/96/180], § 1(a), Jan. 2, 1980, [93 Stat. 1301][/us/stat/93/1301], provided that: 
 
 > “This Act \[enacting section 4594, amending this section and sections 4551 to 4553, 4561, 4571 to 4573, 4576 to 4578, 4585, 4587, and 4588 of this title, and enacting provisions set out as notes under this section and [section 4552 of this title][/us/usc/t42/s4552]\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1979’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–371, § 1][/us/pl/94/371/s1], July 26, 1976, [90 Stat. 1035][/us/stat/90/1035], provided: 
+[Pub. L. 94–371][/us/pl/94/371], § 1, July 26, 1976, [90 Stat. 1035][/us/stat/90/1035], provided: 
 
 > “That this Act \[enacting sections 4578 and 4585 to 4588 of this title, amending this section, sections 218, 3511, 4571 to 4573, 4576, 4577, and 4581 of this title, and sections 1176 and 1177 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 4573 and 4577 of this title, and sections 1176 and 1177 of Title 21\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1976’.”
 
  __Short Title of 1974 Amendment__ 
 
-[Pub. L. 93–282, title I, § 101][/us/pl/93/282/s101], May 14, 1974, [88 Stat. 126][/us/stat/88/126], provided that: 
+[Pub. L. 93–282, title I][/us/pl/93/282/tI], § 101, May 14, 1974, [88 Stat. 126][/us/stat/88/126], provided that: 
 
 > “This title \[enacting this section and sections 4542, 4553, 4576, and 4577 of this title, amending sections 242a, 4571, 4572, 4573, 4581, and 4582 of this title, and enacting provisions set out as notes under sections 4581 and 4582 of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1974’.”
 
  __Short Title__ 
 
-[Pub. L. 91–616, § 1][/us/pl/91/616/s1], Dec. 31, 1970, [84 Stat. 1848][/us/stat/84/1848], provided that: 
+[Pub. L. 91–616][/us/pl/91/616], § 1, Dec. 31, 1970, [84 Stat. 1848][/us/stat/84/1848], provided that: 
 
 > “This Act \[enacting this chapter and [section 2688j–2 of this title][/us/usc/t42/s2688j–2] and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
 
  __National Commission on Alcoholism and Other Alcohol-Related Problems; Establishment; Executive Secretary; Interim and Final Reports of Study; Termination; Authorization of Appropriations__ 
 
-[Pub. L. 96–180, § 18][/us/pl/96/180/s18], Jan. 2, 1980, [93 Stat. 1306][/us/stat/93/1306], as amended by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979; [Pub. L. 98–24, § 5(a)(2)][/us/pl/98/24/s5/a/2], Apr. 26, 1983, [97 Stat. 183][/us/stat/97/183], [93 Stat. 695][/us/stat/93/695], provided that:
+[Pub. L. 96–180][/us/pl/96/180], § 18, Jan. 2, 1980, [93 Stat. 1306][/us/stat/93/1306], as amended by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979; [Pub. L. 98–24][/us/pl/98/24], § 5(a)(2), Apr. 26, 1983, [97 Stat. 183][/us/stat/97/183], [93 Stat. 695][/us/stat/93/695], provided that:
 
 >     “(a)
 
@@ -172,40 +172,40 @@
 ----------
 ----------
 
-[/us/pl/91/616/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs2
-[/us/pl/93/282/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs102%2Fa
+[/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
+[/us/pl/93/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2FtI
 [/us/stat/88/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F126
-[/us/pl/94/371/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs2
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1035
-[/us/pl/95/622/s268/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2Fs268%2Fa
+[/us/pl/95/622/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622%2FtII
 [/us/stat/92/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3437
-[/us/pl/96/180/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs2
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
 [/us/stat/93/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1301
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
 [/us/stat/84/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1848
-[/us/pl/96/180/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs2%2Fa
-[/us/pl/96/180/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs2%2Fa
-[/us/pl/96/180/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs2%2Fb%2F1
-[/us/pl/96/180/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs2%2Fb%2F3
-[/us/pl/96/180/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs2%2Fb%2F2
-[/us/pl/96/180/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs2%2Fc%2F1
-[/us/pl/96/180/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs2%2Fc%2F3
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
 [/us/pl/95/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F622
 [/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
-[/us/pl/96/180/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs1%2Fa
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
 [/us/stat/93/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1301
 [/us/usc/t42/s4552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4552
-[/us/pl/94/371/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs1
+[/us/pl/94/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371
 [/us/stat/90/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1035
-[/us/pl/93/282/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs101
+[/us/pl/93/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2FtI
 [/us/stat/88/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F126
-[/us/pl/91/616/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs1
+[/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
 [/us/stat/84/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1848
 [/us/usc/t42/s2688j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2688j%E2%80%932
-[/us/pl/96/180/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180%2Fs18
+[/us/pl/96/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F180
 [/us/stat/93/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1306
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
-[/us/pl/98/24/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs5%2Fa%2F2
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
+[/us/pl/98/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24
 [/us/stat/97/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F183
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 

@@ -35,7 +35,7 @@
 
         Upon request, the Administrator of the National Aeronautics and Space Administration is authorized to assist the Director with respect to carrying out his activities conducted under paragraph (5) of [section 6614(a) of this title][/us/usc/t42/s6614/a].
 
-([Pub. L. 94–282, title II, § 208][/us/pl/94/282/s208], May 11, 1976, [90 Stat. 467][/us/stat/90/467]; [Pub. L. 107–296, title XVII, § 1712(2)][/us/pl/107/296/s1712/2], Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320].)
+([Pub. L. 94–282, title II][/us/pl/94/282/tII], § 208, May 11, 1976, [90 Stat. 467][/us/stat/90/467]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1712(2), Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t42/s6614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6614%2Fa
-[/us/pl/94/282/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2Fs208
+[/us/pl/94/282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F282%2FtII
 [/us/stat/90/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F467
-[/us/pl/107/296/s1712/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1712%2F2
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2320
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

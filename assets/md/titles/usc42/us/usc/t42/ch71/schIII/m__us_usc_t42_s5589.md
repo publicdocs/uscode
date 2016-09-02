@@ -51,7 +51,7 @@
 
         In carrying out his functions under this section, the Secretary shall consult with the appropriate government agencies, industry representatives, and members of the scientific and technical community having expertise and interest in this area. The Secretary also shall ensure that any study or report prepared pursuant to this section is fully coordinated with and reflective of any analyses or reports prepared pursuant to the requirements in [section 5556a of this title][/us/usc/t42/s5556a], and in the President’s Solar Energy Domestic Policy Review. The Secretary, as appropriate, may merge any continuing or on-going studies under [section 5556a of this title][/us/usc/t42/s5556a] or the Domestic Policy Review with those required by this section or avoid any unnecessary duplication of effort or funding. The separate report requirements of [section 5556a of this title][/us/usc/t42/s5556a] and this section, however, shall remain in force.
 
-([Pub. L. 95–590, § 10][/us/pl/95/590/s10], Nov. 4, 1978, [92 Stat. 2519][/us/stat/92/2519].)
+([Pub. L. 95–590][/us/pl/95/590], § 10, Nov. 4, 1978, [92 Stat. 2519][/us/stat/92/2519].)
 
 ----------
 
@@ -66,7 +66,7 @@
 [/us/usc/t42/s5556a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5556a
 [/us/usc/t42/s5556a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5556a
 [/us/usc/t42/s5556a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5556a
-[/us/pl/95/590/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590%2Fs10
+[/us/pl/95/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F590
 [/us/stat/92/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2519
 
 

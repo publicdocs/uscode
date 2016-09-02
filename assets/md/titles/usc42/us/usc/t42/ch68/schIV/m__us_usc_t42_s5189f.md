@@ -129,7 +129,7 @@
 
             (F) recommendations for whether the alternative procedures should be continued and any recommendations for changes to the alternative procedures.
 
-([Pub. L. 93–288, title IV, § 428][/us/pl/93/288/s428], as added [Pub. L. 113–2, div. B, § 1102(2)][/us/pl/113/2/s1102/2], Jan. 29, 2013, [127 Stat. 39][/us/stat/127/39].)
+([Pub. L. 93–288, title IV][/us/pl/93/288/tIV], § 428, as added [Pub. L. 113–2, div. B][/us/pl/113/2/dB], § 1102(2), Jan. 29, 2013, [127 Stat. 39][/us/stat/127/39].)
 
  __References in Text__ 
 
@@ -149,8 +149,8 @@
 [/us/usc/t42/s5172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5172
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t42/s5172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5172
-[/us/pl/93/288/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs428
-[/us/pl/113/2/s1102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2Fs1102%2F2
+[/us/pl/93/288/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIV
+[/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB
 [/us/stat/127/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F39
 [/us/pl/113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676

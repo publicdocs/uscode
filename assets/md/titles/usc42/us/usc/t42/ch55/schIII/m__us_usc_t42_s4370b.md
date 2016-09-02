@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, after September 30, 1990, amounts deposited in the Licensing and Other Services Fund from fees and charges assessed and collected by the Administrator for services and activities carried out pursuant to the statutes administered by the Environmental Protection Agency shall thereafter be available to carry out the Agency’s activities in the programs for which the fees or charges are made.
 
-([Pub. L. 101–144, title III][/us/pl/101/144], Nov. 9, 1989, [103 Stat. 858][/us/stat/103/858].)
+([Pub. L. 101–144, title III][/us/pl/101/144/tIII], Nov. 9, 1989, [103 Stat. 858][/us/stat/103/858].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144
+[/us/pl/101/144/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F144%2FtIII
 [/us/stat/103/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F858
 
 

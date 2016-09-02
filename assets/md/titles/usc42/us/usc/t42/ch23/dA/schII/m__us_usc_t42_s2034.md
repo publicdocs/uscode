@@ -29,7 +29,7 @@
 
         Assistant General Managers, or their equivalents (not to exceed a total of three positions), who shall perform such administrative and executive functions as the General Manager shall direct. They shall be appointed by the General Manager with the approval of the Commission, shall serve at the pleasure of the General Manager, and shall be removable by the General Manager.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 24, as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 925][/us/stat/68/925]; amended [Pub. L. 85–287, § 2][/us/pl/85/287/s2], Sept. 4, 1957, [71 Stat. 612][/us/stat/71/612]; [Pub. L. 88–426, title III, § 306(f)(1)][/us/pl/88/426/s306/f/1]–(3), Aug. 14, 1964, [78 Stat. 429][/us/stat/78/429]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 24, as added [Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 925][/us/stat/68/925]; amended [Pub. L. 85–287][/us/pl/85/287], § 2, Sept. 4, 1957, [71 Stat. 612][/us/stat/71/612]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 306(f)(1)–(3), Aug. 14, 1964, [78 Stat. 429][/us/stat/78/429]; renumbered title I, [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(a)(8), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].)
 
  __Prior Provisions__ 
 
@@ -37,11 +37,11 @@
 
  __Amendments__ 
 
-    1964—Subsec. (a). [Pub. L. 88–426, § 306(f)(1)][/us/pl/88/426/s306/f/1], struck out provisions which prescribed the compensation of the General Manager. Such compensation is now prescribed by [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees.
+    1964—Subsec. (a). [Pub. L. 88–426][/us/pl/88/426], § 306(f)(1), struck out provisions which prescribed the compensation of the General Manager. Such compensation is now prescribed by [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees.
 
-    Subsec. (b). [Pub. L. 88–426, § 306(f)(2)][/us/pl/88/426/s306/f/2], struck out provisions which prescribed the compensation of the Deputy General Manager. Such compensation is now prescribed by [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
+    Subsec. (b). [Pub. L. 88–426][/us/pl/88/426], § 306(f)(2), struck out provisions which prescribed the compensation of the Deputy General Manager. Such compensation is now prescribed by [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
 
-    Subsec. (c). [Pub. L. 88–426, § 306(f)(3)][/us/pl/88/426/s306/f/3], struck out provisions which prescribed the compensation of the Assistant General Managers. Such compensation is now prescribed by [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
+    Subsec. (c). [Pub. L. 88–426][/us/pl/88/426], § 306(f)(3), struck out provisions which prescribed the compensation of the Assistant General Managers. Such compensation is now prescribed by [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
 
     1957—Subsec. (a). [Pub. L. 85–287][/us/pl/85/287] designated existing provisions as subsec. (a), designated the General Manager as the chief executive officer of the Commission, and increased his compensation from $20,000 to $22,000 per annum.
 
@@ -59,20 +59,20 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F925
-[/us/pl/85/287/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F287%2Fs2
+[/us/pl/85/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F287
 [/us/stat/71/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F612
-[/us/pl/88/426/s306/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs306%2Ff%2F1
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F429
-[/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
 [/us/usc/t42/s1802/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1802%2Fa%2F4%2FA
-[/us/pl/88/426/s306/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs306%2Ff%2F1
+[/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/88/426/s306/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs306%2Ff%2F2
+[/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/88/426/s306/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs306%2Ff%2F3
+[/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/pl/85/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F287
 [/us/pl/85/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F287

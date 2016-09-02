@@ -185,33 +185,33 @@
 
         </table>
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1428, as added and amended [Pub. L. 99–339, title II, § 205][/us/pl/99/339/s205], title III, § 301(e), June 19, 1986, [100 Stat. 660][/us/stat/100/660], 664; [Pub. L. 104–182, title I][/us/pl/104/182], §§ 120(b), 132(b), title V, § 501(f)(4), Aug. 6, 1996, [110 Stat. 1650][/us/stat/110/1650], 1674, 1692.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1428, as added and amended [Pub. L. 99–339, title II][/us/pl/99/339/tII], § 205, title III, § 301(e), June 19, 1986, [100 Stat. 660][/us/stat/100/660], 664; [Pub. L. 104–182, title I][/us/pl/104/182/tI], §§ 120(b), 132(b), title V, § 501(f)(4), Aug. 6, 1996, [110 Stat. 1650][/us/stat/110/1650], 1674, 1692.)
 
  __References in Text__ 
 
-    The Federal Water Pollution Control Act, referred to in subsec. (f)(1), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (f)(1), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t42/s6901] and Tables.
 
     The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (f)(1), is [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title][/us/usc/t42/s9601] and Tables.
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–182, § 501(f)(4)][/us/pl/104/182/s501/f/4], made technical amendment to section catchline and subsec. (a) designation.
+    1996—[Pub. L. 104–182][/us/pl/104/182], § 501(f)(4), made technical amendment to section catchline and subsec. (a) designation.
 
-    Subsec. (b). [Pub. L. 104–182, § 132(b)(4)][/us/pl/104/182/s132/b/4], inserted before period at end of first sentence “and source water assessment programs under [section 300j–13 of this title][/us/usc/t42/s300j–13]”.
+    Subsec. (b). [Pub. L. 104–182][/us/pl/104/182], § 132(b)(4), inserted before period at end of first sentence “and source water assessment programs under [section 300j–13 of this title][/us/usc/t42/s300j–13]”.
 
-    Subsec. (c)(1). [Pub. L. 104–182, § 132(b)(3)][/us/pl/104/182/s132/b/3], which directed substitution of “is disapproved” for “is inadequate” in third sentence, was executed by making the substitution in fourth sentence to reflect the probable intent of Congress and the amendment by [Pub. L. 104–182, § 132(b)(2)][/us/pl/104/182/s132/b/2]. See below.
+    Subsec. (c)(1). [Pub. L. 104–182][/us/pl/104/182], § 132(b)(3), which directed substitution of “is disapproved” for “is inadequate” in third sentence, was executed by making the substitution in fourth sentence to reflect the probable intent of Congress and the amendment by [Pub. L. 104–182][/us/pl/104/182], § 132(b)(2). See below.
 
-    [Pub. L. 104–182, § 132(b)(2)][/us/pl/104/182/s132/b/2], inserted after second sentence “A State program developed pursuant to [section 300j–13 of this title][/us/usc/t42/s300j–13] or [section 300g–7(b) of this title][/us/usc/t42/s300g–7/b] shall be deemed to meet the applicable requirements of [section 300j–13 of this title][/us/usc/t42/s300j–13] or [section 300g–7(b) of this title][/us/usc/t42/s300g–7/b] unless the Administrator determines within 9 months of the receipt of the program that such program (or portion thereof) does not meet such requirements.”
+    [Pub. L. 104–182][/us/pl/104/182], § 132(b)(2), inserted after second sentence “A State program developed pursuant to [section 300j–13 of this title][/us/usc/t42/s300j–13] or [section 300g–7(b) of this title][/us/usc/t42/s300g–7/b] shall be deemed to meet the applicable requirements of [section 300j–13 of this title][/us/usc/t42/s300j–13] or [section 300g–7(b) of this title][/us/usc/t42/s300g–7/b] unless the Administrator determines within 9 months of the receipt of the program that such program (or portion thereof) does not meet such requirements.”
 
-    [Pub. L. 104–182, § 132(b)(1)][/us/pl/104/182/s132/b/1], amended first sentence generally. Prior to amendment, first sentence read as follows: “If, in the judgment of the Administrator, a State program (or portion thereof, including the definition of a wellhead protection area), is not adequate to protect public water systems as required by this section, the Administrator shall disapprove such program (or portion thereof).”
+    [Pub. L. 104–182][/us/pl/104/182], § 132(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “If, in the judgment of the Administrator, a State program (or portion thereof, including the definition of a wellhead protection area), is not adequate to protect public water systems as required by this section, the Administrator shall disapprove such program (or portion thereof).”
 
-    Subsec. (c)(2). [Pub. L. 104–182, § 132(b)(3)][/us/pl/104/182/s132/b/3], substituted “is disapproved” for “is inadequate”.
+    Subsec. (c)(2). [Pub. L. 104–182][/us/pl/104/182], § 132(b)(3), substituted “is disapproved” for “is inadequate”.
 
-    Subsec. (k). [Pub. L. 104–182, § 120(b)][/us/pl/104/182/s120/b], inserted table item relating to fiscal years 1992 through 2003.
+    Subsec. (k). [Pub. L. 104–182][/us/pl/104/182], § 120(b), inserted table item relating to fiscal years 1992 through 2003.
 
-    1986—Subsec. (k). [Pub. L. 99–339, § 301(e)][/us/pl/99/339/s301/e], added subsec. (k).
+    1986—Subsec. (k). [Pub. L. 99–339][/us/pl/99/339], § 301(e), added subsec. (k).
 
 ----------
 
@@ -233,35 +233,35 @@
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/99/339/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs205
+[/us/pl/99/339/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtII
 [/us/stat/100/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F660
-[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtI
 [/us/stat/110/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1650
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
-[/us/pl/104/182/s501/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Ff%2F4
-[/us/pl/104/182/s132/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs132%2Fb%2F4
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300j–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9313
-[/us/pl/104/182/s132/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs132%2Fb%2F3
-[/us/pl/104/182/s132/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs132%2Fb%2F2
-[/us/pl/104/182/s132/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs132%2Fb%2F2
-[/us/usc/t42/s300j–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9313
-[/us/usc/t42/s300g–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%937%2Fb
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
 [/us/usc/t42/s300j–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9313
 [/us/usc/t42/s300g–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%937%2Fb
-[/us/pl/104/182/s132/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs132%2Fb%2F1
-[/us/pl/104/182/s132/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs132%2Fb%2F3
-[/us/pl/104/182/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs120%2Fb
-[/us/pl/99/339/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs301%2Fe
+[/us/usc/t42/s300j–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9313
+[/us/usc/t42/s300g–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%937%2Fb
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 
 

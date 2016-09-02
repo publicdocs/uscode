@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this section.
 
-([Pub. L. 111–267, title VIII, § 802][/us/pl/111/267/s802], Oct. 11, 2010, [124 Stat. 2832][/us/stat/124/2832].)
+([Pub. L. 111–267, title VIII][/us/pl/111/267/tVIII], § 802, Oct. 11, 2010, [124 Stat. 2832][/us/stat/124/2832].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/267/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs802
+[/us/pl/111/267/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2FtVIII
 [/us/stat/124/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2832
 
 

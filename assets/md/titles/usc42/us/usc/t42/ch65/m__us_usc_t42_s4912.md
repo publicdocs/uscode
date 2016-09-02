@@ -35,7 +35,7 @@
 
         Any person who knowingly makes any false statement, representation, or certification in any application, record, report, plan, or other document filed or required to be maintained under this chapter or who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required to be maintained under this chapter, shall upon conviction be punished by a fine of not more than $10,000, or by imprisonment for not more than six months, or by both.
 
-([Pub. L. 92–574, § 13][/us/pl/92/574/s13], Oct. 27, 1972, [86 Stat. 1244][/us/stat/86/1244].)
+([Pub. L. 92–574][/us/pl/92/574], § 13, Oct. 27, 1972, [86 Stat. 1244][/us/stat/86/1244].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/92/574/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574%2Fs13
+[/us/pl/92/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F574
 [/us/stat/86/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1244
 
 

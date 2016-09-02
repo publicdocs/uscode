@@ -23,7 +23,7 @@
 
     the Administrator shall initiate such proceedings as are appropriate.
 
-([Pub. L. 93–415, title II, § 299B][/us/pl/93/415/s299B], formerly § 293, as added [Pub. L. 100–690, title VII, § 7266(4)][/us/pl/100/690/s7266/4], Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449]; renumbered § 299B, [Pub. L. 102–586, § 2(i)(1)(B)][/us/pl/102/586/s2/i/1/B], Nov. 4, 1992, [106 Stat. 5006][/us/stat/106/5006].)
+([Pub. L. 93–415, title II][/us/pl/93/415/tII], § 299B, formerly § 293, as added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7266(4), Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449]; renumbered § 299B, [Pub. L. 102–586][/us/pl/102/586], § 2(i)(1)(B), Nov. 4, 1992, [106 Stat. 5006][/us/stat/106/5006].)
 
  __Effective Date__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/93/415/s299B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs299B
-[/us/pl/100/690/s7266/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7266%2F4
+[/us/pl/93/415/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtII
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4449
-[/us/pl/102/586/s2/i/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs2%2Fi%2F1%2FB
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5006
 [/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

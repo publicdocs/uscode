@@ -19,7 +19,7 @@
 
     (b) For purposes of carrying out subsection (a) of this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1981, 1982, 1983, and 1984.
 
-([Pub. L. 96–294, title II, § 251][/us/pl/96/294/s251], June 30, 1980, [94 Stat. 705][/us/stat/94/705].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 251, June 30, 1980, [94 Stat. 705][/us/stat/94/705].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs251
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F705
 
 

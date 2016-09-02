@@ -57,7 +57,7 @@
 
         (2) such sums as are necessary for each of fiscal years 2007 through 2015.
 
-([Pub. L. 109–58, title IX, § 945][/us/pl/109/58/s945], Aug. 8, 2005, [119 Stat. 882][/us/stat/119/882].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 945, Aug. 8, 2005, [119 Stat. 882][/us/stat/119/882].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs945
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F882
 
 

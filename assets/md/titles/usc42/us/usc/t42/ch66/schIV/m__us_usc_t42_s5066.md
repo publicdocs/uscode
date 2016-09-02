@@ -17,7 +17,7 @@
 
     The Corporation shall carry out this chapter in accordance with the provisions of this chapter and the relevant provisions of the National and Community Service Act of 1990 ([42 U.S.C. 12501][/us/usc/t42/s12501] et seq.), particularly the provisions of section 122 and subtitle F of title I of the National and Community Service Act of 1990 ([42 U.S.C. 12572][/us/usc/t42/s12572], 12631 et seq.) relating to the national service laws.
 
-([Pub. L. 93–113, title IV, § 426][/us/pl/93/113/s426], as added [Pub. L. 111–13, title II, § 2156][/us/pl/111/13/s2156], Apr. 21, 2009, [123 Stat. 1592][/us/stat/123/1592].)
+([Pub. L. 93–113, title IV][/us/pl/93/113/tIV], § 426, as added [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2156, Apr. 21, 2009, [123 Stat. 1592][/us/stat/123/1592].)
 
  __References in Text__ 
 
@@ -38,8 +38,8 @@
 
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/usc/t42/s12572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12572
-[/us/pl/93/113/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs426
-[/us/pl/111/13/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2156
+[/us/pl/93/113/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtIV
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1592
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394

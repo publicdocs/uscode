@@ -55,7 +55,7 @@
 
     (11) support demonstration project activities of individuals, public agencies, and private entities designed to encourage the employment and advancement of women in science and engineering.
 
-([Pub. L. 96–516, § 33][/us/pl/96/516/s33], Dec. 12, 1980, [94 Stat. 3011][/us/stat/94/3011]; [Pub. L. 99–159, title I, § 111(b)(6)][/us/pl/99/159/s111/b/6], Nov. 22, 1985, [99 Stat. 892][/us/stat/99/892].)
+([Pub. L. 96–516][/us/pl/96/516], § 33, Dec. 12, 1980, [94 Stat. 3011][/us/stat/94/3011]; [Pub. L. 99–159, title I][/us/pl/99/159/tI], § 111(b)(6), Nov. 22, 1985, [99 Stat. 892][/us/stat/99/892].)
 
  __Codification__ 
 
@@ -63,23 +63,23 @@
 
  __Amendments__ 
 
-    1985—Par. (1). [Pub. L. 99–159, § 111(b)(6)(A)][/us/pl/99/159/s111/b/6/A], substituted “engineering” for “technology” and “technical” wherever appearing.
+    1985—Par. (1). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(6)(A), substituted “engineering” for “technology” and “technical” wherever appearing.
 
-    Par. (2). [Pub. L. 99–159, § 111(b)(6)(A)][/us/pl/99/159/s111/b/6/A], (B), inserted “, engineering,” after “science”, and substituted “engineering” for “technical”.
+    Par. (2). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(6)(A), (B), inserted “, engineering,” after “science”, and substituted “engineering” for “technical”.
 
-    Par. (3). [Pub. L. 99–159, § 111(b)(6)(A)][/us/pl/99/159/s111/b/6/A], substituted “engineering fields” for “technical fields”.
+    Par. (3). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(6)(A), substituted “engineering fields” for “technical fields”.
 
-    Par. (4). [Pub. L. 99–159, § 111(b)(6)(A)][/us/pl/99/159/s111/b/6/A], substituted “engineering” for “technology” and “technical”.
+    Par. (4). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(6)(A), substituted “engineering” for “technology” and “technical”.
 
-    Par. (5). [Pub. L. 99–159, § 111(b)(6)(C)][/us/pl/99/159/s111/b/6/C], inserted applicability to engineers.
+    Par. (5). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(6)(C), inserted applicability to engineers.
 
-    Pars. (6), (7). [Pub. L. 99–159, § 111(b)(6)(A)][/us/pl/99/159/s111/b/6/A], substituted “engineering” for “technology”.
+    Pars. (6), (7). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(6)(A), substituted “engineering” for “technology”.
 
-    Par. (8). [Pub. L. 99–159, § 111(b)(6)(C)][/us/pl/99/159/s111/b/6/C], inserted applicability to engineers.
+    Par. (8). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(6)(C), inserted applicability to engineers.
 
-    Par. (10). [Pub. L. 99–159, § 111(b)(6)(D)][/us/pl/99/159/s111/b/6/D], inserted applicability to engineering.
+    Par. (10). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(6)(D), inserted applicability to engineering.
 
-    Par. (11). [Pub. L. 99–159, § 111(b)(6)(E)][/us/pl/99/159/s111/b/6/E], substituted “science and engineering” for “science, engineering, and technology”.
+    Par. (11). [Pub. L. 99–159][/us/pl/99/159], § 111(b)(6)(E), substituted “science and engineering” for “science, engineering, and technology”.
 
  __Commission on the Advancement of Women and Minorities in Science, Engineering, and Technology Development__ 
 
@@ -343,7 +343,7 @@
 
  __Task Force on Women, Minorities, and the Handicapped in Science and Technology__ 
 
-[Pub. L. 99–383, § 8][/us/pl/99/383/s8], Aug. 21, 1986, [100 Stat. 815][/us/stat/100/815], provided that:
+[Pub. L. 99–383][/us/pl/99/383], § 8, Aug. 21, 1986, [100 Stat. 815][/us/stat/100/815], provided that:
 
 >     “(a)
 
@@ -410,19 +410,19 @@
 ----------
 ----------
 
-[/us/pl/96/516/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs33
+[/us/pl/96/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516
 [/us/stat/94/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3011
-[/us/pl/99/159/s111/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6
+[/us/pl/99/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtI
 [/us/stat/99/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F892
-[/us/pl/99/159/s111/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6%2FA
-[/us/pl/99/159/s111/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6%2FA
-[/us/pl/99/159/s111/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6%2FA
-[/us/pl/99/159/s111/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6%2FA
-[/us/pl/99/159/s111/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6%2FC
-[/us/pl/99/159/s111/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6%2FA
-[/us/pl/99/159/s111/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6%2FC
-[/us/pl/99/159/s111/b/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6%2FD
-[/us/pl/99/159/s111/b/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs111%2Fb%2F6%2FE
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 [/us/pl/105/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F255
 [/us/stat/112/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1889
 [/us/pl/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383
@@ -433,7 +433,7 @@
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/99/383/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383%2Fs8
+[/us/pl/99/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383
 [/us/stat/100/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F815
 [/us/usc/t42/s1885c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1885c
 

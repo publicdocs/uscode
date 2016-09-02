@@ -31,7 +31,7 @@
 
         The provisions of this chapter shall apply with respect to any repository not used exclusively for the disposal of high-level radioactive waste or spent nuclear fuel resulting from atomic energy defense activities, research and development activities of the Secretary, or both.
 
-([Pub. L. 97–425, § 8][/us/pl/97/425/s8], Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
+([Pub. L. 97–425][/us/pl/97/425], § 8, Jan. 7, 1983, [96 Stat. 2205][/us/stat/96/2205].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t42/s10222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10222
 [/us/usc/t42/s5842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5842
-[/us/pl/97/425/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425%2Fs8
+[/us/pl/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F425
 [/us/stat/96/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2205
 
 

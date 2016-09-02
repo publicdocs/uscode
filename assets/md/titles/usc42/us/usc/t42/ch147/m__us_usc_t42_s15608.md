@@ -27,7 +27,7 @@
 
         (2) At all times after 1 year after the date of the adoption of the final rule under [section 15607(a)(4) of this title][/us/usc/t42/s15607/a/4], the organization shall, in addition to any other such standards that it may promulgate relevant to the detection, prevention, reduction, and punishment of prison rape, adopt accreditation standards consistent with the national standards adopted pursuant to such final rule.
 
-([Pub. L. 108–79, § 9][/us/pl/108/79/s9], Sept. 4, 2003, [117 Stat. 987][/us/stat/117/987].)
+([Pub. L. 108–79][/us/pl/108/79], § 9, Sept. 4, 2003, [117 Stat. 987][/us/stat/117/987].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s15607/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15607%2Fa%2F4
-[/us/pl/108/79/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79%2Fs9
+[/us/pl/108/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F79
 [/us/stat/117/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F987
 
 

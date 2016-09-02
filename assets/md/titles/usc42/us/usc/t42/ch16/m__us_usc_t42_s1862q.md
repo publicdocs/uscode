@@ -31,7 +31,7 @@
 
         (2) design and testing of innovative STEM learning models, programs, and other resources for informal learning environments to improve STEM learning outcomes and increase engagement for K–12 students, K–12 teachers, and the general public, including design and testing of the scalability of models, programs, and other resources.
 
-([Pub. L. 114–59, § 3][/us/pl/114/59/s3], Oct. 7, 2015, [129 Stat. 540][/us/stat/129/540].)
+([Pub. L. 114–59][/us/pl/114/59], § 3, Oct. 7, 2015, [129 Stat. 540][/us/stat/129/540].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/114/59/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59%2Fs3
+[/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
 [/us/stat/129/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F540
 
 

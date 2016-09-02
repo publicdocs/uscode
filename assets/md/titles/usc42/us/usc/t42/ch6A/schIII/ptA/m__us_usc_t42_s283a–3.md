@@ -39,7 +39,7 @@
 
         For purposes of this section, an individual shall be considered to have been exposed to DES in utero if, during the pregnancy that resulted in the birth of such individual, DES was (on or after January 1, 1938) administered to the biological mother of the individual.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 403D, formerly § 403A, as added [Pub. L. 102–409, § 2][/us/pl/102/409/s2], Oct. 13, 1992, [106 Stat. 2092][/us/stat/106/2092]; amended [Pub. L. 105–340, title I, § 101(a)][/us/pl/105/340/s101/a], Oct. 31, 1998, [112 Stat. 3191][/us/stat/112/3191]; renumbered § 403C and amended [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(2), 104(a)(1), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], 3689; renumbered § 403D, [Pub. L. 110–85, title XI, § 1104(4)][/us/pl/110/85/s1104/4], Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 403D, formerly § 403A, as added [Pub. L. 102–409][/us/pl/102/409], § 2, Oct. 13, 1992, [106 Stat. 2092][/us/stat/106/2092]; amended [Pub. L. 105–340, title I][/us/pl/105/340/tI], § 101(a), Oct. 31, 1998, [112 Stat. 3191][/us/stat/112/3191]; renumbered § 403C and amended [Pub. L. 109–482, title I][/us/pl/109/482/tI], §§ 103(b)(2), 104(a)(1), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], 3689; renumbered § 403D, [Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1104(4), Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2007—Subsec. (e). [Pub. L. 109–482, § 103(b)(2)][/us/pl/109/482/s103/b/2], struck out subsec. (e) which read as follows: “In addition to any other authorization of appropriations available for the purpose of carrying out this section, there are authorized to be appropriated for such purpose such sums as may be necessary for each of the fiscal years 1993 through 2003.”
+    2007—Subsec. (e). [Pub. L. 109–482][/us/pl/109/482], § 103(b)(2), struck out subsec. (e) which read as follows: “In addition to any other authorization of appropriations available for the purpose of carrying out this section, there are authorized to be appropriated for such purpose such sums as may be necessary for each of the fiscal years 1993 through 2003.”
 
     1998—Subsec. (e). [Pub. L. 105–340][/us/pl/105/340] substituted “2003” for “1996”.
 
@@ -63,17 +63,17 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/102/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F409%2Fs2
+[/us/pl/102/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F409
 [/us/stat/106/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2092
-[/us/pl/105/340/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2Fs101%2Fa
+[/us/pl/105/340/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340%2FtI
 [/us/stat/112/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3191
-[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3687
-[/us/pl/110/85/s1104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1104%2F4
+[/us/pl/110/85/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2FtXI
 [/us/stat/121/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F975
 [/us/usc/t42/s283a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283a
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
-[/us/pl/109/482/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F2
+[/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/105/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F340
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109

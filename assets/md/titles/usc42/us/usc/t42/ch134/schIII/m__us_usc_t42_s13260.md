@@ -23,7 +23,7 @@
 
         Alternative fueled vehicles, whether dedicated vehicles or dual fueled vehicles, and the alternative fuels for operating such vehicles, shall comply with requirements of the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\] applicable to such vehicles and fuels.
 
-([Pub. L. 102–486, title V, § 510][/us/pl/102/486/s510], Oct. 24, 1992, [106 Stat. 2898][/us/stat/106/2898].)
+([Pub. L. 102–486, title V][/us/pl/102/486/tV], § 510, Oct. 24, 1992, [106 Stat. 2898][/us/stat/106/2898].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/102/486/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs510
+[/us/pl/102/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtV
 [/us/stat/106/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2898
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776

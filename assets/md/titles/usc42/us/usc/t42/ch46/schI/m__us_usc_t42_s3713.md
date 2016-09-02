@@ -73,7 +73,7 @@
 
         Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
-([Pub. L. 106–572, § 2][/us/pl/106/572/s2], Dec. 28, 2000, [114 Stat. 3058][/us/stat/114/3058]; [Pub. L. 110–403, title IV, § 401(a)][/us/pl/110/403/s401/a], Oct. 13, 2008, [122 Stat. 4271][/us/stat/122/4271].)
+([Pub. L. 106–572][/us/pl/106/572], § 2, Dec. 28, 2000, [114 Stat. 3058][/us/stat/114/3058]; [Pub. L. 110–403, title IV][/us/pl/110/403/tIV], § 401(a), Oct. 13, 2008, [122 Stat. 4271][/us/stat/122/4271].)
 
  __References in Text__ 
 
@@ -85,13 +85,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 3713, [Pub. L. 90–351, title I, § 103][/us/pl/90/351/s103], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1170][/us/stat/93/1170], provided for an Office of Community Anti-Crime Programs, prior to the general amendment of this subchapter by [Pub. L. 98–473][/us/pl/98/473].
+    A prior section 3713, [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 103, as added [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1170][/us/stat/93/1170], provided for an Office of Community Anti-Crime Programs, prior to the general amendment of this subchapter by [Pub. L. 98–473][/us/pl/98/473].
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1)–(3). [Pub. L. 110–403, § 401(a)(1)][/us/pl/110/403/s401/a/1], inserted “, including infringement of copyrighted works over the Internet” after “computer crime”.
+    2008—Subsec. (b)(1)–(3). [Pub. L. 110–403][/us/pl/110/403], § 401(a)(1), inserted “, including infringement of copyrighted works over the Internet” after “computer crime”.
 
-    Subsec. (e)(1). [Pub. L. 110–403, § 401(a)(2)][/us/pl/110/403/s401/a/2], substituted “2009 through 2013” for “2001 through 2004”.
+    Subsec. (e)(1). [Pub. L. 110–403][/us/pl/110/403], § 401(a)(2), substituted “2009 through 2013” for “2001 through 2004”.
 
 ----------
 
@@ -101,18 +101,18 @@
 ----------
 
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
-[/us/pl/106/572/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F572%2Fs2
+[/us/pl/106/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F572
 [/us/stat/114/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3058
-[/us/pl/110/403/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs401%2Fa
+[/us/pl/110/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIV
 [/us/stat/122/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4271
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/stat/111/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2440
 [/us/stat/111/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2452
-[/us/pl/90/351/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs103
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1170
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/110/403/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs401%2Fa%2F1
-[/us/pl/110/403/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs401%2Fa%2F2
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 
 

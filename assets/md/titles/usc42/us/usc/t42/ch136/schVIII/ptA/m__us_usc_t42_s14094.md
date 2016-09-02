@@ -35,7 +35,7 @@
 
         (4) meet the requirements of [section 14099 of this title][/us/usc/t42/s14099].
 
-([Pub. L. 103–322, title XX, § 200105][/us/pl/103/322/s200105], Sept. 13, 1994, [108 Stat. 2050][/us/stat/108/2050].)
+([Pub. L. 103–322, title XX][/us/pl/103/322/tXX], § 200105, Sept. 13, 1994, [108 Stat. 2050][/us/stat/108/2050].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s14099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14099
-[/us/pl/103/322/s200105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs200105
+[/us/pl/103/322/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXX
 [/us/stat/108/2050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2050
 
 

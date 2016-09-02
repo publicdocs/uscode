@@ -23,7 +23,7 @@
 
         (2) The Commission shall, by rule, establish appropriate procedures, including a hearing when requested, for review of a denial. Action by the Commission under this section shall be considered final agency action within the meaning of [section 704 of title 5][/us/usc/t5/s704] and shall not be subject to further review by the Secretary or any officer or employee of the Department. Litigation involving judicial review of such action shall be the responsibility of the Secretary.
 
-([Pub. L. 95–91, title V, § 504][/us/pl/95/91/s504], Aug. 4, 1977, [91 Stat. 590][/us/stat/91/590].)
+([Pub. L. 95–91, title V][/us/pl/95/91/tV], § 504, Aug. 4, 1977, [91 Stat. 590][/us/stat/91/590].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t15/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs791
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/usc/t5/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs704
-[/us/pl/95/91/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs504
+[/us/pl/95/91/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtV
 [/us/stat/91/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F590
 [/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F96

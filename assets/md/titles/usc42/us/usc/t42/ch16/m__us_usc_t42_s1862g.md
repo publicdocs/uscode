@@ -25,7 +25,7 @@
 
     (b) A State which has received an initial award under such Program, whether or not the award was received before or after October 31, 1988, shall be eligible for up to 5 years of additional support under the program  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  if that State provides assurances of new matching funds and submits an acceptable new plan for using Program funds and matching funds to build the research capabilities of the State.
 
-([Pub. L. 100–570, title I, § 113][/us/pl/100/570/s113], Oct. 31, 1988, [102 Stat. 2870][/us/stat/102/2870].)
+([Pub. L. 100–570, title I][/us/pl/100/570/tI], § 113, Oct. 31, 1988, [102 Stat. 2870][/us/stat/102/2870].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Planning Grants__ 
 
-[Pub. L. 107–368, § 26][/us/pl/107/368/s26], Dec. 19, 2002, [116 Stat. 3067][/us/stat/116/3067], provided that: 
+[Pub. L. 107–368][/us/pl/107/368], § 26, Dec. 19, 2002, [116 Stat. 3067][/us/stat/116/3067], provided that: 
 
 > “The Director is authorized to accept planning proposals from applicants who are within .075 percentage points of the current eligibility level for the Experimental Program to Stimulate Competitive Research. Such proposals shall be reviewed by the Foundation to determine their merit for support under the Experimental Program to Stimulate Competitive Research or any other appropriate program.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/100/570/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs113
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2870
-[/us/pl/107/368/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs26
+[/us/pl/107/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368
 [/us/stat/116/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3067
 [/us/pl/107/368/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs26
 [/us/pl/107/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F368%2Fs4

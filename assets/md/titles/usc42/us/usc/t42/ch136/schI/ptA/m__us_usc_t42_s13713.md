@@ -117,7 +117,7 @@
 
         This section shall take effect on January 1, 2002.
 
-([Pub. L. 106–386, div. C, § 2001][/us/pl/106/386/s2001], Oct. 28, 2000, [114 Stat. 1539][/us/stat/114/1539]; [Pub. L. 109–162, title XI, § 1170][/us/pl/109/162/s1170], Jan. 5, 2006, [119 Stat. 3122][/us/stat/119/3122]; [Pub. L. 109–271, § 8(m)][/us/pl/109/271/s8/m], Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
+([Pub. L. 106–386, div. C][/us/pl/106/386/dC], § 2001, Oct. 28, 2000, [114 Stat. 1539][/us/stat/114/1539]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1170, Jan. 5, 2006, [119 Stat. 3122][/us/stat/119/3122]; [Pub. L. 109–271][/us/pl/109/271], § 8(m), Aug. 12, 2006, [120 Stat. 767][/us/stat/120/767].)
 
  __Codification__ 
 
@@ -127,33 +127,33 @@
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–162, § 1170(1)][/us/pl/109/162/s1170/1], substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in this section” for “In this section” in introductory provisions.
+    2006—Subsec. (b). [Pub. L. 109–162][/us/pl/109/162], § 1170(1), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in this section” for “In this section” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 109–162, § 1170(1)][/us/pl/109/162/s1170/1], (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State” the first place appearing, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to the State that convicted the individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
+    Subsec. (c)(1). [Pub. L. 109–162][/us/pl/109/162], § 1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State” the first place appearing, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to the State that convicted the individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
 
-    Subsec. (c)(2). [Pub. L. 109–162, § 1170(1)][/us/pl/109/162/s1170/1], (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State”, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to each State that convicted such individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
+    Subsec. (c)(2). [Pub. L. 109–162][/us/pl/109/162], § 1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State”, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to each State that convicted such individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
 
-    Subsec. (c)(3). [Pub. L. 109–162, § 1170(1)][/us/pl/109/162/s1170/1], (3)(A), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, a State” for “A State” and “unless” for “if” in introductory provisions.
+    Subsec. (c)(3). [Pub. L. 109–162][/us/pl/109/162], § 1170(1), (3)(A), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, a State” for “A State” and “unless” for “if” in introductory provisions.
 
-    Subsec. (c)(3)(A). [Pub. L. 109–162, § 1170(3)(B)(iii)][/us/pl/109/162/s1170/3/B/iii], (C), inserted “not” before “less” and struck out “convicted by the State is” after “as applicable, was”.
+    Subsec. (c)(3)(A). [Pub. L. 109–162][/us/pl/109/162], § 1170(3)(B)(iii), (C), inserted “not” before “less” and struck out “convicted by the State is” after “as applicable, was”.
 
-    [Pub. L. 109–162, § 1170(3)(B)(ii)][/us/pl/109/162/s1170/3/B/ii], which directed amendment of par. (3) by striking “individuals convicted of the offense for which,” was executed by striking “individuals convicted of the offense for which” after “imposed by the State on” to reflect the probable intent of Congress, because there was no comma after “which”.
+    [Pub. L. 109–162][/us/pl/109/162], § 1170(3)(B)(ii), which directed amendment of par. (3) by striking “individuals convicted of the offense for which,” was executed by striking “individuals convicted of the offense for which” after “imposed by the State on” to reflect the probable intent of Congress, because there was no comma after “which”.
 
-    [Pub. L. 109–162, § 1170(3)(B)(i)][/us/pl/109/162/s1170/3/B/i], which directed that “average” be struck out, was executed by striking out “average” the first place appearing, after “(A) the”, to reflect the probable intent of Congress.
+    [Pub. L. 109–162][/us/pl/109/162], § 1170(3)(B)(i), which directed that “average” be struck out, was executed by striking out “average” the first place appearing, after “(A) the”, to reflect the probable intent of Congress.
 
-    Subsec. (c)(3)(B). [Pub. L. 109–162, § 1170(3)(C)][/us/pl/109/162/s1170/3/C], inserted “not” before “less”.
+    Subsec. (c)(3)(B). [Pub. L. 109–162][/us/pl/109/162], § 1170(3)(C), inserted “not” before “less”.
 
-    Subsec. (d). [Pub. L. 109–162, § 1170(4)][/us/pl/109/162/s1170/4], struck out “transferred” after “receive an amount”.
+    Subsec. (d). [Pub. L. 109–162][/us/pl/109/162], § 1170(4), struck out “transferred” after “receive an amount”.
 
     Subsec. (e)(1). [Pub. L. 109–271][/us/pl/109/271] substituted “section 3755” for “section 3756”.
 
-    [Pub. L. 109–162, § 1170(1)][/us/pl/109/162/s1170/1], (4), (5), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, any amount” for “Any amount transferred”, inserted “pursuant to [section 3756 of this title][/us/usc/t42/s3756]” before “that convicted”, inserted “No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31” at end, and struck out former last sentence which read as follows: “The Attorney General shall provide the State with an opportunity to select the specific Federal law enforcement assistance funds to be so reduced (other than Federal crime victim assistance funds).”
+    [Pub. L. 109–162][/us/pl/109/162], § 1170(1), (4), (5), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, any amount” for “Any amount transferred”, inserted “pursuant to [section 3756 of this title][/us/usc/t42/s3756]” before “that convicted”, inserted “No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31” at end, and struck out former last sentence which read as follows: “The Attorney General shall provide the State with an opportunity to select the specific Federal law enforcement assistance funds to be so reduced (other than Federal crime victim assistance funds).”
 
-    Subsec. (g). [Pub. L. 109–162, § 1170(1)][/us/pl/109/162/s1170/1], substituted “Pursuant to regulations promulgated by the Attorney General hereunder, this section does not apply” for “This section does not apply”.
+    Subsec. (g). [Pub. L. 109–162][/us/pl/109/162], § 1170(1), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, this section does not apply” for “This section does not apply”.
 
-    Subsec. (i)(1). [Pub. L. 109–162, § 1170(6)][/us/pl/109/162/s1170/6], substituted “State (where practicable)” for “State” in introductory provisions.
+    Subsec. (i)(1). [Pub. L. 109–162][/us/pl/109/162], § 1170(6), substituted “State (where practicable)” for “State” in introductory provisions.
 
-    Subsec. (i)(2). [Pub. L. 109–162, § 1170(7)][/us/pl/109/162/s1170/7], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Not later than March 1, 2003, and on March 1 of each year thereafter, the Attorney General shall submit to Congress a report, which shall include—
+    Subsec. (i)(2). [Pub. L. 109–162][/us/pl/109/162], § 1170(7), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Not later than March 1, 2003, and on March 1 of each year thereafter, the Attorney General shall submit to Congress a report, which shall include—
 
     “(A) the information collected under paragraph (1) with respect to each State during the preceding calendar year; and
 
@@ -167,27 +167,27 @@
 ----------
 
 [/us/usc/t42/s3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3755
-[/us/pl/106/386/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs2001
+[/us/pl/106/386/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdC
 [/us/stat/114/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1539
-[/us/pl/109/162/s1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3122
-[/us/pl/109/271/s8/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fm
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F767
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/109/162/s1170/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F1
-[/us/pl/109/162/s1170/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F1
-[/us/pl/109/162/s1170/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F1
-[/us/pl/109/162/s1170/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F1
-[/us/pl/109/162/s1170/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F3%2FB%2Fiii
-[/us/pl/109/162/s1170/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F3%2FB%2Fii
-[/us/pl/109/162/s1170/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F3%2FB%2Fi
-[/us/pl/109/162/s1170/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F3%2FC
-[/us/pl/109/162/s1170/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F4
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
-[/us/pl/109/162/s1170/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F1
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/usc/t42/s3756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3756
-[/us/pl/109/162/s1170/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F1
-[/us/pl/109/162/s1170/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F6
-[/us/pl/109/162/s1170/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1170%2F7
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 
 

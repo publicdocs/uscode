@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “bus” means a vehicle which is designed to transport 30 individuals or more.
 
-([Pub. L. 94–163, title III, § 400CC][/us/pl/94/163/s400CC], as added [Pub. L. 100–494, § 4(a)][/us/pl/100/494/s4/a], Oct. 14, 1988, [102 Stat. 2445][/us/stat/102/2445]; amended [Pub. L. 102–486, title IV, § 402(1)][/us/pl/102/486/s402/1], Oct. 24, 1992, [106 Stat. 2875][/us/stat/106/2875].)
+([Pub. L. 94–163, title III][/us/pl/94/163/tIII], § 400CC, as added [Pub. L. 100–494][/us/pl/100/494], § 4(a), Oct. 14, 1988, [102 Stat. 2445][/us/stat/102/2445]; amended [Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 402(1), Oct. 24, 1992, [106 Stat. 2875][/us/stat/106/2875].)
 
  __Amendments__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/94/163/s400CC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs400CC
-[/us/pl/100/494/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs4%2Fa
+[/us/pl/94/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtIII
+[/us/pl/100/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494
 [/us/stat/102/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2445
-[/us/pl/102/486/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs402%2F1
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2875
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 

@@ -209,37 +209,37 @@
 
             There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal year 2008 and each subsequent fiscal year.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2321][/us/stat/114/2321]; amended [Pub. L. 107–188, title I][/us/pl/107/188], §§ 104(a) 105, 108, 111(3), 125, June 12, 2002, [116 Stat. 605][/us/stat/116/605], 606, 609, 611, 614; [Pub. L. 108–276, § 2(d)][/us/pl/108/276/s2/d], July 21, 2004, [118 Stat. 842][/us/stat/118/842]; [Pub. L. 109–417, title III][/us/pl/109/417], §§ 301(d), (e), 304, Dec. 19, 2006, [120 Stat. 2854][/us/stat/120/2854], 2855, 2859; [Pub. L. 113–5, title II, § 203(a)][/us/pl/113/5/s203/a], Mar. 13, 2013, [127 Stat. 175][/us/stat/127/175].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319F, as added [Pub. L. 106–505, title I][/us/pl/106/505/tI], § 102, Nov. 13, 2000, [114 Stat. 2321][/us/stat/114/2321]; amended [Pub. L. 107–188, title I][/us/pl/107/188/tI], §§ 104(a) 105, 108, 111(3), 125, June 12, 2002, [116 Stat. 605][/us/stat/116/605], 606, 609, 611, 614; [Pub. L. 108–276][/us/pl/108/276], § 2(d), July 21, 2004, [118 Stat. 842][/us/stat/118/842]; [Pub. L. 109–417, title III][/us/pl/109/417/tIII], §§ 301(d), (e), 304, Dec. 19, 2006, [120 Stat. 2854][/us/stat/120/2854], 2855, 2859; [Pub. L. 113–5, title II][/us/pl/113/5/tII], § 203(a), Mar. 13, 2013, [127 Stat. 175][/us/stat/127/175].)
 
  __Amendments__ 
 
     2013—Subsec. (a)(5)(B). [Pub. L. 113–5][/us/pl/113/5] substituted “public health, medical, or dental” for “public health or medical”.
 
-    2006—Subsec. (a). [Pub. L. 109–417, § 304(1)][/us/pl/109/417/s304/1], added subsec. (a) and struck out heading and text of former subsec. (a) which established a working group on bioterrorism and other public health emergencies.
+    2006—Subsec. (a). [Pub. L. 109–417][/us/pl/109/417], § 304(1), added subsec. (a) and struck out heading and text of former subsec. (a) which established a working group on bioterrorism and other public health emergencies.
 
-    Subsec. (b)(2). [Pub. L. 109–417, § 301(d)(1)][/us/pl/109/417/s301/d/1], substituted “At-Risk Individuals and Public Health Emergencies” for “Children and Terrorism” in heading.
+    Subsec. (b)(2). [Pub. L. 109–417][/us/pl/109/417], § 301(d)(1), substituted “At-Risk Individuals and Public Health Emergencies” for “Children and Terrorism” in heading.
 
-    Subsec. (b)(2)(A). [Pub. L. 109–417, § 301(d)(2)][/us/pl/109/417/s301/d/2], substituted “At-Risk Individuals and Public Health Emergencies” for “Children and Terrorism”.
+    Subsec. (b)(2)(A). [Pub. L. 109–417][/us/pl/109/417], § 301(d)(2), substituted “At-Risk Individuals and Public Health Emergencies” for “Children and Terrorism”.
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 109–417, § 301(d)(3)(A)][/us/pl/109/417/s301/d/3/A], substituted “public health emergencies as they relate to at-risk individuals” for “bioterrorism as it relates to children”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 109–417][/us/pl/109/417], § 301(d)(3)(A), substituted “public health emergencies as they relate to at-risk individuals” for “bioterrorism as it relates to children”.
 
-    Subsec. (b)(2)(B)(ii), (iii). [Pub. L. 109–417, § 301(d)(3)(B)][/us/pl/109/417/s301/d/3/B], (C), substituted “at-risk individuals” for “children”.
+    Subsec. (b)(2)(B)(ii), (iii). [Pub. L. 109–417][/us/pl/109/417], § 301(d)(3)(B), (C), substituted “at-risk individuals” for “children”.
 
-    Subsec. (b)(2)(C). [Pub. L. 109–417, § 301(d)(4)][/us/pl/109/417/s301/d/4], substituted “at-risk populations” for “children, and child health experts on infectious disease, environmental health, toxicology, and other relevant professional disciplines”.
+    Subsec. (b)(2)(C). [Pub. L. 109–417][/us/pl/109/417], § 301(d)(4), substituted “at-risk populations” for “children, and child health experts on infectious disease, environmental health, toxicology, and other relevant professional disciplines”.
 
-    Subsec. (b)(2)(D). [Pub. L. 109–417, § 301(d)(5)][/us/pl/109/417/s301/d/5], substituted “six years” for “one year”.
+    Subsec. (b)(2)(D). [Pub. L. 109–417][/us/pl/109/417], § 301(d)(5), substituted “six years” for “one year”.
 
-    Subsec. (b)(3)(B). [Pub. L. 109–417, § 301(e)][/us/pl/109/417/s301/e], struck out “and the working group under subsection (a) of this section” after “Secretary”.
+    Subsec. (b)(3)(B). [Pub. L. 109–417][/us/pl/109/417], § 301(e), struck out “and the working group under subsection (a) of this section” after “Secretary”.
 
-    Subsecs. (c) to (h). [Pub. L. 109–417, § 304(2)][/us/pl/109/417/s304/2]–(4), added subsecs. (c), (d), and (f), redesignated subsec. (h) as (e), and struck out former subsecs. (c) to (g), which related to: in subsec. (c), development of communication strategy; in subsec. (d), Federal Internet site on bioterrorism; in subsec. (e), grants to increase capacity to detect, diagnose, and respond to acts of bioterrorism; in subsec. (f), assistance to State and local health agencies to enable effective response to attacks; and, in subsec. (g), education and training activities.
+    Subsecs. (c) to (h). [Pub. L. 109–417][/us/pl/109/417], § 304(2)–(4), added subsecs. (c), (d), and (f), redesignated subsec. (h) as (e), and struck out former subsecs. (c) to (g), which related to: in subsec. (c), development of communication strategy; in subsec. (d), Federal Internet site on bioterrorism; in subsec. (e), grants to increase capacity to detect, diagnose, and respond to acts of bioterrorism; in subsec. (f), assistance to State and local health agencies to enable effective response to attacks; and, in subsec. (g), education and training activities.
 
-    Subsecs. (i), (j). [Pub. L. 109–417, § 304(5)][/us/pl/109/417/s304/5], struck out subsecs. (i) and (j) which related to report to congressional committees on public health and medical consequences of a bioterrorist attack and the supplementary nature of funds appropriated under this section, respectively.
+    Subsecs. (i), (j). [Pub. L. 109–417][/us/pl/109/417], § 304(5), struck out subsecs. (i) and (j) which related to report to congressional committees on public health and medical consequences of a bioterrorist attack and the supplementary nature of funds appropriated under this section, respectively.
 
-    2004—Subsec. (a)(1). [Pub. L. 108–276, § 2(d)(1)][/us/pl/108/276/s2/d/1], inserted “the Secretary of Homeland Security,” after “Management Agency,” in introductory provisions.
+    2004—Subsec. (a)(1). [Pub. L. 108–276][/us/pl/108/276], § 2(d)(1), inserted “the Secretary of Homeland Security,” after “Management Agency,” in introductory provisions.
 
-    Subsec. (h)(4)(B). [Pub. L. 108–276, § 2(d)(2)][/us/pl/108/276/s2/d/2], substituted “to treat, identify, or prevent conditions” for “to diagnose conditions”.
+    Subsec. (h)(4)(B). [Pub. L. 108–276][/us/pl/108/276], § 2(d)(2), substituted “to treat, identify, or prevent conditions” for “to diagnose conditions”.
 
-    2002—Subsec. (a). [Pub. L. 107–188, § 108][/us/pl/107/188/s108], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, in coordination with the Secretary of Defense, shall establish a joint interdepartmental working group on preparedness and readiness for the medical and public health effects of a bioterrorist attack on the civilian population. Such joint working group shall—
+    2002—Subsec. (a). [Pub. L. 107–188][/us/pl/107/188], § 108, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, in coordination with the Secretary of Defense, shall establish a joint interdepartmental working group on preparedness and readiness for the medical and public health effects of a bioterrorist attack on the civilian population. Such joint working group shall—
 
     “(1) coordinate research on pathogens likely to be used in a bioterrorist attack on the civilian population as well as therapies to treat such pathogens;
 
@@ -249,25 +249,25 @@
 
     “(4) coordinate the development, maintenance, and procedures for the release of, strategic reserves of vaccines, drugs, and medical supplies which may be needed rapidly after a bioterrorist attack upon the civilian population.”
 
-    Subsec. (b). [Pub. L. 107–188, § 104(a)(1)][/us/pl/107/188/s104/a/1], (3), added subsec. (b) and struck out former subsec. (b) which related to establishment, functions, membership, and coordination of a working group on the public health and medical consequences of bioterrorism.
+    Subsec. (b). [Pub. L. 107–188][/us/pl/107/188], § 104(a)(1), (3), added subsec. (b) and struck out former subsec. (b) which related to establishment, functions, membership, and coordination of a working group on the public health and medical consequences of bioterrorism.
 
-    Subsecs. (c), (d). [Pub. L. 107–188, § 104(a)(3)][/us/pl/107/188/s104/a/3], added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+    Subsecs. (c), (d). [Pub. L. 107–188][/us/pl/107/188], § 104(a)(3), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-    Subsec. (e). [Pub. L. 107–188, § 104(a)(2)][/us/pl/107/188/s104/a/2], redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+    Subsec. (e). [Pub. L. 107–188][/us/pl/107/188], § 104(a)(2), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-    Subsec. (e)(2). [Pub. L. 107–188, § 111(3)][/us/pl/107/188/s111/3], which directed the amendment of section 391F(e)(2) of the Public Health Service Act by striking out “or” after “clinic,” and inserting before period “, professional organization or society, school or program that trains medical laboratory personnel, private accrediting organization, or other nonprofit private institution or entity meeting criteria established by the Secretary”, was executed to subsec. (e)(2) of this section, which is section 319F(e)(2) of the Act, to reflect the probable intent of Congress.
+    Subsec. (e)(2). [Pub. L. 107–188][/us/pl/107/188], § 111(3), which directed the amendment of section 391F(e)(2) of the Public Health Service Act by striking out “or” after “clinic,” and inserting before period “, professional organization or society, school or program that trains medical laboratory personnel, private accrediting organization, or other nonprofit private institution or entity meeting criteria established by the Secretary”, was executed to subsec. (e)(2) of this section, which is section 319F(e)(2) of the Act, to reflect the probable intent of Congress.
 
-    Subsec. (f). [Pub. L. 107–188, § 104(a)(2)][/us/pl/107/188/s104/a/2], redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
+    Subsec. (f). [Pub. L. 107–188][/us/pl/107/188], § 104(a)(2), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
 
-    Subsec. (g). [Pub. L. 107–188, § 105][/us/pl/107/188/s105], amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary, in collaboration with members of the working group described in subsection (b) of this section, and professional organizations and societies, shall—
+    Subsec. (g). [Pub. L. 107–188][/us/pl/107/188], § 105, amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary, in collaboration with members of the working group described in subsection (b) of this section, and professional organizations and societies, shall—
 
     “(1) develop and implement educational programs to instruct public health officials, medical professionals, and other personnel working in health care facilities in the recognition and care of victims of a bioterrorist attack; and
 
     “(2) develop and implement programs to train laboratory personnel in the recognition and identification of a potential bioweapon.”
 
-    [Pub. L. 107–188, § 104(a)(2)][/us/pl/107/188/s104/a/2], redesignated subsec. (e) as (g). Former subsec. (g) redesignated (i).
+    [Pub. L. 107–188][/us/pl/107/188], § 104(a)(2), redesignated subsec. (e) as (g). Former subsec. (g) redesignated (i).
 
-    Subsec. (h). [Pub. L. 107–188, § 125][/us/pl/107/188/s125], amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary shall consult with the working group described in subsection (a) of this section, to develop priorities for and conduct research, investigations, experiments, demonstrations, and studies in the health sciences related to—
+    Subsec. (h). [Pub. L. 107–188][/us/pl/107/188], § 125, amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary shall consult with the working group described in subsection (a) of this section, to develop priorities for and conduct research, investigations, experiments, demonstrations, and studies in the health sciences related to—
 
     “(1) the epidemiology and pathogenesis of potential bioweapons;
 
@@ -277,15 +277,15 @@
 
     “(4) other relevant research areas.”
 
-    [Pub. L. 107–188, § 104(a)(2)][/us/pl/107/188/s104/a/2], redesignated subsec. (f) as (h). Former subsec. (h) redesignated (j).
+    [Pub. L. 107–188][/us/pl/107/188], § 104(a)(2), redesignated subsec. (f) as (h). Former subsec. (h) redesignated (j).
 
-    Subsec. (i). [Pub. L. 107–188, § 104(a)(1)][/us/pl/107/188/s104/a/1], (2), redesignated subsec. (g) as (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section $215,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2006.”
+    Subsec. (i). [Pub. L. 107–188][/us/pl/107/188], § 104(a)(1), (2), redesignated subsec. (g) as (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section $215,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2006.”
 
-    Subsec. (j). [Pub. L. 107–188, § 104(a)(2)][/us/pl/107/188/s104/a/2], redesignated subsec. (h) as (j).
+    Subsec. (j). [Pub. L. 107–188][/us/pl/107/188], § 104(a)(2), redesignated subsec. (h) as (j).
 
  __Other Reports__ 
 
-[Pub. L. 107–188, title I, § 101(b)(1)][/us/pl/107/188/s101/b/1], June 12, 2002, [116 Stat. 598][/us/stat/116/598], provided that:
+[Pub. L. 107–188, title I][/us/pl/107/188/tI], § 101(b)(1), June 12, 2002, [116 Stat. 598][/us/stat/116/598], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -305,7 +305,7 @@
 
  __Study Regarding Communications Abilities of Public Health Agencies__ 
 
-[Pub. L. 107–188, title I, § 104(b)][/us/pl/107/188/s104/b], June 12, 2002, [116 Stat. 606][/us/stat/116/606], provided that: 
+[Pub. L. 107–188, title I][/us/pl/107/188/tI], § 104(b), June 12, 2002, [116 Stat. 606][/us/stat/116/606], provided that: 
 
 > “The Secretary of Health and Human Services, in consultation with the Federal Communications Commission, the National Telecommunications and Information Administration, and other appropriate Federal agencies, shall conduct a study to determine whether local public health entities have the ability to maintain communications in the event of a bioterrorist attack or other public health emergency. The study shall examine whether redundancies are required in the telecommunications system, particularly with respect to mobile communications, for public health entities to maintain systems operability and connectivity during such emergencies. The study shall also include recommendations to industry and public health entities about how to implement such redundancies if necessary.”
 
@@ -322,47 +322,47 @@
 [/us/usc/t42/s300hh–1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%931%2Fb%2F2
 [/us/usc/t42/s262a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a%2Fa%2F1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
+[/us/pl/106/505/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2FtI
 [/us/stat/114/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2321
-[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F605
-[/us/pl/108/276/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fd
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
 [/us/stat/118/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F842
-[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2FtIII
 [/us/stat/120/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2854
-[/us/pl/113/5/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs203%2Fa
+[/us/pl/113/5/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2FtII
 [/us/stat/127/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F175
 [/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
-[/us/pl/109/417/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs304%2F1
-[/us/pl/109/417/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fd%2F1
-[/us/pl/109/417/s301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fd%2F2
-[/us/pl/109/417/s301/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fd%2F3%2FA
-[/us/pl/109/417/s301/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fd%2F3%2FB
-[/us/pl/109/417/s301/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fd%2F4
-[/us/pl/109/417/s301/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fd%2F5
-[/us/pl/109/417/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs301%2Fe
-[/us/pl/109/417/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs304%2F2
-[/us/pl/109/417/s304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs304%2F5
-[/us/pl/108/276/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fd%2F1
-[/us/pl/108/276/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276%2Fs2%2Fd%2F2
-[/us/pl/107/188/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs108
-[/us/pl/107/188/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fa%2F1
-[/us/pl/107/188/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fa%2F3
-[/us/pl/107/188/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fa%2F2
-[/us/pl/107/188/s111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs111%2F3
-[/us/pl/107/188/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fa%2F2
-[/us/pl/107/188/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs105
-[/us/pl/107/188/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fa%2F2
-[/us/pl/107/188/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs125
-[/us/pl/107/188/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fa%2F2
-[/us/pl/107/188/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fa%2F1
-[/us/pl/107/188/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fa%2F2
-[/us/pl/107/188/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs101%2Fb%2F1
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/108/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F276
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F598
 [/us/usc/t42/s247d–6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fb%2F2
 [/us/usc/t42/s247d–6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936%2Fb%2F3
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
-[/us/pl/107/188/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs104%2Fb
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F606
 
 

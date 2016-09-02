@@ -27,13 +27,13 @@
 
         The State Justice Institute may use up to 5 percent of the funds appropriated under this section for annually compiling and broadly disseminating (including through electronic publication) information about the use of funds and about the projects funded under this section, including any evaluations of the projects and information to enable the replication and adoption of the projects.
 
-([Pub. L. 103–322, title IV, § 40414][/us/pl/103/322/s40414], Sept. 13, 1994, [108 Stat. 1944][/us/stat/108/1944]; [Pub. L. 106–386, div. B, title IV, § 1406(a)(2)][/us/pl/106/386/s1406/a/2], (c)(3), Oct. 28, 2000, [114 Stat. 1516][/us/stat/114/1516].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40414, Sept. 13, 1994, [108 Stat. 1944][/us/stat/108/1944]; [Pub. L. 106–386, div. B, title IV][/us/pl/106/386/dB/tIV], § 1406(a)(2), (c)(3), Oct. 28, 2000, [114 Stat. 1516][/us/stat/114/1516].)
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–386, § 1406(a)(2)][/us/pl/106/386/s1406/a/2], inserted “and $1,500,000 for each of the fiscal years 2001 through 2005” after “1996”.
+    2000—Subsec. (a). [Pub. L. 106–386][/us/pl/106/386], § 1406(a)(2), inserted “and $1,500,000 for each of the fiscal years 2001 through 2005” after “1996”.
 
-    Subsec. (c). [Pub. L. 106–386, § 1406(c)(3)][/us/pl/106/386/s1406/c/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–386][/us/pl/106/386], § 1406(c)(3), added subsec. (c).
 
 ----------
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40414
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1944
-[/us/pl/106/386/s1406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fa%2F2
+[/us/pl/106/386/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIV
 [/us/stat/114/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1516
-[/us/pl/106/386/s1406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fa%2F2
-[/us/pl/106/386/s1406/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1406%2Fc%2F3
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 
 

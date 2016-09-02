@@ -85,7 +85,7 @@
 
         None of the funds authorized under this section may be used to decommission the Fast Flux Test Facility.
 
-([Pub. L. 109–58, title IX, § 951][/us/pl/109/58/s951], Aug. 8, 2005, [119 Stat. 884][/us/stat/119/884].)
+([Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 951, Aug. 8, 2005, [119 Stat. 884][/us/stat/119/884].)
 
 ----------
 
@@ -98,7 +98,7 @@
 [/us/usc/t42/s16273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16273
 [/us/usc/t42/s16274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16274
 [/us/usc/t42/s16277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16277
-[/us/pl/109/58/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs951
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F884
 
 

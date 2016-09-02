@@ -71,11 +71,11 @@
 
         The Secretary shall ensure that recipients of funds under this part ensure the consistent participation by emergency shelters and homelessness prevention and rehousing programs in any applicable community-wide homeless management information system.
 
-([Pub. L. 100–77, title IV, § 416][/us/pl/100/77/s416], formerly § 415, July 22, 1987, [101 Stat. 497][/us/stat/101/497]; [Pub. L. 100–628, title IV, § 424][/us/pl/100/628/s424], Nov. 7, 1988, [102 Stat. 3232][/us/stat/102/3232]; [Pub. L. 101–625, title VIII, § 832(e)(1)][/us/pl/101/625/s832/e/1], (2), (h), Nov. 28, 1990, [104 Stat. 4360][/us/stat/104/4360], 4362; [Pub. L. 102–550, title XIV, § 1402(b)][/us/pl/102/550/s1402/b]–(d), Oct. 28, 1992, [106 Stat. 4012][/us/stat/106/4012], 4013; [Pub. L. 104–330, title V, § 506(a)(5)][/us/pl/104/330/s506/a/5], Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 416 and amended [Pub. L. 111–22, div. B, title II][/us/pl/111/22], §§ 1201(3), 1203, May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], 1680.)
+([Pub. L. 100–77, title IV][/us/pl/100/77/tIV], § 416, formerly § 415, July 22, 1987, [101 Stat. 497][/us/stat/101/497]; [Pub. L. 100–628, title IV][/us/pl/100/628/tIV], § 424, Nov. 7, 1988, [102 Stat. 3232][/us/stat/102/3232]; [Pub. L. 101–625, title VIII][/us/pl/101/625/tVIII], § 832(e)(1), (2), (h), Nov. 28, 1990, [104 Stat. 4360][/us/stat/104/4360], 4362; [Pub. L. 102–550, title XIV][/us/pl/102/550/tXIV], § 1402(b)–(d), Oct. 28, 1992, [106 Stat. 4012][/us/stat/106/4012], 4013; [Pub. L. 104–330, title V][/us/pl/104/330/tV], § 506(a)(5), Oct. 26, 1996, [110 Stat. 4044][/us/stat/110/4044]; renumbered § 416 and amended [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], §§ 1201(3), 1203, May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], 1680.)
 
  __References in Text__ 
 
-    [Section 11374 of this title][/us/usc/t42/s11374], referred to in subsec. (c)(1)(C), was in the original a reference to section 414, meaning [section 414 of Pub. L. 100–77][/us/pl/100/77/s414], which has been translated as reading [section 415 of Pub. L. 100–77][/us/pl/100/77/s415] to reflect the probable intent of Congress and the renumbering of [section 414 of Pub. L. 100–77][/us/pl/100/77/s414] as section 415 by [Pub. L. 111–22, div. B, title II, § 1201(3)][/us/pl/111/22/s1201/3], May 20, 2009, [123 Stat. 1678][/us/stat/123/1678].
+    [Section 11374 of this title][/us/usc/t42/s11374], referred to in subsec. (c)(1)(C), was in the original a reference to section 414, meaning [section 414 of Pub. L. 100–77][/us/pl/100/77/s414], which has been translated as reading [section 415 of Pub. L. 100–77][/us/pl/100/77/s415] to reflect the probable intent of Congress and the renumbering of [section 414 of Pub. L. 100–77][/us/pl/100/77/s414] as section 415 by [Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1201(3), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678].
 
  __Prior Provisions__ 
 
@@ -83,27 +83,27 @@
 
  __Amendments__ 
 
-    2009—Subsec. (f). [Pub. L. 111–22, § 1203][/us/pl/111/22/s1203], added subsec. (f).
+    2009—Subsec. (f). [Pub. L. 111–22][/us/pl/111/22], § 1203, added subsec. (f).
 
     1996—Subsec. (c)(4). [Pub. L. 104–330][/us/pl/104/330] struck out “Indian tribes,” after “local governments,”.
 
-    1992—Subsec. (c). [Pub. L. 102–550, § 1402(b)][/us/pl/102/550/s1402/b], in par. (1), substituted a semicolon for period at end, in par. (3), struck out “and” at end, in par. (4), inserted “it will” after “State,” and struck out “and” at end, in par. (5), inserted “it will” before “develop” and substituted a semicolon for period at end, redesignated par. (4), relating to consistency of activities undertaken with assistance under this part, as (6) and substituted “; and” for period at end, and added par. (7).
+    1992—Subsec. (c). [Pub. L. 102–550][/us/pl/102/550], § 1402(b), in par. (1), substituted a semicolon for period at end, in par. (3), struck out “and” at end, in par. (4), inserted “it will” after “State,” and struck out “and” at end, in par. (5), inserted “it will” before “develop” and substituted a semicolon for period at end, redesignated par. (4), relating to consistency of activities undertaken with assistance under this part, as (6) and substituted “; and” for period at end, and added par. (7).
 
-    Subsec. (d). [Pub. L. 102–550, § 1402(c)][/us/pl/102/550/s1402/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–550][/us/pl/102/550], § 1402(c), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 102–550, § 1402(d)][/us/pl/102/550/s1402/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 102–550][/us/pl/102/550], § 1402(d), added subsec. (e).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–625, § 832(e)(1)(A)][/us/pl/101/625/s832/e/1/A], substituted “Except as provided in paragraph (2), each” for “Each”.
+    1990—Subsec. (a)(1). [Pub. L. 101–625][/us/pl/101/625], § 832(e)(1)(A), substituted “Except as provided in paragraph (2), each” for “Each”.
 
-    Subsec. (a)(2), (3). [Pub. L. 101–625, § 832(e)(1)(B)][/us/pl/101/625/s832/e/1/B], (C), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 101–625][/us/pl/101/625], § 832(e)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (c)(2), (3). [Pub. L. 101–625, § 832(e)(2)(A)][/us/pl/101/625/s832/e/2/A], (B), (h)(1), (2), amended subsec. (c) identically, striking “and” at end of par. (2) and substituting “; and” for period at end of par. (3).
+    Subsec. (c)(2), (3). [Pub. L. 101–625][/us/pl/101/625], § 832(e)(2)(A), (B), (h)(1), (2), amended subsec. (c) identically, striking “and” at end of par. (2) and substituting “; and” for period at end of par. (3).
 
-    Subsec. (c)(4). [Pub. L. 101–625, § 832(h)(3)][/us/pl/101/625/s832/h/3], added (after par. (5)) par. (4) relating to consistency of activities undertaken with assistance under this part.
+    Subsec. (c)(4). [Pub. L. 101–625][/us/pl/101/625], § 832(h)(3), added (after par. (5)) par. (4) relating to consistency of activities undertaken with assistance under this part.
 
-    [Pub. L. 101–625, § 832(e)(2)(C)][/us/pl/101/625/s832/e/2/C], added par. (4) relating to matching funds obtained by State recipients of assistance under this part.
+    [Pub. L. 101–625][/us/pl/101/625], § 832(e)(2)(C), added par. (4) relating to matching funds obtained by State recipients of assistance under this part.
 
-    Subsec. (c)(5). [Pub. L. 101–625, § 832(e)(2)(C)][/us/pl/101/625/s832/e/2/C], added par. (5).
+    Subsec. (c)(5). [Pub. L. 101–625][/us/pl/101/625], § 832(e)(2)(C), added par. (5).
 
     1988—Subsec. (c)(1). [Pub. L. 100–628][/us/pl/100/628] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “it will maintain any building for which assistance is used under this part as a shelter for homeless individuals for not less than a 3-year period or for not less than a 10-year period if such assistance is used for the major rehabilitation or conversion of such building;”.
 
@@ -125,37 +125,37 @@
 ----------
 
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
-[/us/pl/100/77/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs416
+[/us/pl/100/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIV
 [/us/stat/101/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F497
-[/us/pl/100/628/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs424
+[/us/pl/100/628/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtIV
 [/us/stat/102/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3232
-[/us/pl/101/625/s832/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fe%2F1
+[/us/pl/101/625/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtVIII
 [/us/stat/104/4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4360
-[/us/pl/102/550/s1402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1402%2Fb
+[/us/pl/102/550/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXIV
 [/us/stat/106/4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4012
-[/us/pl/104/330/s506/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs506%2Fa%2F5
+[/us/pl/104/330/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2FtV
 [/us/stat/110/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4044
-[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
 [/us/usc/t42/s11374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11374
 [/us/pl/100/77/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs414
 [/us/pl/100/77/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs415
 [/us/pl/100/77/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs414
-[/us/pl/111/22/s1201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1201%2F3
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
 [/us/pl/100/77/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs416
 [/us/usc/t42/s11376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11376
-[/us/pl/111/22/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1203
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
-[/us/pl/102/550/s1402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1402%2Fb
-[/us/pl/102/550/s1402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1402%2Fc
-[/us/pl/102/550/s1402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1402%2Fd
-[/us/pl/101/625/s832/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fe%2F1%2FA
-[/us/pl/101/625/s832/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fe%2F1%2FB
-[/us/pl/101/625/s832/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fe%2F2%2FA
-[/us/pl/101/625/s832/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fh%2F3
-[/us/pl/101/625/s832/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fe%2F2%2FC
-[/us/pl/101/625/s832/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs832%2Fe%2F2%2FC
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503

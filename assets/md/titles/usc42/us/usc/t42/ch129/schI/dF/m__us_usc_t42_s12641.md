@@ -17,7 +17,7 @@
 
     [Section 1226a of title 20][/us/usc/t20/s1226a] shall apply to this chapter.
 
-([Pub. L. 101–610, title I, § 181][/us/pl/101/610/s181], Nov. 16, 1990, [104 Stat. 3166][/us/stat/104/3166]; [Pub. L. 103–82, title I, § 120(a)][/us/pl/103/82/s120/a], Sept. 21, 1993, [107 Stat. 866][/us/stat/107/866]; [Pub. L. 111–13, title I, § 1609][/us/pl/111/13/s1609], Apr. 21, 2009, [123 Stat. 1537][/us/stat/123/1537].)
+([Pub. L. 101–610, title I][/us/pl/101/610/tI], § 181, Nov. 16, 1990, [104 Stat. 3166][/us/stat/104/3166]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 120(a), Sept. 21, 1993, [107 Stat. 866][/us/stat/107/866]; [Pub. L. 111–13, title I][/us/pl/111/13/tI], § 1609, Apr. 21, 2009, [123 Stat. 1537][/us/stat/123/1537].)
 
  __References in Text__ 
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/usc/t20/s1226a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1226a
-[/us/pl/101/610/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs181
+[/us/pl/101/610/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtI
 [/us/stat/104/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3166
-[/us/pl/103/82/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs120%2Fa
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F866
-[/us/pl/111/13/s1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1609
+[/us/pl/111/13/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtI
 [/us/stat/123/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1537
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127

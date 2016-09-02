@@ -21,7 +21,7 @@
 
     (2) the term “naturally degradable material” means a material which, when discarded, will be reduced to environmentally benign subunits under the action of normal environmental forces, such as, among others, biological decomposition, photodegradation, or hydrolysis.
 
-([Pub. L. 100–556, title I, § 102][/us/pl/100/556/s102], Oct. 28, 1988, [102 Stat. 2779][/us/stat/102/2779].)
+([Pub. L. 100–556, title I][/us/pl/100/556/tI], § 102, Oct. 28, 1988, [102 Stat. 2779][/us/stat/102/2779].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 100–556, title I, § 101][/us/pl/100/556/s101], Oct. 28, 1988, [102 Stat. 2779][/us/stat/102/2779], provided that: 
+[Pub. L. 100–556, title I][/us/pl/100/556/tI], § 101, Oct. 28, 1988, [102 Stat. 2779][/us/stat/102/2779], provided that: 
 
 > “The Congress finds that—
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/100/556/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F556%2Fs102
+[/us/pl/100/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F556%2FtI
 [/us/stat/102/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2779
 [/us/pl/100/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F556
 [/us/stat/102/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2779
 [/us/usc/t42/s6914b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6914b
-[/us/pl/100/556/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F556%2Fs101
+[/us/pl/100/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F556%2FtI
 [/us/stat/102/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2779
 
 

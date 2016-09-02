@@ -53,7 +53,7 @@
 
         The term “Secretary” means the Secretary of Housing and Urban Development.
 
-([Pub. L. 102–550, title VI, § 683][/us/pl/102/550/s683], Oct. 28, 1992, [106 Stat. 3831][/us/stat/106/3831]; [Pub. L. 111–8, div. I, title II, § 228][/us/pl/111/8/s228], Mar. 11, 2009, [123 Stat. 978][/us/stat/123/978].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 683, Oct. 28, 1992, [106 Stat. 3831][/us/stat/106/3831]; [Pub. L. 111–8, div. I, title II][/us/pl/111/8/dI/tII], § 228, Mar. 11, 2009, [123 Stat. 978][/us/stat/123/978].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t12/s1715z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%931
 [/us/usc/t42/s1437f/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fb%2F2
-[/us/pl/102/550/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs683
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3831
-[/us/pl/111/8/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs228
+[/us/pl/111/8/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdI%2FtII
 [/us/stat/123/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F978
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3802

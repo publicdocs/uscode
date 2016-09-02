@@ -41,13 +41,13 @@
 
         For the purpose of making payments pursuant to grants under subsection (a) of this section, there are authorized to be appropriated $25,000,000 for the fiscal year ending June 30, 1975, $75,000,000 for the fiscal year ending June 30, 1976, $120,000,000 each for the fiscal years ending September 30, 1977, and September 30, 1978, $20,000,000 for the fiscal year ending September 30, 1981, and $30,000,000 for the fiscal year ending September 30, 1982.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1640, as added [Pub. L. 93–641, § 4][/us/pl/93/641/s4], Jan. 4, 1975, [88 Stat. 2273][/us/stat/88/2273]; amended [Pub. L. 95–83, title I, § 103(c)][/us/pl/95/83/s103/c], Aug. 1, 1977, [91 Stat. 383][/us/stat/91/383]; [Pub. L. 96–79, title I, § 127(e)][/us/pl/96/79/s127/e], Oct. 4, 1979, [93 Stat. 629][/us/stat/93/629].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1640, as added [Pub. L. 93–641][/us/pl/93/641], § 4, Jan. 4, 1975, [88 Stat. 2273][/us/stat/88/2273]; amended [Pub. L. 95–83, title I][/us/pl/95/83/tI], § 103(c), Aug. 1, 1977, [91 Stat. 383][/us/stat/91/383]; [Pub. L. 96–79, title I][/us/pl/96/79/tI], § 127(e), Oct. 4, 1979, [93 Stat. 629][/us/stat/93/629].)
 
  __References in Text__ 
 
-    Sections 300l–2, 300l–4, and 300n–4 of this title, referred to in subsec. (a), were repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
+    Sections 300l–2, 300l–4, and 300n–4 of this title, referred to in subsec. (a), were repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII][/us/pl/99/660/tVII], § 701(a), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799].
 
-    Section 300l–1 of this title, referred to in subsec. (a)(3), was in the original a reference to section 1512 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII, § 701(a)][/us/pl/99/660/s701/a], Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799]. [Pub. L. 102–531, title III, § 307][/us/pl/102/531/s307], Oct. 27, 1992, [106 Stat. 3495][/us/stat/106/3495], enacted section 1502A of act July 1, 1944, which is classified to section 300l–1 of this title.
+    Section 300l–1 of this title, referred to in subsec. (a)(3), was in the original a reference to section 1512 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by [Pub. L. 99–660, title VII][/us/pl/99/660/tVII], § 701(a), Nov. 14, 1986, [100 Stat. 3799][/us/stat/100/3799]. [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 307, Oct. 27, 1992, [106 Stat. 3495][/us/stat/106/3495], enacted section 1502A of act July 1, 1944, which is classified to section 300l–1 of this title.
 
  __Amendments__ 
 
@@ -63,17 +63,17 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2273
-[/us/pl/95/83/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2Fs103%2Fc
+[/us/pl/95/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83%2FtI
 [/us/stat/91/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F383
-[/us/pl/96/79/s127/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs127%2Fe
+[/us/pl/96/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtI
 [/us/stat/93/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F629
-[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/pl/99/660/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
-[/us/pl/99/660/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs701%2Fa
+[/us/pl/99/660/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2FtVII
 [/us/stat/100/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3799
-[/us/pl/102/531/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs307
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3495
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
 [/us/pl/95/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F83

@@ -125,7 +125,7 @@
 
         For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see [section 1320b–17 of this title][/us/usc/t42/s1320b–17].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 204, [49 Stat. 624][/us/stat/49/624]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1368; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(b)(1), [64 Stat. 523][/us/stat/64/523]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 111(a), [68 Stat. 1085][/us/stat/68/1085]; [Pub. L. 89–97, title III, § 329][/us/pl/89/97/s329], July 30, 1965, [79 Stat. 401][/us/stat/79/401]; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 152, 153(a), 154(a), Jan. 2, 1968, [81 Stat. 860][/us/stat/81/860], 861; [Pub. L. 96–265, title V, § 501(b)][/us/pl/96/265/s501/b], June 9, 1980, [94 Stat. 470][/us/stat/94/470]; [Pub. L. 99–272, title XII, § 12113(a)][/us/pl/99/272/s12113/a], Apr. 7, 1986, [100 Stat. 288][/us/stat/100/288]; [Pub. L. 101–239, title X, § 10305(b)][/us/pl/101/239/s10305/b], Dec. 19, 1989, [103 Stat. 2483][/us/stat/103/2483]; [Pub. L. 101–508, title V, § 5129(a)][/us/pl/101/508/s5129/a], Nov. 5, 1990, [104 Stat. 1388–287][/us/stat/104/1388-287]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 103–387, § 5(a)][/us/pl/103/387/s5/a], Oct. 22, 1994, [108 Stat. 4077][/us/stat/108/4077]; [Pub. L. 104–134, title III, § 31001(z)(2)(A)][/us/pl/104/134/s31001/z/2/A], Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379]; [Pub. L. 104–316, title I, § 115(g)(2)(E)][/us/pl/104/316/s115/g/2/E], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–306, § 8(b)(1)][/us/pl/105/306/s8/b/1], Oct. 28, 1998, [112 Stat. 2929][/us/stat/112/2929]; [Pub. L. 106–169, title II][/us/pl/106/169], §§ 201(a), 203(c), Dec. 14, 1999, [113 Stat. 1831][/us/stat/113/1831], 1832; [Pub. L. 108–203, title II, § 210(b)(1)][/us/pl/108/203/s210/b/1], Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517]; [Pub. L. 111–115, § 2(a)][/us/pl/111/115/s2/a], Dec. 15, 2009, [123 Stat. 3029][/us/stat/123/3029]; [Pub. L. 114–74, title VIII, § 834(a)][/us/pl/114/74/s834/a], Nov. 2, 2015, [129 Stat. 614][/us/stat/129/614].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 204, [49 Stat. 624][/us/stat/49/624]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1368; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(b)(1), [64 Stat. 523][/us/stat/64/523]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 111(a), [68 Stat. 1085][/us/stat/68/1085]; [Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 329, July 30, 1965, [79 Stat. 401][/us/stat/79/401]; [Pub. L. 90–248, title I][/us/pl/90/248/tI], §§ 152, 153(a), 154(a), Jan. 2, 1968, [81 Stat. 860][/us/stat/81/860], 861; [Pub. L. 96–265, title V][/us/pl/96/265/tV], § 501(b), June 9, 1980, [94 Stat. 470][/us/stat/94/470]; [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12113(a), Apr. 7, 1986, [100 Stat. 288][/us/stat/100/288]; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10305(b), Dec. 19, 1989, [103 Stat. 2483][/us/stat/103/2483]; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5129(a), Nov. 5, 1990, [104 Stat. 1388–287][/us/stat/104/1388-287]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 107(a)(4), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 103–387][/us/pl/103/387], § 5(a), Oct. 22, 1994, [108 Stat. 4077][/us/stat/108/4077]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(z)(2)(A), Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(g)(2)(E), Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–306][/us/pl/105/306], § 8(b)(1), Oct. 28, 1998, [112 Stat. 2929][/us/stat/112/2929]; [Pub. L. 106–169, title II][/us/pl/106/169/tII], §§ 201(a), 203(c), Dec. 14, 1999, [113 Stat. 1831][/us/stat/113/1831], 1832; [Pub. L. 108–203, title II][/us/pl/108/203/tII], § 210(b)(1), Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517]; [Pub. L. 111–115][/us/pl/111/115], § 2(a), Dec. 15, 2009, [123 Stat. 3029][/us/stat/123/3029]; [Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 834(a), Nov. 2, 2015, [129 Stat. 614][/us/stat/129/614].)
 
  __References in Text__ 
 
@@ -139,9 +139,9 @@
 
     2004—Subsec. (g). [Pub. L. 108–203][/us/pl/108/203] amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For payments which are adjusted or withheld to recover an overpayment of supplemental security income benefits paid under subchapter XVI of this chapter (including State supplementary payments paid under an agreement pursuant to [section 1382e(a) of this title][/us/usc/t42/s1382e/a] or [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b]), see [section 1320b–17 of this title][/us/usc/t42/s1320b–17].”
 
-    1999—Subsec. (a)(2). [Pub. L. 106–169, § 201(a)][/us/pl/106/169/s201/a], inserted at end “If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual’s death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.”
+    1999—Subsec. (a)(2). [Pub. L. 106–169][/us/pl/106/169], § 201(a), inserted at end “If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual’s death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.”
 
-    Subsec. (f)(1). [Pub. L. 106–169, § 203(c)][/us/pl/106/169/s203/c], substituted “3711(f)” for “3711(e)” and inserted “all” before “as in effect”.
+    Subsec. (f)(1). [Pub. L. 106–169][/us/pl/106/169], § 203(c), substituted “3711(f)” for “3711(e)” and inserted “all” before “as in effect”.
 
     1998—Subsec. (g). [Pub. L. 105–306][/us/pl/105/306] added subsec. (g).
 
@@ -149,7 +149,7 @@
 
     Subsec. (f)(1). [Pub. L. 104–316][/us/pl/104/316] substituted “sections 3711(e)” for “sections 3711(f)”.
 
-    1994—Subsecs. (a)(1), (b), (d)(1), (4), (5). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+    1994—Subsecs. (a)(1), (b), (d)(1), (4), (5). [Pub. L. 103–296][/us/pl/103/296], § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
     Subsec. (f). [Pub. L. 103–387][/us/pl/103/387] added subsec. (f).
 
@@ -161,15 +161,15 @@
 
     1980—Subsec. (e). [Pub. L. 96–265][/us/pl/96/265] added subsec. (e).
 
-    1968—Subsec. (a). [Pub. L. 90–248, § 152(a)][/us/pl/90/248/s152/a], incorporated in text preceding par. (1) part of existing provisions and broadened the Secretary’s authority to include recovery of overpayments.
+    1968—Subsec. (a). [Pub. L. 90–248][/us/pl/90/248], § 152(a), incorporated in text preceding par. (1) part of existing provisions and broadened the Secretary’s authority to include recovery of overpayments.
 
-    Subsec. (a)(1). [Pub. L. 90–248, § 153(a)][/us/pl/90/248/s153/a], inserted last sentence which provided that payments made on an erroneous report by the Defense Department of the death, in the line of duty, of a member of the uniformed services on active duty are not to be deemed incorrect payments until the Department notifies the Secretary that he is alive.
+    Subsec. (a)(1). [Pub. L. 90–248][/us/pl/90/248], § 153(a), inserted last sentence which provided that payments made on an erroneous report by the Defense Department of the death, in the line of duty, of a member of the uniformed services on active duty are not to be deemed incorrect payments until the Department notifies the Secretary that he is alive.
 
-    Subsec. (a)(2). [Pub. L. 90–248, § 152(a)][/us/pl/90/248/s152/a], incorporated in par. (2) part of existing provisions and broadened Secretary’s authority to provide that in the case of underpayments, the Secretary is to pay the balance due the underpaid person but if he dies before receiving the full amount due him or before negotiating checks representing the correct payments, the balance due or the amount for which the checks were issued but not negotiated are to be paid under subsec. (d) of this section.
+    Subsec. (a)(2). [Pub. L. 90–248][/us/pl/90/248], § 152(a), incorporated in par. (2) part of existing provisions and broadened Secretary’s authority to provide that in the case of underpayments, the Secretary is to pay the balance due the underpaid person but if he dies before receiving the full amount due him or before negotiating checks representing the correct payments, the balance due or the amount for which the checks were issued but not negotiated are to be paid under subsec. (d) of this section.
 
-    Subsec. (b). [Pub. L. 90–248, § 152(b)][/us/pl/90/248/s152/b], authorized the Secretary to waive adjustment or recovery of overpayments from any person who is without fault, even where he is not the overpaid person and the latter is at fault, whereas heretofore a condition for waiver was that the overpaid person be without fault.
+    Subsec. (b). [Pub. L. 90–248][/us/pl/90/248], § 152(b), authorized the Secretary to waive adjustment or recovery of overpayments from any person who is without fault, even where he is not the overpaid person and the latter is at fault, whereas heretofore a condition for waiver was that the overpaid person be without fault.
 
-    Subsec. (d). [Pub. L. 90–248, § 154(a)][/us/pl/90/248/s154/a], struck out, in text preceding par. (1), provision excepting subsec. (d) from subsec. (a) and provision that the total amount due at the time of death may not exceed the amount of the monthly insurance benefit to which an individual was entitled for the month preceding the month in which he died, added cl. (ii) in par. (1), added pars. (2) to (6), designated existing provisions as par. (7) and inserted therein references to pars. (1) to (6).
+    Subsec. (d). [Pub. L. 90–248][/us/pl/90/248], § 154(a), struck out, in text preceding par. (1), provision excepting subsec. (d) from subsec. (a) and provision that the total amount due at the time of death may not exceed the amount of the monthly insurance benefit to which an individual was entitled for the month preceding the month in which he died, added cl. (ii) in par. (1), added pars. (2) to (6), designated existing provisions as par. (7) and inserted therein references to pars. (1) to (6).
 
     1965—Subsec. (d). [Pub. L. 89–97][/us/pl/89/97] added subsec. (d).
 
@@ -181,25 +181,25 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–74, title VIII, § 834(c)][/us/pl/114/74/s834/c], Nov. 2, 2015, [129 Stat. 615][/us/stat/129/615], provided that: 
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 834(c), Nov. 2, 2015, [129 Stat. 615][/us/stat/129/615], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall apply with respect to determinations made on or after the date that is 3 months after the date of the enactment of this section \[Nov. 2, 2015\].”
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–115, § 2(c)][/us/pl/111/115/s2/c], Dec. 15, 2009, [123 Stat. 3030][/us/stat/123/3030], provided that: 
+[Pub. L. 111–115][/us/pl/111/115], § 2(c), Dec. 15, 2009, [123 Stat. 3030][/us/stat/123/3030], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall be effective for payments that would otherwise be made on or after the date of the enactment of this Act \[Dec. 15, 2009\].”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–203, title II, § 210(c)][/us/pl/108/203/s210/c], Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517], provided that: 
+[Pub. L. 108–203, title II][/us/pl/108/203/tII], § 210(c), Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517], provided that: 
 
 > “The amendments and repeal made by this section \[amending this section and sections 1008, 1320b–17, and 1383 of this title and repealing [section 1320b–18 of this title][/us/usc/t42/s1320b–18]\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall be effective with respect to overpayments under titles II, VIII, and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1001 et seq., 1381 et seq.\] that are outstanding on or after such date.”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–169, title II, § 201(c)][/us/pl/106/169/s201/c], Dec. 14, 1999, [113 Stat. 1831][/us/stat/113/1831], provided that: 
+[Pub. L. 106–169, title II][/us/pl/106/169/tII], § 201(c), Dec. 14, 1999, [113 Stat. 1831][/us/stat/113/1831], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall apply to overpayments made 12 months or more after the date of the enactment of this Act \[Dec. 14, 1999\].”
 
@@ -207,7 +207,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–306, § 8(c)][/us/pl/105/306/s8/c], Oct. 28, 1998, [112 Stat. 2930][/us/stat/112/2930], provided that: 
+[Pub. L. 105–306][/us/pl/105/306], § 8(c), Oct. 28, 1998, [112 Stat. 2930][/us/stat/112/2930], provided that: 
 
 > “The amendments made by this section \[enacting [section 1320b–17 of this title][/us/usc/t42/s1320b–17] and amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\] and shall apply to amounts incorrectly paid which remain outstanding on or after such date.”
 
@@ -227,7 +227,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–272, title XII, § 12113(c)][/us/pl/99/272/s12113/c], Apr. 7, 1986, [100 Stat. 289][/us/stat/100/289], provided that: 
+[Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12113(c), Apr. 7, 1986, [100 Stat. 289][/us/stat/100/289], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall apply only in the case of deaths of which the Secretary is first notified on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
@@ -237,17 +237,17 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–248, title I, § 153(b)][/us/pl/90/248/s153/b], Jan. 2, 1968, [81 Stat. 861][/us/stat/81/861], provided that: 
+[Pub. L. 90–248, title I][/us/pl/90/248/tI], § 153(b), Jan. 2, 1968, [81 Stat. 861][/us/stat/81/861], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to benefits under title II of the Social Security Act \[this subchapter\] if the individual to whom such benefits were paid would have been entitled to such benefits in or after the month in which this Act was enacted \[January 1968\] if the report mentioned in the amendment made by subsection (a) of this section had been correct (but without regard to the provisions of section 202(j)(1) of such Act \[[42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1]\]).”
 
  __Effective Date of 1939 Amendment__ 
 
-    [Act Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], provided that the amendment made by that section is effective Jan. 1, 1940.
+    [Act Aug. 10, 1939, ch. 666, title II][/us/act/1939-08-10/ch666/tII], § 201, [53 Stat. 1362][/us/stat/53/1362], provided that the amendment made by that section is effective Jan. 1, 1940.
 
  __Report on Overpayment Waivers__ 
 
-[Pub. L. 114–74, title VIII, § 845(c)][/us/pl/114/74/s845/c], Nov. 2, 2015, [129 Stat. 619][/us/stat/129/619], provided that: 
+[Pub. L. 114–74, title VIII][/us/pl/114/74/tVIII], § 845(c), Nov. 2, 2015, [129 Stat. 619][/us/stat/129/619], provided that: 
 
 > “Not later than January 1 of each calendar year, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
 
@@ -288,35 +288,35 @@
 [/us/stat/64/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F523
 [/us/act/1954-09-01/ch1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1206
 [/us/stat/68/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1085
-[/us/pl/89/97/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs329
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F401
-[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F860
-[/us/pl/96/265/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs501%2Fb
+[/us/pl/96/265/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2FtV
 [/us/stat/94/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F470
-[/us/pl/99/272/s12113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12113%2Fa
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F288
-[/us/pl/101/239/s10305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10305%2Fb
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2483
-[/us/pl/101/508/s5129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5129%2Fa
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-287
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
-[/us/pl/103/387/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs5%2Fa
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/stat/108/4077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4077
-[/us/pl/104/134/s31001/z/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fz%2F2%2FA
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-379
-[/us/pl/104/316/s115/g/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F2%2FE
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3835
-[/us/pl/105/306/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306%2Fs8%2Fb%2F1
+[/us/pl/105/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306
 [/us/stat/112/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2929
-[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1831
-[/us/pl/108/203/s210/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fb%2F1
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F517
-[/us/pl/111/115/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F115%2Fs2%2Fa
+[/us/pl/111/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F115
 [/us/stat/123/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3029
-[/us/pl/114/74/s834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs834%2Fa
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F614
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697
@@ -327,42 +327,42 @@
 [/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
 [/us/pl/93/66/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212%2Fb
 [/us/usc/t42/s1320b–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9317
-[/us/pl/106/169/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs201%2Fa
-[/us/pl/106/169/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs203%2Fc
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/105/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/usc/t5/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5514
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t31/s3720A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3720A
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
-[/us/pl/90/248/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs152%2Fa
-[/us/pl/90/248/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs153%2Fa
-[/us/pl/90/248/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs152%2Fa
-[/us/pl/90/248/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs152%2Fb
-[/us/pl/90/248/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs154%2Fa
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
-[/us/pl/114/74/s834/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs834%2Fc
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F615
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
-[/us/pl/111/115/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F115%2Fs2%2Fc
+[/us/pl/111/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F115
 [/us/stat/123/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3030
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
-[/us/pl/108/203/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs210%2Fc
+[/us/pl/108/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtII
 [/us/stat/118/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F517
 [/us/usc/t42/s1320b–18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9318
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/106/169/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs201%2Fc
+[/us/pl/106/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2FtII
 [/us/stat/113/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1831
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/pl/106/169/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs203%2Fc
 [/us/pl/106/169/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs203%2Fd
 [/us/usc/t31/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3701
-[/us/pl/105/306/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306%2Fs8%2Fc
+[/us/pl/105/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F306
 [/us/stat/112/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2930
 [/us/usc/t42/s1320b–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9317
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
@@ -379,18 +379,18 @@
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s10305/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10305%2Ff
 [/us/usc/t42/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs403
-[/us/pl/99/272/s12113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12113%2Fc
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F289
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/pl/96/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265
 [/us/pl/96/265/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F265%2Fs501%2Fd
 [/us/usc/t42/s1320a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%936
-[/us/pl/90/248/s153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs153%2Fb
+[/us/pl/90/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtI
 [/us/stat/81/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F861
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
-[/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
+[/us/act/1939-08-10/ch666/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666%2FtII
 [/us/stat/53/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1362
-[/us/pl/114/74/s845/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs845%2Fc
+[/us/pl/114/74/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVIII
 [/us/stat/129/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F619
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401

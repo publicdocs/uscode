@@ -103,7 +103,7 @@
 
             Nothing in this chapter shall preempt the rights and authorities of any State with respect to its water resources or management of those resources.
 
-([Pub. L. 98–242, title I, § 104][/us/pl/98/242/s104], Mar. 22, 1984, [98 Stat. 98][/us/stat/98/98]; [Pub. L. 101–397, § 1(b)][/us/pl/101/397/s1/b]–(h), (m), Sept. 28, 1990, [104 Stat. 852][/us/stat/104/852], 853; [Pub. L. 104–147][/us/pl/104/147], §§ 3–6, May 24, 1996, [110 Stat. 1376][/us/stat/110/1376]; [Pub. L. 106–374][/us/pl/106/374], Oct. 27, 2000, [114 Stat. 1434][/us/stat/114/1434]; [Pub. L. 109–471, § 2(a)][/us/pl/109/471/s2/a]–(e), Jan. 11, 2007, [120 Stat. 3552][/us/stat/120/3552], 3553.)
+([Pub. L. 98–242, title I][/us/pl/98/242/tI], § 104, Mar. 22, 1984, [98 Stat. 98][/us/stat/98/98]; [Pub. L. 101–397][/us/pl/101/397], § 1(b)–(h), (m), Sept. 28, 1990, [104 Stat. 852][/us/stat/104/852], 853; [Pub. L. 104–147][/us/pl/104/147], §§ 3–6, May 24, 1996, [110 Stat. 1376][/us/stat/110/1376]; [Pub. L. 106–374][/us/pl/106/374], Oct. 27, 2000, [114 Stat. 1434][/us/stat/114/1434]; [Pub. L. 109–471][/us/pl/109/471], § 2(a)–(e), Jan. 11, 2007, [120 Stat. 3552][/us/stat/120/3552], 3553.)
 
  __References in Text__ 
 
@@ -113,51 +113,51 @@
 
  __Codification__ 
 
-    In subsec. (h)(1)(C), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (h)(1)(C), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2007—Subsec. (b)(1). [Pub. L. 109–471, § 2(a)][/us/pl/109/471/s2/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research that fosters (A) the entry of new research scientists into the water resources fields, (B) the training and education of future water scientists, engineers, and technicians, (C) the preliminary exploration of new ideas that address water problems or expand understanding of water and water-related phenomena, and (D) the dissemination of research results to water managers and the public, and”.
+    2007—Subsec. (b)(1). [Pub. L. 109–471][/us/pl/109/471], § 2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research that fosters (A) the entry of new research scientists into the water resources fields, (B) the training and education of future water scientists, engineers, and technicians, (C) the preliminary exploration of new ideas that address water problems or expand understanding of water and water-related phenomena, and (D) the dissemination of research results to water managers and the public, and”.
 
-    Subsec. (e). [Pub. L. 109–471, § 2(b)][/us/pl/109/471/s2/b], substituted “3” for “5” and inserted “at producing measured results and applied water supply research” after “effectiveness”.
+    Subsec. (e). [Pub. L. 109–471][/us/pl/109/471], § 2(b), substituted “3” for “5” and inserted “at producing measured results and applied water supply research” after “effectiveness”.
 
-    Subsec. (f)(1). [Pub. L. 109–471, § 2(c)][/us/pl/109/471/s2/c], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005, such sums to remain available until expended.”
+    Subsec. (f)(1). [Pub. L. 109–471][/us/pl/109/471], § 2(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005, such sums to remain available until expended.”
 
-    Subsec. (g)(1). [Pub. L. 109–471, § 2(d)][/us/pl/109/471/s2/d], substituted “$6,000,000 for each of fiscal years 2007 through 2011” for “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005”.
+    Subsec. (g)(1). [Pub. L. 109–471][/us/pl/109/471], § 2(d), substituted “$6,000,000 for each of fiscal years 2007 through 2011” for “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005”.
 
-    Subsec. (h)(2). [Pub. L. 109–471, § 2(e)][/us/pl/109/471/s2/e], substituted “Reports” for “Report” in heading and inserted after first sentence “As part of the annual budget submission to Congress, the Secretary shall also provide a crosscut budget detailing the expenditures on activities listed under subsection (a)(1) and a report which details the level of applied research and the results of the activities authorized by this chapter, including potential and actual—” and subpars. (A) to (D).
+    Subsec. (h)(2). [Pub. L. 109–471][/us/pl/109/471], § 2(e), substituted “Reports” for “Report” in heading and inserted after first sentence “As part of the annual budget submission to Congress, the Secretary shall also provide a crosscut budget detailing the expenditures on activities listed under subsection (a)(1) and a report which details the level of applied research and the results of the activities authorized by this chapter, including potential and actual—” and subpars. (A) to (D).
 
-    2000—Subsec. (f)(1). [Pub. L. 106–374, § 1][/us/pl/106/374/s1], substituted “$9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005” for “$5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000”.
+    2000—Subsec. (f)(1). [Pub. L. 106–374][/us/pl/106/374], § 1, substituted “$9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005” for “$5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000”.
 
-    Subsec. (g)(1). [Pub. L. 106–374, § 2][/us/pl/106/374/s2], in first sentence, substituted “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005” for “$3,000,000 for each of fiscal years 1996 through 2000”.
+    Subsec. (g)(1). [Pub. L. 106–374][/us/pl/106/374], § 2, in first sentence, substituted “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005” for “$3,000,000 for each of fiscal years 1996 through 2000”.
 
-    1996—Subsec. (c). [Pub. L. 104–147, § 3][/us/pl/104/147/s3], substituted “2 non-Federal dollars for every 1 Federal dollar” for “one non-Federal dollar for every Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, and September 30, 1988, and two non-Federal dollars for each Federal dollar during the fiscal year ending September 30, 1989 and thereafter”.
+    1996—Subsec. (c). [Pub. L. 104–147][/us/pl/104/147], § 3, substituted “2 non-Federal dollars for every 1 Federal dollar” for “one non-Federal dollar for every Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, and September 30, 1988, and two non-Federal dollars for each Federal dollar during the fiscal year ending September 30, 1989 and thereafter”.
 
-    Subsec. (f)(1). [Pub. L. 104–147, § 4][/us/pl/104/147/s4], substituted “of $5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000” for “of $10,000,000 for each of the fiscal years ending September 30, 1989, through September 30, 1995,”.
+    Subsec. (f)(1). [Pub. L. 104–147][/us/pl/104/147], § 4, substituted “of $5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000” for “of $10,000,000 for each of the fiscal years ending September 30, 1989, through September 30, 1995,”.
 
-    Subsec. (g)(1). [Pub. L. 104–147, § 5][/us/pl/104/147/s5], substituted “of $3,000,000 for each of fiscal years 1996 through 2000” for “of $5,000,000 for each of the fiscal years 1991, 1992, 1993, 1994, and 1995”.
+    Subsec. (g)(1). [Pub. L. 104–147][/us/pl/104/147], § 5, substituted “of $3,000,000 for each of fiscal years 1996 through 2000” for “of $5,000,000 for each of the fiscal years 1991, 1992, 1993, 1994, and 1995”.
 
-    Subsec. (h). [Pub. L. 104–147, § 6][/us/pl/104/147/s6], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–147][/us/pl/104/147], § 6, added subsec. (h).
 
-    1990—Subsec. (a). [Pub. L. 101–397, § 1(b)][/us/pl/101/397/s1/b], substituted “Federated States of Micronesia” for “Trust Territory of the Pacific Islands”.
+    1990—Subsec. (a). [Pub. L. 101–397][/us/pl/101/397], § 1(b), substituted “Federated States of Micronesia” for “Trust Territory of the Pacific Islands”.
 
-    Subsec. (b). [Pub. L. 101–397, § 1(c)][/us/pl/101/397/s1/c], inserted “promoting” after “for the purpose of” in last sentence.
+    Subsec. (b). [Pub. L. 101–397][/us/pl/101/397], § 1(c), inserted “promoting” after “for the purpose of” in last sentence.
 
-    Subsec. (b)(1). [Pub. L. 101–397, § 1(d)][/us/pl/101/397/s1/d], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research with respect to water resources, including investigations and experiments of either a basic or practical nature, or both; promote the dissemination and application of the results of these efforts; and provide for the training of scientists and engineers through such research, investigations, and experiments, and”.
+    Subsec. (b)(1). [Pub. L. 101–397][/us/pl/101/397], § 1(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research with respect to water resources, including investigations and experiments of either a basic or practical nature, or both; promote the dissemination and application of the results of these efforts; and provide for the training of scientists and engineers through such research, investigations, and experiments, and”.
 
-    Subsec. (c). [Pub. L. 101–397, § 1(e)][/us/pl/101/397/s1/e], substituted for period at end “and thereafter, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.”
+    Subsec. (c). [Pub. L. 101–397][/us/pl/101/397], § 1(e), substituted for period at end “and thereafter, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.”
 
-    Subsec. (e). [Pub. L. 101–397, § 1(f)][/us/pl/101/397/s1/f], amended subsec. (e) generally, substituting provisions directing that evaluation be conducted at least once every 5 years for provisions directing evaluation within two years after establishment of institute and at least once every four years thereafter and striking out provisions relating to composition and function of evaluation team and setting forth criteria for determination.
+    Subsec. (e). [Pub. L. 101–397][/us/pl/101/397], § 1(f), amended subsec. (e) generally, substituting provisions directing that evaluation be conducted at least once every 5 years for provisions directing evaluation within two years after establishment of institute and at least once every four years thereafter and striking out provisions relating to composition and function of evaluation team and setting forth criteria for determination.
 
-    Subsec. (f)(1). [Pub. L. 101–397, § 1(g)][/us/pl/101/397/s1/g], substituted “September 30, 1989, through September 30, 1995,” for “September 30, 1985, through September 30, 1989”.
+    Subsec. (f)(1). [Pub. L. 101–397][/us/pl/101/397], § 1(g), substituted “September 30, 1989, through September 30, 1995,” for “September 30, 1985, through September 30, 1989”.
 
-    Subsec. (f)(2). [Pub. L. 101–397, § 1(h)][/us/pl/101/397/s1/h], substituted reference to subsec. (g) of this section for reference to [section 10305 of this title][/us/usc/t42/s10305].
+    Subsec. (f)(2). [Pub. L. 101–397][/us/pl/101/397], § 1(h), substituted reference to subsec. (g) of this section for reference to [section 10305 of this title][/us/usc/t42/s10305].
 
-    Subsec. (g). [Pub. L. 101–397, § 1(m)][/us/pl/101/397/s1/m], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–397][/us/pl/101/397], § 1(m), added subsec. (g).
 
  __Contracts or Cooperative Agreements With National Laboratories__ 
 
-[Pub. L. 101–397, § 2][/us/pl/101/397/s2], Sept. 28, 1990, [104 Stat. 854][/us/stat/104/854], provided that:
+[Pub. L. 101–397][/us/pl/101/397], § 2, Sept. 28, 1990, [104 Stat. 854][/us/stat/104/854], provided that:
 
 >     “(a) The Secretary of the Interior, in consultation with the Secretary of Agriculture and the Administrator of the Environmental Protection Agency, is authorized to enter into contracts or cooperative agreements, as the Secretary deems appropriate, with national laboratories (including Los Alamos National Laboratory) to carry out water resources research, development, and demonstration projects within the authorities of [Public Law 98–242][/us/pl/98/242] \[[42 U.S.C. 10301][/us/usc/t42/s10301] et seq.\] (including the effects of potential climate changes on surface and ground water quality and quantity and the elimination of contamination of ground water aquifers).
 
@@ -175,15 +175,15 @@
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/98/242/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs104
+[/us/pl/98/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2FtI
 [/us/stat/98/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F98
-[/us/pl/101/397/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fb
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 [/us/stat/104/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F852
 [/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
 [/us/stat/110/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1376
 [/us/pl/106/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F374
 [/us/stat/114/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1434
-[/us/pl/109/471/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471%2Fs2%2Fa
+[/us/pl/109/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471
 [/us/stat/120/3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3552
 [/us/pl/98/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242
 [/us/stat/98/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F97
@@ -193,29 +193,29 @@
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/109/471/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471%2Fs2%2Fa
-[/us/pl/109/471/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471%2Fs2%2Fb
-[/us/pl/109/471/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471%2Fs2%2Fc
-[/us/pl/109/471/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471%2Fs2%2Fd
-[/us/pl/109/471/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471%2Fs2%2Fe
-[/us/pl/106/374/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F374%2Fs1
-[/us/pl/106/374/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F374%2Fs2
-[/us/pl/104/147/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs3
-[/us/pl/104/147/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs4
-[/us/pl/104/147/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs5
-[/us/pl/104/147/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147%2Fs6
-[/us/pl/101/397/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fb
-[/us/pl/101/397/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fc
-[/us/pl/101/397/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fd
-[/us/pl/101/397/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fe
-[/us/pl/101/397/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Ff
-[/us/pl/101/397/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fg
-[/us/pl/101/397/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fh
+[/us/pl/109/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471
+[/us/pl/109/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471
+[/us/pl/109/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471
+[/us/pl/109/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471
+[/us/pl/109/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F471
+[/us/pl/106/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F374
+[/us/pl/106/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F374
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
+[/us/pl/104/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F147
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 [/us/usc/t42/s10305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10305
-[/us/pl/101/397/s1/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs1%2Fm
-[/us/pl/101/397/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397%2Fs2
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
+[/us/pl/101/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F397
 [/us/stat/104/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F854
 [/us/pl/98/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242
 [/us/usc/t42/s10301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10301

@@ -27,7 +27,7 @@
 
         Any area that is designated as an enterprise zone under [section 11501 of this title][/us/usc/t42/s11501] shall be treated for all purposes under Federal law as a labor surplus area.
 
-([Pub. L. 100–242, title VII, § 703][/us/pl/100/242/s703], Feb. 5, 1988, [101 Stat. 1961][/us/stat/101/1961].)
+([Pub. L. 100–242, title VII][/us/pl/100/242/tVII], § 703, Feb. 5, 1988, [101 Stat. 1961][/us/stat/101/1961].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t42/s11501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11501
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
 [/us/usc/t42/s11501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11501
-[/us/pl/100/242/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs703
+[/us/pl/100/242/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtVII
 [/us/stat/101/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1961
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

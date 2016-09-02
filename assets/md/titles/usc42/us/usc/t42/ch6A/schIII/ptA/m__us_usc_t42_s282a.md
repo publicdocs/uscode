@@ -107,17 +107,17 @@
 
         This section may not be construed as affecting the authorities of the Director of NIH under [section 281 of this title][/us/usc/t42/s281].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 402A, as added [Pub. L. 109–482, title I, § 103(a)][/us/pl/109/482/s103/a], Jan. 15, 2007, [120 Stat. 3685][/us/stat/120/3685]; amended [Pub. L. 113–94, § 3(b)][/us/pl/113/94/s3/b], Apr. 3, 2014, [128 Stat. 1087][/us/stat/128/1087].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 402A, as added [Pub. L. 109–482, title I][/us/pl/109/482/tI], § 103(a), Jan. 15, 2007, [120 Stat. 3685][/us/stat/120/3685]; amended [Pub. L. 113–94][/us/pl/113/94], § 3(b), Apr. 3, 2014, [128 Stat. 1087][/us/stat/128/1087].)
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–94, § 3(b)(1)(B)][/us/pl/113/94/s3/b/1/B], which directed amendment of subsec. (a) by striking “For purposes of carrying out this subchapter” and inserting par. (1) designation, heading, and “For purposes of carrying out this subchapter”, was executed by striking “For the purpose of carrying out this subchapter” and making the insertions as directed, to reflect the probable intent of Congress.
+    2014—Subsec. (a). [Pub. L. 113–94][/us/pl/113/94], § 3(b)(1)(B), which directed amendment of subsec. (a) by striking “For purposes of carrying out this subchapter” and inserting par. (1) designation, heading, and “For purposes of carrying out this subchapter”, was executed by striking “For the purpose of carrying out this subchapter” and making the insertions as directed, to reflect the probable intent of Congress.
 
-    [Pub. L. 113–94, § 3(b)(1)(A)][/us/pl/113/94/s3/b/1/A], redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned margins.
+    [Pub. L. 113–94][/us/pl/113/94], § 3(b)(1)(A), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned margins.
 
-    Subsec. (a)(2). [Pub. L. 113–94, § 3(b)(1)(C)][/us/pl/113/94/s3/b/1/C], added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
+    Subsec. (a)(2). [Pub. L. 113–94][/us/pl/113/94], § 3(b)(1)(C), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
-    Subsecs. (c)(1)(B), (D), (d). [Pub. L. 113–94, § 3(b)(2)][/us/pl/113/94/s3/b/2], substituted “subsection (a)(1)” for “subsection (a)” wherever appearing.
+    Subsecs. (c)(1)(B), (D), (d). [Pub. L. 113–94][/us/pl/113/94], § 3(b)(2), substituted “subsection (a)(1)” for “subsection (a)” wherever appearing.
 
  __Effective Date__ 
 
@@ -125,7 +125,7 @@
 
  __Supplement, Not Supplant; Prohibition Against Transfer__ 
 
-[Pub. L. 113–94, § 3(c)][/us/pl/113/94/s3/c], Apr. 3, 2014, [128 Stat. 1087][/us/stat/128/1087], provided that: 
+[Pub. L. 113–94][/us/pl/113/94], § 3(c), Apr. 3, 2014, [128 Stat. 1087][/us/stat/128/1087], provided that: 
 
 > “Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act \[[42 U.S.C. 282a(a)(2)][/us/usc/t42/s282a/a/2]\], as added by subsection (b)—
 
@@ -149,17 +149,17 @@
 [/us/usc/t42/s282/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F7%2FB
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/482/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fa
+[/us/pl/109/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2FtI
 [/us/stat/120/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3685
-[/us/pl/113/94/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs3%2Fb
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/stat/128/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1087
-[/us/pl/113/94/s3/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs3%2Fb%2F1%2FB
-[/us/pl/113/94/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs3%2Fb%2F1%2FA
-[/us/pl/113/94/s3/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs3%2Fb%2F1%2FC
-[/us/pl/113/94/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs3%2Fb%2F2
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
-[/us/pl/113/94/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs3%2Fc
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/stat/128/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1087
 [/us/usc/t42/s282a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a%2Fa%2F2
 [/us/usc/t42/s282/b/7/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fb%2F7%2FB%2Fii

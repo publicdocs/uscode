@@ -39,11 +39,11 @@
 
     (7) The term “utility regulatory authority” means any State agency or Federal agency that has ratemaking authority with respect to the sale of electric energy by any electric utility or independent power producer. For purposes of this paragraph, the terms “electric utility”, “State agency”, “Federal agency”, and “ratemaking authority” have the respective meanings given such terms in [section 2602 of title 16][/us/usc/t16/s2602].
 
-([Pub. L. 102–486, title X, § 1018][/us/pl/102/486/s1018], Oct. 24, 1992, [106 Stat. 2950][/us/stat/106/2950]; [Pub. L. 104–134, title III, § 3117(b)][/us/pl/104/134/s3117/b], Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350].)
+([Pub. L. 102–486, title X][/us/pl/102/486/tX], § 1018, Oct. 24, 1992, [106 Stat. 2950][/us/stat/106/2950]; [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3117(b), Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350].)
 
  __References in Text__ 
 
-    [Section 2297b of this title][/us/usc/t42/s2297b], referred to in par. (1), was repealed by [Pub. L. 104–134, title III, § 3116(a)(1)][/us/pl/104/134/s3116/a/1], Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].
+    [Section 2297b of this title][/us/usc/t42/s2297b], referred to in par. (1), was repealed by [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3116(a)(1), Apr. 26, 1996, [110 Stat. 1321–349][/us/stat/110/1321-349].
 
  __Codification__ 
 
@@ -61,12 +61,12 @@
 ----------
 
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602
-[/us/pl/102/486/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1018
+[/us/pl/102/486/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtX
 [/us/stat/106/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2950
-[/us/pl/104/134/s3117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3117%2Fb
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-350
 [/us/usc/t42/s2297b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2297b
-[/us/pl/104/134/s3116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3116%2Fa%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-349
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 

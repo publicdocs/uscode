@@ -113,7 +113,7 @@
 
         There are authorized to be appropriated, in equal parts from the Federal Hospital Insurance Trust Fund and from the Federal Supplementary Medical Insurance Trust Fund, $10,000,000 for each of fiscal years 1991, 1992, 1993, 1994, 1995, and 1996, to fund the grant programs described in this section.
 
-([Pub. L. 101–508, title IV, § 4360][/us/pl/101/508/s4360], Nov. 5, 1990, [104 Stat. 1388–138][/us/stat/104/1388-138]; [Pub. L. 103–432, title I, § 171(i)][/us/pl/103/432/s171/i], Oct. 31, 1994, [108 Stat. 4450][/us/stat/108/4450]; [Pub. L. 103–437, § 15(b)][/us/pl/103/437/s15/b], Nov. 2, 1994, [108 Stat. 4591][/us/stat/108/4591]; [Pub. L. 105–362, title VI, § 602(b)(2)][/us/pl/105/362/s602/b/2], Nov. 10, 1998, [112 Stat. 3286][/us/stat/112/3286].)
+([Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4360, Nov. 5, 1990, [104 Stat. 1388–138][/us/stat/104/1388-138]; [Pub. L. 103–432, title I][/us/pl/103/432/tI], § 171(i), Oct. 31, 1994, [108 Stat. 4450][/us/stat/108/4450]; [Pub. L. 103–437][/us/pl/103/437], § 15(b), Nov. 2, 1994, [108 Stat. 4591][/us/stat/108/4591]; [Pub. L. 105–362, title VI][/us/pl/105/362/tVI], § 602(b)(2), Nov. 10, 1998, [112 Stat. 3286][/us/stat/112/3286].)
 
  __References in Text__ 
 
@@ -127,29 +127,29 @@
 
     1998—Subsec. (f). [Pub. L. 105–362][/us/pl/105/362] substituted “Beginning with 1992” for “Not later than 180 days after November 5, 1990”.
 
-    1994—Subsec. (b)(2)(A)(ii). [Pub. L. 103–432, § 171(i)(1)][/us/pl/103/432/s171/i/1], inserted closing parenthesis after “of this title”.
+    1994—Subsec. (b)(2)(A)(ii). [Pub. L. 103–432][/us/pl/103/432], § 171(i)(1), inserted closing parenthesis after “of this title”.
 
-    Subsec. (b)(2)(D). [Pub. L. 103–432, § 171(i)(2)][/us/pl/103/432/s171/i/2], substituted “counseling” for “services” before “described in subparagraph (A)”.
+    Subsec. (b)(2)(D). [Pub. L. 103–432][/us/pl/103/432], § 171(i)(2), substituted “counseling” for “services” before “described in subparagraph (A)”.
 
-    Subsec. (b)(2)(I). [Pub. L. 103–432, § 171(i)(3)][/us/pl/103/432/s171/i/3], substituted “referrals” for “assistance”.
+    Subsec. (b)(2)(I). [Pub. L. 103–432][/us/pl/103/432], § 171(i)(3), substituted “referrals” for “assistance”.
 
-    Subsec. (c)(1). [Pub. L. 103–432, § 171(i)(4)][/us/pl/103/432/s171/i/4], struck out “and that such activities will continue to be maintained at such level” after “covered by such grant under this section”.
+    Subsec. (c)(1). [Pub. L. 103–432][/us/pl/103/432], § 171(i)(4), struck out “and that such activities will continue to be maintained at such level” after “covered by such grant under this section”.
 
-    Subsec. (d)(3). [Pub. L. 103–432, § 171(i)(5)][/us/pl/103/432/s171/i/5], substituted “eligible individuals residing in rural areas” for “to the rural areas”.
+    Subsec. (d)(3). [Pub. L. 103–432][/us/pl/103/432], § 171(i)(5), substituted “eligible individuals residing in rural areas” for “to the rural areas”.
 
-    Subsec. (e). [Pub. L. 103–432, § 171(i)(6)(A)][/us/pl/103/432/s171/i/6/A], (B), in introductory provisions, substituted “this section” for “subsection (c) or (d) of this section” and “and annually thereafter during the period of the grant, issue a report” for “and annually thereafter, issue an annual report”.
+    Subsec. (e). [Pub. L. 103–432][/us/pl/103/432], § 171(i)(6)(A), (B), in introductory provisions, substituted “this section” for “subsection (c) or (d) of this section” and “and annually thereafter during the period of the grant, issue a report” for “and annually thereafter, issue an annual report”.
 
-    Subsec. (e)(1). [Pub. L. 103–432, § 171(i)(6)(C)][/us/pl/103/432/s171/i/6/C], struck out “State-wide” before “health insurance information”.
+    Subsec. (e)(1). [Pub. L. 103–432][/us/pl/103/432], § 171(i)(6)(C), struck out “State-wide” before “health insurance information”.
 
-    Subsec. (f). [Pub. L. 103–437, § 15(b)(1)][/us/pl/103/437/s15/b/1], in introductory provisions, substituted “and the Committee on Energy and Commerce” for “the Committee on Energy and Commerce of the House of Representatives, and the Select Committee on Aging”.
+    Subsec. (f). [Pub. L. 103–437][/us/pl/103/437], § 15(b)(1), in introductory provisions, substituted “and the Committee on Energy and Commerce” for “the Committee on Energy and Commerce of the House of Representatives, and the Select Committee on Aging”.
 
-    [Pub. L. 103–432, § 171(i)(8)(B)][/us/pl/103/432/s171/i/8/B], and [Pub. L. 103–437, § 15(b)(2)][/us/pl/103/437/s15/b/2], made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
+    [Pub. L. 103–432][/us/pl/103/432], § 171(i)(8)(B), and [Pub. L. 103–437][/us/pl/103/437], § 15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 
-    [Pub. L. 103–432, § 171(i)(8)(A)][/us/pl/103/432/s171/i/8/A], in subsec. (f), relating to authorization of appropriations for grants, substituted “1993, 1994, 1995, and 1996” for “and 1993”.
+    [Pub. L. 103–432][/us/pl/103/432], § 171(i)(8)(A), in subsec. (f), relating to authorization of appropriations for grants, substituted “1993, 1994, 1995, and 1996” for “and 1993”.
 
-    Subsec. (f)(2) to (5). [Pub. L. 103–432, § 171(i)(7)][/us/pl/103/432/s171/i/7], in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “summarizes the scope and content of training conferences convened under this section;”.
+    Subsec. (f)(2) to (5). [Pub. L. 103–432][/us/pl/103/432], § 171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “summarizes the scope and content of training conferences convened under this section;”.
 
-    Subsec. (g). [Pub. L. 103–432, § 171(i)(8)(B)][/us/pl/103/432/s171/i/8/B], and [Pub. L. 103–437, § 15(b)(2)][/us/pl/103/437/s15/b/2], made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
+    Subsec. (g). [Pub. L. 103–432][/us/pl/103/432], § 171(i)(8)(B), and [Pub. L. 103–437][/us/pl/103/437], § 15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 
  __Change of Name__ 
 
@@ -161,7 +161,7 @@
 
  __Demonstration To Improve Care to Previously Uninsured__ 
 
-[Pub. L. 110–275, title I, § 186][/us/pl/110/275/s186], July 15, 2008, [122 Stat. 2588][/us/stat/122/2588], provided that:
+[Pub. L. 110–275, title I][/us/pl/110/275/tI], § 186, July 15, 2008, [122 Stat. 2588][/us/stat/122/2588], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -197,39 +197,39 @@
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
 [/us/usc/t42/s1395ss/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fg%2F1
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
-[/us/pl/101/508/s4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4360
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-138
-[/us/pl/103/432/s171/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi
+[/us/pl/103/432/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2FtI
 [/us/stat/108/4450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4450
-[/us/pl/103/437/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fb
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4591
-[/us/pl/105/362/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs602%2Fb%2F2
+[/us/pl/105/362/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtVI
 [/us/stat/112/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3286
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
-[/us/pl/103/432/s171/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F1
-[/us/pl/103/432/s171/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F2
-[/us/pl/103/432/s171/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F3
-[/us/pl/103/432/s171/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F4
-[/us/pl/103/432/s171/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F5
-[/us/pl/103/432/s171/i/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F6%2FA
-[/us/pl/103/432/s171/i/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F6%2FC
-[/us/pl/103/437/s15/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fb%2F1
-[/us/pl/103/432/s171/i/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F8%2FB
-[/us/pl/103/437/s15/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fb%2F2
-[/us/pl/103/432/s171/i/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F8%2FA
-[/us/pl/103/432/s171/i/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F7
-[/us/pl/103/432/s171/i/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171%2Fi%2F8%2FB
-[/us/pl/103/437/s15/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fb%2F2
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/usc/t42/s1395ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss
-[/us/pl/110/275/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2Fs186
+[/us/pl/110/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275%2FtI
 [/us/stat/122/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2588
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/103/432/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs171

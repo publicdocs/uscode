@@ -33,7 +33,7 @@
 
         fourth, no permanent housing shall be constructed by the Federal Government under the provisions of subchapter IX of this chapter except to the extent that private builders or eligible mortgagees have not, within a period of not less than ninety days (as the Secretary of Housing and Urban Development shall specify) following public announcement of the availability of such mortgage insurance aids under title II of this Act, indicated through bona fide applications (which meet the requirements as to types, rentals, or sales prices, and general locations) for exceptions from such residential credit restrictions or for mortgage insurance or guaranty that they will provide the housing determined to be needed in such area for defense workers and military personnel and publicly announced as provided by subsection (a) of this section.
 
-([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title I, § 102, [65 Stat. 294][/us/stat/65/294]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
+([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title I, § 102, [65 Stat. 294][/us/stat/65/294]; [Pub. L. 89–174][/us/pl/89/174], § 5(a), Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/act/1951-09-01/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-01%2Fch378
 [/us/stat/65/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F294
-[/us/pl/89/174/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5%2Fa
+[/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798

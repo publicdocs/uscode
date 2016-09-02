@@ -147,7 +147,7 @@
 
         The authorities granted under this section may be exercised for an individual covered project or a category of covered projects.
 
-([Pub. L. 114–94, div. D, title XLI, § 41005][/us/pl/114/94/s41005], Dec. 4, 2015, [129 Stat. 1755][/us/stat/129/1755].)
+([Pub. L. 114–94, div. D, title XLI][/us/pl/114/94/dD/tXLI], § 41005, Dec. 4, 2015, [129 Stat. 1755][/us/stat/129/1755].)
 
  __References in Text__ 
 
@@ -164,7 +164,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s41005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs41005
+[/us/pl/114/94/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdD%2FtXLI
 [/us/stat/129/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1755
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

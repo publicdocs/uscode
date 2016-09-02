@@ -67,17 +67,17 @@
 
                 (ii) for which the applicant seeks a loan under part A the principal amount of which does not exceed $20,000.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1621, as added [Pub. L. 96–79, title II, § 202(b)][/us/pl/96/79/s202/b], Oct. 4, 1979, [93 Stat. 633][/us/stat/93/633].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XVI, § 1621, as added [Pub. L. 96–79, title II][/us/pl/96/79/tII], § 202(b), Oct. 4, 1979, [93 Stat. 633][/us/stat/93/633].)
 
  __Codification__ 
 
-    In subsec. (b)(1)(I), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5, known as the Davis-Bacon Act)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b)(1)(I), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5, known as the Davis-Bacon Act)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2] ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Prior Provisions__ 
 
     A prior section 300s–1 was redesignated 300s–1a and amended as part of the general revision of this subchapter by [Pub. L. 96–79][/us/pl/96/79].
 
-    A prior section 1621 of act July 1, 1944, as added Jan. 4, 1975, [Pub. L. 93–641, § 4][/us/pl/93/641/s4], [88 Stat. 2265][/us/stat/88/2265], which related to the allocation among States of the total amount of principal of loans and loan guarantees, was classified to [section 300q–1 of this title][/us/usc/t42/s300q–1], prior to repeal as part of the general revision of this subchapter by [Pub. L. 96–79][/us/pl/96/79].
+    A prior section 1621 of act July 1, 1944, as added Jan. 4, 1975, [Pub. L. 93–641][/us/pl/93/641], § 4, [88 Stat. 2265][/us/stat/88/2265], which related to the allocation among States of the total amount of principal of loans and loan guarantees, was classified to [section 300q–1 of this title][/us/usc/t42/s300q–1], prior to repeal as part of the general revision of this subchapter by [Pub. L. 96–79][/us/pl/96/79].
 
  __Effective Date__ 
 
@@ -95,16 +95,16 @@
 [/us/usc/t42/s300s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300s%2F2
 [/us/usc/t42/s300s–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300s%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/96/79/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2Fs202%2Fb
+[/us/pl/96/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79%2FtII
 [/us/stat/93/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F633
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79
-[/us/pl/93/641/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641%2Fs4
+[/us/pl/93/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F641
 [/us/stat/88/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2265
 [/us/usc/t42/s300q–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300q%E2%80%931
 [/us/pl/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F79

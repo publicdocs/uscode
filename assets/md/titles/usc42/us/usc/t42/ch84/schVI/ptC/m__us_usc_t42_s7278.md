@@ -17,7 +17,7 @@
 
     Appropriations for the Department of Energy under this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  in this and subsequent Energy and Water Development Appropriations Acts, on and after October 2, 1992, shall be available for hire of passenger motor vehicles; hire, maintenance and operation of aircraft; purchase, repair and cleaning of uniforms; and reimbursement to the General Services Administration for security guard services. From these appropriations, transfers of sums may on and after October 2, 1992, be made to other agencies of the United States Government for the performance of work for which this appropriation is made. None of the funds made available to the Department of Energy under this Act or subsequent Energy and Water Development Appropriations Acts shall be used to implement or finance authorized price support or loan guarantee programs unless specific provision is made for such programs in an appropriation Act. The Secretary is authorized on and after October 2, 1992, to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, private, or foreign.
 
-([Pub. L. 102–377, title III, § 301][/us/pl/102/377/s301], Oct. 2, 1992, [106 Stat. 1338][/us/stat/106/1338].)
+([Pub. L. 102–377, title III][/us/pl/102/377/tIII], § 301, Oct. 2, 1992, [106 Stat. 1338][/us/stat/106/1338].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/102/377/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2Fs301
+[/us/pl/102/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377%2FtIII
 [/us/stat/106/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1338
 [/us/pl/102/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F377
 [/us/stat/106/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1332

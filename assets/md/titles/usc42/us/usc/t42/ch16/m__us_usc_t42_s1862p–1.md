@@ -35,7 +35,7 @@
 
         In order to help ensure a well-trained manufacturing workforce, the Director shall award grants to strengthen and expand scientific and technical education and training in advanced manufacturing, including through the Foundation’s Advanced Technological Education program.
 
-([Pub. L. 111–358, title V, § 506][/us/pl/111/358/s506], Jan. 4, 2011, [124 Stat. 4007][/us/stat/124/4007].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 506, Jan. 4, 2011, [124 Stat. 4007][/us/stat/124/4007].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs506
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4007
 [/us/pl/111/358/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs502
 [/us/usc/t42/s1862p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862p

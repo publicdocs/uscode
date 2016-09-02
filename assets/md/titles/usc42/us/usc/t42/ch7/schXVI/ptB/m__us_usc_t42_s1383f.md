@@ -47,7 +47,7 @@
 
         Each member of the Social Security Advisory Board shall be permitted to provide an individual report, or a joint report if agreed, of views of the program under this subchapter, to be included in the annual report required under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1637, as added [Pub. L. 104–193, title II, § 231][/us/pl/104/193/s231], Aug. 22, 1996, [110 Stat. 2197][/us/stat/110/2197].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVI, § 1637, as added [Pub. L. 104–193, title II][/us/pl/104/193/tII], § 231, Aug. 22, 1996, [110 Stat. 2197][/us/stat/110/2197].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/104/193/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs231
+[/us/pl/104/193/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtII
 [/us/stat/110/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2197
 
 

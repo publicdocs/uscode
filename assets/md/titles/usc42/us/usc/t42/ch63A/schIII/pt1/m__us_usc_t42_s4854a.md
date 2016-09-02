@@ -37,7 +37,7 @@
 
     (10) assess the effectiveness of hazard evaluation and reduction activities funded by this chapter.
 
-([Pub. L. 102–550, title X, § 1052][/us/pl/102/550/s1052], Oct. 28, 1992, [106 Stat. 3925][/us/stat/106/3925].)
+([Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1052, Oct. 28, 1992, [106 Stat. 3925][/us/stat/106/3925].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1052
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3925
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897

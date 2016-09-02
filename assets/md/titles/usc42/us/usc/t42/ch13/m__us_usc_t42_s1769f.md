@@ -159,7 +159,7 @@
 
         On request, the Secretary shall present to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate information regarding the activities of the Secretary relating to anticompetitive activities, fraud, nonprocurement debarment, and any waiver granted by the Secretary under this section.
 
-([June 4, 1946, ch. 281, § 25][/us/act/1946-06-04/ch281/s25], as added [Pub. L. 103–448, title I, § 122(a)][/us/pl/103/448/s122/a], Nov. 2, 1994, [108 Stat. 4727][/us/stat/108/4727]; amended [Pub. L. 105–336, title I, § 107(j)(2)(C)(ii)][/us/pl/105/336/s107/j/2/C/ii], Oct. 31, 1998, [112 Stat. 3153][/us/stat/112/3153].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 25, as added [Pub. L. 103–448, title I][/us/pl/103/448/tI], § 122(a), Nov. 2, 1994, [108 Stat. 4727][/us/stat/108/4727]; amended [Pub. L. 105–336, title I][/us/pl/105/336/tI], § 107(j)(2)(C)(ii), Oct. 31, 1998, [112 Stat. 3153][/us/stat/112/3153].)
 
  __Amendments__ 
 
@@ -177,13 +177,13 @@
 
     Section effective Oct. 1, 1994, see [section 401 of Pub. L. 103–448][/us/pl/103/448/s401], set out as an Effective Date of 1994 Amendment note under [section 1755 of this title][/us/usc/t42/s1755].
 
-[Pub. L. 103–448, title I, § 122(b)][/us/pl/103/448/s122/b], Nov. 2, 1994, [108 Stat. 4730][/us/stat/108/4730], provided that: 
+[Pub. L. 103–448, title I][/us/pl/103/448/tI], § 122(b), Nov. 2, 1994, [108 Stat. 4730][/us/stat/108/4730], provided that: 
 
 > “Section 25 of the \[Richard B. Russell\] National School Lunch Act \[[42 U.S.C. 1769f][/us/usc/t42/s1769f]\] (as added by subsection (a)) shall not apply to a cause for debarment as described in section 25(d)(2) of such Act that is based on an activity that took place prior to the effective date of section 25 of such Act \[Oct. 1, 1994\].”
 
  __No Reduction in Authority of Secretary of Agriculture To Debar or Suspend a Person From Federal Financial and Nonfinancial Assistance and Benefits__ 
 
-[Pub. L. 103–448, title I, § 122(c)][/us/pl/103/448/s122/c], Nov. 2, 1994, [108 Stat. 4731][/us/stat/108/4731], provided that: 
+[Pub. L. 103–448, title I][/us/pl/103/448/tI], § 122(c), Nov. 2, 1994, [108 Stat. 4731][/us/stat/108/4731], provided that: 
 
 > “The authority of the Secretary of Agriculture that exists on the day before the date of enactment of this Act \[Nov. 2, 1994\] to debar or suspend a person from Federal financial and nonfinancial assistance and benefits under Federal programs and activities shall not be diminished or reduced by subsection (a) \[enacting this section\] or the amendment made by subsection (a).”
 
@@ -199,10 +199,10 @@
 [/us/usc/t42/s1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1772
 [/us/usc/t42/s1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1773
 [/us/usc/t42/s1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1786
-[/us/act/1946-06-04/ch281/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs25
-[/us/pl/103/448/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs122%2Fa
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/103/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtI
 [/us/stat/108/4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4727
-[/us/pl/105/336/s107/j/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2Fs107%2Fj%2F2%2FC%2Fii
+[/us/pl/105/336/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336%2FtI
 [/us/stat/112/3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3153
 [/us/pl/105/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F336
 [/us/usc/t42/s1766b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1766b
@@ -211,10 +211,10 @@
 [/us/usc/t42/s1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1761
 [/us/pl/103/448/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs401
 [/us/usc/t42/s1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755
-[/us/pl/103/448/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs122%2Fb
+[/us/pl/103/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtI
 [/us/stat/108/4730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4730
 [/us/usc/t42/s1769f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769f
-[/us/pl/103/448/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2Fs122%2Fc
+[/us/pl/103/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F448%2FtI
 [/us/stat/108/4731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4731
 
 

@@ -17,7 +17,7 @@
 
     In the case of a home health agency that is subject to a surety bond requirement under subchapter XVIII of this chapter and subchapter XIX of this chapter, the surety bond provided to satisfy the requirement under one such subchapter shall satisfy the requirement under the other such subchapter so long as the bond applies to guarantee return of overpayments under both such subchapters.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128F, as added [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 304(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–361.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128F, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(6) \[title III, § 304(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–361.)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/106/113/s1000/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F6
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

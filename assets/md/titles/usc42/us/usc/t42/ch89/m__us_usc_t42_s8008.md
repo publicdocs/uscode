@@ -31,7 +31,7 @@
 
     (b) The Secretary shall establish a reserve fund, not to exceed 10 per centum of the funds appropriated in each fiscal year for the provision of services under this chapter, in order to supplement grants awarded to public housing agencies and nonprofit corporations under this chapter when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible project residents.
 
-([Pub. L. 95–557, title IV, § 409][/us/pl/95/557/s409], Oct. 31, 1978, [92 Stat. 2109][/us/stat/92/2109].)
+([Pub. L. 95–557, title IV][/us/pl/95/557/tIV], § 409, Oct. 31, 1978, [92 Stat. 2109][/us/stat/92/2109].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t12/s1701q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701q
 [/us/usc/t42/s8007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8007%2Fb%2F1
-[/us/pl/95/557/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs409
+[/us/pl/95/557/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIV
 [/us/stat/92/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2109
 
 

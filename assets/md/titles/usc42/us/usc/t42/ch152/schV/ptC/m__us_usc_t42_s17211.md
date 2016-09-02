@@ -27,7 +27,7 @@
 
     The term “marine and hydrokinetic renewable energy” does not include energy from any source that uses a dam, diversionary structure, or impoundment for electric power purposes.
 
-([Pub. L. 110–140, title VI, § 632][/us/pl/110/140/s632], Dec. 19, 2007, [121 Stat. 1686][/us/stat/121/1686].)
+([Pub. L. 110–140, title VI][/us/pl/110/140/tVI], § 632, Dec. 19, 2007, [121 Stat. 1686][/us/stat/121/1686].)
 
  __Short Title__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs632
+[/us/pl/110/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVI
 [/us/stat/121/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1686
 [/us/usc/t42/s17001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17001
 

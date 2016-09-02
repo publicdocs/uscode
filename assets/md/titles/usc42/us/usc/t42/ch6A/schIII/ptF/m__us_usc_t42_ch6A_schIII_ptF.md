@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptE/spt6/m__us_usc_t42_ch6A_schIII_ptE_spt6.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptF/m__us_usc_t42_s287d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIII%2FptF)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptE/spt6/m__us_usc_t42_s287c–31...287c–34.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptF/m__us_usc_t42_s287d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIII%2FptF)
 
 #### Part F—Research on Women’s Health
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptE/spt6/m__us_usc_t42_ch6A_schIII_ptE_spt6.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptF/m__us_usc_t42_s287d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIII%2FptF)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIII/ptE/spt6/m__us_usc_t42_s287c–31...287c–34.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIII/ptF/m__us_usc_t42_s287d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIII%2FptF)
 
 ----------
 ----------

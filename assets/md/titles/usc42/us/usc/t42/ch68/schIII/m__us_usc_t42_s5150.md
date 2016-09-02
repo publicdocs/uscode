@@ -47,7 +47,7 @@
 
         Nothing in this section shall be construed to require any Federal agency to breach or renegotiate any contract in effect before the occurrence of a major disaster or emergency.
 
-([Pub. L. 93–288, title III, § 307][/us/pl/93/288/s307], as added [Pub. L. 109–295, title VI, § 694][/us/pl/109/295/s694], Oct. 4, 2006, [120 Stat. 1459][/us/stat/120/1459]; amended [Pub. L. 109–347, title VI, § 611][/us/pl/109/347/s611], Oct. 13, 2006, [120 Stat. 1943][/us/stat/120/1943].)
+([Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 307, as added [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 694, Oct. 4, 2006, [120 Stat. 1459][/us/stat/120/1459]; amended [Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 611, Oct. 13, 2006, [120 Stat. 1943][/us/stat/120/1943].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 5150, [Pub. L. 93–288, title III, § 307][/us/pl/93/288/s307], formerly § 310, May 22, 1974, [88 Stat. 150][/us/stat/88/150]; renumbered § 307 and amended [Pub. L. 100–707, title I, § 105(e)][/us/pl/100/707/s105/e], Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691]; [Pub. L. 109–218, § 2][/us/pl/109/218/s2], Apr. 20, 2006, [120 Stat. 333][/us/stat/120/333], provided for the use of local firms and individuals for major disaster or emergency assistance activities, prior to repeal by [Pub. L. 109–295, title VI, § 694][/us/pl/109/295/s694], Oct. 4, 2006, [120 Stat. 1459][/us/stat/120/1459].
+    A prior section 5150, [Pub. L. 93–288, title III][/us/pl/93/288/tIII], § 307, formerly § 310, May 22, 1974, [88 Stat. 150][/us/stat/88/150]; renumbered § 307 and amended [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 105(e), Nov. 23, 1988, [102 Stat. 4691][/us/stat/102/4691]; [Pub. L. 109–218][/us/pl/109/218], § 2, Apr. 20, 2006, [120 Stat. 333][/us/stat/120/333], provided for the use of local firms and individuals for major disaster or emergency assistance activities, prior to repeal by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 694, Oct. 4, 2006, [120 Stat. 1459][/us/stat/120/1459].
 
     A prior [section 307 of Pub. L. 93–288][/us/pl/93/288/s307] was renumbered section 304 by [Pub. L. 100–707][/us/pl/100/707] and is classified to [section 5147 of this title][/us/usc/t42/s5147].
 
@@ -70,21 +70,21 @@
 ----------
 ----------
 
-[/us/pl/93/288/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs307
-[/us/pl/109/295/s694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs694
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1459
-[/us/pl/109/347/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs611
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1943
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/93/288/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs307
+[/us/pl/93/288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtIII
 [/us/stat/88/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F150
-[/us/pl/100/707/s105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fe
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4691
-[/us/pl/109/218/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F218%2Fs2
+[/us/pl/109/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F218
 [/us/stat/120/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F333
-[/us/pl/109/295/s694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs694
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1459
 [/us/pl/93/288/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs307
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707

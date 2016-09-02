@@ -129,7 +129,7 @@
 
         There are authorized to be appropriated for carrying out this section, $10,000,000 for each of the 5 fiscal years beginning after October 24, 1992.
 
-([Pub. L. 102–486, title IV, § 409][/us/pl/102/486/s409], Oct. 24, 1992, [106 Stat. 2882][/us/stat/106/2882].)
+([Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 409, Oct. 24, 1992, [106 Stat. 2882][/us/stat/106/2882].)
 
  __References in Text__ 
 
@@ -146,7 +146,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs409
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2882
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1914

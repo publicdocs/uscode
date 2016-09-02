@@ -17,7 +17,7 @@
 
     For the purpose of all hearings and investigations conducted by the Commission or its duly authorized agents or agencies, [section 161 of title 29][/us/usc/t29/s161] shall apply.
 
-([Pub. L. 88–352, title VII, § 710][/us/pl/88/352/s710], July 2, 1964, [78 Stat. 264][/us/stat/78/264]; [Pub. L. 92–261, § 7][/us/pl/92/261/s7], Mar. 24, 1972, [86 Stat. 109][/us/stat/86/109].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 710, July 2, 1964, [78 Stat. 264][/us/stat/78/264]; [Pub. L. 92–261][/us/pl/92/261], § 7, Mar. 24, 1972, [86 Stat. 109][/us/stat/86/109].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 
 [/us/usc/t29/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs161
 [/us/usc/t29/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs161
-[/us/pl/88/352/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs710
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F264
-[/us/pl/92/261/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs7
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F109
 [/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/usc/t29/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs161

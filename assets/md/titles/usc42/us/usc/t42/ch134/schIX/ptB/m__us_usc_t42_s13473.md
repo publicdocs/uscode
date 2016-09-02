@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to the Secretary for carrying out this section $4,700,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
 
-([Pub. L. 102–486, title XXI, § 2113][/us/pl/102/486/s2113], Oct. 24, 1992, [106 Stat. 3073][/us/stat/106/3073].)
+([Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2113, Oct. 24, 1992, [106 Stat. 3073][/us/stat/106/3073].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2113
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3073
 
 

@@ -27,7 +27,7 @@
 
         The annual cost of remedial action at the Department’s gaseous diffusion facilities shall be paid from the Fund to the extent the amount available in the Fund is sufficient. To the extent the amount in the Fund is insufficient, the Department shall be responsible for the cost of remedial action. No provision of this division may be construed to relieve in any way the responsibility or liability of the Department for remedial action under applicable Federal and State laws and regulations.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1803, as added [Pub. L. 102–486, title XI, § 1101][/us/pl/102/486/s1101], Oct. 24, 1992, [106 Stat. 2954][/us/stat/106/2954].)
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title II, § 1803, as added [Pub. L. 102–486, title XI][/us/pl/102/486/tXI], § 1101, Oct. 24, 1992, [106 Stat. 2954][/us/stat/106/2954].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/pl/102/486/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1101
+[/us/pl/102/486/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXI
 [/us/stat/106/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2954
 
 

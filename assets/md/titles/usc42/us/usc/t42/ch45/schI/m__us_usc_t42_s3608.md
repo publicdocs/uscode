@@ -89,7 +89,7 @@
 
         (12) any other provision of law which the Secretary specifies by publication in the Federal Register for the purpose of this subsection.
 
-([Pub. L. 90–284, title VIII, § 808][/us/pl/90/284/s808], Apr. 11, 1968, [82 Stat. 84][/us/stat/82/84]; [Pub. L. 95–251, § 3][/us/pl/95/251/s3], Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184]; [Pub. L. 95–454, title VIII, § 801(a)(3)(J)][/us/pl/95/454/s801/a/3/J], Oct. 13, 1978, [92 Stat. 1222][/us/stat/92/1222]; [Pub. L. 100–430, § 7][/us/pl/100/430/s7], Sept. 13, 1988, [102 Stat. 1623][/us/stat/102/1623].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 808, Apr. 11, 1968, [82 Stat. 84][/us/stat/82/84]; [Pub. L. 95–251][/us/pl/95/251], § 3, Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184]; [Pub. L. 95–454, title VIII][/us/pl/95/454/tVIII], § 801(a)(3)(J), Oct. 13, 1978, [92 Stat. 1222][/us/stat/92/1222]; [Pub. L. 100–430][/us/pl/100/430], § 7, Sept. 13, 1988, [102 Stat. 1623][/us/stat/102/1623].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 
     The Age Discrimination Act of 1975, referred to in subsec. (f)(4), is title III of [Pub. L. 94–135][/us/pl/94/135], Nov. 28, 1975, [78 Stat. 728][/us/stat/78/728], as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title][/us/usc/t42/s6101] and Tables.
 
-    The Equal Credit Opportunity Act, referred to in subsec. (f)(5), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], as amended, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Equal Credit Opportunity Act, referred to in subsec. (f)(5), is title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], as amended, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
     The Executive orders referred to in subsec. (f)(11) are set out as notes under sections of the Code as follows:
 
@@ -121,13 +121,13 @@
 
  __Amendments__ 
 
-    1988—Subsec. (d). [Pub. L. 100–430, § 7(a)][/us/pl/100/430/s7/a], inserted “(including any Federal agency having regulatory or supervisory authority over financial institutions)” after “urban development”.
+    1988—Subsec. (d). [Pub. L. 100–430][/us/pl/100/430], § 7(a), inserted “(including any Federal agency having regulatory or supervisory authority over financial institutions)” after “urban development”.
 
-    Subsec. (e)(2). [Pub. L. 100–430, § 7(b)(1)(A)][/us/pl/100/430/s7/b/1/A], inserted provisions relating to annual report to Congress.
+    Subsec. (e)(2). [Pub. L. 100–430][/us/pl/100/430], § 7(b)(1)(A), inserted provisions relating to annual report to Congress.
 
-    Subsec. (e)(6). [Pub. L. 100–430, § 7(b)(1)(B)][/us/pl/100/430/s7/b/1/B]–(D), added par. (6).
+    Subsec. (e)(6). [Pub. L. 100–430][/us/pl/100/430], § 7(b)(1)(B)–(D), added par. (6).
 
-    Subsec. (f). [Pub. L. 100–430, § 7(b)(2)][/us/pl/100/430/s7/b/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–430][/us/pl/100/430], § 7(b)(2), added subsec. (f).
 
     1978—Subsec. (c). [Pub. L. 95–251][/us/pl/95/251] substituted “administrative law judges” for “hearing examiners”.
 
@@ -143,7 +143,7 @@
 
  __Treatment of Occupancy Standards__ 
 
-[Pub. L. 105–276, title V, § 589][/us/pl/105/276/s589], Oct. 21, 1998, [112 Stat. 2651][/us/stat/112/2651], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 589, Oct. 21, 1998, [112 Stat. 2651][/us/stat/112/2651], provided that:
 
 >     “(a)  __Establishment of Policy__  __.—__ 
 
@@ -330,13 +330,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t12/s1735f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1735f%E2%80%935
 [/us/usc/t42/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5309
 [/us/usc/t12/s1701u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701u
-[/us/pl/90/284/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs808
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F84
-[/us/pl/95/251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs3
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F184
-[/us/pl/95/454/s801/a/3/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FJ
+[/us/pl/95/454/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVIII
 [/us/stat/92/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1222
-[/us/pl/100/430/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs7
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1623
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F73
@@ -347,7 +347,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/78/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F728
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1521
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/usc/t42/s1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1982
@@ -355,10 +355,10 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t42/s2000d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%931
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/100/430/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs7%2Fa
-[/us/pl/100/430/s7/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs7%2Fb%2F1%2FA
-[/us/pl/100/430/s7/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs7%2Fb%2F1%2FB
-[/us/pl/100/430/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs7%2Fb%2F2
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
@@ -367,7 +367,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s801/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F4%2FA
 [/us/usc/t5/s5361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5361
-[/us/pl/105/276/s589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs589
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2651
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601

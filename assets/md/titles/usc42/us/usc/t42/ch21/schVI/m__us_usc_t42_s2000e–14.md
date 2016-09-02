@@ -17,7 +17,7 @@
 
     The Equal Employment Opportunity Commission shall have the responsibility for developing and implementing agreements, policies and practices designed to maximize effort, promote efficiency, and eliminate conflict, competition, duplication and inconsistency among the operations, functions and jurisdictions of the various departments, agencies and branches of the Federal Government responsible for the implementation and enforcement of equal employment opportunity legislation, orders, and policies. On or before October 1 of each year, the Equal Employment Opportunity Commission shall transmit to the President and to the Congress a report of its activities, together with such recommendations for legislative or administrative changes as it concludes are desirable to further promote the purposes of this section.
 
-([Pub. L. 88–352, title VII, § 715][/us/pl/88/352/s715], July 2, 1964, [78 Stat. 265][/us/stat/78/265]; [Pub. L. 92–261, § 10][/us/pl/92/261/s10], Mar. 24, 1972, [86 Stat. 111][/us/stat/86/111]; [Pub. L. 94–273, § 3(24)][/us/pl/94/273/s3/24], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; 1978 Reorg. Plan No. 1, § 6, eff. July 1, 1978, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781].)
+([Pub. L. 88–352, title VII][/us/pl/88/352/tVII], § 715, July 2, 1964, [78 Stat. 265][/us/stat/78/265]; [Pub. L. 92–261][/us/pl/92/261], § 10, Mar. 24, 1972, [86 Stat. 111][/us/stat/86/111]; [Pub. L. 94–273][/us/pl/94/273], § 3(24), Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; 1978 Reorg. Plan No. 1, § 6, eff. July 1, 1978, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Submission of Specific Legislative Recommendations to Congress by__  __January 1, 1967__  __, to Implement Report on Age Discrimination__ 
 
-    [Pub. L. 89–601, title VI, § 606][/us/pl/89/601/s606], Sept. 23, 1966, [80 Stat. 845][/us/stat/80/845], directed the Secretary of Labor to submit to the Congress not later than Jan. 1, 1967 his specific legislative recommendations for implementing the conclusions and recommendations contained in his report on age discrimination in employment made pursuant to provisions of this section prior to its amendment in 1972.
+    [Pub. L. 89–601, title VI][/us/pl/89/601/tVI], § 606, Sept. 23, 1966, [80 Stat. 845][/us/stat/80/845], directed the Secretary of Labor to submit to the Congress not later than Jan. 1, 1967 his specific legislative recommendations for implementing the conclusions and recommendations contained in his report on age discrimination in employment made pursuant to provisions of this section prior to its amendment in 1972.
 
 ----------
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/88/352/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs715
+[/us/pl/88/352/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtVII
 [/us/stat/78/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F265
-[/us/pl/92/261/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261%2Fs10
+[/us/pl/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F261
 [/us/stat/86/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F111
-[/us/pl/94/273/s3/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs3%2F24
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F377
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
@@ -65,7 +65,7 @@
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 [/us/usc/t42/s2000e–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%934
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
-[/us/pl/89/601/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs606
+[/us/pl/89/601/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtVI
 [/us/stat/80/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F845
 
 

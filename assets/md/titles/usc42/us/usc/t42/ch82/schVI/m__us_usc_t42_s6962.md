@@ -143,49 +143,49 @@
 
             Procuring agencies shall adopt one of the options set forth in subparagraphs (A) and (B) or a substantially equivalent alternative, for inclusion in the affirmative procurement program.
 
-([Pub. L. 89–272, title II, § 6002][/us/pl/89/272/s6002], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2822][/us/stat/90/2822]; amended [Pub. L. 95–609, § 7(n)][/us/pl/95/609/s7/n], Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 96–482, § 22][/us/pl/96/482/s22], Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346]; [Pub. L. 97–375, title I, § 102][/us/pl/97/375/s102], Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819]; [Pub. L. 98–616, title V, § 501(a)][/us/pl/98/616/s501/a]–(e), Nov. 8, 1984, [98 Stat. 3274–3276][/us/stat/98/3274-3276]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–393, title VI, § 630][/us/pl/102/393/s630], Oct. 6, 1992, [106 Stat. 1773][/us/stat/106/1773]; [Pub. L. 103–355, title I, § 1554(1)][/us/pl/103/355/s1554/1], title IV, § 4104(e), Oct. 13, 1994, [108 Stat. 3300][/us/stat/108/3300], 3342; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 6002, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2822][/us/stat/90/2822]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(n), Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 96–482][/us/pl/96/482], § 22, Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 102, Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819]; [Pub. L. 98–616, title V][/us/pl/98/616/tV], § 501(a)–(e), Nov. 8, 1984, [98 Stat. 3274–3276][/us/stat/98/3274-3276]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 630, Oct. 6, 1992, [106 Stat. 1773][/us/stat/106/1773]; [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1554(1), title IV, § 4104(e), Oct. 13, 1994, [108 Stat. 3300][/us/stat/108/3300], 3342; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Codification__ 
 
-    [Pub. L. 102–393, title VI, § 630][/us/pl/102/393/s630], Oct. 6, 1990, [106 Stat. 1773][/us/stat/106/1773], which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by [Pub. L. 103–355, title I, § 1554(1)][/us/pl/103/355/s1554/1], Oct. 13, 1994, [108 Stat. 3300][/us/stat/108/3300]. Similar provisions were contained in [Pub. L. 103–123, title IV, § 401][/us/pl/103/123/s401], Oct. 28, 1993, [107 Stat. 1238][/us/stat/107/1238], prior to repeal by [Pub. L. 103–355, title I, § 1554(2)][/us/pl/103/355/s1554/2], Oct. 13, 1994, [108 Stat. 3300][/us/stat/108/3300].
+    [Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 630, Oct. 6, 1990, [106 Stat. 1773][/us/stat/106/1773], which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1554(1), Oct. 13, 1994, [108 Stat. 3300][/us/stat/108/3300]. Similar provisions were contained in [Pub. L. 103–123, title IV][/us/pl/103/123/tIV], § 401, Oct. 28, 1993, [107 Stat. 1238][/us/stat/107/1238], prior to repeal by [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1554(2), Oct. 13, 1994, [108 Stat. 3300][/us/stat/108/3300].
 
  __Amendments__ 
 
-    1994—Subsec. (c)(3). [Pub. L. 103–355, § 4104(e)][/us/pl/103/355/s4104/e], designated existing provisions as subpar. (A), redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+    1994—Subsec. (c)(3). [Pub. L. 103–355][/us/pl/103/355], § 4104(e), designated existing provisions as subpar. (A), redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
-    Subsec. (j). [Pub. L. 103–355, § 1554(1)][/us/pl/103/355/s1554/1], struck out subsec. (j). See Codification note above.
+    Subsec. (j). [Pub. L. 103–355][/us/pl/103/355], § 1554(1), struck out subsec. (j). See Codification note above.
 
     1992—Subsec. (j). [Pub. L. 102–393][/us/pl/102/393] added subsec. (j). See Codification note above.
 
     1988—Subsecs. (c)(1)(C), (e). [Pub. L. 100–418][/us/pl/100/418] substituted “National Institute of Standards and Tech­nology” for “Bureau of Standards”.
 
-    1984—Subsec. (c)(1). [Pub. L. 98–616, § 501(c)][/us/pl/98/616/s501/c], inserted “(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable)”.
+    1984—Subsec. (c)(1). [Pub. L. 98–616][/us/pl/98/616], § 501(c), inserted “(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable)”.
 
-    Subsec. (d)(1). [Pub. L. 98–616, § 501(e)][/us/pl/98/616/s501/e], substituted “eighteen months after November 8, 1984” for “five years after October 21, 1976”.
+    Subsec. (d)(1). [Pub. L. 98–616][/us/pl/98/616], § 501(e), substituted “eighteen months after November 8, 1984” for “five years after October 21, 1976”.
 
-    Subsec. (e). [Pub. L. 98–616, § 501(b)(2)][/us/pl/98/616/s501/b/2], substituted “for paper within one hundred and eighty days after November 8, 1984, and for three additional product categories (including tires) by October 1, 1985” for “for at least three product categories, including paper, by May 1, 1981, and for two additional product categories, including construction materials, by September 30, 1982.” in provisions following par. (2).
+    Subsec. (e). [Pub. L. 98–616][/us/pl/98/616], § 501(b)(2), substituted “for paper within one hundred and eighty days after November 8, 1984, and for three additional product categories (including tires) by October 1, 1985” for “for at least three product categories, including paper, by May 1, 1981, and for two additional product categories, including construction materials, by September 30, 1982.” in provisions following par. (2).
 
-    Subsec. (e)(1). [Pub. L. 98–616, § 501(b)(1)][/us/pl/98/616/s501/b/1], inserted “, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section”.
+    Subsec. (e)(1). [Pub. L. 98–616][/us/pl/98/616], § 501(b)(1), inserted “, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section”.
 
-    Subsec. (g). [Pub. L. 98–616, § 501(d)][/us/pl/98/616/s501/d], substituted “the requirements of” for “the policy expressed in” and inserted “, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section”.
+    Subsec. (g). [Pub. L. 98–616][/us/pl/98/616], § 501(d), substituted “the requirements of” for “the policy expressed in” and inserted “, and to, every two years beginning in 1984, report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section”.
 
-    Subsecs. (h), (i). [Pub. L. 98–616, § 501(a)][/us/pl/98/616/s501/a], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 98–616][/us/pl/98/616], § 501(a), added subsecs. (h) and (i).
 
     1982—Subsec. (g). [Pub. L. 97–375][/us/pl/97/375] struck out provision requiring the Office of Procurement Policy to report annually to Congress on actions taken by Federal agencies and the progress made in the implementation of the policy expressed in this section.
 
-    1980—Subsec. (c)(1). [Pub. L. 96–482, § 22(1)][/us/pl/96/482/s22/1], (2), in provision preceding subpar. (A), substituted “After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any item designated in such guidelines shall procure such” for “After two years after October 21, 1976, each procuring agency shall procure”, and in subpar. (C), “subparagraph (B)” for “clause (B)”.
+    1980—Subsec. (c)(1). [Pub. L. 96–482][/us/pl/96/482], § 22(1), (2), in provision preceding subpar. (A), substituted “After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any item designated in such guidelines shall procure such” for “After two years after October 21, 1976, each procuring agency shall procure”, and in subpar. (C), “subparagraph (B)” for “clause (B)”.
 
-    Subsec. (c)(2). [Pub. L. 96–482, § 22(3)][/us/pl/96/482/s22/3], substituted “energy or fuels derived from solid waste” for “recovered material and recovered-material-derived fuel”.
+    Subsec. (c)(2). [Pub. L. 96–482][/us/pl/96/482], § 22(3), substituted “energy or fuels derived from solid waste” for “recovered material and recovered-material-derived fuel”.
 
-    Subsec. (c)(3). [Pub. L. 96–482, § 22(4)][/us/pl/96/482/s22/4], substituted subpars. (A) and (B) for provision requiring certification of the percentage of the total material utilized for the performance of the contract which is recovered materials.
+    Subsec. (c)(3). [Pub. L. 96–482][/us/pl/96/482], § 22(4), substituted subpars. (A) and (B) for provision requiring certification of the percentage of the total material utilized for the performance of the contract which is recovered materials.
 
-    Subsec. (d). [Pub. L. 96–482, § 22(5)][/us/pl/96/482/s22/5], in par. (1), substituted provision requiring Federal agencies to eliminate from specifications as expeditiously as possible, but in no event later than 5 years after Oct. 21, 1976, any exclusion of recovered materials and any requirement that items be manufactured from virgin materials for provision that Federal agencies in reviewing specifications, ascertain whether those specifications violate prohibitions in par. (2)(A) to (C), with such review undertaken not later than 18 months after Oct. 21, 1976, and in par. (2), substituted provision that Federal agencies act within 1 year from publication of applicable guidelines under subsec. (e) of this section for provision that in drafting or revising specifications after Oct. 21, 1976, any exclusion of recovered materials be eliminated and specifications not require the item to be manufactured from virgin materials.
+    Subsec. (d). [Pub. L. 96–482][/us/pl/96/482], § 22(5), in par. (1), substituted provision requiring Federal agencies to eliminate from specifications as expeditiously as possible, but in no event later than 5 years after Oct. 21, 1976, any exclusion of recovered materials and any requirement that items be manufactured from virgin materials for provision that Federal agencies in reviewing specifications, ascertain whether those specifications violate prohibitions in par. (2)(A) to (C), with such review undertaken not later than 18 months after Oct. 21, 1976, and in par. (2), substituted provision that Federal agencies act within 1 year from publication of applicable guidelines under subsec. (e) of this section for provision that in drafting or revising specifications after Oct. 21, 1976, any exclusion of recovered materials be eliminated and specifications not require the item to be manufactured from virgin materials.
 
-    Subsec. (e). [Pub. L. 96–482, § 22(6)][/us/pl/96/482/s22/6], designated provision relating to requirements of guidelines as cl. (2) and subpars. (A) and (C), added cl. (1), subpars. (B) and (C), and provision preceding subpar. (A), and struck out provision requiring information on source of supply.
+    Subsec. (e). [Pub. L. 96–482][/us/pl/96/482], § 22(6), designated provision relating to requirements of guidelines as cl. (2) and subpars. (A) and (C), added cl. (1), subpars. (B) and (C), and provision preceding subpar. (A), and struck out provision requiring information on source of supply.
 
-    1978—Subsec. (c). [Pub. L. 95–609, § 7(n)(1)][/us/pl/95/609/s7/n/1], (2), redesignated subpar. (1)(A) as par. (1), subpars. (1)(B) and (C) as pars. (2) and (3), respectively, and cls. (i) to (iii) of former subpar. (1)(A) as subpars. (A) to (C), respectively, of par. (1), and in par. (3), as so redesignated, inserted “After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section,” before “contracting”.
+    1978—Subsec. (c). [Pub. L. 95–609][/us/pl/95/609], § 7(n)(1), (2), redesignated subpar. (1)(A) as par. (1), subpars. (1)(B) and (C) as pars. (2) and (3), respectively, and cls. (i) to (iii) of former subpar. (1)(A) as subpars. (A) to (C), respectively, of par. (1), and in par. (3), as so redesignated, inserted “After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section,” before “contracting”.
 
-    Subsec. (e). [Pub. L. 95–609, § 7(n)(3)][/us/pl/95/609/s7/n/3], inserted provision dealing with certification by vendors of the materials used.
+    Subsec. (e). [Pub. L. 95–609][/us/pl/95/609], § 7(n)(3), inserted provision dealing with certification by vendors of the materials used.
 
  __Change of Name__ 
 
@@ -207,51 +207,51 @@
 ----------
 
 [/us/usc/t42/s6964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6964
-[/us/pl/89/272/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs6002
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2822
-[/us/pl/95/609/s7/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fn
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3082
-[/us/pl/96/482/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs22
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
 [/us/stat/94/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2346
-[/us/pl/97/375/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs102
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1819
-[/us/pl/98/616/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs501%2Fa
+[/us/pl/98/616/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtV
 [/us/stat/98/3274-3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3274-3276
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/102/393/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs630
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1773
-[/us/pl/103/355/s1554/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1554%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3300
-[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/pl/102/393/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs630
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1773
-[/us/pl/103/355/s1554/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1554%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3300
-[/us/pl/103/123/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs401
+[/us/pl/103/123/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtIV
 [/us/stat/107/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1238
-[/us/pl/103/355/s1554/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1554%2F2
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3300
-[/us/pl/103/355/s4104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs4104%2Fe
-[/us/pl/103/355/s1554/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1554%2F1
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/98/616/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs501%2Fc
-[/us/pl/98/616/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs501%2Fe
-[/us/pl/98/616/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs501%2Fb%2F2
-[/us/pl/98/616/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs501%2Fb%2F1
-[/us/pl/98/616/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs501%2Fd
-[/us/pl/98/616/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs501%2Fa
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
+[/us/pl/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
-[/us/pl/96/482/s22/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs22%2F1
-[/us/pl/96/482/s22/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs22%2F3
-[/us/pl/96/482/s22/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs22%2F4
-[/us/pl/96/482/s22/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs22%2F5
-[/us/pl/96/482/s22/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs22%2F6
-[/us/pl/95/609/s7/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fn%2F1
-[/us/pl/95/609/s7/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fn%2F3
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/96/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355

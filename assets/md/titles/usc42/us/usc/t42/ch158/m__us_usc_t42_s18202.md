@@ -27,7 +27,7 @@
 
         To be eligible to receive a grant under subsection (a), a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of the purposes for which the grant is being requested and the designation of a State agency for receipt and administration of funding received under this chapter.
 
-([Pub. L. 111–148, title X, § 10212][/us/pl/111/148/s10212], Mar. 23, 2010, [124 Stat. 932][/us/stat/124/932].)
+([Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10212, Mar. 23, 2010, [124 Stat. 932][/us/stat/124/932].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s18203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18203
-[/us/pl/111/148/s10212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10212
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F932
 
 

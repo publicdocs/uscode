@@ -19,7 +19,7 @@
 
     (b) If the Secretary of the Interior determines that there is an immediate and substantial increase in the need for municipal services and facilities in communities located on or near the reserve as a direct result of the exploration and study activities authorized by this chapter and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities, then he is authorized to assist such communities in meeting the costs of providing increased municipal services and facilities. The Secretary of the Interior shall carry out the provisions of this section through existing Federal programs and he shall consult with the heads of the departments or agencies of the Federal Government concerned with the type of services and facilities for which financial assistance is being made available.
 
-([Pub. L. 94–258, title I, § 108][/us/pl/94/258/s108], formerly § 107, Apr. 5, 1976, [90 Stat. 306][/us/stat/90/306]; renumbered § 108, [Pub. L. 109–58, title III, § 347(a)(1)][/us/pl/109/58/s347/a/1], Aug. 8, 2005, [119 Stat. 704][/us/stat/119/704].)
+([Pub. L. 94–258, title I][/us/pl/94/258/tI], § 108, formerly § 107, Apr. 5, 1976, [90 Stat. 306][/us/stat/90/306]; renumbered § 108, [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 347(a)(1), Aug. 8, 2005, [119 Stat. 704][/us/stat/119/704].)
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/94/258/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs108
+[/us/pl/94/258/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtI
 [/us/stat/90/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F306
-[/us/pl/109/58/s347/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs347%2Fa%2F1
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F704
 
 

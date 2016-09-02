@@ -213,7 +213,7 @@
 
         (2) such sums as are necessary for each of fiscal years 2008, 2009, and 2010.
 
-([Pub. L. 109–58, title VII, § 741][/us/pl/109/58/s741], Aug. 8, 2005, [119 Stat. 821][/us/stat/119/821].)
+([Pub. L. 109–58, title VII][/us/pl/109/58/tVII], § 741, Aug. 8, 2005, [119 Stat. 821][/us/stat/119/821].)
 
 ----------
 
@@ -223,7 +223,7 @@
 ----------
 
 [/us/usc/t42/s16091a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16091a
-[/us/pl/109/58/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs741
+[/us/pl/109/58/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtVII
 [/us/stat/119/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F821
 
 

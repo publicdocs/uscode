@@ -119,7 +119,7 @@
 
         Not later than 180 days after the date on which regulations are promulgated under subsection (c), <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subsection (d),”. </sup></sup>  the Government Accountability Office shall review such regulations and conduct a study and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report regarding the impact the activities under this section have had on the quality and cost of health care.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2717, as added and amended [Pub. L. 111–148, title I, § 1001(5)][/us/pl/111/148/s1001/5], title X, § 10101(e), Mar. 23, 2010, [124 Stat. 135][/us/stat/124/135], 884.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2717, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1001(5), title X, § 10101(e), Mar. 23, 2010, [124 Stat. 135][/us/stat/124/135], 884.)
 
  __References in Text__ 
 
@@ -129,7 +129,7 @@
 
  __Amendments__ 
 
-    2010—Subsecs. (c) to (e). [Pub. L. 111–148, § 10101(e)][/us/pl/111/148/s10101/e], added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+    2010—Subsecs. (c) to (e). [Pub. L. 111–148][/us/pl/111/148], § 10101(e), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
  __Effective Date__ 
 
@@ -143,7 +143,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/148/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1001%2F5
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F135
 [/us/pl/111/148/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3602
 [/us/usc/t42/s1305w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305w%E2%80%9321
@@ -151,7 +151,7 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
-[/us/pl/111/148/s10101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10101%2Fe
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1004
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 

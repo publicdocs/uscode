@@ -17,7 +17,7 @@
 
     For purposes of this Act, the term “Secretary” means the Secretary of Energy.
 
-([Pub. L. 102–486, § 2][/us/pl/102/486/s2], Oct. 24, 1992, [106 Stat. 2782][/us/stat/106/2782].)
+([Pub. L. 102–486][/us/pl/102/486], § 2, Oct. 24, 1992, [106 Stat. 2782][/us/stat/106/2782].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-[Pub. L. 102–486, § 1(a)][/us/pl/102/486/s1/a], Oct. 24, 1992, [106 Stat. 2776][/us/stat/106/2776], provided that: 
+[Pub. L. 102–486][/us/pl/102/486], § 1(a), Oct. 24, 1992, [106 Stat. 2776][/us/stat/106/2776], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Energy Policy Act of 1992’.”
 
@@ -112,11 +112,11 @@
 ----------
 ----------
 
-[/us/pl/102/486/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2782
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776
-[/us/pl/102/486/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1%2Fa
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601

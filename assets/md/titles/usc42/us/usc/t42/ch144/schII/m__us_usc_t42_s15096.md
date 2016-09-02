@@ -23,7 +23,7 @@
 
         In carrying out activities authorized under this subchapter, a State shall ensure that such activities address the needs of families of children with disabilities from unserved or underserved populations.
 
-([Pub. L. 106–402, title II, § 207][/us/pl/106/402/s207], Oct. 30, 2000, [114 Stat. 1732][/us/stat/114/1732].)
+([Pub. L. 106–402, title II][/us/pl/106/402/tII], § 207, Oct. 30, 2000, [114 Stat. 1732][/us/stat/114/1732].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t42/s15093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15093
-[/us/pl/106/402/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs207
+[/us/pl/106/402/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtII
 [/us/stat/114/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1732
 
 

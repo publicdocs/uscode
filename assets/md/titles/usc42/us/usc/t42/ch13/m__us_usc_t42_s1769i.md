@@ -73,7 +73,7 @@
 
         States, State educational agencies, local educational agencies, schools, institutions, facilities, and contractors participating in programs authorized under this chapter and the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.) shall cooperate with officials and contractors acting on behalf of the Secretary, in the conduct of evaluations and studies under those Acts.
 
-([June 4, 1946, ch. 281, § 28][/us/act/1946-06-04/ch281/s28], as added [Pub. L. 108–265, title I, § 129][/us/pl/108/265/s129], June 30, 2004, [118 Stat. 767][/us/stat/118/767]; amended [Pub. L. 111–296, title III, § 305][/us/pl/111/296/s305], Dec. 13, 2010, [124 Stat. 3243][/us/stat/124/3243].)
+([June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], § 28, as added [Pub. L. 108–265, title I][/us/pl/108/265/tI], § 129, June 30, 2004, [118 Stat. 767][/us/stat/118/767]; amended [Pub. L. 111–296, title III][/us/pl/111/296/tIII], § 305, Dec. 13, 2010, [124 Stat. 3243][/us/stat/124/3243].)
 
  __References in Text__ 
 
@@ -100,10 +100,10 @@
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
 [/us/usc/t42/s1758/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1758%2Fb%2F6
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
-[/us/act/1946-06-04/ch281/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs28
-[/us/pl/108/265/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2Fs129
+[/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
+[/us/pl/108/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265%2FtI
 [/us/stat/118/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F767
-[/us/pl/111/296/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs305
+[/us/pl/111/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2FtIII
 [/us/stat/124/3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3243
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885

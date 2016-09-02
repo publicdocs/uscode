@@ -45,7 +45,7 @@
 
         (4) For purposes of judicial review, a determination by the Administrator under this subsection shall be considered final agency action.
 
-([Pub. L. 89–272, title II, § 9009][/us/pl/89/272/s9009], as added [Pub. L. 98–616, title VI, § 601(a)][/us/pl/98/616/s601/a], Nov. 8, 1984, [98 Stat. 3287][/us/stat/98/3287]; amended [Pub. L. 109–58, title XV, § 1532(b)(3)][/us/pl/109/58/s1532/b/3], Aug. 8, 2005, [119 Stat. 1105][/us/stat/119/1105].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9009, as added [Pub. L. 98–616, title VI][/us/pl/98/616/tVI], § 601(a), Nov. 8, 1984, [98 Stat. 3287][/us/stat/98/3287]; amended [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1532(b)(3), Aug. 8, 2005, [119 Stat. 1105][/us/stat/119/1105].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 1532(b)(3)(A)][/us/pl/109/58/s1532/b/3/A], substituted “6991(7)(B)” for “6991(2)(B)”.
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 1532(b)(3)(A), substituted “6991(7)(B)” for “6991(2)(B)”.
 
-    Subsec. (d). [Pub. L. 109–58, § 1532(b)(3)(B)][/us/pl/109/58/s1532/b/3/B], substituted “subparagraphs (A) and (B) of section 6991(10)” for “section 6991(1)(A) and (B)”.
+    Subsec. (d). [Pub. L. 109–58][/us/pl/109/58], § 1532(b)(3)(B), substituted “subparagraphs (A) and (B) of section 6991(10)” for “section 6991(1)(A) and (B)”.
 
 ----------
 
@@ -66,14 +66,14 @@
 
 [/us/usc/t42/s6991/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991%2F7%2FB
 [/us/usc/t42/s6991/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991%2F10
-[/us/pl/89/272/s9009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9009
-[/us/pl/98/616/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs601%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVI
 [/us/stat/98/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3287
-[/us/pl/109/58/s1532/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1532%2Fb%2F3
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1105
 [/us/usc/t42/s6916/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6916%2Fg
 [/us/usc/t42/s6916/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6916%2Ff
-[/us/pl/109/58/s1532/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1532%2Fb%2F3%2FA
-[/us/pl/109/58/s1532/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1532%2Fb%2F3%2FB
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

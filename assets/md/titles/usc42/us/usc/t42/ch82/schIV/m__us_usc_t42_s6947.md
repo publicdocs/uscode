@@ -45,7 +45,7 @@
 
         Nothing in this subchapter shall be construed to prevent or affect any activities respecting solid waste planning or management which are carried out by State, regional, or local authorities unless such activities are inconsistent with a State plan approved by the Administrator under this subchapter.
 
-([Pub. L. 89–272, title II, § 4007][/us/pl/89/272/s4007], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2817][/us/stat/90/2817]; amended [Pub. L. 95–609, § 7][/us/pl/95/609/s7](l), Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 104–119, § 4(8)][/us/pl/104/119/s4/8], Mar. 26, 1996, [110 Stat. 833][/us/stat/110/833].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 4007, as added [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2817][/us/stat/90/2817]; amended [Pub. L. 95–609][/us/pl/95/609], § 7(l), Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 104–119][/us/pl/104/119], § 4(8), Mar. 26, 1996, [110 Stat. 833][/us/stat/110/833].)
 
  __Amendments__ 
 
@@ -68,12 +68,12 @@
 [/us/usc/t42/s6943/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943%2Fa
 [/us/usc/t42/s6943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943
 [/us/usc/t42/s6946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6946
-[/us/pl/89/272/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs4007
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2817
-[/us/pl/95/609/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7
+[/us/pl/95/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609
 [/us/stat/92/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3082
-[/us/pl/104/119/s4/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119%2Fs4%2F8
+[/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
 [/us/stat/110/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F833
 [/us/pl/104/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F119
 [/us/usc/t42/s6943/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6943%2Fa

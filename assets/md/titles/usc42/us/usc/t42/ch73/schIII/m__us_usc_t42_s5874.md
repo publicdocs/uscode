@@ -21,7 +21,7 @@
 
     (2) any reference to “perform” or “performance”, when used in relation to functions, shall be deemed to include the exercise of power, authority, rights, and privileges.
 
-([Pub. L. 93–438, title III, § 304][/us/pl/93/438/s304], Oct. 11, 1974, [88 Stat. 1251][/us/stat/88/1251].)
+([Pub. L. 93–438, title III][/us/pl/93/438/tIII], § 304, Oct. 11, 1974, [88 Stat. 1251][/us/stat/88/1251].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/438/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2Fs304
+[/us/pl/93/438/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438%2FtIII
 [/us/stat/88/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1251
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/stat/88/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1233

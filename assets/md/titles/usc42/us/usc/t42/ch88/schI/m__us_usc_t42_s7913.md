@@ -51,7 +51,7 @@
 
         (2) the Secretary is satisfied that such action adequately achieves the purposes of this chapter with respect to the site concerned and is consistent with the standards established by the Administrator pursuant to [section 2022(a) of this title][/us/usc/t42/s2022/a].
 
-([Pub. L. 95–604, title I, § 103][/us/pl/95/604/s103], Nov. 8, 1978, [92 Stat. 3024][/us/stat/92/3024].)
+([Pub. L. 95–604, title I][/us/pl/95/604/tI], § 103, Nov. 8, 1978, [92 Stat. 3024][/us/stat/92/3024].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 [/us/usc/t42/s7911/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7911%2F6%2FB
 [/us/usc/t42/s7915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7915
 [/us/usc/t42/s2022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2022%2Fa
-[/us/pl/95/604/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2Fs103
+[/us/pl/95/604/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604%2FtI
 [/us/stat/92/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3024
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/stat/92/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3021

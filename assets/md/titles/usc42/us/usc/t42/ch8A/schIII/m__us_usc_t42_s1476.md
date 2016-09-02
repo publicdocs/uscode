@@ -59,7 +59,7 @@
 
         (2) The Secretary shall transmit the results of the study described in paragraph (1) to each House of the Congress within one year after October 31, 1978.
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 506, [63 Stat. 435][/us/stat/63/435]; [Pub. L. 87–70, title VIII][/us/pl/87/70], §§ 804(b)(1), 805(a), June 30, 1961, [75 Stat. 188][/us/stat/75/188]; [Pub. L. 87–723, § 4(c)(2)][/us/pl/87/723/s4/c/2], Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 88–560, title V, § 503(c)][/us/pl/88/560/s503/c], Sept. 2, 1964, [78 Stat. 798][/us/stat/78/798]; [Pub. L. 89–117, title X, § 1005(d)][/us/pl/89/117/s1005/d], Aug. 10, 1965, [79 Stat. 501][/us/stat/79/501]; [Pub. L. 89–348, § 1(5)][/us/pl/89/348/s1/5], Nov. 8, 1965, [79 Stat. 1310][/us/stat/79/1310]; [Pub. L. 93–383, title V][/us/pl/93/383], §§ 506, 519(a), Aug. 22, 1974, [88 Stat. 694][/us/stat/88/694], 699; [Pub. L. 95–128, title V, § 510][/us/pl/95/128/s510], Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142]; [Pub. L. 95–557, title V, § 502][/us/pl/95/557/s502], Oct. 31, 1978, [92 Stat. 2111][/us/stat/92/2111]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 505\], Nov. 30, 1983, [97 Stat. 1242][/us/stat/97/1242]; [Pub. L. 104–66, title I, § 1011(m)][/us/pl/104/66/s1011/m], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 506, [63 Stat. 435][/us/stat/63/435]; [Pub. L. 87–70, title VIII][/us/pl/87/70/tVIII], §§ 804(b)(1), 805(a), June 30, 1961, [75 Stat. 188][/us/stat/75/188]; [Pub. L. 87–723][/us/pl/87/723], § 4(c)(2), Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 88–560, title V][/us/pl/88/560/tV], § 503(c), Sept. 2, 1964, [78 Stat. 798][/us/stat/78/798]; [Pub. L. 89–117, title X][/us/pl/89/117/tX], § 1005(d), Aug. 10, 1965, [79 Stat. 501][/us/stat/79/501]; [Pub. L. 89–348][/us/pl/89/348], § 1(5), Nov. 8, 1965, [79 Stat. 1310][/us/stat/79/1310]; [Pub. L. 93–383, title V][/us/pl/93/383/tV], §§ 506, 519(a), Aug. 22, 1974, [88 Stat. 694][/us/stat/88/694], 699; [Pub. L. 95–128, title V][/us/pl/95/128/tV], § 510, Oct. 12, 1977, [91 Stat. 1142][/us/stat/91/1142]; [Pub. L. 95–557, title V][/us/pl/95/557/tV], § 502, Oct. 31, 1978, [92 Stat. 2111][/us/stat/92/2111]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 505\], Nov. 30, 1983, [97 Stat. 1242][/us/stat/97/1242]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(m), Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710].)
 
  __References in Text__ 
 
@@ -71,17 +71,17 @@
 
     1983—Subsec. (b). [Pub. L. 98–181][/us/pl/98/181] inserted provision relating to demonstrations involving innovative housing units and systems not meeting existing standards with expenditures not to exceed $10,000,000 in any fiscal year and a report to be made to Congress at the close of each fiscal year.
 
-    1978—Subsec. (b). [Pub. L. 95–557, § 502(a)][/us/pl/95/557/s502/a], revised the provisions of this subsection to bring particular attention to the housing needs of the elderly, handicapped, migrant and seasonal farmworkers, Indians and other identifiable groups.
+    1978—Subsec. (b). [Pub. L. 95–557][/us/pl/95/557], § 502(a), revised the provisions of this subsection to bring particular attention to the housing needs of the elderly, handicapped, migrant and seasonal farmworkers, Indians and other identifiable groups.
 
-    Subsec. (f). [Pub. L. 95–557, § 502(b)][/us/pl/95/557/s502/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–557][/us/pl/95/557], § 502(b), added subsec. (f).
 
     1977—Subsec. (d). [Pub. L. 95–128][/us/pl/95/128] substituted provision respecting establishment and authority of a research capacity within the Farmers Home Administration for provision to carry out subsec. (b) and (c) research and study programs through grants by the Secretary to land-grant colleges on such terms, conditions, and standards as he may prescribe or through such other agencies as he may elect.
 
-    1974—Subsec. (a). [Pub. L. 93–383, § 519(a)][/us/pl/93/383/s519/a], substituted “as required by the Secretary” for “as may be required by the Secretary, by competent employees of the Secretary”.
+    1974—Subsec. (a). [Pub. L. 93–383][/us/pl/93/383], § 519(a), substituted “as required by the Secretary” for “as may be required by the Secretary, by competent employees of the Secretary”.
 
-    Subsec. (d). [Pub. L. 93–383, § 506(a)][/us/pl/93/383/s506/a], substituted provisions authorizing grants to such other private or public organizations as selected by the Secretary upon finding that required research and study could not be performed by personnel and facilities of Department of Agriculture or land-grant colleges, for provisions authorizing grants to such other agencies as selected by the Secretary.
+    Subsec. (d). [Pub. L. 93–383][/us/pl/93/383], § 506(a), substituted provisions authorizing grants to such other private or public organizations as selected by the Secretary upon finding that required research and study could not be performed by personnel and facilities of Department of Agriculture or land-grant colleges, for provisions authorizing grants to such other agencies as selected by the Secretary.
 
-    Subsec. (e). [Pub. L. 93–383, § 506(b)][/us/pl/93/383/s506/b], substituted “rural housing” for “farm housing” wherever appearing.
+    Subsec. (e). [Pub. L. 93–383][/us/pl/93/383], § 506(b), substituted “rural housing” for “farm housing” wherever appearing.
 
     1965—Subsec. (a). [Pub. L. 89–117][/us/pl/89/117] substituted “this subchapter” for “sections 1471 to 1474 and sections 1484 to 1486 of this title” wherever appearing.
 
@@ -93,15 +93,15 @@
 
     1961—Subsec. (a). [Pub. L. 87–70][/us/pl/87/70], §§ 804(b)(1), 805(a)(1), inserted a reference to [section 1484 of this title][/us/usc/t42/s1484] in two places, and struck out provisions which authorized the conduct of research and technical studies including the development, demonstration, and promotion of construction of adequate farm dwellings and other buildings for the purposes of stimulating construction, improving architectural design and utility, utilizing new and native materials, economies in materials and construction methods, and new methods of production, distribution, assembly, and construction, which provisions are now contained in subsec. (b) of this section.
 
-    Subsecs. (b) to (e). [Pub. L. 87–70, § 805(a)(2)][/us/pl/87/70/s805/a/2], (3), added subsecs. (b) to (d) and redesignated former subsec. (b) as (e). Provisions of subsec. (b) were formerly contained in subsec. (a).
+    Subsecs. (b) to (e). [Pub. L. 87–70][/us/pl/87/70], § 805(a)(2), (3), added subsecs. (b) to (d) and redesignated former subsec. (b) as (e). Provisions of subsec. (b) were formerly contained in subsec. (a).
 
  __Study of Emergency Potable Water and Sewage Program__ 
 
-    [Pub. L. 95–557, title V, § 508][/us/pl/95/557/s508], Oct. 31, 1978, [92 Stat. 2114][/us/stat/92/2114], required Secretary of Agriculture to determine the approximate number of rural housing units without access to sanitary toilet facilities or potable water, prepare a projection of the cost providing such facilities and supplies, and report to Congress not later than six months after Oct. 31, 1978.
+    [Pub. L. 95–557, title V][/us/pl/95/557/tV], § 508, Oct. 31, 1978, [92 Stat. 2114][/us/stat/92/2114], required Secretary of Agriculture to determine the approximate number of rural housing units without access to sanitary toilet facilities or potable water, prepare a projection of the cost providing such facilities and supplies, and report to Congress not later than six months after Oct. 31, 1978.
 
  __Report of Estimates of National Farm Housing Needs__ 
 
-    [Pub. L. 89–348, § 1(5)][/us/pl/89/348/s1/5], Nov. 8, 1965, [79 Stat. 1310][/us/stat/79/1310], repealed provisions of subsec. (e) of this section which related to reports of the estimates of national farm housing needs and of progress toward meeting such needs.
+    [Pub. L. 89–348][/us/pl/89/348], § 1(5), Nov. 8, 1965, [79 Stat. 1310][/us/stat/79/1310], repealed provisions of subsec. (e) of this section which related to reports of the estimates of national farm housing needs and of progress toward meeting such needs.
 
 ----------
 
@@ -114,37 +114,37 @@
 [/us/usc/t42/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1471
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F435
-[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/87/70/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtVIII
 [/us/stat/75/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F188
-[/us/pl/87/723/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723%2Fs4%2Fc%2F2
+[/us/pl/87/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723
 [/us/stat/76/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F672
-[/us/pl/88/560/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs503%2Fc
+[/us/pl/88/560/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtV
 [/us/stat/78/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F798
-[/us/pl/89/117/s1005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1005%2Fd
+[/us/pl/89/117/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtX
 [/us/stat/79/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F501
-[/us/pl/89/348/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348%2Fs1%2F5
+[/us/pl/89/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348
 [/us/stat/79/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1310
-[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtV
 [/us/stat/88/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F694
-[/us/pl/95/128/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs510
+[/us/pl/95/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2FtV
 [/us/stat/91/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1142
-[/us/pl/95/557/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs502
+[/us/pl/95/557/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtV
 [/us/stat/92/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2111
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1242
-[/us/pl/104/66/s1011/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fm
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F710
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/pl/95/557/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs502%2Fa
-[/us/pl/95/557/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs502%2Fb
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
-[/us/pl/93/383/s519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs519%2Fa
-[/us/pl/93/383/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs506%2Fa
-[/us/pl/93/383/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs506%2Fb
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/pl/89/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348
 [/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
@@ -153,10 +153,10 @@
 [/us/pl/87/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723
 [/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
 [/us/usc/t42/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1484
-[/us/pl/87/70/s805/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs805%2Fa%2F2
-[/us/pl/95/557/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs508
+[/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
+[/us/pl/95/557/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtV
 [/us/stat/92/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2114
-[/us/pl/89/348/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348%2Fs1%2F5
+[/us/pl/89/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348
 [/us/stat/79/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1310
 
 

@@ -61,7 +61,7 @@
 
         Within one year after October 24, 1992, the Secretary shall submit the first management plan under this section to Congress. Thereafter, the Secretary shall submit a revised management plan biennially, at the time of submittal of the President’s annual budget submission to the Congress.
 
-([Pub. L. 102–486, title XXIII, § 2304][/us/pl/102/486/s2304], Oct. 24, 1992, [106 Stat. 3093][/us/stat/106/3093].)
+([Pub. L. 102–486, title XXIII][/us/pl/102/486/tXXIII], § 2304, Oct. 24, 1992, [106 Stat. 3093][/us/stat/106/3093].)
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t42/s13522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13522
 [/us/usc/t42/s13401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13401
 [/us/usc/t42/s13522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13522
-[/us/pl/102/486/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2304
+[/us/pl/102/486/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIII
 [/us/stat/106/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3093
 
 

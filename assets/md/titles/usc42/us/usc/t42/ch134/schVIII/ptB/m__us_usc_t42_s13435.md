@@ -159,7 +159,7 @@
 
         (4) the term “electric-hybrid vehicle” means vehicle primarily powered by an electric motor that draws current from rechargeable storage batteries, fuel cells, or other sources of electric current and also relies on a nonelectric source of power that also operates on or is capable of operating on a nonelectrical source of power.
 
-([Pub. L. 102–486, title XX, § 2025][/us/pl/102/486/s2025], Oct. 24, 1992, [106 Stat. 3063][/us/stat/106/3063]; [Pub. L. 105–362, title IV, § 402(a)][/us/pl/105/362/s402/a], Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283].)
+([Pub. L. 102–486, title XX][/us/pl/102/486/tXX], § 2025, Oct. 24, 1992, [106 Stat. 3063][/us/stat/106/3063]; [Pub. L. 105–362, title IV][/us/pl/105/362/tIV], § 402(a), Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283].)
 
  __References in Text__ 
 
@@ -167,9 +167,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (b)(1). [Pub. L. 105–362, § 402(a)(1)][/us/pl/105/362/s402/a/1], substituted “biennially” for “annually” in second sentence.
+    1998—Subsec. (b)(1). [Pub. L. 105–362][/us/pl/105/362], § 402(a)(1), substituted “biennially” for “annually” in second sentence.
 
-    Subsec. (b)(4). [Pub. L. 105–362, § 402(a)(2)][/us/pl/105/362/s402/a/2], substituted “Biennial updates” for “Annual updates” in second sentence.
+    Subsec. (b)(4). [Pub. L. 105–362][/us/pl/105/362], § 402(a)(2), substituted “Biennial updates” for “Annual updates” in second sentence.
 
 ----------
 
@@ -179,14 +179,14 @@
 ----------
 
 [/us/usc/t42/s5901–592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901%E2%80%93592
-[/us/pl/102/486/s2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2025
+[/us/pl/102/486/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXX
 [/us/stat/106/3063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3063
-[/us/pl/105/362/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs402%2Fa
+[/us/pl/105/362/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIV
 [/us/stat/112/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3283
 [/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1878
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
-[/us/pl/105/362/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs402%2Fa%2F1
-[/us/pl/105/362/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs402%2Fa%2F2
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
+[/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
 
 

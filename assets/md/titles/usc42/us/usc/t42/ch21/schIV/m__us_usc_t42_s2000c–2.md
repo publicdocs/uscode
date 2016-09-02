@@ -17,7 +17,7 @@
 
     The Secretary is authorized, upon the application of any school board, State, municipality, school district, or other governmental unit legally responsible for operating a public school or schools, to render technical assistance to such applicant in the preparation, adoption, and implementation of plans for the desegregation of public schools. Such technical assistance may, among other activities, include making available to such agencies information regarding effective methods of coping with special educational problems occasioned by desegregation, and making available to such agencies personnel of the Department of Education or other persons specially equipped to advise and assist them in coping with such problems.
 
-([Pub. L. 88–352, title IV, § 403][/us/pl/88/352/s403], July 2, 1964, [78 Stat. 247][/us/stat/78/247]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], (b)(2), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 678, 692.)
+([Pub. L. 88–352, title IV][/us/pl/88/352/tIV], § 403, July 2, 1964, [78 Stat. 247][/us/stat/78/247]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 678, 692.)
 
  __Transfer of Functions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/88/352/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs403
+[/us/pl/88/352/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIV
 [/us/stat/78/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F247
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 

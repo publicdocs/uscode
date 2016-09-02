@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_ch8A_schII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1452.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1451a)
+[Previous](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1450 _us_usc_t42_s1451.md) | [Next](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1452.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1451a)
 
 ## § 1451a. Repealed. [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title III, § 313, [68 Stat. 629][/us/stat/68/629]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_ch8A_schII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1452.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1451a)
+[Previous](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1450 _us_usc_t42_s1451.md) | [Next](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1452.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1451a)
 
 ----------
 ----------

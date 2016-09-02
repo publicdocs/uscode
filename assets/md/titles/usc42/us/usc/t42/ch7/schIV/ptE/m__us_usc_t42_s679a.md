@@ -43,7 +43,7 @@
 
     (4) upon the establishment of an adoption and foster care data collection system pursuant to [section 679 of this title][/us/usc/t42/s679], disseminate the data and information made available through that system.
 
-([Pub. L. 99–509, title IX, § 9442][/us/pl/99/509/s9442], Oct. 21, 1986, [100 Stat. 2073][/us/stat/100/2073].)
+([Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9442, Oct. 21, 1986, [100 Stat. 2073][/us/stat/100/2073].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t42/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679
-[/us/pl/99/509/s9442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9442
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2073
 
 

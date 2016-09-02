@@ -23,7 +23,7 @@
 
         If part or all of a right of way which is relinquished, or for which the license is surrendered, to the Administrator pursuant to subsection (a) of this section contains an electric transmission cable or pipeline which is used in conjunction with another license for an ocean thermal energy conversion facility, the Administrator shall allow the other licensee an opportunity to add such right of way to his license before informing the Secretary of the Interior that the right of way has been vacated.
 
-([Pub. L. 96–320, title I, § 113][/us/pl/96/320/s113], Aug. 3, 1980, [94 Stat. 989][/us/stat/94/989].)
+([Pub. L. 96–320, title I][/us/pl/96/320/tI], § 113, Aug. 3, 1980, [94 Stat. 989][/us/stat/94/989].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/320/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2Fs113
+[/us/pl/96/320/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320%2FtI
 [/us/stat/94/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F989
 [/us/pl/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F320
 [/us/stat/94/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F974

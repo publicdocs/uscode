@@ -131,7 +131,7 @@
 
         The Director may enter into agreements under which public and private nonprofit organizations, with sufficient financial capacity and size, pay for all or a portion of the costs of supporting the service of volunteers under this part.
 
-([Pub. L. 93–113, title I, § 103][/us/pl/93/113/s103], Oct. 1, 1973, [87 Stat. 396][/us/stat/87/396]; [Pub. L. 96–143, § 2][/us/pl/96/143/s2], Dec. 13, 1979, [93 Stat. 1074][/us/stat/93/1074]; [Pub. L. 98–288, § 4(a)][/us/pl/98/288/s4/a]–(c)(1), (d), May 21, 1984, [98 Stat. 189][/us/stat/98/189], 190; [Pub. L. 99–551, § 3(a)][/us/pl/99/551/s3/a], Oct. 27, 1986, [100 Stat. 3071][/us/stat/100/3071]; [Pub. L. 101–204, title I, § 101(a)][/us/pl/101/204/s101/a], (b), (d)(2), title VII, § 701, Dec. 7, 1989, [103 Stat. 1807][/us/stat/103/1807], 1809, 1811, 1820; [Pub. L. 103–82, title III, § 323][/us/pl/103/82/s323], title IV, § 405(a)(2)–(4), Sept. 21, 1993, [107 Stat. 899][/us/stat/107/899], 920; [Pub. L. 103–304, § 3(b)(7)][/us/pl/103/304/s3/b/7], (8), Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 111–13, title II, § 2102][/us/pl/111/13/s2102], Apr. 21, 2009, [123 Stat. 1582][/us/stat/123/1582]; [Pub. L. 113–128, title V, § 512(h)][/us/pl/113/128/s512/h], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+([Pub. L. 93–113, title I][/us/pl/93/113/tI], § 103, Oct. 1, 1973, [87 Stat. 396][/us/stat/87/396]; [Pub. L. 96–143][/us/pl/96/143], § 2, Dec. 13, 1979, [93 Stat. 1074][/us/stat/93/1074]; [Pub. L. 98–288][/us/pl/98/288], § 4(a)–(c)(1), (d), May 21, 1984, [98 Stat. 189][/us/stat/98/189], 190; [Pub. L. 99–551][/us/pl/99/551], § 3(a), Oct. 27, 1986, [100 Stat. 3071][/us/stat/100/3071]; [Pub. L. 101–204, title I][/us/pl/101/204/tI], § 101(a), (b), (d)(2), title VII, § 701, Dec. 7, 1989, [103 Stat. 1807][/us/stat/103/1807], 1809, 1811, 1820; [Pub. L. 103–82, title III][/us/pl/103/82/tIII], § 323, title IV, § 405(a)(2)–(4), Sept. 21, 1993, [107 Stat. 899][/us/stat/107/899], 920; [Pub. L. 103–304][/us/pl/103/304], § 3(b)(7), (8), Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2102, Apr. 21, 2009, [123 Stat. 1582][/us/stat/123/1582]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(h), July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
 
  __References in Text__ 
 
@@ -153,75 +153,75 @@
 
     2014—Subsec. (d). [Pub. L. 113–128][/us/pl/113/128] substituted “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29][/us/usc/t29/s3122].” for “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under [section 2832 of title 29][/us/usc/t29/s2832].”.
 
-    2009—Subsec. (a)(1). [Pub. L. 111–13, § 2102(1)(A)][/us/pl/111/13/s2102/1/A], inserted “the Commonwealth of the Northern Mariana Islands,” after “American Samoa,”.
+    2009—Subsec. (a)(1). [Pub. L. 111–13][/us/pl/111/13], § 2102(1)(A), inserted “the Commonwealth of the Northern Mariana Islands,” after “American Samoa,”.
 
-    Subsec. (a)(2). [Pub. L. 111–13, § 2102(1)(B)][/us/pl/111/13/s2102/1/B], substituted “individuals with disabilities, especially individuals with severe disabilities;” for “handicapped individuals, especially those with severe handicaps;”.
+    Subsec. (a)(2). [Pub. L. 111–13][/us/pl/111/13], § 2102(1)(B), substituted “individuals with disabilities, especially individuals with severe disabilities;” for “handicapped individuals, especially those with severe handicaps;”.
 
-    Subsec. (a)(3). [Pub. L. 111–13, § 2102(1)(C)][/us/pl/111/13/s2102/1/C], substituted “unemployed individuals,” for “the jobless, the hungry,”.
+    Subsec. (a)(3). [Pub. L. 111–13][/us/pl/111/13], § 2102(1)(C), substituted “unemployed individuals,” for “the jobless, the hungry,”.
 
-    Subsec. (a)(4). [Pub. L. 111–13, § 2102(1)(D)][/us/pl/111/13/s2102/1/D], substituted “through prevention, education, rehabilitation, treatment,” for “prevention, education,”.
+    Subsec. (a)(4). [Pub. L. 111–13][/us/pl/111/13], § 2102(1)(D), substituted “through prevention, education, rehabilitation, treatment,” for “prevention, education,”.
 
-    Subsec. (a)(5). [Pub. L. 111–13, § 2102(1)(E)][/us/pl/111/13/s2102/1/E], substituted “mental illness, chronic and life-threatening illnesses,” for “chronic and life-threatening illnesses”.
+    Subsec. (a)(5). [Pub. L. 111–13][/us/pl/111/13], § 2102(1)(E), substituted “mental illness, chronic and life-threatening illnesses,” for “chronic and life-threatening illnesses”.
 
-    Subsec. (a)(6). [Pub. L. 111–13, § 2102(1)(F)(i)][/us/pl/111/13/s2102/1/F/i], which directed substitution of “Head Start Act” for “Headstart act”, was executed by making the substitution for “Headstart Act” to reflect the probable intent of Congress.
+    Subsec. (a)(6). [Pub. L. 111–13][/us/pl/111/13], § 2102(1)(F)(i), which directed substitution of “Head Start Act” for “Headstart act”, was executed by making the substitution for “Headstart Act” to reflect the probable intent of Congress.
 
-    Subsec. (a)(8) to (13). [Pub. L. 111–13, § 2102(1)(F)(ii)][/us/pl/111/13/s2102/1/F/ii]–(H), added pars. (8) to (13).
+    Subsec. (a)(8) to (13). [Pub. L. 111–13][/us/pl/111/13], § 2102(1)(F)(ii)–(H), added pars. (8) to (13).
 
-    Subsec. (b)(1). [Pub. L. 111–13, § 2102(2)(A)][/us/pl/111/13/s2102/2/A], substituted “placement procedures that involve sponsoring organizations and” for “recruitment and placement procedures”.
+    Subsec. (b)(1). [Pub. L. 111–13][/us/pl/111/13], § 2102(2)(A), substituted “placement procedures that involve sponsoring organizations and” for “recruitment and placement procedures”.
 
-    Subsec. (b)(2)(A). [Pub. L. 111–13, § 2102(2)(B)(i)][/us/pl/111/13/s2102/2/B/i], substituted “Community Service Act of 1990.” for “Community Service Trust Act of 1993. Upon the transfer of the functions of the ACTION Agency to the Corporation for National and Community Service, the office established under this subparagraph shall be merged with the recruitment office of such Corporation. At no time after such transfer of functions shall more than one office responsible primarily for recruitment exist within the Corporation.”
+    Subsec. (b)(2)(A). [Pub. L. 111–13][/us/pl/111/13], § 2102(2)(B)(i), substituted “Community Service Act of 1990.” for “Community Service Trust Act of 1993. Upon the transfer of the functions of the ACTION Agency to the Corporation for National and Community Service, the office established under this subparagraph shall be merged with the recruitment office of such Corporation. At no time after such transfer of functions shall more than one office responsible primarily for recruitment exist within the Corporation.”
 
-    Subsec. (b)(2)(B). [Pub. L. 111–13, § 2102(2)(B)(ii)][/us/pl/111/13/s2102/2/B/ii], substituted “database that provides” for “central information system that shall, on request, promptly provide” in introductory provisions.
+    Subsec. (b)(2)(B). [Pub. L. 111–13][/us/pl/111/13], § 2102(2)(B)(ii), substituted “database that provides” for “central information system that shall, on request, promptly provide” in introductory provisions.
 
-    Subsec. (b)(2)(C). [Pub. L. 111–13, § 2102(2)(B)(iii)][/us/pl/111/13/s2102/2/B/iii], inserted “and management” after “the recruitment” in second sentence.
+    Subsec. (b)(2)(C). [Pub. L. 111–13][/us/pl/111/13], § 2102(2)(B)(iii), inserted “and management” after “the recruitment” in second sentence.
 
-    Subsec. (b)(5)(B). [Pub. L. 111–13, § 2102(2)(C)][/us/pl/111/13/s2102/2/C], substituted “database” for “information system”.
+    Subsec. (b)(5)(B). [Pub. L. 111–13][/us/pl/111/13], § 2102(2)(C), substituted “database” for “information system”.
 
-    Subsec. (c)(1)(A). [Pub. L. 111–13, § 2102(3)(A)(i)][/us/pl/111/13/s2102/3/A/i], inserted “the Internet and related technologies,” before “radio,”.
+    Subsec. (c)(1)(A). [Pub. L. 111–13][/us/pl/111/13], § 2102(3)(A)(i), inserted “the Internet and related technologies,” before “radio,”.
 
-    Subsec. (c)(1)(B). [Pub. L. 111–13, § 2102(3)(A)(ii)][/us/pl/111/13/s2102/3/A/ii], inserted “Internet and related technologies,” before “print media,”.
+    Subsec. (c)(1)(B). [Pub. L. 111–13][/us/pl/111/13], § 2102(3)(A)(ii), inserted “Internet and related technologies,” before “print media,”.
 
-    Subsec. (c)(1)(C). [Pub. L. 111–13, § 2102(3)(A)(iii)][/us/pl/111/13/s2102/3/A/iii], inserted “State or local offices of economic development, State employment security agencies, employment offices,” before “and other institutions”.
+    Subsec. (c)(1)(C). [Pub. L. 111–13][/us/pl/111/13], § 2102(3)(A)(iii), inserted “State or local offices of economic development, State employment security agencies, employment offices,” before “and other institutions”.
 
-    Subsec. (c)(1)(F). [Pub. L. 111–13, § 2102(3)(A)(iv)][/us/pl/111/13/s2102/3/A/iv], substituted “Community Service Act of 1990” for “Community Service Trust Act of 1993”.
+    Subsec. (c)(1)(F). [Pub. L. 111–13][/us/pl/111/13], § 2102(3)(A)(iv), substituted “Community Service Act of 1990” for “Community Service Trust Act of 1993”.
 
-    Subsec. (c)(4). [Pub. L. 111–13, § 2102(3)(B)][/us/pl/111/13/s2102/3/B], struck out par. (4) which read as follows: “Beginning in fiscal year 1991 and for each fiscal year thereafter, for the purpose of carrying out this subsection, the Director shall obligate not less than 1.5 percent of the amounts appropriated for each fiscal year under [section 5081(a) of this title][/us/usc/t42/s5081/a].”
+    Subsec. (c)(4). [Pub. L. 111–13][/us/pl/111/13], § 2102(3)(B), struck out par. (4) which read as follows: “Beginning in fiscal year 1991 and for each fiscal year thereafter, for the purpose of carrying out this subsection, the Director shall obligate not less than 1.5 percent of the amounts appropriated for each fiscal year under [section 5081(a) of this title][/us/usc/t42/s5081/a].”
 
-    Subsec. (d). [Pub. L. 111–13, § 2102(4)][/us/pl/111/13/s2102/4], struck out “private industry council established under the Job Training Partnership Act or” after “coordinated with an appropriate”. See 1998 Amendment note below.
+    Subsec. (d). [Pub. L. 111–13][/us/pl/111/13], § 2102(4), struck out “private industry council established under the Job Training Partnership Act or” after “coordinated with an appropriate”. See 1998 Amendment note below.
 
-    Subsec. (g). [Pub. L. 111–13, § 2102(5)][/us/pl/111/13/s2102/5], struck out “, and such Governor or other chief executive officer has not, within 45 days of the date of such submission, notified the Director in writing, supported by a statement of reasons, that such Governor or other chief executive officer disapproves such program or project” before period at end of first sentence.
+    Subsec. (g). [Pub. L. 111–13][/us/pl/111/13], § 2102(5), struck out “, and such Governor or other chief executive officer has not, within 45 days of the date of such submission, notified the Director in writing, supported by a statement of reasons, that such Governor or other chief executive officer disapproves such program or project” before period at end of first sentence.
 
-    Subsec. (i). [Pub. L. 111–13, § 2102(6)][/us/pl/111/13/s2102/6], added subsec. (i).
+    Subsec. (i). [Pub. L. 111–13][/us/pl/111/13], § 2102(6), added subsec. (i).
 
-    1998—Subsec. (d). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(28)(A)\], which directed amendment of the second sentence to read “private industry council established under the Job Training Partnership Act or”, was not executed, to reflect the probable intent of Congress and subsequent amendment by [Pub. L. 111–13, § 2102(4)][/us/pl/111/13/s2102/4].
+    1998—Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(28)(A)\], which directed amendment of the second sentence to read “private industry council established under the Job Training Partnership Act or”, was not executed, to reflect the probable intent of Congress and subsequent amendment by [Pub. L. 111–13][/us/pl/111/13], § 2102(4).
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(36)(A)\], substituted “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under [section 2832 of title 29][/us/usc/t29/s2832].” for “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act.”
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(36)(A)\], substituted “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under [section 2832 of title 29][/us/usc/t29/s2832].” for “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act.”
 
-    1994—Subsec. (b)(5), (6). [Pub. L. 103–304, § 3(b)(7)][/us/pl/103/304/s3/b/7], redesignated par. (6) as (5).
+    1994—Subsec. (b)(5), (6). [Pub. L. 103–304][/us/pl/103/304], § 3(b)(7), redesignated par. (6) as (5).
 
-    Subsec. (c)(1)(F). [Pub. L. 103–304, § 3(b)(8)][/us/pl/103/304/s3/b/8], realigned margin.
+    Subsec. (c)(1)(F). [Pub. L. 103–304][/us/pl/103/304], § 3(b)(8), realigned margin.
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 323(a)(1)][/us/pl/103/82/s323/a/1], substituted “public” for “a public” in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 323(a)(1), substituted “public” for “a public” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 103–82, § 323(a)(2)][/us/pl/103/82/s323/a/2], directed amendment of par. (2) by striking “and” at end. See 1984 Amendment note below.
+    Subsec. (a)(2). [Pub. L. 103–82][/us/pl/103/82], § 323(a)(2), directed amendment of par. (2) by striking “and” at end. See 1984 Amendment note below.
 
-    Subsec. (a)(3). [Pub. L. 103–82, § 323(a)(3)][/us/pl/103/82/s323/a/3], struck out “illiterate or functionally illiterate youth and other individuals,” after “the hungry,”.
+    Subsec. (a)(3). [Pub. L. 103–82][/us/pl/103/82], § 323(a)(3), struck out “illiterate or functionally illiterate youth and other individuals,” after “the hungry,”.
 
-    Subsec. (a)(5). [Pub. L. 103–82, § 323(a)(4)][/us/pl/103/82/s323/a/4], struck out “and” at end.
+    Subsec. (a)(5). [Pub. L. 103–82][/us/pl/103/82], § 323(a)(4), struck out “and” at end.
 
-    Subsec. (a)(6). [Pub. L. 103–82, § 323(a)(5)][/us/pl/103/82/s323/a/5], struck out “or” before “the Community Economic”, inserted “or other similar Acts,” before “in furtherance of”, and substituted “; and” for period at end.
+    Subsec. (a)(6). [Pub. L. 103–82][/us/pl/103/82], § 323(a)(5), struck out “or” before “the Community Economic”, inserted “or other similar Acts,” before “in furtherance of”, and substituted “; and” for period at end.
 
-    Subsec. (a)(7). [Pub. L. 103–82, § 323(a)(6)][/us/pl/103/82/s323/a/6], added par. (7).
+    Subsec. (a)(7). [Pub. L. 103–82][/us/pl/103/82], § 323(a)(6), added par. (7).
 
-    Subsec. (b)(2)(A). [Pub. L. 103–82, § 405(a)(2)][/us/pl/103/82/s405/a/2], substituted “the Corporation (or any” for “the ACTION Agency (or any”.
+    Subsec. (b)(2)(A). [Pub. L. 103–82][/us/pl/103/82], § 405(a)(2), substituted “the Corporation (or any” for “the ACTION Agency (or any”.
 
-    [Pub. L. 103–82, § 323(b)(1)(A)][/us/pl/103/82/s323/b/1/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Director shall establish and maintain within the national headquarters of the ACTION Agency a volunteer placement office. The office shall be headed by an individual designated by the Director to be the national Administrator of Recruitment and Placement, who shall be responsible for carrying out the functions described in this subsection and subsection (c) of this section and all other functions delegated by the Director relating to the recruitment and placement of volunteers under this part.”
+    [Pub. L. 103–82][/us/pl/103/82], § 323(b)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Director shall establish and maintain within the national headquarters of the ACTION Agency a volunteer placement office. The office shall be headed by an individual designated by the Director to be the national Administrator of Recruitment and Placement, who shall be responsible for carrying out the functions described in this subsection and subsection (c) of this section and all other functions delegated by the Director relating to the recruitment and placement of volunteers under this part.”
 
-    Subsec. (b)(2)(C), (D). [Pub. L. 103–82, § 323(b)(1)(B)][/us/pl/103/82/s323/b/1/B], (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The Director shall, at a minimum, designate one employee of the ACTION Agency in each region of the United States whose primary duties and responsibilities shall be to assist the Administrator in carrying out the functions described in this subsection and subsection (c) of this section.”
+    Subsec. (b)(2)(C), (D). [Pub. L. 103–82][/us/pl/103/82], § 323(b)(1)(B), (C), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The Director shall, at a minimum, designate one employee of the ACTION Agency in each region of the United States whose primary duties and responsibilities shall be to assist the Administrator in carrying out the functions described in this subsection and subsection (c) of this section.”
 
-    Subsec. (b)(4). [Pub. L. 103–82, § 405(a)(3)][/us/pl/103/82/s405/a/3], substituted “the Corporation” for “the ACTION Agency” in two places.
+    Subsec. (b)(4). [Pub. L. 103–82][/us/pl/103/82], § 405(a)(3), substituted “the Corporation” for “the ACTION Agency” in two places.
 
-    [Pub. L. 103–82, § 323(b)(2)][/us/pl/103/82/s323/b/2], (3), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “Each application for service as a volunteer under this part shall—
+    [Pub. L. 103–82][/us/pl/103/82], § 323(b)(2), (3), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “Each application for service as a volunteer under this part shall—
 
     “(A) indicate the period of time during which the applicant is available to serve as a volunteer under this part;
 
@@ -235,53 +235,53 @@
 
     “(ii) the particular project or program to which the applicant prefers to be assigned.”
 
-    Subsec. (b)(5) to (7). [Pub. L. 103–82, § 323(b)(2)][/us/pl/103/82/s323/b/2], (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: “Completed applications received by the ACTION Agency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants.”
+    Subsec. (b)(5) to (7). [Pub. L. 103–82][/us/pl/103/82], § 323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: “Completed applications received by the ACTION Agency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants.”
 
-    Subsec. (c)(1). [Pub. L. 103–82, § 323(c)(1)(A)][/us/pl/103/82/s323/c/1/A], (B), in introductory provisions, substituted “personnel described in subsection (b)(2)(C)” for “regional or State employees designated in subparagraphs (C) and (D) of subsection (b)(2)” and “Such activities may include” for “Such activities shall include”.
+    Subsec. (c)(1). [Pub. L. 103–82][/us/pl/103/82], § 323(c)(1)(A), (B), in introductory provisions, substituted “personnel described in subsection (b)(2)(C)” for “regional or State employees designated in subparagraphs (C) and (D) of subsection (b)(2)” and “Such activities may include” for “Such activities shall include”.
 
-    Subsec. (c)(1)(D). [Pub. L. 103–82, § 405(a)(4)][/us/pl/103/82/s405/a/4], substituted “the Corporation” for “the ACTION Agency”.
+    Subsec. (c)(1)(D). [Pub. L. 103–82][/us/pl/103/82], § 405(a)(4), substituted “the Corporation” for “the ACTION Agency”.
 
-    Subsec. (c)(1)(F) to (H). [Pub. L. 103–82, § 323(c)(1)(C)][/us/pl/103/82/s323/c/1/C], (D), added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
+    Subsec. (c)(1)(F) to (H). [Pub. L. 103–82][/us/pl/103/82], § 323(c)(1)(C), (D), added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
 
-    Subsec. (c)(4) to (6). [Pub. L. 103–82, § 323(c)(2)][/us/pl/103/82/s323/c/2], (3), redesignated par. (6) as (4) and struck out former par. (4) which required Director to develop annual plan for recruitment of volunteers under this part and former par. (5) which required that at least 20 percent of volunteers under this part be between ages 18 and 27 and that at least 20 percent be 55 or older.
+    Subsec. (c)(4) to (6). [Pub. L. 103–82][/us/pl/103/82], § 323(c)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) which required Director to develop annual plan for recruitment of volunteers under this part and former par. (5) which required that at least 20 percent of volunteers under this part be between ages 18 and 27 and that at least 20 percent be 55 or older.
 
-    Subsec. (h). [Pub. L. 103–82, § 323(d)][/us/pl/103/82/s323/d], added subsec. (h).
+    Subsec. (h). [Pub. L. 103–82][/us/pl/103/82], § 323(d), added subsec. (h).
 
-    1989—[Pub. L. 101–204, § 101(d)(2)(A)][/us/pl/101/204/s101/d/2/A], substituted “Selection and assignment” for “Assignment” in section catchline.
+    1989—[Pub. L. 101–204][/us/pl/101/204], § 101(d)(2)(A), substituted “Selection and assignment” for “Assignment” in section catchline.
 
-    Subsec. (a). [Pub. L. 101–204, § 101(d)(2)(B)][/us/pl/101/204/s101/d/2/B], inserted introductory provisions and struck out former introductory provisions which read as follows: “The Director, upon request of Federal, State, or local agencies, or private nonprofit organizations, may assign such volunteers to work in the several States in the local communities in which the volunteers were recruited in appropriate projects and programs, including work—”.
+    Subsec. (a). [Pub. L. 101–204][/us/pl/101/204], § 101(d)(2)(B), inserted introductory provisions and struck out former introductory provisions which read as follows: “The Director, upon request of Federal, State, or local agencies, or private nonprofit organizations, may assign such volunteers to work in the several States in the local communities in which the volunteers were recruited in appropriate projects and programs, including work—”.
 
-    Subsec. (a)(5), (6). [Pub. L. 101–204, § 701][/us/pl/101/204/s701], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (a)(5), (6). [Pub. L. 101–204][/us/pl/101/204], § 701, added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (b). [Pub. L. 101–204, § 101(a)][/us/pl/101/204/s101/a], amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “The Director shall establish, at a cost not to exceed $250,000, procedures to recruit and place individuals from all walks of life, age groups, economic levels, and geographic areas to serve as VISTA volunteers. The procedures shall include an information system to ensure that potential applicants are made aware of the broad range of VISTA volunteer opportunities and a system to identify and place qualified volunteers where their skills are most needed. The Director shall also establish procedures for national and local recruitment, media and public awareness efforts, and specialized campaigns designed to recruit recent college graduates, special skilled volunteers, and individuals 55 years of age and older. The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home or nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program. The Director shall also, in the assignment of volunteers, recognize that the community identified needs which cannot be met in the local area, and the individual desires of VISTA volunteers in regard to placement in various geographic areas of the Nation, should be taken into consideration.”
+    Subsec. (b). [Pub. L. 101–204][/us/pl/101/204], § 101(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “The Director shall establish, at a cost not to exceed $250,000, procedures to recruit and place individuals from all walks of life, age groups, economic levels, and geographic areas to serve as VISTA volunteers. The procedures shall include an information system to ensure that potential applicants are made aware of the broad range of VISTA volunteer opportunities and a system to identify and place qualified volunteers where their skills are most needed. The Director shall also establish procedures for national and local recruitment, media and public awareness efforts, and specialized campaigns designed to recruit recent college graduates, special skilled volunteers, and individuals 55 years of age and older. The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home or nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program. The Director shall also, in the assignment of volunteers, recognize that the community identified needs which cannot be met in the local area, and the individual desires of VISTA volunteers in regard to placement in various geographic areas of the Nation, should be taken into consideration.”
 
-    Subsecs. (c) to (e). [Pub. L. 101–204, § 101(b)][/us/pl/101/204/s101/b], added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (c) to (e). [Pub. L. 101–204][/us/pl/101/204], § 101(b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-    Subsec. (f). [Pub. L. 101–204, § 101(b)(1)][/us/pl/101/204/s101/b/1], (d)(2)(C), redesignated subsec. (e) as (f) and substituted reference to subsec. (e) of this section for reference to subsec. (d) of this section. Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 101–204][/us/pl/101/204], § 101(b)(1), (d)(2)(C), redesignated subsec. (e) as (f) and substituted reference to subsec. (e) of this section for reference to subsec. (d) of this section. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 101–204, § 101(b)(1)][/us/pl/101/204/s101/b/1], redesignated former subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 101–204][/us/pl/101/204], § 101(b)(1), redesignated former subsec. (f) as (g).
 
     1986—Subsec. (b). [Pub. L. 99–551][/us/pl/99/551] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program.”
 
-    1984—Subsec. (a). [Pub. L. 98–288, § 4(a)(1)][/us/pl/98/288/s4/a/1], inserted “in the local communities in which the volunteers were recruited” and inserted “, including work” in provisions before par. (1).
+    1984—Subsec. (a). [Pub. L. 98–288][/us/pl/98/288], § 4(a)(1), inserted “in the local communities in which the volunteers were recruited” and inserted “, including work” in provisions before par. (1).
 
-    Subsec. (a)(2). [Pub. L. 98–288, § 4(a)(2)][/us/pl/98/288/s4/a/2], which directed substitution of a semicolon for “, under the supervision of nonprofit institutions or facilities, and”, was executed by making the substitution for “, under the supervision of nonprofit institutions or facilities; and” to reflect the probable intent of Congress.
+    Subsec. (a)(2). [Pub. L. 98–288][/us/pl/98/288], § 4(a)(2), which directed substitution of a semicolon for “, under the supervision of nonprofit institutions or facilities, and”, was executed by making the substitution for “, under the supervision of nonprofit institutions or facilities; and” to reflect the probable intent of Congress.
 
-    Subsec. (a)(3), (4). [Pub. L. 98–288, § 4(a)(4)][/us/pl/98/288/s4/a/4], added pars. (3) and (4). Former par. (3) redesignated (5).
+    Subsec. (a)(3), (4). [Pub. L. 98–288][/us/pl/98/288], § 4(a)(4), added pars. (3) and (4). Former par. (3) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 98–288, § 4(a)(3)][/us/pl/98/288/s4/a/3], (4), redesignated par. (3) as (5), and substituted “the Community Service Block Grant Act, titles VIII and X of the Economic Opportunity Act of 1964, the Headstart Act, or the Community Economic Development Act of 1981,” for “the Economic Opportunity Act of 1964, as amended”.
+    Subsec. (a)(5). [Pub. L. 98–288][/us/pl/98/288], § 4(a)(3), (4), redesignated par. (3) as (5), and substituted “the Community Service Block Grant Act, titles VIII and X of the Economic Opportunity Act of 1964, the Headstart Act, or the Community Economic Development Act of 1981,” for “the Economic Opportunity Act of 1964, as amended”.
 
-    Subsec. (b). [Pub. L. 98–288, § 4(b)][/us/pl/98/288/s4/b], substituted “The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program” for “Not later than 30 days after the assignment of any such community volunteer, the Director shall insure that each such volunteer is provided an individual plan designed to provide an opportunity for job advancement or for transition to a situation leading to gainful employment. One hundred and twenty days prior to the completion of such community volunteer’s term of service, the Director shall insure that such plan is updated and reviewed with the volunteer. The Director shall offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and, upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences”.
+    Subsec. (b). [Pub. L. 98–288][/us/pl/98/288], § 4(b), substituted “The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program” for “Not later than 30 days after the assignment of any such community volunteer, the Director shall insure that each such volunteer is provided an individual plan designed to provide an opportunity for job advancement or for transition to a situation leading to gainful employment. One hundred and twenty days prior to the completion of such community volunteer’s term of service, the Director shall insure that such plan is updated and reviewed with the volunteer. The Director shall offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and, upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences”.
 
-    Subsecs. (c), (d). [Pub. L. 98–288, § 4(c)(1)(B)][/us/pl/98/288/s4/c/1/B], added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated subsecs. (e) and (f), respectively.
+    Subsecs. (c), (d). [Pub. L. 98–288][/us/pl/98/288], § 4(c)(1)(B), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated subsecs. (e) and (f), respectively.
 
-    Subsec. (e). [Pub. L. 98–288, § 4(c)(1)(A)][/us/pl/98/288/s4/c/1/A], redesignated subsec. (c) as (e).
+    Subsec. (e). [Pub. L. 98–288][/us/pl/98/288], § 4(c)(1)(A), redesignated subsec. (c) as (e).
 
-    Subsec. (f). [Pub. L. 98–288, § 4(c)(1)(A)][/us/pl/98/288/s4/c/1/A], (d), redesignated subsec. (d) as (f), and substituted “work in a program or project in any community unless the application for such program or project contains evidence of local support and” for “duties or work in a program or project in any State unless such program or project”.
+    Subsec. (f). [Pub. L. 98–288][/us/pl/98/288], § 4(c)(1)(A), (d), redesignated subsec. (d) as (f), and substituted “work in a program or project in any community unless the application for such program or project contains evidence of local support and” for “duties or work in a program or project in any State unless such program or project”.
 
-    1979—Subsec. (b). [Pub. L. 96–143, § 2(a)][/us/pl/96/143/s2/a], substituted “Not later than 30 days after” for “Prior to” and inserted provisions that the Director offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and, upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences.
+    1979—Subsec. (b). [Pub. L. 96–143][/us/pl/96/143], § 2(a), substituted “Not later than 30 days after” for “Prior to” and inserted provisions that the Director offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and, upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences.
 
-    Subsec. (d). [Pub. L. 96–143, § 2(b)][/us/pl/96/143/s2/b], inserted “in a program or project” after “work” and “or project” after “program” and inserted provisions requiring notification by a Governor or other chief executive officer to the Director that such Governor or other chief executive officer has disapproved a program or project under this section and requiring the Director to terminate a program or project under this section in the event of a timely request by the Governor or other chief executive officer not later than 30 days after the date such request is received or at such date agreed upon by the Director and such Governor or other chief executive officer.
+    Subsec. (d). [Pub. L. 96–143][/us/pl/96/143], § 2(b), inserted “in a program or project” after “work” and “or project” after “program” and inserted provisions requiring notification by a Governor or other chief executive officer to the Director that such Governor or other chief executive officer has disapproved a program or project under this section and requiring the Director to terminate a program or project under this section in the event of a timely request by the Governor or other chief executive officer not later than 30 days after the date such request is received or at such date agreed upon by the Director and such Governor or other chief executive officer.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -297,7 +297,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–304, § 3(b)(10)][/us/pl/103/304/s3/b/10], Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568], provided that:
+[Pub. L. 103–304][/us/pl/103/304], § 3(b)(10), Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -333,25 +333,25 @@
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
-[/us/pl/93/113/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs103
+[/us/pl/93/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtI
 [/us/stat/87/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F396
-[/us/pl/96/143/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs2
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/stat/93/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1074
-[/us/pl/98/288/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fa
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
 [/us/stat/98/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F189
-[/us/pl/99/551/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551%2Fs3%2Fa
+[/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
 [/us/stat/100/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3071
-[/us/pl/101/204/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs101%2Fa
+[/us/pl/101/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2FtI
 [/us/stat/103/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1807
-[/us/pl/103/82/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323
+[/us/pl/103/82/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIII
 [/us/stat/107/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F899
-[/us/pl/103/304/s3/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F7
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1568
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/111/13/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1582
-[/us/pl/113/128/s512/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fh
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
@@ -376,68 +376,68 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
-[/us/pl/111/13/s2102/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FA
-[/us/pl/111/13/s2102/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FB
-[/us/pl/111/13/s2102/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FC
-[/us/pl/111/13/s2102/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FD
-[/us/pl/111/13/s2102/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FE
-[/us/pl/111/13/s2102/1/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FF%2Fi
-[/us/pl/111/13/s2102/1/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FF%2Fii
-[/us/pl/111/13/s2102/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F2%2FA
-[/us/pl/111/13/s2102/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F2%2FB%2Fi
-[/us/pl/111/13/s2102/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F2%2FB%2Fii
-[/us/pl/111/13/s2102/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F2%2FB%2Fiii
-[/us/pl/111/13/s2102/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F2%2FC
-[/us/pl/111/13/s2102/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F3%2FA%2Fi
-[/us/pl/111/13/s2102/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F3%2FA%2Fii
-[/us/pl/111/13/s2102/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F3%2FA%2Fiii
-[/us/pl/111/13/s2102/3/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F3%2FA%2Fiv
-[/us/pl/111/13/s2102/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F3%2FB
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/usc/t42/s5081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5081%2Fa
-[/us/pl/111/13/s2102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F4
-[/us/pl/111/13/s2102/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F5
-[/us/pl/111/13/s2102/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F6
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/111/13/s2102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F4
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
-[/us/pl/103/304/s3/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F7
-[/us/pl/103/304/s3/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F8
-[/us/pl/103/82/s323/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fa%2F1
-[/us/pl/103/82/s323/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fa%2F2
-[/us/pl/103/82/s323/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fa%2F3
-[/us/pl/103/82/s323/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fa%2F4
-[/us/pl/103/82/s323/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fa%2F5
-[/us/pl/103/82/s323/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fa%2F6
-[/us/pl/103/82/s405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fa%2F2
-[/us/pl/103/82/s323/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fb%2F1%2FA
-[/us/pl/103/82/s323/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fb%2F1%2FB
-[/us/pl/103/82/s405/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fa%2F3
-[/us/pl/103/82/s323/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fb%2F2
-[/us/pl/103/82/s323/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fb%2F2
-[/us/pl/103/82/s323/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fc%2F1%2FA
-[/us/pl/103/82/s405/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fa%2F4
-[/us/pl/103/82/s323/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fc%2F1%2FC
-[/us/pl/103/82/s323/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fc%2F2
-[/us/pl/103/82/s323/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323%2Fd
-[/us/pl/101/204/s101/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs101%2Fd%2F2%2FA
-[/us/pl/101/204/s101/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs101%2Fd%2F2%2FB
-[/us/pl/101/204/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs701
-[/us/pl/101/204/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs101%2Fa
-[/us/pl/101/204/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs101%2Fb
-[/us/pl/101/204/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs101%2Fb%2F1
-[/us/pl/101/204/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204%2Fs101%2Fb%2F1
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
+[/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 [/us/pl/99/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F551
-[/us/pl/98/288/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fa%2F1
-[/us/pl/98/288/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fa%2F2
-[/us/pl/98/288/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fa%2F4
-[/us/pl/98/288/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fa%2F3
-[/us/pl/98/288/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fb
-[/us/pl/98/288/s4/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fc%2F1%2FB
-[/us/pl/98/288/s4/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fc%2F1%2FA
-[/us/pl/98/288/s4/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fc%2F1%2FA
-[/us/pl/96/143/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs2%2Fa
-[/us/pl/96/143/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs2%2Fb
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/98/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
+[/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
@@ -448,7 +448,7 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t5/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3502
-[/us/pl/103/304/s3/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304%2Fs3%2Fb%2F10
+[/us/pl/103/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F304
 [/us/stat/108/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1568
 [/us/pl/103/82/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs323
 [/us/pl/103/82/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs392

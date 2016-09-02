@@ -89,7 +89,7 @@
 
         All individuals in the occupations listed in subsection (b)(1) of this section who work on Federal lands, or are employed in federally operated (or contracted) facilities, shall receive periodic training in the obligation to report, as well as in the identification of abused and neglected children.
 
-([Pub. L. 101–647, title II, § 226][/us/pl/101/647/s226], Nov. 29, 1990, [104 Stat. 4806][/us/stat/104/4806].)
+([Pub. L. 101–647, title II][/us/pl/101/647/tII], § 226, Nov. 29, 1990, [104 Stat. 4806][/us/stat/104/4806].)
 
  __Codification__ 
 
@@ -102,7 +102,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs226
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4806
 [/us/pl/101/647/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs226
 [/us/pl/101/647/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs226

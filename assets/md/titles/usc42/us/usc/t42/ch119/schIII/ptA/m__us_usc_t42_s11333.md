@@ -29,7 +29,7 @@
 
         (3) conduct audits of the National Board annually and at such other times as may be appropriate.
 
-([Pub. L. 100–77, title III, § 303][/us/pl/100/77/s303], July 22, 1987, [101 Stat. 490][/us/stat/101/490].)
+([Pub. L. 100–77, title III][/us/pl/100/77/tIII], § 303, July 22, 1987, [101 Stat. 490][/us/stat/101/490].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/77/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs303
+[/us/pl/100/77/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIII
 [/us/stat/101/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F490
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

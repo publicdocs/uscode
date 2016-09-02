@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schVII/m__us_usc_t42_s17792.md) | [Next](./../../../../..//us/usc/t42/ch155/schVIII/m__us_usc_t42_s17801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch155%2FschVIII)
+[Previous](./../../../../..//us/usc/t42/ch155/schVII/m__us_usc_t42_s17793...17795.md) | [Next](./../../../../..//us/usc/t42/ch155/schVIII/m__us_usc_t42_s17801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch155%2FschVIII)
 
 ### SUBCHAPTER VIII—COMMERCIAL INITIATIVES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schVII/m__us_usc_t42_s17792.md) | [Next](./../../../../..//us/usc/t42/ch155/schVIII/m__us_usc_t42_s17801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch155%2FschVIII)
+[Previous](./../../../../..//us/usc/t42/ch155/schVII/m__us_usc_t42_s17793...17795.md) | [Next](./../../../../..//us/usc/t42/ch155/schVIII/m__us_usc_t42_s17801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch155%2FschVIII)
 
 ----------
 ----------

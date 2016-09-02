@@ -23,13 +23,13 @@
 
         The Assistant Secretary shall prepare and submit to Congress a report containing the results of the evaluation required by subsection (a) of this section. Such report shall contain such recommendations as the Assistant Secretary determines to be appropriate.
 
-([Pub. L. 89–73, title IV, § 421][/us/pl/89/73/s421], as added [Pub. L. 106–501, title IV, § 401][/us/pl/106/501/s401], Nov. 13, 2000, [114 Stat. 2265][/us/stat/114/2265].)
+([Pub. L. 89–73, title IV][/us/pl/89/73/tIV], § 421, as added [Pub. L. 106–501, title IV][/us/pl/106/501/tIV], § 401, Nov. 13, 2000, [114 Stat. 2265][/us/stat/114/2265].)
 
  __References in Text__ 
 
-    The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a), is title I of [Pub. L. 88–164][/us/pl/88/164], Oct. 31, 1963, [77 Stat. 282][/us/stat/77/282], as amended generally by [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2662][/us/stat/98/2662], as further amended, which was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. Part C of the Act was classified generally to subchapter III (§ 6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+    The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a), is title I of [Pub. L. 88–164][/us/pl/88/164], Oct. 31, 1963, [77 Stat. 282][/us/stat/77/282], as amended generally by [Pub. L. 98–527][/us/pl/98/527], § 2, Oct. 19, 1984, [98 Stat. 2662][/us/stat/98/2662], as further amended, which was repealed by [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(a), Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. Part C of the Act was classified generally to subchapter III (§ 6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
 
-    The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a), was [Pub. L. 99–319][/us/pl/99/319], May 23, 1986, [100 Stat. 478][/us/stat/100/478], as amended. [Pub. L. 99–319][/us/pl/99/319] was renamed the Protection and Advocacy for Individuals with Mental Illness Act by [Pub. L. 106–310, div. B, title XXXII, § 3206(a)][/us/pl/106/310/s3206/a], Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193], and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title][/us/usc/t42/s10801] and Tables.
+    The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a), was [Pub. L. 99–319][/us/pl/99/319], May 23, 1986, [100 Stat. 478][/us/stat/100/478], as amended. [Pub. L. 99–319][/us/pl/99/319] was renamed the Protection and Advocacy for Individuals with Mental Illness Act by [Pub. L. 106–310, div. B, title XXXII][/us/pl/106/310/dB/tXXXII], § 3206(a), Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193], and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title][/us/usc/t42/s10801] and Tables.
 
  __Prior Provisions__ 
 
@@ -46,19 +46,19 @@
 
 [/us/usc/t42/s6041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6041
 [/us/usc/t42/s10801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10801
-[/us/pl/89/73/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs421
-[/us/pl/106/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs401
+[/us/pl/89/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2FtIV
+[/us/pl/106/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2FtIV
 [/us/stat/114/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2265
 [/us/pl/88/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164
 [/us/stat/77/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F282
-[/us/pl/98/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527%2Fs2
+[/us/pl/98/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527
 [/us/stat/98/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2662
-[/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
 [/us/pl/99/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319
 [/us/stat/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F478
 [/us/pl/99/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319
-[/us/pl/106/310/s3206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3206%2Fa
+[/us/pl/106/310/dB/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXII
 [/us/stat/114/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1193
 [/us/usc/t42/s10801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10801
 [/us/pl/89/73/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs421

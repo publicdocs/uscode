@@ -67,15 +67,15 @@
 
             (B) the State of New York (or any public agency or authority thereof).
 
-([Pub. L. 96–510, title III, § 312][/us/pl/96/510/s312], as added [Pub. L. 99–499, title II, § 213(b)][/us/pl/99/499/s213/b], Oct. 17, 1986, [100 Stat. 1727][/us/stat/100/1727].)
+([Pub. L. 96–510, title III][/us/pl/96/510/tIII], § 312, as added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 213(b), Oct. 17, 1986, [100 Stat. 1727][/us/stat/100/1727].)
 
  __References in Text__ 
 
-    [Section 9631 of this title][/us/usc/t42/s9631], referred to in subsec. (f), was repealed by [Pub. L. 99–499, title V, § 517(c)(1)][/us/pl/99/499/s517/c/1], Oct. 17, 1986, [100 Stat. 1774][/us/stat/100/1774].
+    [Section 9631 of this title][/us/usc/t42/s9631], referred to in subsec. (f), was repealed by [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 517(c)(1), Oct. 17, 1986, [100 Stat. 1774][/us/stat/100/1774].
 
  __Love Canal Property Acquisition; Congressional Findings__ 
 
-[Pub. L. 99–499, title II, § 213(a)][/us/pl/99/499/s213/a], Oct. 17, 1986, [100 Stat. 1726][/us/stat/100/1726], provided that:
+[Pub. L. 99–499, title II][/us/pl/99/499/tII], § 213(a), Oct. 17, 1986, [100 Stat. 1726][/us/stat/100/1726], provided that:
 
 >     “(1) The area known as Love Canal located in the city of Niagara Falls and the town of Wheatfield, New York, was the first toxic waste site to receive national attention. As a result of that attention Congress investigated the problems associated with toxic waste sites and enacted CERCLA \[Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601][/us/usc/t42/s9601] et seq.)\] to deal with these problems.
 
@@ -95,13 +95,13 @@
 [/us/usc/t42/s9604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fc
 [/us/usc/t42/s9611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9611
 [/us/usc/t42/s9611/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9611%2Fc
-[/us/pl/96/510/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs312
-[/us/pl/99/499/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs213%2Fb
+[/us/pl/96/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtIII
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1727
 [/us/usc/t42/s9631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9631
-[/us/pl/99/499/s517/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fc%2F1
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1774
-[/us/pl/99/499/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs213%2Fa
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1726
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499

@@ -25,7 +25,7 @@
 
         The Director of NIH, in consultation with the Director of the Office and with the National Library of Medicine, shall establish, maintain, and operate a program to provide information on research and prevention activities of the national research institutes that relate to research on women’s health.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 486A, as added [Pub. L. 103–43, title I, § 141(a)(3)][/us/pl/103/43/s141/a/3], June 10, 1993, [107 Stat. 138][/us/stat/107/138].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 486A, as added [Pub. L. 103–43, title I][/us/pl/103/43/tI], § 141(a)(3), June 10, 1993, [107 Stat. 138][/us/stat/107/138].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/103/43/s141/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs141%2Fa%2F3
+[/us/pl/103/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2FtI
 [/us/stat/107/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F138
 
 

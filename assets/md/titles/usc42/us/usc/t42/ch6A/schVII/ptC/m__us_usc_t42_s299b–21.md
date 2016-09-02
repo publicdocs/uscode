@@ -111,7 +111,7 @@
 
         (B) any other individual or entity specified in regulations promulgated by the Secretary.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 921, as added [Pub. L. 109–41, § 2(a)(5)][/us/pl/109/41/s2/a/5], July 29, 2005, [119 Stat. 424][/us/stat/119/424].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 921, as added [Pub. L. 109–41][/us/pl/109/41], § 2(a)(5), July 29, 2005, [119 Stat. 424][/us/stat/119/424].)
 
  __References in Text__ 
 
@@ -135,7 +135,7 @@
 [/us/usc/t42/s299b–22/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9322%2Fe
 [/us/usc/t42/s299b–24/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9324%2Fd
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/109/41/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41%2Fs2%2Fa%2F5
+[/us/pl/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F41
 [/us/stat/119/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F424
 [/us/pl/104/191/s264/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264%2Fc
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932

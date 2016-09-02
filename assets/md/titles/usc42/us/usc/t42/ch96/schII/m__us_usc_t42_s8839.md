@@ -35,7 +35,7 @@
 
         The Secretary shall provide for the transfer to the Office of the functions relating to, and personnel of the Department who are responsible for the administration of, programs in existence on June 30, 1980, which relate to the research, development, demonstration, and commercialization of technologies for the recovery of energy from municipal waste.
 
-([Pub. L. 96–294, title II, § 239][/us/pl/96/294/s239], June 30, 1980, [94 Stat. 704][/us/stat/94/704].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 239, June 30, 1980, [94 Stat. 704][/us/stat/94/704].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s8837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8837
-[/us/pl/96/294/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs239
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F704
 
 

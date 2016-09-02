@@ -157,7 +157,7 @@
 
         There is authorized to be appropriated to carry out this section, $50,000,000 for fiscal year 2004, and such sums as may be necessary for each fiscal year thereafter.
 
-([Pub. L. 108–173, title X, § 1013][/us/pl/108/173/s1013], Dec. 8, 2003, [117 Stat. 2438][/us/stat/117/2438].)
+([Pub. L. 108–173, title X][/us/pl/108/173/tX], § 1013, Dec. 8, 2003, [117 Stat. 2438][/us/stat/117/2438].)
 
  __References in Text__ 
 
@@ -195,7 +195,7 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/108/173/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1013
+[/us/pl/108/173/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtX
 [/us/stat/117/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2438
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

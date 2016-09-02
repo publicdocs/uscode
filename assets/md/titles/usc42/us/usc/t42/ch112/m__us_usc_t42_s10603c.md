@@ -73,7 +73,7 @@
 
         (4) an analysis of future program needs and suggested program improvements.
 
-([Pub. L. 98–473, title II, § 1404C][/us/pl/98/473/s1404C], as added [Pub. L. 106–386, div. C, § 2003(c)(1)][/us/pl/106/386/s2003/c/1], Oct. 28, 2000, [114 Stat. 1544][/us/stat/114/1544]; amended [Pub. L. 107–56, title VI, § 624(c)][/us/pl/107/56/s624/c], Oct. 26, 2001, [115 Stat. 373][/us/stat/115/373]; [Pub. L. 110–181, div. A, title X, § 1083(b)(4)][/us/pl/110/181/s1083/b/4], Jan. 28, 2008, [122 Stat. 342][/us/stat/122/342].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1404C, as added [Pub. L. 106–386, div. C][/us/pl/106/386/dC], § 2003(c)(1), Oct. 28, 2000, [114 Stat. 1544][/us/stat/114/1544]; amended [Pub. L. 107–56, title VI][/us/pl/107/56/tVI], § 624(c), Oct. 26, 2001, [115 Stat. 373][/us/stat/115/373]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1083(b)(4), Jan. 28, 2008, [122 Stat. 342][/us/stat/122/342].)
 
  __References in Text__ 
 
@@ -99,12 +99,12 @@
 [/us/usc/t18/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331
 [/us/usc/t8/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa
 [/us/usc/t42/s10601/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10601%2Fd%2F5%2FA
-[/us/pl/98/473/s1404C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1404C
-[/us/pl/106/386/s2003/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs2003%2Fc%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
+[/us/pl/106/386/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdC
 [/us/stat/114/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1544
-[/us/pl/107/56/s624/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs624%2Fc
+[/us/pl/107/56/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVI
 [/us/stat/115/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F373
-[/us/pl/110/181/s1083/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fb%2F4
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F342
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/stat/100/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F853

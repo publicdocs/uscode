@@ -35,11 +35,11 @@
 
         Compilations of addresses existing at the time at which order is presented to an appropriate postal official shall be excluded from the scope of the regulations under subsection (a) of this section.
 
-([Pub. L. 103–322, title IV, § 40281][/us/pl/103/322/s40281], Sept. 13, 1994, [108 Stat. 1938][/us/stat/108/1938].)
+([Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40281, Sept. 13, 1994, [108 Stat. 1938][/us/stat/108/1938].)
 
  __References in Text__ 
 
-    [Section 10410 of this title][/us/usc/t42/s10410], referred to in subsec. (b)(2), was generally amended by [Pub. L. 111–320, title II, § 201][/us/pl/111/320/s201], Dec. 20, 2010, [124 Stat. 3497][/us/stat/124/3497], and, as so amended, no longer contains provisions relating to grants for State domestic violence coalitions. See [section 10411 of this title][/us/usc/t42/s10411].
+    [Section 10410 of this title][/us/usc/t42/s10410], referred to in subsec. (b)(2), was generally amended by [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 201, Dec. 20, 2010, [124 Stat. 3497][/us/stat/124/3497], and, as so amended, no longer contains provisions relating to grants for State domestic violence coalitions. See [section 10411 of this title][/us/usc/t42/s10411].
 
 ----------
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40281
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1938
 [/us/usc/t42/s10410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10410
-[/us/pl/111/320/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs201
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3497
 [/us/usc/t42/s10411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10411
 

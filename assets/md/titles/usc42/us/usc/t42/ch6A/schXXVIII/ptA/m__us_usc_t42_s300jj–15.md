@@ -17,7 +17,7 @@
 
     For requirements relating to the application and use by Federal agencies of the standards and implementation specifications adopted under [section 300jj–14 of this title][/us/usc/t42/s300jj–14], see [section 17901 of this title][/us/usc/t42/s17901].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3005, as added [Pub. L. 111–5, div. A, title XIII, § 13101][/us/pl/111/5/s13101], Feb. 17, 2009, [123 Stat. 241][/us/stat/123/241].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXX, § 3005, as added [Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13101, Feb. 17, 2009, [123 Stat. 241][/us/stat/123/241].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t42/s300jj–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9314
 [/us/usc/t42/s17901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17901
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F241
 
 

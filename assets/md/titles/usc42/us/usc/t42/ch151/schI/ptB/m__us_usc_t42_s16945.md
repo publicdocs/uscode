@@ -35,7 +35,7 @@
 
         (4) perform such other functions as the Attorney General may delegate.
 
-([Pub. L. 109–248, title I, § 146][/us/pl/109/248/s146], July 27, 2006, [120 Stat. 607][/us/stat/120/607].)
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 146, July 27, 2006, [120 Stat. 607][/us/stat/120/607].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs146
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F607
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F587

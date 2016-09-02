@@ -21,7 +21,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, title V, § 5310(b)(7)][/us/pl/111/148/s5310/b/7], Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631], redesignated part F “Funding” as I.
+    2010—[Pub. L. 111–148, title V][/us/pl/111/148/tV], § 5310(b)(7), Mar. 23, 2010, [124 Stat. 631][/us/stat/124/631], redesignated part F “Funding” as I.
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s5310/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5310%2Fb%2F7
+[/us/pl/111/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtV
 [/us/stat/124/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F631
 
 

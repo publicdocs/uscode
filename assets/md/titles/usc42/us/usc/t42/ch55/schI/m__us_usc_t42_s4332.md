@@ -61,7 +61,7 @@
 
     (I) assist the Council on Environmental Quality established by subchapter II of this chapter.
 
-([Pub. L. 91–190, title I, § 102][/us/pl/91/190/s102], Jan. 1, 1970, [83 Stat. 853][/us/stat/83/853]; [Pub. L. 94–83][/us/pl/94/83], Aug. 9, 1975, [89 Stat. 424][/us/stat/89/424].)
+([Pub. L. 91–190, title I][/us/pl/91/190/tI], § 102, Jan. 1, 1970, [83 Stat. 853][/us/stat/83/853]; [Pub. L. 94–83][/us/pl/94/83], Aug. 9, 1975, [89 Stat. 424][/us/stat/89/424].)
 
  __Amendments__ 
 
@@ -69,7 +69,7 @@
 
  __Certain Commercial Space Launch Activities__ 
 
-[Pub. L. 104–88, title IV, § 401][/us/pl/104/88/s401], Dec. 29, 1995, [109 Stat. 955][/us/stat/109/955], provided that: 
+[Pub. L. 104–88, title IV][/us/pl/104/88/tIV], § 401, Dec. 29, 1995, [109 Stat. 955][/us/stat/109/955], provided that: 
 
 > “The licensing of a launch vehicle or launch site operator (including any amendment, extension, or renewal of the license) under \[former\] chapter 701 of title 49, United States Code \[now chapter 509 (§ 50901 et seq.) of Title 51, National and Commercial Space Programs\], shall not be considered a major Federal action for purposes of section 102(C) of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332(C)][/us/usc/t42/s4332/C]) if—
 
@@ -121,12 +121,12 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/91/190/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2Fs102
+[/us/pl/91/190/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190%2FtI
 [/us/stat/83/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F853
 [/us/pl/94/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F83
 [/us/stat/89/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F424
 [/us/pl/94/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F83
-[/us/pl/104/88/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs401
+[/us/pl/104/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIV
 [/us/stat/109/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F955
 [/us/usc/t42/s4332/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2FC
 [/us/usc/t42/s4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4375

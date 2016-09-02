@@ -17,7 +17,7 @@
 
     The Secretary shall perform the duties imposed upon the Secretary by this chapter. The Secretary is authorized to appoint and fix the compensation of such officers and employees, and to make such expenditures as may be necessary for carrying out the functions of the Secretary under this chapter. The Secretary may appoint attorneys and experts without regard to the civil service laws.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 712, as added [Pub. L. 103–296, title I, § 108(a)(1)][/us/pl/103/296/s108/a/1], Aug. 15, 1994, [108 Stat. 1481][/us/stat/108/1481].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 712, as added [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(a)(1), Aug. 15, 1994, [108 Stat. 1481][/us/stat/108/1481].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/103/296/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fa%2F1
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1481
 
 

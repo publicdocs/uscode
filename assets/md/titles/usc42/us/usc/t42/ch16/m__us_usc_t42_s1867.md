@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1866.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1868.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1867)
 
-## § 1867. Repealed. [Pub. L. 90–407, § 4][/us/pl/90/407/s4], July 18, 1968, [82 Stat. 363][/us/stat/82/363]
+## § 1867. Repealed. [Pub. L. 90–407][/us/pl/90/407], § 4, July 18, 1968, [82 Stat. 363][/us/stat/82/363]
 
-    Section, [act May 10, 1950, ch. 171, § 8][/us/act/1950-05-10/ch171/s8], [64 Stat. 152][/us/stat/64/152], authorized a committee for each division of the Foundation, and provided for the composition, terms of office, chairmenship, rules of procedure, and powers and duties of each divisional committee.
+    Section, [act May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 8, [64 Stat. 152][/us/stat/64/152], authorized a committee for each division of the Foundation, and provided for the composition, terms of office, chairmenship, rules of procedure, and powers and duties of each divisional committee.
 
  __Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/90/407/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs4
+[/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/stat/82/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F363
-[/us/act/1950-05-10/ch171/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171%2Fs8
+[/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F152
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/pl/90/407/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs16

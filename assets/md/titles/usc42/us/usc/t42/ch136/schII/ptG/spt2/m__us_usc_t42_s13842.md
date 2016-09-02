@@ -57,7 +57,7 @@
 
         Amounts provided under this section to a community development corporation shall not exceed $500,000 per year.
 
-([Pub. L. 103–322, title III, § 31122][/us/pl/103/322/s31122], Sept. 13, 1994, [108 Stat. 1886][/us/stat/108/1886].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31122, Sept. 13, 1994, [108 Stat. 1886][/us/stat/108/1886].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s31122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31122
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1886
 
 

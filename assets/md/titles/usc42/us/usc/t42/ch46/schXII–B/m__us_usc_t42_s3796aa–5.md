@@ -33,15 +33,15 @@
 
         (2) a summary of the information provided in compliance with subsection (a)(1) of this section.
 
-([Pub. L. 90–351, title I, § 1406][/us/pl/90/351/s1406], as added [Pub. L. 101–647, title II, § 241(a)(2)][/us/pl/101/647/s241/a/2], Nov. 29, 1990, [104 Stat. 4812][/us/stat/104/4812]; amended [Pub. L. 103–322, title IV, § 40156(c)(6)][/us/pl/103/322/s40156/c/6], Sept. 13, 1994, [108 Stat. 1924][/us/stat/108/1924].)
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 1406, as added [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 241(a)(2), Nov. 29, 1990, [104 Stat. 4812][/us/stat/104/4812]; amended [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40156(c)(6), Sept. 13, 1994, [108 Stat. 1924][/us/stat/108/1924].)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 40156(c)(6)(A)(i)][/us/pl/103/322/s40156/c/6/A/i], (ii), substituted “State or unit of local government that” for “State which” and “subchapter” for “chapter” in introductory provisions.
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(6)(A)(i), (ii), substituted “State or unit of local government that” for “State which” and “subchapter” for “chapter” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 103–322, § 40156(c)(6)(A)(iii)][/us/pl/103/322/s40156/c/6/A/iii], struck out “State” before “application submitted”.
+    Subsec. (a)(1). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(6)(A)(iii), struck out “State” before “application submitted”.
 
-    Subsec. (b)(1). [Pub. L. 103–322, § 40156(c)(6)(B)][/us/pl/103/322/s40156/c/6/B], substituted “the State and units of local government in the State” for “such State”.
+    Subsec. (b)(1). [Pub. L. 103–322][/us/pl/103/322], § 40156(c)(6)(B), substituted “the State and units of local government in the State” for “such State”.
 
  __Termination of Reporting Requirements__ 
 
@@ -59,14 +59,14 @@
 ----------
 
 [/us/usc/t42/s3796aa–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796aa%E2%80%932
-[/us/pl/90/351/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1406
-[/us/pl/101/647/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs241%2Fa%2F2
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4812
-[/us/pl/103/322/s40156/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F6
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1924
-[/us/pl/103/322/s40156/c/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F6%2FA%2Fi
-[/us/pl/103/322/s40156/c/6/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F6%2FA%2Fiii
-[/us/pl/103/322/s40156/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40156%2Fc%2F6%2FB
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

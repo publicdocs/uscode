@@ -77,45 +77,45 @@
 
         (2) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under [section 706(b)(2) of this title][/us/usc/t42/s706/b/2], such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 502, as added [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 819][/us/stat/95/819]; amended [Pub. L. 99–272, title IX, § 9527(d)][/us/pl/99/272/s9527/d], Apr. 7, 1986, [100 Stat. 219][/us/stat/100/219]; [Pub. L. 99–509, title IX, § 9441(b)][/us/pl/99/509/s9441/b], Oct. 21, 1986, [100 Stat. 2071][/us/stat/100/2071]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6502(a), 6503(c)(1), (4), Dec. 19, 1989, [103 Stat. 2275][/us/stat/103/2275], 2278.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 502, as added [Pub. L. 97–35, title XXI][/us/pl/97/35/tXXI], § 2192(a), Aug. 13, 1981, [95 Stat. 819][/us/stat/95/819]; amended [Pub. L. 99–272, title IX][/us/pl/99/272/tIX], § 9527(d), Apr. 7, 1986, [100 Stat. 219][/us/stat/100/219]; [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9441(b), Oct. 21, 1986, [100 Stat. 2071][/us/stat/100/2071]; [Pub. L. 101–239, title VI][/us/pl/101/239/tVI], §§ 6502(a), 6503(c)(1), (4), Dec. 19, 1989, [103 Stat. 2275][/us/stat/103/2275], 2278.)
 
  __Prior Provisions__ 
 
-    A prior section 702, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 502, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 921][/us/stat/81/921]; amended July 10, 1972, [Pub. L. 92–345, § 1][/us/pl/92/345/s1], [86 Stat. 456][/us/stat/86/456]; July 1, 1973, [Pub. L. 93–53, § 4(a)(1)][/us/pl/93/53/s4/a/1], (2), [87 Stat. 135][/us/stat/87/135], prescribed purposes for which funds were available, prior to the general revision of this subchapter by [section 2192(a) of Pub. L. 97–35][/us/pl/97/35/s2192/a]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
+    A prior section 702, [act Aug. 14, 1935, ch. 531, title V][/us/act/1935-08-14/ch531/tV], § 502, as added Jan. 2, 1968, [Pub. L. 90–248, title III][/us/pl/90/248/tIII], § 301, [81 Stat. 921][/us/stat/81/921]; amended July 10, 1972, [Pub. L. 92–345][/us/pl/92/345], § 1, [86 Stat. 456][/us/stat/86/456]; July 1, 1973, [Pub. L. 93–53][/us/pl/93/53], § 4(a)(1), (2), [87 Stat. 135][/us/stat/87/135], prescribed purposes for which funds were available, prior to the general revision of this subchapter by [section 2192(a) of Pub. L. 97–35][/us/pl/97/35/s2192/a]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
 
-    Another prior section 702, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 502, [49 Stat. 629][/us/stat/49/629]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 502, [53 Stat. 1380][/us/stat/53/1380]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title IV, § 401(b)(2), (3), [60 Stat. 986][/us/stat/60/986]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 3, § 331(b), pt. 6, § 361(e), [64 Stat. 551][/us/stat/64/551], 558; Aug. 28, 1958, [Pub. L. 85–840, title VI, § 602(b)][/us/pl/85/840/s602/b], (c), [72 Stat. 1055][/us/stat/72/1055]; Sept. 13, 1960, [Pub. L. 86–778, title VII, § 707(a)(1)(B)][/us/pl/86/778/s707/a/1/B], (C), (b)(1)(A), [74 Stat. 995][/us/stat/74/995], 996; Oct. 24, 1963, [Pub. L. 88–156, § 2(b)][/us/pl/88/156/s2/b], (c), [77 Stat. 273][/us/stat/77/273], provided for allotment to States for maternal and child health services, prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301], and was covered by former [section 703 of this title][/us/usc/t42/s703].
+    Another prior section 702, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 502, [49 Stat. 629][/us/stat/49/629]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 502, [53 Stat. 1380][/us/stat/53/1380]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title IV, § 401(b)(2), (3), [60 Stat. 986][/us/stat/60/986]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 3, § 331(b), pt. 6, § 361(e), [64 Stat. 551][/us/stat/64/551], 558; Aug. 28, 1958, [Pub. L. 85–840, title VI][/us/pl/85/840/tVI], § 602(b), (c), [72 Stat. 1055][/us/stat/72/1055]; Sept. 13, 1960, [Pub. L. 86–778, title VII][/us/pl/86/778/tVII], § 707(a)(1)(B), (C), (b)(1)(A), [74 Stat. 995][/us/stat/74/995], 996; Oct. 24, 1963, [Pub. L. 88–156][/us/pl/88/156], § 2(b), (c), [77 Stat. 273][/us/stat/77/273], provided for allotment to States for maternal and child health services, prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248][/us/pl/90/248], § 301, and was covered by former [section 703 of this title][/us/usc/t42/s703].
 
  __Amendments__ 
 
-    1989—Subsec. (a)(1). [Pub. L. 101–239, § 6502(a)(1)][/us/pl/101/239/s6502/a/1], amended first sentence generally. Prior to amendment, first sentence read as follows: “Of the amounts appropriated under [section 701(a) of this title][/us/usc/t42/s701/a] for a fiscal year that are not in excess of $478,000,000, the Secretary shall retain an amount equal to 15 percent thereof in the case of fiscal year 1982, and an amount equal to not less than 10, nor more than 15, percent thereof in the case of each fiscal year thereafter, for the purpose of carrying out (through grants, contracts, or otherwise) special projects of regional and national significance, training, and research and for the funding of genetic disease testing, counseling, and information development and dissemination programs and of comprehensive hemophilia diagnostic and treatment centers.”
+    1989—Subsec. (a)(1). [Pub. L. 101–239][/us/pl/101/239], § 6502(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Of the amounts appropriated under [section 701(a) of this title][/us/usc/t42/s701/a] for a fiscal year that are not in excess of $478,000,000, the Secretary shall retain an amount equal to 15 percent thereof in the case of fiscal year 1982, and an amount equal to not less than 10, nor more than 15, percent thereof in the case of each fiscal year thereafter, for the purpose of carrying out (through grants, contracts, or otherwise) special projects of regional and national significance, training, and research and for the funding of genetic disease testing, counseling, and information development and dissemination programs and of comprehensive hemophilia diagnostic and treatment centers.”
 
-    Subsec. (a)(3). [Pub. L. 101–239, § 6502(a)(2)][/us/pl/101/239/s6502/a/2], inserted “or subsection (b) of this section” after “this subsection”.
+    Subsec. (a)(3). [Pub. L. 101–239][/us/pl/101/239], § 6502(a)(2), inserted “or subsection (b) of this section” after “this subsection”.
 
-    Subsec. (b). [Pub. L. 101–239, § 6502(a)(3)][/us/pl/101/239/s6502/a/3], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 101–239][/us/pl/101/239], § 6502(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 101–239, § 6503(c)(4)][/us/pl/101/239/s6503/c/4], which directed amendment of subsec. (b) by substituting “705(a)” for “705”, was executed to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of former subsec. (b) as (c) by [Pub. L. 101–239, § 6502(a)(3)][/us/pl/101/239/s6502/a/3], see below.
+    Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 6503(c)(4), which directed amendment of subsec. (b) by substituting “705(a)” for “705”, was executed to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of former subsec. (b) as (c) by [Pub. L. 101–239][/us/pl/101/239], § 6502(a)(3), see below.
 
-    [Pub. L. 101–239, § 6503(c)(1)][/us/pl/101/239/s6503/c/1], substituted “an application” for “a description of intended activities and statement of assurances” in introductory provisions.
+    [Pub. L. 101–239][/us/pl/101/239], § 6503(c)(1), substituted “an application” for “a description of intended activities and statement of assurances” in introductory provisions.
 
-    [Pub. L. 101–239, § 6502(a)(4)(A)][/us/pl/101/239/s6502/a/4/A], substituted “$600,000,000” for “$478,000,000” in introductory provisions.
+    [Pub. L. 101–239][/us/pl/101/239], § 6502(a)(4)(A), substituted “$600,000,000” for “$478,000,000” in introductory provisions.
 
-    [Pub. L. 101–239, § 6502(a)(3)][/us/pl/101/239/s6502/a/3], redesignated subsec. (b) as (c) and struck out former subsec. (c) which related to special projects for children.
+    [Pub. L. 101–239][/us/pl/101/239], § 6502(a)(3), redesignated subsec. (b) as (c) and struck out former subsec. (c) which related to special projects for children.
 
-    Subsec. (c)(2). [Pub. L. 101–239, § 6502(a)(4)(B)][/us/pl/101/239/s6502/a/4/B], amended par. (2) generally, substituting provisions basing each State’s allotment for each fiscal year upon 1983 amounts for former provisions setting forth formulas for allotments for fiscal years 1982 and 1983 and for each year beginning with fiscal year 1984.
+    Subsec. (c)(2). [Pub. L. 101–239][/us/pl/101/239], § 6502(a)(4)(B), amended par. (2) generally, substituting provisions basing each State’s allotment for each fiscal year upon 1983 amounts for former provisions setting forth formulas for allotments for fiscal years 1982 and 1983 and for each year beginning with fiscal year 1984.
 
-    Subsec. (d)(1). [Pub. L. 101–239, § 6503(c)(4)][/us/pl/101/239/s6503/c/4], substituted “705(a)” for “705” in two places.
+    Subsec. (d)(1). [Pub. L. 101–239][/us/pl/101/239], § 6503(c)(4), substituted “705(a)” for “705” in two places.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–509, § 9441(b)(1)][/us/pl/99/509/s9441/b/1], substituted “amounts appropriated under [section 701(a) of this title][/us/usc/t42/s701/a] for a fiscal year that are not in excess of $478,000,000” for “amount appropriated under [section 701(a) of this title][/us/usc/t42/s701/a]”.
+    1986—Subsec. (a)(1). [Pub. L. 99–509][/us/pl/99/509], § 9441(b)(1), substituted “amounts appropriated under [section 701(a) of this title][/us/usc/t42/s701/a] for a fiscal year that are not in excess of $478,000,000” for “amount appropriated under [section 701(a) of this title][/us/usc/t42/s701/a]”.
 
     Subsec. (a)(2)(B). [Pub. L. 99–272][/us/pl/99/272] substituted “programs for children with special health care needs” for “crippled children’s programs” and “services for children with special health care needs” for “crippled children’s services”.
 
-    Subsec. (b). [Pub. L. 99–509, § 9441(b)(2)][/us/pl/99/509/s9441/b/2], inserted “that are not in excess of $478,000,000” in introductory provisions and struck out par. (3) which read as follows:
+    Subsec. (b). [Pub. L. 99–509][/us/pl/99/509], § 9441(b)(2), inserted “that are not in excess of $478,000,000” in introductory provisions and struck out par. (3) which read as follows:
 
     “(A) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under [section 705 of this title][/us/usc/t42/s705] for the fiscal year or because some States have indicated in their descriptions of activities under [section 705 of this title][/us/usc/t42/s705] that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subparagraph.
 
     “(B) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under [section 706(b)(2) of this title][/us/usc/t42/s706/b/2], such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subparagraph.”
 
-    Subsecs. (c), (d). [Pub. L. 99–509, § 9441(b)(3)][/us/pl/99/509/s9441/b/3], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 99–509][/us/pl/99/509], § 9441(b)(3), added subsecs. (c) and (d).
 
  __Effective Date of 1989 Amendment__ 
 
@@ -141,20 +141,20 @@
 [/us/usc/t42/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs705%2Fa
 [/us/usc/t42/s706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs706%2Fb%2F2
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
+[/us/pl/97/35/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXI
 [/us/stat/95/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F819
-[/us/pl/99/272/s9527/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs9527%2Fd
+[/us/pl/99/272/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtIX
 [/us/stat/100/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F219
-[/us/pl/99/509/s9441/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9441%2Fb
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2071
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2275
-[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/act/1935-08-14/ch531/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531%2FtV
+[/us/pl/90/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtIII
 [/us/stat/81/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F921
-[/us/pl/92/345/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F345%2Fs1
+[/us/pl/92/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F345
 [/us/stat/86/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F456
-[/us/pl/93/53/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs4%2Fa%2F1
+[/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/stat/87/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F135
 [/us/pl/97/35/s2192/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2192%2Fa
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
@@ -168,34 +168,34 @@
 [/us/stat/60/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F986
 [/us/act/1950-08-28/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-28%2Fch809
 [/us/stat/64/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F551
-[/us/pl/85/840/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs602%2Fb
+[/us/pl/85/840/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2FtVI
 [/us/stat/72/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1055
-[/us/pl/86/778/s707/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs707%2Fa%2F1%2FB
+[/us/pl/86/778/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtVII
 [/us/stat/74/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F995
-[/us/pl/88/156/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156%2Fs2%2Fb
+[/us/pl/88/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F156
 [/us/stat/77/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F273
-[/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/usc/t42/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs703
-[/us/pl/101/239/s6502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6502%2Fa%2F1
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t42/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701%2Fa
-[/us/pl/101/239/s6502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6502%2Fa%2F2
-[/us/pl/101/239/s6502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6502%2Fa%2F3
-[/us/pl/101/239/s6503/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6503%2Fc%2F4
-[/us/pl/101/239/s6502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6502%2Fa%2F3
-[/us/pl/101/239/s6503/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6503%2Fc%2F1
-[/us/pl/101/239/s6502/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6502%2Fa%2F4%2FA
-[/us/pl/101/239/s6502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6502%2Fa%2F3
-[/us/pl/101/239/s6502/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6502%2Fa%2F4%2FB
-[/us/pl/101/239/s6503/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6503%2Fc%2F4
-[/us/pl/99/509/s9441/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9441%2Fb%2F1
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/usc/t42/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701%2Fa
 [/us/usc/t42/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701%2Fa
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
-[/us/pl/99/509/s9441/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9441%2Fb%2F2
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/usc/t42/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs705
 [/us/usc/t42/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs705
 [/us/usc/t42/s706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs706%2Fb%2F2
-[/us/pl/99/509/s9441/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9441%2Fb%2F3
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/101/239/s6502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6502%2Fa
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

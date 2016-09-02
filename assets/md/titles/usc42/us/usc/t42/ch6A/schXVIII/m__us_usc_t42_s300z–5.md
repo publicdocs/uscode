@@ -145,7 +145,7 @@
 
         No application submitted for a grant for a demonstration project for care services under this subchapter may be approved unless the Secretary is satisfied that core services shall be available through the applicant within a reasonable time after such grant is received.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2006, as added [Pub. L. 97–35, title IX, § 955(a)][/us/pl/97/35/s955/a], Aug. 13, 1981, [95 Stat. 585][/us/stat/95/585].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XX, § 2006, as added [Pub. L. 97–35, title IX][/us/pl/97/35/tIX], § 955(a), Aug. 13, 1981, [95 Stat. 585][/us/stat/95/585].)
 
  __References in Text__ 
 
@@ -166,7 +166,7 @@
 [/us/usc/t42/s300z–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300z%E2%80%933%2Fc
 [/us/usc/t42/s300z–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300z%E2%80%933%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/97/35/s955/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fa
+[/us/pl/97/35/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIX
 [/us/stat/95/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F585
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

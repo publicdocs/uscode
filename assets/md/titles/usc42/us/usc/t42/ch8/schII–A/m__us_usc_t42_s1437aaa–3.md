@@ -71,7 +71,7 @@
 
         (2) will, not later than 2 years after the transfer to an eligible family, meet minimum housing standards established by the Secretary for the purposes of this subchapter.
 
-    (g) __Repealed.__  __[__  __Pub. L. 105–276, title V, § 531(b)(1)__  __][/us/pl/105/276/s531/b/1]__  __,__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2573__  __][/us/stat/112/2573]__ 
+    (g) __Repealed.__  __[__  __Pub. L. 105–276, title V__  __][/us/pl/105/276/tV]__  __, § 531(b)(1),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2573__  __][/us/stat/112/2573]__ 
 
     (h) __Protection of non-purchasing families__ 
 
@@ -91,7 +91,7 @@
 
             Tenants renting a unit in a project transferred under this subchapter shall have all rights provided to tenants of public housing under this chapter.
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title III, § 304, as added [Pub. L. 101–625, title IV, § 411][/us/pl/101/625/s411], Nov. 28, 1990, [104 Stat. 4153][/us/stat/104/4153]; amended [Pub. L. 102–550, title I, § 181(g)(1)(A)][/us/pl/102/550/s181/g/1/A], Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736]; [Pub. L. 104–19, title I, § 1002(b)][/us/pl/104/19/s1002/b], July 27, 1995, [109 Stat. 236][/us/stat/109/236]; [Pub. L. 105–276, title V, § 531(b)(1)][/us/pl/105/276/s531/b/1], Oct. 21, 1998, [112 Stat. 2573][/us/stat/112/2573].)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title III, § 304, as added [Pub. L. 101–625, title IV][/us/pl/101/625/tIV], § 411, Nov. 28, 1990, [104 Stat. 4153][/us/stat/104/4153]; amended [Pub. L. 102–550, title I][/us/pl/102/550/tI], § 181(g)(1)(A), Oct. 28, 1992, [106 Stat. 3736][/us/stat/106/3736]; [Pub. L. 104–19, title I][/us/pl/104/19/tI], § 1002(b), July 27, 1995, [109 Stat. 236][/us/stat/109/236]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 531(b)(1), Oct. 21, 1998, [112 Stat. 2573][/us/stat/112/2573].)
 
  __References in Text__ 
 
@@ -117,7 +117,7 @@
 
  __Homeownership Replacement Plan__ 
 
-[Pub. L. 105–276, title V, § 531(b)][/us/pl/105/276/s531/b], Oct. 21, 1998, [112 Stat. 2573][/us/stat/112/2573], provided that:
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 531(b), Oct. 21, 1998, [112 Stat. 2573][/us/stat/112/2573], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -135,18 +135,18 @@
 ----------
 
 [/us/usc/t12/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707
-[/us/pl/105/276/s531/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs531%2Fb%2F1
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2573
 [/us/usc/t42/s1437a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fa
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/act/1937-09-01/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-01%2Fch896
-[/us/pl/101/625/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs411
+[/us/pl/101/625/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtIV
 [/us/stat/104/4153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4153
-[/us/pl/102/550/s181/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs181%2Fg%2F1%2FA
+[/us/pl/102/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtI
 [/us/stat/106/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3736
-[/us/pl/104/19/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs1002%2Fb
+[/us/pl/104/19/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2FtI
 [/us/stat/109/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F236
-[/us/pl/105/276/s531/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs531%2Fb%2F1
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2573
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
@@ -161,7 +161,7 @@
 [/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19
 [/us/pl/104/19/s1002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs1002%2Fd
 [/us/usc/t42/s1437c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c
-[/us/pl/105/276/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs531%2Fb
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2573
 [/us/usc/t42/s1437c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c
 [/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19

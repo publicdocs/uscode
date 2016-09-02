@@ -51,7 +51,7 @@
 
             (B) For another territory, the portion of $75,000,000 specified by the Secretary.
 
-([Pub. L. 111–148, title I, § 1323][/us/pl/111/148/s1323], as added [Pub. L. 111–152, title I, § 1204(a)][/us/pl/111/152/s1204/a], Mar. 30, 2010, [124 Stat. 1055][/us/stat/124/1055].)
+([Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1323, as added [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1204(a), Mar. 30, 2010, [124 Stat. 1055][/us/stat/124/1055].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 18043, [Pub. L. 111–148, title I, § 1323][/us/pl/111/148/s1323], Mar. 23, 2010, [124 Stat. 192][/us/stat/124/192], which related to establishment of community health insurance option, was repealed by [Pub. L. 111–148, title X, § 10104(m)][/us/pl/111/148/s10104/m], Mar. 23, 2010, [124 Stat. 902][/us/stat/124/902].
+    A prior section 18043, [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1323, Mar. 23, 2010, [124 Stat. 192][/us/stat/124/192], which related to establishment of community health insurance option, was repealed by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10104(m), Mar. 23, 2010, [124 Stat. 902][/us/stat/124/902].
 
 ----------
 
@@ -71,15 +71,15 @@
 [/us/usc/t42/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1308
 [/us/usc/t42/s18041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18041
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/111/148/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1323
-[/us/pl/111/152/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1204%2Fa
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1055
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/111/148/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1323
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F192
-[/us/pl/111/148/s10104/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10104%2Fm
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F902
 
 

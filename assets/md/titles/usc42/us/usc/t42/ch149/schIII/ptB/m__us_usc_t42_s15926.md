@@ -55,7 +55,7 @@
 
         A corridor designated under this section shall, at a minimum, specify the centerline, width, and compatible uses of the corridor.
 
-([Pub. L. 109–58, title III, § 368][/us/pl/109/58/s368], Aug. 8, 2005, [119 Stat. 727][/us/stat/119/727].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 368, Aug. 8, 2005, [119 Stat. 727][/us/stat/119/727].)
 
  __Transforming Our Nation’s Electric Grid Through Improved Siting, Permitting, and Review__ 
 
@@ -154,7 +154,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs368
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F727
 [/us/usc/t42/s15926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15926
 

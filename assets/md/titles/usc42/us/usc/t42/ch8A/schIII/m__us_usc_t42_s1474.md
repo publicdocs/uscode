@@ -33,17 +33,17 @@
 
         (4) For purposes of this subsection, the terms “elderly,” “handicapped person,” “low income,” and “weatherization materials” shall have the same meanings given such terms in paragraphs (3), (5), (7), and (9), respectively, of section 412 of the Energy Conservation in Existing Buildings Act of 1976 \[[42 U.S.C. 6862][/us/usc/t42/s6862]\].
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 504, [63 Stat. 434][/us/stat/63/434]; [Pub. L. 87–723, § 4(c)(3)][/us/pl/87/723/s4/c/3], Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 89–754, title VIII, § 803][/us/pl/89/754/s803], Nov. 3, 1966, [80 Stat. 1282][/us/stat/80/1282]; [Pub. L. 91–609, title VIII, § 803(a)][/us/pl/91/609/s803/a], Dec. 31, 1970, [84 Stat. 1806][/us/stat/84/1806]; [Pub. L. 93–383, title V, § 504][/us/pl/93/383/s504], Aug. 22, 1974, [88 Stat. 693][/us/stat/88/693]; [Pub. L. 95–619, title II, § 232(a)][/us/pl/95/619/s232/a], Nov. 9, 1978, [92 Stat. 3226][/us/stat/92/3226]; [Pub. L. 96–153, title V, § 510][/us/pl/96/153/s510], Dec. 21, 1979, [93 Stat. 1137][/us/stat/93/1137]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 504\], Nov. 30, 1983, [97 Stat. 1242][/us/stat/97/1242]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(32), (f)(24)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 106–569, title VII, § 702][/us/pl/106/569/s702], Dec. 27, 2000, [114 Stat. 3013][/us/stat/114/3013]; [Pub. L. 113–128, title V, § 512][/us/pl/113/128/s512](o), July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 504, [63 Stat. 434][/us/stat/63/434]; [Pub. L. 87–723][/us/pl/87/723], § 4(c)(3), Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 89–754, title VIII][/us/pl/89/754/tVIII], § 803, Nov. 3, 1966, [80 Stat. 1282][/us/stat/80/1282]; [Pub. L. 91–609, title VIII][/us/pl/91/609/tVIII], § 803(a), Dec. 31, 1970, [84 Stat. 1806][/us/stat/84/1806]; [Pub. L. 93–383, title V][/us/pl/93/383/tV], § 504, Aug. 22, 1974, [88 Stat. 693][/us/stat/88/693]; [Pub. L. 95–619, title II][/us/pl/95/619/tII], § 232(a), Nov. 9, 1978, [92 Stat. 3226][/us/stat/92/3226]; [Pub. L. 96–153, title V][/us/pl/96/153/tV], § 510, Dec. 21, 1979, [93 Stat. 1137][/us/stat/93/1137]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title V, § 504\], Nov. 30, 1983, [97 Stat. 1242][/us/stat/97/1242]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(32), (f)(24)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 106–569, title VII][/us/pl/106/569/tVII], § 702, Dec. 27, 2000, [114 Stat. 3013][/us/stat/114/3013]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(o), July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
 
  __References in Text__ 
 
-    [Section 2809 of this title][/us/usc/t42/s2809], referred to in subsec. (c)(1), was repealed by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
+    [Section 2809 of this title][/us/usc/t42/s2809], referred to in subsec. (c)(1), was repealed by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
 
     The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(1), is title IV of [Pub. L. 94–385][/us/pl/94/385], Aug. 14, 1976, [90 Stat. 1150][/us/stat/90/1150], as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§ 6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title][/us/usc/t42/s6801] and Tables.
 
     The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(3), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified principally to chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
-    The Community Service Senior Opportunities Act, referred to in subsec. (c)(3), is title V of [Pub. L. 89–73][/us/pl/89/73], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563], which is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
+    The Community Service Senior Opportunities Act, referred to in subsec. (c)(3), is title V of [Pub. L. 89–73][/us/pl/89/73], as added [Pub. L. 109–365, title V][/us/pl/109/365/tV], § 501, Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563], which is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 
     2000—Subsec. (a). [Pub. L. 106–569][/us/pl/106/569] substituted “$7,500” for “$2,500” in fourth sentence.
 
-    1998—Subsec. (c)(3). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(24)\], struck out “the Job Training Partnership Act or” after “pursuant to”.
+    1998—Subsec. (c)(3). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(f)(24)\], struck out “the Job Training Partnership Act or” after “pursuant to”.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(32)\], substituted “pursuant to the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “pursuant to the Comprehensive Employment and Training Act of 1973 or the”.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(d)(32)\], substituted “pursuant to the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 or the” for “pursuant to the Comprehensive Employment and Training Act of 1973 or the”.
 
     1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181] substituted “The Secretary may make a loan, grant, or combined loan and grant to an eligible very low-income applicant in order to improve or modernize a rural dwelling, to make the dwelling safer or more sanitary, or to remove hazards. The Secretary may make a loan or grant under this subsection to the applicant to cover the cost of any or all repairs, improvements, or additions such as repairing roofs, providing sanitary waste facilities, providing a convenient and sanitary water supply, repairing or providing structural supports, or making similar repairs, additions, improvements, including all preliminary and installation costs in obtaining central water and sewer service. The maximum amount of a grant, a loan, or a loan and grant shall not exceed such limitations as the Secretary determines to be appropriate.” for “In the event the Secretary determines that an eligible applicant cannot qualify for a loan under the provisions of sections 1472 and 1473 of this title and that repairs or improvements should be made to a rural dwelling occupied by him in order to make such dwelling safe and sanitary and remove hazards to the health of the occupant, his family, or the community, and that repairs should be made to farm buildings in order to remove hazards and make such buildings safe, the Secretary may make a grant or a combined loan and grant to the applicant to cover the cost of improvements or additions, such as repairing roofs, providing toilet facilities, providing a convenient and sanitary water supply, supplying screens, repairing or providing structural supports, or making similar repairs, additions, or improvements, including all preliminary and installation costs in obtaining central water and sewer service. No assistance shall be extended to any individual or family under this subsection in the form of a grant in excess of $5,000, and no assistance shall be extended to any individual or family under this subsection in the form of a loan or a combined loan and grant in excess of $7,500.”
 
@@ -99,28 +99,28 @@
 [/us/usc/t42/s6862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6862
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F434
-[/us/pl/87/723/s4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723%2Fs4%2Fc%2F3
+[/us/pl/87/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723
 [/us/stat/76/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F672
-[/us/pl/89/754/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs803
+[/us/pl/89/754/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtVIII
 [/us/stat/80/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1282
-[/us/pl/91/609/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs803%2Fa
+[/us/pl/91/609/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtVIII
 [/us/stat/84/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1806
-[/us/pl/93/383/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs504
+[/us/pl/93/383/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtV
 [/us/stat/88/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F693
-[/us/pl/95/619/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs232%2Fa
+[/us/pl/95/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2FtII
 [/us/stat/92/3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3226
-[/us/pl/96/153/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs510
+[/us/pl/96/153/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtV
 [/us/stat/93/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1137
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1242
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/569/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs702
+[/us/pl/106/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVII
 [/us/stat/114/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3013
-[/us/pl/113/128/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1711
 [/us/usc/t42/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/stat/90/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1150
@@ -129,13 +129,13 @@
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
-[/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
+[/us/pl/109/365/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2FtV
 [/us/stat/120/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2563
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619

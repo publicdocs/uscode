@@ -51,11 +51,11 @@
 
         (2) “nursing home administrator” means any individual who is charged with the general administration of a nursing home whether or not such individual has an ownership interest in such home and whether or not his functions and duties are shared with one or more other individuals.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1908, as added [Pub. L. 90–248, title II, § 236(b)][/us/pl/90/248/s236/b], Jan. 2, 1968, [81 Stat. 908][/us/stat/81/908]; amended [Pub. L. 92–603, title II][/us/pl/92/603], §§ 268(b), 269, 274(b), Oct. 30, 1972, [86 Stat. 1451][/us/stat/86/1451], 1452; [Pub. L. 93–233, § 18(y)(3)][/us/pl/93/233/s18/y/3], Dec. 31, 1973, [87 Stat. 973][/us/stat/87/973]; [Pub. L. 104–193, title IX, § 913][/us/pl/104/193/s913], Aug. 22, 1996, [110 Stat. 2354][/us/stat/110/2354]; [Pub. L. 105–33, title IV, § 4454(b)(2)][/us/pl/105/33/s4454/b/2], Aug. 5, 1997, [111 Stat. 431][/us/stat/111/431].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1908, as added [Pub. L. 90–248, title II][/us/pl/90/248/tII], § 236(b), Jan. 2, 1968, [81 Stat. 908][/us/stat/81/908]; amended [Pub. L. 92–603, title II][/us/pl/92/603/tII], §§ 268(b), 269, 274(b), Oct. 30, 1972, [86 Stat. 1451][/us/stat/86/1451], 1452; [Pub. L. 93–233][/us/pl/93/233], § 18(y)(3), Dec. 31, 1973, [87 Stat. 973][/us/stat/87/973]; [Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 913, Aug. 22, 1996, [110 Stat. 2354][/us/stat/110/2354]; [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4454(b)(2), Aug. 5, 1997, [111 Stat. 431][/us/stat/111/431].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 101–508, title IV, § 4801(e)(11)][/us/pl/101/508/s4801/e/11], Nov. 5, 1990, [104 Stat. 1388–217][/us/stat/104/1388-217], provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under [section 1396r(f)(4) of this title][/us/usc/t42/s1396r/f/4], this section is repealed.
+    [Pub. L. 101–508, title IV][/us/pl/101/508/tIV], § 4801(e)(11), Nov. 5, 1990, [104 Stat. 1388–217][/us/stat/104/1388-217], provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under [section 1396r(f)(4) of this title][/us/usc/t42/s1396r/f/4], this section is repealed.
 
  __Codification__ 
 
@@ -81,7 +81,7 @@
 
     1972—Subsec. (d). [Pub. L. 92–603][/us/pl/92/603], §§ 269, 274(b), inserted references to the grant of waivers to individuals who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in [section 1396a(a)(29) of this title][/us/usc/t42/s1396a/a/29] are first met by the State, have served as nursing home administrators and substituted “subsection (c)(1)” for “subsection (b)(1)”.
 
-    Subsec. (g)(1). [Pub. L. 92–603, § 268(b)][/us/pl/92/603/s268/b], inserted “, but does not include a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts” after “Secretary”.
+    Subsec. (g)(1). [Pub. L. 92–603][/us/pl/92/603], § 268(b), inserted “, but does not include a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts” after “Secretary”.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–193, title IX, § 913][/us/pl/104/193/s913], Aug. 22, 1996, [110 Stat. 2354][/us/stat/110/2354], provided that the amendment made by that section is effective Jan. 1, 1997.
+    [Pub. L. 104–193, title IX][/us/pl/104/193/tIX], § 913, Aug. 22, 1996, [110 Stat. 2354][/us/stat/110/2354], provided that the amendment made by that section is effective Jan. 1, 1997.
 
  __Effective Date of 1972 Amendment__ 
 
@@ -97,7 +97,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 90–248, title II, § 236(c)][/us/pl/90/248/s236/c], Jan. 2, 1968, [81 Stat. 910][/us/stat/81/910], provided that: 
+[Pub. L. 90–248, title II][/us/pl/90/248/tII], § 236(c), Jan. 2, 1968, [81 Stat. 910][/us/stat/81/910], provided that: 
 
 > “Except as otherwise specified in the text thereof, the amendments made by this section \[enacting this section and amending [section 1396a of this title][/us/usc/t42/s1396a]\] shall take effect on July 1, 1970.”
 
@@ -113,17 +113,17 @@
 [/us/usc/t42/s1396a/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F29
 [/us/usc/t42/s1395x/ss/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fss%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
-[/us/pl/90/248/s236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs236%2Fb
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F908
-[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/92/603/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2FtII
 [/us/stat/86/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1451
-[/us/pl/93/233/s18/y/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs18%2Fy%2F3
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F973
-[/us/pl/104/193/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs913
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2354
-[/us/pl/105/33/s4454/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4454%2Fb%2F2
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F431
-[/us/pl/101/508/s4801/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fe%2F11
+[/us/pl/101/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIV
 [/us/stat/104/1388-217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-217
 [/us/usc/t42/s1396r/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Ff%2F4
 [/us/usc/t42/s1396g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396g%E2%80%931
@@ -140,16 +140,16 @@
 [/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/usc/t42/s1396a/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F29
-[/us/pl/92/603/s268/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs268%2Fb
+[/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s4454/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4454%2Fd
 [/us/usc/t42/s1395i–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%935
-[/us/pl/104/193/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs913
+[/us/pl/104/193/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIX
 [/us/stat/110/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2354
 [/us/pl/92/603/s268/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs268%2Fb
 [/us/pl/92/603/s268/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs268%2Fc
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
-[/us/pl/90/248/s236/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs236%2Fc
+[/us/pl/90/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2FtII
 [/us/stat/81/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F910
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 

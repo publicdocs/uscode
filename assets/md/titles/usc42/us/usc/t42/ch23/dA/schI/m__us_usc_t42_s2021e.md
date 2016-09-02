@@ -371,7 +371,7 @@
 
         Except as provided in subsections (b) through (e) of this section, low-level radioactive waste disposed of under this section shall be subject without discrimination to all applicable legal requirements of the compact region and State in which the disposal facility is located as if such low-level radioactive waste were generated within such compact region.
 
-([Pub. L. 96–573, § 5][/us/pl/96/573/s5], as added [Pub. L. 99–240, title I, § 102][/us/pl/99/240/s102], Jan. 15, 1986, [99 Stat. 1846][/us/stat/99/1846].)
+([Pub. L. 96–573][/us/pl/96/573], § 5, as added [Pub. L. 99–240, title I][/us/pl/99/240/tI], § 102, Jan. 15, 1986, [99 Stat. 1846][/us/stat/99/1846].)
 
  __Codification__ 
 
@@ -388,8 +388,8 @@ For constitutionality of [section 102 of Pub. L. 99–240][/us/pl/99/240/s102], 
 ----------
 ----------
 
-[/us/pl/96/573/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573%2Fs5
-[/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
+[/us/pl/96/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F573
+[/us/pl/99/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2FtI
 [/us/stat/99/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1846
 [/us/pl/99/240/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F240%2Fs102
 

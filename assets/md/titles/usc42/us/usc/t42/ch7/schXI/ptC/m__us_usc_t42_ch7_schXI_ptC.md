@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptB/m__us_usc_t42_s1320c–20.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptC/m__us_usc_t42_s1320d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXI%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptB/m__us_usc_t42_s1320c–21 _us_usc_t42_s1320c–22.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptC/m__us_usc_t42_s1320d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXI%2FptC)
 
 #### Part C—Administrative Simplification
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptB/m__us_usc_t42_s1320c–20.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptC/m__us_usc_t42_s1320d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXI%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptB/m__us_usc_t42_s1320c–21 _us_usc_t42_s1320c–22.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptC/m__us_usc_t42_s1320d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXI%2FptC)
 
 ----------
 ----------

@@ -17,7 +17,7 @@
 
     The Director of the Bureau of Justice Assistance may assist the Attorney General in providing Federal law enforcement assistance under this chapter and in coordinating the activities authorized under this chapter.
 
-([Pub. L. 98–473, title II, § 609V][/us/pl/98/473/s609V], Oct. 12, 1984, [98 Stat. 2106][/us/stat/98/2106].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609V, Oct. 12, 1984, [98 Stat. 2106][/us/stat/98/2106].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s609V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609V
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2106
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t42/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3741

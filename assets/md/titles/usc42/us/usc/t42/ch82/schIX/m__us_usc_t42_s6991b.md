@@ -329,7 +329,7 @@
 
             This subsection does not relieve any person from any obligation or requirement under this subchapter.
 
-([Pub. L. 89–272, title II, § 9003][/us/pl/89/272/s9003], as added [Pub. L. 98–616, title VI, § 601(a)][/us/pl/98/616/s601/a], Nov. 8, 1984, [98 Stat. 3279][/us/stat/98/3279]; amended [Pub. L. 99–499, title II, § 205(c)][/us/pl/99/499/s205/c], (d), Oct. 17, 1986, [100 Stat. 1697][/us/stat/100/1697], 1698; [Pub. L. 104–208, div. A, title II, § 2503][/us/pl/104/208/s2503], Sept. 30, 1996, [110 Stat. 3009–468][/us/stat/110/3009-468]; [Pub. L. 109–58, title XV][/us/pl/109/58], §§ 1522(c), 1525, 1526(b), 1530(a), 1532(b)(1), (2), 1533(2), Aug. 8, 2005, [119 Stat. 1093][/us/stat/119/1093], 1096, 1097, 1102, 1105; [Pub. L. 109–168, § 1(a)(2)][/us/pl/109/168/s1/a/2], Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580].)
+([Pub. L. 89–272, title II][/us/pl/89/272/tII], § 9003, as added [Pub. L. 98–616, title VI][/us/pl/98/616/tVI], § 601(a), Nov. 8, 1984, [98 Stat. 3279][/us/stat/98/3279]; amended [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 205(c), (d), Oct. 17, 1986, [100 Stat. 1697][/us/stat/100/1697], 1698; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2503, Sept. 30, 1996, [110 Stat. 3009–468][/us/stat/110/3009-468]; [Pub. L. 109–58, title XV][/us/pl/109/58/tXV], §§ 1522(c), 1525, 1526(b), 1530(a), 1532(b)(1), (2), 1533(2), Aug. 8, 2005, [119 Stat. 1093][/us/stat/119/1093], 1096, 1097, 1102, 1105; [Pub. L. 109–168][/us/pl/109/168], § 1(a)(2), Jan. 10, 2006, [119 Stat. 3580][/us/stat/119/3580].)
 
  __References in Text__ 
 
@@ -341,67 +341,67 @@
 
     2006—Subsecs. (i), (j). [Pub. L. 109–168][/us/pl/109/168] redesignated subsec. (i), relating to government-owned tanks, as (j). Subsec. (j) was editorially transferred to the end of the section to reflect the probable intent of Congress.
 
-    2005—Subsec. (f)(1). [Pub. L. 109–58, § 1533(2)][/us/pl/109/58/s1533/2], substituted “subsections (c) and (d)” for “subsection (c) and (d)”.
+    2005—Subsec. (f)(1). [Pub. L. 109–58][/us/pl/109/58], § 1533(2), substituted “subsections (c) and (d)” for “subsection (c) and (d)”.
 
-    [Pub. L. 109–58, § 1532(b)(1)(A)][/us/pl/109/58/s1532/b/1/A], substituted “6991(7)(B)” for “6991(2)(B)”.
+    [Pub. L. 109–58][/us/pl/109/58], § 1532(b)(1)(A), substituted “6991(7)(B)” for “6991(2)(B)”.
 
-    Subsec. (f)(2), (3). [Pub. L. 109–58, § 1532(b)(1)(B)][/us/pl/109/58/s1532/b/1/B], substituted “6991(7)(A)” for “6991(2)(A)”.
+    Subsec. (f)(2), (3). [Pub. L. 109–58][/us/pl/109/58], § 1532(b)(1)(B), substituted “6991(7)(A)” for “6991(2)(A)”.
 
-    Subsec. (h)(1), (2)(C). [Pub. L. 109–58, § 1532(b)(2)][/us/pl/109/58/s1532/b/2], substituted “Trust Fund” for “Leaking Underground Storage Tank Trust Fund”.
+    Subsec. (h)(1), (2)(C). [Pub. L. 109–58][/us/pl/109/58], § 1532(b)(2), substituted “Trust Fund” for “Leaking Underground Storage Tank Trust Fund”.
 
-    Subsec. (h)(6)(E). [Pub. L. 109–58, § 1522(c)][/us/pl/109/58/s1522/c], added subpar. (E).
+    Subsec. (h)(6)(E). [Pub. L. 109–58][/us/pl/109/58], § 1522(c), added subpar. (E).
 
-    Subsec. (h)(7)(A). [Pub. L. 109–58, § 1532(b)(2)][/us/pl/109/58/s1532/b/2], substituted “Trust Fund” for “Leaking Underground Storage Tank Trust Fund” in concluding provisions.
+    Subsec. (h)(7)(A). [Pub. L. 109–58][/us/pl/109/58], § 1532(b)(2), substituted “Trust Fund” for “Leaking Underground Storage Tank Trust Fund” in concluding provisions.
 
-    [Pub. L. 109–58, § 1525(1)][/us/pl/109/58/s1525/1], in introductory provisions, substituted “paragraphs (1), (2), and (12)” for “paragraphs (1) and (2) of this subsection” and “and the authority under sections 6991j and 6991k of this title and paragraphs (4), (6), and (8),” for “and including the authorities of paragraphs (4), (6), and (8) of this subsection”.
+    [Pub. L. 109–58][/us/pl/109/58], § 1525(1), in introductory provisions, substituted “paragraphs (1), (2), and (12)” for “paragraphs (1) and (2) of this subsection” and “and the authority under sections 6991j and 6991k of this title and paragraphs (4), (6), and (8),” for “and including the authorities of paragraphs (4), (6), and (8) of this subsection”.
 
-    Subsec. (h)(11). [Pub. L. 109–58, § 1532(b)(2)][/us/pl/109/58/s1532/b/2], substituted “Trust Fund” for “Leaking Underground Storage Tank Trust Fund”.
+    Subsec. (h)(11). [Pub. L. 109–58][/us/pl/109/58], § 1532(b)(2), substituted “Trust Fund” for “Leaking Underground Storage Tank Trust Fund”.
 
-    Subsec. (h)(12). [Pub. L. 109–58, § 1525(2)][/us/pl/109/58/s1525/2], added par. (12).
+    Subsec. (h)(12). [Pub. L. 109–58][/us/pl/109/58], § 1525(2), added par. (12).
 
-    Subsec. (i). [Pub. L. 109–58, § 1530(a)][/us/pl/109/58/s1530/a], added subsec. (i) relating to additional measures to protect groundwater from contamination.
+    Subsec. (i). [Pub. L. 109–58][/us/pl/109/58], § 1530(a), added subsec. (i) relating to additional measures to protect groundwater from contamination.
 
-    [Pub. L. 109–58, § 1526(b)][/us/pl/109/58/s1526/b], added subsec. (i) relating to government-owned tanks.
+    [Pub. L. 109–58][/us/pl/109/58], § 1526(b), added subsec. (i) relating to government-owned tanks.
 
     1996—Subsec. (h)(9). [Pub. L. 104–208][/us/pl/104/208] added par. (9) and struck out heading and text of former par. (9). Text read as follows: “As used in this subsection, the term ‘owner’ does not include any person who, without participating in the management of an underground storage tank and otherwise not engaged in petroleum production, refining, and marketing, holds indicia of ownership primarily to protect the owner’s security interest in the tank.”
 
-    1986—Subsec. (c)(6). [Pub. L. 99–499, § 205(c)(1)][/us/pl/99/499/s205/c/1], added par. (6).
+    1986—Subsec. (c)(6). [Pub. L. 99–499][/us/pl/99/499], § 205(c)(1), added par. (6).
 
-    Subsec. (d)(1). [Pub. L. 99–499, § 205(c)(3)][/us/pl/99/499/s205/c/3], which directed that par. (1) be amended by “striking out ‘or’ after ‘credit,’ and by striking out the period at the end thereof and inserting in lieu thereof the following: ‘or any other method satisfactory to the Administrator.’ ”, was executed by striking the period and making insertion at end of first sentence, rather than at end of par. (1), as the probable intent of Congress, because an earlier version of the amending legislation had provided that such amendment be made to first sentence.
+    Subsec. (d)(1). [Pub. L. 99–499][/us/pl/99/499], § 205(c)(3), which directed that par. (1) be amended by “striking out ‘or’ after ‘credit,’ and by striking out the period at the end thereof and inserting in lieu thereof the following: ‘or any other method satisfactory to the Administrator.’ ”, was executed by striking the period and making insertion at end of first sentence, rather than at end of par. (1), as the probable intent of Congress, because an earlier version of the amending legislation had provided that such amendment be made to first sentence.
 
-    [Pub. L. 99–499, § 205(c)(2)][/us/pl/99/499/s205/c/2], redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsudden accidental releases arising from operating an underground storage tank.”
+    [Pub. L. 99–499][/us/pl/99/499], § 205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsudden accidental releases arising from operating an underground storage tank.”
 
-    Subsec. (d)(2) to (5). [Pub. L. 99–499, § 205(c)(2)][/us/pl/99/499/s205/c/2], (4), added par. (5) and redesignated pars. (3) to (5) as (2) to (4), respectively. Former par. (2) redesignated (1).
+    Subsec. (d)(2) to (5). [Pub. L. 99–499][/us/pl/99/499], § 205(c)(2), (4), added par. (5) and redesignated pars. (3) to (5) as (2) to (4), respectively. Former par. (2) redesignated (1).
 
-    Subsec. (h). [Pub. L. 99–499, § 205(d)][/us/pl/99/499/s205/d], added subsec. (h).
+    Subsec. (h). [Pub. L. 99–499][/us/pl/99/499], § 205(d), added subsec. (h).
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title XV, § 1530(b)][/us/pl/109/58/s1530/b], Aug. 8, 2005, [119 Stat. 1104][/us/stat/119/1104], provided that: 
+[Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1530(b), Aug. 8, 2005, [119 Stat. 1104][/us/stat/119/1104], provided that: 
 
 > “This subsection \[probably means this section, which amended this section and [section 6991e of this title][/us/usc/t42/s6991e] and enacted provisions set out as notes under this section\] shall take effect 18 months after the date of enactment of this subsection \[Aug. 8, 2005\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title II, § 2505][/us/pl/104/208/s2505], Sept. 30, 1996, [110 Stat. 3009–468][/us/stat/110/3009-468], provided that: 
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2505, Sept. 30, 1996, [110 Stat. 3009–468][/us/stat/110/3009-468], provided that: 
 
 > “The amendments made by this subtitle \[subtitle E (§§ 2501–2505) of title II of div. A of [Pub. L. 104–208][/us/pl/104/208], amending this section and sections 9601 and 9607 of this title\] shall be applicable with respect to any claim that has not been finally adjudicated as of the date of enactment of this Act \[Sept. 30, 1996\].”
 
  __Regulations__ 
 
-[Pub. L. 109–58, title XV, § 1530(c)][/us/pl/109/58/s1530/c], Aug. 8, 2005, [119 Stat. 1104][/us/stat/119/1104], provided that: 
+[Pub. L. 109–58, title XV][/us/pl/109/58/tXV], § 1530(c), Aug. 8, 2005, [119 Stat. 1104][/us/stat/119/1104], provided that: 
 
 > “The Administrator shall issue regulations or guidelines implementing the requirements of this subsection \[probably means this section, which amended this section and [section 6991e of this title][/us/usc/t42/s6991e] and enacted provisions set out as notes under this section\], including guidance to differentiate between the terms ‘repair’ and ‘replace’ for the purposes of section 9003(i)(1) of the Solid Waste Disposal Act \[[42 U.S.C. 6991b(i)(1)][/us/usc/t42/s6991b/i/1]\].”
 
  __Assistance Agreements With Indian Tribes__ 
 
-[Pub. L. 105–276, title III][/us/pl/105/276], Oct. 21, 1998, [112 Stat. 2497][/us/stat/112/2497], provided in part: 
+[Pub. L. 105–276, title III][/us/pl/105/276/tIII], Oct. 21, 1998, [112 Stat. 2497][/us/stat/112/2497], provided in part: 
 
 > “That hereafter, the Administrator is authorized to enter into assistance agreements with Federally recognized Indian tribes on such terms and conditions as the Administrator deems appropriate for the same purposes as are set forth in section 9003(h)(7) of the Resource Conservation and Recovery Act \[probably means [section 9003(h)(7) of Pub. L. 89–272][/us/pl/89/272/s9003/h/7], [42 U.S.C. 6991b(h)(7)][/us/usc/t42/s6991b/h/7]\].”
 
  __Pollution Liability Insurance__ 
 
-[Pub. L. 99–499, title II, § 205(h)][/us/pl/99/499/s205/h], Oct. 17, 1986, [100 Stat. 1702][/us/stat/100/1702], provided that:
+[Pub. L. 99–499, title II][/us/pl/99/499/tII], § 205(h), Oct. 17, 1986, [100 Stat. 1702][/us/stat/100/1702], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -435,50 +435,50 @@
 [/us/usc/t42/s6991e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991e
 [/us/usc/t42/s6991m/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991m%2F2%2FB
 [/us/usc/t42/s6991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991
-[/us/pl/89/272/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9003
-[/us/pl/98/616/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2Fs601%2Fa
+[/us/pl/89/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2FtII
+[/us/pl/98/616/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F616%2FtVI
 [/us/stat/98/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3279
-[/us/pl/99/499/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fc
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1697
-[/us/pl/104/208/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2503
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-468
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1093
-[/us/pl/109/168/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168%2Fs1%2Fa%2F2
+[/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
 [/us/stat/119/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3580
 [/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
-[/us/pl/109/58/s1533/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1533%2F2
-[/us/pl/109/58/s1532/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1532%2Fb%2F1%2FA
-[/us/pl/109/58/s1532/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1532%2Fb%2F1%2FB
-[/us/pl/109/58/s1532/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1532%2Fb%2F2
-[/us/pl/109/58/s1522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1522%2Fc
-[/us/pl/109/58/s1532/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1532%2Fb%2F2
-[/us/pl/109/58/s1525/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1525%2F1
-[/us/pl/109/58/s1532/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1532%2Fb%2F2
-[/us/pl/109/58/s1525/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1525%2F2
-[/us/pl/109/58/s1530/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1530%2Fa
-[/us/pl/109/58/s1526/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1526%2Fb
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/99/499/s205/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fc%2F1
-[/us/pl/99/499/s205/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fc%2F3
-[/us/pl/99/499/s205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fc%2F2
-[/us/pl/99/499/s205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fc%2F2
-[/us/pl/99/499/s205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fd
-[/us/pl/109/58/s1530/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1530%2Fb
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1104
 [/us/usc/t42/s6991e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991e
-[/us/pl/104/208/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2505
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-468
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/109/58/s1530/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1530%2Fc
+[/us/pl/109/58/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXV
 [/us/stat/119/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1104
 [/us/usc/t42/s6991e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991e
 [/us/usc/t42/s6991b/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fi%2F1
-[/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
+[/us/pl/105/276/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtIII
 [/us/stat/112/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2497
 [/us/pl/89/272/s9003/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272%2Fs9003%2Fh%2F7
 [/us/usc/t42/s6991b/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6991b%2Fh%2F7
-[/us/pl/99/499/s205/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs205%2Fh
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1702
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 

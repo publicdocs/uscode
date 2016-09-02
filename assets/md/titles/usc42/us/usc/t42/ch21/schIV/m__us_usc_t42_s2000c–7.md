@@ -17,7 +17,7 @@
 
     In any action or proceeding under this subchapter the United States shall be liable for costs the same as a private person.
 
-([Pub. L. 88–352, title IV, § 408][/us/pl/88/352/s408], July 2, 1964, [78 Stat. 249][/us/stat/78/249].)
+([Pub. L. 88–352, title IV][/us/pl/88/352/tIV], § 408, July 2, 1964, [78 Stat. 249][/us/stat/78/249].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/352/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2Fs408
+[/us/pl/88/352/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352%2FtIV
 [/us/stat/78/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F249
 
 

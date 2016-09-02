@@ -11,78 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/m__us_usc_t42_ch6A_schVIII–A.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_s300a–29.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschVIII%E2%80%93A%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/m__us_usc_t42_ch6A_schVIII–A.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_s300a–21...300a–28.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschVIII%E2%80%93A%2FptA)
 
 #### Part A—Grant Program
 
-§§ 300a–21 to 300a–28. __Repealed.__  __[__  __Pub. L. 97–35, title IX, § 955(b)__  __][/us/pl/97/35/s955/b]__  __, title XXI, § 2193(f),__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 592__  __][/us/stat/95/592]__  __, 828__ 
-
-    Section 300a–21, [Pub. L. 95–626, title VI, § 601][/us/pl/95/626/s601], Nov. 10, 1978, [92 Stat. 3595][/us/stat/92/3595], set forth Congressional findings and declaration of purpose with respect to grant program.
-
-    Section 300a–22, [Pub. L. 95–626, title VI, § 602][/us/pl/95/626/s602], Nov. 10, 1978, [92 Stat. 3595][/us/stat/92/3595]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], defined terms “Secretary”, “eligible person”, “eligible grant recipient”, “core services”, “supplemental services”, “adolescent parent”.
-
-    Section 300a–23, [Pub. L. 95–626, title VI, § 603][/us/pl/95/626/s603], Nov. 10, 1978, [92 Stat. 3596][/us/stat/92/3596], set forth authority to make grants.
-
-    Section 300a–24, [Pub. L. 95–626, title VI, § 604][/us/pl/95/626/s604], Nov. 10, 1978, [92 Stat. 3597][/us/stat/92/3597], set forth authorized uses for grants.
-
-    Section 300a–25, [Pub. L. 95–626, title VI, § 605][/us/pl/95/626/s605], Nov. 10, 1978, [92 Stat. 3597][/us/stat/92/3597], set forth provisions respecting priorities, amounts, and duration of grants.
-
-    Section 300a–26, [Pub. L. 95–626, title VI, § 606][/us/pl/95/626/s606], Nov. 10, 1978, [92 Stat. 3598][/us/stat/92/3598], set forth application, etc., requirements for grant approval.
-
-    Section 300a–27, [Pub. L. 95–626, title VI, § 607][/us/pl/95/626/s607], Nov. 10, 1978, [92 Stat. 3601][/us/stat/92/3601]; [Pub. L. 97–35, title XXI, § 2193(a)(2)][/us/pl/97/35/s2193/a/2], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827], authorized appropriations from fiscal year ending Sept. 30, 1979, through fiscal year ending Sept. 30, 1982.
-
-    Section 300a–28, [Pub. L. 95–626, title VI, § 608][/us/pl/95/626/s608], Nov. 10, 1978, [92 Stat. 3601][/us/stat/92/3601], set forth prohibition respecting use of funds to pay for performance of abortion.
-
-    See section 300z et seq. of this title.
-
- __Effective Date of Repeal__ 
-
-    [Pub. L. 97–35, title IX, § 955(b)][/us/pl/97/35/s955/b], Aug. 13, 1981, [95 Stat. 592][/us/stat/95/592], provided that the repeal of sections 300a–21 to 300a–28 of this title is effective Oct. 1, 1981.
-
-    For effective date, savings, and transitional provisions relating to the repeal of sections 321a–21 to 321a–28 of this title by [section 2193(f) of Pub. L. 97–35][/us/pl/97/35/s2193/f], and relating to the amendment of [section 300a–27 of this title][/us/usc/t42/s300a–27] by [section 2193(a)(2) of Pub. L. 97–35][/us/pl/97/35/s2193/a/2], see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
-
- __Study of Adolescent Pregnancy; Report Not Later Than__  __November 10, 1979__ 
-
-    [Pub. L. 95–626, title VIII, § 801][/us/pl/95/626/s801], Nov. 10, 1978, [92 Stat. 3602][/us/stat/92/3602], which provided for a study of the problem of adolescent pregnancies and the effectiveness of existing programs and a report, was repealed by [section 955(b) of Pub. L. 97–35][/us/pl/97/35/s955/b].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/m__us_usc_t42_ch6A_schVIII–A.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_s300a–29.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschVIII%E2%80%93A%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/m__us_usc_t42_ch6A_schVIII–A.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_s300a–21...300a–28.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschVIII%E2%80%93A%2FptA)
 
 ----------
 ----------
 
-[/us/pl/97/35/s955/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fb
-[/us/stat/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F592
-[/us/pl/95/626/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs601
-[/us/stat/92/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3595
-[/us/pl/95/626/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs602
-[/us/stat/92/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3595
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
-[/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/95/626/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs603
-[/us/stat/92/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3596
-[/us/pl/95/626/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs604
-[/us/stat/92/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3597
-[/us/pl/95/626/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs605
-[/us/stat/92/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3597
-[/us/pl/95/626/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs606
-[/us/stat/92/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3598
-[/us/pl/95/626/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs607
-[/us/stat/92/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3601
-[/us/pl/97/35/s2193/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fa%2F2
-[/us/stat/95/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F827
-[/us/pl/95/626/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs608
-[/us/stat/92/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3601
-[/us/pl/97/35/s955/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fb
-[/us/stat/95/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F592
-[/us/pl/97/35/s2193/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Ff
-[/us/usc/t42/s300a–27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9327
-[/us/pl/97/35/s2193/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2193%2Fa%2F2
-[/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
-[/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
-[/us/pl/95/626/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs801
-[/us/stat/92/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3602
-[/us/pl/97/35/s955/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs955%2Fb
 
 

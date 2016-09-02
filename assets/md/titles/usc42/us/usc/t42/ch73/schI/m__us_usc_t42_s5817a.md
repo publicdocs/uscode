@@ -19,7 +19,7 @@
 
     (b) Each director of a laboratory or center specified in subsection (a) of this section shall submit an annual report to the Administrator on projects being funded under this section; and on completion of each such project shall submit a report to the Technical Information Center of the Administration for inclusion in its data base.
 
-([Pub. L. 95–39, title III, § 303][/us/pl/95/39/s303], June 3, 1977, [91 Stat. 189][/us/stat/91/189].)
+([Pub. L. 95–39, title III][/us/pl/95/39/tIII], § 303, June 3, 1977, [91 Stat. 189][/us/stat/91/189].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/39/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2Fs303
+[/us/pl/95/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39%2FtIII
 [/us/stat/91/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F189
 
 

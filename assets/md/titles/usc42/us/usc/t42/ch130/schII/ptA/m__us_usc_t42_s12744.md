@@ -29,19 +29,19 @@
 
     (3) all such funds are invested with respect to housing that qualifies as affordable housing under [section 12745 of this title][/us/usc/t42/s12745].
 
-([Pub. L. 101–625, title II, § 214][/us/pl/101/625/s214], Nov. 28, 1990, [104 Stat. 4101][/us/stat/104/4101]; [Pub. L. 103–233, title II, § 202][/us/pl/103/233/s202], Apr. 11, 1994, [108 Stat. 364][/us/stat/108/364]; [Pub. L. 105–276, title V, § 599B(a)][/us/pl/105/276/s599B/a], Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 214, Nov. 28, 1990, [104 Stat. 4101][/us/stat/104/4101]; [Pub. L. 103–233, title II][/us/pl/103/233/tII], § 202, Apr. 11, 1994, [108 Stat. 364][/us/stat/108/364]; [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599B(a), Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660].)
 
  __Amendments__ 
 
     1998—Par. (2). [Pub. L. 105–276][/us/pl/105/276] struck out “at the time of occupancy or at the time funds are invested, whichever is later” before “; and”.
 
-    1994—Par. (1)(A). [Pub. L. 103–233, § 202(1)][/us/pl/103/233/s202/1], substituted “(i) the families receiving such rental assistance are” for “such funds are invested with respect to dwelling units that are occupied by”, “, or” for “, and” before cl. (ii), and added cl. (ii).
+    1994—Par. (1)(A). [Pub. L. 103–233][/us/pl/103/233], § 202(1), substituted “(i) the families receiving such rental assistance are” for “such funds are invested with respect to dwelling units that are occupied by”, “, or” for “, and” before cl. (ii), and added cl. (ii).
 
-    Par. (1)(B). [Pub. L. 103–233, § 202(2)][/us/pl/103/233/s202/2], substituted “(i) the families receiving such rental assistance are” for “such funds are invested with respect to dwelling units that are occupied by” and added cl. (ii).
+    Par. (1)(B). [Pub. L. 103–233][/us/pl/103/233], § 202(2), substituted “(i) the families receiving such rental assistance are” for “such funds are invested with respect to dwelling units that are occupied by” and added cl. (ii).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–276, title V, § 599B(c)][/us/pl/105/276/s599B/c], Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660], provided that: 
+[Pub. L. 105–276, title V][/us/pl/105/276/tV], § 599B(c), Oct. 21, 1998, [112 Stat. 2660][/us/stat/112/2660], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 12745 of this title][/us/usc/t42/s12745]\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -57,16 +57,16 @@
 ----------
 
 [/us/usc/t42/s12745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12745
-[/us/pl/101/625/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs214
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4101
-[/us/pl/103/233/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs202
+[/us/pl/103/233/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2FtII
 [/us/stat/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F364
-[/us/pl/105/276/s599B/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599B%2Fa
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2660
 [/us/pl/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276
-[/us/pl/103/233/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs202%2F1
-[/us/pl/103/233/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233%2Fs202%2F2
-[/us/pl/105/276/s599B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs599B%2Fc
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2660
 [/us/usc/t42/s12745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12745
 [/us/pl/103/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F233

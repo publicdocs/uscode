@@ -61,7 +61,7 @@
 
         Not less than 3 years after January 4, 2011, the Director shall submit a report to Congress on the number and total value of awards made under this section, the number of students affected by those awards, any evidence of the effect of those awards on workforce preparation and jobs placement for participating students, and an economic and ethnic breakdown of the participating students.
 
-([Pub. L. 111–358, title V, § 515][/us/pl/111/358/s515], Jan. 4, 2011, [124 Stat. 4012][/us/stat/124/4012].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 515, Jan. 4, 2011, [124 Stat. 4012][/us/stat/124/4012].)
 
  __Codification__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t15/s278k/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k%2Fa
-[/us/pl/111/358/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs515
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4012
 [/us/pl/111/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs2
 [/us/usc/t42/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6621

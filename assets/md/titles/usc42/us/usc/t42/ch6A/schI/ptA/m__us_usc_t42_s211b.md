@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s211a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s211c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs211b)
 
-## § 211b. Repealed. [Pub. L. 94–412, title V, § 501(f)][/us/pl/94/412/s501/f], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]
+## § 211b. Repealed. [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(f), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]
 
-    Section, [act Feb. 28, 1948, ch. 83, § 6(b)][/us/act/1948-02-28/ch83/s6/b]–(f), [62 Stat. 45][/us/stat/62/45], dealt with promotion of Public Health Service officers.
+    Section, [act Feb. 28, 1948, ch. 83][/us/act/1948-02-28/ch83], § 6(b)–(f), [62 Stat. 45][/us/stat/62/45], dealt with promotion of Public Health Service officers.
 
  __Savings Provision__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/94/412/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Ff
+[/us/pl/94/412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtV
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
-[/us/act/1948-02-28/ch83/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83%2Fs6%2Fb
+[/us/act/1948-02-28/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-28%2Fch83
 [/us/stat/62/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F45
 [/us/pl/94/412/s501/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fh
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601

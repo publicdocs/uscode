@@ -83,7 +83,7 @@
 
             Not later than 90 days after the submission of the final report under subsection (a)(7) of this section, the Secretary shall issue a notice of proposed rulemaking of the regulations under this subsection providing for notice and opportunity for public comment regarding the regulations, pursuant to the provisions of [section 553 of title 5][/us/usc/t5/s553] (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall not be less than 60 days. The Secretary shall issue final regulations under this subsection not later than the expiration of the 60-day period beginning upon the conclusion of the comment period, which shall take effect upon issuance.
 
-([Pub. L. 102–550, title VI, § 643][/us/pl/102/550/s643], Oct. 28, 1992, [106 Stat. 3821][/us/stat/106/3821].)
+([Pub. L. 102–550, title VI][/us/pl/102/550/tVI], § 643, Oct. 28, 1992, [106 Stat. 3821][/us/stat/106/3821].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 [/us/usc/t42/s1437d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437d
 [/us/usc/t42/s1437f/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fd%2F1
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/550/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs643
+[/us/pl/102/550/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVI
 [/us/stat/106/3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3821
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F81

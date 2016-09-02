@@ -71,7 +71,7 @@
 
         The authority of the Secretary to issue a loan guarantee under subsection (a) terminates on the date that is 10 years after December 19, 2007.
 
-([Pub. L. 110–140, title I, § 135][/us/pl/110/140/s135], Dec. 19, 2007, [121 Stat. 1513][/us/stat/121/1513].)
+([Pub. L. 110–140, title I][/us/pl/110/140/tI], § 135, Dec. 19, 2007, [121 Stat. 1513][/us/stat/121/1513].)
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs135
+[/us/pl/110/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtI
 [/us/stat/121/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1513
 
 

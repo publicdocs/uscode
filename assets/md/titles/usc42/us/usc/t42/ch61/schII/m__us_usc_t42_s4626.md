@@ -19,7 +19,7 @@
 
     (b) No person shall be required to move from his dwelling on account of any program or project undertaken by a Federal agency or with Federal financial assistance, unless the head of the displacing agency is satisfied that comparable replacement housing is available to such person.
 
-([Pub. L. 91–646, title II, § 206][/us/pl/91/646/s206], Jan. 2, 1971, [84 Stat. 1898][/us/stat/84/1898]; [Pub. L. 100–17, title IV, § 409][/us/pl/100/17/s409], Apr. 2, 1987, [101 Stat. 253][/us/stat/101/253].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 206, Jan. 2, 1971, [84 Stat. 1898][/us/stat/84/1898]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 409, Apr. 2, 1987, [101 Stat. 253][/us/stat/101/253].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/91/646/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs206
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1898
-[/us/pl/100/17/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs409
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F253
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–22, div. B, title II, § 1201(1)][/us/pl/111/22/s1201/1], May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], substituted “Emergency Solutions Grants Program” for “Emergency Shelter Grants Program” in heading.
+    2009—[Pub. L. 111–22, div. B, title II][/us/pl/111/22/dB/tII], § 1201(1), May 20, 2009, [123 Stat. 1678][/us/stat/123/1678], substituted “Emergency Solutions Grants Program” for “Emergency Shelter Grants Program” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/22/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1201%2F1
+[/us/pl/111/22/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdB%2FtII
 [/us/stat/123/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1678
 
 

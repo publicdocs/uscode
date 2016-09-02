@@ -19,7 +19,7 @@
 
     (b) The head of each Federal agency that administers a program of financial assistance relating to the acquisition, construction, reconstruction, repair, or improvement of publicly or privately owned land or facilities, and each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions, shall, in cooperation with the Administrator, issue appropriate rules and regulations to govern the carrying out of the agency’s responsibilities under this Act.
 
-([Pub. L. 93–234, title II, § 205][/us/pl/93/234/s205], Dec. 31, 1973, [87 Stat. 983][/us/stat/87/983]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(e)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II, § 100238(a)(1)][/us/pl/112/141/s100238/a/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
+([Pub. L. 93–234, title II][/us/pl/93/234/tII], § 205, Dec. 31, 1973, [87 Stat. 983][/us/stat/87/983]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title IV, § 451(e)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141/dF/tII], § 100238(a)(1), July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
 
  __References in Text__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/93/234/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs205
+[/us/pl/93/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2FtII
 [/us/stat/87/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F983
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/112/141/s100238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fa%2F1
+[/us/pl/112/141/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtII
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
 [/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/stat/87/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F975

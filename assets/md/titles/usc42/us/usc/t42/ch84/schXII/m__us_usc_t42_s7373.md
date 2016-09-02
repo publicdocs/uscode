@@ -21,7 +21,7 @@
 
     (2) report annually to the Congress on the status of such activities, including a description of how the information dissemination activities and services of the Department of Energy in the fields of renewable energy resources and energy conservation are being coordinated with similar or related activities and services of other Federal agencies.
 
-([Pub. L. 96–294, title IV, § 404][/us/pl/96/294/s404], June 30, 1980, [94 Stat. 716][/us/stat/94/716].)
+([Pub. L. 96–294, title IV][/us/pl/96/294/tIV], § 404, June 30, 1980, [94 Stat. 716][/us/stat/94/716].)
 
  __Termination of Reporting Requirements__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/294/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs404
+[/us/pl/96/294/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtIV
 [/us/stat/94/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F716
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

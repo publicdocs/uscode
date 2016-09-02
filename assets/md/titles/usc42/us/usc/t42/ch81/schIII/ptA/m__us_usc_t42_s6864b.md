@@ -33,7 +33,7 @@
 
         (2) A recipient of financial assistance under this section may contract with nonprofit entities to carry out all or part of the activities for which such financial assistance is provided.
 
-([Pub. L. 94–385, title IV, § 414B][/us/pl/94/385/s414B], as added [Pub. L. 102–486, title I, § 142(a)][/us/pl/102/486/s142/a], Oct. 24, 1992, [106 Stat. 2842][/us/stat/106/2842].)
+([Pub. L. 94–385, title IV][/us/pl/94/385/tIV], § 414B, as added [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 142(a), Oct. 24, 1992, [106 Stat. 2842][/us/stat/106/2842].)
 
 ----------
 
@@ -43,8 +43,8 @@
 ----------
 
 [/us/usc/t42/s6864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6864
-[/us/pl/94/385/s414B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs414B
-[/us/pl/102/486/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs142%2Fa
+[/us/pl/94/385/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtIV
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2842
 
 

@@ -51,7 +51,7 @@
 
         (3) he is the owner of any dwelling designed or intended for occupancy by, or occupied by, five or more families.
 
-([Pub. L. 90–284, title VIII, § 803][/us/pl/90/284/s803], Apr. 11, 1968, [82 Stat. 82][/us/stat/82/82].)
+([Pub. L. 90–284, title VIII][/us/pl/90/284/tVIII], § 803, Apr. 11, 1968, [82 Stat. 82][/us/stat/82/82].)
 
 ----------
 
@@ -64,7 +64,7 @@
 [/us/usc/t42/s3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3604
 [/us/usc/t42/s3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3604
 [/us/usc/t42/s3604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3604%2Fc
-[/us/pl/90/284/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs803
+[/us/pl/90/284/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtVIII
 [/us/stat/82/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F82
 
 

@@ -21,7 +21,7 @@
 
     (b) __Omitted__ 
 
-([Pub. L. 101–625, title II, § 284][/us/pl/101/625/s284], Nov. 28, 1990, [104 Stat. 4126][/us/stat/104/4126].)
+([Pub. L. 101–625, title II][/us/pl/101/625/tII], § 284, Nov. 28, 1990, [104 Stat. 4126][/us/stat/104/4126].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/101/625/s284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs284
+[/us/pl/101/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtII
 [/us/stat/104/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4126
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

@@ -51,7 +51,7 @@
 
         The Attorney General shall make grants under subsection (a) of this section on a competitive basis, based on such criteria as the Attorney General shall issue by rule and taking into account the preferences described in subsection (b) of this section.
 
-([Pub. L. 103–322, title III, § 31911][/us/pl/103/322/s31911], Sept. 13, 1994, [108 Stat. 1894][/us/stat/108/1894].)
+([Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31911, Sept. 13, 1994, [108 Stat. 1894][/us/stat/108/1894].)
 
 ----------
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t42/s13892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13892
-[/us/pl/103/322/s31911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31911
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1894
 
 

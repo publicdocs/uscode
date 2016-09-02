@@ -55,11 +55,11 @@
 
         The adequacy of information submitted under [section 12705(b)(4) of this title][/us/usc/t42/s12705/b/4] shall not be reviewable by any Federal, State, or other court. Review of a housing strategy by any Federal, State, or other court shall be limited to determining whether the process of development and the content of the strategy are in substantial compliance with the requirements of this Act. During the pendency of any action challenging the adequacy of a housing strategy or the action of the Secretary in approving a strategy, the court shall not have the authority to enjoin activities taken by the jurisdiction to implement an approved housing strategy. Any housing assisted during the pendency of such action shall not be subject to any order of the court resulting from such action.
 
-([Pub. L. 101–625, title I, § 108][/us/pl/101/625/s108], Nov. 28, 1990, [104 Stat. 4092][/us/stat/104/4092].)
+([Pub. L. 101–625, title I][/us/pl/101/625/tI], § 108, Nov. 28, 1990, [104 Stat. 4092][/us/stat/104/4092].)
 
  __References in Text__ 
 
-    [Section 12705(b)(15) of this title][/us/usc/t42/s12705/b/15], referred to in subsec. (a)(1), was redesignated [section 12705(b)(16) of this title][/us/usc/t42/s12705/b/16] by [Pub. L. 102–550, title II, § 220(c)(1)][/us/pl/102/550/s220/c/1], Oct. 28, 1992, [106 Stat. 3762][/us/stat/106/3762], and was subsequently redesignated [section 12705(b)(18) of this title][/us/usc/t42/s12705/b/18] by [Pub. L. 105–276, title V, § 583(4)(A)][/us/pl/105/276/s583/4/A], Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
+    [Section 12705(b)(15) of this title][/us/usc/t42/s12705/b/15], referred to in subsec. (a)(1), was redesignated [section 12705(b)(16) of this title][/us/usc/t42/s12705/b/16] by [Pub. L. 102–550, title II][/us/pl/102/550/tII], § 220(c)(1), Oct. 28, 1992, [106 Stat. 3762][/us/stat/106/3762], and was subsequently redesignated [section 12705(b)(18) of this title][/us/usc/t42/s12705/b/18] by [Pub. L. 105–276, title V][/us/pl/105/276/tV], § 583(4)(A), Oct. 21, 1998, [112 Stat. 2644][/us/stat/112/2644].
 
     This Act, referred to in subsecs. (a)(2) and (c), is [Pub. L. 101–625][/us/pl/101/625], Nov. 28, 1990, [104 Stat. 4079][/us/stat/104/4079], known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title][/us/usc/t42/s12701] and Tables.
 
@@ -73,14 +73,14 @@
 [/us/usc/t42/s12706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12706
 [/us/usc/t42/s12705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705
 [/us/usc/t42/s12705/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705%2Fb%2F4
-[/us/pl/101/625/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2Fs108
+[/us/pl/101/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625%2FtI
 [/us/stat/104/4092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4092
 [/us/usc/t42/s12705/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705%2Fb%2F15
 [/us/usc/t42/s12705/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705%2Fb%2F16
-[/us/pl/102/550/s220/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs220%2Fc%2F1
+[/us/pl/102/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtII
 [/us/stat/106/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3762
 [/us/usc/t42/s12705/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12705%2Fb%2F18
-[/us/pl/105/276/s583/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs583%2F4%2FA
+[/us/pl/105/276/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtV
 [/us/stat/112/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2644
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079

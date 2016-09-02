@@ -27,17 +27,17 @@
 
         For the first year beginning after February 17, 2009, and annually thereafter, the Secretary of Health and Human Services shall, after consultation with stakeholders, annually issue guidance on the most effective and appropriate technical safeguards for use in carrying out the sections referred to in subsection (a) and the security standards in subpart C of part 164 of title 45, Code of Federal Regulations, including the use of standards developed under [section 300jj–12(b)(2)(B)(vi) of this title][/us/usc/t42/s300jj–12/b/2/B/vi], as added by section 13101 of this Act, as such provisions are in effect as of the date before February 17, 2009. <sup>\[2\]</sup>  <sup><sup> 2 So in original. [Section 300jj–12 of this title][/us/usc/t42/s300jj–12] was enacted on Feb. 17, 2009. </sup></sup> 
 
-([Pub. L. 111–5, div. A, title XIII, § 13401][/us/pl/111/5/s13401], Feb. 17, 2009, [123 Stat. 260][/us/stat/123/260].)
+([Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13401, Feb. 17, 2009, [123 Stat. 260][/us/stat/123/260].)
 
  __References in Text__ 
 
     This title, referred to in subsec. (a), is title XIII of div. A of [Pub. L. 111–5][/us/pl/111/5], which enacted this chapter and subchapter XXVIII (§ 300jj et seq.) of chapter 6A this title, amended sections 1320d, 1320d–5, and 1320d–6 of this title, and enacted provisions set out as a note under this section and [section 201 of this title][/us/usc/t42/s201]. For complete classification of title XIII to the Code, see Short Title of 2009 Amendment note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
-    Section 13101 of this Act, referred to in subsec. (c), means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/s13101].
+    Section 13101 of this Act, referred to in subsec. (c), means [section 13101 of div. A of Pub. L. 111–5][/us/pl/111/5/dA/s13101].
 
  __Effective Date__ 
 
-[Pub. L. 111–5, div. A, title XIII, § 13423][/us/pl/111/5/s13423], Feb. 17, 2009, [123 Stat. 276][/us/stat/123/276], provided that: 
+[Pub. L. 111–5, div. A, title XIII][/us/pl/111/5/dA/tXIII], § 13423, Feb. 17, 2009, [123 Stat. 276][/us/stat/123/276], provided that: 
 
 > “Except as otherwise specifically provided, the provisions of part I \[probably means part 1 (§§ 13401–13411) of subtitle D of title XIII of div. A of [Pub. L. 111–5][/us/pl/111/5], enacting this part and amending sections 1320d–5 and 1320d–6 of this title\] shall take effect on the date that is 12 months after the date of the enactment of this title \[Feb. 17, 2009\].”
 
@@ -50,13 +50,13 @@
 
 [/us/usc/t42/s300jj–12/b/2/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9312%2Fb%2F2%2FB%2Fvi
 [/us/usc/t42/s300jj–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300jj%E2%80%9312
-[/us/pl/111/5/s13401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13401
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F260
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/5/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13101
-[/us/pl/111/5/s13423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs13423
+[/us/pl/111/5/dA/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2Fs13101
+[/us/pl/111/5/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIII
 [/us/stat/123/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F276
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 

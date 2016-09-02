@@ -61,7 +61,7 @@
 
         A State or local agency head shall submit each nomination under subsection (a) to the Office not later than February 15 of the year following the date on which the nominee performed the act of bravery described in subsection (a).
 
-([Pub. L. 110–298, title II, § 202][/us/pl/110/298/s202], July 31, 2008, [122 Stat. 2990][/us/stat/122/2990].)
+([Pub. L. 110–298, title II][/us/pl/110/298/tII], § 202, July 31, 2008, [122 Stat. 2990][/us/stat/122/2990].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/110/298/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2Fs202
+[/us/pl/110/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F298%2FtII
 [/us/stat/122/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2990
 
 

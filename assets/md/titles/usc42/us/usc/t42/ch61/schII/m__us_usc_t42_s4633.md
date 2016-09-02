@@ -51,7 +51,7 @@
 
         The head of the lead agency may adjust, by regulation, the amounts of relocation payments provided under sections 4622(a)(4), 4622(c), 4623(a), and 4624(a) of this title if the head of the lead agency determines that cost of living, inflation, or other factors indicate that the payments should be adjusted to meet the policy objectives of this chapter.
 
-([Pub. L. 91–646, title II, § 213][/us/pl/91/646/s213], Jan. 2, 1971, [84 Stat. 1900][/us/stat/84/1900]; [Pub. L. 100–17, title IV, § 412][/us/pl/100/17/s412], Apr. 2, 1987, [101 Stat. 254][/us/stat/101/254]; [Pub. L. 102–240, title I, § 1055][/us/pl/102/240/s1055], Dec. 18, 1991, [105 Stat. 2002][/us/stat/105/2002]; [Pub. L. 105–117, § 2][/us/pl/105/117/s2], Nov. 21, 1997, [111 Stat. 2385][/us/stat/111/2385]; [Pub. L. 112–141, div. A, title I, § 1521(d)][/us/pl/112/141/s1521/d], July 6, 2012, [126 Stat. 578][/us/stat/126/578].)
+([Pub. L. 91–646, title II][/us/pl/91/646/tII], § 213, Jan. 2, 1971, [84 Stat. 1900][/us/stat/84/1900]; [Pub. L. 100–17, title IV][/us/pl/100/17/tIV], § 412, Apr. 2, 1987, [101 Stat. 254][/us/stat/101/254]; [Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1055, Dec. 18, 1991, [105 Stat. 2002][/us/stat/105/2002]; [Pub. L. 105–117][/us/pl/105/117], § 2, Nov. 21, 1997, [111 Stat. 2385][/us/stat/111/2385]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1521(d), July 6, 2012, [126 Stat. 578][/us/stat/126/578].)
 
  __References in Text__ 
 
@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    2012—Subsec. (b)(4). [Pub. L. 112–141, § 1521(d)(1)][/us/pl/112/141/s1521/d/1], added par. (4).
+    2012—Subsec. (b)(4). [Pub. L. 112–141][/us/pl/112/141], § 1521(d)(1), added par. (4).
 
-    Subsec. (d). [Pub. L. 112–141, § 1521(d)(2)][/us/pl/112/141/s1521/d/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 1521(d)(2), added subsec. (d).
 
     1997—Subsec. (a)(2) to (6). [Pub. L. 105–117][/us/pl/105/117] added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively.
 
@@ -125,21 +125,21 @@ Specifically, I hereby direct the following actions:
 [/us/usc/t42/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4605
 [/us/usc/t42/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4605
 [/us/usc/t42/s4605/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4605%2Fb%2F2%2FB
-[/us/pl/91/646/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs213
+[/us/pl/91/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2FtII
 [/us/stat/84/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1900
-[/us/pl/100/17/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs412
+[/us/pl/100/17/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtIV
 [/us/stat/101/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F254
-[/us/pl/102/240/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1055
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2002
-[/us/pl/105/117/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F117%2Fs2
+[/us/pl/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F117
 [/us/stat/111/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2385
-[/us/pl/112/141/s1521/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fd
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F578
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/112/141/s1521/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fd%2F1
-[/us/pl/112/141/s1521/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1521%2Fd%2F2
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F117
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17

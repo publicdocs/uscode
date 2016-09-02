@@ -23,7 +23,7 @@
 
     (3) “Secretary” means the Secretary of Energy.
 
-([Pub. L. 96–310, § 9][/us/pl/96/310/s9], July 17, 1980, [94 Stat. 946][/us/stat/94/946].)
+([Pub. L. 96–310][/us/pl/96/310], § 9, July 17, 1980, [94 Stat. 946][/us/stat/94/946].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/310/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310%2Fs9
+[/us/pl/96/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F310
 [/us/stat/94/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F946
 
 

@@ -17,7 +17,7 @@
 
     Not later than the close of the 4th calendar year after the year in which the Secretary of Housing and Urban Development first designates areas as enterprise zones pursuant to the amendments made by section 834 of the Housing and Community Development Act of 1992, and at the close of each 4th calendar year thereafter, the Secretary shall prepare and submit to the Congress a report on the effects of such designation in accomplishing the purposes of this chapter.
 
-([Pub. L. 100–242, title VII, § 702][/us/pl/100/242/s702], Feb. 5, 1988, [101 Stat. 1961][/us/stat/101/1961]; [Pub. L. 102–550, title VIII, § 834(b)][/us/pl/102/550/s834/b], Oct. 28, 1992, [106 Stat. 3855][/us/stat/106/3855].)
+([Pub. L. 100–242, title VII][/us/pl/100/242/tVII], § 702, Feb. 5, 1988, [101 Stat. 1961][/us/stat/101/1961]; [Pub. L. 102–550, title VIII][/us/pl/102/550/tVIII], § 834(b), Oct. 28, 1992, [106 Stat. 3855][/us/stat/106/3855].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/100/242/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs702
+[/us/pl/100/242/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2FtVII
 [/us/stat/101/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1961
-[/us/pl/102/550/s834/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs834%2Fb
+[/us/pl/102/550/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtVIII
 [/us/stat/106/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3855
 [/us/pl/102/550/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs834
 [/us/usc/t42/s11501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11501

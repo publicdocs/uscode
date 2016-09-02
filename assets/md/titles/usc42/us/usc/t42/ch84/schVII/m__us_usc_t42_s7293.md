@@ -17,7 +17,7 @@
 
     Except as otherwise provided in this chapter, whenever all of the functions vested by law in any agency, commission, or other body, or any component thereof, have been terminated or transferred from that agency, commission, or other body, or component by this chapter, the agency, commission, or other body, or component, shall terminate. If an agency, commission, or other body, or any component thereof, terminates pursuant to the preceding sentence, each position and office therein which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rates prescribed for an office or position at level II, III, IV, or V of the Executive Schedule ([5 U.S.C. 5313–531][/us/usc/t5/s5313–531]6), shall terminate.
 
-([Pub. L. 95–91, title VII, § 703][/us/pl/95/91/s703], Aug. 4, 1977, [91 Stat. 606][/us/stat/91/606].)
+([Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 703, Aug. 4, 1977, [91 Stat. 606][/us/stat/91/606].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t5/s5313–531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313%E2%80%93531
-[/us/pl/95/91/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs703
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F606
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

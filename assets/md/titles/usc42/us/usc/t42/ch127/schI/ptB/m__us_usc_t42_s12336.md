@@ -77,7 +77,7 @@
 
         The Commissioner may approve a State plan in which the chief executive officer of the State designates as the independent State body an existing State entity that is comprised of the parties described in subsection (a) of this section and that is authorized to conduct the same range of interagency planning and coordination activities.
 
-([Pub. L. 101–501, title IX, § 930][/us/pl/101/501/s930], Nov. 3, 1990, [104 Stat. 1270][/us/stat/104/1270].)
+([Pub. L. 101–501, title IX][/us/pl/101/501/tIX], § 930, Nov. 3, 1990, [104 Stat. 1270][/us/stat/104/1270].)
 
 ----------
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t42/s12337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12337
-[/us/pl/101/501/s930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs930
+[/us/pl/101/501/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2FtIX
 [/us/stat/104/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1270
 
 
