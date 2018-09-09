@@ -4,7 +4,7 @@ Visualizing the changes to the US Code, as Git revision history.
 
 Contents and formatting may be inaccurate or out-of-date, and this project is not intended for official use.
 
-Use of this project is subject to the [Notice](#notice) below.
+Use of this project is subject to the [NOTICE](https://publicdocs.github.io/notice/NOTICE.txt).
 
 You can find the various US Code titles in the [assets/md/titles](assets/md/titles) directory.  Find out how to use this resource at [https://github.com/publicdocs/uscode-guide](https://github.com/publicdocs/uscode-guide).
 
@@ -103,4 +103,4 @@ In reverse chronological order:
 
 ## Notice
 
-See the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+See the [NOTICE](https://publicdocs.github.io/notice/NOTICE.txt)
